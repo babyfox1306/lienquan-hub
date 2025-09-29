@@ -19,7 +19,8 @@ def video_id_from_link(link):
 
 
 def fetch():
-    with open(FEEDS_PATH, 'r', encoding='utf8') as f:
+    # Read feeds.json with utf-8-sig to handle BOM if present
+    with open(FEEDS_PATH, 'r', encoding='utf-8-sig') as f:
         feeds = json.load(f)
 
     videos = feeds.get('manual_videos', []).copy()
@@ -40,11 +41,17 @@ def fetch():
             if not vid:
                 continue
             title = entry.title
+            # Try to fix mojibake (UTF-8 read as Latin-1 then re-encoded)
+            try:
+                if any(bad in title for bad in ('Ã', 'â', '€', '™', 'œ')):
+                    title = title.encode('latin1', errors='ignore').decode('utf-8', errors='ignore')
+            except Exception:
+                pass
             item = {"videoId": vid, "title": title, "source": "youtube"}
             if not any(v['videoId'] == vid for v in videos):
                 videos.append(item)
 
-    with open(OUT_PATH, 'w', encoding='utf8') as f:
+    with open(OUT_PATH, 'w', encoding='utf8', newline='') as f:
         json.dump({"videos": videos}, f, ensure_ascii=False, indent=2)
     print('Saved', OUT_PATH)
 

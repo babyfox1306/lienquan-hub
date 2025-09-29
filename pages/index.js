@@ -11,7 +11,13 @@ export async function getStaticProps() {
   let videos = [];
   if (fs.existsSync(videosJsonPath)) {
     const raw = fs.readFileSync(videosJsonPath, 'utf8');
-    const j = JSON.parse(raw);
+    const sanitized = raw.replace(/^\uFEFF/, '');
+    let j = {};
+    try {
+      j = JSON.parse(sanitized);
+    } catch (_) {
+      j = { videos: [] };
+    }
     videos = j.videos || [];
   } else {
     const raw = fs.readFileSync(feedsPath, 'utf8');
