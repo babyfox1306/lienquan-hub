@@ -16,6 +16,10 @@ export async function getServerSideProps(ctx) {
       all = data.videos || [];
     } catch (_) {}
   }
+  // Sort newest first if publishedAt exists
+  if (all.length && all[0]?.publishedAt) {
+    all.sort((a, b) => (b.publishedAt || '').localeCompare(a.publishedAt || ''));
+  }
   const latestId = all[0]?.videoId || null;
   // If no id provided or id not found, redirect to latest video when available
   if (!id || (all.length && !all.find(v => v.videoId === id))) {
@@ -38,14 +42,17 @@ export async function getServerSideProps(ctx) {
     name: title,
     description: oembed?.description || "Video Liên Quân Mobile",
     thumbnailUrl: `https://i.ytimg.com/vi/${id}/hqdefault.jpg`,
-    uploadDate: new Date().toISOString(),
+    uploadDate: (all.find(v => v.videoId === id)?.publishedAt) || new Date().toISOString(),
     contentUrl: videoUrl,
     embedUrl: `https://www.youtube.com/embed/${id}`
   };
   // Build recommendations from the loaded list
   let recommended = [];
   if (all.length) {
-    recommended = all.filter(v => v.videoId !== id).slice(0, 12);
+    recommended = all
+      .filter(v => v.videoId !== id)
+      .sort((a, b) => (b.publishedAt || '').localeCompare(a.publishedAt || ''))
+      .slice(0, 12);
   }
   return { props: { id, title, schema, author: oembed?.author_name || 'YouTube', recommended } };
 }

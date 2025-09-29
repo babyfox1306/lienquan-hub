@@ -1,4 +1,4 @@
-import feedparser, json, re, os
+import feedparser, json, re, os, time
 try:
     from ftfy import fix_text  # Robustly fixes mojibake
 except Exception:
@@ -58,7 +58,16 @@ def fetch():
                             pass
             except Exception:
                 pass
-            item = {"videoId": vid, "title": title, "source": "youtube"}
+            # Try to extract publish date in ISO8601
+            published_iso = None
+            try:
+                if getattr(entry, 'published_parsed', None):
+                    published_iso = time.strftime('%Y-%m-%dT%H:%M:%SZ', entry.published_parsed)
+                elif getattr(entry, 'updated_parsed', None):
+                    published_iso = time.strftime('%Y-%m-%dT%H:%M:%SZ', entry.updated_parsed)
+            except Exception:
+                published_iso = None
+            item = {"videoId": vid, "title": title, "source": "youtube", "publishedAt": published_iso}
             if not any(v['videoId'] == vid for v in videos):
                 videos.append(item)
 
