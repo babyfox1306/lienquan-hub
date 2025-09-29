@@ -1,0 +1,6 @@
+Contact: mailto:security@lienquanhub.xyz
+Contact: https://github.com/babyfox1306/lienquan-hub/issues
+Policy: https://www.lienquanhub.xyz/
+Preferred-Languages: vi, en
+Canonical: https://www.lienquanhub.xyz/.well-known/security.txt
+

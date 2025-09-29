@@ -1,5 +1,8 @@
 User-agent: *
 Allow: /
-Sitemap: https://lienquan-hub.vercel.app/sitemap.xml
+Disallow: /api/
+Crawl-delay: 10
+Sitemap: https://www.lienquanhub.xyz/sitemap.xml
+Host: www.lienquanhub.xyz
 
 

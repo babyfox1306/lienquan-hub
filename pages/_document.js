@@ -17,6 +17,8 @@ export default function Document() {
         <meta property="og:type" content="website" />
         <meta property="og:image" content="/logo.png" />
         <link rel="icon" href="/favicon.ico" />
+        <link rel="manifest" href="/site.webmanifest" />
+        <meta name="theme-color" content="#0b1020" />
       </Head>
       <body className="bg-base-200">
         <Main />
