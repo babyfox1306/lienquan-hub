@@ -1,37 +1,105 @@
-﻿{
-    "channels":  [
-                     {
-                         "name":  "LiÃªn QuÃ¢n Mobile eSports-Garena",
-                         "type":  "channel",
-                         "id":  "UCpnQwjzvDm1MOMtZV2zkVpA"
-                     },
-                     {
-                         "name":  "Arena of Valor",
-                         "type":  "channel",
-                         "id":  "UCgYkGvtBuY4onYm2Eh61zwQ"
-                     },
-                     {
-                         "name":  "LiÃªn QuÃ¢n - Chá»§ Ä‘á»",
-                         "type":  "channel",
-                         "id":  "UCDk4tfW1Iku9-0S7L5cZP4A"
-                     },
-                     {
-                         "name":  "Garena AOV Indonesia",
-                         "type":  "channel",
-                         "id":  "UCBVBGNrag1o-V08vwYzoIwg"
-                     },
-                     {
-                         "name":  "AOV Global Collection",
-                         "type":  "channel",
-                         "id":  "UC9IMa50eipvZXSjynFJrc0w"
-                     },
-                     {
-                         "name":  "Highlight LiÃªn QuÃ¢n AOV",
-                         "type":  "channel",
-                         "id":  "UC6dQDhRxU57lY7bx62NcC7A"
-                     }
-                 ],
-    "manual_videos":  [
-
-                      ]
+{
+  "channels": [
+    {
+      "id": "UCpnQwjzvDm1MOMtZV2zkVpA",
+      "name": "Liên Quân Mobile eSports-Garena",
+      "type": "channel"
+    },
+    {
+      "id": "UCpd1Gf-SZjc_5ce5vVq5FTg",
+      "name": "Mobile MOBA Việt",
+      "type": "channel"
+    },
+    {
+      "id": "UCy19QXxbCHh8qVVCbuGk-ig",
+      "name": "Garena RoV Thailand",
+      "type": "channel"
+    },
+    {
+      "id": "UCykFSnImGNa-5DABblw7K-w",
+      "name": "Gcaothu CHANNEL",
+      "type": "channel"
+    },
+    {
+      "id": "UCAml1Hqu4LW36B3yEtQg8Fw",
+      "name": "FUNNY GAMING TV",
+      "type": "channel"
+    },
+    {
+      "id": "UC3QLI0FHwACCaa91Xdpam2A",
+      "name": "Trải Nghiệm Game",
+      "type": "channel"
+    },
+    {
+      "id": "UCIzzawIg4eCPgZggwFzEQbQ",
+      "name": "Garena Liên Quân Mobile",
+      "type": "channel"
+    },
+    {
+      "id": "UCFgdNlUefoIqZm_IQssJkHw",
+      "name": "ĐỆ TỨ Liên Quân Mobile",
+      "type": "channel"
+    },
+    {
+      "id": "UCeMjhoCCvujpObnt6yeZeNg",
+      "name": "Garena 傳說對決",
+      "type": "channel"
+    },
+    {
+      "id": "UC55ad8jzcIWCMU-o2CXMEAw",
+      "name": "Thầy Giáo Liên Quân",
+      "type": "channel"
+    },
+    {
+      "id": "UCyqjmx1kcZknycssiIhFQKw",
+      "name": "VuxGaming",
+      "type": "channel"
+    },
+    {
+      "id": "UCH0k4wQg5_QfL2hHavyL-xA",
+      "name": "Tran Binh",
+      "type": "channel"
+    },
+    {
+      "id": "UC1ysb__ddApp3PlDva5NAVw",
+      "name": "Top 1 Liliana",
+      "type": "channel"
+    },
+    {
+      "id": "UCL_X1VBEYADQHmEIsmRHpGg",
+      "name": "Khánh Hy",
+      "type": "channel"
+    },
+    {
+      "id": "UCMHSTFMGp-k4Z0kG-CfMSWg",
+      "name": "HTT GAMER LIÊN QUÂN MOBILE",
+      "type": "channel"
+    },
+    {
+      "id": "UCbRugPHs-2i48MbID-AnEVQ",
+      "name": "Htt Gamer Liên Quân TV",
+      "type": "channel"
+    },
+    {
+      "id": "UCI6Ml9gti-vkLVFi49LNkpg",
+      "name": "Tuhzu Mobile",
+      "type": "channel"
+    },
+    {
+      "id": "UCWXXFvwmcOHxEk6IlhW1BhA",
+      "name": "Phuc Ram",
+      "type": "channel"
+    },
+    {
+      "id": "UCdRY5czHAF_Ms15oJpfUM7A",
+      "name": "Yue Bán Fans",
+      "type": "channel"
+    },
+    {
+      "id": "UCgbMglNu16CgtxKRg3LrpjQ",
+      "name": "CBNN Liên Quân Mobile",
+      "type": "channel"
+    }
+  ],
+  "manual_videos": []
 }

@@ -1,4 +1,8 @@
 import feedparser, json, re, os
+try:
+    from ftfy import fix_text  # Robustly fixes mojibake
+except Exception:
+    fix_text = None
 from urllib.parse import urlparse, parse_qs
 
 ROOT = os.path.join(os.path.dirname(__file__), '..')
@@ -41,10 +45,17 @@ def fetch():
             if not vid:
                 continue
             title = entry.title
-            # Try to fix mojibake (UTF-8 read as Latin-1 then re-encoded)
+            # Normalize/fix potential mojibake from various mis-decodings
             try:
-                if any(bad in title for bad in ('Ã', 'â', '€', '™', 'œ')):
-                    title = title.encode('latin1', errors='ignore').decode('utf-8', errors='ignore')
+                if fix_text:
+                    title = fix_text(title)
+                else:
+                    # Fallback heuristics
+                    if any(bad in title for bad in ('Ã', 'â', '€', '™', 'œ', 'áº', 'á»', 'Â')):
+                        try:
+                            title = title.encode('latin1', errors='ignore').decode('utf-8', errors='ignore')
+                        except Exception:
+                            pass
             except Exception:
                 pass
             item = {"videoId": vid, "title": title, "source": "youtube"}
