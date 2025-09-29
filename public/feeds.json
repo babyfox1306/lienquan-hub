@@ -66,6 +66,16 @@
       "type": "channel"
     },
     {
+      "id": "UCpQ52533EsOa5k-dQSmD1jw",
+      "name": "Ha Le Quyen",
+      "type": "channel"
+    },
+    {
+      "id": "UCLmVT2XmCej720HFtG7mwSQ",
+      "name": "NTD LQ",
+      "type": "channel"
+    },
+    {
       "id": "UCL_X1VBEYADQHmEIsmRHpGg",
       "name": "Khánh Hy",
       "type": "channel"
@@ -88,16 +98,6 @@
     {
       "id": "UCWXXFvwmcOHxEk6IlhW1BhA",
       "name": "Phuc Ram",
-      "type": "channel"
-    },
-    {
-      "id": "UCdRY5czHAF_Ms15oJpfUM7A",
-      "name": "Yue Bán Fans",
-      "type": "channel"
-    },
-    {
-      "id": "UCgbMglNu16CgtxKRg3LrpjQ",
-      "name": "CBNN Liên Quân Mobile",
       "type": "channel"
     }
   ],
