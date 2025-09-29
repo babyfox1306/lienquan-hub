@@ -6,8 +6,24 @@ import VideoCard from '../../components/VideoCard';
 
 export async function getServerSideProps(ctx) {
   const { id } = ctx.params || {};
-  if (!id) {
-    return { notFound: true };
+  // Load videos list once to determine latest and recommendations
+  const publicDir = path.join(process.cwd(), 'public');
+  const videosPath = path.join(publicDir, 'videos.json');
+  let all = [];
+  if (fs.existsSync(videosPath)) {
+    try {
+      const data = JSON.parse(fs.readFileSync(videosPath, 'utf8'));
+      all = data.videos || [];
+    } catch (_) {}
+  }
+  const latestId = all[0]?.videoId || null;
+  // If no id provided or id not found, redirect to latest video when available
+  if (!id || (all.length && !all.find(v => v.videoId === id))) {
+    if (latestId) {
+      return {
+        redirect: { destination: `/watch/${latestId}`, permanent: false }
+      };
+    }
   }
   const videoUrl = `https://www.youtube.com/watch?v=${id}`;
   let oembed = null;
@@ -26,16 +42,10 @@ export async function getServerSideProps(ctx) {
     contentUrl: videoUrl,
     embedUrl: videoUrl
   };
-  // Load recommendations from public/videos.json
-  const publicDir = path.join(process.cwd(), 'public');
-  const videosPath = path.join(publicDir, 'videos.json');
+  // Build recommendations from the loaded list
   let recommended = [];
-  if (fs.existsSync(videosPath)) {
-    try {
-      const data = JSON.parse(fs.readFileSync(videosPath, 'utf8'));
-      const all = data.videos || [];
-      recommended = all.filter(v => v.videoId !== id).slice(0, 12);
-    } catch (_) {}
+  if (all.length) {
+    recommended = all.filter(v => v.videoId !== id).slice(0, 12);
   }
   return { props: { id, title, schema, author: oembed?.author_name || 'YouTube', recommended } };
 }
@@ -54,7 +64,10 @@ export default function Watch({ id, title, schema, author, recommended }) {
       </Head>
       <div className="max-w-6xl mx-auto grid grid-cols-1 lg:grid-cols-3 gap-6">
         <div className="lg:col-span-2">
-          <h1 className="text-xl font-bold mb-1">{title}</h1>
+          <div className="flex items-center justify-between mb-1">
+            <h1 className="text-xl font-bold">{title}</h1>
+            <a className="btn btn-sm" href="/">Home</a>
+          </div>
           <p className="text-sm text-gray-500 mb-4">Nguồn: {author}</p>
           <div className="bg-base-100 rounded shadow p-4">
             <LiteYoutube key={id} videoId={id} title={`Liên Quân — ${id}`} />
@@ -74,7 +87,7 @@ export default function Watch({ id, title, schema, author, recommended }) {
               <h2 className="text-lg font-semibold mb-3">Có thể bạn thích</h2>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-6">
                 {recommended.slice(0,6).map(v => (
-                  <VideoCard key={v.videoId} videoId={v.videoId} title={v.title} />
+                  <VideoCard key={v.videoId} video={v} />
                 ))}
               </div>
             </div>
