@@ -9,24 +9,24 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Set up Node
-        uses: actions/setup-node@v4
-        with:
-          node-version: '18'
-      - name: Install Node deps
-        run: npm ci || npm install
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.10'
       - name: Install deps
         run: pip install feedparser
-      - name: Discover top channels (20) via Node
-        run: node crawler/discover_channels.js 20
+      - name: Discover top channels (20) via YouTube API
+        if: ${{ secrets.YT_API_KEY != '' }}
+        env:
+          YT_API_KEY: ${{ secrets.YT_API_KEY }}
+        run: python crawler/discover_channels.py 20
       - name: Run crawler
         run: python crawler/youtube_rss_fetcher.py
       - name: Generate sitemap
-        run: npm run sitemap
+        run: |
+          node --version
+          npm --version
+          npm run sitemap
       - name: Commit changes
         run: |
           git config user.name "github-actions[bot]"
