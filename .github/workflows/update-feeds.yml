@@ -19,6 +19,10 @@ jobs:
       YT_API_KEY: ${{ secrets.YT_API_KEY }}
     steps:
       - uses: actions/checkout@v4
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
@@ -34,6 +38,7 @@ jobs:
         run: |
           node --version
           npm --version
+          npm ci || npm install
           npm run sitemap
       - name: Commit changes
         run: |
