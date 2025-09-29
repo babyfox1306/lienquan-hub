@@ -30,7 +30,7 @@ export async function getStaticProps() {
 }
 
 export default function Home({ videos }) {
-  const canonical = 'https://lienquan-hub.vercel.app/';
+  const canonical = 'https://www.lienquanhub.xyz/';
   const itemList = {
     '@context': 'https://schema.org',
     '@type': 'ItemList',

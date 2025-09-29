@@ -4,6 +4,7 @@ export default function Document() {
   return (
     <Html lang="vi">
       <Head>
+        <meta charSet="utf-8" />
         <meta
           name="description"
           content="Liên Quân Hub - Tổng hợp video highlight, hướng dẫn, giải đấu Liên Quân Mobile mới nhất"
