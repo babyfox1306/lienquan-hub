@@ -1,0 +1,14 @@
+@import url('https://cdn.jsdelivr.net/gh/paulirish/lite-youtube-embed/src/lite-yt-embed.css');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html, body, #__next {
+  height: 100%;
+}
+
+body {
+  background-color: #f9fafb; /* tailwind gray-50 */
+}
+
+
