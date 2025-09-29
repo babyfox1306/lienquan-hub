@@ -1,6 +1,7 @@
 import fs from 'fs';
 import path from 'path';
 import NavBar from '../components/NavBar';
+import Head from 'next/head';
 import VideoCard from '../components/VideoCard';
 
 export async function getStaticProps() {
@@ -29,8 +30,24 @@ export async function getStaticProps() {
 }
 
 export default function Home({ videos }) {
+  const canonical = 'https://lienquan-hub.vercel.app/';
+  const itemList = {
+    '@context': 'https://schema.org',
+    '@type': 'ItemList',
+    itemListElement: (videos || []).slice(0, 10).map((v, i) => ({
+      '@type': 'ListItem',
+      position: i + 1,
+      url: `https://lienquan-hub.vercel.app/watch/${v.videoId}`
+    }))
+  };
   return (
     <div className="min-h-screen bg-base-200">
+      <Head>
+        <link rel="canonical" href={canonical} />
+        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(itemList) }} />
+        <link rel="preconnect" href="https://i.ytimg.com" />
+        <link rel="preconnect" href="https://www.youtube.com" />
+      </Head>
       <NavBar />
       <main className="p-6">
         <section className="max-w-6xl mx-auto mb-8">
