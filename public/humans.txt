@@ -1,5 +1,5 @@
 /* TEAM */
-Developer: babyfox1306 + assistant
+Developer: babyfox1306 
 Site: https://www.lienquanhub.xyz/
 Stack: Next.js 14, React 18, TailwindCSS, daisyUI, Vercel
 Contact: https://github.com/babyfox1306/lienquan-hub
