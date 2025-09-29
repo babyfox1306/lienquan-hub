@@ -3,6 +3,12 @@ on:
   schedule:
     - cron: '*/15 * * * *'
   workflow_dispatch:
+  push:
+    branches: [ main ]
+    paths-ignore:
+      - 'public/videos.json'
+      - 'public/feeds.json'
+      - 'public/sitemap.xml'
 
 jobs:
   update:
