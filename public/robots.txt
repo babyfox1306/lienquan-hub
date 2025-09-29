@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Sitemap: https://lienquan-hub.vercel.app/sitemap.xml
+
+

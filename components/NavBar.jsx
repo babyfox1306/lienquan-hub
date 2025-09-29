@@ -20,9 +20,23 @@ export default function NavBar() {
         <Link href="/" className="btn btn-ghost normal-case text-xl">Liên Quân Hub</Link>
       </div>
       <div className="flex-none gap-2">
-        <button className="btn btn-sm" onClick={toggleTheme}>
-          {theme === 'light' ? 'Dark' : 'Light'}
-        </button>
+        <select
+          className="select select-sm select-bordered"
+          value={theme}
+          onChange={(e) => {
+            const val = e.target.value;
+            setTheme(val);
+            document.documentElement.setAttribute('data-theme', val);
+            localStorage.setItem('theme', val);
+          }}
+        >
+          <option value="lqhub">LQ Hub</option>
+          <option value="light">Light</option>
+          <option value="dark">Dark</option>
+          <option value="retro">Retro</option>
+          <option value="dracula">Dracula</option>
+        </select>
+        <button className="btn btn-sm" onClick={toggleTheme}>{theme === 'light' ? 'Dark' : 'Light'}</button>
       </div>
     </div>
   );

@@ -33,11 +33,34 @@ export default function Home({ videos }) {
     <div className="min-h-screen bg-base-200">
       <NavBar />
       <main className="p-6">
+        <section className="max-w-6xl mx-auto mb-8">
+          <div className="hero bg-base-100 rounded-xl shadow">
+            <div className="hero-content text-center">
+              <div>
+                <h1 className="text-3xl font-bold">Liên Quân Hub</h1>
+                <p className="py-2 text-base-content/70">Tổng hợp highlight, guide, news — cập nhật tự động từ YouTube/RSS</p>
+                <div className="join w-full max-w-xl">
+                  <input className="input input-bordered join-item w-full" placeholder="Tìm video..." onChange={() => {}} />
+                  <button className="btn btn-primary join-item">Search</button>
+                </div>
+                <div className="tabs tabs-boxed mt-4 inline-grid grid-flow-col auto-cols-max">
+                  <a className="tab tab-active">All</a>
+                  <a className="tab">Highlight</a>
+                  <a className="tab">Guide</a>
+                  <a className="tab">News</a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
         <section className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6">
-          {videos.map((v) => (
-            <VideoCard key={v.videoId} videoId={v.videoId} title={v.title} />
+          {videos.map((v, idx) => (
+            <VideoCard key={v.videoId} videoId={v.videoId} title={v.title} priority={idx === 0} />
           ))}
         </section>
+        <footer className="mt-10 py-6 text-center text-sm text-base-content/60">
+          © {new Date().getFullYear()} Liên Quân Hub — nguồn: YouTube
+        </footer>
       </main>
     </div>
   );
