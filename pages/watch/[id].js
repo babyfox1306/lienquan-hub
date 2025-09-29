@@ -36,11 +36,11 @@ export async function getServerSideProps(ctx) {
     "@context": "https://schema.org",
     "@type": "VideoObject",
     name: title,
-    description: "Highlight Liên Quân — tổng hợp highlight & guide",
+    description: oembed?.description || "Video Liên Quân Mobile",
     thumbnailUrl: `https://i.ytimg.com/vi/${id}/hqdefault.jpg`,
     uploadDate: new Date().toISOString(),
     contentUrl: videoUrl,
-    embedUrl: videoUrl
+    embedUrl: `https://www.youtube.com/embed/${id}`
   };
   // Build recommendations from the loaded list
   let recommended = [];
