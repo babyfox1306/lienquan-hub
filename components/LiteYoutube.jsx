@@ -20,8 +20,13 @@ export default function LiteYoutube({ videoId, title }) {
   }, []);
 
   return (
-    <div style={{ width: '100%', maxWidth: '100%' }}>
-      <lite-youtube videoid={videoId} title={title} style={{ width: '100%' }}></lite-youtube>
+    <div className="w-full h-full">
+      <lite-youtube 
+        videoid={videoId} 
+        title={title} 
+        style={{ width: '100%', height: '100%' }}
+        params="rel=0&modestbranding=1&showinfo=0"
+      />
     </div>
   );
 }
