@@ -255,7 +255,7 @@ def search_channels_via_api(keywords: List[str], limit: int, api_key: str) -> Li
 
 def update_feeds_json(found_channels: List[Dict[str, str]]):
     if os.path.exists(FEEDS_PATH):
-        with open(FEEDS_PATH, 'r', encoding='utf-8') as f:
+        with open(FEEDS_PATH, 'r', encoding='utf-8-sig') as f:
             feeds = json.load(f)
     else:
         feeds = {"channels": [], "manual_videos": []}
