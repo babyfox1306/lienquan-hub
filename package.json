@@ -12,11 +12,10 @@
     "next": "14.0.0",
     "node-fetch": "2.6.12",
     "react": "18.2.0",
-    "react-dom": "18.2.0",
-    "ytsr": "3.8.4"
+    "react-dom": "18.2.0"
   },
   "devDependencies": {
-    "@tailwindcss/line-clamp": "^0.4.4",
+    
     "autoprefixer": "10.4.19",
     "daisyui": "4.12.10",
     "postcss": "8.4.38",
