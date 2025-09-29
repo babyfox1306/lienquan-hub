@@ -7,6 +7,8 @@ on:
 jobs:
   update:
     runs-on: ubuntu-latest
+    env:
+      YT_API_KEY: ${{ secrets.YT_API_KEY }}
     steps:
       - uses: actions/checkout@v4
       - name: Set up Python
@@ -16,9 +18,7 @@ jobs:
       - name: Install deps
         run: pip install feedparser
       - name: Discover top channels (20) via YouTube API
-        if: ${{ secrets.YT_API_KEY != '' }}
-        env:
-          YT_API_KEY: ${{ secrets.YT_API_KEY }}
+        if: ${{ env.YT_API_KEY != '' }}
         run: python crawler/discover_channels.py 20
       - name: Run crawler
         run: python crawler/youtube_rss_fetcher.py
