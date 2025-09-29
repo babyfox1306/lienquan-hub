@@ -58,6 +58,19 @@ def fetch():
                             pass
             except Exception:
                 pass
+            
+            # Filter out non-gaming content
+            title_lower = title.lower()
+            exclude_keywords = [
+                'vật cổ truyền', 'hội làng', 'hội xuân', 'đô long', 'bắc ninh',
+                'cooking', 'nấu ăn', 'ẩm thực', 'du lịch', 'travel', 'vlog',
+                'âm nhạc', 'music', 'ca nhạc', 'karaoke', 'nhạc', 'bài hát',
+                'thể thao', 'sport', 'bóng đá', 'football', 'bóng chuyền',
+                'phim', 'movie', 'cinema', 'drama', 'truyện', 'story'
+            ]
+            if any(keyword in title_lower for keyword in exclude_keywords):
+                print(f'Skipping non-gaming video: {title}')
+                continue
             # Try to extract publish date in ISO8601
             published_iso = None
             try:
