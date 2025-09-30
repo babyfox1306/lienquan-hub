@@ -42,11 +42,15 @@ export default function News({ news }) {
   ];
 
   const filteredNews = news.filter(item => {
+    // Only show real news (not sample data with example.com links)
+    const isRealNews = !item.link.includes('example.com');
+    
     const matchesCategory = selectedCategory === 'all' || item.category === selectedCategory;
     const matchesSearch = searchTerm === '' || 
       item.title.toLowerCase().includes(searchTerm.toLowerCase()) ||
-      item.description.toLowerCase().includes(searchTerm.toLowerCase());
-    return matchesCategory && matchesSearch;
+      (item.description && item.description.toLowerCase().includes(searchTerm.toLowerCase()));
+    
+    return isRealNews && matchesCategory && matchesSearch;
   });
 
   const formatDate = (dateString) => {
@@ -145,12 +149,12 @@ export default function News({ news }) {
                         </h2>
 
                         <p className="text-base-content/70 text-sm line-clamp-3">
-                          {item.description}
+                          {item.summary ? item.summary.replace(/<[^>]*>/g, '').substring(0, 150) + '...' : 'Không có mô tả'}
                         </p>
 
                         <div className="card-actions justify-between items-center mt-4">
                           <div className="text-xs text-base-content/50">
-                            {formatDate(item.publishedAt)}
+                            {formatDate(item.published_at)}
                           </div>
                           <a
                             href={item.link}
