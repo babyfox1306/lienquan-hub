@@ -12,11 +12,18 @@ const DualAd = ({
   monetagSlot, 
   adFormat = 'auto', 
   className = '',
-  fallbackToMonetag = false // Disabled Monetag fallback
+  fallbackToMonetag = false, // Disabled Monetag fallback
+  showPlaceholder = false // Don't show placeholder by default
 }) => {
   const [showAdSense, setShowAdSense] = useState(true);
+  const [adLoaded, setAdLoaded] = useState(false);
 
   useEffect(() => {
+    // Check if AdSense is available
+    if (typeof window !== 'undefined' && window.adsbygoogle) {
+      setAdLoaded(true);
+    }
+    
     // No fallback to Monetag - AdSense only
     if (fallbackToMonetag) {
       const timer = setTimeout(() => {
@@ -27,6 +34,11 @@ const DualAd = ({
     }
   }, [fallbackToMonetag]);
 
+  // Don't render anything if no ads and no placeholder
+  if (!adsenseSlot && !showPlaceholder) {
+    return null;
+  }
+
   return (
     <div className={`ad-container ${className}`}>
       {showAdSense && adsenseSlot ? (
@@ -35,61 +47,57 @@ const DualAd = ({
           adFormat={adFormat}
           className="w-full"
         />
-      ) : (
+      ) : showPlaceholder ? (
         <div className="w-full h-32 bg-gradient-to-r from-gray-400 to-gray-600 rounded-lg flex items-center justify-center text-white font-bold">
           Ad Space Available
         </div>
-      )}
+      ) : null}
     </div>
   );
 };
 
-// Banner Ad - AdSense only
+// Banner Ad - AdSense only, no placeholder
 export const BannerAd = ({ className = '' }) => (
-  <div className={`banner-ad ${className}`}>
-    <DualAd 
-      adsenseSlot={dualAdConfig.adsense.adUnits.banner.slot}
-      adFormat="auto"
-      className="w-full h-24"
-      fallbackToMonetag={false}
-    />
-  </div>
+  <DualAd 
+    adsenseSlot={dualAdConfig.adsense.adUnits.banner.slot}
+    adFormat="auto"
+    className={`banner-ad ${className}`}
+    fallbackToMonetag={false}
+    showPlaceholder={false}
+  />
 );
 
-// Sidebar Ad - AdSense only
+// Sidebar Ad - AdSense only, no placeholder
 export const SidebarAd = ({ className = '' }) => (
-  <div className={`sidebar-ad ${className}`}>
-    <DualAd 
-      adsenseSlot={dualAdConfig.adsense.adUnits.sidebar.slot}
-      adFormat="auto"
-      className="w-full h-64"
-      fallbackToMonetag={false}
-    />
-  </div>
+  <DualAd 
+    adsenseSlot={dualAdConfig.adsense.adUnits.sidebar.slot}
+    adFormat="auto"
+    className={`sidebar-ad ${className}`}
+    fallbackToMonetag={false}
+    showPlaceholder={false}
+  />
 );
 
-// In-Content Ad - AdSense only
+// In-Content Ad - AdSense only, no placeholder
 export const InContentAd = ({ className = '' }) => (
-  <div className={`in-content-ad ${className} my-6`}>
-    <DualAd 
-      adsenseSlot={dualAdConfig.adsense.adUnits.inContent.slot}
-      adFormat="fluid"
-      className="w-full h-40"
-      fallbackToMonetag={false}
-    />
-  </div>
+  <DualAd 
+    adsenseSlot={dualAdConfig.adsense.adUnits.inContent.slot}
+    adFormat="fluid"
+    className={`in-content-ad ${className} my-6`}
+    fallbackToMonetag={false}
+    showPlaceholder={false}
+  />
 );
 
-// Mobile Ad - AdSense only
+// Mobile Ad - AdSense only, no placeholder
 export const MobileAd = ({ className = '' }) => (
-  <div className={`mobile-ad ${className} md:hidden`}>
-    <DualAd 
-      adsenseSlot={dualAdConfig.adsense.adUnits.mobile.slot}
-      adFormat="auto"
-      className="w-full h-24"
-      fallbackToMonetag={false}
-    />
-  </div>
+  <DualAd 
+    adsenseSlot={dualAdConfig.adsense.adUnits.mobile.slot}
+    adFormat="auto"
+    className={`mobile-ad ${className} md:hidden`}
+    fallbackToMonetag={false}
+    showPlaceholder={false}
+  />
 );
 
 // Video Ad Placeholder - Dual system
