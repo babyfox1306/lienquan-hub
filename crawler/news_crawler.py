@@ -75,8 +75,13 @@ class NewsCrawler:
                 
                 # Check if news is recent (within last 7 days)
                 if published_iso:
-                    pub_date = datetime.fromisoformat(published_iso.replace('Z', '+00:00'))
-                    if pub_date < datetime.now() - timedelta(days=7):
+                    try:
+                        pub_date = datetime.fromisoformat(published_iso.replace('Z', '+00:00'))
+                        now = datetime.now(pub_date.tzinfo) if pub_date.tzinfo else datetime.now()
+                        if pub_date < now - timedelta(days=7):
+                            continue
+                    except Exception as e:
+                        print(f"Date parsing error: {e}")
                         continue
                 
                 # Filter Liên Quân related content
