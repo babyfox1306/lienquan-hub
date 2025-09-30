@@ -1,13 +1,12 @@
 import AdSense from './AdSense';
-import adsenseConfig from '../lib/adsense';
 
 // Banner Ad - Hiển thị ở đầu trang
 export const BannerAd = ({ className = '' }) => (
   <div className={`banner-ad ${className}`}>
     <AdSense 
-      adSlot={adsenseConfig.adUnits.banner.slot}
-      adFormat={adsenseConfig.adUnits.banner.format}
-      className="w-full h-32 bg-gray-100 rounded-lg flex items-center justify-center"
+      adSlot="1234567890" // Bạn cần tạo ad unit trong AdSense và thay mã này
+      adFormat="horizontal"
+      className="w-full h-32 bg-gradient-to-r from-blue-500 to-purple-600 rounded-lg flex items-center justify-center text-white font-bold"
     />
   </div>
 );
@@ -16,9 +15,9 @@ export const BannerAd = ({ className = '' }) => (
 export const SidebarAd = ({ className = '' }) => (
   <div className={`sidebar-ad ${className}`}>
     <AdSense 
-      adSlot={adsenseConfig.adUnits.sidebar.slot}
-      adFormat={adsenseConfig.adUnits.sidebar.format}
-      className="w-full h-64 bg-gray-100 rounded-lg flex items-center justify-center"
+      adSlot="0987654321" // Bạn cần tạo ad unit trong AdSense và thay mã này
+      adFormat="rectangle"
+      className="w-full h-64 bg-gradient-to-b from-green-500 to-teal-600 rounded-lg flex items-center justify-center text-white font-bold"
     />
   </div>
 );
@@ -27,9 +26,9 @@ export const SidebarAd = ({ className = '' }) => (
 export const InContentAd = ({ className = '' }) => (
   <div className={`in-content-ad ${className} my-8`}>
     <AdSense 
-      adSlot={adsenseConfig.adUnits.inContent.slot}
-      adFormat={adsenseConfig.adUnits.inContent.format}
-      className="w-full h-48 bg-gray-100 rounded-lg flex items-center justify-center"
+      adSlot="1122334455" // Bạn cần tạo ad unit trong AdSense và thay mã này
+      adFormat="fluid"
+      className="w-full h-48 bg-gradient-to-r from-orange-500 to-red-600 rounded-lg flex items-center justify-center text-white font-bold"
     />
   </div>
 );
@@ -38,9 +37,9 @@ export const InContentAd = ({ className = '' }) => (
 export const MobileAd = ({ className = '' }) => (
   <div className={`mobile-ad ${className} md:hidden`}>
     <AdSense 
-      adSlot={adsenseConfig.adUnits.mobile.slot}
-      adFormat={adsenseConfig.adUnits.mobile.format}
-      className="w-full h-24 bg-gray-100 rounded-lg flex items-center justify-center"
+      adSlot="5566778899" // Bạn cần tạo ad unit trong AdSense và thay mã này
+      adFormat="auto"
+      className="w-full h-24 bg-gradient-to-r from-pink-500 to-purple-600 rounded-lg flex items-center justify-center text-white font-bold text-sm"
     />
   </div>
 );
@@ -49,9 +48,9 @@ export const MobileAd = ({ className = '' }) => (
 export const VideoAd = ({ className = '' }) => (
   <div className={`video-ad ${className}`}>
     <AdSense 
-      adSlot={adsenseConfig.adUnits.video.slot}
-      adFormat={adsenseConfig.adUnits.video.format}
-      className="w-full h-40 bg-gray-100 rounded-lg flex items-center justify-center"
+      adSlot="9988776655" // Bạn cần tạo ad unit trong AdSense và thay mã này
+      adFormat="video"
+      className="w-full h-40 bg-gradient-to-r from-indigo-500 to-blue-600 rounded-lg flex items-center justify-center text-white font-bold"
     />
   </div>
 );
@@ -60,9 +59,9 @@ export const VideoAd = ({ className = '' }) => (
 export const NativeAd = ({ className = '' }) => (
   <div className={`native-ad ${className}`}>
     <AdSense 
-      adSlot={adsenseConfig.adUnits.inContent.slot}
+      adSlot="4433221100" // Bạn cần tạo ad unit trong AdSense và thay mã này
       adFormat="fluid"
-      className="w-full h-32 bg-gray-100 rounded-lg flex items-center justify-center"
+      className="w-full h-32 bg-gradient-to-r from-yellow-500 to-orange-600 rounded-lg flex items-center justify-center text-white font-bold"
     />
   </div>
 );

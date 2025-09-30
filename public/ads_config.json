@@ -1,6 +1,6 @@
 {
   "adsense": {
-    "client_id": "ca-pub-xxxxxxxxxxxxxxxx", 
+    "client_id": "ca-pub-1296883156065618",
     "enabled": true,
     "test_mode": false,
     "ad_units": {
@@ -60,17 +60,17 @@
     "enabled": true,
     "links": {
       "top_up": {
-        "url": "https://affiliate-link.com/topup",
+        "url": "https://your-affiliate-link.com/topup",
         "commission": "5%",
         "enabled": true
       },
       "account": {
-        "url": "https://affiliate-link.com/account", 
+        "url": "https://your-affiliate-link.com/account", 
         "commission": "10%",
         "enabled": true
       },
       "tools": {
-        "url": "https://affiliate-link.com/tools",
+        "url": "https://your-affiliate-link.com/tools",
         "commission": "15%",
         "enabled": true
       }
