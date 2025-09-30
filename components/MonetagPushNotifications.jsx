@@ -6,23 +6,14 @@ const MonetagPushNotifications = ({
 }) => {
   useEffect(() => {
     try {
-      // Load Monetag script if not already loaded
-      if (typeof window !== 'undefined' && !window.monetag) {
-        const script = document.createElement('script');
-        script.async = true;
-        script.src = 'https://s.monetag.com/js/monetag.js';
-        script.onload = () => {
-          // Initialize Push Notifications
-          if (window.monetag) {
-            window.monetag.init({
-              domain: 'grookilteepsou.net',
-              zoneId: 9952051,
-              formats: ['push'],
-              autoSubscribe: autoSubscribe
-            });
-          }
-        };
-        document.head.appendChild(script);
+      // Monetag Push Notifications uses Service Worker, not script tag
+      console.log('Monetag Push Notifications component loaded - using Service Worker');
+      
+      // Check if Service Worker is available
+      if ('serviceWorker' in navigator) {
+        navigator.serviceWorker.ready.then(registration => {
+          console.log('Service Worker ready for Monetag Push Notifications');
+        });
       }
     } catch (error) {
       console.error('Monetag Push Notifications error:', error);
@@ -31,7 +22,7 @@ const MonetagPushNotifications = ({
 
   return (
     <div className={`monetag-push-notifications ${className}`}>
-      {/* Push notification subscription will be handled automatically */}
+      {/* Push notification subscription will be handled by Service Worker */}
       <div id="monetag-push-container"></div>
     </div>
   );

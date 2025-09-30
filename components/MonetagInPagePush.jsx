@@ -6,23 +6,14 @@ const MonetagInPagePush = ({
 }) => {
   useEffect(() => {
     try {
-      // Load Monetag script if not already loaded
-      if (typeof window !== 'undefined' && !window.monetag) {
-        const script = document.createElement('script');
-        script.async = true;
-        script.src = 'https://s.monetag.com/js/monetag.js';
-        script.onload = () => {
-          // Initialize In-Page Push
-          if (window.monetag) {
-            window.monetag.init({
-              domain: 'grookilteepsou.net',
-              zoneId: 9952051,
-              formats: ['inpagepush'],
-              position: position
-            });
-          }
-        };
-        document.head.appendChild(script);
+      // Monetag In-Page Push uses Service Worker, not script tag
+      console.log('Monetag In-Page Push component loaded - using Service Worker');
+      
+      // Check if Service Worker is available
+      if ('serviceWorker' in navigator) {
+        navigator.serviceWorker.ready.then(registration => {
+          console.log('Service Worker ready for Monetag In-Page Push');
+        });
       }
     } catch (error) {
       console.error('Monetag In-Page Push error:', error);
@@ -31,7 +22,7 @@ const MonetagInPagePush = ({
 
   return (
     <div className={`monetag-inpagepush monetag-${position} ${className}`}>
-      {/* In-Page Push ads will be injected here */}
+      {/* In-Page Push ads will be injected by Service Worker */}
       <div id={`monetag-inpagepush-${position}`}></div>
     </div>
   );

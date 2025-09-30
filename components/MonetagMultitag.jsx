@@ -6,23 +6,15 @@ const MonetagMultitag = ({
 }) => {
   useEffect(() => {
     try {
-      // Load Monetag Multitag script
-      if (typeof window !== 'undefined' && !window.monetag) {
-        const script = document.createElement('script');
-        script.async = true;
-        script.src = 'https://s.monetag.com/js/monetag.js';
-        script.onload = () => {
-          // Initialize Multitag after script loads
-          if (window.monetag) {
-            window.monetag.init({
-              domain: 'grookilteepsou.net',
-              zoneId: 9952051,
-              autoOptimize: autoOptimize,
-              formats: ['multitag'] // Focus on multitag format
-            });
-          }
-        };
-        document.head.appendChild(script);
+      // Monetag Multitag uses Service Worker, not script tag
+      // The Service Worker is already registered in _document.js
+      console.log('Monetag Multitag component loaded - using Service Worker');
+      
+      // Check if Service Worker is available
+      if ('serviceWorker' in navigator) {
+        navigator.serviceWorker.ready.then(registration => {
+          console.log('Service Worker ready for Monetag Multitag');
+        });
       }
     } catch (error) {
       console.error('Monetag Multitag error:', error);
@@ -31,7 +23,7 @@ const MonetagMultitag = ({
 
   return (
     <div className={`monetag-multitag ${className}`}>
-      {/* Multitag will automatically inject ads here */}
+      {/* Multitag ads will be injected by Service Worker */}
       <div id="monetag-multitag-container"></div>
     </div>
   );
