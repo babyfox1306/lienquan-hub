@@ -1,9 +1,12 @@
-import feedparser, json, re, os, time
+import feedparser, json, re, os, time, sys
 try:
     from ftfy import fix_text  # Robustly fixes mojibake
 except Exception:
     fix_text = None
 from urllib.parse import urlparse, parse_qs
+
+# Set UTF-8 encoding for stdout
+sys.stdout.reconfigure(encoding='utf-8')
 
 ROOT = os.path.join(os.path.dirname(__file__), '..')
 FEEDS_PATH = os.path.join(ROOT, 'public', 'feeds.json')
@@ -28,6 +31,7 @@ def fetch():
         feeds = json.load(f)
 
     videos = feeds.get('manual_videos', []).copy()
+    print(f'Starting with {len(videos)} manual videos')
 
     for ch in feeds.get('channels', []):
         if ch['type'] == 'channel':
@@ -39,7 +43,7 @@ def fetch():
 
         print('Fetching', rss)
         d = feedparser.parse(rss)
-        for entry in d.entries[:30]:
+        for entry in d.entries[:50]:
             link = entry.link
             vid = video_id_from_link(link)
             if not vid:
@@ -69,7 +73,7 @@ def fetch():
                 'phim', 'movie', 'cinema', 'drama', 'truyện', 'story'
             ]
             if any(keyword in title_lower for keyword in exclude_keywords):
-                print(f'Skipping non-gaming video: {title}')
+                print(f'Skipping non-gaming video: {title.encode("utf-8", errors="ignore").decode("utf-8")}')
                 continue
             # Try to extract publish date in ISO8601
             published_iso = None
@@ -83,6 +87,7 @@ def fetch():
             item = {"videoId": vid, "title": title, "source": "youtube", "publishedAt": published_iso}
             if not any(v['videoId'] == vid for v in videos):
                 videos.append(item)
+                print(f'Added new video: {title[:50]}... - {published_iso}')
 
     with open(OUT_PATH, 'w', encoding='utf8', newline='') as f:
         json.dump({"videos": videos}, f, ensure_ascii=False, indent=2)
