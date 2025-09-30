@@ -6,38 +6,32 @@ import MonetagPushNotifications from './MonetagPushNotifications';
 import { useEffect, useState } from 'react';
 import dualAdConfig from '../lib/dualAdConfig';
 
-// Dual Ad System - AdSense + Monetag
+// AdSense Only System - Monetag disabled (too intrusive)
 const DualAd = ({ 
   adsenseSlot, 
   monetagSlot, 
   adFormat = 'auto', 
   className = '',
-  fallbackToMonetag = true 
+  fallbackToMonetag = false // Disabled Monetag fallback
 }) => {
   const [showAdSense, setShowAdSense] = useState(true);
 
   useEffect(() => {
-    // Fallback to Monetag if AdSense fails
+    // No fallback to Monetag - AdSense only
     if (fallbackToMonetag) {
       const timer = setTimeout(() => {
         setShowAdSense(false);
-      }, 3000); // Wait 3 seconds for AdSense to load
+      }, 3000);
       
       return () => clearTimeout(timer);
     }
   }, [fallbackToMonetag]);
 
   return (
-    <div className={`dual-ad-container ${className}`}>
+    <div className={`ad-container ${className}`}>
       {showAdSense && adsenseSlot ? (
         <AdSense 
           adSlot={adsenseSlot}
-          adFormat={adFormat}
-          className="w-full"
-        />
-      ) : monetagSlot ? (
-        <MonetagAd 
-          adSlot={monetagSlot}
           adFormat={adFormat}
           className="w-full"
         />
@@ -50,50 +44,50 @@ const DualAd = ({
   );
 };
 
-// Banner Ad - Simple dual system only
+// Banner Ad - AdSense only
 export const BannerAd = ({ className = '' }) => (
   <div className={`banner-ad ${className}`}>
     <DualAd 
       adsenseSlot={dualAdConfig.adsense.adUnits.banner.slot}
-      monetagSlot={dualAdConfig.monetag.adUnits.banner.slot}
       adFormat="auto"
       className="w-full h-24"
+      fallbackToMonetag={false}
     />
   </div>
 );
 
-// Sidebar Ad - Dual system
+// Sidebar Ad - AdSense only
 export const SidebarAd = ({ className = '' }) => (
   <div className={`sidebar-ad ${className}`}>
     <DualAd 
-      adsenseSlot={dualAdConfig.adsense.adUnits.sidebar.slot} // AdSense Sidebar
-      monetagSlot={dualAdConfig.monetag.adUnits.sidebar.slot} // Monetag Sidebar
+      adsenseSlot={dualAdConfig.adsense.adUnits.sidebar.slot}
       adFormat="auto"
       className="w-full h-64"
+      fallbackToMonetag={false}
     />
   </div>
 );
 
-// In-Content Ad - Simple dual system only
+// In-Content Ad - AdSense only
 export const InContentAd = ({ className = '' }) => (
   <div className={`in-content-ad ${className} my-6`}>
     <DualAd 
       adsenseSlot={dualAdConfig.adsense.adUnits.inContent.slot}
-      monetagSlot={dualAdConfig.monetag.adUnits.inContent.slot}
       adFormat="fluid"
       className="w-full h-40"
+      fallbackToMonetag={false}
     />
   </div>
 );
 
-// Mobile Ad - Dual system
+// Mobile Ad - AdSense only
 export const MobileAd = ({ className = '' }) => (
   <div className={`mobile-ad ${className} md:hidden`}>
     <DualAd 
-      adsenseSlot={dualAdConfig.adsense.adUnits.mobile.slot} // AdSense Mobile
-      monetagSlot={dualAdConfig.monetag.adUnits.mobile.slot} // Monetag Mobile
+      adsenseSlot={dualAdConfig.adsense.adUnits.mobile.slot}
       adFormat="auto"
       className="w-full h-24"
+      fallbackToMonetag={false}
     />
   </div>
 );
