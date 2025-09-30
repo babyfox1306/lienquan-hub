@@ -1,8 +1,13 @@
 User-agent: *
 Allow: /
 Disallow: /api/
-Crawl-delay: 10
+Disallow: /admin/
+Disallow: /_next/
+Crawl-delay: 5
 Sitemap: https://www.lienquanhub.xyz/sitemap.xml
 Host: www.lienquanhub.xyz
 
-
+# Allow Google AdSense crawler
+User-agent: Mediapartners-Google
+Allow: /
+Crawl-delay: 1
