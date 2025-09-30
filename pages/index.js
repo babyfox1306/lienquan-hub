@@ -3,6 +3,9 @@ import path from 'path';
 import NavBar from '../components/NavBar';
 import Head from 'next/head';
 import VideoCard from '../components/VideoCard';
+import Pagination from '../components/Pagination';
+import { useRouter } from 'next/router';
+import { useState, useEffect } from 'react';
 
 export async function getStaticProps() {
   const publicDir = path.join(process.cwd(), 'public');
@@ -26,15 +29,34 @@ export async function getStaticProps() {
     videos = feeds.manual_videos || [];
   }
 
+  // Sắp xếp video theo thời gian mới nhất lên trên
+  videos.sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt));
+
   return { props: { videos }, revalidate: 60 };
 }
 
 export default function Home({ videos }) {
-  const canonical = 'https://www.lienquanhub.xyz/';
+  const router = useRouter();
+  const [currentPage, setCurrentPage] = useState(1);
+  
+  // Lấy page từ URL query
+  useEffect(() => {
+    const page = parseInt(router.query.page) || 1;
+    setCurrentPage(page);
+  }, [router.query.page]);
+
+  const videosPerPage = 20;
+  const totalVideos = videos.length;
+  const totalPages = Math.ceil(totalVideos / videosPerPage);
+  const startIndex = (currentPage - 1) * videosPerPage;
+  const endIndex = startIndex + videosPerPage;
+  const currentVideos = videos.slice(startIndex, endIndex);
+
+  const canonical = currentPage === 1 ? 'https://www.lienquanhub.xyz/' : `https://www.lienquanhub.xyz/?page=${currentPage}`;
   const itemList = {
     '@context': 'https://schema.org',
     '@type': 'ItemList',
-    itemListElement: (videos || []).slice(0, 10).map((v, i) => ({
+    itemListElement: currentVideos.slice(0, 10).map((v, i) => ({
       '@type': 'ListItem',
       position: i + 1,
       url: `https://lienquan-hub.vercel.app/watch/${v.videoId}`
@@ -43,6 +65,8 @@ export default function Home({ videos }) {
   return (
     <div className="min-h-screen bg-base-200">
       <Head>
+        <title>{currentPage === 1 ? 'Liên Quân Hub - Video Mới Nhất' : `Liên Quân Hub - Trang ${currentPage}`}</title>
+        <meta name="description" content={`${currentPage === 1 ? 'Video Liên Quân mới nhất' : `Trang ${currentPage}`} - Highlight, guide, news cập nhật tự động từ YouTube`} />
         <link rel="canonical" href={canonical} />
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(itemList) }} />
         <link rel="preconnect" href="https://i.ytimg.com" />
@@ -71,10 +95,16 @@ export default function Home({ videos }) {
           </div>
         </section>
         <section className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6">
-          {videos.map((v, idx) => (
+          {currentVideos.map((v, idx) => (
             <VideoCard key={v.videoId} videoId={v.videoId} title={v.title} priority={idx === 0} />
           ))}
         </section>
+        
+        <Pagination 
+          currentPage={currentPage} 
+          totalPages={totalPages} 
+          totalVideos={totalVideos} 
+        />
         <footer className="mt-10 py-6 text-center text-sm text-base-content/60">
           © {new Date().getFullYear()} Liên Quân Hub — nguồn: YouTube
         </footer>
