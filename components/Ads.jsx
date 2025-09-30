@@ -26,7 +26,7 @@ export const SidebarAd = ({ className = '' }) => (
 export const InContentAd = ({ className = '' }) => (
   <div className={`in-content-ad ${className} my-8`}>
     <AdSense 
-      adSlot="1122334455" // Bạn cần tạo ad unit trong AdSense và thay mã này
+      adSlot="9398683411" // In-Content Ad Unit ID thực tế
       adFormat="fluid"
       className="w-full h-48 bg-gradient-to-r from-orange-500 to-red-600 rounded-lg flex items-center justify-center text-white font-bold"
     />
