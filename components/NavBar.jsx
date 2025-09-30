@@ -18,6 +18,10 @@ export default function NavBar() {
     <div className="navbar bg-base-100 border-b">
       <div className="flex-1">
         <Link href="/" className="btn btn-ghost normal-case text-xl">Liên Quân Hub</Link>
+        <div className="hidden md:flex">
+          <Link href="/" className="btn btn-ghost btn-sm">Video</Link>
+          <Link href="/news" className="btn btn-ghost btn-sm">Tin tức</Link>
+        </div>
       </div>
       <div className="flex-none gap-2">
         <select

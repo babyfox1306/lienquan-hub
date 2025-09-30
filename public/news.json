@@ -1,0 +1,150 @@
+{
+  "last_updated": "2025-09-30T10:00:00Z",
+  "total_news": 12,
+  "news": [
+    {
+      "id": "news001",
+      "title": "Tướng mới Charlotte sắp ra mắt với kỹ năng đặc biệt",
+      "link": "https://example.com/charlotte-new-hero",
+      "summary": "Charlotte - tướng pháp sư mới với khả năng điều khiển thời gian sẽ được ra mắt trong bản cập nhật tiếp theo của Liên Quân Mobile.",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn",
+      "published_at": "2025-09-30T08:00:00Z",
+      "crawled_at": "2025-09-30T10:00:00Z",
+      "category": "tướng",
+      "priority": 1
+    },
+    {
+      "id": "news002", 
+      "title": "Skin Legendary mới cho Nakroth - Thần Chiến Binh",
+      "link": "https://example.com/nakroth-legendary-skin",
+      "summary": "Skin Legendary mới của Nakroth với hiệu ứng đặc biệt và animation độc đáo sẽ có mặt trong shop từ ngày mai.",
+      "source": "VnExpress",
+      "source_url": "https://vnexpress.net",
+      "published_at": "2025-09-29T15:30:00Z",
+      "crawled_at": "2025-09-30T10:00:00Z",
+      "category": "skin",
+      "priority": 2
+    },
+    {
+      "id": "news003",
+      "title": "Bản cập nhật 5.4.0: Cân bằng tướng và sửa lỗi",
+      "link": "https://example.com/patch-5-4-0",
+      "summary": "Bản cập nhật 5.4.0 sẽ cân bằng lại sức mạnh của các tướng và sửa nhiều lỗi bug quan trọng trong game.",
+      "source": "Zing News",
+      "source_url": "https://zingnews.vn",
+      "published_at": "2025-09-29T12:00:00Z",
+      "crawled_at": "2025-09-30T10:00:00Z",
+      "category": "cập nhật",
+      "priority": 3
+    },
+    {
+      "id": "news004",
+      "title": "ĐTDV Mùa Đông 2025: Saigon Phantom giành chiến thắng",
+      "link": "https://example.com/sgp-victory",
+      "summary": "Saigon Phantom đã đánh bại FPT X Flash trong trận chung kết ĐTDV Mùa Đông 2025 với tỷ số 3-1.",
+      "source": "Dân Trí",
+      "source_url": "https://dantri.com.vn",
+      "published_at": "2025-09-28T20:00:00Z",
+      "crawled_at": "2025-09-30T10:00:00Z",
+      "category": "esports",
+      "priority": 4
+    },
+    {
+      "id": "news005",
+      "title": "Meta mới: Tướng đi rừng đang thống trị rank cao",
+      "link": "https://example.com/jungle-meta",
+      "summary": "Các tướng đi rừng như Nakroth, Kriknak đang có tỷ lệ thắng cao nhất tại rank Cao Thủ và Thách Đấu.",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn",
+      "published_at": "2025-09-28T10:00:00Z",
+      "crawled_at": "2025-09-30T10:00:00Z",
+      "category": "meta",
+      "priority": 5
+    },
+    {
+      "id": "news006",
+      "title": "Hướng dẫn build đồ cho tướng mới Charlotte",
+      "link": "https://example.com/charlotte-build-guide",
+      "summary": "Hướng dẫn chi tiết cách build đồ, bảng ngọc và combo kỹ năng cho tướng Charlotte để đạt hiệu quả tối đa.",
+      "source": "VnExpress",
+      "source_url": "https://vnexpress.net",
+      "published_at": "2025-09-27T14:00:00Z",
+      "crawled_at": "2025-09-30T10:00:00Z",
+      "category": "meta",
+      "priority": 6
+    },
+    {
+      "id": "news007",
+      "title": "Sự kiện đặc biệt: Nhân đôi kinh nghiệm và vàng",
+      "link": "https://example.com/double-exp-gold-event",
+      "summary": "Sự kiện đặc biệt cuối tuần này sẽ nhân đôi kinh nghiệm và vàng kiếm được trong các trận đấu.",
+      "source": "Zing News",
+      "source_url": "https://zingnews.vn",
+      "published_at": "2025-09-27T09:00:00Z",
+      "crawled_at": "2025-09-30T10:00:00Z",
+      "category": "tin tức",
+      "priority": 7
+    },
+    {
+      "id": "news008",
+      "title": "Tier List tướng tháng 9: Ai đang mạnh nhất?",
+      "link": "https://example.com/september-tier-list",
+      "summary": "Danh sách xếp hạng tướng mạnh nhất tháng 9 dựa trên tỷ lệ thắng và độ phổ biến tại các rank cao.",
+      "source": "Dân Trí",
+      "source_url": "https://dantri.com.vn",
+      "published_at": "2025-09-26T16:00:00Z",
+      "crawled_at": "2025-09-30T10:00:00Z",
+      "category": "meta",
+      "priority": 8
+    },
+    {
+      "id": "news009",
+      "title": "Skin mới cho Alice - Công chúa Băng Giá",
+      "link": "https://example.com/alice-ice-princess-skin",
+      "summary": "Skin mới của Alice với chủ đề công chúa băng giá sẽ có hiệu ứng đặc biệt và animation đẹp mắt.",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn",
+      "published_at": "2025-09-26T11:00:00Z",
+      "crawled_at": "2025-09-30T10:00:00Z",
+      "category": "skin",
+      "priority": 9
+    },
+    {
+      "id": "news010",
+      "title": "Giải đấu Liên Quân Mobile quốc tế sắp diễn ra",
+      "link": "https://example.com/international-tournament",
+      "summary": "Giải đấu Liên Quân Mobile quốc tế với sự tham gia của các đội tuyển hàng đầu thế giới sẽ diễn ra vào tháng 11.",
+      "source": "VnExpress",
+      "source_url": "https://vnexpress.net",
+      "published_at": "2025-09-25T18:00:00Z",
+      "crawled_at": "2025-09-30T10:00:00Z",
+      "category": "esports",
+      "priority": 10
+    },
+    {
+      "id": "news011",
+      "title": "Bảng ngọc mới cho tướng đi rừng mùa này",
+      "link": "https://example.com/jungle-arcana-guide",
+      "summary": "Hướng dẫn chọn bảng ngọc phù hợp cho các tướng đi rừng trong meta hiện tại để tối ưu hóa sức mạnh.",
+      "source": "Zing News",
+      "source_url": "https://zingnews.vn",
+      "published_at": "2025-09-25T13:00:00Z",
+      "crawled_at": "2025-09-30T10:00:00Z",
+      "category": "meta",
+      "priority": 11
+    },
+    {
+      "id": "news012",
+      "title": "Cập nhật hệ thống báo cáo và chống hack",
+      "link": "https://example.com/anti-cheat-update",
+      "summary": "Hệ thống chống hack và báo cáo người chơi gian lận đã được cải tiến để đảm bảo công bằng trong game.",
+      "source": "Dân Trí",
+      "source_url": "https://dantri.com.vn",
+      "published_at": "2025-09-24T20:00:00Z",
+      "crawled_at": "2025-09-30T10:00:00Z",
+      "category": "cập nhật",
+      "priority": 12
+    }
+  ]
+}

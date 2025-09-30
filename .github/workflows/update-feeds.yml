@@ -18,8 +18,6 @@ jobs:
     env:
       YT_API_KEY: ${{ secrets.YT_API_KEY }}
       VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
-      VERCEL_ORG_ID: ${{ secrets.VERCEL_ORG_ID }}
-      ORG_ID: ${{ secrets.ORG_ID }}
       VERCEL_PROJECT_ID: ${{ secrets.VERCEL_PROJECT_ID }}
     steps:
       - uses: actions/checkout@v4
@@ -44,8 +42,10 @@ jobs:
             echo "[discover] No channels or API error (rc=$rc). Keeping existing public/feeds.json"
           fi
           exit 0
-      - name: Run crawler
+      - name: Run video crawler
         run: python crawler/youtube_rss_fetcher.py
+      - name: Run news crawler
+        run: python crawler/news_crawler.py
       - name: Generate sitemap
         run: |
           node --version
@@ -58,16 +58,13 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git reset --hard
           git pull --rebase origin main
-          git add public/videos.json public/feeds.json public/sitemap.xml || true
+          git add public/videos.json public/feeds.json public/news.json public/sitemap.xml || true
           git commit -m "auto: update videos.json" || echo "no changes"
           git push
       - name: Trigger Vercel Deploy
-        if: ${{ env.VERCEL_TOKEN != '' && (env.VERCEL_ORG_ID != '' || env.ORG_ID != '') && env.VERCEL_PROJECT_ID != '' }}
-        uses: amondnet/vercel-action@v20
-        with:
-          vercel-token: ${{ env.VERCEL_TOKEN }}
-          vercel-org-id: ${{ env.VERCEL_ORG_ID != '' && env.VERCEL_ORG_ID || env.ORG_ID }}
-          vercel-project-id: ${{ env.VERCEL_PROJECT_ID }}
-          vercel-args: '--prod'
+        if: ${{ env.VERCEL_TOKEN != '' && env.VERCEL_PROJECT_ID != '' }}
+        run: |
+          echo "Vercel deployment triggered by git push"
+          echo "Project will auto-deploy from GitHub integration"
 
 

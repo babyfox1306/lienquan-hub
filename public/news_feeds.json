@@ -1,0 +1,66 @@
+{
+  "news_sources": [
+    {
+      "name": "GameK.vn Liên Quân",
+      "url": "https://gamek.vn/lien-quan-mobile.rss",
+      "type": "rss",
+      "priority": 1,
+      "enabled": true
+    },
+    {
+      "name": "VnExpress Game",
+      "url": "https://vnexpress.net/rss/game.rss",
+      "type": "rss",
+      "priority": 2,
+      "enabled": true
+    },
+    {
+      "name": "Zing News Game",
+      "url": "https://zingnews.vn/game.rss",
+      "type": "rss",
+      "priority": 3,
+      "enabled": true
+    },
+    {
+      "name": "Dân Trí Game",
+      "url": "https://dantri.com.vn/game.rss",
+      "type": "rss",
+      "priority": 4,
+      "enabled": true
+    }
+  ],
+  "categories": {
+    "tướng": {
+      "keywords": ["tướng mới", "hero mới", "tướng", "hero", "champion"],
+      "color": "#ff6b6b"
+    },
+    "skin": {
+      "keywords": ["skin", "trang phục", "cosmetic", "outfit"],
+      "color": "#4ecdc4"
+    },
+    "cập nhật": {
+      "keywords": ["bản cập nhật", "update", "patch", "maintenance"],
+      "color": "#45b7d1"
+    },
+    "esports": {
+      "keywords": ["tournament", "giải đấu", "esports", "pro player"],
+      "color": "#96ceb4"
+    },
+    "meta": {
+      "keywords": ["meta", "build", "bảng ngọc", "strategy"],
+      "color": "#feca57"
+    },
+    "tin tức": {
+      "keywords": ["tin tức", "news", "thông báo"],
+      "color": "#ff9ff3"
+    }
+  },
+  "settings": {
+    "max_news_per_source": 20,
+    "max_total_news": 100,
+    "crawl_interval_hours": 6,
+    "min_news_age_days": 7,
+    "auto_publish": false,
+    "require_approval": true
+  }
+}
