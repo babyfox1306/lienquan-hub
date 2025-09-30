@@ -4,6 +4,7 @@ import NavBar from '../components/NavBar';
 import Head from 'next/head';
 import VideoCard from '../components/VideoCard';
 import Pagination from '../components/Pagination';
+import { BannerAd, InContentAd, MobileAd } from '../components/Ads';
 import { useRouter } from 'next/router';
 import { useState, useEffect } from 'react';
 
@@ -73,6 +74,10 @@ export default function Home({ videos }) {
         <link rel="preconnect" href="https://www.youtube.com" />
       </Head>
       <NavBar />
+      
+      {/* Banner Ad */}
+      <BannerAd className="max-w-6xl mx-auto px-6 py-4" />
+      
       <main className="p-6">
         <section className="max-w-6xl mx-auto mb-8">
           <div className="hero bg-base-100 rounded-xl shadow">
@@ -99,6 +104,12 @@ export default function Home({ videos }) {
             <VideoCard key={v.videoId} videoId={v.videoId} title={v.title} priority={idx === 0} />
           ))}
         </section>
+        
+        {/* In-Content Ad */}
+        <InContentAd className="max-w-6xl mx-auto" />
+        
+        {/* Mobile Ad */}
+        <MobileAd className="max-w-6xl mx-auto px-6" />
         
         <Pagination 
           currentPage={currentPage} 

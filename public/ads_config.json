@@ -1,0 +1,79 @@
+{
+  "adsense": {
+    "client_id": "ca-pub-xxxxxxxxxxxxxxxx", 
+    "enabled": true,
+    "test_mode": false,
+    "ad_units": {
+      "banner": {
+        "slot": "1234567890",
+        "format": "horizontal",
+        "responsive": true,
+        "placement": "header"
+      },
+      "sidebar": {
+        "slot": "0987654321", 
+        "format": "rectangle",
+        "responsive": true,
+        "placement": "sidebar"
+      },
+      "in_content": {
+        "slot": "1122334455",
+        "format": "fluid", 
+        "responsive": true,
+        "placement": "content"
+      },
+      "mobile": {
+        "slot": "5566778899",
+        "format": "auto",
+        "responsive": true,
+        "placement": "mobile"
+      },
+      "video": {
+        "slot": "9988776655",
+        "format": "video",
+        "responsive": true,
+        "placement": "video"
+      },
+      "native": {
+        "slot": "4433221100",
+        "format": "fluid",
+        "responsive": true,
+        "placement": "native"
+      }
+    },
+    "settings": {
+      "auto_ads": true,
+      "page_level_ads": true,
+      "anchor_ads": true,
+      "multiplex_ads": true,
+      "display_frequency": "normal",
+      "ad_density": "balanced"
+    },
+    "placement_rules": {
+      "homepage": ["banner", "in_content", "mobile"],
+      "news": ["banner", "sidebar", "in_content", "mobile"],
+      "video": ["banner", "video", "mobile"],
+      "mobile": ["mobile", "banner"]
+    }
+  },
+  "affiliate": {
+    "enabled": true,
+    "links": {
+      "top_up": {
+        "url": "https://affiliate-link.com/topup",
+        "commission": "5%",
+        "enabled": true
+      },
+      "account": {
+        "url": "https://affiliate-link.com/account", 
+        "commission": "10%",
+        "enabled": true
+      },
+      "tools": {
+        "url": "https://affiliate-link.com/tools",
+        "commission": "15%",
+        "enabled": true
+      }
+    }
+  }
+}

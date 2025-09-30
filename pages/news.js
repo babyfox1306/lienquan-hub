@@ -2,6 +2,8 @@ import fs from 'fs';
 import path from 'path';
 import NavBar from '../components/NavBar';
 import Head from 'next/head';
+import { BannerAd, SidebarAd, InContentAd, MobileAd } from '../components/Ads';
+import { AffiliateSection } from '../components/Affiliate';
 import { useState } from 'react';
 
 export async function getStaticProps() {
@@ -74,6 +76,9 @@ export default function News({ news }) {
       
       <NavBar />
       
+      {/* Banner Ad */}
+      <BannerAd className="max-w-6xl mx-auto px-6 py-4" />
+      
       <main className="p-6">
         <section className="max-w-6xl mx-auto mb-8">
           <div className="hero bg-base-100 rounded-xl shadow">
@@ -112,63 +117,81 @@ export default function News({ news }) {
           </div>
         </section>
 
-        {/* News Grid */}
+        {/* News Grid with Sidebar */}
         <section className="max-w-6xl mx-auto">
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-            {filteredNews.map((item, index) => (
-              <div key={item.id} className="card bg-base-100 shadow-xl">
-                <div className="card-body">
-                  <div className="flex items-center gap-2 mb-2">
-                    <span className={`badge ${getCategoryColor(item.category)} text-white`}>
-                      {item.category}
-                    </span>
-                    <span className="badge badge-outline">
-                      {item.source}
-                    </span>
-                  </div>
-                  
-                  <h2 className="card-title text-lg leading-tight">
-                    {item.title}
-                  </h2>
-                  
-                  <p className="text-base-content/70 text-sm line-clamp-3">
-                    {item.summary}
-                  </p>
-                  
-                  <div className="card-actions justify-between items-center mt-4">
-                    <div className="text-xs text-base-content/50">
-                      {formatDate(item.published_at)}
+          <div className="flex gap-6">
+            {/* Main Content */}
+            <div className="flex-1">
+              <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+                {filteredNews.map((item, index) => (
+                  <div key={item.id || index} className="card bg-base-100 shadow-xl">
+                    <div className="card-body">
+                      <div className="flex items-center gap-2 mb-2">
+                        <span className={`badge ${getCategoryColor(item.category)} text-white`}>
+                          {item.category}
+                        </span>
+                        <span className="badge badge-outline">
+                          {item.source}
+                        </span>
+                      </div>
+                      
+                      <h2 className="card-title text-lg leading-tight">
+                        {item.title}
+                      </h2>
+                      
+                      <p className="text-base-content/70 text-sm line-clamp-3">
+                        {item.summary}
+                      </p>
+                      
+                      <div className="card-actions justify-between items-center mt-4">
+                        <div className="text-xs text-base-content/50">
+                          {formatDate(item.published_at)}
+                        </div>
+                        <a 
+                          href={item.link} 
+                          target="_blank" 
+                          rel="noopener noreferrer"
+                          className="btn btn-primary btn-sm"
+                        >
+                          Đọc thêm
+                        </a>
+                      </div>
                     </div>
-                    <a 
-                      href={item.link} 
-                      target="_blank" 
-                      rel="noopener noreferrer"
-                      className="btn btn-primary btn-sm"
-                    >
-                      Đọc thêm
-                    </a>
                   </div>
-                </div>
+                ))}
               </div>
-            ))}
-          </div>
-          
-          {filteredNews.length === 0 && (
-            <div className="text-center py-12">
-              <div className="text-6xl mb-4">📰</div>
-              <h3 className="text-xl font-semibold mb-2">Không tìm thấy tin tức</h3>
-              <p className="text-base-content/70">
-                Thử thay đổi từ khóa tìm kiếm hoặc chọn danh mục khác
-              </p>
+              
+              {/* In-Content Ad */}
+              <InContentAd className="mt-8" />
+              
+              {/* Mobile Ad */}
+              <MobileAd className="mt-4" />
+              
+              {filteredNews.length === 0 && (
+                <div className="text-center py-12">
+                  <div className="text-6xl mb-4">📰</div>
+                  <h3 className="text-xl font-semibold mb-2">Không tìm thấy tin tức</h3>
+                  <p className="text-base-content/70">Thử thay đổi từ khóa tìm kiếm hoặc danh mục</p>
+                </div>
+              )}
             </div>
-          )}
+            
+            {/* Sidebar */}
+            <div className="hidden lg:block w-80">
+              <div className="sticky top-6">
+                <SidebarAd className="mb-6" />
+                
+                {/* Affiliate Links */}
+                <AffiliateSection />
+              </div>
+            </div>
+          </div>
         </section>
 
         <footer className="mt-10 py-6 text-center text-sm text-base-content/60">
-          © {new Date().getFullYear()} Liên Quân Hub — Tin tức được cập nhật tự động
+          © {new Date().getFullYear()} Liên Quân Hub — nguồn: Tổng hợp
         </footer>
       </main>
     </div>
   );
 }
-
