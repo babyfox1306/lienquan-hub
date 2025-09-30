@@ -30,12 +30,22 @@ export default function Document() {
             __html: `
               if ('serviceWorker' in navigator) {
                 window.addEventListener('load', function() {
+                  // Register main Service Worker
                   navigator.serviceWorker.register('/sw.js')
                     .then(function(registration) {
-                      console.log('ServiceWorker registration successful');
+                      console.log('Main ServiceWorker registration successful');
                     })
                     .catch(function(err) {
-                      console.log('ServiceWorker registration failed');
+                      console.log('Main ServiceWorker registration failed');
+                    });
+                  
+                  // Register Push Notifications Service Worker
+                  navigator.serviceWorker.register('/sw-push.js')
+                    .then(function(registration) {
+                      console.log('Push ServiceWorker registration successful');
+                    })
+                    .catch(function(err) {
+                      console.log('Push ServiceWorker registration failed');
                     });
                 });
               }
