@@ -4,6 +4,7 @@ import NavBar from '../components/NavBar';
 import Head from 'next/head';
 import { BannerAd, SidebarAd, InContentAd, MobileAd } from '../components/DualAds';
 import { AffiliateSection } from '../components/Affiliate';
+import MonetagPushNotifications from '../components/MonetagPushNotifications';
 import { useState } from 'react';
 
 export async function getStaticProps() {
@@ -75,6 +76,9 @@ export default function News({ news }) {
       </Head>
       
       <NavBar />
+      
+      {/* Push Notifications - Load first for better UX */}
+      <MonetagPushNotifications />
       
       {/* Banner Ad */}
       <BannerAd className="max-w-6xl mx-auto px-6 py-4" />

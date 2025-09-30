@@ -1,5 +1,8 @@
 import AdSense from './AdSense';
 import MonetagAd from './MonetagAd';
+import MonetagMultitag from './MonetagMultitag';
+import MonetagInPagePush from './MonetagInPagePush';
+import MonetagPushNotifications from './MonetagPushNotifications';
 import { useEffect, useState } from 'react';
 
 // Dual Ad System - AdSense + Monetag
@@ -46,7 +49,7 @@ const DualAd = ({
   );
 };
 
-// Banner Ad - Dual system
+// Banner Ad - Triple system (AdSense + Monetag Multitag + In-Page Push)
 export const BannerAd = ({ className = '' }) => (
   <div className={`banner-ad ${className}`}>
     <DualAd 
@@ -55,6 +58,10 @@ export const BannerAd = ({ className = '' }) => (
       adFormat="auto"
       className="w-full h-32"
     />
+    {/* Monetag Multitag for automatic optimization */}
+    <MonetagMultitag className="w-full" />
+    {/* Monetag In-Page Push as banner alternative */}
+    <MonetagInPagePush position="top" className="w-full" />
   </div>
 );
 
@@ -70,7 +77,7 @@ export const SidebarAd = ({ className = '' }) => (
   </div>
 );
 
-// In-Content Ad - Dual system
+// In-Content Ad - Triple system (AdSense + Monetag Multitag + In-Page Push)
 export const InContentAd = ({ className = '' }) => (
   <div className={`in-content-ad ${className} my-8`}>
     <DualAd 
@@ -79,6 +86,10 @@ export const InContentAd = ({ className = '' }) => (
       adFormat="fluid"
       className="w-full h-48"
     />
+    {/* Monetag Multitag for automatic optimization */}
+    <MonetagMultitag className="w-full" />
+    {/* Monetag In-Page Push in middle of content */}
+    <MonetagInPagePush position="middle" className="w-full" />
   </div>
 );
 

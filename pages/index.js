@@ -5,6 +5,7 @@ import Head from 'next/head';
 import VideoCard from '../components/VideoCard';
 import Pagination from '../components/Pagination';
 import { BannerAd, InContentAd, MobileAd } from '../components/DualAds';
+import MonetagPushNotifications from '../components/MonetagPushNotifications';
 import { useRouter } from 'next/router';
 import { useState, useEffect } from 'react';
 
@@ -74,7 +75,10 @@ export default function Home({ videos }) {
         <link rel="preconnect" href="https://www.youtube.com" />
       </Head>
       <NavBar />
-      
+
+      {/* Push Notifications - Load first for better UX */}
+      <MonetagPushNotifications />
+
       {/* Banner Ad */}
       <BannerAd className="max-w-6xl mx-auto px-6 py-4" />
       
