@@ -75,27 +75,23 @@ export default function Home({ videos }) {
       </Head>
       <NavBar />
 
-      {/* Banner Ad - Subtle placement */}
-      <BannerAd className="max-w-6xl mx-auto px-6 py-2" />
+      {/* Banner Ad - Only show when ads available */}
+      <BannerAd className="max-w-6xl mx-auto px-6" />
       
       <main className="p-6">
         <section className="max-w-6xl mx-auto mb-8">
-          <div className="hero bg-base-100 rounded-xl shadow">
-            <div className="hero-content text-center">
-              <div>
-                <h1 className="text-3xl font-bold">Liên Quân Hub</h1>
-                <p className="py-2 text-base-content/70">Tổng hợp highlight, guide, news — cập nhật tự động từ YouTube/RSS</p>
-                <div className="join w-full max-w-xl">
-                  <input className="input input-bordered join-item w-full" placeholder="Tìm video..." onChange={() => {}} />
-                  <button className="btn btn-primary join-item">Search</button>
-                </div>
-                <div className="tabs tabs-boxed mt-4 inline-grid grid-flow-col auto-cols-max">
-                  <a className="tab tab-active">All</a>
-                  <a className="tab">Highlight</a>
-                  <a className="tab">Guide</a>
-                  <a className="tab">News</a>
-                </div>
-              </div>
+          <div className="text-center py-8">
+            <h1 className="text-3xl font-bold mb-4">Liên Quân Hub</h1>
+            <p className="text-base-content/70 mb-6">Tổng hợp highlight, guide, news — cập nhật tự động từ YouTube/RSS</p>
+            <div className="join w-full max-w-xl mb-4">
+              <input className="input input-bordered join-item w-full" placeholder="Tìm video..." onChange={() => {}} />
+              <button className="btn btn-primary join-item">Search</button>
+            </div>
+            <div className="tabs tabs-boxed inline-grid grid-flow-col auto-cols-max">
+              <a className="tab tab-active">All</a>
+              <a className="tab">Highlight</a>
+              <a className="tab">Guide</a>
+              <a className="tab">News</a>
             </div>
           </div>
         </section>
