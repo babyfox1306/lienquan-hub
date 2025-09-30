@@ -4,6 +4,7 @@ import MonetagMultitag from './MonetagMultitag';
 import MonetagInPagePush from './MonetagInPagePush';
 import MonetagPushNotifications from './MonetagPushNotifications';
 import { useEffect, useState } from 'react';
+import dualAdConfig from '../lib/dualAdConfig';
 
 // Dual Ad System - AdSense + Monetag
 const DualAd = ({ 
@@ -53,8 +54,8 @@ const DualAd = ({
 export const BannerAd = ({ className = '' }) => (
   <div className={`banner-ad ${className}`}>
     <DualAd 
-      adsenseSlot="4513188248" // AdSense Banner
-      monetagSlot="banner_001" // Monetag Banner (sẽ thay bằng ID thực tế)
+      adsenseSlot={dualAdConfig.adsense.adUnits.banner.slot} // AdSense Banner
+      monetagSlot={dualAdConfig.monetag.adUnits.banner.slot} // Monetag Banner
       adFormat="auto"
       className="w-full h-32"
     />
@@ -69,8 +70,8 @@ export const BannerAd = ({ className = '' }) => (
 export const SidebarAd = ({ className = '' }) => (
   <div className={`sidebar-ad ${className}`}>
     <DualAd 
-      adsenseSlot="5836317701" // AdSense Sidebar
-      monetagSlot="sidebar_001" // Monetag Sidebar (sẽ thay bằng ID thực tế)
+      adsenseSlot={dualAdConfig.adsense.adUnits.sidebar.slot} // AdSense Sidebar
+      monetagSlot={dualAdConfig.monetag.adUnits.sidebar.slot} // Monetag Sidebar
       adFormat="auto"
       className="w-full h-64"
     />
@@ -81,8 +82,8 @@ export const SidebarAd = ({ className = '' }) => (
 export const InContentAd = ({ className = '' }) => (
   <div className={`in-content-ad ${className} my-8`}>
     <DualAd 
-      adsenseSlot="9398683411" // AdSense In-Content
-      monetagSlot="incontent_001" // Monetag In-Content (sẽ thay bằng ID thực tế)
+      adsenseSlot={dualAdConfig.adsense.adUnits.inContent.slot} // AdSense In-Content
+      monetagSlot={dualAdConfig.monetag.adUnits.inContent.slot} // Monetag In-Content
       adFormat="fluid"
       className="w-full h-48"
     />
@@ -97,8 +98,8 @@ export const InContentAd = ({ className = '' }) => (
 export const MobileAd = ({ className = '' }) => (
   <div className={`mobile-ad ${className} md:hidden`}>
     <DualAd 
-      adsenseSlot="5566778899" // AdSense Mobile (placeholder)
-      monetagSlot="mobile_001" // Monetag Mobile (sẽ thay bằng ID thực tế)
+      adsenseSlot={dualAdConfig.adsense.adUnits.mobile.slot} // AdSense Mobile
+      monetagSlot={dualAdConfig.monetag.adUnits.mobile.slot} // Monetag Mobile
       adFormat="auto"
       className="w-full h-24"
     />
