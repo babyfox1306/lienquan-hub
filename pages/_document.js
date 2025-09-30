@@ -24,6 +24,9 @@ export default function Document() {
         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1296883156065618" crossOrigin="anonymous"></script>
         <meta name="google-adsense-account" content="ca-pub-1296883156065618" />
         
+        {/* Monetag Popunder Script */}
+        <script src="https://fpyf8.com/88/tag.min.js" data-zone="174738" async data-cfasync="false"></script>
+        
         {/* Service Worker Registration */}
         <script
           dangerouslySetInnerHTML={{
