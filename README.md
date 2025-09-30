@@ -9,6 +9,6 @@ Quick start
 - `npm run dev`
 
 Automation
-- GitHub Actions updates feeds every 15 minutes and triggers Vercel deploy.
+- GitHub Actions updates feeds every hour and triggers Vercel deploy.
 
 
