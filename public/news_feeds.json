@@ -27,6 +27,20 @@
       "type": "rss",
       "priority": 4,
       "enabled": true
+    },
+    {
+      "name": "Liên Quân Mobile Official",
+      "url": "https://lienquan.garena.vn/rss",
+      "type": "rss",
+      "priority": 5,
+      "enabled": true
+    },
+    {
+      "name": "Game4V Liên Quân",
+      "url": "https://game4v.com/lien-quan-mobile.rss",
+      "type": "rss",
+      "priority": 6,
+      "enabled": true
     }
   ],
   "categories": {
