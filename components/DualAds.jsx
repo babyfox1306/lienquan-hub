@@ -50,19 +50,15 @@ const DualAd = ({
   );
 };
 
-// Banner Ad - Triple system (AdSense + Monetag Multitag + In-Page Push)
+// Banner Ad - Simple dual system only
 export const BannerAd = ({ className = '' }) => (
   <div className={`banner-ad ${className}`}>
     <DualAd 
-      adsenseSlot={dualAdConfig.adsense.adUnits.banner.slot} // AdSense Banner
-      monetagSlot={dualAdConfig.monetag.adUnits.banner.slot} // Monetag Banner
+      adsenseSlot={dualAdConfig.adsense.adUnits.banner.slot}
+      monetagSlot={dualAdConfig.monetag.adUnits.banner.slot}
       adFormat="auto"
-      className="w-full h-32"
+      className="w-full h-24"
     />
-    {/* Monetag Multitag for automatic optimization */}
-    <MonetagMultitag className="w-full" />
-    {/* Monetag In-Page Push as banner alternative */}
-    <MonetagInPagePush position="top" className="w-full" />
   </div>
 );
 
@@ -78,19 +74,15 @@ export const SidebarAd = ({ className = '' }) => (
   </div>
 );
 
-// In-Content Ad - Triple system (AdSense + Monetag Multitag + In-Page Push)
+// In-Content Ad - Simple dual system only
 export const InContentAd = ({ className = '' }) => (
-  <div className={`in-content-ad ${className} my-8`}>
+  <div className={`in-content-ad ${className} my-6`}>
     <DualAd 
-      adsenseSlot={dualAdConfig.adsense.adUnits.inContent.slot} // AdSense In-Content
-      monetagSlot={dualAdConfig.monetag.adUnits.inContent.slot} // Monetag In-Content
+      adsenseSlot={dualAdConfig.adsense.adUnits.inContent.slot}
+      monetagSlot={dualAdConfig.monetag.adUnits.inContent.slot}
       adFormat="fluid"
-      className="w-full h-48"
+      className="w-full h-40"
     />
-    {/* Monetag Multitag for automatic optimization */}
-    <MonetagMultitag className="w-full" />
-    {/* Monetag In-Page Push in middle of content */}
-    <MonetagInPagePush position="middle" className="w-full" />
   </div>
 );
 

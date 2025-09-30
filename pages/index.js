@@ -4,8 +4,7 @@ import NavBar from '../components/NavBar';
 import Head from 'next/head';
 import VideoCard from '../components/VideoCard';
 import Pagination from '../components/Pagination';
-import { BannerAd, InContentAd, MobileAd } from '../components/DualAds';
-import MonetagPushNotifications from '../components/MonetagPushNotifications';
+import { BannerAd, InContentAd } from '../components/DualAds';
 import { useRouter } from 'next/router';
 import { useState, useEffect } from 'react';
 
@@ -76,11 +75,8 @@ export default function Home({ videos }) {
       </Head>
       <NavBar />
 
-      {/* Push Notifications - Load first for better UX */}
-      <MonetagPushNotifications />
-
-      {/* Banner Ad */}
-      <BannerAd className="max-w-6xl mx-auto px-6 py-4" />
+      {/* Banner Ad - Subtle placement */}
+      <BannerAd className="max-w-6xl mx-auto px-6 py-2" />
       
       <main className="p-6">
         <section className="max-w-6xl mx-auto mb-8">
@@ -108,6 +104,9 @@ export default function Home({ videos }) {
             <VideoCard key={v.videoId} videoId={v.videoId} title={v.title} priority={idx === 0} />
           ))}
         </section>
+        
+        {/* In-Content Ad - Only after first 10 videos */}
+        {currentPage === 1 && <InContentAd className="mt-8" />}
         
         <Pagination 
           currentPage={currentPage} 
