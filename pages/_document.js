@@ -23,6 +23,25 @@ export default function Document() {
         {/* AdSense Verification */}
         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1296883156065618" crossOrigin="anonymous"></script>
         <meta name="google-adsense-account" content="ca-pub-1296883156065618" />
+        
+        {/* Service Worker Registration */}
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `
+              if ('serviceWorker' in navigator) {
+                window.addEventListener('load', function() {
+                  navigator.serviceWorker.register('/sw.js')
+                    .then(function(registration) {
+                      console.log('ServiceWorker registration successful');
+                    })
+                    .catch(function(err) {
+                      console.log('ServiceWorker registration failed');
+                    });
+                });
+              }
+            `,
+          }}
+        />
       </Head>
       <body className="bg-base-200">
         <Main />
