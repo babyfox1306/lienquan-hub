@@ -86,11 +86,15 @@ class NewsCrawler:
                 
                 # Filter Liên Quân related content
                 if self.is_lienquan_related(title, summary):
+                    # Extract image from RSS entry
+                    image_url = self.extract_image_url(entry)
+                    
                     news_item = {
                         'id': self.generate_news_id(link),
                         'title': title,
                         'link': link,
                         'summary': summary[:500],  # Limit summary length
+                        'image_url': image_url,
                         'source': source['name'],
                         'source_url': source['url'],
                         'published_at': published_iso,
@@ -157,6 +161,44 @@ class NewsCrawler:
         else:
             return 'tin tức'
     
+    def extract_image_url(self, entry):
+        """Extract image URL from RSS entry"""
+        # Try different ways to get image
+        image_url = None
+        
+        # Method 1: Check media:content
+        if hasattr(entry, 'media_content'):
+            for media in entry.media_content:
+                if media.get('type', '').startswith('image/'):
+                    image_url = media.get('url')
+                    break
+        
+        # Method 2: Check media:thumbnail
+        if not image_url and hasattr(entry, 'media_thumbnail'):
+            image_url = entry.media_thumbnail[0].get('url')
+        
+        # Method 3: Check enclosures
+        if not image_url and hasattr(entry, 'enclosures'):
+            for enclosure in entry.enclosures:
+                if enclosure.get('type', '').startswith('image/'):
+                    image_url = enclosure.get('href')
+                    break
+        
+        # Method 4: Extract from summary HTML
+        if not image_url:
+            summary = entry.get('summary', '')
+            img_match = re.search(r'<img[^>]+src=["\']([^"\']+)["\']', summary)
+            if img_match:
+                image_url = img_match.group(1)
+        
+        # Method 5: Use placeholder image based on content
+        if not image_url:
+            title = entry.get('title', '').lower()
+            if 'liên quân' in title or 'aov' in title:
+                image_url = f"https://picsum.photos/seed/{entry.get('link', '')}/400/225"
+        
+        return image_url
+    
     def generate_news_id(self, url):
         """Generate unique ID for news item"""
         import hashlib
@@ -191,7 +233,7 @@ class NewsCrawler:
         combined_news = new_news + self.existing_news
         
         # Sort by published date (newest first)
-        combined_news.sort(key=lambda x: x.get('published_at', ''), reverse=True)
+        combined_news.sort(key=lambda x: x.get('published_at') or '1970-01-01T00:00:00Z', reverse=True)
         
         # Keep only last 100 news items
         combined_news = combined_news[:100]

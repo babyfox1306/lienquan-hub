@@ -1,45 +1,59 @@
 {
   "news_sources": [
     {
-      "name": "GameK.vn Liên Quân",
-      "url": "https://gamek.vn/lien-quan-mobile.rss",
+      "name": "Liên Quân Mobile Official",
+      "url": "https://lienquan.garena.vn/rss",
       "type": "rss",
       "priority": 1,
       "enabled": true
     },
     {
-      "name": "VnExpress Game",
-      "url": "https://vnexpress.net/rss/game.rss",
+      "name": "GameK.vn",
+      "url": "https://gamek.vn/rss",
       "type": "rss",
       "priority": 2,
       "enabled": true
     },
     {
-      "name": "Zing News Game",
-      "url": "https://zingnews.vn/game.rss",
+      "name": "VnExpress",
+      "url": "https://vnexpress.net/rss",
       "type": "rss",
       "priority": 3,
       "enabled": true
     },
     {
-      "name": "Dân Trí Game",
-      "url": "https://dantri.com.vn/game.rss",
+      "name": "Zing News",
+      "url": "https://zingnews.vn/rss",
       "type": "rss",
       "priority": 4,
       "enabled": true
     },
     {
-      "name": "Liên Quân Mobile Official",
-      "url": "https://lienquan.garena.vn/rss",
+      "name": "Dân Trí",
+      "url": "https://dantri.com.vn/rss",
       "type": "rss",
       "priority": 5,
       "enabled": true
     },
     {
-      "name": "Game4V Liên Quân",
-      "url": "https://game4v.com/lien-quan-mobile.rss",
+      "name": "Tuổi Trẻ",
+      "url": "https://tuoitre.vn/rss",
       "type": "rss",
       "priority": 6,
+      "enabled": true
+    },
+    {
+      "name": "Thanh Niên",
+      "url": "https://thanhnien.vn/rss",
+      "type": "rss",
+      "priority": 7,
+      "enabled": true
+    },
+    {
+      "name": "VietNamNet",
+      "url": "https://vietnamnet.vn/rss",
+      "type": "rss",
+      "priority": 8,
       "enabled": true
     }
   ],

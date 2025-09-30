@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-09-30T13:03:40.468041",
-  "total_news": 17,
+  "last_updated": "2025-09-30T13:08:23.689644",
+  "total_news": 19,
   "news": [
     {
       "id": "news001",
@@ -205,6 +205,32 @@
       "crawled_at": "2025-09-30T13:03:38.354251",
       "category": "tướng",
       "priority": 5
+    },
+    {
+      "id": "2ffb66a446d8",
+      "title": "Bom tấn gây sốt khi hợp tác với Starcraft, tung skin khiến game thủ choáng váng, giá lên tới gần 5 triệu",
+      "link": "https://gamek.vn/bom-tan-gay-sot-khi-hop-tac-voi-starcraft-tung-skin-khien-game-thu-choang-vang-gia-len-toi-gan-5-trieu-178250929085321357.chn",
+      "summary": "Các game thủ Diablo 4 đã rất sốc trước mức giá này.",
+      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/9/29/avatar1759111015732-17591110160011042916452.png",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2025-09-30T13:08:14.237682",
+      "category": "skin",
+      "priority": 2
+    },
+    {
+      "id": "ffe2a6d3f0ff",
+      "title": "Nữ game thủ \"Tung Hoang\" nóng bỏng với trang phục áo tắm, game thủ Liên Quân liên tưởng tới skin \"Tiệc bãi biển\"",
+      "link": "https://gamek.vn/nu-game-thu-tung-hoang-nong-bong-voi-trang-phuc-ao-tam-game-thu-lien-quan-lien-tuong-toi-skin-tiec-bai-bien-178250929130934725.chn",
+      "summary": "Bích Phương vẫn luôn là nữ game thủ \"quốc dân\" đối với cộng đồng.",
+      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/9/29/photo-1759125487546-17591254878751649130488-723-0-1623-1440-crop-17591358006341335273965.png",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2025-09-30T13:08:14.237682",
+      "category": "skin",
+      "priority": 2
     }
   ]
 }

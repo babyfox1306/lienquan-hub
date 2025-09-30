@@ -131,8 +131,11 @@ export default function News({ news }) {
                   filteredNews.map((item, index) => (
                     <div key={item.link} className="card bg-base-100 shadow-xl">
                       <figure>
-                        {/* Placeholder image, replace with actual image from news item if available */}
-                        <img src={`https://picsum.photos/seed/${item.link}/400/225`} alt={item.title} />
+                        <img 
+                          src={item.image_url || `https://picsum.photos/seed/${item.link}/400/225`} 
+                          alt={item.title}
+                          className="w-full h-48 object-cover"
+                        />
                       </figure>
                       <div className="card-body">
                         <div className="flex items-center gap-2 mb-2">
