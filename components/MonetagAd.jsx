@@ -12,13 +12,17 @@ const MonetagAd = ({
   useEffect(() => {
     try {
       // Load Monetag script if not already loaded
-      if (typeof window !== 'undefined' && !window.monetag) {
+      if (typeof window !== 'undefined' && !window.monetagLoaded) {
         const script = document.createElement('script');
         script.async = true;
         script.src = 'https://s.monetag.com/js/monetag.js';
-        script.onload = () => setIsLoaded(true);
+        script.onload = () => {
+          window.monetagLoaded = true;
+          setIsLoaded(true);
+          console.log('Monetag script loaded');
+        };
         document.head.appendChild(script);
-      } else if (window.monetag) {
+      } else if (window.monetagLoaded) {
         setIsLoaded(true);
       }
     } catch (error) {
