@@ -15,8 +15,8 @@ export const BannerAd = ({ className = '' }) => (
 export const SidebarAd = ({ className = '' }) => (
   <div className={`sidebar-ad ${className}`}>
     <AdSense 
-      adSlot="0987654321" // Bạn cần tạo ad unit trong AdSense và thay mã này
-      adFormat="rectangle"
+      adSlot="5836317701" // Sidebar Ad Unit ID thực tế
+      adFormat="auto"
       className="w-full h-64 bg-gradient-to-b from-green-500 to-teal-600 rounded-lg flex items-center justify-center text-white font-bold"
     />
   </div>
