@@ -4,8 +4,8 @@ import AdSense from './AdSense';
 export const BannerAd = ({ className = '' }) => (
   <div className={`banner-ad ${className}`}>
     <AdSense 
-      adSlot="1234567890" // Bạn cần tạo ad unit trong AdSense và thay mã này
-      adFormat="horizontal"
+      adSlot="4513188248" // Banner Ad Unit ID thực tế
+      adFormat="auto"
       className="w-full h-32 bg-gradient-to-r from-blue-500 to-purple-600 rounded-lg flex items-center justify-center text-white font-bold"
     />
   </div>
