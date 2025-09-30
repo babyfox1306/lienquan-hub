@@ -1,4 +1,4 @@
-import { useEffect } from 'react';
+import { useEffect, useState } from 'react';
 
 const AdSense = ({ 
   adSlot, 
@@ -7,6 +7,8 @@ const AdSense = ({
   className = '',
   responsive = true 
 }) => {
+  const [adLoaded, setAdLoaded] = useState(false);
+
   useEffect(() => {
     try {
       // Load AdSense script if not already loaded
@@ -21,13 +23,15 @@ const AdSense = ({
       // Initialize ad
       if (window.adsbygoogle) {
         (window.adsbygoogle = window.adsbygoogle || []).push({});
+        setAdLoaded(true);
       }
     } catch (error) {
       console.error('AdSense error:', error);
     }
   }, []);
 
-  if (!adSlot) {
+  // Don't render anything if no ad slot or not loaded
+  if (!adSlot || !adLoaded) {
     return null;
   }
 

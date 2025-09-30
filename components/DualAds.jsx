@@ -15,25 +15,6 @@ const DualAd = ({
   fallbackToMonetag = false, // Disabled Monetag fallback
   showPlaceholder = false // Don't show placeholder by default
 }) => {
-  const [showAdSense, setShowAdSense] = useState(true);
-  const [adLoaded, setAdLoaded] = useState(false);
-
-  useEffect(() => {
-    // Check if AdSense is available
-    if (typeof window !== 'undefined' && window.adsbygoogle) {
-      setAdLoaded(true);
-    }
-    
-    // No fallback to Monetag - AdSense only
-    if (fallbackToMonetag) {
-      const timer = setTimeout(() => {
-        setShowAdSense(false);
-      }, 3000);
-      
-      return () => clearTimeout(timer);
-    }
-  }, [fallbackToMonetag]);
-
   // Don't render anything if no ads and no placeholder
   if (!adsenseSlot && !showPlaceholder) {
     return null;
@@ -41,7 +22,7 @@ const DualAd = ({
 
   return (
     <div className={`ad-container ${className}`}>
-      {showAdSense && adsenseSlot ? (
+      {adsenseSlot ? (
         <AdSense 
           adSlot={adsenseSlot}
           adFormat={adFormat}
