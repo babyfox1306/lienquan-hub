@@ -11,22 +11,21 @@ const MonetagAd = ({
 
   useEffect(() => {
     try {
-      // Load Monetag script if not already loaded
-      if (typeof window !== 'undefined' && !window.monetagLoaded) {
-        const script = document.createElement('script');
-        script.async = true;
-        script.src = 'https://s.monetag.com/js/monetag.js';
-        script.onload = () => {
-          window.monetagLoaded = true;
+      // MonetagAd uses Service Worker, not script tag
+      console.log('MonetagAd component loaded - using Service Worker');
+      
+      // Check if Service Worker is available
+      if ('serviceWorker' in navigator) {
+        navigator.serviceWorker.ready.then(registration => {
+          console.log('Service Worker ready for MonetagAd');
           setIsLoaded(true);
-          console.log('Monetag script loaded');
-        };
-        document.head.appendChild(script);
-      } else if (window.monetagLoaded) {
-        setIsLoaded(true);
+        });
+      } else {
+        setIsLoaded(true); // Fallback if no Service Worker
       }
     } catch (error) {
-      console.error('Monetag error:', error);
+      console.error('MonetagAd error:', error);
+      setIsLoaded(true); // Fallback on error
     }
   }, []);
 
@@ -36,13 +35,8 @@ const MonetagAd = ({
 
   return (
     <div className={`monetag-container ${className}`}>
-      <ins
-        className="monetag-ad"
-        style={adStyle}
-        data-ad-slot={adSlot}
-        data-ad-format={adFormat}
-        data-responsive={responsive ? 'true' : 'false'}
-      />
+      {/* Monetag ads will be injected by Service Worker */}
+      <div id={`monetag-ad-${adSlot}`}></div>
     </div>
   );
 };
