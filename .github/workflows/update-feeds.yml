@@ -1,12 +1,13 @@
 name: Update Feeds
 on:
   schedule:
-    - cron: '0 * * * *'
-  workflow_dispatch:
+    - cron: '0 * * * *'  # Every hour
+  workflow_dispatch:  # Manual trigger
   push:
     branches: [ main ]
     paths-ignore:
       - 'public/videos.json'
+      - 'public/news.json'
       - 'public/feeds.json'
       - 'public/sitemap.xml'
 
@@ -58,8 +59,8 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git reset --hard
           git pull --rebase origin main
-          git add public/videos.json public/feeds.json public/news.json public/sitemap.xml || true
-          git commit -m "auto: update videos.json" || echo "no changes"
+          git add public/videos.json public/news.json public/feeds.json public/sitemap.xml || true
+          git commit -m "auto: update content from crawlers" || echo "no changes"
           git push
       - name: Trigger Vercel Deploy
         if: ${{ env.VERCEL_TOKEN != '' && env.VERCEL_PROJECT_ID != '' }}
