@@ -46,11 +46,6 @@
       "type": "channel"
     },
     {
-      "id": "UCgYkGvtBuY4onYm2Eh61zwQ",
-      "name": "Arena of Valor",
-      "type": "channel"
-    },
-    {
       "id": "UC55ad8jzcIWCMU-o2CXMEAw",
       "name": "Thầy Giáo Liên Quân",
       "type": "channel"
@@ -98,6 +93,11 @@
     {
       "id": "UCfoEdZzeGa3VW-N_TYYe86Q",
       "name": "Vĩnh Đất",
+      "type": "channel"
+    },
+    {
+      "id": "UCrROWQp9uPZUiTVHuWBwj9g",
+      "name": "Namsensei",
       "type": "channel"
     }
   ],
