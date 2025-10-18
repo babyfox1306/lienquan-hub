@@ -16,6 +16,7 @@ jobs:
     permissions:
       contents: write
     runs-on: ubuntu-latest
+    timeout-minutes: 15
     env:
       YT_API_KEY: ${{ secrets.YT_API_KEY }}
       VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
@@ -44,24 +45,101 @@ jobs:
           fi
           exit 0
       - name: Run video crawler
-        run: python crawler/youtube_rss_fetcher.py
+        run: |
+          echo "🎥 Starting video crawler..."
+          python crawler/youtube_rss_fetcher.py
+          echo "✅ Video crawler completed"
+          ls -la public/videos.json
       - name: Run news crawler
-        run: python crawler/news_crawler.py
+        run: |
+          echo "📰 Starting news crawler..."
+          python crawler/news_crawler.py
+          echo "✅ News crawler completed"
+          ls -la public/news.json
       - name: Generate sitemap
         run: |
+          echo "🗺️ Generating sitemap..."
           node --version
           npm --version
           npm ci || npm install
           npm run sitemap
-      - name: Commit changes
+          echo "✅ Sitemap generated"
+          ls -la public/sitemap.xml
+      - name: Check for changes
+        id: check-changes
         run: |
+          echo "🔍 Checking for changes..."
+          git status
+          git diff --name-only
+          if git diff --quiet HEAD -- public/videos.json public/news.json public/feeds.json public/sitemap.xml; then
+            echo "No changes detected"
+            echo "has-changes=false" >> $GITHUB_OUTPUT
+          else
+            echo "Changes detected in content files"
+            echo "has-changes=true" >> $GITHUB_OUTPUT
+          fi
+      - name: Commit changes
+        if: steps.check-changes.outputs.has-changes == 'true'
+        run: |
+          echo "📝 Committing changes..."
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git reset --hard
-          git pull --rebase origin main
-          git add public/videos.json public/news.json public/feeds.json public/sitemap.xml || true
-          git commit -m "auto: update content from crawlers" || echo "no changes"
-          git push
+          
+          # Add files with error handling
+          echo "Adding files to git..."
+          git add public/videos.json public/news.json public/feeds.json public/sitemap.xml
+          
+          # Check git status
+          echo "Git status:"
+          git status
+          
+          # Commit with error handling
+          echo "Committing changes..."
+          if git commit -m "auto: update content from crawlers - $(date '+%Y-%m-%d %H:%M:%S')"; then
+            echo "✅ Commit successful"
+            
+            # Push with retry logic
+            echo "🚀 Pushing changes..."
+            for i in {1..3}; do
+              if git push; then
+                echo "✅ Push successful on attempt $i"
+                break
+              else
+                echo "❌ Push failed on attempt $i"
+                if [ $i -eq 3 ]; then
+                  echo "❌ All push attempts failed"
+                  exit 1
+                fi
+                sleep 5
+              fi
+            done
+          else
+            echo "❌ Commit failed"
+            exit 1
+          fi
+      - name: No changes detected
+        if: steps.check-changes.outputs.has-changes == 'false'
+        run: |
+          echo "ℹ️ No changes detected, skipping commit"
+      - name: Workflow Summary
+        run: |
+          echo "## 📊 Workflow Summary" >> $GITHUB_STEP_SUMMARY
+          echo "- **Video Crawler:** ✅ Completed" >> $GITHUB_STEP_SUMMARY
+          echo "- **News Crawler:** ✅ Completed" >> $GITHUB_STEP_SUMMARY
+          echo "- **Sitemap Generation:** ✅ Completed" >> $GITHUB_STEP_SUMMARY
+          echo "- **Changes Detected:** ${{ steps.check-changes.outputs.has-changes }}" >> $GITHUB_STEP_SUMMARY
+          if [ "${{ steps.check-changes.outputs.has-changes }}" == "true" ]; then
+            echo "- **Commit Status:** ✅ Success" >> $GITHUB_STEP_SUMMARY
+            echo "- **Push Status:** ✅ Success" >> $GITHUB_STEP_SUMMARY
+          else
+            echo "- **Commit Status:** ⏭️ Skipped (no changes)" >> $GITHUB_STEP_SUMMARY
+          fi
+          echo "- **Vercel Deploy:** 🔄 Auto-triggered by git push" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "**Next Steps:**" >> $GITHUB_STEP_SUMMARY
+          echo "1. Check website for updated content" >> $GITHUB_STEP_SUMMARY
+          echo "2. Monitor Vercel deployment status" >> $GITHUB_STEP_SUMMARY
+          echo "3. Verify content is displaying correctly" >> $GITHUB_STEP_SUMMARY
       - name: Trigger Vercel Deploy
         if: ${{ env.VERCEL_TOKEN != '' && env.VERCEL_PROJECT_ID != '' }}
         run: |
