@@ -78,24 +78,24 @@ export default function Home({ videos }) {
       {/* Banner Ad - Only show when ads available */}
       <BannerAd className="max-w-6xl mx-auto px-6" />
       
-      <main className="p-6">
-        <section className="max-w-6xl mx-auto mb-8">
-          <div className="text-center py-8">
-            <h1 className="text-3xl font-bold mb-4">Liên Quân Hub</h1>
-            <p className="text-base-content/70 mb-6">Tổng hợp highlight, guide, news — cập nhật tự động từ YouTube/RSS</p>
-            <div className="join w-full max-w-xl mb-4">
-              <input className="input input-bordered join-item w-full" placeholder="Tìm video..." onChange={() => {}} />
-              <button className="btn btn-primary join-item">Search</button>
+      <main className="p-3 sm:p-4 md:p-6">
+        <section className="max-w-6xl mx-auto mb-6 sm:mb-8">
+          <div className="text-center py-4 sm:py-6 md:py-8">
+            <h1 className="text-2xl sm:text-3xl md:text-4xl font-bold mb-3 sm:mb-4">Liên Quân Hub</h1>
+            <p className="text-sm sm:text-base text-base-content/70 mb-4 sm:mb-6 px-4">Tổng hợp highlight, guide, news — cập nhật tự động từ YouTube/RSS</p>
+            <div className="join w-full max-w-sm sm:max-w-md md:max-w-xl mb-4 px-4">
+              <input className="input input-bordered join-item w-full text-sm sm:text-base" placeholder="Tìm video..." onChange={() => {}} />
+              <button className="btn btn-primary join-item text-sm sm:text-base">Search</button>
             </div>
-            <div className="tabs tabs-boxed inline-grid grid-flow-col auto-cols-max">
-              <a className="tab tab-active">All</a>
-              <a className="tab">Highlight</a>
-              <a className="tab">Guide</a>
-              <a className="tab">News</a>
+            <div className="tabs tabs-boxed inline-flex flex-wrap justify-center gap-1 sm:gap-2">
+              <a className="tab tab-active text-xs sm:text-sm">All</a>
+              <a className="tab text-xs sm:text-sm">Highlight</a>
+              <a className="tab text-xs sm:text-sm">Guide</a>
+              <a className="tab text-xs sm:text-sm">News</a>
             </div>
           </div>
         </section>
-        <section className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6">
+        <section className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-3 sm:gap-4 md:gap-6">
           {currentVideos.map((v, idx) => (
             <VideoCard key={v.videoId} videoId={v.videoId} title={v.title} priority={idx === 0} />
           ))}
