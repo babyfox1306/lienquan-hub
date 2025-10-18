@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-10-18T09:02:02.513086",
-  "total_news": 32,
+  "last_updated": "2025-10-18T10:02:08.254679",
+  "total_news": 33,
   "news": [
     {
       "id": "9403428d639d",
@@ -348,6 +348,19 @@
       "crawled_at": "2025-09-30T13:03:38.354251",
       "category": "tướng",
       "priority": 5
+    },
+    {
+      "id": "18ccaf5e65e2",
+      "title": "Cao thủ bí ẩn nhất của Kim Dung: Kiếm pháp ngang Độc Cô Cầu Bại nhưng bị tác giả 'gạt phăng' khỏi võ lâm",
+      "link": "https://gamek.vn/cao-thu-bi-an-nhat-cua-kim-dung-kiem-phap-ngang-doc-co-cau-bai-nhung-bi-tac-gia-gat-phang-khoi-vo-lam-178251017173001824.chn",
+      "summary": "Cao thủ này là ai?",
+      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/10/17/avatar1760696888554-17606968894721538001452.jpg",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2025-10-18T10:01:42.205969",
+      "category": "tin tức",
+      "priority": 2
     },
     {
       "id": "8e8ecb249c40",
