@@ -41,6 +41,11 @@
       "type": "channel"
     },
     {
+      "id": "UCeMjhoCCvujpObnt6yeZeNg",
+      "name": "Garena 傳說對決",
+      "type": "channel"
+    },
+    {
       "id": "UC55ad8jzcIWCMU-o2CXMEAw",
       "name": "Thầy Giáo Liên Quân",
       "type": "channel"
@@ -93,11 +98,6 @@
     {
       "id": "UCrROWQp9uPZUiTVHuWBwj9g",
       "name": "Namsensei",
-      "type": "channel"
-    },
-    {
-      "id": "UCI6Ml9gti-vkLVFi49LNkpg",
-      "name": "Tuhzu Mobile",
       "type": "channel"
     }
   ],
