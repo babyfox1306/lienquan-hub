@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-10-18T08:02:14.810480",
-  "total_news": 31,
+  "last_updated": "2025-10-18T09:02:02.513086",
+  "total_news": 32,
   "news": [
     {
       "id": "9403428d639d",
@@ -348,6 +348,19 @@
       "crawled_at": "2025-09-30T13:03:38.354251",
       "category": "tướng",
       "priority": 5
+    },
+    {
+      "id": "8e8ecb249c40",
+      "title": "Dàn tướng đạt tỷ lệ thắng cao nhất CKTG 2025 tính đến hiện tại, T1 có thể tận dụng",
+      "link": "https://gamek.vn/dan-tuong-dat-ty-le-thang-cao-nhat-cktg-2025-tinh-den-hien-tai-t1-co-the-tan-dung-178251018115558273.chn",
+      "summary": "4/5 tướng LMHT trong danh sách này đều rất thuận tay T1.",
+      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/10/18/cktg-tuong-lmht-4-1760763339252274772140-0-0-1250-2000-crop-17607633470481675791157.jpg",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2025-10-18T09:01:43.177169",
+      "category": "tướng",
+      "priority": 2
     },
     {
       "id": "6e21f484828e",
