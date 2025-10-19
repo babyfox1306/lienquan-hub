@@ -21,6 +21,11 @@
       "type": "channel"
     },
     {
+      "id": "UCAml1Hqu4LW36B3yEtQg8Fw",
+      "name": "FUNNY GAMING TV",
+      "type": "channel"
+    },
+    {
       "id": "UC3QLI0FHwACCaa91Xdpam2A",
       "name": "Trải Nghiệm Game",
       "type": "channel"
@@ -93,11 +98,6 @@
     {
       "id": "UCrROWQp9uPZUiTVHuWBwj9g",
       "name": "Namsensei",
-      "type": "channel"
-    },
-    {
-      "id": "UCI6Ml9gti-vkLVFi49LNkpg",
-      "name": "Tuhzu Mobile",
       "type": "channel"
     }
   ],
