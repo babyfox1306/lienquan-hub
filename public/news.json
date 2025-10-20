@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-10-20T12:02:14.797371",
-  "total_news": 33,
+  "last_updated": "2025-10-20T13:10:20.572217",
+  "total_news": 34,
   "news": [
     {
       "id": "9403428d639d",
@@ -348,6 +348,19 @@
       "crawled_at": "2025-09-30T13:03:38.354251",
       "category": "tướng",
       "priority": 5
+    },
+    {
+      "id": "a07cff2fde6a",
+      "title": "Đông Phương Bất Bại, Phong Thanh Dương và Phương Chứng đại sư đối đầu, ai thắng?",
+      "link": "https://gamek.vn/dong-phuong-bat-bai-phong-thanh-duong-va-phuong-chung-dai-su-doi-dau-ai-thang-178251020161121989.chn",
+      "summary": "Trong 3 vị đại cao thủ này, ai là người mạnh nhất?",
+      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/10/20/avatar1760951350676-17609513511821802509747-1-117-275-555-crop-17609515238252078556209.png",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2025-10-20T13:10:02.821902",
+      "category": "tin tức",
+      "priority": 2
     },
     {
       "id": "18ccaf5e65e2",
