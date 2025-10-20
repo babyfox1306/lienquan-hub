@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://example.com/</loc></url>
+  <url><loc>https://example.com/watch/uVmRs30jv6Q</loc></url>
   <url><loc>https://example.com/watch/WzZqeCmFETY</loc></url>
   <url><loc>https://example.com/watch/TEVfqat2-cs</loc></url>
   <url><loc>https://example.com/watch/dMAzXKmrhJ8</loc></url>
@@ -25,6 +26,7 @@
   <url><loc>https://example.com/watch/WmlN5UND0gI</loc></url>
   <url><loc>https://example.com/watch/C7PO7xP5hMY</loc></url>
   <url><loc>https://example.com/watch/LMoF8x_JvZM</loc></url>
+  <url><loc>https://example.com/watch/GtWsxkLjxPY</loc></url>
   <url><loc>https://example.com/watch/LBUy1UIzkxE</loc></url>
   <url><loc>https://example.com/watch/ZmXMuB7b4zM</loc></url>
   <url><loc>https://example.com/watch/tUOu0lSFnYs</loc></url>
@@ -35,7 +37,6 @@
   <url><loc>https://example.com/watch/7U3VA0RJs2Q</loc></url>
   <url><loc>https://example.com/watch/WhXXeXlnplE</loc></url>
   <url><loc>https://example.com/watch/oP-vFkNUcTk</loc></url>
-  <url><loc>https://example.com/watch/90p1dNkSvVc</loc></url>
   <url><loc>https://example.com/watch/7C1iAxl8rkY</loc></url>
   <url><loc>https://example.com/watch/9-rrgEkOJCg</loc></url>
   <url><loc>https://example.com/watch/O3OWjy02pPU</loc></url>
@@ -98,11 +99,11 @@
   <url><loc>https://example.com/watch/x7R2K6TMf9o</loc></url>
   <url><loc>https://example.com/watch/fOsofmu2Jls</loc></url>
   <url><loc>https://example.com/watch/97aySaazor8</loc></url>
+  <url><loc>https://example.com/watch/3R7qvYnktDc</loc></url>
   <url><loc>https://example.com/watch/TVRmoy-VyKs</loc></url>
   <url><loc>https://example.com/watch/4jdmASQICsc</loc></url>
   <url><loc>https://example.com/watch/7JlPU9fjS-I</loc></url>
   <url><loc>https://example.com/watch/2SIRsTtAdPM</loc></url>
-  <url><loc>https://example.com/watch/X_frWsawZoI</loc></url>
   <url><loc>https://example.com/watch/ZmYCJOYzzsE</loc></url>
   <url><loc>https://example.com/watch/XlwLpyymKhs</loc></url>
   <url><loc>https://example.com/watch/7Y6FVIOH5LU</loc></url>
@@ -201,5 +202,4 @@
   <url><loc>https://example.com/watch/zizcUO6lIqU</loc></url>
   <url><loc>https://example.com/watch/IlcVeGBYrDU</loc></url>
   <url><loc>https://example.com/watch/Sew_UmqUyIc</loc></url>
-  <url><loc>https://example.com/watch/Ubp87OSCoxA</loc></url>
 </urlset>
