@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-10-20T14:02:01.014168",
-  "total_news": 34,
+  "last_updated": "2025-10-20T15:02:01.545190",
+  "total_news": 35,
   "news": [
     {
       "id": "9403428d639d",
@@ -348,6 +348,19 @@
       "crawled_at": "2025-09-30T13:03:38.354251",
       "category": "tướng",
       "priority": 5
+    },
+    {
+      "id": "272a559f630a",
+      "title": "4 \"trùm cuối\" nhưng chưa từng lộ mặt trong tiểu thuyết Kim Dung",
+      "link": "https://gamek.vn/4-trum-cuoi-nhung-chua-tung-lo-mat-trong-tieu-thuyet-kim-dung-178251019180358723.chn",
+      "summary": "Đây là 4 đại cao thủ huyền thoại võ lâm nhưng chưa từng lộ mặt trong tiểu thuyết Kim Dung.",
+      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/10/20/avatar1760970083589-17609700839521801042055.png",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2025-10-20T15:01:42.045940",
+      "category": "tin tức",
+      "priority": 2
     },
     {
       "id": "a07cff2fde6a",
