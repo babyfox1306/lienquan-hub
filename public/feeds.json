@@ -46,6 +46,11 @@
       "type": "channel"
     },
     {
+      "id": "UC1EOVZPr8neE-05eqKR_K-Q",
+      "name": "ADC Gaming",
+      "type": "channel"
+    },
+    {
       "id": "UC55ad8jzcIWCMU-o2CXMEAw",
       "name": "Thầy Giáo Liên Quân",
       "type": "channel"
@@ -76,28 +81,23 @@
       "type": "channel"
     },
     {
+      "id": "UChVW44gbrdQjc0zF_4-LbUA",
+      "name": "Onekill TV",
+      "type": "channel"
+    },
+    {
       "id": "UCJojBppsLbhkaQ_DySRWM-A",
       "name": "BLV Thanh Tùng",
       "type": "channel"
     },
     {
-      "id": "UCMHSTFMGp-k4Z0kG-CfMSWg",
-      "name": "HTT GAMER LIÊN QUÂN MOBILE",
+      "id": "UCL_X1VBEYADQHmEIsmRHpGg",
+      "name": "Khánh Hy",
       "type": "channel"
     },
     {
-      "id": "UCbRugPHs-2i48MbID-AnEVQ",
-      "name": "Htt Gamer Liên Quân TV",
-      "type": "channel"
-    },
-    {
-      "id": "UCfoEdZzeGa3VW-N_TYYe86Q",
-      "name": "Vĩnh Đất",
-      "type": "channel"
-    },
-    {
-      "id": "UCI6Ml9gti-vkLVFi49LNkpg",
-      "name": "Tuhzu Mobile",
+      "id": "UCB7b1Gb6yM-RyY0YW1HY6pA",
+      "name": "Tainzo",
       "type": "channel"
     }
   ],
