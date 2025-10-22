@@ -31,6 +31,11 @@
       "type": "channel"
     },
     {
+      "id": "UC1ysb__ddApp3PlDva5NAVw",
+      "name": "Top 1 Liliana",
+      "type": "channel"
+    },
+    {
       "id": "UCLmVT2XmCej720HFtG7mwSQ",
       "name": "NTD LQ",
       "type": "channel"
@@ -93,11 +98,6 @@
     {
       "id": "UCVQ0x-tX9TVjkq-a_E4mKvA",
       "name": "garena liên quân Mobile",
-      "type": "channel"
-    },
-    {
-      "id": "UCMbrDKjY4rPux25EtovG6Hg",
-      "name": "Liên quân mobile",
       "type": "channel"
     }
   ],
