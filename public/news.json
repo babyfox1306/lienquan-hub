@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-10-24T14:02:13.297650",
-  "total_news": 45,
+  "last_updated": "2025-10-24T15:02:06.011694",
+  "total_news": 46,
   "news": [
     {
       "id": "e9ff82dce4c1",
@@ -465,6 +465,19 @@
       "crawled_at": "2025-09-30T13:03:38.354251",
       "category": "tướng",
       "priority": 5
+    },
+    {
+      "id": "c74e841895f8",
+      "title": "8 mãnh tướng mạnh nhất Tam Quốc chí: Bất ngờ với thứ hạng Quan Vũ, Trương Phi",
+      "link": "https://gamek.vn/8-manh-tuong-manh-nhat-tam-quoc-chi-bat-ngo-voi-thu-hang-quan-vu-truong-phi-178251021152309757.chn",
+      "summary": "Bảng xếp hạng 8 mãnh tướng mạnh nhất thời Tam Quốc gồm những ai?",
+      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/10/21/avatar1761034869370-176103487114191676881-0-88-275-528-crop-17610349130041260354493.png",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2025-10-24T15:01:47.853988",
+      "category": "tướng",
+      "priority": 2
     },
     {
       "id": "e3faa662d9f0",
