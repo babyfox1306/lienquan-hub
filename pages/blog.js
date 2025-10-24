@@ -5,22 +5,31 @@ import Link from 'next/link';
 export default function Blog() {
   const articles = [
     {
-      id: 'violet-build-guide-2025',
-      title: 'Hướng dẫn build Violet mùa 4 2025 - Từ cơ bản đến cao thủ',
-      excerpt: 'Violet là một trong những ADC mạnh nhất hiện tại với khả năng gây sát thương cực cao. Bài viết này sẽ hướng dẫn chi tiết cách build đồ, combo skill và chiến thuật sử dụng Violet hiệu quả nhất.',
+      id: 'azzenka-guide-2025',
+      title: 'Hướng dẫn Azzen\'ka mùa 4 2025 - Tướng mới mạnh nhất hiện tại',
+      excerpt: 'Azzen\'ka là tướng mới được ra mắt trong phiên bản Quang Minh & Hắc Ám với khả năng khống chế cực mạnh và sát thương phép thuật cao. Bài viết này sẽ hướng dẫn chi tiết cách build đồ, combo skill và chiến thuật sử dụng Azzen\'ka hiệu quả nhất.',
       category: 'Guide Hero',
-      readTime: '8 phút',
+      readTime: '12 phút',
       date: '2025-10-24',
-      image: 'https://i.ytimg.com/vi/dQw4w9WgXcQ/hqdefault.jpg'
+      image: 'https://i.ytimg.com/vi/7yZ7omLy0YQ/maxresdefault.jpg'
     },
     {
       id: 'meta-analysis-season-4',
       title: 'Phân tích Meta mùa 4 2025 - Top tướng và chiến thuật',
       excerpt: 'Mùa 4 mang đến nhiều thay đổi lớn trong meta game. Chúng tôi phân tích chi tiết các tướng mạnh nhất, combo đội hình hiệu quả và xu hướng meta hiện tại.',
       category: 'Meta Game',
-      readTime: '12 phút',
-      date: '2025-10-23',
-      image: 'https://i.ytimg.com/vi/dQw4w9WgXcQ/hqdefault.jpg'
+      readTime: '15 phút',
+      date: '2025-10-24',
+      image: 'https://i.ytimg.com/vi/Ksvv3l9Bikg/maxresdefault.jpg'
+    },
+    {
+      id: 'violet-build-guide-2025',
+      title: 'Hướng dẫn build Violet mùa 4 2025 - Từ cơ bản đến cao thủ',
+      excerpt: 'Violet là một trong những ADC mạnh nhất hiện tại với khả năng gây sát thương cực cao. Bài viết này sẽ hướng dẫn chi tiết cách build đồ, combo skill và chiến thuật sử dụng Violet hiệu quả nhất.',
+      category: 'Guide Hero',
+      readTime: '8 phút',
+      date: '2025-10-24',
+      image: 'https://i.ytimg.com/vi/dQw4w9WgXcQ/maxresdefault.jpg'
     },
     {
       id: 'rank-up-tips-diamond',
@@ -28,8 +37,8 @@ export default function Blog() {
       excerpt: 'Leo rank từ Vàng lên Kim Cương là một thử thách lớn. Bài viết chia sẻ kinh nghiệm thực tế từ các cao thủ, bao gồm cách chọn tướng, chiến thuật team fight và tâm lý thi đấu.',
       category: 'Tips Rank',
       readTime: '10 phút',
-      date: '2025-10-22',
-      image: 'https://i.ytimg.com/vi/dQw4w9WgXcQ/hqdefault.jpg'
+      date: '2025-10-23',
+      image: 'https://i.ytimg.com/vi/dQw4w9WgXcQ/maxresdefault.jpg'
     },
     {
       id: 'jungle-guide-season-4',
@@ -37,8 +46,8 @@ export default function Blog() {
       excerpt: 'Đi rừng là vị trí quan trọng nhất trong game. Bài viết hướng dẫn chi tiết cách đi rừng hiệu quả, timing gank, kiểm soát rồng và cách carry team.',
       category: 'Guide Position',
       readTime: '15 phút',
-      date: '2025-10-21',
-      image: 'https://i.ytimg.com/vi/dQw4w9WgXcQ/hqdefault.jpg'
+      date: '2025-10-22',
+      image: 'https://i.ytimg.com/vi/dQw4w9WgXcQ/maxresdefault.jpg'
     },
     {
       id: 'skin-review-new-collection',
@@ -46,17 +55,8 @@ export default function Blog() {
       excerpt: 'Bộ skin Quang Minh & Hắc Ám là một trong những bộ skin đẹp nhất từ trước đến nay. Chúng tôi review chi tiết hiệu ứng, animation và giá trị của từng skin.',
       category: 'Skin Review',
       readTime: '6 phút',
-      date: '2025-10-20',
-      image: 'https://i.ytimg.com/vi/dQw4w9WgXcQ/hqdefault.jpg'
-    },
-    {
-      id: 'esports-analysis-awc-2025',
-      title: 'Phân tích Esports AWC 2025 - Xu hướng và dự đoán',
-      excerpt: 'AWC 2025 đang diễn ra với nhiều trận đấu kịch tính. Chúng tôi phân tích chiến thuật của các đội tuyển hàng đầu, meta game trong esports và dự đoán kết quả.',
-      category: 'Esports',
-      readTime: '14 phút',
-      date: '2025-10-19',
-      image: 'https://i.ytimg.com/vi/dQw4w9WgXcQ/hqdefault.jpg'
+      date: '2025-10-21',
+      image: 'https://i.ytimg.com/vi/dQw4w9WgXcQ/maxresdefault.jpg'
     }
   ];
 
