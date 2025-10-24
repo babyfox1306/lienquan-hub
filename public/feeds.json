@@ -3,102 +3,62 @@
     {
       "id": "UCpnQwjzvDm1MOMtZV2zkVpA",
       "name": "Liên Quân Mobile eSports-Garena",
-      "type": "channel"
-    },
-    {
-      "id": "UCpd1Gf-SZjc_5ce5vVq5FTg",
-      "name": "Mobile MOBA Việt",
-      "type": "channel"
-    },
-    {
-      "id": "UCy19QXxbCHh8qVVCbuGk-ig",
-      "name": "Garena RoV Thailand",
-      "type": "channel"
-    },
-    {
-      "id": "UCykFSnImGNa-5DABblw7K-w",
-      "name": "Gcaothu CHANNEL",
-      "type": "channel"
-    },
-    {
-      "id": "UCAml1Hqu4LW36B3yEtQg8Fw",
-      "name": "FUNNY GAMING TV",
-      "type": "channel"
-    },
-    {
-      "id": "UC3QLI0FHwACCaa91Xdpam2A",
-      "name": "Trải Nghiệm Game",
-      "type": "channel"
+      "type": "channel",
+      "quality": "official"
     },
     {
       "id": "UCIzzawIg4eCPgZggwFzEQbQ",
       "name": "Garena Liên Quân Mobile",
-      "type": "channel"
+      "type": "channel",
+      "quality": "official"
     },
     {
-      "id": "UCFgdNlUefoIqZm_IQssJkHw",
-      "name": "ĐỆ TỨ Liên Quân Mobile",
-      "type": "channel"
-    },
-    {
-      "id": "UCeMjhoCCvujpObnt6yeZeNg",
-      "name": "Garena 傳說對決",
-      "type": "channel"
-    },
-    {
-      "id": "UC1EOVZPr8neE-05eqKR_K-Q",
-      "name": "ADC Gaming",
-      "type": "channel"
+      "id": "UCpd1Gf-SZjc_5ce5vVq5FTg",
+      "name": "Mobile MOBA Việt",
+      "type": "channel",
+      "quality": "high"
     },
     {
       "id": "UC55ad8jzcIWCMU-o2CXMEAw",
       "name": "Thầy Giáo Liên Quân",
-      "type": "channel"
+      "type": "channel",
+      "quality": "high"
     },
     {
-      "id": "UCH0k4wQg5_QfL2hHavyL-xA",
-      "name": "Tran Binh",
-      "type": "channel"
-    },
-    {
-      "id": "UCyqjmx1kcZknycssiIhFQKw",
-      "name": "VuxGaming",
-      "type": "channel"
-    },
-    {
-      "id": "UCpQ52533EsOa5k-dQSmD1jw",
-      "name": "Ha Le Quyen",
-      "type": "channel"
+      "id": "UC1EOVZPr8neE-05eqKR_K-Q",
+      "name": "ADC Gaming",
+      "type": "channel",
+      "quality": "high"
     },
     {
       "id": "UC1ysb__ddApp3PlDva5NAVw",
       "name": "Top 1 Liliana",
-      "type": "channel"
+      "type": "channel",
+      "quality": "high"
     },
     {
       "id": "UCLmVT2XmCej720HFtG7mwSQ",
       "name": "NTD LQ",
-      "type": "channel"
+      "type": "channel",
+      "quality": "high"
     },
     {
       "id": "UChVW44gbrdQjc0zF_4-LbUA",
       "name": "Onekill TV",
-      "type": "channel"
+      "type": "channel",
+      "quality": "high"
     },
     {
       "id": "UCJojBppsLbhkaQ_DySRWM-A",
       "name": "BLV Thanh Tùng",
-      "type": "channel"
-    },
-    {
-      "id": "UCL_X1VBEYADQHmEIsmRHpGg",
-      "name": "Khánh Hy",
-      "type": "channel"
+      "type": "channel",
+      "quality": "high"
     },
     {
       "id": "UCB7b1Gb6yM-RyY0YW1HY6pA",
       "name": "Tainzo",
-      "type": "channel"
+      "type": "channel",
+      "quality": "high"
     }
   ],
   "manual_videos": []

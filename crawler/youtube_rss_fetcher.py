@@ -63,17 +63,56 @@ def fetch():
             except Exception:
                 pass
             
-            # Filter out non-gaming content
+            # STRICT FILTERING - Only allow Liên Quân Mobile content
             title_lower = title.lower()
+            
+            # Must contain Liên Quân keywords
+            lienquan_keywords = [
+                'liên quân', 'lien quan', 'arena of valor', 'aov', 'rov',
+                'garena', 'mobile moba', 'moba mobile', 'tướng', 'champion',
+                'rank', 'leo rank', 'esports', 'tournament', 'thi đấu',
+                'highlight', 'combo', 'build', 'guide', 'hướng dẫn',
+                'meta', 'patch', 'cập nhật', 'skin', 'tướng mới'
+            ]
+            
+            # Check if contains Liên Quân keywords
+            has_lienquan_content = any(keyword in title_lower for keyword in lienquan_keywords)
+            
+            # Strict exclude keywords
             exclude_keywords = [
+                # Non-gaming content
                 'vật cổ truyền', 'hội làng', 'hội xuân', 'đô long', 'bắc ninh',
                 'cooking', 'nấu ăn', 'ẩm thực', 'du lịch', 'travel', 'vlog',
                 'âm nhạc', 'music', 'ca nhạc', 'karaoke', 'nhạc', 'bài hát',
                 'thể thao', 'sport', 'bóng đá', 'football', 'bóng chuyền',
-                'phim', 'movie', 'cinema', 'drama', 'truyện', 'story'
+                'phim', 'movie', 'cinema', 'drama', 'truyện', 'story',
+                # Other games
+                'pubg', 'free fire', 'lol', 'league of legends', 'dota',
+                'valorant', 'csgo', 'counter strike', 'fifa', 'pes',
+                'minecraft', 'roblox', 'among us', 'fall guys',
+                # Low quality content
+                'reaction', 'phản ứng', 'review', 'đánh giá', 'unboxing',
+                'mở hộp', 'giveaway', 'tặng', 'quà', 'event', 'sự kiện',
+                'livestream', 'stream', 'live', 'trực tiếp'
             ]
+            
+            # Skip if contains exclude keywords
             if any(keyword in title_lower for keyword in exclude_keywords):
-                print(f'Skipping non-gaming video: {title.encode("utf-8", errors="ignore").decode("utf-8")}')
+                print(f'❌ Skipping excluded content: {title[:60]}...')
+                continue
+                
+            # Skip if doesn't contain Liên Quân content
+            if not has_lienquan_content:
+                print(f'❌ Skipping non-Liên Quân content: {title[:60]}...')
+                continue
+                
+            # Additional quality checks
+            if len(title) < 10:  # Too short
+                print(f'❌ Skipping too short title: {title}')
+                continue
+                
+            if len(title) > 200:  # Too long (likely spam)
+                print(f'❌ Skipping too long title: {title[:60]}...')
                 continue
             # Try to extract publish date in ISO8601
             published_iso = None
