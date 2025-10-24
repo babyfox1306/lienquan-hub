@@ -21,6 +21,7 @@ export default function NavBar() {
         <div className="hidden sm:flex">
           <Link href="/" className="btn btn-ghost btn-xs sm:btn-sm">Video</Link>
           <Link href="/news" className="btn btn-ghost btn-xs sm:btn-sm">Tin tức</Link>
+          <Link href="/blog" className="btn btn-ghost btn-xs sm:btn-sm">Blog</Link>
         </div>
       </div>
       <div className="flex-none gap-1 sm:gap-2">

@@ -1,6 +1,7 @@
 import fs from 'fs';
 import path from 'path';
 import NavBar from '../components/NavBar';
+import Footer from '../components/Footer';
 import Head from 'next/head';
 import VideoCard from '../components/VideoCard';
 import Pagination from '../components/Pagination';
@@ -109,9 +110,7 @@ export default function Home({ videos }) {
           totalPages={totalPages} 
           totalVideos={totalVideos} 
         />
-        <footer className="mt-10 py-6 text-center text-sm text-base-content/60">
-          © {new Date().getFullYear()} Liên Quân Hub — nguồn: YouTube
-        </footer>
+        <Footer />
       </main>
     </div>
   );
