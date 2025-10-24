@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-10-24T05:02:10.919156",
-  "total_news": 41,
+  "last_updated": "2025-10-24T06:02:10.072041",
+  "total_news": 42,
   "news": [
     {
       "id": "1edb34599c64",
@@ -426,6 +426,19 @@
       "crawled_at": "2025-09-30T13:03:38.354251",
       "category": "tướng",
       "priority": 5
+    },
+    {
+      "id": "e3faa662d9f0",
+      "title": "FC Mobile chấn động cộng đồng khi mang siêu giải đấu quốc tế cùng huyền thoại Kaká, Figo \"đổ bộ\" Việt Nam",
+      "link": "https://gamek.vn/fc-mobile-chan-dong-cong-dong-khi-mang-sieu-giai-dau-quoc-te-cung-huyen-thoai-kaka-figo-do-bo-viet-nam-178251024111247996.chn",
+      "summary": "Hai huyền thoại Kaká, Figo sẽ xuất hiện trong ngày ra mắt giải đấu Esports quốc tế cực lớn của FC Mobile Việt Nam.",
+      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/10/24/avatar1761278837645-17612788382792146518061.png",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2025-10-24T06:01:52.086034",
+      "category": "esports",
+      "priority": 2
     },
     {
       "id": "272a559f630a",
