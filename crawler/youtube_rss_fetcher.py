@@ -123,7 +123,16 @@ def fetch():
                     published_iso = time.strftime('%Y-%m-%dT%H:%M:%SZ', entry.updated_parsed)
             except Exception:
                 published_iso = None
-            item = {"videoId": vid, "title": title, "source": "youtube", "publishedAt": published_iso}
+            # Extract thumbnail URL
+            thumbnail_url = f"https://i.ytimg.com/vi/{vid}/maxresdefault.jpg"
+            
+            item = {
+                "videoId": vid, 
+                "title": title, 
+                "source": "youtube", 
+                "publishedAt": published_iso,
+                "thumbnailUrl": thumbnail_url
+            }
             if not any(v['videoId'] == vid for v in videos):
                 videos.append(item)
                 print(f'Added new video: {title[:50]}... - {published_iso}')
