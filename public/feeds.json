@@ -11,6 +11,11 @@
       "type": "channel"
     },
     {
+      "id": "UCykFSnImGNa-5DABblw7K-w",
+      "name": "Gcaothu CHANNEL",
+      "type": "channel"
+    },
+    {
       "id": "UC3QLI0FHwACCaa91Xdpam2A",
       "name": "Trải Nghiệm Game",
       "type": "channel"
@@ -31,13 +36,18 @@
       "type": "channel"
     },
     {
-      "id": "UC1ysb__ddApp3PlDva5NAVw",
-      "name": "Top 1 Liliana",
+      "id": "UCyqjmx1kcZknycssiIhFQKw",
+      "name": "VuxGaming",
       "type": "channel"
     },
     {
-      "id": "UCLmVT2XmCej720HFtG7mwSQ",
-      "name": "NTD LQ",
+      "id": "UCMHSTFMGp-k4Z0kG-CfMSWg",
+      "name": "HTT GAMER LIÊN QUÂN MOBILE",
+      "type": "channel"
+    },
+    {
+      "id": "UCOXM2BzxpWswBMz7QpC3M1Q",
+      "name": "Love6 liên quân mobile",
       "type": "channel"
     },
     {
@@ -46,8 +56,13 @@
       "type": "channel"
     },
     {
-      "id": "UCk4V8BT5y0HFTK4d1AYjEvg",
-      "name": "GKL8 LIÊN QUÂN CHANELL",
+      "id": "UCI6Ml9gti-vkLVFi49LNkpg",
+      "name": "Tuhzu Mobile",
+      "type": "channel"
+    },
+    {
+      "id": "UCgbMglNu16CgtxKRg3LrpjQ",
+      "name": "CBNN Liên Quân Mobile",
       "type": "channel"
     },
     {
@@ -61,43 +76,28 @@
       "type": "channel"
     },
     {
+      "id": "UC92yhXD5hj0xvDbUj3d9aJw",
+      "name": "Liên Quân Mobile - Topic",
+      "type": "channel"
+    },
+    {
+      "id": "UCA6jTyuscaCl7YoNLtE1kjw",
+      "name": "Bình Mine Liên Quân Mobile",
+      "type": "channel"
+    },
+    {
       "id": "UCg1JLR8n5gapej24pDjdGng",
       "name": "Garena liên quân mobile",
       "type": "channel"
     },
     {
+      "id": "UCP3Kz2HVOpla822wq6xRxvQ",
+      "name": "Top 1 Liên Quân Mobile Tướng",
+      "type": "channel"
+    },
+    {
       "id": "UCWf2h2oDJUZ1NWAf-8Fcb9A",
       "name": "Liên Quân Mobile eSports - Garena",
-      "type": "channel"
-    },
-    {
-      "id": "UCeGc74La_cxRDfIh9E6uEiA",
-      "name": "Liên quân mobile",
-      "type": "channel"
-    },
-    {
-      "id": "UCtriRwAZs7S6cfOSmOLuphA",
-      "name": "garena liên quân mobile",
-      "type": "channel"
-    },
-    {
-      "id": "UCA70x9kBv6Feaslh-k2QxVw",
-      "name": "Liên quân mobile ",
-      "type": "channel"
-    },
-    {
-      "id": "UCUypu6HW1VvNuEkcdAgjOKQ",
-      "name": "Garena Liên Quân Mobile",
-      "type": "channel"
-    },
-    {
-      "id": "UCyjlxkSwTbQcV2154pyH_Bg",
-      "name": "LIÊN QUÂN (mobile)",
-      "type": "channel"
-    },
-    {
-      "id": "UCVQ0x-tX9TVjkq-a_E4mKvA",
-      "name": "garena liên quân Mobile",
       "type": "channel"
     }
   ],
