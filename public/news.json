@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-10-25T09:01:57.831588",
-  "total_news": 46,
+  "last_updated": "2025-10-25T10:02:02.933143",
+  "total_news": 47,
   "news": [
     {
       "id": "e9ff82dce4c1",
@@ -465,6 +465,19 @@
       "crawled_at": "2025-09-30T13:03:38.354251",
       "category": "tướng",
       "priority": 5
+    },
+    {
+      "id": "d1b145893e9e",
+      "title": "Genshin Impact mang tới tin buồn trong bản cập nhật 6.2",
+      "link": "https://gamek.vn/genshin-impact-mang-toi-tin-buon-trong-ban-cap-nhat-62-178251024222724487.chn",
+      "summary": "Có lẽ, đây là điều mà không game thủ nào mong muốn.",
+      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/10/25/thumb-photo-1761319000545-17613190012541767069272-17613191053611400373176-107-171-929-1486-crop-1761370265748937473058.png",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2025-10-25T10:01:43.117834",
+      "category": "cập nhật",
+      "priority": 2
     },
     {
       "id": "c74e841895f8",
