@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-10-26T13:07:01.361441",
-  "total_news": 47,
+  "last_updated": "2025-10-26T14:01:52.424540",
+  "total_news": 48,
   "news": [
     {
       "id": "e9ff82dce4c1",
@@ -465,6 +465,19 @@
       "crawled_at": "2025-09-30T13:03:38.354251",
       "category": "tướng",
       "priority": 5
+    },
+    {
+      "id": "b9b336a11915",
+      "title": "Valve tung bản cập nhật mới cho CS2, một người chơi tuyên bố mất vợ, mất con vì cú sốc từ thị trường game",
+      "link": "https://gamek.vn/valve-tung-ban-cap-nhat-moi-cho-cs2-mot-nguoi-choi-tuyen-bo-mat-vo-mat-con-vi-cu-soc-tu-thi-truong-game-178251024213459009.chn",
+      "summary": "Câu chuyện của anh chàng game thủ khiến khá nhiều người phải suy ngẫm.",
+      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/10/25/avatar1761362048094-1761362048423107002686.png",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2025-10-26T14:01:32.267546",
+      "category": "cập nhật",
+      "priority": 2
     },
     {
       "id": "d1b145893e9e",
