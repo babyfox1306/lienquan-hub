@@ -41,6 +41,11 @@
       "type": "channel"
     },
     {
+      "id": "UCgbMglNu16CgtxKRg3LrpjQ",
+      "name": "CBNN Liên Quân Mobile",
+      "type": "channel"
+    },
+    {
       "id": "UCk4V8BT5y0HFTK4d1AYjEvg",
       "name": "GKL8 LIÊN QUÂN CHANELL",
       "type": "channel"
@@ -51,8 +56,28 @@
       "type": "channel"
     },
     {
+      "id": "UCjSYhg9GTdhLc-SXw7N49Og",
+      "name": "Liên Quân Mobile",
+      "type": "channel"
+    },
+    {
       "id": "UC1io3o-PJjqTW-C2JPExjaA",
       "name": "NOOB LIÊN QUÂN MOBILE",
+      "type": "channel"
+    },
+    {
+      "id": "UCBZwYlOLdOl0G3Vji-xnwmw",
+      "name": "Liên quân Mobile",
+      "type": "channel"
+    },
+    {
+      "id": "UCPNH9nM5OWV9h3q6A6o6fnw",
+      "name": "Liên Quân Mobile",
+      "type": "channel"
+    },
+    {
+      "id": "UCA6jTyuscaCl7YoNLtE1kjw",
+      "name": "Bình Mine Liên Quân Mobile",
       "type": "channel"
     },
     {
@@ -61,43 +86,18 @@
       "type": "channel"
     },
     {
+      "id": "UCxswa3JieWlhP7G3RpgnvZA",
+      "name": "Liên Quân Mobile",
+      "type": "channel"
+    },
+    {
+      "id": "UCGodYxsde1ged_DzcdN45Ng",
+      "name": "Liên quân mobile Pro",
+      "type": "channel"
+    },
+    {
       "id": "UCeGc74La_cxRDfIh9E6uEiA",
       "name": "Liên quân mobile",
-      "type": "channel"
-    },
-    {
-      "id": "UCtriRwAZs7S6cfOSmOLuphA",
-      "name": "garena liên quân mobile",
-      "type": "channel"
-    },
-    {
-      "id": "UCA70x9kBv6Feaslh-k2QxVw",
-      "name": "Liên quân mobile ",
-      "type": "channel"
-    },
-    {
-      "id": "UCUypu6HW1VvNuEkcdAgjOKQ",
-      "name": "Garena Liên Quân Mobile",
-      "type": "channel"
-    },
-    {
-      "id": "UCyjlxkSwTbQcV2154pyH_Bg",
-      "name": "LIÊN QUÂN (mobile)",
-      "type": "channel"
-    },
-    {
-      "id": "UCVQ0x-tX9TVjkq-a_E4mKvA",
-      "name": "garena liên quân Mobile",
-      "type": "channel"
-    },
-    {
-      "id": "UCMbrDKjY4rPux25EtovG6Hg",
-      "name": "Liên quân mobile",
-      "type": "channel"
-    },
-    {
-      "id": "UCVDQa6qNS2xqCbKCPDGfQFw",
-      "name": "Liên Quân Mobile eSports - Garena",
       "type": "channel"
     }
   ],
