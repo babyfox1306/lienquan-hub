@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-10-27T10:02:05.350548",
-  "total_news": 51,
+  "last_updated": "2025-10-27T11:02:19.755911",
+  "total_news": 52,
   "news": [
     {
       "id": "7ea0a97ce75d",
@@ -491,6 +491,19 @@
       "crawled_at": "2025-09-30T13:03:38.354251",
       "category": "tướng",
       "priority": 5
+    },
+    {
+      "id": "0237b57a8df0",
+      "title": "Màn cosplay Veres khiến fan Liên Quân không thể nào rời mắt",
+      "link": "https://gamek.vn/man-cosplay-veres-khien-fan-lien-quan-khong-the-nao-roi-mat-178251026001046339.chn",
+      "summary": "Anh em Liên Quân hẳn rất thích màn cosplay này.",
+      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/10/26/photo-1761411541774-17614115421781618554665-55-0-524-750-crop-1761453026456602491528.png",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2025-10-27T11:01:57.381893",
+      "category": "tin tức",
+      "priority": 2
     },
     {
       "id": "44b817032c58",
