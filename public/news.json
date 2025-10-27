@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-10-27T08:02:14.949169",
-  "total_news": 50,
+  "last_updated": "2025-10-27T09:02:22.417683",
+  "total_news": 51,
   "news": [
     {
       "id": "7ea0a97ce75d",
@@ -491,6 +491,19 @@
       "crawled_at": "2025-09-30T13:03:38.354251",
       "category": "tướng",
       "priority": 5
+    },
+    {
+      "id": "44b817032c58",
+      "title": "Vị tướng duy nhất Faker sẽ không bao giờ làm skin CKTG kể cả vô địch",
+      "link": "https://gamek.vn/vi-tuong-duy-nhat-faker-se-khong-bao-gio-lam-skin-cktg-ke-ca-vo-dich-178251027120030952.chn",
+      "summary": "Với Faker, luôn có những ngoại lệ theo quy tắc của anh.",
+      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/10/27/avatar1761552297286-17615522976751636359900.png",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2025-10-27T09:02:02.565715",
+      "category": "tướng",
+      "priority": 2
     },
     {
       "id": "b9b336a11915",
