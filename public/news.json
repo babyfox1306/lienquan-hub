@@ -1,7 +1,20 @@
 {
-  "last_updated": "2025-10-28T11:01:48.841744",
-  "total_news": 53,
+  "last_updated": "2025-10-28T12:02:07.448735",
+  "total_news": 55,
   "news": [
+    {
+      "id": "d12c0fc9503f",
+      "title": "ĐIỀU CHỈNH GIỮA MÙA PB QUANG MINH & HẮC ÁM – 30.10.2025",
+      "link": "https://lienquan.garena.vn/dieu-chinh-giua-mua-pb-quang-minh-hac-am-30-10-2025/",
+      "summary": "<p>Xin chào các Kiện Tướng, Liên Quân Mobile sẽ tiến hành cập nhật không gián đoạn cho máy chủ chính thức vào ngày 30/10/2025. Trong thời gian này, người chơi có thể chủ động cập nhật vào thời [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/dieu-chinh-giua-mua-pb-quang-minh-hac-am-30-10-2025/\">ĐIỀU CHỈNH GIỮA MÙA PB QUANG MINH &#038; HẮC ÁM &#8211; 30.10.2025</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
+      "image_url": null,
+      "source": "Liên Quân Mobile Official",
+      "source_url": "https://lienquan.garena.vn/rss",
+      "published_at": "2025-10-28T10:21:33Z",
+      "crawled_at": "2025-10-28T12:01:46.244260",
+      "category": "tướng",
+      "priority": 1
+    },
     {
       "id": "7ea0a97ce75d",
       "title": "Mở bán Eland’orr Mộng giới thần chủ",
@@ -491,6 +504,19 @@
       "crawled_at": "2025-09-30T13:03:38.354251",
       "category": "tướng",
       "priority": 5
+    },
+    {
+      "id": "8a5fbd90258a",
+      "title": "Cosplay tướng tủ, Quỳnh Bei cực slay khiến fan trầm trồ",
+      "link": "https://gamek.vn/cosplay-tuong-tu-quynh-bei-cuc-slay-khien-fan-tram-tro-178251028141419073.chn",
+      "summary": "Quỳnh Bei tiếp tục \"đốn tim\" cộng đồng game thủ.",
+      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/10/28/4-1761625525774248324588-1761635434058-17616354346761216822202-140-0-343-324-crop-17616355606951605987134.jpg",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2025-10-28T12:01:48.762069",
+      "category": "tướng",
+      "priority": 2
     },
     {
       "id": "400de09a5618",
