@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-10-28T09:03:15.248593",
-  "total_news": 52,
+  "last_updated": "2025-10-28T10:01:57.438722",
+  "total_news": 53,
   "news": [
     {
       "id": "7ea0a97ce75d",
@@ -491,6 +491,19 @@
       "crawled_at": "2025-09-30T13:03:38.354251",
       "category": "tướng",
       "priority": 5
+    },
+    {
+      "id": "400de09a5618",
+      "title": "Màn cosplay Violet Huyết Ma Thần khiến anh em game thủ ngất ngây mê đắm",
+      "link": "https://gamek.vn/man-cosplay-violet-huyet-ma-than-khien-anh-em-game-thu-ngat-ngay-me-dam-17825102709152107.chn",
+      "summary": "Anh em Liên Quân lại được dịp \"điên đảo\" với màn cosplay này.",
+      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/10/27/photo-1761530389251-17615303898991506345807-377-0-1068-1106-crop-17615459950061926814340.png",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2025-10-28T10:01:37.939259",
+      "category": "tin tức",
+      "priority": 2
     },
     {
       "id": "0237b57a8df0",
