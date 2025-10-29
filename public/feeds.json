@@ -31,13 +31,18 @@
       "type": "channel"
     },
     {
+      "id": "UCyqjmx1kcZknycssiIhFQKw",
+      "name": "VuxGaming",
+      "type": "channel"
+    },
+    {
       "id": "UC1ysb__ddApp3PlDva5NAVw",
       "name": "Top 1 Liliana",
       "type": "channel"
     },
     {
-      "id": "UCbRugPHs-2i48MbID-AnEVQ",
-      "name": "Htt Gamer Liên Quân TV",
+      "id": "UCLmVT2XmCej720HFtG7mwSQ",
+      "name": "NTD LQ",
       "type": "channel"
     },
     {
@@ -58,6 +63,11 @@
     {
       "id": "UCg1JLR8n5gapej24pDjdGng",
       "name": "Garena liên quân mobile",
+      "type": "channel"
+    },
+    {
+      "id": "UCg83gfKs1D8ptsYmmiyO7Ig",
+      "name": "APC - Liên Quân Mobile Phan Châu Trinh",
       "type": "channel"
     },
     {
@@ -86,18 +96,8 @@
       "type": "channel"
     },
     {
-      "id": "UCVQ0x-tX9TVjkq-a_E4mKvA",
-      "name": "garena liên quân Mobile",
-      "type": "channel"
-    },
-    {
-      "id": "UCMbrDKjY4rPux25EtovG6Hg",
-      "name": "Liên quân mobile",
-      "type": "channel"
-    },
-    {
-      "id": "UCycXmuKjQzoZajvygcdM-vQ",
-      "name": "Liên Quân Mobile Việt Nam",
+      "id": "UCrSXYW5ivtthC9_yv8bEijA",
+      "name": "Tui Đi Mid - Liên Quân Mobile",
       "type": "channel"
     }
   ],
