@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-10-30T15:01:59.307489",
-  "total_news": 60,
+  "last_updated": "2025-10-30T16:02:10.034340",
+  "total_news": 61,
   "news": [
     {
       "id": "dbba4cece12c",
@@ -543,6 +543,19 @@
       "crawled_at": "2025-09-30T13:03:38.354251",
       "category": "tướng",
       "priority": 5
+    },
+    {
+      "id": "4c0c1cbe2ab1",
+      "title": "Những bậc Tông sư vĩ đại của tiểu thuyết Kim Dung, có 2 nhân vật còn chưa bao giờ \"lên hình\"",
+      "link": "https://gamek.vn/nhung-bac-tong-su-vi-dai-cua-tieu-thuyet-kim-dung-co-2-nhan-vat-con-chua-bao-gio-len-hinh-178251030212207939.chn",
+      "summary": "Đây là những bậc Tông sư vĩ đại, không chỉ là cao thủ võ lâm mà còn đào tạo ra những đệ tử toàn tài của tiểu thuyết Kim Dung.",
+      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/10/30/avatar1761839762532-1761839762952128357725.png",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2025-10-30T16:01:50.312333",
+      "category": "tin tức",
+      "priority": 2
     },
     {
       "id": "180720b54a1e",
