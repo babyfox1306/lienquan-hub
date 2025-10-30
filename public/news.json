@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-10-30T06:02:07.587248",
-  "total_news": 58,
+  "last_updated": "2025-10-30T07:01:53.886513",
+  "total_news": 59,
   "news": [
     {
       "id": "dbba4cece12c",
@@ -543,6 +543,19 @@
       "crawled_at": "2025-09-30T13:03:38.354251",
       "category": "tướng",
       "priority": 5
+    },
+    {
+      "id": "2e27921d6fd8",
+      "title": "Chung kết Audition Vietnam Championship 2025: Đã tìm ra nhà vô địch toàn quốc",
+      "link": "https://gamek.vn/chung-ket-audition-vietnam-championship-2025-da-tim-ra-nha-vo-dich-toan-quoc-178251030125803435.chn",
+      "summary": "Audition Vietnam Championship 2025 (AVC 2025) đã chính thức khép lại trong không khí cuồng nhiệt tại Hà Nội, đánh dấu cột mốc ấn tượng trong lịch sử eSports Audition Việt Nam.",
+      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/10/30/photo1761644914074-1761644914192846811900-1761803885187988531859.jpg",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2025-10-30T07:01:35.824056",
+      "category": "esports",
+      "priority": 2
     },
     {
       "id": "8a5fbd90258a",
