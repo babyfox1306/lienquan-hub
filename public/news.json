@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-10-30T08:02:08.397494",
-  "total_news": 59,
+  "last_updated": "2025-10-30T09:01:57.361357",
+  "total_news": 60,
   "news": [
     {
       "id": "dbba4cece12c",
@@ -543,6 +543,19 @@
       "crawled_at": "2025-09-30T13:03:38.354251",
       "category": "tướng",
       "priority": 5
+    },
+    {
+      "id": "180720b54a1e",
+      "title": "Rò rỉ Genshin Impact, một nhân vật quan trọng sẽ xuất hiện trong phiên bản mới",
+      "link": "https://gamek.vn/ro-ri-genshin-impact-mot-nhan-vat-quan-trong-se-xuat-hien-trong-phien-ban-moi-178251029155304564.chn",
+      "summary": "Các fan Genshin Impact sẽ có nhiều lý do để chờ đợi bản cập nhật mới này.",
+      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/10/30/avatar1761791385454-1761791385905857968289.png",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2025-10-30T09:01:37.163734",
+      "category": "cập nhật",
+      "priority": 2
     },
     {
       "id": "2e27921d6fd8",
