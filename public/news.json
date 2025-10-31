@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-10-31T05:02:08.241483",
-  "total_news": 61,
+  "last_updated": "2025-10-31T06:01:58.071652",
+  "total_news": 62,
   "news": [
     {
       "id": "dbba4cece12c",
@@ -543,6 +543,19 @@
       "crawled_at": "2025-09-30T13:03:38.354251",
       "category": "tướng",
       "priority": 5
+    },
+    {
+      "id": "caef9a979f40",
+      "title": "Không phải Quan Vũ hay Trương Phi, vị tướng này hạ nhiều địch nhất thời Tam Quốc",
+      "link": "https://gamek.vn/khong-phai-quan-vu-hay-truong-phi-vi-tuong-nay-ha-nhieu-dich-nhat-thoi-tam-quoc-178251029150107105.chn",
+      "summary": "Quan Vũ và Trương Phi nổi danh là những mãnh tướng vô song của nhà Thục, nhưng người giữ kỷ lục hạ nhiều địch nhất thời Tam Quốc lại thuộc về một người ít ngờ tới.",
+      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/10/29/avatar1761724634132-17617246346321046203639-0-26-274-465-crop-1761724676693768086802.jpg",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2025-10-31T06:01:38.614711",
+      "category": "tướng",
+      "priority": 2
     },
     {
       "id": "4c0c1cbe2ab1",
