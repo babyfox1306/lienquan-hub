@@ -11,8 +11,8 @@
       "type": "channel"
     },
     {
-      "id": "UCykFSnImGNa-5DABblw7K-w",
-      "name": "Gcaothu CHANNEL",
+      "id": "UCy19QXxbCHh8qVVCbuGk-ig",
+      "name": "Garena RoV Thailand",
       "type": "channel"
     },
     {
@@ -26,6 +26,11 @@
       "type": "channel"
     },
     {
+      "id": "UCen3q9LMBtFHYU3Us7aKD3w",
+      "name": "Anhhao",
+      "type": "channel"
+    },
+    {
       "id": "UCIzzawIg4eCPgZggwFzEQbQ",
       "name": "Garena Liên Quân Mobile",
       "type": "channel"
@@ -33,6 +38,36 @@
     {
       "id": "UCFgdNlUefoIqZm_IQssJkHw",
       "name": "ĐỆ TỨ Liên Quân Mobile",
+      "type": "channel"
+    },
+    {
+      "id": "UC9gbpSZsxLTsVgiPyUsU8sg",
+      "name": "Trưởng Star",
+      "type": "channel"
+    },
+    {
+      "id": "UCeMjhoCCvujpObnt6yeZeNg",
+      "name": "Garena 傳說對決",
+      "type": "channel"
+    },
+    {
+      "id": "UC1EOVZPr8neE-05eqKR_K-Q",
+      "name": "ADC Gaming",
+      "type": "channel"
+    },
+    {
+      "id": "UCBVBGNrag1o-V08vwYzoIwg",
+      "name": "Garena AOV Indonesia",
+      "type": "channel"
+    },
+    {
+      "id": "UCwn_gdD10lqg8QKcFwTq-hQ",
+      "name": "Tủng Thúng Veres",
+      "type": "channel"
+    },
+    {
+      "id": "UCwrzeq94NPsz1EHap9r_9NA",
+      "name": "Lai Bâng",
       "type": "channel"
     },
     {
@@ -46,6 +81,11 @@
       "type": "channel"
     },
     {
+      "id": "UCCl9aNDeHkRXVkDhCW6eVYg",
+      "name": "Tú có NY",
+      "type": "channel"
+    },
+    {
       "id": "UCpQ52533EsOa5k-dQSmD1jw",
       "name": "Ha Le Quyen",
       "type": "channel"
@@ -56,48 +96,8 @@
       "type": "channel"
     },
     {
-      "id": "UCL_X1VBEYADQHmEIsmRHpGg",
-      "name": "Khánh Hy",
-      "type": "channel"
-    },
-    {
-      "id": "UCMHSTFMGp-k4Z0kG-CfMSWg",
-      "name": "HTT GAMER LIÊN QUÂN MOBILE",
-      "type": "channel"
-    },
-    {
-      "id": "UCbRugPHs-2i48MbID-AnEVQ",
-      "name": "Htt Gamer Liên Quân TV",
-      "type": "channel"
-    },
-    {
-      "id": "UCfoEdZzeGa3VW-N_TYYe86Q",
-      "name": "Vĩnh Đất",
-      "type": "channel"
-    },
-    {
-      "id": "UCWXXFvwmcOHxEk6IlhW1BhA",
-      "name": "Phuc Ram",
-      "type": "channel"
-    },
-    {
-      "id": "UCgbMglNu16CgtxKRg3LrpjQ",
-      "name": "CBNN Liên Quân Mobile",
-      "type": "channel"
-    },
-    {
-      "id": "UCk4V8BT5y0HFTK4d1AYjEvg",
-      "name": "GKL8 LIÊN QUÂN CHANELL",
-      "type": "channel"
-    },
-    {
-      "id": "UCjYcRjFtw2ImlKnJMqURx8Q",
-      "name": "Di No Liên Quân Mobile",
-      "type": "channel"
-    },
-    {
-      "id": "UCC6tX-szxHIXyAcBLsTIXNw",
-      "name": "Bà 9 chơi bum búm",
+      "id": "UCTNsnJ3-Xb0Tu0WMMfde-qQ",
+      "name": "Trâm Anh Nata",
       "type": "channel"
     }
   ],
