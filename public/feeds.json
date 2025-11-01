@@ -46,13 +46,13 @@
       "type": "channel"
     },
     {
-      "id": "UCH0k4wQg5_QfL2hHavyL-xA",
-      "name": "Tran Binh",
+      "id": "UCyqjmx1kcZknycssiIhFQKw",
+      "name": "VuxGaming",
       "type": "channel"
     },
     {
-      "id": "UCyqjmx1kcZknycssiIhFQKw",
-      "name": "VuxGaming",
+      "id": "UCpQ52533EsOa5k-dQSmD1jw",
+      "name": "Ha Le Quyen",
       "type": "channel"
     },
     {
@@ -63,6 +63,11 @@
     {
       "id": "UCLmVT2XmCej720HFtG7mwSQ",
       "name": "NTD LQ",
+      "type": "channel"
+    },
+    {
+      "id": "UCJojBppsLbhkaQ_DySRWM-A",
+      "name": "BLV Thanh Tùng",
       "type": "channel"
     },
     {
@@ -93,11 +98,6 @@
     {
       "id": "UCrROWQp9uPZUiTVHuWBwj9g",
       "name": "Namsensei",
-      "type": "channel"
-    },
-    {
-      "id": "UCWXXFvwmcOHxEk6IlhW1BhA",
-      "name": "Phuc Ram",
       "type": "channel"
     }
   ],
