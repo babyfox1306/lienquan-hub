@@ -76,11 +76,6 @@
       "type": "channel"
     },
     {
-      "id": "UCVVoMk8UNpVIdo5BgszmLnw",
-      "name": "Học Viện Liên Quân",
-      "type": "channel"
-    },
-    {
       "id": "UCMHSTFMGp-k4Z0kG-CfMSWg",
       "name": "HTT GAMER LIÊN QUÂN MOBILE",
       "type": "channel"
@@ -98,6 +93,11 @@
     {
       "id": "UCfoEdZzeGa3VW-N_TYYe86Q",
       "name": "Vĩnh Đất",
+      "type": "channel"
+    },
+    {
+      "id": "UCrROWQp9uPZUiTVHuWBwj9g",
+      "name": "Namsensei",
       "type": "channel"
     }
   ],
