@@ -11,16 +11,6 @@
       "type": "channel"
     },
     {
-      "id": "UCy19QXxbCHh8qVVCbuGk-ig",
-      "name": "Garena RoV Thailand",
-      "type": "channel"
-    },
-    {
-      "id": "UCykFSnImGNa-5DABblw7K-w",
-      "name": "Gcaothu CHANNEL",
-      "type": "channel"
-    },
-    {
       "id": "UC3QLI0FHwACCaa91Xdpam2A",
       "name": "Trải Nghiệm Game",
       "type": "channel"
@@ -36,28 +26,13 @@
       "type": "channel"
     },
     {
-      "id": "UCeMjhoCCvujpObnt6yeZeNg",
-      "name": "Garena 傳說對決",
-      "type": "channel"
-    },
-    {
       "id": "UC55ad8jzcIWCMU-o2CXMEAw",
       "name": "Thầy Giáo Liên Quân",
       "type": "channel"
     },
     {
-      "id": "UCH0k4wQg5_QfL2hHavyL-xA",
-      "name": "Tran Binh",
-      "type": "channel"
-    },
-    {
       "id": "UCyqjmx1kcZknycssiIhFQKw",
       "name": "VuxGaming",
-      "type": "channel"
-    },
-    {
-      "id": "UCpQ52533EsOa5k-dQSmD1jw",
-      "name": "Ha Le Quyen",
       "type": "channel"
     },
     {
@@ -86,11 +61,6 @@
       "type": "channel"
     },
     {
-      "id": "UCaokzdz-Q_tLcbhDG5OAjUQ",
-      "name": "Đánh Giày",
-      "type": "channel"
-    },
-    {
       "id": "UCbRugPHs-2i48MbID-AnEVQ",
       "name": "Htt Gamer Liên Quân TV",
       "type": "channel"
@@ -98,6 +68,36 @@
     {
       "id": "UCfoEdZzeGa3VW-N_TYYe86Q",
       "name": "Vĩnh Đất",
+      "type": "channel"
+    },
+    {
+      "id": "UCrROWQp9uPZUiTVHuWBwj9g",
+      "name": "Namsensei",
+      "type": "channel"
+    },
+    {
+      "id": "UCgbMglNu16CgtxKRg3LrpjQ",
+      "name": "CBNN Liên Quân Mobile",
+      "type": "channel"
+    },
+    {
+      "id": "UC-r1vXyPiJSo2r29U3PgoNg",
+      "name": "HẢI PHONG - HỎNG FILE",
+      "type": "channel"
+    },
+    {
+      "id": "UCdSGpiTIGwzlQQ9VP1IJXgg",
+      "name": "Bốp Bốp Top1 Liên Quân",
+      "type": "channel"
+    },
+    {
+      "id": "UCk4V8BT5y0HFTK4d1AYjEvg",
+      "name": "GKL8 LIÊN QUÂN CHANELL",
+      "type": "channel"
+    },
+    {
+      "id": "UCjYcRjFtw2ImlKnJMqURx8Q",
+      "name": "Di No Liên Quân Mobile",
       "type": "channel"
     }
   ],
