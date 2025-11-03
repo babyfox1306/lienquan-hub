@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-11-03T10:02:10.228138",
-  "total_news": 63,
+  "last_updated": "2025-11-03T11:02:02.741963",
+  "total_news": 64,
   "news": [
     {
       "id": "dbba4cece12c",
@@ -543,6 +543,19 @@
       "crawled_at": "2025-09-30T13:03:38.354251",
       "category": "tướng",
       "priority": 5
+    },
+    {
+      "id": "610e9c2e5517",
+      "title": "Cao thủ mạnh nhất thời Xạ điêu: Không thuộc môn phái nào nhưng vượt cả Ngũ tuyệt và Vương Trùng Dương",
+      "link": "https://gamek.vn/cao-thu-manh-nhat-thoi-xa-dieu-khong-thuoc-mon-phai-nao-nhung-vuot-ca-ngu-tuyet-va-vuong-trung-duong-178251102140803205.chn",
+      "summary": "Vị cao thủ này là ai?",
+      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/11/2/avatar1762067181869-1762067182120694179739.png",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2025-11-03T11:01:42.679912",
+      "category": "tin tức",
+      "priority": 2
     },
     {
       "id": "3bd88b4395df",
