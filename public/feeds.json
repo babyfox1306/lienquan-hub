@@ -11,11 +11,6 @@
       "type": "channel"
     },
     {
-      "id": "UC3QLI0FHwACCaa91Xdpam2A",
-      "name": "Trải Nghiệm Game",
-      "type": "channel"
-    },
-    {
       "id": "UCIzzawIg4eCPgZggwFzEQbQ",
       "name": "Garena Liên Quân Mobile",
       "type": "channel"
@@ -26,23 +21,33 @@
       "type": "channel"
     },
     {
+      "id": "UCBXh1cj8zpXPZdiyRo2ODkw",
+      "name": "Thần Đồng Liên Quân",
+      "type": "channel"
+    },
+    {
+      "id": "UCk2YqVRGYV6F3i005GTxYlg",
+      "name": "Cờ Liên Quân - Garena",
+      "type": "channel"
+    },
+    {
       "id": "UC55ad8jzcIWCMU-o2CXMEAw",
       "name": "Thầy Giáo Liên Quân",
       "type": "channel"
     },
     {
-      "id": "UC1ysb__ddApp3PlDva5NAVw",
-      "name": "Top 1 Liliana",
+      "id": "UCVVoMk8UNpVIdo5BgszmLnw",
+      "name": "Học Viện Liên Quân",
       "type": "channel"
     },
     {
-      "id": "UCLmVT2XmCej720HFtG7mwSQ",
-      "name": "NTD LQ",
+      "id": "UCda4f-6RGeMDhSOre3pw2Hw",
+      "name": "KHÁM PHÁ MOBILE",
       "type": "channel"
     },
     {
-      "id": "UCMHSTFMGp-k4Z0kG-CfMSWg",
-      "name": "HTT GAMER LIÊN QUÂN MOBILE",
+      "id": "UCvQQ7iz_thJkoQR1U3qQ6pA",
+      "name": "Box Liên Quân",
       "type": "channel"
     },
     {
@@ -56,6 +61,11 @@
       "type": "channel"
     },
     {
+      "id": "UC6dQDhRxU57lY7bx62NcC7A",
+      "name": "Highlight Liên Quân AOV",
+      "type": "channel"
+    },
+    {
       "id": "UCjYcRjFtw2ImlKnJMqURx8Q",
       "name": "Di No Liên Quân Mobile",
       "type": "channel"
@@ -66,38 +76,28 @@
       "type": "channel"
     },
     {
-      "id": "UCBZwYlOLdOl0G3Vji-xnwmw",
-      "name": "Liên quân Mobile",
-      "type": "channel"
-    },
-    {
-      "id": "UCPNH9nM5OWV9h3q6A6o6fnw",
-      "name": "Liên Quân Mobile",
-      "type": "channel"
-    },
-    {
       "id": "UCg1JLR8n5gapej24pDjdGng",
       "name": "Garena liên quân mobile",
       "type": "channel"
     },
     {
-      "id": "UCGodYxsde1ged_DzcdN45Ng",
-      "name": "Liên quân mobile Pro",
+      "id": "UC4WFdasR7HTzAFJB7V5LEcg",
+      "name": "King Of Build Liên Quân",
       "type": "channel"
     },
     {
-      "id": "UCeGc74La_cxRDfIh9E6uEiA",
-      "name": "Liên quân mobile",
-      "type": "channel"
-    },
-    {
-      "id": "UCtriRwAZs7S6cfOSmOLuphA",
-      "name": "garena liên quân mobile",
+      "id": "UCde45zHidLzuJITEBIT4S1Q",
+      "name": "Hải Đăng Liên Quân Mobile",
       "type": "channel"
     },
     {
       "id": "UCA70x9kBv6Feaslh-k2QxVw",
       "name": "Liên quân mobile ",
+      "type": "channel"
+    },
+    {
+      "id": "UCUypu6HW1VvNuEkcdAgjOKQ",
+      "name": "Garena Liên Quân Mobile",
       "type": "channel"
     }
   ],
