@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-11-04T07:02:14.694830",
-  "total_news": 64,
+  "last_updated": "2025-11-04T08:02:07.708391",
+  "total_news": 65,
   "news": [
     {
       "id": "dbba4cece12c",
@@ -543,6 +543,19 @@
       "crawled_at": "2025-09-30T13:03:38.354251",
       "category": "tướng",
       "priority": 5
+    },
+    {
+      "id": "101bbc0a78d5",
+      "title": "One Piece: Oda chính xác nhận cha ruột mất tích của Franky là nhân vật phản diện không ai ngờ",
+      "link": "https://gamek.vn/one-piece-oda-chinh-xac-nhan-cha-ruot-mat-tich-cua-franky-la-nhan-vat-phan-dien-khong-ai-ngo-178251103163800177.chn",
+      "summary": "Mới đây, khi người hâm mộ xâu chuỗi dữ liệu từ cuốn Vivre Card, chính tác giả Eiichiro Oda đã buộc phải lên tiếng xác nhận sự thật chấn động về cha ruột của Cyborg Franky.",
+      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/11/3/avatar1762162592178-1762162592544964425594.jpg",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2025-11-04T08:01:47.389175",
+      "category": "tin tức",
+      "priority": 2
     },
     {
       "id": "610e9c2e5517",
