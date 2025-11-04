@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-11-04T09:02:09.267518",
-  "total_news": 65,
+  "last_updated": "2025-11-04T10:02:04.058636",
+  "total_news": 66,
   "news": [
     {
       "id": "dbba4cece12c",
@@ -543,6 +543,19 @@
       "crawled_at": "2025-09-30T13:03:38.354251",
       "category": "tướng",
       "priority": 5
+    },
+    {
+      "id": "977e0693370e",
+      "title": "Ơn trời, iOS 26.1 vừa ra mắt đã hỗ trợ Apple Intelligence tiếng Việt!",
+      "link": "https://gamek.vn/on-troi-ios-261-vua-ra-mat-da-ho-tro-apple-intelligence-tieng-viet-178251104160336532.chn",
+      "summary": "Bản cập nhật iOS 26.1 chính thức ra mắt, mở hỗ trợ tiếng Việt cho Apple Intelligence, bổ sung ngôn ngữ Live Translation, cùng loạt tinh chỉnh từ Liquid Glass đến Camera, Local Capture và Apple TV.",
+      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/11/4/avatar1762246917117-1762246917456935564721.jpg",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2025-11-04T10:01:46.291193",
+      "category": "cập nhật",
+      "priority": 2
     },
     {
       "id": "101bbc0a78d5",
