@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-11-05T05:02:02.402185",
-  "total_news": 67,
+  "last_updated": "2025-11-05T06:01:51.032349",
+  "total_news": 68,
   "news": [
     {
       "id": "b6e190eb9549",
@@ -556,6 +556,19 @@
       "crawled_at": "2025-09-30T13:03:38.354251",
       "category": "tướng",
       "priority": 5
+    },
+    {
+      "id": "20a49176081a",
+      "title": "Không phải Lữ Bố, đây mới là võ tướng có sức mạnh 'siêu phàm' nhất thời Tam Quốc",
+      "link": "https://gamek.vn/khong-phai-lu-bo-day-moi-la-vo-tuong-co-suc-manh-sieu-pham-nhat-thoi-tam-quoc-178251104103205017.chn",
+      "summary": "Vị võ tướng vượt mặt Lữ Bố là ai? Người từng được ca ngợi là có thể “dùng tay kéo trâu đi giật lùi trăm bước”.",
+      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/11/4/avatar1762226997232-1762226997928970353782-0-123-275-563-crop-1762227030036544847721.jpg",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2025-11-05T06:01:33.449351",
+      "category": "tướng",
+      "priority": 2
     },
     {
       "id": "977e0693370e",
