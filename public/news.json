@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-11-05T07:01:45.835582",
-  "total_news": 70,
+  "last_updated": "2025-11-05T08:02:09.937449",
+  "total_news": 71,
   "news": [
     {
       "id": "969d465021a3",
@@ -582,6 +582,19 @@
       "crawled_at": "2025-09-30T13:03:38.354251",
       "category": "tướng",
       "priority": 5
+    },
+    {
+      "id": "db9991d88ed7",
+      "title": "Chưa ra mắt, thế nhưng Qi Milim Nava đã khiến hàng triệu anh em game thủ “đứt chuỗi”",
+      "link": "https://gamek.vn/chua-ra-mat-the-nhung-qi-milim-nava-da-khien-hang-trieu-anh-em-game-thu-dut-chuoi-17825110510153373.chn",
+      "summary": "Đây có lẽ là một trong những skin Liên Quân \"hút mắt\" nhất đối với anh em game thủ.",
+      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/11/5/photo-1762312051011-17623120512401665770334-437-0-1157-1152-crop-17623255367011387846014.png",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2025-11-05T08:01:44.288174",
+      "category": "skin",
+      "priority": 2
     },
     {
       "id": "20a49176081a",
