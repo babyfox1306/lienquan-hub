@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-11-06T05:02:03.483880",
-  "total_news": 71,
+  "last_updated": "2025-11-06T06:02:04.889158",
+  "total_news": 72,
   "news": [
     {
       "id": "969d465021a3",
@@ -582,6 +582,19 @@
       "crawled_at": "2025-09-30T13:03:38.354251",
       "category": "tướng",
       "priority": 5
+    },
+    {
+      "id": "2658ecca3cad",
+      "title": "Liên Quân Mobile ra mắt vị tướng đầu tiên có... 4 nút kỹ năng, chính thức thoát kiếp \"game 3 nút\" bấy lâu nay",
+      "link": "https://gamek.vn/lien-quan-mobile-ra-mat-vi-tuong-dau-tien-co-4-nut-ky-nang-chinh-thuc-thoat-kiep-game-3-nut-bay-lau-nay-17825110611045416.chn",
+      "summary": "Nước đi này của Liên Quân khiến anh em game thủ không ngờ.",
+      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/11/6/avatar1762401628215-17624016285531756911068-51-0-511-736-crop-17624016574111231186873.jpg",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2025-11-06T06:01:45.083298",
+      "category": "tướng",
+      "priority": 2
     },
     {
       "id": "db9991d88ed7",
