@@ -11,6 +11,11 @@
       "type": "channel"
     },
     {
+      "id": "UCy19QXxbCHh8qVVCbuGk-ig",
+      "name": "Garena RoV Thailand",
+      "type": "channel"
+    },
+    {
       "id": "UCykFSnImGNa-5DABblw7K-w",
       "name": "Gcaothu CHANNEL",
       "type": "channel"
@@ -26,6 +31,11 @@
       "type": "channel"
     },
     {
+      "id": "UCen3q9LMBtFHYU3Us7aKD3w",
+      "name": "Anhhao",
+      "type": "channel"
+    },
+    {
       "id": "UCIzzawIg4eCPgZggwFzEQbQ",
       "name": "Garena Liên Quân Mobile",
       "type": "channel"
@@ -33,11 +43,6 @@
     {
       "id": "UCFgdNlUefoIqZm_IQssJkHw",
       "name": "ĐỆ TỨ Liên Quân Mobile",
-      "type": "channel"
-    },
-    {
-      "id": "UC6HjxH0ntp5iPtYYWfYpSNQ",
-      "name": "KINAS MOBILE",
       "type": "channel"
     },
     {
@@ -81,11 +86,6 @@
       "type": "channel"
     },
     {
-      "id": "UCCNb-Pr8q7tom88WYd35__g",
-      "name": "Trâm Anh 5 phút",
-      "type": "channel"
-    },
-    {
       "id": "UCLmVT2XmCej720HFtG7mwSQ",
       "name": "NTD LQ",
       "type": "channel"
@@ -96,8 +96,8 @@
       "type": "channel"
     },
     {
-      "id": "UCIxhVXXKQxLbnMw17LhvFWw",
-      "name": "Trùm Zata",
+      "id": "UCJojBppsLbhkaQ_DySRWM-A",
+      "name": "BLV Thanh Tùng",
       "type": "channel"
     }
   ],
