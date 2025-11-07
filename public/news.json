@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-11-07T14:01:51.381032",
-  "total_news": 72,
+  "last_updated": "2025-11-07T15:02:00.949297",
+  "total_news": 73,
   "news": [
     {
       "id": "969d465021a3",
@@ -582,6 +582,19 @@
       "crawled_at": "2025-09-30T13:03:38.354251",
       "category": "tướng",
       "priority": 5
+    },
+    {
+      "id": "42edea52e515",
+      "title": "Có 4 vị tướng \"con ghẻ\" xuyên suốt lịch sử CKTG, một cái tên xuất hiện từ những ngày đầu của LMHT",
+      "link": "https://gamek.vn/co-4-vi-tuong-con-ghe-xuyen-suot-lich-su-cktg-mot-cai-ten-xuat-hien-tu-nhung-ngay-dau-cua-lmht-178251107194430685.chn",
+      "summary": "Trải qua rất nhiều meta và kể cả khi Riot áp dụng chế độ Fearless Draft nhưng vẫn có 4 vị tướng chưa từng xuất hiện trong lịch sử CKTG.",
+      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/11/7/tuong-lmht-cktg-4-1762519336244348933103-0-0-562-900-crop-1762519454487229495141.png",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2025-11-07T15:01:39.622017",
+      "category": "tướng",
+      "priority": 2
     },
     {
       "id": "2658ecca3cad",
