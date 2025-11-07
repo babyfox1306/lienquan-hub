@@ -41,8 +41,23 @@
       "type": "channel"
     },
     {
+      "id": "UCeMjhoCCvujpObnt6yeZeNg",
+      "name": "Garena 傳說對決",
+      "type": "channel"
+    },
+    {
+      "id": "UC1EOVZPr8neE-05eqKR_K-Q",
+      "name": "ADC Gaming",
+      "type": "channel"
+    },
+    {
       "id": "UC55ad8jzcIWCMU-o2CXMEAw",
       "name": "Thầy Giáo Liên Quân",
+      "type": "channel"
+    },
+    {
+      "id": "UCH0k4wQg5_QfL2hHavyL-xA",
+      "name": "Tran Binh",
       "type": "channel"
     },
     {
@@ -51,8 +66,23 @@
       "type": "channel"
     },
     {
+      "id": "UCCl9aNDeHkRXVkDhCW6eVYg",
+      "name": "Tú có NY",
+      "type": "channel"
+    },
+    {
+      "id": "UCpQ52533EsOa5k-dQSmD1jw",
+      "name": "Ha Le Quyen",
+      "type": "channel"
+    },
+    {
       "id": "UC1ysb__ddApp3PlDva5NAVw",
       "name": "Top 1 Liliana",
+      "type": "channel"
+    },
+    {
+      "id": "UCCNb-Pr8q7tom88WYd35__g",
+      "name": "Trâm Anh 5 phút",
       "type": "channel"
     },
     {
@@ -61,43 +91,13 @@
       "type": "channel"
     },
     {
-      "id": "UCVVoMk8UNpVIdo5BgszmLnw",
-      "name": "Học Viện Liên Quân",
+      "id": "UChVW44gbrdQjc0zF_4-LbUA",
+      "name": "Onekill TV",
       "type": "channel"
     },
     {
-      "id": "UCMHSTFMGp-k4Z0kG-CfMSWg",
-      "name": "HTT GAMER LIÊN QUÂN MOBILE",
-      "type": "channel"
-    },
-    {
-      "id": "UCfoEdZzeGa3VW-N_TYYe86Q",
-      "name": "Vĩnh Đất",
-      "type": "channel"
-    },
-    {
-      "id": "UCrROWQp9uPZUiTVHuWBwj9g",
-      "name": "Namsensei",
-      "type": "channel"
-    },
-    {
-      "id": "UCjMDeCOoU-U-r2LvFe_6lSw",
-      "name": "CBNN Liên Quân",
-      "type": "channel"
-    },
-    {
-      "id": "UCWXXFvwmcOHxEk6IlhW1BhA",
-      "name": "Phuc Ram",
-      "type": "channel"
-    },
-    {
-      "id": "UCvQQ7iz_thJkoQR1U3qQ6pA",
-      "name": "Box Liên Quân",
-      "type": "channel"
-    },
-    {
-      "id": "UCFxtrp9WX_lhoqJ5tEKFIjQ",
-      "name": "Nam Mũ Trắng Nakroth",
+      "id": "UCIxhVXXKQxLbnMw17LhvFWw",
+      "name": "Trùm Zata",
       "type": "channel"
     }
   ],
