@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-11-08T13:06:44.100605",
-  "total_news": 74,
+  "last_updated": "2025-11-08T14:01:47.912597",
+  "total_news": 75,
   "news": [
     {
       "id": "969d465021a3",
@@ -582,6 +582,19 @@
       "crawled_at": "2025-09-30T13:03:38.354251",
       "category": "tướng",
       "priority": 5
+    },
+    {
+      "id": "c57eeac0b613",
+      "title": "Trước thềm FC Pro Festival 2025 cùng hai huyền thoại Figo và Kaká",
+      "link": "https://gamek.vn/truoc-them-fc-pro-festival-2025-cung-hai-huyen-thoai-figo-va-kaka-178251108001404046.chn",
+      "summary": "Garena xác nhận \"bom tấn\" Legends Match sẽ diễn ra cùng giải đấu FC Online Pro Festival 2025 vào ngày 08/11 tại SECC, quy tụ các huyền thoại bóng đá danh tiếng như Figo, Kaká.",
+      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/11/8/figo-12-17626069080602109355726-0-0-562-900-crop-1762607032025968122458.png",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2025-11-08T14:01:25.729467",
+      "category": "esports",
+      "priority": 2
     },
     {
       "id": "2a022c844e4d",
