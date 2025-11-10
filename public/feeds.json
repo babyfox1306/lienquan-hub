@@ -31,6 +31,11 @@
       "type": "channel"
     },
     {
+      "id": "UCen3q9LMBtFHYU3Us7aKD3w",
+      "name": "Anhhao",
+      "type": "channel"
+    },
+    {
       "id": "UCIzzawIg4eCPgZggwFzEQbQ",
       "name": "Garena Liên Quân Mobile",
       "type": "channel"
@@ -46,13 +51,28 @@
       "type": "channel"
     },
     {
+      "id": "UC1EOVZPr8neE-05eqKR_K-Q",
+      "name": "ADC Gaming",
+      "type": "channel"
+    },
+    {
       "id": "UC55ad8jzcIWCMU-o2CXMEAw",
       "name": "Thầy Giáo Liên Quân",
       "type": "channel"
     },
     {
+      "id": "UCH0k4wQg5_QfL2hHavyL-xA",
+      "name": "Tran Binh",
+      "type": "channel"
+    },
+    {
       "id": "UCyqjmx1kcZknycssiIhFQKw",
       "name": "VuxGaming",
+      "type": "channel"
+    },
+    {
+      "id": "UCCl9aNDeHkRXVkDhCW6eVYg",
+      "name": "Tú có NY",
       "type": "channel"
     },
     {
@@ -76,28 +96,8 @@
       "type": "channel"
     },
     {
-      "id": "UC17kjfIX0VD7jVnI-lGPmNg",
-      "name": "Archangel AOV",
-      "type": "channel"
-    },
-    {
       "id": "UCL_X1VBEYADQHmEIsmRHpGg",
       "name": "Khánh Hy",
-      "type": "channel"
-    },
-    {
-      "id": "UCMHSTFMGp-k4Z0kG-CfMSWg",
-      "name": "HTT GAMER LIÊN QUÂN MOBILE",
-      "type": "channel"
-    },
-    {
-      "id": "UCaokzdz-Q_tLcbhDG5OAjUQ",
-      "name": "Đánh Giày",
-      "type": "channel"
-    },
-    {
-      "id": "UCfoEdZzeGa3VW-N_TYYe86Q",
-      "name": "Vĩnh Đất",
       "type": "channel"
     }
   ],
