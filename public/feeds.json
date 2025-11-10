@@ -41,6 +41,11 @@
       "type": "channel"
     },
     {
+      "id": "UC9gbpSZsxLTsVgiPyUsU8sg",
+      "name": "Trưởng Star",
+      "type": "channel"
+    },
+    {
       "id": "UCeMjhoCCvujpObnt6yeZeNg",
       "name": "Garena 傳說對決",
       "type": "channel"
@@ -76,6 +81,11 @@
       "type": "channel"
     },
     {
+      "id": "UC17kjfIX0VD7jVnI-lGPmNg",
+      "name": "Archangel AOV",
+      "type": "channel"
+    },
+    {
       "id": "UCL_X1VBEYADQHmEIsmRHpGg",
       "name": "Khánh Hy",
       "type": "channel"
@@ -88,16 +98,6 @@
     {
       "id": "UCaokzdz-Q_tLcbhDG5OAjUQ",
       "name": "Đánh Giày",
-      "type": "channel"
-    },
-    {
-      "id": "UCbRugPHs-2i48MbID-AnEVQ",
-      "name": "Htt Gamer Liên Quân TV",
-      "type": "channel"
-    },
-    {
-      "id": "UCrROWQp9uPZUiTVHuWBwj9g",
-      "name": "Namsensei",
       "type": "channel"
     }
   ],
