@@ -21,11 +21,6 @@
       "type": "channel"
     },
     {
-      "id": "UCAml1Hqu4LW36B3yEtQg8Fw",
-      "name": "FUNNY GAMING TV",
-      "type": "channel"
-    },
-    {
       "id": "UC3QLI0FHwACCaa91Xdpam2A",
       "name": "Trải Nghiệm Game",
       "type": "channel"
@@ -71,11 +66,6 @@
       "type": "channel"
     },
     {
-      "id": "UCLmVT2XmCej720HFtG7mwSQ",
-      "name": "NTD LQ",
-      "type": "channel"
-    },
-    {
       "id": "UCL_X1VBEYADQHmEIsmRHpGg",
       "name": "Khánh Hy",
       "type": "channel"
@@ -98,6 +88,16 @@
     {
       "id": "UCbRugPHs-2i48MbID-AnEVQ",
       "name": "Htt Gamer Liên Quân TV",
+      "type": "channel"
+    },
+    {
+      "id": "UCrROWQp9uPZUiTVHuWBwj9g",
+      "name": "Namsensei",
+      "type": "channel"
+    },
+    {
+      "id": "UCWXXFvwmcOHxEk6IlhW1BhA",
+      "name": "Phuc Ram",
       "type": "channel"
     }
   ],
