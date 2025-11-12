@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-11-12T15:02:11.139054",
-  "total_news": 80,
+  "last_updated": "2025-11-12T16:02:25.357284",
+  "total_news": 81,
   "news": [
     {
       "id": "d084d2aa6a42",
@@ -634,6 +634,19 @@
       "crawled_at": "2025-09-30T13:03:38.354251",
       "category": "tướng",
       "priority": 5
+    },
+    {
+      "id": "6d53bfd5b574",
+      "title": "ANTGAMER chính thức ra mắt tại Việt Nam cùng màn hình Esports 750Hz đầu tiên trên thế giới",
+      "link": "https://gamek.vn/antgamer-chinh-thuc-ra-mat-tai-viet-nam-cung-man-hinh-esports-750hz-dau-tien-tren-the-gioi-178251112190202092.chn",
+      "summary": "Thương hiệu ANTGAMER chính thức ra mắt thị trường Việt Nam.",
+      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/11/12/avatar1762962784689-17629627850321251450042.png",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2025-11-12T16:02:07.706510",
+      "category": "esports",
+      "priority": 2
     },
     {
       "id": "8686c9b0e9c6",
