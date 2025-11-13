@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-11-13T09:02:28.187741",
-  "total_news": 81,
+  "last_updated": "2025-11-13T10:02:01.604178",
+  "total_news": 82,
   "news": [
     {
       "id": "d084d2aa6a42",
@@ -634,6 +634,19 @@
       "crawled_at": "2025-09-30T13:03:38.354251",
       "category": "tướng",
       "priority": 5
+    },
+    {
+      "id": "23bcab193fa0",
+      "title": "Bên trong \"bom tấn quái vật\" của Guillermo del Toro: Khi Frankenstein sống lại giữa thời đại Netflix",
+      "link": "https://gamek.vn/ben-trong-bom-tan-quai-vat-cua-guillermo-del-toro-khi-frankenstein-song-lai-giua-thoi-dai-netflix-178251112155052587.chn",
+      "summary": "Bản tái sinh mới nhất của kiệt tác Mary Shelley - với sự tham gia của Oscar Isaac và Jacob Elordi - là một mê cung điện ảnh, nơi mọi ám ảnh suốt sự nghiệp của del Toro cùng tụ hội trong một cơn mộng quái dị, đẹp đẽ đến rùng mình.",
+      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/11/12/avatar1762937211037-1762937211336169042265.jpg",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2025-11-13T10:01:41.308210",
+      "category": "tin tức",
+      "priority": 2
     },
     {
       "id": "6d53bfd5b574",
