@@ -16,6 +16,11 @@
       "type": "channel"
     },
     {
+      "id": "UCykFSnImGNa-5DABblw7K-w",
+      "name": "Gcaothu CHANNEL",
+      "type": "channel"
+    },
+    {
       "id": "UCAml1Hqu4LW36B3yEtQg8Fw",
       "name": "FUNNY GAMING TV",
       "type": "channel"
@@ -23,11 +28,6 @@
     {
       "id": "UC3QLI0FHwACCaa91Xdpam2A",
       "name": "Trải Nghiệm Game",
-      "type": "channel"
-    },
-    {
-      "id": "UCen3q9LMBtFHYU3Us7aKD3w",
-      "name": "Anhhao",
       "type": "channel"
     },
     {
@@ -41,38 +41,13 @@
       "type": "channel"
     },
     {
-      "id": "UC9gbpSZsxLTsVgiPyUsU8sg",
-      "name": "Trưởng Star",
-      "type": "channel"
-    },
-    {
       "id": "UCeMjhoCCvujpObnt6yeZeNg",
       "name": "Garena 傳說對決",
       "type": "channel"
     },
     {
-      "id": "UC1EOVZPr8neE-05eqKR_K-Q",
-      "name": "ADC Gaming",
-      "type": "channel"
-    },
-    {
-      "id": "UCgYkGvtBuY4onYm2Eh61zwQ",
-      "name": "Arena of Valor",
-      "type": "channel"
-    },
-    {
-      "id": "UCBVBGNrag1o-V08vwYzoIwg",
-      "name": "Garena AOV Indonesia",
-      "type": "channel"
-    },
-    {
-      "id": "UCwrzeq94NPsz1EHap9r_9NA",
-      "name": "Lai Bâng",
-      "type": "channel"
-    },
-    {
-      "id": "UCH0k4wQg5_QfL2hHavyL-xA",
-      "name": "Tran Binh",
+      "id": "UC55ad8jzcIWCMU-o2CXMEAw",
+      "name": "Thầy Giáo Liên Quân",
       "type": "channel"
     },
     {
@@ -81,23 +56,48 @@
       "type": "channel"
     },
     {
-      "id": "UCDk4tfW1Iku9-0S7L5cZP4A",
-      "name": "Arena of Valor - Topic",
-      "type": "channel"
-    },
-    {
-      "id": "UCCl9aNDeHkRXVkDhCW6eVYg",
-      "name": "Tú có NY",
-      "type": "channel"
-    },
-    {
-      "id": "UCpQ52533EsOa5k-dQSmD1jw",
-      "name": "Ha Le Quyen",
-      "type": "channel"
-    },
-    {
       "id": "UC1ysb__ddApp3PlDva5NAVw",
       "name": "Top 1 Liliana",
+      "type": "channel"
+    },
+    {
+      "id": "UCLmVT2XmCej720HFtG7mwSQ",
+      "name": "NTD LQ",
+      "type": "channel"
+    },
+    {
+      "id": "UCL_X1VBEYADQHmEIsmRHpGg",
+      "name": "Khánh Hy",
+      "type": "channel"
+    },
+    {
+      "id": "UCB7b1Gb6yM-RyY0YW1HY6pA",
+      "name": "Tainzo",
+      "type": "channel"
+    },
+    {
+      "id": "UCMHSTFMGp-k4Z0kG-CfMSWg",
+      "name": "HTT GAMER LIÊN QUÂN MOBILE",
+      "type": "channel"
+    },
+    {
+      "id": "UCaokzdz-Q_tLcbhDG5OAjUQ",
+      "name": "Đánh Giày",
+      "type": "channel"
+    },
+    {
+      "id": "UCbRugPHs-2i48MbID-AnEVQ",
+      "name": "Htt Gamer Liên Quân TV",
+      "type": "channel"
+    },
+    {
+      "id": "UCrROWQp9uPZUiTVHuWBwj9g",
+      "name": "Namsensei",
+      "type": "channel"
+    },
+    {
+      "id": "UCWXXFvwmcOHxEk6IlhW1BhA",
+      "name": "Phuc Ram",
       "type": "channel"
     }
   ],
