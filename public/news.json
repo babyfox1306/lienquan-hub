@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-11-14T03:21:40.802071",
-  "total_news": 82,
+  "last_updated": "2025-11-14T04:03:23.498891",
+  "total_news": 83,
   "news": [
     {
       "id": "d084d2aa6a42",
@@ -634,6 +634,19 @@
       "crawled_at": "2025-09-30T13:03:38.354251",
       "category": "tướng",
       "priority": 5
+    },
+    {
+      "id": "5d0eea59b8f9",
+      "title": "Grow Lancer tái định nghĩa \"Tanker\" trong MU Lục Địa VNG",
+      "link": "https://gamek.vn/grow-lancer-tai-dinh-nghia-tanker-trong-mu-luc-dia-vng-178251114093357645.chn",
+      "summary": "Ngay từ khi xuất hiện trong phiên bản cập nhật ngày 11/11, Grow Lancer – class thứ 7 của MU Lục Địa VNG đã nhanh chóng trở thành tâm điểm chú ý trong cộng đồng khi tái định nghĩa hoàn toàn phong cách chiến đấu thuần túy của Tanker.",
+      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/11/14/photo1763028610149-1763028610261853122769-17630876391701081927080.jpg",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2025-11-14T04:03:06.461636",
+      "category": "cập nhật",
+      "priority": 2
     },
     {
       "id": "23bcab193fa0",
