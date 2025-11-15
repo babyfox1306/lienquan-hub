@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-11-15T04:01:42.845902",
-  "total_news": 84,
+  "last_updated": "2025-11-15T05:02:25.218630",
+  "total_news": 85,
   "news": [
     {
       "id": "a585f0177fac",
@@ -647,6 +647,19 @@
       "crawled_at": "2025-09-30T13:03:38.354251",
       "category": "tướng",
       "priority": 5
+    },
+    {
+      "id": "c91a5f5fd6bc",
+      "title": "Vị tướng duy nhất có thể \"trấn áp\" Quan Vũ và Trương Phi: Mã Siêu cũng phải gọi một tiếng đại ca",
+      "link": "https://gamek.vn/vi-tuong-duy-nhat-co-the-tran-ap-quan-vu-va-truong-phi-ma-sieu-cung-phai-goi-mot-tieng-dai-ca-17825111315103142.chn",
+      "summary": "Đó là vị tướng nào?",
+      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/11/13/avatar1763021250068-1763021250499721841549.jpg",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2025-11-15T05:01:28.478692",
+      "category": "tướng",
+      "priority": 2
     },
     {
       "id": "5d0eea59b8f9",
