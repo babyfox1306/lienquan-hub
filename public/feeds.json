@@ -66,6 +66,11 @@
       "type": "channel"
     },
     {
+      "id": "UCwn_gdD10lqg8QKcFwTq-hQ",
+      "name": "Tủng Thúng Veres",
+      "type": "channel"
+    },
+    {
       "id": "UCwrzeq94NPsz1EHap9r_9NA",
       "name": "Lai Bâng",
       "type": "channel"
@@ -93,11 +98,6 @@
     {
       "id": "UCpQ52533EsOa5k-dQSmD1jw",
       "name": "Ha Le Quyen",
-      "type": "channel"
-    },
-    {
-      "id": "UC1ysb__ddApp3PlDva5NAVw",
-      "name": "Top 1 Liliana",
       "type": "channel"
     }
   ],
