@@ -81,11 +81,6 @@
       "type": "channel"
     },
     {
-      "id": "UCJojBppsLbhkaQ_DySRWM-A",
-      "name": "BLV Thanh Tùng",
-      "type": "channel"
-    },
-    {
       "id": "UCL_X1VBEYADQHmEIsmRHpGg",
       "name": "Khánh Hy",
       "type": "channel"
@@ -98,6 +93,11 @@
     {
       "id": "UCMHSTFMGp-k4Z0kG-CfMSWg",
       "name": "HTT GAMER LIÊN QUÂN MOBILE",
+      "type": "channel"
+    },
+    {
+      "id": "UCaokzdz-Q_tLcbhDG5OAjUQ",
+      "name": "Đánh Giày",
       "type": "channel"
     }
   ],
