@@ -41,8 +41,18 @@
       "type": "channel"
     },
     {
+      "id": "UC9gbpSZsxLTsVgiPyUsU8sg",
+      "name": "Trưởng Star",
+      "type": "channel"
+    },
+    {
       "id": "UCeMjhoCCvujpObnt6yeZeNg",
       "name": "Garena 傳說對決",
+      "type": "channel"
+    },
+    {
+      "id": "UC55ad8jzcIWCMU-o2CXMEAw",
+      "name": "Thầy Giáo Liên Quân",
       "type": "channel"
     },
     {
@@ -66,6 +76,16 @@
       "type": "channel"
     },
     {
+      "id": "UCLmVT2XmCej720HFtG7mwSQ",
+      "name": "NTD LQ",
+      "type": "channel"
+    },
+    {
+      "id": "UCJojBppsLbhkaQ_DySRWM-A",
+      "name": "BLV Thanh Tùng",
+      "type": "channel"
+    },
+    {
       "id": "UCL_X1VBEYADQHmEIsmRHpGg",
       "name": "Khánh Hy",
       "type": "channel"
@@ -78,26 +98,6 @@
     {
       "id": "UCMHSTFMGp-k4Z0kG-CfMSWg",
       "name": "HTT GAMER LIÊN QUÂN MOBILE",
-      "type": "channel"
-    },
-    {
-      "id": "UCaokzdz-Q_tLcbhDG5OAjUQ",
-      "name": "Đánh Giày",
-      "type": "channel"
-    },
-    {
-      "id": "UCrROWQp9uPZUiTVHuWBwj9g",
-      "name": "Namsensei",
-      "type": "channel"
-    },
-    {
-      "id": "UCWXXFvwmcOHxEk6IlhW1BhA",
-      "name": "Phuc Ram",
-      "type": "channel"
-    },
-    {
-      "id": "UCdRY5czHAF_Ms15oJpfUM7A",
-      "name": "Yue Bán Fans",
       "type": "channel"
     }
   ],
