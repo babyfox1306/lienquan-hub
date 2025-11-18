@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-11-18T03:21:19.463537",
-  "total_news": 85,
+  "last_updated": "2025-11-18T04:03:03.813837",
+  "total_news": 86,
   "news": [
     {
       "id": "a585f0177fac",
@@ -647,6 +647,19 @@
       "crawled_at": "2025-09-30T13:03:38.354251",
       "category": "tướng",
       "priority": 5
+    },
+    {
+      "id": "d1507ffe28f0",
+      "title": "Tự nhận là vợ của Gumayusi, nữ game thủ Liên Quân khiến người xem tranh cãi gay gắt",
+      "link": "https://gamek.vn/tu-nhan-la-vo-cua-gumayusi-nu-game-thu-lien-quan-khien-nguoi-xem-tranh-cai-gay-gat-178251117092040011.chn",
+      "summary": "Một hành động tưởng chừng rất nhỏ, nhưng lại khiến nữ game thủ này bị chỉ trích dữ dội.",
+      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/11/17/screenshot-674-17633458559421157667883-0-5-368-594-crop-1763351055146170707140.png",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2025-11-18T04:02:44.654630",
+      "category": "tin tức",
+      "priority": 2
     },
     {
       "id": "c91a5f5fd6bc",
