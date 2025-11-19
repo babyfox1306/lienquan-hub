@@ -1,7 +1,20 @@
 {
-  "last_updated": "2025-11-19T04:03:06.663932",
-  "total_news": 87,
+  "last_updated": "2025-11-19T05:01:55.540037",
+  "total_news": 89,
   "news": [
+    {
+      "id": "e84369e8a599",
+      "title": "ĐIỀU CHỈNH GIỮA MÙA PB QUANG MINH & HẮC ÁM – 20.11.2025",
+      "link": "https://lienquan.garena.vn/dieu-chinh-giua-mua-pb-quang-minh-hac-am-20-11-2025/",
+      "summary": "<p>Xin chào các Kiện Tướng, Liên Quân Mobile sẽ tiến hành cập nhật không gián đoạn cho máy chủ chính thức vào ngày 20/11/2025. Trong thời gian quy định, các Kiện tướng có thể tự chọn thời điểm [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/dieu-chinh-giua-mua-pb-quang-minh-hac-am-20-11-2025/\">ĐIỀU CHỈNH GIỮA MÙA PB QUANG MINH &#038; HẮC ÁM – 20.11.2025</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
+      "image_url": null,
+      "source": "Liên Quân Mobile Official",
+      "source_url": "https://lienquan.garena.vn/rss",
+      "published_at": "2025-11-19T04:56:02Z",
+      "crawled_at": "2025-11-19T05:01:34.487729",
+      "category": "tướng",
+      "priority": 1
+    },
     {
       "id": "a585f0177fac",
       "title": "CÔNG BỐ GIẢI ĐẤU SIÊU SAO TOÀN NĂNG 5.0 – SÂN CHƠI DÀNH CHO CÁC CREATOR ĐÀO TẠO SIÊU SAO",
@@ -647,6 +660,19 @@
       "crawled_at": "2025-09-30T13:03:38.354251",
       "category": "tướng",
       "priority": 5
+    },
+    {
+      "id": "66469d53f78b",
+      "title": "Hào Khí Chiến Hồn – Tuyệt phẩm Tam Quốc chiến thuật ấn định ngày ra mắt tại thị trường Việt Nam",
+      "link": "https://gamek.vn/hao-khi-chien-hon-tuyet-pham-tam-quoc-chien-thuat-an-dinh-ngay-ra-mat-tai-thi-truong-viet-nam-178251119110846923.chn",
+      "summary": "Tuyệt phẩm chiến thuật đấu tướng lấy chủ đề Tam Quốc mang tên Hào Khí Chiến Hồn sẽ được ra mắt tại thị trường Việt Nam vào ngày 20/11 trên cả Android và IOS.",
+      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/11/19/haokhi-1763524925383122853265-27-0-590-900-crop-17635249307731439893425.png",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2025-11-19T05:01:37.086879",
+      "category": "tướng",
+      "priority": 2
     },
     {
       "id": "62ae83cead60",
