@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-11-19T08:01:51.469760",
-  "total_news": 90,
+  "last_updated": "2025-11-19T09:01:57.885904",
+  "total_news": 91,
   "news": [
     {
       "id": "8429d4bc7a53",
@@ -673,6 +673,19 @@
       "crawled_at": "2025-09-30T13:03:38.354251",
       "category": "tướng",
       "priority": 5
+    },
+    {
+      "id": "11f63a28dbca",
+      "title": "Tây Du VNG: Bồ Đề Tổ Sư Giáng Thế - Big Update tháng 11 thay đổi cục diện Meta",
+      "link": "https://gamek.vn/tay-du-vng-bo-de-to-su-giang-the-big-update-thang-11-thay-doi-cuc-dien-meta-178251119154131227.chn",
+      "summary": "Bản cập nhật tháng 11 của Tây Du VNG đang cho thấy sự biến đổi lớn về meta, với sự xuất hiện của Kim Tướng mới - Bồ Đề Tổ Sư cùng loạt cải tiến ở Thần Khí, tính năng Chiêu Mộ Tiên Tàng,.. hứa hẹn tạo nên bước chuyển mình toàn diện cho cả PvP lẫn PvE, đưa trải nghiệm của cộng đồng game thủ lên một tầng cao",
+      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/11/19/photo1763523830114-1763523830226468852990-17635416950491840554901.jpg",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2025-11-19T09:01:40.845988",
+      "category": "tướng",
+      "priority": 2
     },
     {
       "id": "66469d53f78b",
