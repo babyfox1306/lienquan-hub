@@ -11,21 +11,6 @@
       "type": "channel"
     },
     {
-      "id": "UCy19QXxbCHh8qVVCbuGk-ig",
-      "name": "Garena RoV Thailand",
-      "type": "channel"
-    },
-    {
-      "id": "UCykFSnImGNa-5DABblw7K-w",
-      "name": "Gcaothu CHANNEL",
-      "type": "channel"
-    },
-    {
-      "id": "UCAml1Hqu4LW36B3yEtQg8Fw",
-      "name": "FUNNY GAMING TV",
-      "type": "channel"
-    },
-    {
       "id": "UC3QLI0FHwACCaa91Xdpam2A",
       "name": "Trải Nghiệm Game",
       "type": "channel"
@@ -41,33 +26,8 @@
       "type": "channel"
     },
     {
-      "id": "UC9gbpSZsxLTsVgiPyUsU8sg",
-      "name": "Trưởng Star",
-      "type": "channel"
-    },
-    {
-      "id": "UCeMjhoCCvujpObnt6yeZeNg",
-      "name": "Garena 傳說對決",
-      "type": "channel"
-    },
-    {
-      "id": "UC55ad8jzcIWCMU-o2CXMEAw",
-      "name": "Thầy Giáo Liên Quân",
-      "type": "channel"
-    },
-    {
-      "id": "UCH0k4wQg5_QfL2hHavyL-xA",
-      "name": "Tran Binh",
-      "type": "channel"
-    },
-    {
       "id": "UCyqjmx1kcZknycssiIhFQKw",
       "name": "VuxGaming",
-      "type": "channel"
-    },
-    {
-      "id": "UCpQ52533EsOa5k-dQSmD1jw",
-      "name": "Ha Le Quyen",
       "type": "channel"
     },
     {
@@ -76,28 +36,68 @@
       "type": "channel"
     },
     {
-      "id": "UCLmVT2XmCej720HFtG7mwSQ",
-      "name": "NTD LQ",
-      "type": "channel"
-    },
-    {
-      "id": "UCL_X1VBEYADQHmEIsmRHpGg",
-      "name": "Khánh Hy",
-      "type": "channel"
-    },
-    {
-      "id": "UCB7b1Gb6yM-RyY0YW1HY6pA",
-      "name": "Tainzo",
-      "type": "channel"
-    },
-    {
       "id": "UCMHSTFMGp-k4Z0kG-CfMSWg",
       "name": "HTT GAMER LIÊN QUÂN MOBILE",
       "type": "channel"
     },
     {
-      "id": "UCaokzdz-Q_tLcbhDG5OAjUQ",
-      "name": "Đánh Giày",
+      "id": "UCYfv7UcC1KOsvMD3BVVwoLg",
+      "name": "Esports - Garena Liên Quân Mobile",
+      "type": "channel"
+    },
+    {
+      "id": "UCgbMglNu16CgtxKRg3LrpjQ",
+      "name": "CBNN Liên Quân Mobile",
+      "type": "channel"
+    },
+    {
+      "id": "UC-r1vXyPiJSo2r29U3PgoNg",
+      "name": "HẢI PHONG - HỎNG FILE",
+      "type": "channel"
+    },
+    {
+      "id": "UCjYcRjFtw2ImlKnJMqURx8Q",
+      "name": "Di No Liên Quân Mobile",
+      "type": "channel"
+    },
+    {
+      "id": "UC1io3o-PJjqTW-C2JPExjaA",
+      "name": "NOOB LIÊN QUÂN MOBILE",
+      "type": "channel"
+    },
+    {
+      "id": "UCg1JLR8n5gapej24pDjdGng",
+      "name": "Garena liên quân mobile",
+      "type": "channel"
+    },
+    {
+      "id": "UCWf2h2oDJUZ1NWAf-8Fcb9A",
+      "name": "Liên Quân Mobile eSports - Garena",
+      "type": "channel"
+    },
+    {
+      "id": "UClqYR4kT-LVdgxV3m8B1sTQ",
+      "name": "Liên Quân Mobile",
+      "type": "channel"
+    },
+    {
+      "id": "UCGodYxsde1ged_DzcdN45Ng",
+      "name": "Liên quân mobile Pro",
+      "type": "channel"
+    },
+    {
+      "id": "UCeGc74La_cxRDfIh9E6uEiA",
+      "name": "Liên quân mobile",
+      "type": "channel"
+    },
+    {
+      "id": "UCtriRwAZs7S6cfOSmOLuphA",
+      "name": "garena liên quân mobile",
+      "type": "channel"
+    },
+    {
+      "id": "UCA70x9kBv6Feaslh-k2QxVw",
+      "name": "Liên quân mobile ",
       "type": "channel"
     }
   ],
