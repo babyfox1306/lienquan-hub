@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-11-20T08:01:55.316560",
-  "total_news": 91,
+  "last_updated": "2025-11-20T09:01:58.340363",
+  "total_news": 92,
   "news": [
     {
       "id": "8429d4bc7a53",
@@ -673,6 +673,19 @@
       "crawled_at": "2025-09-30T13:03:38.354251",
       "category": "tướng",
       "priority": 5
+    },
+    {
+      "id": "223862e59da3",
+      "title": "Xuất hiện thông tin Faker có thể sang Việt Nam, cộng đồng nhớ lại \"mid24\"",
+      "link": "https://gamek.vn/xuat-hien-thong-tin-faker-co-the-sang-viet-nam-cong-dong-nho-lai-mid24-178251120115011527.chn",
+      "summary": "Faker cũng từng có nhiều kỷ niệm với rank Việt và khu vực VCS.",
+      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/11/20/faker-vietnam-5-1763614143770894155975-0-0-563-900-crop-1763625162713147787644.png",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2025-11-20T09:01:38.347309",
+      "category": "tin tức",
+      "priority": 2
     },
     {
       "id": "11f63a28dbca",
