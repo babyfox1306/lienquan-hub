@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-11-21T09:01:51.390719",
-  "total_news": 93,
+  "last_updated": "2025-11-21T10:01:51.673068",
+  "total_news": 94,
   "news": [
     {
       "id": "8429d4bc7a53",
@@ -673,6 +673,19 @@
       "crawled_at": "2025-09-30T13:03:38.354251",
       "category": "tướng",
       "priority": 5
+    },
+    {
+      "id": "cfc41e4de480",
+      "title": "Game thủ \"sốc ngang\", một skin trong Where Winds Meet có thể ngốn tới tiền tỷ, nếu bạn xui xẻo",
+      "link": "https://gamek.vn/game-thu-soc-ngang-mot-skin-trong-where-winds-meet-co-the-ngon-toi-tien-ty-neu-ban-xui-xeo-178251121094818111.chn",
+      "summary": "Có lẽ ít game thủ Where Winds Meet nào nghĩ tới điều này.",
+      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/11/21/avatar1763696158689-1763696158990117037330.png",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2025-11-21T10:01:30.938105",
+      "category": "skin",
+      "priority": 2
     },
     {
       "id": "71a88485e878",
