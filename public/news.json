@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-11-21T04:02:26.924037",
-  "total_news": 92,
+  "last_updated": "2025-11-21T05:01:52.457491",
+  "total_news": 93,
   "news": [
     {
       "id": "8429d4bc7a53",
@@ -673,6 +673,19 @@
       "crawled_at": "2025-09-30T13:03:38.354251",
       "category": "tướng",
       "priority": 5
+    },
+    {
+      "id": "71a88485e878",
+      "title": "Bomber PC chính thức ra mắt: tái sinh ký ức Boom Online, rinh ngay skin FREE độc quyền",
+      "link": "https://gamek.vn/bomber-pc-chinh-thuc-ra-mat-tai-sinh-ky-uc-boom-online-rinh-ngay-skin-free-doc-quyen-178251121104021694.chn",
+      "summary": "Bomber PC – phiên bản máy tính của Bomber VNG – chính thức ra mắt vào ngày hôm qua, 19/11/2025. Trong giai đoạn này, người chơi sẽ được trải nghiệm trọn vẹn những tính năng đặc sắc mà chỉ PC mới mang lại, bao gồm đồ họa 3D HD sắc nét, điều khiển chuột bàn phím mượt mà, cùng khả năng đồng bộ liền mạch với tài khoản m",
+      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/11/21/avatar1763696242491-17636962510802036977404-0-0-791-1266-crop-17636963044511095314130.png",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2025-11-21T05:01:33.387639",
+      "category": "skin",
+      "priority": 2
     },
     {
       "id": "223862e59da3",
