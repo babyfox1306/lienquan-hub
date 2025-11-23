@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-11-23T11:01:37.075198",
-  "total_news": 94,
+  "last_updated": "2025-11-23T12:02:07.594912",
+  "total_news": 95,
   "news": [
     {
       "id": "8429d4bc7a53",
@@ -673,6 +673,19 @@
       "crawled_at": "2025-09-30T13:03:38.354251",
       "category": "tướng",
       "priority": 5
+    },
+    {
+      "id": "73f71cd4368a",
+      "title": "Một huyền thoại Esports khác cũng \"dứt tình\" với T1, CEO đội tuyển lại có phát biểu \"khó hiểu\"",
+      "link": "https://gamek.vn/mot-huyen-thoai-esports-khac-cung-dut-tinh-voi-t1-ceo-doi-tuyen-lai-co-phat-bieu-kho-hieu-17825112315234044.chn",
+      "summary": "Gumayusi ra đi dẫn tới việc một huyền thoại khác cũng \"dứt tình\" với T1.",
+      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/11/23/t1-gumayusi-ceo-4-17638861800801438333594-0-0-750-1200-crop-17638861833621984529796.png",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2025-11-23T12:01:47.389812",
+      "category": "esports",
+      "priority": 2
     },
     {
       "id": "cfc41e4de480",
