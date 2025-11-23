@@ -16,23 +16,8 @@
       "type": "channel"
     },
     {
-      "id": "UCykFSnImGNa-5DABblw7K-w",
-      "name": "Gcaothu CHANNEL",
-      "type": "channel"
-    },
-    {
-      "id": "UCAml1Hqu4LW36B3yEtQg8Fw",
-      "name": "FUNNY GAMING TV",
-      "type": "channel"
-    },
-    {
       "id": "UC3QLI0FHwACCaa91Xdpam2A",
       "name": "Trải Nghiệm Game",
-      "type": "channel"
-    },
-    {
-      "id": "UCen3q9LMBtFHYU3Us7aKD3w",
-      "name": "Anhhao",
       "type": "channel"
     },
     {
@@ -61,6 +46,11 @@
       "type": "channel"
     },
     {
+      "id": "UCwrzeq94NPsz1EHap9r_9NA",
+      "name": "Lai Bâng",
+      "type": "channel"
+    },
+    {
       "id": "UCH0k4wQg5_QfL2hHavyL-xA",
       "name": "Tran Binh",
       "type": "channel"
@@ -86,6 +76,21 @@
       "type": "channel"
     },
     {
+      "id": "UCTNsnJ3-Xb0Tu0WMMfde-qQ",
+      "name": "Trâm Anh Nata",
+      "type": "channel"
+    },
+    {
+      "id": "UCCNb-Pr8q7tom88WYd35__g",
+      "name": "Trâm Anh 5 phút",
+      "type": "channel"
+    },
+    {
+      "id": "UCdXcA-jdkIyw_i26gLL0PXA",
+      "name": "Gin TV",
+      "type": "channel"
+    },
+    {
       "id": "UCLmVT2XmCej720HFtG7mwSQ",
       "name": "NTD LQ",
       "type": "channel"
@@ -93,11 +98,6 @@
     {
       "id": "UChVW44gbrdQjc0zF_4-LbUA",
       "name": "Onekill TV",
-      "type": "channel"
-    },
-    {
-      "id": "UC8wTcotvZb9_EibpT15RurQ",
-      "name": "Thủ Khoa Mù Chữ TV",
       "type": "channel"
     }
   ],
