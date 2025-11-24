@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-11-24T10:01:47.192049",
-  "total_news": 95,
+  "last_updated": "2025-11-24T11:01:58.430693",
+  "total_news": 96,
   "news": [
     {
       "id": "8429d4bc7a53",
@@ -673,6 +673,19 @@
       "crawled_at": "2025-09-30T13:03:38.354251",
       "category": "tướng",
       "priority": 5
+    },
+    {
+      "id": "b1e888c36f46",
+      "title": "Hơn 3 tiếng mòn mỏi trong hàng chờ ĐTCL mùa 16 phiên bản PBE của cộng đồng game thủ",
+      "link": "https://gamek.vn/hon-3-tieng-mon-moi-trong-hang-cho-dtcl-mua-16-phien-ban-pbe-cua-cong-dong-game-thu-178251124162533429.chn",
+      "summary": "Hàng chờ PBE không thể chịu nổi nhiệt của ĐTCL mùa 16 với 100 vị tướng và Linh Thú quốc dân Gwen Tí Nị mới.",
+      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/11/24/avatar1763976203000-1763976203392791540140.png",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2025-11-24T11:01:40.562058",
+      "category": "tướng",
+      "priority": 2
     },
     {
       "id": "73f71cd4368a",
