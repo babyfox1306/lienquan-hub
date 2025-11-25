@@ -1,7 +1,20 @@
 {
-  "last_updated": "2025-11-25T10:01:53.366917",
-  "total_news": 97,
+  "last_updated": "2025-11-25T11:01:55.159599",
+  "total_news": 99,
   "news": [
+    {
+      "id": "61c56f532e32",
+      "title": "MỞ BÁN SỔ SỨ MỆNH 84",
+      "link": "https://lienquan.garena.vn/mo-ban-so-su-menh-84/",
+      "summary": "<p>Xin chào các Kiện Tướng Chào mừng đến với Sổ Sứ Mệnh mùa 84 &#8211; Idols Giáng Sinh SỔ SỨ MỆNH MÙA 84 Các Kiện Tướng có hai lựa chọn tham gia Sổ Sứ Mệnh [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/mo-ban-so-su-menh-84/\">MỞ BÁN SỔ SỨ MỆNH 84</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
+      "image_url": null,
+      "source": "Liên Quân Mobile Official",
+      "source_url": "https://lienquan.garena.vn/rss",
+      "published_at": "2025-11-25T10:44:38Z",
+      "crawled_at": "2025-11-25T11:01:34.362673",
+      "category": "tướng",
+      "priority": 1
+    },
     {
       "id": "8429d4bc7a53",
       "title": "ĐỘI TUYỂN TP. HỒ CHÍ MINH BẢO VỆ THÀNH CÔNG MŨ VINH QUANG | TỨ PHƯƠNG ĐẠI CHIẾN MÙA ĐÔNG 2025 THÀNH CÔNG RỰC RỠ",
@@ -673,6 +686,19 @@
       "crawled_at": "2025-09-30T13:03:38.354251",
       "category": "tướng",
       "priority": 5
+    },
+    {
+      "id": "b02567cbfb10",
+      "title": "Vòng loại NSOC 2025 bùng nổ với hơn 5.000 tuyển thủ so tài - cuộc đua căng nhất cộng đồng eSports sinh viên Việt Nam",
+      "link": "https://gamek.vn/vong-loai-nsoc-2025-bung-no-voi-hon-5000-tuyen-thu-so-tai-cuoc-dua-cang-nhat-cong-dong-esports-sinh-vien-viet-nam-178251125172223009.chn",
+      "summary": "Với hơn 5.000 sinh viên đến từ 170 trường Đại học và Cao đẳng trên toàn quốc tham gia tranh tài, vòng loại giải đấu Thể thao điện tử sinh viên toàn quốc - NSOC 2025 đã và đang diễn ra vô cùng sôi động, căng thẳng và đầy cảm xúc.",
+      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/11/25/avatar1764065762848-1764065763221178057631.png",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2025-11-25T11:01:37.150761",
+      "category": "esports",
+      "priority": 2
     },
     {
       "id": "1fec6d758286",
