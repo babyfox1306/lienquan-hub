@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-11-25T07:02:20.558525",
-  "total_news": 96,
+  "last_updated": "2025-11-25T08:02:03.787468",
+  "total_news": 97,
   "news": [
     {
       "id": "8429d4bc7a53",
@@ -673,6 +673,19 @@
       "crawled_at": "2025-09-30T13:03:38.354251",
       "category": "tướng",
       "priority": 5
+    },
+    {
+      "id": "1fec6d758286",
+      "title": "Biến hình thành Aya, hot coser khiến anh em game thủ mê mệt vì \"to hơn bản gốc\"",
+      "link": "https://gamek.vn/bien-hinh-thanh-aya-hot-coser-khien-anh-em-game-thu-me-met-vi-to-hon-ban-goc-178251124222934135.chn",
+      "summary": "Nữ coser này đã khiến anh em Liên Quân được một phen trầm trồ.",
+      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/11/25/photo-1763997330188-17639973304381254806781-315-0-1046-1170-crop-1764041399933409120614.png",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2025-11-25T08:01:45.714764",
+      "category": "tin tức",
+      "priority": 2
     },
     {
       "id": "b1e888c36f46",
