@@ -11,6 +11,11 @@
       "type": "channel"
     },
     {
+      "id": "UCy19QXxbCHh8qVVCbuGk-ig",
+      "name": "Garena RoV Thailand",
+      "type": "channel"
+    },
+    {
       "id": "UCykFSnImGNa-5DABblw7K-w",
       "name": "Gcaothu CHANNEL",
       "type": "channel"
@@ -36,8 +41,23 @@
       "type": "channel"
     },
     {
+      "id": "UCeMjhoCCvujpObnt6yeZeNg",
+      "name": "Garena 傳說對決",
+      "type": "channel"
+    },
+    {
+      "id": "UC55ad8jzcIWCMU-o2CXMEAw",
+      "name": "Thầy Giáo Liên Quân",
+      "type": "channel"
+    },
+    {
       "id": "UCyqjmx1kcZknycssiIhFQKw",
       "name": "VuxGaming",
+      "type": "channel"
+    },
+    {
+      "id": "UCpQ52533EsOa5k-dQSmD1jw",
+      "name": "Ha Le Quyen",
       "type": "channel"
     },
     {
@@ -46,18 +66,8 @@
       "type": "channel"
     },
     {
-      "id": "UCdXcA-jdkIyw_i26gLL0PXA",
-      "name": "Gin TV",
-      "type": "channel"
-    },
-    {
       "id": "UCLmVT2XmCej720HFtG7mwSQ",
       "name": "NTD LQ",
-      "type": "channel"
-    },
-    {
-      "id": "UC17kjfIX0VD7jVnI-lGPmNg",
-      "name": "Archangel AOV",
       "type": "channel"
     },
     {
@@ -71,13 +81,13 @@
       "type": "channel"
     },
     {
-      "id": "UCaokzdz-Q_tLcbhDG5OAjUQ",
-      "name": "Đánh Giày",
+      "id": "UCMHSTFMGp-k4Z0kG-CfMSWg",
+      "name": "HTT GAMER LIÊN QUÂN MOBILE",
       "type": "channel"
     },
     {
-      "id": "UCfoEdZzeGa3VW-N_TYYe86Q",
-      "name": "Vĩnh Đất",
+      "id": "UCOXM2BzxpWswBMz7QpC3M1Q",
+      "name": "Love6 liên quân mobile",
       "type": "channel"
     },
     {
@@ -86,18 +96,8 @@
       "type": "channel"
     },
     {
-      "id": "UCjMDeCOoU-U-r2LvFe_6lSw",
-      "name": "CBNN Liên Quân",
-      "type": "channel"
-    },
-    {
-      "id": "UCda4f-6RGeMDhSOre3pw2Hw",
-      "name": "KHÁM PHÁ MOBILE",
-      "type": "channel"
-    },
-    {
-      "id": "UCXWAp9fhc1gDuItClPdhhFA",
-      "name": "TOP.1 Airi",
+      "id": "UCWXXFvwmcOHxEk6IlhW1BhA",
+      "name": "Phuc Ram",
       "type": "channel"
     }
   ],
