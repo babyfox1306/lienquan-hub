@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-11-25T17:03:25.650384",
-  "total_news": 99,
+  "last_updated": "2025-11-25T18:02:06.666421",
+  "total_news": 100,
   "news": [
     {
       "id": "61c56f532e32",
@@ -686,6 +686,19 @@
       "crawled_at": "2025-09-30T13:03:38.354251",
       "category": "tướng",
       "priority": 5
+    },
+    {
+      "id": "a77b39c54bce",
+      "title": "Gumayusi chốt skin CKTG 2025, không nằm ngoài dự đoán nhưng vẫn khiến fan tiếc nuối",
+      "link": "https://gamek.vn/gumayusi-chot-skin-cktg-2025-khong-nam-ngoai-du-doan-nhung-van-khien-fan-tiec-nuoi-178251125155110198.chn",
+      "summary": "Gumayusi có lẽ là tuyển thủ cuối cùng của T1 2025 chốt skin CKTG.",
+      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/11/25/gumayusi-skin-cktg-4-17640606220941789427301-36-0-786-1200-crop-1764060630334101978922.png",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2025-11-25T18:01:49.437027",
+      "category": "skin",
+      "priority": 2
     },
     {
       "id": "b02567cbfb10",
