@@ -31,11 +31,6 @@
       "type": "channel"
     },
     {
-      "id": "UCen3q9LMBtFHYU3Us7aKD3w",
-      "name": "Anhhao",
-      "type": "channel"
-    },
-    {
       "id": "UCIzzawIg4eCPgZggwFzEQbQ",
       "name": "Garena Liên Quân Mobile",
       "type": "channel"
@@ -76,11 +71,6 @@
       "type": "channel"
     },
     {
-      "id": "UCCl9aNDeHkRXVkDhCW6eVYg",
-      "name": "Tú có NY",
-      "type": "channel"
-    },
-    {
       "id": "UCpQ52533EsOa5k-dQSmD1jw",
       "name": "Ha Le Quyen",
       "type": "channel"
@@ -91,13 +81,23 @@
       "type": "channel"
     },
     {
+      "id": "UCprEZQV_lD1gSTVcakOqWwQ",
+      "name": "Xuyên Cùi Mía",
+      "type": "channel"
+    },
+    {
       "id": "UCLmVT2XmCej720HFtG7mwSQ",
       "name": "NTD LQ",
       "type": "channel"
     },
     {
-      "id": "UChVW44gbrdQjc0zF_4-LbUA",
-      "name": "Onekill TV",
+      "id": "UC17kjfIX0VD7jVnI-lGPmNg",
+      "name": "Archangel AOV",
+      "type": "channel"
+    },
+    {
+      "id": "UCL_X1VBEYADQHmEIsmRHpGg",
+      "name": "Khánh Hy",
       "type": "channel"
     }
   ],
