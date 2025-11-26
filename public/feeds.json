@@ -16,23 +16,8 @@
       "type": "channel"
     },
     {
-      "id": "UCykFSnImGNa-5DABblw7K-w",
-      "name": "Gcaothu CHANNEL",
-      "type": "channel"
-    },
-    {
-      "id": "UCAml1Hqu4LW36B3yEtQg8Fw",
-      "name": "FUNNY GAMING TV",
-      "type": "channel"
-    },
-    {
       "id": "UC3QLI0FHwACCaa91Xdpam2A",
       "name": "Trải Nghiệm Game",
-      "type": "channel"
-    },
-    {
-      "id": "UCen3q9LMBtFHYU3Us7aKD3w",
-      "name": "Anhhao",
       "type": "channel"
     },
     {
@@ -46,8 +31,8 @@
       "type": "channel"
     },
     {
-      "id": "UC9gbpSZsxLTsVgiPyUsU8sg",
-      "name": "Trưởng Star",
+      "id": "UC6HjxH0ntp5iPtYYWfYpSNQ",
+      "name": "KINAS MOBILE",
       "type": "channel"
     },
     {
@@ -58,11 +43,6 @@
     {
       "id": "UC1EOVZPr8neE-05eqKR_K-Q",
       "name": "ADC Gaming",
-      "type": "channel"
-    },
-    {
-      "id": "UC55ad8jzcIWCMU-o2CXMEAw",
-      "name": "Thầy Giáo Liên Quân",
       "type": "channel"
     },
     {
@@ -91,6 +71,11 @@
       "type": "channel"
     },
     {
+      "id": "UCTNsnJ3-Xb0Tu0WMMfde-qQ",
+      "name": "Trâm Anh Nata",
+      "type": "channel"
+    },
+    {
       "id": "UCLmVT2XmCej720HFtG7mwSQ",
       "name": "NTD LQ",
       "type": "channel"
@@ -98,6 +83,21 @@
     {
       "id": "UChVW44gbrdQjc0zF_4-LbUA",
       "name": "Onekill TV",
+      "type": "channel"
+    },
+    {
+      "id": "UC1v7NOcoAPZcCAiLHFtz8EQ",
+      "name": "Top Raz",
+      "type": "channel"
+    },
+    {
+      "id": "UCL_X1VBEYADQHmEIsmRHpGg",
+      "name": "Khánh Hy",
+      "type": "channel"
+    },
+    {
+      "id": "UCB7b1Gb6yM-RyY0YW1HY6pA",
+      "name": "Tainzo",
       "type": "channel"
     }
   ],
