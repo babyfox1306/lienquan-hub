@@ -11,6 +11,16 @@
       "type": "channel"
     },
     {
+      "id": "UCy19QXxbCHh8qVVCbuGk-ig",
+      "name": "Garena RoV Thailand",
+      "type": "channel"
+    },
+    {
+      "id": "UCykFSnImGNa-5DABblw7K-w",
+      "name": "Gcaothu CHANNEL",
+      "type": "channel"
+    },
+    {
       "id": "UC3QLI0FHwACCaa91Xdpam2A",
       "name": "Trải Nghiệm Game",
       "type": "channel"
@@ -31,6 +41,16 @@
       "type": "channel"
     },
     {
+      "id": "UCgYkGvtBuY4onYm2Eh61zwQ",
+      "name": "Arena of Valor",
+      "type": "channel"
+    },
+    {
+      "id": "UCBVBGNrag1o-V08vwYzoIwg",
+      "name": "Garena AOV Indonesia",
+      "type": "channel"
+    },
+    {
       "id": "UC55ad8jzcIWCMU-o2CXMEAw",
       "name": "Thầy Giáo Liên Quân",
       "type": "channel"
@@ -38,6 +58,11 @@
     {
       "id": "UCyqjmx1kcZknycssiIhFQKw",
       "name": "VuxGaming",
+      "type": "channel"
+    },
+    {
+      "id": "UCDk4tfW1Iku9-0S7L5cZP4A",
+      "name": "Arena of Valor - Topic",
       "type": "channel"
     },
     {
@@ -51,6 +76,11 @@
       "type": "channel"
     },
     {
+      "id": "UCL_X1VBEYADQHmEIsmRHpGg",
+      "name": "Khánh Hy",
+      "type": "channel"
+    },
+    {
       "id": "UCVVoMk8UNpVIdo5BgszmLnw",
       "name": "Học Viện Liên Quân",
       "type": "channel"
@@ -61,43 +91,13 @@
       "type": "channel"
     },
     {
-      "id": "UCYfv7UcC1KOsvMD3BVVwoLg",
-      "name": "Esports - Garena Liên Quân Mobile",
+      "id": "UCaokzdz-Q_tLcbhDG5OAjUQ",
+      "name": "Đánh Giày",
       "type": "channel"
     },
     {
-      "id": "UCgbMglNu16CgtxKRg3LrpjQ",
-      "name": "CBNN Liên Quân Mobile",
-      "type": "channel"
-    },
-    {
-      "id": "UC-r1vXyPiJSo2r29U3PgoNg",
-      "name": "HẢI PHONG - HỎNG FILE",
-      "type": "channel"
-    },
-    {
-      "id": "UCPoj2PspnSj30xp5u9KtVuA",
-      "name": "Đường Tank Đại Chiến ",
-      "type": "channel"
-    },
-    {
-      "id": "UCQC_e-I2tkla7eMrZF_fnzg",
-      "name": "Liên Quân Wow",
-      "type": "channel"
-    },
-    {
-      "id": "UCjYcRjFtw2ImlKnJMqURx8Q",
-      "name": "Di No Liên Quân Mobile",
-      "type": "channel"
-    },
-    {
-      "id": "UC1io3o-PJjqTW-C2JPExjaA",
-      "name": "NOOB LIÊN QUÂN MOBILE",
-      "type": "channel"
-    },
-    {
-      "id": "UC92yhXD5hj0xvDbUj3d9aJw",
-      "name": "Liên Quân Mobile - Topic",
+      "id": "UCfoEdZzeGa3VW-N_TYYe86Q",
+      "name": "Vĩnh Đất",
       "type": "channel"
     }
   ],
