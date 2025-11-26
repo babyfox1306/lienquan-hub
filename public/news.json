@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-26T08:02:16.474843",
+  "last_updated": "2025-11-26T09:02:09.896645",
   "total_news": 100,
   "news": [
     {
@@ -688,6 +688,19 @@
       "priority": 5
     },
     {
+      "id": "b94ddb15d146",
+      "title": "Cùng là cao thủ mang danh \"bất bại\", Độc Cô Cầu Bại giao đấu Đông Phương Bất Bại sẽ có kết quả bất ngờ",
+      "link": "https://gamek.vn/cung-la-cao-thu-mang-danh-bat-bai-doc-co-cau-bai-giao-dau-dong-phuong-bat-bai-se-co-ket-qua-bat-ngo-178251125122916904.chn",
+      "summary": "Nếu Độc Cô Cầu Bại giao đấu Đông Phương Bất Bại có thể sẽ mang đến những điều thú vị.",
+      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/11/25/dongphuongbatbai-doccocaubai-6-17640485075732081699030-0-0-750-1200-crop-1764048510894246509751.png",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2025-11-26T09:01:50.138347",
+      "category": "tin tức",
+      "priority": 2
+    },
+    {
       "id": "f617e7616de8",
       "title": "Kiếm Hiệp Tình 2 Mobile \"hồi sinh\", S19 chuẩn bị bùng nổ",
       "link": "https://gamek.vn/kiem-hiep-tinh-2-mobile-hoi-sinh-s19-chuan-bi-bung-no-178251126130734667.chn",
@@ -1270,19 +1283,6 @@
       "published_at": null,
       "crawled_at": "2025-10-05T09:24:14.131836",
       "category": "tin tức",
-      "priority": 2
-    },
-    {
-      "id": "2ffb66a446d8",
-      "title": "Bom tấn gây sốt khi hợp tác với Starcraft, tung skin khiến game thủ choáng váng, giá lên tới gần 5 triệu",
-      "link": "https://gamek.vn/bom-tan-gay-sot-khi-hop-tac-voi-starcraft-tung-skin-khien-game-thu-choang-vang-gia-len-toi-gan-5-trieu-178250929085321357.chn",
-      "summary": "Các game thủ Diablo 4 đã rất sốc trước mức giá này.",
-      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/9/29/avatar1759111015732-17591110160011042916452.png",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2025-09-30T13:08:14.237682",
-      "category": "skin",
       "priority": 2
     }
   ]
