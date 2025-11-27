@@ -1,7 +1,20 @@
 {
-  "last_updated": "2025-11-27T04:03:09.713809",
+  "last_updated": "2025-11-27T05:02:01.481447",
   "total_news": 100,
   "news": [
+    {
+      "id": "70bf7657912b",
+      "title": "CHÚC MỪNG COMMUNITY LEADER XUẤT SẮC NHẤT THÁNG 10 NĂM 2025",
+      "link": "https://lienquan.garena.vn/chuc-mung-community-leader-xuat-sac-nhat-thang-10-nam-2025/",
+      "summary": "<p>Xin chào các Kiện tướng, Tháng 10 – tháng Sinh Nhật Liên Quân – đã khép lại với hàng loạt hoạt động sôi động trên khắp tỉnh thành, trường học và cộng đồng fan. Đây [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/chuc-mung-community-leader-xuat-sac-nhat-thang-10-nam-2025/\">CHÚC MỪNG COMMUNITY LEADER XUẤT SẮC NHẤT THÁNG 10 NĂM 2025</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
+      "image_url": null,
+      "source": "Liên Quân Mobile Official",
+      "source_url": "https://lienquan.garena.vn/rss",
+      "published_at": "2025-11-27T04:17:17Z",
+      "crawled_at": "2025-11-27T05:01:40.848771",
+      "category": "tướng",
+      "priority": 1
+    },
     {
       "id": "61c56f532e32",
       "title": "MỞ BÁN SỔ SỨ MỆNH 84",
@@ -1270,19 +1283,6 @@
       "published_at": null,
       "crawled_at": "2025-10-18T09:01:43.177169",
       "category": "tướng",
-      "priority": 2
-    },
-    {
-      "id": "6e21f484828e",
-      "title": "Đây là 5 đại cao thủ được đánh giá mạnh nhất truyện Kim Dung, không có Kiều Phong",
-      "link": "https://gamek.vn/day-la-5-dai-cao-thu-duoc-danh-gia-manh-nhat-truyen-kim-dung-khong-co-kieu-phong-178251004130138056.chn",
-      "summary": "Đây là 5 đại cao thủ trong toàn bộ các tiểu thuyết võ hiệp của Kim Dung, nhưng không có tên của \"Chiến thần\" Kiều Phong.",
-      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/10/4/avatar1759576434329-1759576434620448722307.png",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2025-10-05T09:24:14.131836",
-      "category": "tin tức",
       "priority": 2
     }
   ]
