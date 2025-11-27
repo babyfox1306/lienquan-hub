@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-27T08:02:10.097310",
+  "last_updated": "2025-11-27T09:01:48.833649",
   "total_news": 100,
   "news": [
     {
@@ -701,6 +701,19 @@
       "priority": 5
     },
     {
+      "id": "5ee7aca1253b",
+      "title": "Thiên Long Bát Bộ 2 VNG: Big Update Vô Địch Vân Uyên có gì hot để game thủ mê mệt?",
+      "link": "https://gamek.vn/thien-long-bat-bo-2-vng-big-update-vo-dich-van-uyen-co-gi-hot-de-game-thu-me-met-178251127151219629.chn",
+      "summary": "Vô Địch Vân Uyên là lúc các game thủ Thiên Long Bát Bộ 2 VNG được dịp chung vui trong giải đấu đỉnh cao, cường hóa thú cưng và đối đầu với những thử thách mới.",
+      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/11/27/photo1764219460378-17642194604841424799689-1764231151320670501509.jpg",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2025-11-27T09:01:28.114982",
+      "category": "cập nhật",
+      "priority": 2
+    },
+    {
       "id": "b94ddb15d146",
       "title": "Cùng là cao thủ mang danh \"bất bại\", Độc Cô Cầu Bại giao đấu Đông Phương Bất Bại sẽ có kết quả bất ngờ",
       "link": "https://gamek.vn/cung-la-cao-thu-mang-danh-bat-bai-doc-co-cau-bai-giao-dau-dong-phuong-bat-bai-se-co-ket-qua-bat-ngo-178251125122916904.chn",
@@ -1270,19 +1283,6 @@
       "published_at": null,
       "crawled_at": "2025-10-18T10:01:42.205969",
       "category": "tin tức",
-      "priority": 2
-    },
-    {
-      "id": "8e8ecb249c40",
-      "title": "Dàn tướng đạt tỷ lệ thắng cao nhất CKTG 2025 tính đến hiện tại, T1 có thể tận dụng",
-      "link": "https://gamek.vn/dan-tuong-dat-ty-le-thang-cao-nhat-cktg-2025-tinh-den-hien-tai-t1-co-the-tan-dung-178251018115558273.chn",
-      "summary": "4/5 tướng LMHT trong danh sách này đều rất thuận tay T1.",
-      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/10/18/cktg-tuong-lmht-4-1760763339252274772140-0-0-1250-2000-crop-17607633470481675791157.jpg",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2025-10-18T09:01:43.177169",
-      "category": "tướng",
       "priority": 2
     }
   ]
