@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-28T08:01:53.600267",
+  "last_updated": "2025-11-28T09:02:03.240307",
   "total_news": 100,
   "news": [
     {
@@ -701,6 +701,32 @@
       "priority": 5
     },
     {
+      "id": "87da971b0571",
+      "title": "Đu trend cùng đàn em, MC Phương Thảo bị soi một chi tiết khiến cô nàng giận “tím mặt”",
+      "link": "https://gamek.vn/du-trend-cung-dan-em-mc-phuong-thao-bi-soi-mot-chi-tiet-khien-co-nang-gian-tim-mat-178251128095111639.chn",
+      "summary": "Cặp chị em MC Liên Quân đang được nhắc tới rất nhiều ở thời điểm hiện tại.",
+      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/11/28/photo-1764297977791-1764297978171792332155-52-0-346-471-crop-17643048608382116302415.png",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2025-11-28T09:01:44.204581",
+      "category": "tin tức",
+      "priority": 2
+    },
+    {
+      "id": "5faabc1411ed",
+      "title": "Danh sách vũ khí &amp; môn võ mạnh nhất trong Where Winds Meet (Tier List &amp; Hướng dẫn meta đầu game)",
+      "link": "https://gamek.vn/danh-sach-vu-khi-mon-vo-manh-nhat-trong-where-winds-meet-tier-list-huong-dan-meta-dau-game-178251126110601803.chn",
+      "summary": "Bài viết bổ ích cho những newbie của Where Winds Meet.",
+      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/11/27/avatar1764208053542-17642080539101018679725.png",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2025-11-28T09:01:44.204656",
+      "category": "meta",
+      "priority": 2
+    },
+    {
       "id": "5ee7aca1253b",
       "title": "Thiên Long Bát Bộ 2 VNG: Big Update Vô Địch Vân Uyên có gì hot để game thủ mê mệt?",
       "link": "https://gamek.vn/thien-long-bat-bo-2-vng-big-update-vo-dich-van-uyen-co-gi-hot-de-game-thu-me-met-178251127151219629.chn",
@@ -1256,32 +1282,6 @@
       "source_url": "https://gamek.vn/rss",
       "published_at": null,
       "crawled_at": "2025-10-20T15:01:42.045940",
-      "category": "tin tức",
-      "priority": 2
-    },
-    {
-      "id": "a07cff2fde6a",
-      "title": "Đông Phương Bất Bại, Phong Thanh Dương và Phương Chứng đại sư đối đầu, ai thắng?",
-      "link": "https://gamek.vn/dong-phuong-bat-bai-phong-thanh-duong-va-phuong-chung-dai-su-doi-dau-ai-thang-178251020161121989.chn",
-      "summary": "Trong 3 vị đại cao thủ này, ai là người mạnh nhất?",
-      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/10/20/avatar1760951350676-17609513511821802509747-1-117-275-555-crop-17609515238252078556209.png",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2025-10-20T13:10:02.821902",
-      "category": "tin tức",
-      "priority": 2
-    },
-    {
-      "id": "18ccaf5e65e2",
-      "title": "Cao thủ bí ẩn nhất của Kim Dung: Kiếm pháp ngang Độc Cô Cầu Bại nhưng bị tác giả 'gạt phăng' khỏi võ lâm",
-      "link": "https://gamek.vn/cao-thu-bi-an-nhat-cua-kim-dung-kiem-phap-ngang-doc-co-cau-bai-nhung-bi-tac-gia-gat-phang-khoi-vo-lam-178251017173001824.chn",
-      "summary": "Cao thủ này là ai?",
-      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/10/17/avatar1760696888554-17606968894721538001452.jpg",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2025-10-18T10:01:42.205969",
       "category": "tin tức",
       "priority": 2
     }
