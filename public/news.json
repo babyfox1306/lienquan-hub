@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-28T14:01:46.452684",
+  "last_updated": "2025-11-28T15:01:40.161240",
   "total_news": 100,
   "news": [
     {
@@ -701,6 +701,19 @@
       "priority": 5
     },
     {
+      "id": "5a6c4cde6cef",
+      "title": "Đội tuyển Audition Việt Nam chính thức xuất quân cho SEA Games 33",
+      "link": "https://gamek.vn/doi-tuyen-audition-viet-nam-chinh-thuc-xuat-quan-cho-sea-games-33-178251128143631198.chn",
+      "summary": "Tổng công ty VTC đã chính thức làm Lễ xuất quân cho Đội tuyển Esports Audition Việt Nam tham dự SEA Games 33.",
+      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/11/28/audition-1-1764315354655306397732-50-0-800-1200-crop-1764315359061251771234.png",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2025-11-28T15:01:19.330493",
+      "category": "esports",
+      "priority": 2
+    },
+    {
       "id": "87da971b0571",
       "title": "Đu trend cùng đàn em, MC Phương Thảo bị soi một chi tiết khiến cô nàng giận “tím mặt”",
       "link": "https://gamek.vn/du-trend-cung-dan-em-mc-phuong-thao-bi-soi-mot-chi-tiet-khien-co-nang-gian-tim-mat-178251128095111639.chn",
@@ -1270,19 +1283,6 @@
       "published_at": null,
       "crawled_at": "2025-10-24T06:01:52.086034",
       "category": "esports",
-      "priority": 2
-    },
-    {
-      "id": "272a559f630a",
-      "title": "4 \"trùm cuối\" nhưng chưa từng lộ mặt trong tiểu thuyết Kim Dung",
-      "link": "https://gamek.vn/4-trum-cuoi-nhung-chua-tung-lo-mat-trong-tieu-thuyet-kim-dung-178251019180358723.chn",
-      "summary": "Đây là 4 đại cao thủ huyền thoại võ lâm nhưng chưa từng lộ mặt trong tiểu thuyết Kim Dung.",
-      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/10/20/avatar1760970083589-17609700839521801042055.png",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2025-10-20T15:01:42.045940",
-      "category": "tin tức",
       "priority": 2
     }
   ]
