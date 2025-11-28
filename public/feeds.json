@@ -41,18 +41,13 @@
       "type": "channel"
     },
     {
+      "id": "UC9gbpSZsxLTsVgiPyUsU8sg",
+      "name": "Trưởng Star",
+      "type": "channel"
+    },
+    {
       "id": "UCeMjhoCCvujpObnt6yeZeNg",
       "name": "Garena 傳說對決",
-      "type": "channel"
-    },
-    {
-      "id": "UCgYkGvtBuY4onYm2Eh61zwQ",
-      "name": "Arena of Valor",
-      "type": "channel"
-    },
-    {
-      "id": "UCBVBGNrag1o-V08vwYzoIwg",
-      "name": "Garena AOV Indonesia",
       "type": "channel"
     },
     {
@@ -61,13 +56,13 @@
       "type": "channel"
     },
     {
-      "id": "UCyqjmx1kcZknycssiIhFQKw",
-      "name": "VuxGaming",
+      "id": "UCH0k4wQg5_QfL2hHavyL-xA",
+      "name": "Tran Binh",
       "type": "channel"
     },
     {
-      "id": "UCDk4tfW1Iku9-0S7L5cZP4A",
-      "name": "Arena of Valor - Topic",
+      "id": "UCyqjmx1kcZknycssiIhFQKw",
+      "name": "VuxGaming",
       "type": "channel"
     },
     {
@@ -98,6 +93,11 @@
     {
       "id": "UCMHSTFMGp-k4Z0kG-CfMSWg",
       "name": "HTT GAMER LIÊN QUÂN MOBILE",
+      "type": "channel"
+    },
+    {
+      "id": "UCaokzdz-Q_tLcbhDG5OAjUQ",
+      "name": "Đánh Giày",
       "type": "channel"
     }
   ],
