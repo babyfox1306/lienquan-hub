@@ -41,6 +41,11 @@
       "type": "channel"
     },
     {
+      "id": "UC9gbpSZsxLTsVgiPyUsU8sg",
+      "name": "Trưởng Star",
+      "type": "channel"
+    },
+    {
       "id": "UCeMjhoCCvujpObnt6yeZeNg",
       "name": "Garena 傳說對決",
       "type": "channel"
@@ -48,11 +53,6 @@
     {
       "id": "UC55ad8jzcIWCMU-o2CXMEAw",
       "name": "Thầy Giáo Liên Quân",
-      "type": "channel"
-    },
-    {
-      "id": "UCH0k4wQg5_QfL2hHavyL-xA",
-      "name": "Tran Binh",
       "type": "channel"
     },
     {
