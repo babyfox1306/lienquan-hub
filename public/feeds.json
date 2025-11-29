@@ -76,6 +76,11 @@
       "type": "channel"
     },
     {
+      "id": "UC17kjfIX0VD7jVnI-lGPmNg",
+      "name": "Archangel AOV",
+      "type": "channel"
+    },
+    {
       "id": "UCL_X1VBEYADQHmEIsmRHpGg",
       "name": "Khánh Hy",
       "type": "channel"
@@ -93,11 +98,6 @@
     {
       "id": "UCaokzdz-Q_tLcbhDG5OAjUQ",
       "name": "Đánh Giày",
-      "type": "channel"
-    },
-    {
-      "id": "UCbRugPHs-2i48MbID-AnEVQ",
-      "name": "Htt Gamer Liên Quân TV",
       "type": "channel"
     }
   ],
