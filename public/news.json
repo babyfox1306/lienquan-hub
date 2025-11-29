@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-29T17:01:49.234329",
+  "last_updated": "2025-11-29T18:01:50.248255",
   "total_news": 100,
   "news": [
     {
@@ -701,6 +701,19 @@
       "priority": 5
     },
     {
+      "id": "6635246f7822",
+      "title": "Kiều Phong - Quách Tĩnh: Đệ nhất cao thủ Hàng Long Thập Bát Chưởng là đây",
+      "link": "https://gamek.vn/kieu-phong-quach-tinh-de-nhat-cao-thu-hang-long-thap-bat-chuong-la-day-178251129005912035.chn",
+      "summary": "Cùng là những cao thủ của Cái Bang nhưng giữa Kiều Phong và Quách Tĩnh chỉ có một người xứng đáng là đệ nhất.",
+      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/11/28/kieuphong-quachtinh-kimdung-7-17643526541171099322894-3-0-566-900-crop-1764352686476117942610.png",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2025-11-29T18:01:28.838779",
+      "category": "tin tức",
+      "priority": 2
+    },
+    {
       "id": "5a6c4cde6cef",
       "title": "Đội tuyển Audition Việt Nam chính thức xuất quân cho SEA Games 33",
       "link": "https://gamek.vn/doi-tuyen-audition-viet-nam-chinh-thuc-xuat-quan-cho-sea-games-33-178251128143631198.chn",
@@ -1270,19 +1283,6 @@
       "published_at": null,
       "crawled_at": "2025-10-24T15:01:47.853988",
       "category": "tướng",
-      "priority": 2
-    },
-    {
-      "id": "e3faa662d9f0",
-      "title": "FC Mobile chấn động cộng đồng khi mang siêu giải đấu quốc tế cùng huyền thoại Kaká, Figo \"đổ bộ\" Việt Nam",
-      "link": "https://gamek.vn/fc-mobile-chan-dong-cong-dong-khi-mang-sieu-giai-dau-quoc-te-cung-huyen-thoai-kaka-figo-do-bo-viet-nam-178251024111247996.chn",
-      "summary": "Hai huyền thoại Kaká, Figo sẽ xuất hiện trong ngày ra mắt giải đấu Esports quốc tế cực lớn của FC Mobile Việt Nam.",
-      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/10/24/avatar1761278837645-17612788382792146518061.png",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2025-10-24T06:01:52.086034",
-      "category": "esports",
       "priority": 2
     }
   ]
