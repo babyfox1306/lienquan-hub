@@ -11,11 +11,6 @@
       "type": "channel"
     },
     {
-      "id": "UCy19QXxbCHh8qVVCbuGk-ig",
-      "name": "Garena RoV Thailand",
-      "type": "channel"
-    },
-    {
       "id": "UCykFSnImGNa-5DABblw7K-w",
       "name": "Gcaothu CHANNEL",
       "type": "channel"
@@ -41,23 +36,8 @@
       "type": "channel"
     },
     {
-      "id": "UC9gbpSZsxLTsVgiPyUsU8sg",
-      "name": "Trưởng Star",
-      "type": "channel"
-    },
-    {
-      "id": "UCeMjhoCCvujpObnt6yeZeNg",
-      "name": "Garena 傳說對決",
-      "type": "channel"
-    },
-    {
       "id": "UC55ad8jzcIWCMU-o2CXMEAw",
       "name": "Thầy Giáo Liên Quân",
-      "type": "channel"
-    },
-    {
-      "id": "UCyqjmx1kcZknycssiIhFQKw",
-      "name": "VuxGaming",
       "type": "channel"
     },
     {
@@ -76,13 +56,8 @@
       "type": "channel"
     },
     {
-      "id": "UCB7b1Gb6yM-RyY0YW1HY6pA",
-      "name": "Tainzo",
-      "type": "channel"
-    },
-    {
-      "id": "UCL_X1VBEYADQHmEIsmRHpGg",
-      "name": "Khánh Hy",
+      "id": "UCVVoMk8UNpVIdo5BgszmLnw",
+      "name": "Học Viện Liên Quân",
       "type": "channel"
     },
     {
@@ -91,13 +66,38 @@
       "type": "channel"
     },
     {
-      "id": "UCaokzdz-Q_tLcbhDG5OAjUQ",
-      "name": "Đánh Giày",
+      "id": "UCbRugPHs-2i48MbID-AnEVQ",
+      "name": "Htt Gamer Liên Quân TV",
       "type": "channel"
     },
     {
-      "id": "UCbRugPHs-2i48MbID-AnEVQ",
-      "name": "Htt Gamer Liên Quân TV",
+      "id": "UCWXXFvwmcOHxEk6IlhW1BhA",
+      "name": "Phuc Ram",
+      "type": "channel"
+    },
+    {
+      "id": "UCjMDeCOoU-U-r2LvFe_6lSw",
+      "name": "CBNN Liên Quân",
+      "type": "channel"
+    },
+    {
+      "id": "UCgbMglNu16CgtxKRg3LrpjQ",
+      "name": "CBNN Liên Quân Mobile",
+      "type": "channel"
+    },
+    {
+      "id": "UC-r1vXyPiJSo2r29U3PgoNg",
+      "name": "HẢI PHONG - HỎNG FILE",
+      "type": "channel"
+    },
+    {
+      "id": "UCdSGpiTIGwzlQQ9VP1IJXgg",
+      "name": "Bốp Bốp Top1 Liên Quân",
+      "type": "channel"
+    },
+    {
+      "id": "UC6dQDhRxU57lY7bx62NcC7A",
+      "name": "Highlight Liên Quân AOV",
       "type": "channel"
     }
   ],
