@@ -41,11 +41,6 @@
       "type": "channel"
     },
     {
-      "id": "UC9gbpSZsxLTsVgiPyUsU8sg",
-      "name": "Trưởng Star",
-      "type": "channel"
-    },
-    {
       "id": "UCeMjhoCCvujpObnt6yeZeNg",
       "name": "Garena 傳說對決",
       "type": "channel"
@@ -98,6 +93,11 @@
     {
       "id": "UCaokzdz-Q_tLcbhDG5OAjUQ",
       "name": "Đánh Giày",
+      "type": "channel"
+    },
+    {
+      "id": "UCbRugPHs-2i48MbID-AnEVQ",
+      "name": "Htt Gamer Liên Quân TV",
       "type": "channel"
     }
   ],
