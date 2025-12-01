@@ -21,6 +21,11 @@
       "type": "channel"
     },
     {
+      "id": "UCAml1Hqu4LW36B3yEtQg8Fw",
+      "name": "FUNNY GAMING TV",
+      "type": "channel"
+    },
+    {
       "id": "UC3QLI0FHwACCaa91Xdpam2A",
       "name": "Trải Nghiệm Game",
       "type": "channel"
@@ -46,23 +51,13 @@
       "type": "channel"
     },
     {
-      "id": "UCgYkGvtBuY4onYm2Eh61zwQ",
-      "name": "Arena of Valor",
-      "type": "channel"
-    },
-    {
-      "id": "UCBVBGNrag1o-V08vwYzoIwg",
-      "name": "Garena AOV Indonesia",
+      "id": "UC55ad8jzcIWCMU-o2CXMEAw",
+      "name": "Thầy Giáo Liên Quân",
       "type": "channel"
     },
     {
       "id": "UCyqjmx1kcZknycssiIhFQKw",
       "name": "VuxGaming",
-      "type": "channel"
-    },
-    {
-      "id": "UCDk4tfW1Iku9-0S7L5cZP4A",
-      "name": "Arena of Valor - Topic",
       "type": "channel"
     },
     {
@@ -73,6 +68,11 @@
     {
       "id": "UC1ysb__ddApp3PlDva5NAVw",
       "name": "Top 1 Liliana",
+      "type": "channel"
+    },
+    {
+      "id": "UCLmVT2XmCej720HFtG7mwSQ",
+      "name": "NTD LQ",
       "type": "channel"
     },
     {
@@ -91,13 +91,13 @@
       "type": "channel"
     },
     {
-      "id": "UCbRugPHs-2i48MbID-AnEVQ",
-      "name": "Htt Gamer Liên Quân TV",
+      "id": "UCaokzdz-Q_tLcbhDG5OAjUQ",
+      "name": "Đánh Giày",
       "type": "channel"
     },
     {
-      "id": "UCKjyrROfuUjQ8EHpjFHgjRA",
-      "name": "Ugi Desniana",
+      "id": "UCbRugPHs-2i48MbID-AnEVQ",
+      "name": "Htt Gamer Liên Quân TV",
       "type": "channel"
     }
   ],
