@@ -1,7 +1,20 @@
 {
-  "last_updated": "2025-12-03T04:06:35.107969",
+  "last_updated": "2025-12-03T05:02:01.822820",
   "total_news": 100,
   "news": [
+    {
+      "id": "0d41c08edf9c",
+      "title": "ĐIỀU CHỈNH GIỮA MÙA PB QUANG MINH & HẮC ÁM – 4.12.2025",
+      "link": "https://lienquan.garena.vn/dieu-chinh-giua-mua-pb-quang-minh-hac-am-4-12-2025/",
+      "summary": "<p>Xin chào các Kiện Tướng, Liên Quân Mobile sẽ tiến hành cập nhật không gián đoạn cho máy chủ chính thức vào ngày 4/12/2025. Trong thời gian quy định, các Kiện tướng có thể tự chọn thời điểm [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/dieu-chinh-giua-mua-pb-quang-minh-hac-am-4-12-2025/\">ĐIỀU CHỈNH GIỮA MÙA PB QUANG MINH &#038; HẮC ÁM – 4.12.2025</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
+      "image_url": null,
+      "source": "Liên Quân Mobile Official",
+      "source_url": "https://lienquan.garena.vn/rss",
+      "published_at": "2025-12-03T04:50:43Z",
+      "crawled_at": "2025-12-03T05:01:41.308290",
+      "category": "tướng",
+      "priority": 1
+    },
     {
       "id": "70bf7657912b",
       "title": "CHÚC MỪNG COMMUNITY LEADER XUẤT SẮC NHẤT THÁNG 10 NĂM 2025",
@@ -1270,19 +1283,6 @@
       "published_at": null,
       "crawled_at": "2025-10-25T10:01:43.117834",
       "category": "cập nhật",
-      "priority": 2
-    },
-    {
-      "id": "c74e841895f8",
-      "title": "8 mãnh tướng mạnh nhất Tam Quốc chí: Bất ngờ với thứ hạng Quan Vũ, Trương Phi",
-      "link": "https://gamek.vn/8-manh-tuong-manh-nhat-tam-quoc-chi-bat-ngo-voi-thu-hang-quan-vu-truong-phi-178251021152309757.chn",
-      "summary": "Bảng xếp hạng 8 mãnh tướng mạnh nhất thời Tam Quốc gồm những ai?",
-      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/10/21/avatar1761034869370-176103487114191676881-0-88-275-528-crop-17610349130041260354493.png",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2025-10-24T15:01:47.853988",
-      "category": "tướng",
       "priority": 2
     }
   ]
