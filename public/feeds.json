@@ -36,6 +36,26 @@
       "type": "channel"
     },
     {
+      "id": "UCeMjhoCCvujpObnt6yeZeNg",
+      "name": "Garena 傳說對決",
+      "type": "channel"
+    },
+    {
+      "id": "UC1EOVZPr8neE-05eqKR_K-Q",
+      "name": "ADC Gaming",
+      "type": "channel"
+    },
+    {
+      "id": "UCgYkGvtBuY4onYm2Eh61zwQ",
+      "name": "Arena of Valor",
+      "type": "channel"
+    },
+    {
+      "id": "UCBVBGNrag1o-V08vwYzoIwg",
+      "name": "Garena AOV Indonesia",
+      "type": "channel"
+    },
+    {
       "id": "UC55ad8jzcIWCMU-o2CXMEAw",
       "name": "Thầy Giáo Liên Quân",
       "type": "channel"
@@ -46,13 +66,18 @@
       "type": "channel"
     },
     {
-      "id": "UC1ysb__ddApp3PlDva5NAVw",
-      "name": "Top 1 Liliana",
+      "id": "UCDk4tfW1Iku9-0S7L5cZP4A",
+      "name": "Arena of Valor - Topic",
       "type": "channel"
     },
     {
-      "id": "UCLmVT2XmCej720HFtG7mwSQ",
-      "name": "NTD LQ",
+      "id": "UCpQ52533EsOa5k-dQSmD1jw",
+      "name": "Ha Le Quyen",
+      "type": "channel"
+    },
+    {
+      "id": "UC1ysb__ddApp3PlDva5NAVw",
+      "name": "Top 1 Liliana",
       "type": "channel"
     },
     {
@@ -71,33 +96,8 @@
       "type": "channel"
     },
     {
-      "id": "UCrROWQp9uPZUiTVHuWBwj9g",
-      "name": "Namsensei",
-      "type": "channel"
-    },
-    {
-      "id": "UCYfv7UcC1KOsvMD3BVVwoLg",
-      "name": "Esports - Garena Liên Quân Mobile",
-      "type": "channel"
-    },
-    {
-      "id": "UCgbMglNu16CgtxKRg3LrpjQ",
-      "name": "CBNN Liên Quân Mobile",
-      "type": "channel"
-    },
-    {
-      "id": "UCIA4R35MU7tVPXvCy3qp1Vg",
-      "name": "TOP 1 Butterfly",
-      "type": "channel"
-    },
-    {
-      "id": "UC-r1vXyPiJSo2r29U3PgoNg",
-      "name": "HẢI PHONG - HỎNG FILE",
-      "type": "channel"
-    },
-    {
-      "id": "UCPoj2PspnSj30xp5u9KtVuA",
-      "name": "Đường Tank Đại Chiến ",
+      "id": "UCKjyrROfuUjQ8EHpjFHgjRA",
+      "name": "Ugi Desniana",
       "type": "channel"
     }
   ],
