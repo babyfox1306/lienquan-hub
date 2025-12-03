@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-03T09:03:41.507648",
+  "last_updated": "2025-12-03T10:01:52.642393",
   "total_news": 100,
   "news": [
     {
@@ -714,6 +714,19 @@
       "priority": 5
     },
     {
+      "id": "30ee3738fed9",
+      "title": "Liên Quân Mobile lên tiếng về drama thiết kế trang phục, khiến cộng đồng hết sức phẫn nộ",
+      "link": "https://gamek.vn/lien-quan-mobile-len-tieng-ve-drama-thiet-ke-trang-phuc-khien-cong-dong-het-suc-phan-no-178251203144428275.chn",
+      "summary": "Liên Quân vừa dính vào một drama vô cùng nghiêm trọng",
+      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/12/3/avatar1764752615599-1764752617572592783076.jpg",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2025-12-03T10:01:31.756524",
+      "category": "skin",
+      "priority": 2
+    },
+    {
       "id": "3d0907b45366",
       "title": "Trời cũng không thể giảm sức mạnh của \"con tướng\" này lại được: 5 ngày kiếm 15.000 tỷ, phá vỡ mọi kỷ lục thế giới",
       "link": "https://gamek.vn/troi-cung-khong-the-giam-suc-manh-cua-con-tuong-nay-lai-duoc-5-ngay-kiem-15000-ty-pha-vo-moi-ky-luc-the-gioi-178251202084518846.chn",
@@ -1270,19 +1283,6 @@
       "published_at": null,
       "crawled_at": "2025-10-27T09:02:02.565715",
       "category": "tướng",
-      "priority": 2
-    },
-    {
-      "id": "b9b336a11915",
-      "title": "Valve tung bản cập nhật mới cho CS2, một người chơi tuyên bố mất vợ, mất con vì cú sốc từ thị trường game",
-      "link": "https://gamek.vn/valve-tung-ban-cap-nhat-moi-cho-cs2-mot-nguoi-choi-tuyen-bo-mat-vo-mat-con-vi-cu-soc-tu-thi-truong-game-178251024213459009.chn",
-      "summary": "Câu chuyện của anh chàng game thủ khiến khá nhiều người phải suy ngẫm.",
-      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/10/25/avatar1761362048094-1761362048423107002686.png",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2025-10-26T14:01:32.267546",
-      "category": "cập nhật",
       "priority": 2
     }
   ]
