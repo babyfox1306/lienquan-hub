@@ -21,6 +21,11 @@
       "type": "channel"
     },
     {
+      "id": "UCAml1Hqu4LW36B3yEtQg8Fw",
+      "name": "FUNNY GAMING TV",
+      "type": "channel"
+    },
+    {
       "id": "UC3QLI0FHwACCaa91Xdpam2A",
       "name": "Trải Nghiệm Game",
       "type": "channel"
@@ -93,11 +98,6 @@
     {
       "id": "UChVW44gbrdQjc0zF_4-LbUA",
       "name": "Onekill TV",
-      "type": "channel"
-    },
-    {
-      "id": "UC8wTcotvZb9_EibpT15RurQ",
-      "name": "Thủ Khoa Mù Chữ TV",
       "type": "channel"
     }
   ],
