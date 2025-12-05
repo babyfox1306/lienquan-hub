@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-05T12:01:57.783920",
+  "last_updated": "2025-12-05T13:11:41.182550",
   "total_news": 100,
   "news": [
     {
@@ -727,6 +727,19 @@
       "priority": 5
     },
     {
+      "id": "653cb82c0f80",
+      "title": "Khát vọng Việt trong từng nhịp nhảy Audition tại SEA Games 33",
+      "link": "https://gamek.vn/khat-vong-viet-trong-tung-nhip-nhay-audition-tai-sea-games-33-178251205195337953.chn",
+      "summary": "Ngày 28/11 vừa qua, cộng đồng thể thao điện tử (Esports) Việt Nam đã chứng kiến một cột mốc lịch sử quan trọng: Đội tuyển Esports Audition Việt Nam chính thức ra mắt để chuẩn bị tham dự SEA Games 33",
+      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/12/5/photo1764910124690-17649101255271537582607-17649392193151059282256.jpg",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2025-12-05T13:11:20.998111",
+      "category": "esports",
+      "priority": 2
+    },
+    {
       "id": "30ee3738fed9",
       "title": "Liên Quân Mobile lên tiếng về drama thiết kế trang phục, khiến cộng đồng hết sức phẫn nộ",
       "link": "https://gamek.vn/lien-quan-mobile-len-tieng-ve-drama-thiet-ke-trang-phuc-khien-cong-dong-het-suc-phan-no-178251203144428275.chn",
@@ -1269,19 +1282,6 @@
       "source_url": "https://gamek.vn/rss",
       "published_at": null,
       "crawled_at": "2025-10-28T10:01:37.939259",
-      "category": "tin tức",
-      "priority": 2
-    },
-    {
-      "id": "0237b57a8df0",
-      "title": "Màn cosplay Veres khiến fan Liên Quân không thể nào rời mắt",
-      "link": "https://gamek.vn/man-cosplay-veres-khien-fan-lien-quan-khong-the-nao-roi-mat-178251026001046339.chn",
-      "summary": "Anh em Liên Quân hẳn rất thích màn cosplay này.",
-      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/10/26/photo-1761411541774-17614115421781618554665-55-0-524-750-crop-1761453026456602491528.png",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2025-10-27T11:01:57.381893",
       "category": "tin tức",
       "priority": 2
     }
