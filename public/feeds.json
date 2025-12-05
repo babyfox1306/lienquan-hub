@@ -21,18 +21,8 @@
       "type": "channel"
     },
     {
-      "id": "UCAml1Hqu4LW36B3yEtQg8Fw",
-      "name": "FUNNY GAMING TV",
-      "type": "channel"
-    },
-    {
       "id": "UC3QLI0FHwACCaa91Xdpam2A",
       "name": "Trải Nghiệm Game",
-      "type": "channel"
-    },
-    {
-      "id": "UCen3q9LMBtFHYU3Us7aKD3w",
-      "name": "Anhhao",
       "type": "channel"
     },
     {
@@ -46,18 +36,8 @@
       "type": "channel"
     },
     {
-      "id": "UC9gbpSZsxLTsVgiPyUsU8sg",
-      "name": "Trưởng Star",
-      "type": "channel"
-    },
-    {
       "id": "UCeMjhoCCvujpObnt6yeZeNg",
       "name": "Garena 傳說對決",
-      "type": "channel"
-    },
-    {
-      "id": "UC1EOVZPr8neE-05eqKR_K-Q",
-      "name": "ADC Gaming",
       "type": "channel"
     },
     {
@@ -66,18 +46,8 @@
       "type": "channel"
     },
     {
-      "id": "UCH0k4wQg5_QfL2hHavyL-xA",
-      "name": "Tran Binh",
-      "type": "channel"
-    },
-    {
       "id": "UCyqjmx1kcZknycssiIhFQKw",
       "name": "VuxGaming",
-      "type": "channel"
-    },
-    {
-      "id": "UCCl9aNDeHkRXVkDhCW6eVYg",
-      "name": "Tú có NY",
       "type": "channel"
     },
     {
@@ -96,8 +66,38 @@
       "type": "channel"
     },
     {
-      "id": "UChVW44gbrdQjc0zF_4-LbUA",
-      "name": "Onekill TV",
+      "id": "UCB7b1Gb6yM-RyY0YW1HY6pA",
+      "name": "Tainzo",
+      "type": "channel"
+    },
+    {
+      "id": "UCMHSTFMGp-k4Z0kG-CfMSWg",
+      "name": "HTT GAMER LIÊN QUÂN MOBILE",
+      "type": "channel"
+    },
+    {
+      "id": "UCpkUzNC-PTa_Ju-xfT-CiDQ",
+      "name": "Ly Chuột Bạch",
+      "type": "channel"
+    },
+    {
+      "id": "UCOXM2BzxpWswBMz7QpC3M1Q",
+      "name": "Love6 liên quân mobile",
+      "type": "channel"
+    },
+    {
+      "id": "UCWXXFvwmcOHxEk6IlhW1BhA",
+      "name": "Phuc Ram",
+      "type": "channel"
+    },
+    {
+      "id": "UCYfv7UcC1KOsvMD3BVVwoLg",
+      "name": "Esports - Garena Liên Quân Mobile",
+      "type": "channel"
+    },
+    {
+      "id": "UCgbMglNu16CgtxKRg3LrpjQ",
+      "name": "CBNN Liên Quân Mobile",
       "type": "channel"
     }
   ],
