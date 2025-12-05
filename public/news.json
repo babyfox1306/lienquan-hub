@@ -1,7 +1,20 @@
 {
-  "last_updated": "2025-12-05T08:01:51.006252",
+  "last_updated": "2025-12-05T10:01:59.036065",
   "total_news": 100,
   "news": [
+    {
+      "id": "d67adc1af216",
+      "title": "ĐỀN BÙ CHO SỰ KIỆN GIEO LÚA GẶT SKIN",
+      "link": "https://lienquan.garena.vn/den-bu-cho-su-kien-gieo-lua-gat-skin/",
+      "summary": "<p>Xin chào các Kiện Tướng, Hội đồng xin đưa thông tin về hoạt động đền bù cho sự kiện Gieo Lúa Gặt Skin Như đã thông báo trước đó, với những người chơi đã tham [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/den-bu-cho-su-kien-gieo-lua-gat-skin/\">ĐỀN BÙ CHO SỰ KIỆN GIEO LÚA GẶT SKIN</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
+      "image_url": null,
+      "source": "Liên Quân Mobile Official",
+      "source_url": "https://lienquan.garena.vn/rss",
+      "published_at": "2025-12-05T09:11:31Z",
+      "crawled_at": "2025-12-05T10:01:36.502514",
+      "category": "tướng",
+      "priority": 1
+    },
     {
       "id": "0d41c08edf9c",
       "title": "ĐIỀU CHỈNH GIỮA MÙA PB QUANG MINH & HẮC ÁM – 4.12.2025",
@@ -1270,19 +1283,6 @@
       "published_at": null,
       "crawled_at": "2025-10-27T11:01:57.381893",
       "category": "tin tức",
-      "priority": 2
-    },
-    {
-      "id": "44b817032c58",
-      "title": "Vị tướng duy nhất Faker sẽ không bao giờ làm skin CKTG kể cả vô địch",
-      "link": "https://gamek.vn/vi-tuong-duy-nhat-faker-se-khong-bao-gio-lam-skin-cktg-ke-ca-vo-dich-178251027120030952.chn",
-      "summary": "Với Faker, luôn có những ngoại lệ theo quy tắc của anh.",
-      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/10/27/avatar1761552297286-17615522976751636359900.png",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2025-10-27T09:02:02.565715",
-      "category": "tướng",
       "priority": 2
     }
   ]
