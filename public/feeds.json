@@ -41,6 +41,11 @@
       "type": "channel"
     },
     {
+      "id": "UC1EOVZPr8neE-05eqKR_K-Q",
+      "name": "ADC Gaming",
+      "type": "channel"
+    },
+    {
       "id": "UCgYkGvtBuY4onYm2Eh61zwQ",
       "name": "Arena of Valor",
       "type": "channel"
@@ -48,6 +53,11 @@
     {
       "id": "UCBVBGNrag1o-V08vwYzoIwg",
       "name": "Garena AOV Indonesia",
+      "type": "channel"
+    },
+    {
+      "id": "UC55ad8jzcIWCMU-o2CXMEAw",
+      "name": "Thầy Giáo Liên Quân",
       "type": "channel"
     },
     {
@@ -61,8 +71,18 @@
       "type": "channel"
     },
     {
+      "id": "UCpQ52533EsOa5k-dQSmD1jw",
+      "name": "Ha Le Quyen",
+      "type": "channel"
+    },
+    {
       "id": "UC1ysb__ddApp3PlDva5NAVw",
       "name": "Top 1 Liliana",
+      "type": "channel"
+    },
+    {
+      "id": "UCL_X1VBEYADQHmEIsmRHpGg",
+      "name": "Khánh Hy",
       "type": "channel"
     },
     {
@@ -78,26 +98,6 @@
     {
       "id": "UCKjyrROfuUjQ8EHpjFHgjRA",
       "name": "Ugi Desniana",
-      "type": "channel"
-    },
-    {
-      "id": "UCYfv7UcC1KOsvMD3BVVwoLg",
-      "name": "Esports - Garena Liên Quân Mobile",
-      "type": "channel"
-    },
-    {
-      "id": "UCJAd1REXSJbxzD7uJcrYcow",
-      "name": "【公式】アリーナ・オブ・ヴァラー（アリヴァラ）",
-      "type": "channel"
-    },
-    {
-      "id": "UC9IMa50eipvZXSjynFJrc0w",
-      "name": "AOV Global Collection",
-      "type": "channel"
-    },
-    {
-      "id": "UCgbMglNu16CgtxKRg3LrpjQ",
-      "name": "CBNN Liên Quân Mobile",
       "type": "channel"
     }
   ],
