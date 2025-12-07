@@ -1,7 +1,20 @@
 {
-  "last_updated": "2025-12-07T19:01:38.916945",
+  "last_updated": "2025-12-07T20:01:44.676683",
   "total_news": 100,
   "news": [
+    {
+      "id": "ee84aa878a5c",
+      "title": "SỰ KIỆN SĂN QUÀ LIÊN QUÂN TRÊN ỨNG DỤNG SHOPEE ĐÃ TRỞ LẠI THÁNG 12/2025",
+      "link": "https://lienquan.garena.vn/su-kien-san-qua-lien-quan-tren-ung-dung-shopee-da-tro-lai-thang-12-2025/",
+      "summary": "<p>Tiếp nối thành công của chương trình trước, Shopee cùng Liên Quân Mobile mang đến bạn ưu đãi tháng 12/2025 &#8220;Shopee x Liên Quân &#8211; Săn ngay &#8211; Siêu quà vào tay&#8221;. Chương trình đặc [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/su-kien-san-qua-lien-quan-tren-ung-dung-shopee-da-tro-lai-thang-12-2025/\">SỰ KIỆN SĂN QUÀ LIÊN QUÂN TRÊN ỨNG DỤNG SHOPEE ĐÃ TRỞ LẠI THÁNG 12/2025</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
+      "image_url": "https://picsum.photos/seed/https://lienquan.garena.vn/su-kien-san-qua-lien-quan-tren-ung-dung-shopee-da-tro-lai-thang-12-2025//400/225",
+      "source": "Liên Quân Mobile Official",
+      "source_url": "https://lienquan.garena.vn/rss",
+      "published_at": "2025-12-07T19:16:55Z",
+      "crawled_at": "2025-12-07T20:01:21.683679",
+      "category": "tin tức",
+      "priority": 1
+    },
     {
       "id": "d67adc1af216",
       "title": "ĐỀN BÙ CHO SỰ KIỆN GIEO LÚA GẶT SKIN",
@@ -1270,19 +1283,6 @@
       "published_at": null,
       "crawled_at": "2025-10-28T12:01:48.762069",
       "category": "tướng",
-      "priority": 2
-    },
-    {
-      "id": "400de09a5618",
-      "title": "Màn cosplay Violet Huyết Ma Thần khiến anh em game thủ ngất ngây mê đắm",
-      "link": "https://gamek.vn/man-cosplay-violet-huyet-ma-than-khien-anh-em-game-thu-ngat-ngay-me-dam-17825102709152107.chn",
-      "summary": "Anh em Liên Quân lại được dịp \"điên đảo\" với màn cosplay này.",
-      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/10/27/photo-1761530389251-17615303898991506345807-377-0-1068-1106-crop-17615459950061926814340.png",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2025-10-28T10:01:37.939259",
-      "category": "tin tức",
       "priority": 2
     }
   ]
