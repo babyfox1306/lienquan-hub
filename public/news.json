@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-08T06:02:02.533555",
+  "last_updated": "2025-12-08T07:04:07.460952",
   "total_news": 100,
   "news": [
     {
@@ -740,6 +740,19 @@
       "priority": 5
     },
     {
+      "id": "0e783fc2eb9b",
+      "title": "Full Sense trở thành tân vương AIC 2025, hạ gục \"phép màu\" Flash Wolves với tỷ số áp đảo",
+      "link": "https://gamek.vn/full-sense-tro-thanh-tan-vuong-aic-2025-ha-guc-phep-mau-flash-wolves-voi-ty-so-ap-dao-178251208092656142.chn",
+      "summary": "Nhà vua Liên Quân quốc tế chính thức gọi tên đội tuyển Full Sense.",
+      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/12/8/2-1765160488113913810897-0-8-953-1532-crop-1765175748397976391281.jpg",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2025-12-08T07:03:47.991245",
+      "category": "tin tức",
+      "priority": 2
+    },
+    {
       "id": "6f87216a88c5",
       "title": "Tứ đại \"chiến thần\" cận chiến trong vũ trụ Kim Dung",
       "link": "https://gamek.vn/tu-dai-chien-than-can-chien-trong-vu-tru-kim-dung-178251207191717825.chn",
@@ -1270,19 +1283,6 @@
       "published_at": null,
       "crawled_at": "2025-10-30T09:01:37.163734",
       "category": "cập nhật",
-      "priority": 2
-    },
-    {
-      "id": "2e27921d6fd8",
-      "title": "Chung kết Audition Vietnam Championship 2025: Đã tìm ra nhà vô địch toàn quốc",
-      "link": "https://gamek.vn/chung-ket-audition-vietnam-championship-2025-da-tim-ra-nha-vo-dich-toan-quoc-178251030125803435.chn",
-      "summary": "Audition Vietnam Championship 2025 (AVC 2025) đã chính thức khép lại trong không khí cuồng nhiệt tại Hà Nội, đánh dấu cột mốc ấn tượng trong lịch sử eSports Audition Việt Nam.",
-      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/10/30/photo1761644914074-1761644914192846811900-1761803885187988531859.jpg",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2025-10-30T07:01:35.824056",
-      "category": "esports",
       "priority": 2
     }
   ]
