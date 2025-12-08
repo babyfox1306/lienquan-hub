@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-08T13:12:49.782557",
+  "last_updated": "2025-12-08T14:02:02.511466",
   "total_news": 100,
   "news": [
     {
@@ -740,6 +740,19 @@
       "priority": 5
     },
     {
+      "id": "a940eec8ed0a",
+      "title": "Rapid Lofi đối đầu 7 \"gã khổng lồ\", tranh đoạt 5,2 tỷ đồng tại \"chảo lửa\" Quần Ngựa",
+      "link": "https://gamek.vn/rapid-lofi-doi-dau-7-ga-khong-lo-tranh-doat-52-ty-dong-tai-chao-lua-quan-ngua-178251208205013464.chn",
+      "summary": "Đội tuyển Rapid Lofi sẽ là đại diện Việt Nam cạnh tranh chức vô địch cùng những cái tên hàng đầu thế giới tại giải đấu Delta Force Invitational 2025 sắp diễn ra ở Hà Nội.",
+      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/12/8/avatar1765200457817-17652004586791792134652.jpg",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2025-12-08T14:01:41.114070",
+      "category": "esports",
+      "priority": 2
+    },
+    {
       "id": "e67970f60581",
       "title": "Từ sân khấu âm nhạc đến Esports: CTicket và bước tiến mới trong thị trường phân phối vé tại Việt Nam",
       "link": "https://gamek.vn/tu-san-khau-am-nhac-den-esports-cticket-va-buoc-tien-moi-trong-thi-truong-phan-phoi-ve-tai-viet-nam-178251208185326396.chn",
@@ -1270,19 +1283,6 @@
       "published_at": null,
       "crawled_at": "2025-11-02T10:01:36.042572",
       "category": "cập nhật",
-      "priority": 2
-    },
-    {
-      "id": "caef9a979f40",
-      "title": "Không phải Quan Vũ hay Trương Phi, vị tướng này hạ nhiều địch nhất thời Tam Quốc",
-      "link": "https://gamek.vn/khong-phai-quan-vu-hay-truong-phi-vi-tuong-nay-ha-nhieu-dich-nhat-thoi-tam-quoc-178251029150107105.chn",
-      "summary": "Quan Vũ và Trương Phi nổi danh là những mãnh tướng vô song của nhà Thục, nhưng người giữ kỷ lục hạ nhiều địch nhất thời Tam Quốc lại thuộc về một người ít ngờ tới.",
-      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/10/29/avatar1761724634132-17617246346321046203639-0-26-274-465-crop-1761724676693768086802.jpg",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2025-10-31T06:01:38.614711",
-      "category": "tướng",
       "priority": 2
     }
   ]
