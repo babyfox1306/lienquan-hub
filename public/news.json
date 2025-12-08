@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-08T02:31:58.760767",
+  "last_updated": "2025-12-08T03:28:06.501638",
   "total_news": 100,
   "news": [
     {
@@ -740,6 +740,19 @@
       "priority": 5
     },
     {
+      "id": "6f87216a88c5",
+      "title": "Tứ đại \"chiến thần\" cận chiến trong vũ trụ Kim Dung",
+      "link": "https://gamek.vn/tu-dai-chien-than-can-chien-trong-vu-tru-kim-dung-178251207191717825.chn",
+      "summary": "Trong rất nhiều đại cao thủ của Kim Dung, đây là 4 nhân vật có lẽ là sở hữu khả năng cận chiến vào dạng đỉnh cao nhất.",
+      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/12/7/cao-thu-kimdung-8-17651298139762015861994-38-0-601-900-crop-1765130092447505541119.png",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2025-12-08T03:27:48.314337",
+      "category": "tin tức",
+      "priority": 2
+    },
+    {
       "id": "653cb82c0f80",
       "title": "Khát vọng Việt trong từng nhịp nhảy Audition tại SEA Games 33",
       "link": "https://gamek.vn/khat-vong-viet-trong-tung-nhip-nhay-audition-tai-sea-games-33-178251205195337953.chn",
@@ -1270,19 +1283,6 @@
       "published_at": null,
       "crawled_at": "2025-10-30T07:01:35.824056",
       "category": "esports",
-      "priority": 2
-    },
-    {
-      "id": "8a5fbd90258a",
-      "title": "Cosplay tướng tủ, Quỳnh Bei cực slay khiến fan trầm trồ",
-      "link": "https://gamek.vn/cosplay-tuong-tu-quynh-bei-cuc-slay-khien-fan-tram-tro-178251028141419073.chn",
-      "summary": "Quỳnh Bei tiếp tục \"đốn tim\" cộng đồng game thủ.",
-      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/10/28/4-1761625525774248324588-1761635434058-17616354346761216822202-140-0-343-324-crop-17616355606951605987134.jpg",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2025-10-28T12:01:48.762069",
-      "category": "tướng",
       "priority": 2
     }
   ]
