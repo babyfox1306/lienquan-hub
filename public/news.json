@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-09T13:13:28.596493",
+  "last_updated": "2025-12-09T14:01:46.127699",
   "total_news": 100,
   "news": [
     {
@@ -740,6 +740,19 @@
       "priority": 5
     },
     {
+      "id": "cf7ef4e0866a",
+      "title": "ĐTCL mùa 16: Leo rank đầu mùa với đội hình Demacia công thủ toàn diện",
+      "link": "https://gamek.vn/dtcl-mua-16-leo-rank-dau-mua-voi-doi-hinh-demacia-cong-thu-toan-dien-17825120619034816.chn",
+      "summary": "Đội hình Demacia tỏ ra khá mạnh ở giai đoạn đầu của ĐTCL mùa 16.",
+      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/12/9/avatar1765270380774-17652703812472008514229.png",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2025-12-09T14:01:26.899538",
+      "category": "tin tức",
+      "priority": 2
+    },
+    {
       "id": "a940eec8ed0a",
       "title": "Rapid Lofi đối đầu 7 \"gã khổng lồ\", tranh đoạt 5,2 tỷ đồng tại \"chảo lửa\" Quần Ngựa",
       "link": "https://gamek.vn/rapid-lofi-doi-dau-7-ga-khong-lo-tranh-doat-52-ty-dong-tai-chao-lua-quan-ngua-178251208205013464.chn",
@@ -1270,19 +1283,6 @@
       "published_at": null,
       "crawled_at": "2025-11-03T11:01:42.679912",
       "category": "tin tức",
-      "priority": 2
-    },
-    {
-      "id": "3bd88b4395df",
-      "title": "Thống kê doanh thu game Gacha trong tháng 10, Genshin Impact bứt phá ngoạn mục, SD Gundam \"hồi sinh\" mạnh mẽ",
-      "link": "https://gamek.vn/thong-ke-doanh-thu-game-gacha-trong-thang-10-genshin-impact-but-pha-ngoan-muc-sd-gundam-hoi-sinh-manh-me-178251101225949203.chn",
-      "summary": "Chỉ một bản cập nhật, nhưng Genshin Impact đã lấy lại tất cả.",
-      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/11/2/photo-1762012479982-17620124802511818145046-0-48-729-1214-crop-17620712563432097930400.png",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2025-11-02T10:01:36.042572",
-      "category": "cập nhật",
       "priority": 2
     }
   ]
