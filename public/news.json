@@ -1,7 +1,20 @@
 {
-  "last_updated": "2025-12-10T03:30:22.365619",
+  "last_updated": "2025-12-10T04:09:39.244056",
   "total_news": 100,
   "news": [
+    {
+      "id": "0ac0171da644",
+      "title": "THÔNG BÁO KẾT QUẢ TUYỂN CHỌN ĐTDV MÙA XUÂN 2026",
+      "link": "https://lienquan.garena.vn/thong-bao-ket-qua-tuyen-chon-dtdv-mua-xuan-2026/",
+      "summary": "<p>Đấu Trường Danh Vọng (ĐTDV) Mùa Xuân 2026 đánh dấu cột mốc quan trọng khi giải đấu Liên Quân Mobile số một Việt Nam bước vào giai đoạn chuyên nghiệp hóa toàn diện. Sau gần [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/thong-bao-ket-qua-tuyen-chon-dtdv-mua-xuan-2026/\">THÔNG BÁO KẾT QUẢ TUYỂN CHỌN ĐTDV MÙA XUÂN 2026</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
+      "image_url": null,
+      "source": "Liên Quân Mobile Official",
+      "source_url": "https://lienquan.garena.vn/rss",
+      "published_at": "2025-12-10T04:00:41Z",
+      "crawled_at": "2025-12-10T04:09:15.928962",
+      "category": "esports",
+      "priority": 1
+    },
     {
       "id": "ee84aa878a5c",
       "title": "SỰ KIỆN SĂN QUÀ LIÊN QUÂN TRÊN ỨNG DỤNG SHOPEE ĐÃ TRỞ LẠI THÁNG 12/2025",
@@ -1269,19 +1282,6 @@
       "source_url": "https://gamek.vn/rss",
       "published_at": null,
       "crawled_at": "2025-11-04T08:01:47.389175",
-      "category": "tin tức",
-      "priority": 2
-    },
-    {
-      "id": "610e9c2e5517",
-      "title": "Cao thủ mạnh nhất thời Xạ điêu: Không thuộc môn phái nào nhưng vượt cả Ngũ tuyệt và Vương Trùng Dương",
-      "link": "https://gamek.vn/cao-thu-manh-nhat-thoi-xa-dieu-khong-thuoc-mon-phai-nao-nhung-vuot-ca-ngu-tuyet-va-vuong-trung-duong-178251102140803205.chn",
-      "summary": "Vị cao thủ này là ai?",
-      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/11/2/avatar1762067181869-1762067182120694179739.png",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2025-11-03T11:01:42.679912",
       "category": "tin tức",
       "priority": 2
     }
