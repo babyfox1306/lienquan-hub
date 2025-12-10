@@ -31,11 +31,6 @@
       "type": "channel"
     },
     {
-      "id": "UCen3q9LMBtFHYU3Us7aKD3w",
-      "name": "Anhhao",
-      "type": "channel"
-    },
-    {
       "id": "UCIzzawIg4eCPgZggwFzEQbQ",
       "name": "Garena Liên Quân Mobile",
       "type": "channel"
@@ -98,6 +93,11 @@
     {
       "id": "UC8wTcotvZb9_EibpT15RurQ",
       "name": "Thủ Khoa Mù Chữ TV",
+      "type": "channel"
+    },
+    {
+      "id": "UCp1EH8ggDJnZj6Zj6rdonVw",
+      "name": "ɴʜᴀ乛sĩ乛ᴋᴜɴ",
       "type": "channel"
     }
   ],
