@@ -11,18 +11,8 @@
       "type": "channel"
     },
     {
-      "id": "UCy19QXxbCHh8qVVCbuGk-ig",
-      "name": "Garena RoV Thailand",
-      "type": "channel"
-    },
-    {
       "id": "UCykFSnImGNa-5DABblw7K-w",
       "name": "Gcaothu CHANNEL",
-      "type": "channel"
-    },
-    {
-      "id": "UCAml1Hqu4LW36B3yEtQg8Fw",
-      "name": "FUNNY GAMING TV",
       "type": "channel"
     },
     {
@@ -56,18 +46,8 @@
       "type": "channel"
     },
     {
-      "id": "UCH0k4wQg5_QfL2hHavyL-xA",
-      "name": "Tran Binh",
-      "type": "channel"
-    },
-    {
       "id": "UCyqjmx1kcZknycssiIhFQKw",
       "name": "VuxGaming",
-      "type": "channel"
-    },
-    {
-      "id": "UCCl9aNDeHkRXVkDhCW6eVYg",
-      "name": "Tú có NY",
       "type": "channel"
     },
     {
@@ -91,13 +71,33 @@
       "type": "channel"
     },
     {
-      "id": "UC8wTcotvZb9_EibpT15RurQ",
-      "name": "Thủ Khoa Mù Chữ TV",
+      "id": "UCJojBppsLbhkaQ_DySRWM-A",
+      "name": "BLV Thanh Tùng",
       "type": "channel"
     },
     {
-      "id": "UCJojBppsLbhkaQ_DySRWM-A",
-      "name": "BLV Thanh Tùng",
+      "id": "UC17kjfIX0VD7jVnI-lGPmNg",
+      "name": "Archangel AOV",
+      "type": "channel"
+    },
+    {
+      "id": "UCB7b1Gb6yM-RyY0YW1HY6pA",
+      "name": "Tainzo",
+      "type": "channel"
+    },
+    {
+      "id": "UCL_X1VBEYADQHmEIsmRHpGg",
+      "name": "Khánh Hy",
+      "type": "channel"
+    },
+    {
+      "id": "UCIAVu192aQxVUginIC4bZLw",
+      "name": "NTK Liên Quân",
+      "type": "channel"
+    },
+    {
+      "id": "UCMHSTFMGp-k4Z0kG-CfMSWg",
+      "name": "HTT GAMER LIÊN QUÂN MOBILE",
       "type": "channel"
     }
   ],
