@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-11T09:03:30.040940",
+  "last_updated": "2025-12-11T10:02:03.825669",
   "total_news": 100,
   "news": [
     {
@@ -753,6 +753,19 @@
       "priority": 5
     },
     {
+      "id": "276b7e937800",
+      "title": "Ngây ngất với nhan sắc ấn tượng của nữ game thủ Mobile Legends: Bang Bang, đại diện Việt Nam tham dự SEA Games 33",
+      "link": "https://gamek.vn/ngay-ngat-voi-nhan-sac-an-tuong-cua-nu-game-thu-mobile-legends-bang-bang-dai-dien-viet-nam-tham-du-sea-games-33-178251211144403262.chn",
+      "summary": "Ngây ngất với nhan sắc ấn tượng của nữ game thủ Mobile Legends: Bang Bang, đại diện Việt Nam tham dự SEA Games 33",
+      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/12/11/photo-1765438834417-17654388347311138807305-42-0-442-640-crop-1765442789946563311171.png",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2025-12-11T10:01:44.065940",
+      "category": "tin tức",
+      "priority": 2
+    },
+    {
       "id": "cf7ef4e0866a",
       "title": "ĐTCL mùa 16: Leo rank đầu mùa với đội hình Demacia công thủ toàn diện",
       "link": "https://gamek.vn/dtcl-mua-16-leo-rank-dau-mua-voi-doi-hinh-demacia-cong-thu-toan-dien-17825120619034816.chn",
@@ -1270,19 +1283,6 @@
       "published_at": null,
       "crawled_at": "2025-11-04T10:01:46.291193",
       "category": "cập nhật",
-      "priority": 2
-    },
-    {
-      "id": "101bbc0a78d5",
-      "title": "One Piece: Oda chính xác nhận cha ruột mất tích của Franky là nhân vật phản diện không ai ngờ",
-      "link": "https://gamek.vn/one-piece-oda-chinh-xac-nhan-cha-ruot-mat-tich-cua-franky-la-nhan-vat-phan-dien-khong-ai-ngo-178251103163800177.chn",
-      "summary": "Mới đây, khi người hâm mộ xâu chuỗi dữ liệu từ cuốn Vivre Card, chính tác giả Eiichiro Oda đã buộc phải lên tiếng xác nhận sự thật chấn động về cha ruột của Cyborg Franky.",
-      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/11/3/avatar1762162592178-1762162592544964425594.jpg",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2025-11-04T08:01:47.389175",
-      "category": "tin tức",
       "priority": 2
     }
   ]
