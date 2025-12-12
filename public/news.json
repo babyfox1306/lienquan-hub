@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-12T03:28:31.335426",
+  "last_updated": "2025-12-12T04:11:04.644680",
   "total_news": 100,
   "news": [
     {
@@ -753,6 +753,19 @@
       "priority": 5
     },
     {
+      "id": "1e318d96f334",
+      "title": "Chi tiền tỷ cho một skin phổ thông, nam game thủ khiến tất cả ngỡ ngàng, lý do thật sự đầy bí ẩn",
+      "link": "https://gamek.vn/chi-tien-ty-cho-mot-skin-pho-thong-nam-game-thu-khien-tat-ca-ngo-ngang-ly-do-that-su-day-bi-an-178250630115322854.chn",
+      "summary": "Khá nhiều game thủ sẽ phải cảm thấy ngỡ ngàng với quyết định này.",
+      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/12/10/avatar1765351145220-1765351145637872938189.png",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2025-12-12T04:10:43.191944",
+      "category": "skin",
+      "priority": 2
+    },
+    {
       "id": "276b7e937800",
       "title": "Ngây ngất với nhan sắc ấn tượng của nữ game thủ Mobile Legends: Bang Bang, đại diện Việt Nam tham dự SEA Games 33",
       "link": "https://gamek.vn/ngay-ngat-voi-nhan-sac-an-tuong-cua-nu-game-thu-mobile-legends-bang-bang-dai-dien-viet-nam-tham-du-sea-games-33-178251211144403262.chn",
@@ -1270,19 +1283,6 @@
       "published_at": null,
       "crawled_at": "2025-11-05T06:01:33.449351",
       "category": "tướng",
-      "priority": 2
-    },
-    {
-      "id": "977e0693370e",
-      "title": "Ơn trời, iOS 26.1 vừa ra mắt đã hỗ trợ Apple Intelligence tiếng Việt!",
-      "link": "https://gamek.vn/on-troi-ios-261-vua-ra-mat-da-ho-tro-apple-intelligence-tieng-viet-178251104160336532.chn",
-      "summary": "Bản cập nhật iOS 26.1 chính thức ra mắt, mở hỗ trợ tiếng Việt cho Apple Intelligence, bổ sung ngôn ngữ Live Translation, cùng loạt tinh chỉnh từ Liquid Glass đến Camera, Local Capture và Apple TV.",
-      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/11/4/avatar1762246917117-1762246917456935564721.jpg",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2025-11-04T10:01:46.291193",
-      "category": "cập nhật",
       "priority": 2
     }
   ]
