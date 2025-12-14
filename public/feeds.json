@@ -21,11 +21,6 @@
       "type": "channel"
     },
     {
-      "id": "UCAml1Hqu4LW36B3yEtQg8Fw",
-      "name": "FUNNY GAMING TV",
-      "type": "channel"
-    },
-    {
       "id": "UC3QLI0FHwACCaa91Xdpam2A",
       "name": "Trải Nghiệm Game",
       "type": "channel"
@@ -51,18 +46,28 @@
       "type": "channel"
     },
     {
+      "id": "UCgYkGvtBuY4onYm2Eh61zwQ",
+      "name": "Arena of Valor",
+      "type": "channel"
+    },
+    {
+      "id": "UCBVBGNrag1o-V08vwYzoIwg",
+      "name": "Garena AOV Indonesia",
+      "type": "channel"
+    },
+    {
       "id": "UC55ad8jzcIWCMU-o2CXMEAw",
       "name": "Thầy Giáo Liên Quân",
       "type": "channel"
     },
     {
-      "id": "UCH0k4wQg5_QfL2hHavyL-xA",
-      "name": "Tran Binh",
+      "id": "UCyqjmx1kcZknycssiIhFQKw",
+      "name": "VuxGaming",
       "type": "channel"
     },
     {
-      "id": "UCyqjmx1kcZknycssiIhFQKw",
-      "name": "VuxGaming",
+      "id": "UCDk4tfW1Iku9-0S7L5cZP4A",
+      "name": "Arena of Valor - Topic",
       "type": "channel"
     },
     {
@@ -76,28 +81,23 @@
       "type": "channel"
     },
     {
-      "id": "UCprEZQV_lD1gSTVcakOqWwQ",
-      "name": "Xuyên Cùi Mía",
-      "type": "channel"
-    },
-    {
       "id": "UCLmVT2XmCej720HFtG7mwSQ",
       "name": "NTD LQ",
       "type": "channel"
     },
     {
-      "id": "UChVW44gbrdQjc0zF_4-LbUA",
-      "name": "Onekill TV",
+      "id": "UCB7b1Gb6yM-RyY0YW1HY6pA",
+      "name": "Tainzo",
       "type": "channel"
     },
     {
-      "id": "UCJojBppsLbhkaQ_DySRWM-A",
-      "name": "BLV Thanh Tùng",
+      "id": "UCL_X1VBEYADQHmEIsmRHpGg",
+      "name": "Khánh Hy",
       "type": "channel"
     },
     {
-      "id": "UC17kjfIX0VD7jVnI-lGPmNg",
-      "name": "Archangel AOV",
+      "id": "UCMHSTFMGp-k4Z0kG-CfMSWg",
+      "name": "HTT GAMER LIÊN QUÂN MOBILE",
       "type": "channel"
     }
   ],
