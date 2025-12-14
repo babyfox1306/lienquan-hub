@@ -66,11 +66,6 @@
       "type": "channel"
     },
     {
-      "id": "UCCl9aNDeHkRXVkDhCW6eVYg",
-      "name": "Tú có NY",
-      "type": "channel"
-    },
-    {
       "id": "UCpQ52533EsOa5k-dQSmD1jw",
       "name": "Ha Le Quyen",
       "type": "channel"
@@ -91,8 +86,13 @@
       "type": "channel"
     },
     {
-      "id": "UC8wTcotvZb9_EibpT15RurQ",
-      "name": "Thủ Khoa Mù Chữ TV",
+      "id": "UCJojBppsLbhkaQ_DySRWM-A",
+      "name": "BLV Thanh Tùng",
+      "type": "channel"
+    },
+    {
+      "id": "UC17kjfIX0VD7jVnI-lGPmNg",
+      "name": "Archangel AOV",
       "type": "channel"
     },
     {
