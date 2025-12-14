@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-14T12:01:48.922414",
+  "last_updated": "2025-12-14T13:09:18.034877",
   "total_news": 100,
   "news": [
     {
@@ -753,6 +753,19 @@
       "priority": 5
     },
     {
+      "id": "cba03f954252",
+      "title": "Điểm mặt các ngôi sao Liên Minh Huyền Thoại Việt Nam thi đấu trực tiếp với T1",
+      "link": "https://gamek.vn/diem-mat-cac-ngoi-sao-lien-minh-huyen-thoai-viet-nam-thi-dau-truc-tiep-voi-t1-178251214194455526.chn",
+      "summary": "Hàng triệu người hâm mộ Liên Minh Huyền Thoại (LMHT) Việt Nam sắp có cơ hội chứng kiến trận showmatch lịch sử giữa All-Star Vietnam và T1. Dàn tuyển thủ xuất sắc sẽ chung một đội hình “toàn sao” để đối đầu đội tuyển LMHT số 1 thế giới ngay tại Hà Nội - nơi trận thư hùng trong mơ eSports sắp thành hiện thực.",
+      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/12/14/photo1765697854750-17656978554761823248779-17657162968041771190761.jpg",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2025-12-14T13:08:55.687959",
+      "category": "esports",
+      "priority": 2
+    },
+    {
       "id": "1e318d96f334",
       "title": "Chi tiền tỷ cho một skin phổ thông, nam game thủ khiến tất cả ngỡ ngàng, lý do thật sự đầy bí ẩn",
       "link": "https://gamek.vn/chi-tien-ty-cho-mot-skin-pho-thong-nam-game-thu-khien-tat-ca-ngo-ngang-ly-do-that-su-day-bi-an-178250630115322854.chn",
@@ -1270,19 +1283,6 @@
       "published_at": null,
       "crawled_at": "2025-11-05T08:01:44.288174",
       "category": "skin",
-      "priority": 2
-    },
-    {
-      "id": "20a49176081a",
-      "title": "Không phải Lữ Bố, đây mới là võ tướng có sức mạnh 'siêu phàm' nhất thời Tam Quốc",
-      "link": "https://gamek.vn/khong-phai-lu-bo-day-moi-la-vo-tuong-co-suc-manh-sieu-pham-nhat-thoi-tam-quoc-178251104103205017.chn",
-      "summary": "Vị võ tướng vượt mặt Lữ Bố là ai? Người từng được ca ngợi là có thể “dùng tay kéo trâu đi giật lùi trăm bước”.",
-      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/11/4/avatar1762226997232-1762226997928970353782-0-123-275-563-crop-1762227030036544847721.jpg",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2025-11-05T06:01:33.449351",
-      "category": "tướng",
       "priority": 2
     }
   ]
