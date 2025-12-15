@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-15T08:02:00.113449",
+  "last_updated": "2025-12-15T09:04:49.789965",
   "total_news": 100,
   "news": [
     {
@@ -753,6 +753,19 @@
       "priority": 5
     },
     {
+      "id": "d435cb786601",
+      "title": "10 sự thật về Chúa tể Địa ngục Hades trong Record of Ragnarok",
+      "link": "https://gamek.vn/10-su-that-ve-chua-te-dia-nguc-hades-trong-record-of-ragnarok-178251215082242156.chn",
+      "summary": "Sau sự kiện Buddha đổi phe, Chúa tể Địa ngục Hades đã bước vào giải đấu Ragnarok với mục đích duy nhất: trả thù cho Poseidon.",
+      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/12/15/avatar1765761641478-17657616420101577869503.jpg",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2025-12-15T09:04:31.513957",
+      "category": "esports",
+      "priority": 2
+    },
+    {
       "id": "cba03f954252",
       "title": "Điểm mặt các ngôi sao Liên Minh Huyền Thoại Việt Nam thi đấu trực tiếp với T1",
       "link": "https://gamek.vn/diem-mat-cac-ngoi-sao-lien-minh-huyen-thoai-viet-nam-thi-dau-truc-tiep-voi-t1-178251214194455526.chn",
@@ -1270,19 +1283,6 @@
       "published_at": null,
       "crawled_at": "2025-11-06T06:01:45.083298",
       "category": "tướng",
-      "priority": 2
-    },
-    {
-      "id": "db9991d88ed7",
-      "title": "Chưa ra mắt, thế nhưng Qi Milim Nava đã khiến hàng triệu anh em game thủ “đứt chuỗi”",
-      "link": "https://gamek.vn/chua-ra-mat-the-nhung-qi-milim-nava-da-khien-hang-trieu-anh-em-game-thu-dut-chuoi-17825110510153373.chn",
-      "summary": "Đây có lẽ là một trong những skin Liên Quân \"hút mắt\" nhất đối với anh em game thủ.",
-      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/11/5/photo-1762312051011-17623120512401665770334-437-0-1157-1152-crop-17623255367011387846014.png",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2025-11-05T08:01:44.288174",
-      "category": "skin",
       "priority": 2
     }
   ]
