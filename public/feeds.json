@@ -61,11 +61,6 @@
       "type": "channel"
     },
     {
-      "id": "UCCl9aNDeHkRXVkDhCW6eVYg",
-      "name": "Tú có NY",
-      "type": "channel"
-    },
-    {
       "id": "UCpQ52533EsOa5k-dQSmD1jw",
       "name": "Ha Le Quyen",
       "type": "channel"
@@ -86,11 +81,6 @@
       "type": "channel"
     },
     {
-      "id": "UC8wTcotvZb9_EibpT15RurQ",
-      "name": "Thủ Khoa Mù Chữ TV",
-      "type": "channel"
-    },
-    {
       "id": "UCJojBppsLbhkaQ_DySRWM-A",
       "name": "BLV Thanh Tùng",
       "type": "channel"
@@ -98,6 +88,16 @@
     {
       "id": "UCB7b1Gb6yM-RyY0YW1HY6pA",
       "name": "Tainzo",
+      "type": "channel"
+    },
+    {
+      "id": "UCL_X1VBEYADQHmEIsmRHpGg",
+      "name": "Khánh Hy",
+      "type": "channel"
+    },
+    {
+      "id": "UCIAVu192aQxVUginIC4bZLw",
+      "name": "NTK Liên Quân",
       "type": "channel"
     }
   ],
