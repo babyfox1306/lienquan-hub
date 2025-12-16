@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-16T05:03:34.598368",
+  "last_updated": "2025-12-16T06:02:05.014872",
   "total_news": 100,
   "news": [
     {
@@ -766,6 +766,19 @@
       "priority": 5
     },
     {
+      "id": "31e4d9e5dea7",
+      "title": "Chính thức: Endgame cho đội tuyển Liên Quân Mobile nữ Thái Lan tại SEA Games 33",
+      "link": "https://gamek.vn/chinh-thuc-endgame-cho-doi-tuyen-lien-quan-mobile-nu-thai-lan-tai-sea-games-33-178251216121404264.chn",
+      "summary": "Đội tuyển Liên Quân Mobile nữ của Thái Lan rời SEA Games 33 đầy tủi hổ.",
+      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/12/16/avatar1765861501021-1765861501592159950039.png",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2025-12-16T06:01:45.252111",
+      "category": "tin tức",
+      "priority": 2
+    },
+    {
       "id": "f9d34daec10c",
       "title": "Nữ tuyển thủ Liên Quân Mobile Thái Lan dính án phạt cực nặng tại SEA Games 33 vì gian lận",
       "link": "https://gamek.vn/nu-tuyen-thu-lien-quan-mobile-thai-lan-dinh-an-phat-cuc-nang-tai-sea-games-33-vi-gian-lan-178251216112153499.chn",
@@ -1269,19 +1282,6 @@
       "source_url": "https://gamek.vn/rss",
       "published_at": null,
       "crawled_at": "2025-11-08T14:01:25.729467",
-      "category": "esports",
-      "priority": 2
-    },
-    {
-      "id": "2a022c844e4d",
-      "title": "Tin vui chấn động từ Summoners War: Tuyển Thủ Việt Nam lên ngôi Vô Địch Thế Giới",
-      "link": "https://gamek.vn/tin-vui-chan-dong-tu-summoners-war-tuyen-thu-viet-nam-len-ngoi-vo-dich-the-gioi-178251108003425551.chn",
-      "summary": "Ngày 1/11 tại La Seine Musicale (Paris, Pháp), cộng đồng Summoners War toàn cầu đã chứng kiến một khoảnh khắc lịch sử – tuyển thủ Việt Nam PU chính thức đăng quang ngôi vô địch thế giới SWC2025, mang về chiếc cúp danh giá nhất cho Việt Nam trên đấu trường eSports quốc tế.",
-      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/11/7/photo1762337400702-17623374007861502487445-17625368716351678908320.jpg",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2025-11-08T13:06:24.962242",
       "category": "esports",
       "priority": 2
     }
