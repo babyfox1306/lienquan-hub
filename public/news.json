@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-16T06:02:05.014872",
+  "last_updated": "2025-12-16T07:03:50.149274",
   "total_news": 100,
   "news": [
     {
@@ -766,6 +766,19 @@
       "priority": 5
     },
     {
+      "id": "aeaab443aa3c",
+      "title": "Đội tuyển Audition Việt Nam đón “cơn mưa” huy chương  tại SEA Games 33",
+      "link": "https://gamek.vn/doi-tuyen-audition-viet-nam-don-con-mua-huy-chuong-tai-sea-games-33-178251216113835151.chn",
+      "summary": "Ngày 12/12/2025 đã trở thành cột mốc lịch sử cho esports Việt Nam khi đội tuyển Audition lần đầu tiên tham gia SEA Games 33 và ngay lập tức thống trị với 2 huy chương vàng quý giá cùng loạt huy chương Bạc, Đồng.",
+      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/12/16/photo1765773471220-17657734713191001909481-17658599161111508417283.jpg",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2025-12-16T07:03:29.929680",
+      "category": "esports",
+      "priority": 2
+    },
+    {
       "id": "31e4d9e5dea7",
       "title": "Chính thức: Endgame cho đội tuyển Liên Quân Mobile nữ Thái Lan tại SEA Games 33",
       "link": "https://gamek.vn/chinh-thuc-endgame-cho-doi-tuyen-lien-quan-mobile-nu-thai-lan-tai-sea-games-33-178251216121404264.chn",
@@ -1270,19 +1283,6 @@
       "published_at": null,
       "crawled_at": "2025-11-12T04:02:49.604430",
       "category": "meta",
-      "priority": 2
-    },
-    {
-      "id": "c57eeac0b613",
-      "title": "Trước thềm FC Pro Festival 2025 cùng hai huyền thoại Figo và Kaká",
-      "link": "https://gamek.vn/truoc-them-fc-pro-festival-2025-cung-hai-huyen-thoai-figo-va-kaka-178251108001404046.chn",
-      "summary": "Garena xác nhận \"bom tấn\" Legends Match sẽ diễn ra cùng giải đấu FC Online Pro Festival 2025 vào ngày 08/11 tại SECC, quy tụ các huyền thoại bóng đá danh tiếng như Figo, Kaká.",
-      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/11/8/figo-12-17626069080602109355726-0-0-562-900-crop-1762607032025968122458.png",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2025-11-08T14:01:25.729467",
-      "category": "esports",
       "priority": 2
     }
   ]
