@@ -1,7 +1,20 @@
 {
-  "last_updated": "2025-12-16T04:11:43.189159",
+  "last_updated": "2025-12-16T05:03:34.598368",
   "total_news": 100,
   "news": [
+    {
+      "id": "3f6d2862a56d",
+      "title": "ĐIỀU CHỈNH GIỮA MÙA PB QUANG MINH & HẮC ÁM – 18.12.2025",
+      "link": "https://lienquan.garena.vn/dieu-chinh-giua-mua-pb-quang-minh-hac-am-18-12-2025/",
+      "summary": "<p>Xin chào các Kiện Tướng, Liên Quân Mobile sẽ tiến hành cập nhật không gián đoạn cho máy chủ chính thức vào ngày 18/12/2025. Trong thời gian quy định, các Kiện tướng có thể tự chọn thời điểm [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/dieu-chinh-giua-mua-pb-quang-minh-hac-am-18-12-2025/\">ĐIỀU CHỈNH GIỮA MÙA PB QUANG MINH &#038; HẮC ÁM – 18.12.2025</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
+      "image_url": null,
+      "source": "Liên Quân Mobile Official",
+      "source_url": "https://lienquan.garena.vn/rss",
+      "published_at": "2025-12-16T04:41:36Z",
+      "crawled_at": "2025-12-16T05:03:06.957464",
+      "category": "tướng",
+      "priority": 1
+    },
     {
       "id": "0ac0171da644",
       "title": "THÔNG BÁO KẾT QUẢ TUYỂN CHỌN ĐTDV MÙA XUÂN 2026",
@@ -753,6 +766,19 @@
       "priority": 5
     },
     {
+      "id": "f9d34daec10c",
+      "title": "Nữ tuyển thủ Liên Quân Mobile Thái Lan dính án phạt cực nặng tại SEA Games 33 vì gian lận",
+      "link": "https://gamek.vn/nu-tuyen-thu-lien-quan-mobile-thai-lan-dinh-an-phat-cuc-nang-tai-sea-games-33-vi-gian-lan-178251216112153499.chn",
+      "summary": "Nữ tuyển thủ của đội Liên Quân Mobile Thái Lan dính án phạt nặng vì có hành vi gian lận ở SEA Games 33.",
+      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/12/16/avatar1765858811040-17658588114711428094994.png",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2025-12-16T05:03:09.156499",
+      "category": "tin tức",
+      "priority": 2
+    },
+    {
       "id": "d435cb786601",
       "title": "10 sự thật về Chúa tể Địa ngục Hades trong Record of Ragnarok",
       "link": "https://gamek.vn/10-su-that-ve-chua-te-dia-nguc-hades-trong-record-of-ragnarok-178251215082242156.chn",
@@ -1257,32 +1283,6 @@
       "published_at": null,
       "crawled_at": "2025-11-08T13:06:24.962242",
       "category": "esports",
-      "priority": 2
-    },
-    {
-      "id": "42edea52e515",
-      "title": "Có 4 vị tướng \"con ghẻ\" xuyên suốt lịch sử CKTG, một cái tên xuất hiện từ những ngày đầu của LMHT",
-      "link": "https://gamek.vn/co-4-vi-tuong-con-ghe-xuyen-suot-lich-su-cktg-mot-cai-ten-xuat-hien-tu-nhung-ngay-dau-cua-lmht-178251107194430685.chn",
-      "summary": "Trải qua rất nhiều meta và kể cả khi Riot áp dụng chế độ Fearless Draft nhưng vẫn có 4 vị tướng chưa từng xuất hiện trong lịch sử CKTG.",
-      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/11/7/tuong-lmht-cktg-4-1762519336244348933103-0-0-562-900-crop-1762519454487229495141.png",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2025-11-07T15:01:39.622017",
-      "category": "tướng",
-      "priority": 2
-    },
-    {
-      "id": "2658ecca3cad",
-      "title": "Liên Quân Mobile ra mắt vị tướng đầu tiên có... 4 nút kỹ năng, chính thức thoát kiếp \"game 3 nút\" bấy lâu nay",
-      "link": "https://gamek.vn/lien-quan-mobile-ra-mat-vi-tuong-dau-tien-co-4-nut-ky-nang-chinh-thuc-thoat-kiep-game-3-nut-bay-lau-nay-17825110611045416.chn",
-      "summary": "Nước đi này của Liên Quân khiến anh em game thủ không ngờ.",
-      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/11/6/avatar1762401628215-17624016285531756911068-51-0-511-736-crop-17624016574111231186873.jpg",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2025-11-06T06:01:45.083298",
-      "category": "tướng",
       "priority": 2
     }
   ]
