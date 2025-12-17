@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-17T06:01:50.570257",
+  "last_updated": "2025-12-17T07:03:35.390380",
   "total_news": 100,
   "news": [
     {
@@ -766,6 +766,19 @@
       "priority": 5
     },
     {
+      "id": "e5f065c38267",
+      "title": "Bỏ túi ngay loạt bí kíp đi đu “VPBank presents eSport Festival” trọn vẹn",
+      "link": "https://gamek.vn/bo-tui-ngay-loat-bi-kip-di-du-vpbank-presents-esport-festival-tron-ven-178251217135408811.chn",
+      "summary": "Không cần bay sang Hàn để gặp idol eSports, cũng chẳng phải “chạy show” nhiều sự kiện trong ngày, “VPBank Presents T1 in Vietnam: The Promise Fulfilled” mang đến cho giới trẻ và cộng đồng game thủ một trải nghiệm trọn gói hiếm có: xem - chơi - gặp - quẩy, tất cả gói gọn trong một.",
+      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/12/17/photo1765942941925-1765942942143989727497-1765954450649411690896.jpg",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2025-12-17T07:03:15.423230",
+      "category": "esports",
+      "priority": 2
+    },
+    {
       "id": "9b070e2ced64",
       "title": "4 cao thủ cùng luyện Quỳ Hoa Bảo Điển, chỉ Đông Phương Bất Bại bỏ kiếm dùng kim thêu: Sự thật gây bất ngờ",
       "link": "https://gamek.vn/4-cao-thu-cung-luyen-quy-hoa-bao-dien-chi-dong-phuong-bat-bai-bo-kiem-dung-kim-theu-su-that-gay-bat-ngo-178251213131357448.chn",
@@ -1270,19 +1283,6 @@
       "published_at": null,
       "crawled_at": "2025-11-14T04:03:06.461636",
       "category": "cập nhật",
-      "priority": 2
-    },
-    {
-      "id": "23bcab193fa0",
-      "title": "Bên trong \"bom tấn quái vật\" của Guillermo del Toro: Khi Frankenstein sống lại giữa thời đại Netflix",
-      "link": "https://gamek.vn/ben-trong-bom-tan-quai-vat-cua-guillermo-del-toro-khi-frankenstein-song-lai-giua-thoi-dai-netflix-178251112155052587.chn",
-      "summary": "Bản tái sinh mới nhất của kiệt tác Mary Shelley - với sự tham gia của Oscar Isaac và Jacob Elordi - là một mê cung điện ảnh, nơi mọi ám ảnh suốt sự nghiệp của del Toro cùng tụ hội trong một cơn mộng quái dị, đẹp đẽ đến rùng mình.",
-      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/11/12/avatar1762937211037-1762937211336169042265.jpg",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2025-11-13T10:01:41.308210",
-      "category": "tin tức",
       "priority": 2
     }
   ]
