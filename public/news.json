@@ -1,7 +1,20 @@
 {
-  "last_updated": "2025-12-17T07:03:35.390380",
+  "last_updated": "2025-12-17T08:01:56.761099",
   "total_news": 100,
   "news": [
+    {
+      "id": "8b3fbf39bbb7",
+      "title": "VINH DANH COMMUNITY LEADER XUẤT SẮC NHẤT THÁNG 11 NĂM 2025",
+      "link": "https://lienquan.garena.vn/vinh-danh-community-leader-xuat-sac-nhat-thang-11-nam-2025/",
+      "summary": "<p>Xin chào các Kiện Tướng, Tháng 11 – dấu mốc chuyển mình sang mùa cuối năm – cũng là lúc cộng đồng Liên Quân Mobile trên khắp cả nước trở nên rộn ràng hơn bao [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/vinh-danh-community-leader-xuat-sac-nhat-thang-11-nam-2025/\">VINH DANH COMMUNITY LEADER XUẤT SẮC NHẤT THÁNG 11 NĂM 2025</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
+      "image_url": null,
+      "source": "Liên Quân Mobile Official",
+      "source_url": "https://lienquan.garena.vn/rss",
+      "published_at": "2025-12-17T07:23:12Z",
+      "crawled_at": "2025-12-17T08:01:29.304096",
+      "category": "tướng",
+      "priority": 1
+    },
     {
       "id": "3f6d2862a56d",
       "title": "ĐIỀU CHỈNH GIỮA MÙA PB QUANG MINH & HẮC ÁM – 18.12.2025",
@@ -1270,19 +1283,6 @@
       "published_at": null,
       "crawled_at": "2025-11-15T05:01:28.478692",
       "category": "tướng",
-      "priority": 2
-    },
-    {
-      "id": "5d0eea59b8f9",
-      "title": "Grow Lancer tái định nghĩa \"Tanker\" trong MU Lục Địa VNG",
-      "link": "https://gamek.vn/grow-lancer-tai-dinh-nghia-tanker-trong-mu-luc-dia-vng-178251114093357645.chn",
-      "summary": "Ngay từ khi xuất hiện trong phiên bản cập nhật ngày 11/11, Grow Lancer – class thứ 7 của MU Lục Địa VNG đã nhanh chóng trở thành tâm điểm chú ý trong cộng đồng khi tái định nghĩa hoàn toàn phong cách chiến đấu thuần túy của Tanker.",
-      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/11/14/photo1763028610149-1763028610261853122769-17630876391701081927080.jpg",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2025-11-14T04:03:06.461636",
-      "category": "cập nhật",
       "priority": 2
     }
   ]
