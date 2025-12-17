@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-17T13:14:01.811459",
+  "last_updated": "2025-12-17T14:02:01.830659",
   "total_news": 100,
   "news": [
     {
@@ -779,6 +779,19 @@
       "priority": 5
     },
     {
+      "id": "7eb325c5c768",
+      "title": "T1 và Faker: Từ huyền thoại sống của cả một thế hệ game thủ đến thần tượng của văn hoá đại chúng",
+      "link": "https://gamek.vn/t1-va-faker-tu-huyen-thoai-song-cua-ca-mot-the-he-game-thu-den-than-tuong-cua-van-hoa-dai-chung-178251217200926474.chn",
+      "summary": "VPBank Presents T1 in Vietnam: The Promise Fulfilled  là cơ hội hiếm có để người hâm mộ “chạm gần” hơn với huyền thoại Faker và đội tuyển T1, trực tiếp xem thần tượng thi đấu, lắng nghe những câu chuyện hậu trường chưa từng tiết lộ đồng thời trải nghiệm trọn vẹn không khí sôi động của lễ hội eSports lớn nhất từng tổ chức tại Việt Nam.",
+      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/12/17/photo1765960455899-17659604560141853175981-17659769675811999859876.jpg",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2025-12-17T14:01:41.122190",
+      "category": "esports",
+      "priority": 2
+    },
+    {
       "id": "e5f065c38267",
       "title": "Bỏ túi ngay loạt bí kíp đi đu “VPBank presents eSport Festival” trọn vẹn",
       "link": "https://gamek.vn/bo-tui-ngay-loat-bi-kip-di-du-vpbank-presents-esport-festival-tron-ven-178251217135408811.chn",
@@ -1270,19 +1283,6 @@
       "published_at": null,
       "crawled_at": "2025-11-18T04:02:44.654630",
       "category": "tin tức",
-      "priority": 2
-    },
-    {
-      "id": "c91a5f5fd6bc",
-      "title": "Vị tướng duy nhất có thể \"trấn áp\" Quan Vũ và Trương Phi: Mã Siêu cũng phải gọi một tiếng đại ca",
-      "link": "https://gamek.vn/vi-tuong-duy-nhat-co-the-tran-ap-quan-vu-va-truong-phi-ma-sieu-cung-phai-goi-mot-tieng-dai-ca-17825111315103142.chn",
-      "summary": "Đó là vị tướng nào?",
-      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/11/13/avatar1763021250068-1763021250499721841549.jpg",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2025-11-15T05:01:28.478692",
-      "category": "tướng",
       "priority": 2
     }
   ]
