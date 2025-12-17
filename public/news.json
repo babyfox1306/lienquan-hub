@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-17T05:02:58.167119",
+  "last_updated": "2025-12-17T06:01:50.570257",
   "total_news": 100,
   "news": [
     {
@@ -766,6 +766,19 @@
       "priority": 5
     },
     {
+      "id": "9b070e2ced64",
+      "title": "4 cao thủ cùng luyện Quỳ Hoa Bảo Điển, chỉ Đông Phương Bất Bại bỏ kiếm dùng kim thêu: Sự thật gây bất ngờ",
+      "link": "https://gamek.vn/4-cao-thu-cung-luyen-quy-hoa-bao-dien-chi-dong-phuong-bat-bai-bo-kiem-dung-kim-theu-su-that-gay-bat-ngo-178251213131357448.chn",
+      "summary": "Vì sao bốn cao thủ luyện Quỳ Hoa Bảo Điển đều dùng kiếm, chỉ Đông Phương Bất Bại cầm kim thêu?",
+      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/12/13/avatar1765606234721-17656062352081898255915.jpg",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2025-12-17T06:01:24.221965",
+      "category": "tin tức",
+      "priority": 2
+    },
+    {
       "id": "90e328a2c2fa",
       "title": "Cao thủ của Kim Dung: Không tự cung vẫn luyện thành Quỳ Hoa Bảo Điển, vô địch thiên hạ nhưng bị xóa sổ",
       "link": "https://gamek.vn/cao-thu-cua-kim-dung-khong-tu-cung-van-luyen-thanh-quy-hoa-bao-dien-vo-dich-thien-ha-nhung-bi-xoa-so-178251214153240707.chn",
@@ -1270,19 +1283,6 @@
       "published_at": null,
       "crawled_at": "2025-11-13T10:01:41.308210",
       "category": "tin tức",
-      "priority": 2
-    },
-    {
-      "id": "6d53bfd5b574",
-      "title": "ANTGAMER chính thức ra mắt tại Việt Nam cùng màn hình Esports 750Hz đầu tiên trên thế giới",
-      "link": "https://gamek.vn/antgamer-chinh-thuc-ra-mat-tai-viet-nam-cung-man-hinh-esports-750hz-dau-tien-tren-the-gioi-178251112190202092.chn",
-      "summary": "Thương hiệu ANTGAMER chính thức ra mắt thị trường Việt Nam.",
-      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/11/12/avatar1762962784689-17629627850321251450042.png",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2025-11-12T16:02:07.706510",
-      "category": "esports",
       "priority": 2
     }
   ]
