@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-18T03:27:24.207162",
+  "last_updated": "2025-12-18T04:09:51.571619",
   "total_news": 100,
   "news": [
     {
@@ -779,6 +779,19 @@
       "priority": 5
     },
     {
+      "id": "255ba68e2122",
+      "title": "Chính thức: Hot girl eSports Thái Lan bị cấm thi đấu trọn đời - cú “one-shot” khép lại drama gian lận chấn động SEA Games",
+      "link": "https://gamek.vn/chinh-thuc-hot-girl-esports-thai-lan-bi-cam-thi-dau-tron-doi-cu-one-shot-khep-lai-drama-gian-lan-chan-dong-sea-games-178251218110755662.chn",
+      "summary": "Chỉ trong vài giờ ngắn ngủi, từ niềm tự hào của RoV nữ Thái Lan, Tokyogurl rơi thẳng xuống đáy vực. Án phạt nặng chưa từng có được đồng loạt kích hoạt, khép lại một trong những vụ bê bối lớn nhất lịch sử eSports khu vực.",
+      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/12/18/avatar1766030322678-1766030323488415502008.png",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2025-12-18T04:09:25.484615",
+      "category": "esports",
+      "priority": 2
+    },
+    {
       "id": "5da10fac00d1",
       "title": "Nhan sắc của hot girl rơi lệ vì gian lận của đồng đội Liên Quân Mobile nữ Thái Lan",
       "link": "https://gamek.vn/nhan-sac-cua-hot-girl-roi-le-vi-gian-lan-cua-dong-doi-lien-quan-mobile-nu-thai-lan-178251217171233506.chn",
@@ -1270,19 +1283,6 @@
       "published_at": null,
       "crawled_at": "2025-11-19T05:01:37.086879",
       "category": "tướng",
-      "priority": 2
-    },
-    {
-      "id": "62ae83cead60",
-      "title": "Tuyển thủ Liên Quân \"gạo cội\" bị réo tên giữa drama khiến cộng đồng bức xúc",
-      "link": "https://gamek.vn/tuyen-thu-lien-quan-gao-coi-bi-reo-ten-giua-drama-khien-cong-dong-buc-xuc-178251118105552557.chn",
-      "summary": "Vụ drama của game thủ Liên Quân này ngày càng khiến người xem bức xúc.",
-      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/11/18/avatar1763456789881-1763456791308511318969.jpg",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2025-11-18T10:01:33.153103",
-      "category": "tin tức",
       "priority": 2
     }
   ]
