@@ -46,6 +46,16 @@
       "type": "channel"
     },
     {
+      "id": "UCgYkGvtBuY4onYm2Eh61zwQ",
+      "name": "Arena of Valor",
+      "type": "channel"
+    },
+    {
+      "id": "UCBVBGNrag1o-V08vwYzoIwg",
+      "name": "Garena AOV Indonesia",
+      "type": "channel"
+    },
+    {
       "id": "UC55ad8jzcIWCMU-o2CXMEAw",
       "name": "Thầy Giáo Liên Quân",
       "type": "channel"
@@ -56,33 +66,13 @@
       "type": "channel"
     },
     {
-      "id": "UCpQ52533EsOa5k-dQSmD1jw",
-      "name": "Ha Le Quyen",
+      "id": "UCDk4tfW1Iku9-0S7L5cZP4A",
+      "name": "Arena of Valor - Topic",
       "type": "channel"
     },
     {
       "id": "UC1ysb__ddApp3PlDva5NAVw",
       "name": "Top 1 Liliana",
-      "type": "channel"
-    },
-    {
-      "id": "UCLmVT2XmCej720HFtG7mwSQ",
-      "name": "NTD LQ",
-      "type": "channel"
-    },
-    {
-      "id": "UChVW44gbrdQjc0zF_4-LbUA",
-      "name": "Onekill TV",
-      "type": "channel"
-    },
-    {
-      "id": "UCJojBppsLbhkaQ_DySRWM-A",
-      "name": "BLV Thanh Tùng",
-      "type": "channel"
-    },
-    {
-      "id": "UCB7b1Gb6yM-RyY0YW1HY6pA",
-      "name": "Tainzo",
       "type": "channel"
     },
     {
@@ -98,6 +88,16 @@
     {
       "id": "UCVVoMk8UNpVIdo5BgszmLnw",
       "name": "Học Viện Liên Quân",
+      "type": "channel"
+    },
+    {
+      "id": "UCMHSTFMGp-k4Z0kG-CfMSWg",
+      "name": "HTT GAMER LIÊN QUÂN MOBILE",
+      "type": "channel"
+    },
+    {
+      "id": "UCKjyrROfuUjQ8EHpjFHgjRA",
+      "name": "Ugi Desniana",
       "type": "channel"
     }
   ],
