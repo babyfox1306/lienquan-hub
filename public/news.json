@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-19T06:01:54.450723",
+  "last_updated": "2025-12-19T07:02:59.022734",
   "total_news": 100,
   "news": [
     {
@@ -779,6 +779,19 @@
       "priority": 5
     },
     {
+      "id": "a36e6d9c2bca",
+      "title": "Vì sao VPBank đưa T1 về Việt Nam? Khi eSports là điểm kết nối thế hệ khách hàng mới",
+      "link": "https://gamek.vn/vi-sao-vpbank-dua-t1-ve-viet-nam-khi-esports-la-diem-ket-noi-the-he-khach-hang-moi-178251219130551884.chn",
+      "summary": "Việc đưa toàn bộ đội hình T1 cùng huyền thoại Faker đến Hà Nội là dấu ấn lớn để VPBank tiếp cận và chinh phục hơn 30 triệu người chơi Liên Minh Huyền Thoại tại Việt Nam. Từ K-Pop đến eSports, VPBank đang chứng minh họ hiểu người trẻ, sống cùng văn hóa đại chúng và kiến tạo trải nghiệm chưa từng có.",
+      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/12/19/photo1766115597733-17661155979131422802017-17661243534861954777932.jpg",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2025-12-19T07:02:40.713054",
+      "category": "esports",
+      "priority": 2
+    },
+    {
       "id": "fc5d9e12e442",
       "title": "Crossfire: Legends – Dung hòa cả giải trí và thi đấu eSports trong cùng một sản phẩm",
       "link": "https://gamek.vn/crossfire-legends-dung-hoa-ca-giai-tri-va-thi-dau-esports-trong-cung-mot-san-pham-178251218170528366.chn",
@@ -1270,19 +1283,6 @@
       "published_at": null,
       "crawled_at": "2025-11-20T09:01:38.347309",
       "category": "tin tức",
-      "priority": 2
-    },
-    {
-      "id": "11f63a28dbca",
-      "title": "Tây Du VNG: Bồ Đề Tổ Sư Giáng Thế - Big Update tháng 11 thay đổi cục diện Meta",
-      "link": "https://gamek.vn/tay-du-vng-bo-de-to-su-giang-the-big-update-thang-11-thay-doi-cuc-dien-meta-178251119154131227.chn",
-      "summary": "Bản cập nhật tháng 11 của Tây Du VNG đang cho thấy sự biến đổi lớn về meta, với sự xuất hiện của Kim Tướng mới - Bồ Đề Tổ Sư cùng loạt cải tiến ở Thần Khí, tính năng Chiêu Mộ Tiên Tàng,.. hứa hẹn tạo nên bước chuyển mình toàn diện cho cả PvP lẫn PvE, đưa trải nghiệm của cộng đồng game thủ lên một tầng cao",
-      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/11/19/photo1763523830114-1763523830226468852990-17635416950491840554901.jpg",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2025-11-19T09:01:40.845988",
-      "category": "tướng",
       "priority": 2
     }
   ]
