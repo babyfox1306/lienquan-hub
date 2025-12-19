@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-19T08:01:50.250717",
+  "last_updated": "2025-12-19T09:03:07.550398",
   "total_news": 100,
   "news": [
     {
@@ -779,6 +779,19 @@
       "priority": 5
     },
     {
+      "id": "064b69b0ba7f",
+      "title": "Cụ bà 92 tuổi vô địch giải đấu game đối kháng, người trẻ chỉ biết sững sờ thán phục",
+      "link": "https://gamek.vn/cu-ba-92-tuoi-vo-dich-giai-dau-game-doi-khang-nguoi-tre-chi-biet-sung-so-than-phuc-178251216094738572.chn",
+      "summary": "Tuổi tác đôi khi không thể là thước đo năng lực của các game thủ.",
+      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/12/18/avatar1766024344195-17660243450861361897787.png",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2025-12-19T09:02:49.070571",
+      "category": "esports",
+      "priority": 2
+    },
+    {
       "id": "a36e6d9c2bca",
       "title": "Vì sao VPBank đưa T1 về Việt Nam? Khi eSports là điểm kết nối thế hệ khách hàng mới",
       "link": "https://gamek.vn/vi-sao-vpbank-dua-t1-ve-viet-nam-khi-esports-la-diem-ket-noi-the-he-khach-hang-moi-178251219130551884.chn",
@@ -1270,19 +1283,6 @@
       "published_at": null,
       "crawled_at": "2025-11-21T05:01:33.387639",
       "category": "skin",
-      "priority": 2
-    },
-    {
-      "id": "223862e59da3",
-      "title": "Xuất hiện thông tin Faker có thể sang Việt Nam, cộng đồng nhớ lại \"mid24\"",
-      "link": "https://gamek.vn/xuat-hien-thong-tin-faker-co-the-sang-viet-nam-cong-dong-nho-lai-mid24-178251120115011527.chn",
-      "summary": "Faker cũng từng có nhiều kỷ niệm với rank Việt và khu vực VCS.",
-      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/11/20/faker-vietnam-5-1763614143770894155975-0-0-563-900-crop-1763625162713147787644.png",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2025-11-20T09:01:38.347309",
-      "category": "tin tức",
       "priority": 2
     }
   ]
