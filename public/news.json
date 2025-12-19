@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-19T12:01:52.340736",
+  "last_updated": "2025-12-19T13:12:09.318389",
   "total_news": 100,
   "news": [
     {
@@ -779,6 +779,19 @@
       "priority": 5
     },
     {
+      "id": "fe611e5d851f",
+      "title": "Chiến thắng áp đảo, Liên Quân Mobile Việt Nam chính thức \"giật vàng\" tại SEA Games 33",
+      "link": "https://gamek.vn/chien-thang-ap-dao-lien-quan-mobile-viet-nam-chinh-thuc-giat-vang-tai-sea-games-33-178251219191453775.chn",
+      "summary": "Liên Quân Việt Nam đã đánh bại người Thái trên chính đất Thái!",
+      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/12/19/avatar1766146843829-1766146844581163553486.png",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2025-12-19T13:11:50.189436",
+      "category": "tin tức",
+      "priority": 2
+    },
+    {
       "id": "064b69b0ba7f",
       "title": "Cụ bà 92 tuổi vô địch giải đấu game đối kháng, người trẻ chỉ biết sững sờ thán phục",
       "link": "https://gamek.vn/cu-ba-92-tuoi-vo-dich-giai-dau-game-doi-khang-nguoi-tre-chi-biet-sung-so-than-phuc-178251216094738572.chn",
@@ -1269,19 +1282,6 @@
       "source_url": "https://gamek.vn/rss",
       "published_at": null,
       "crawled_at": "2025-11-21T10:01:30.938105",
-      "category": "skin",
-      "priority": 2
-    },
-    {
-      "id": "71a88485e878",
-      "title": "Bomber PC chính thức ra mắt: tái sinh ký ức Boom Online, rinh ngay skin FREE độc quyền",
-      "link": "https://gamek.vn/bomber-pc-chinh-thuc-ra-mat-tai-sinh-ky-uc-boom-online-rinh-ngay-skin-free-doc-quyen-178251121104021694.chn",
-      "summary": "Bomber PC – phiên bản máy tính của Bomber VNG – chính thức ra mắt vào ngày hôm qua, 19/11/2025. Trong giai đoạn này, người chơi sẽ được trải nghiệm trọn vẹn những tính năng đặc sắc mà chỉ PC mới mang lại, bao gồm đồ họa 3D HD sắc nét, điều khiển chuột bàn phím mượt mà, cùng khả năng đồng bộ liền mạch với tài khoản m",
-      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/11/21/avatar1763696242491-17636962510802036977404-0-0-791-1266-crop-17636963044511095314130.png",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2025-11-21T05:01:33.387639",
       "category": "skin",
       "priority": 2
     }
