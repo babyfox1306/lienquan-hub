@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-20T13:08:59.103176",
+  "last_updated": "2025-12-20T14:01:49.840243",
   "total_news": 100,
   "news": [
     {
@@ -779,6 +779,19 @@
       "priority": 5
     },
     {
+      "id": "ed5617f16c9a",
+      "title": "Choáng ngợp sân khấu đại tiệc eSports VPBank Presents T1 in Vietnam: The Promise Fulfilled",
+      "link": "https://gamek.vn/choang-ngop-san-khau-dai-tiec-esports-vpbank-presents-t1-in-vietnam-the-promise-fulfilled-178251220204818763.chn",
+      "summary": "Sân khấu sự kiện VPBank Presents T1 in Vietnam: The Promise Fulfilled đang được hoàn thiện những bước cuối cùng, hé lộ quy mô chưa từng có của một sự kiện eSports tại Việt Nam.",
+      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/12/20/avatar1766237912472-17662379130361434250233.png",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2025-12-20T14:01:29.908002",
+      "category": "esports",
+      "priority": 2
+    },
+    {
       "id": "fe611e5d851f",
       "title": "Chiến thắng áp đảo, Liên Quân Mobile Việt Nam chính thức \"giật vàng\" tại SEA Games 33",
       "link": "https://gamek.vn/chien-thang-ap-dao-lien-quan-mobile-viet-nam-chinh-thuc-giat-vang-tai-sea-games-33-178251219191453775.chn",
@@ -1270,19 +1283,6 @@
       "published_at": null,
       "crawled_at": "2025-11-23T12:01:47.389812",
       "category": "esports",
-      "priority": 2
-    },
-    {
-      "id": "cfc41e4de480",
-      "title": "Game thủ \"sốc ngang\", một skin trong Where Winds Meet có thể ngốn tới tiền tỷ, nếu bạn xui xẻo",
-      "link": "https://gamek.vn/game-thu-soc-ngang-mot-skin-trong-where-winds-meet-co-the-ngon-toi-tien-ty-neu-ban-xui-xeo-178251121094818111.chn",
-      "summary": "Có lẽ ít game thủ Where Winds Meet nào nghĩ tới điều này.",
-      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/11/21/avatar1763696158689-1763696158990117037330.png",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2025-11-21T10:01:30.938105",
-      "category": "skin",
       "priority": 2
     }
   ]
