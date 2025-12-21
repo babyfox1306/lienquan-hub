@@ -71,23 +71,18 @@
       "type": "channel"
     },
     {
-      "id": "UCprEZQV_lD1gSTVcakOqWwQ",
-      "name": "Xuyên Cùi Mía",
-      "type": "channel"
-    },
-    {
       "id": "UCLmVT2XmCej720HFtG7mwSQ",
       "name": "NTD LQ",
       "type": "channel"
     },
     {
-      "id": "UCJojBppsLbhkaQ_DySRWM-A",
-      "name": "BLV Thanh Tùng",
+      "id": "UChVW44gbrdQjc0zF_4-LbUA",
+      "name": "Onekill TV",
       "type": "channel"
     },
     {
-      "id": "UC17kjfIX0VD7jVnI-lGPmNg",
-      "name": "Archangel AOV",
+      "id": "UCJojBppsLbhkaQ_DySRWM-A",
+      "name": "BLV Thanh Tùng",
       "type": "channel"
     },
     {
@@ -98,6 +93,11 @@
     {
       "id": "UCL_X1VBEYADQHmEIsmRHpGg",
       "name": "Khánh Hy",
+      "type": "channel"
+    },
+    {
+      "id": "UCIAVu192aQxVUginIC4bZLw",
+      "name": "NTK Liên Quân",
       "type": "channel"
     }
   ],
