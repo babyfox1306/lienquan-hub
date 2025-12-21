@@ -51,6 +51,11 @@
       "type": "channel"
     },
     {
+      "id": "UCH0k4wQg5_QfL2hHavyL-xA",
+      "name": "Tran Binh",
+      "type": "channel"
+    },
+    {
       "id": "UCyqjmx1kcZknycssiIhFQKw",
       "name": "VuxGaming",
       "type": "channel"
@@ -93,11 +98,6 @@
     {
       "id": "UCIAVu192aQxVUginIC4bZLw",
       "name": "NTK Liên Quân",
-      "type": "channel"
-    },
-    {
-      "id": "UCVVoMk8UNpVIdo5BgszmLnw",
-      "name": "Học Viện Liên Quân",
       "type": "channel"
     }
   ],
