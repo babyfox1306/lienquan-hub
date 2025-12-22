@@ -51,6 +51,11 @@
       "type": "channel"
     },
     {
+      "id": "UCwn_gdD10lqg8QKcFwTq-hQ",
+      "name": "Tủng Thúng Veres",
+      "type": "channel"
+    },
+    {
       "id": "UC55ad8jzcIWCMU-o2CXMEAw",
       "name": "Thầy Giáo Liên Quân",
       "type": "channel"
@@ -93,11 +98,6 @@
     {
       "id": "UCL_X1VBEYADQHmEIsmRHpGg",
       "name": "Khánh Hy",
-      "type": "channel"
-    },
-    {
-      "id": "UCIAVu192aQxVUginIC4bZLw",
-      "name": "NTK Liên Quân",
       "type": "channel"
     }
   ],
