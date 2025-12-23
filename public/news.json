@@ -1,7 +1,20 @@
 {
-  "last_updated": "2025-12-23T12:01:52.379468",
+  "last_updated": "2025-12-23T13:13:20.477183",
   "total_news": 100,
   "news": [
+    {
+      "id": "aa500ee1920b",
+      "title": "SỰ KIỆN SĂN QUÀ LIÊN QUÂN TRÊN ỨNG DỤNG SHOPEE TIẾP TỤC THÁNG 12/2025",
+      "link": "https://lienquan.garena.vn/su-kien-san-qua-lien-quan-tren-ung-dung-shopee-tiep-tuc-thang-12-2025/",
+      "summary": "<p>Tiếp nối thành công của chương trình trước, Shopee cùng Liên Quân Mobile tiếp tục mang đến bạn ưu đãi &#8220;Shopee x Liên Quân &#8211; Săn ngay &#8211; Siêu quà vào tay&#8221;. Chương trình đặc [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/su-kien-san-qua-lien-quan-tren-ung-dung-shopee-tiep-tuc-thang-12-2025/\">SỰ KIỆN SĂN QUÀ LIÊN QUÂN TRÊN ỨNG DỤNG SHOPEE TIẾP TỤC THÁNG 12/2025</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
+      "image_url": "https://picsum.photos/seed/https://lienquan.garena.vn/su-kien-san-qua-lien-quan-tren-ung-dung-shopee-tiep-tuc-thang-12-2025//400/225",
+      "source": "Liên Quân Mobile Official",
+      "source_url": "https://lienquan.garena.vn/rss",
+      "published_at": "2025-12-23T12:00:13Z",
+      "crawled_at": "2025-12-23T13:13:00.806638",
+      "category": "tin tức",
+      "priority": 1
+    },
     {
       "id": "8b3fbf39bbb7",
       "title": "VINH DANH COMMUNITY LEADER XUẤT SẮC NHẤT THÁNG 11 NĂM 2025",
@@ -1270,19 +1283,6 @@
       "published_at": null,
       "crawled_at": "2025-11-25T08:01:45.714764",
       "category": "tin tức",
-      "priority": 2
-    },
-    {
-      "id": "b1e888c36f46",
-      "title": "Hơn 3 tiếng mòn mỏi trong hàng chờ ĐTCL mùa 16 phiên bản PBE của cộng đồng game thủ",
-      "link": "https://gamek.vn/hon-3-tieng-mon-moi-trong-hang-cho-dtcl-mua-16-phien-ban-pbe-cua-cong-dong-game-thu-178251124162533429.chn",
-      "summary": "Hàng chờ PBE không thể chịu nổi nhiệt của ĐTCL mùa 16 với 100 vị tướng và Linh Thú quốc dân Gwen Tí Nị mới.",
-      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/11/24/avatar1763976203000-1763976203392791540140.png",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2025-11-24T11:01:40.562058",
-      "category": "tướng",
       "priority": 2
     }
   ]
