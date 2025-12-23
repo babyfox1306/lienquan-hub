@@ -1,7 +1,20 @@
 {
-  "last_updated": "2025-12-23T14:01:44.357072",
+  "last_updated": "2025-12-23T15:02:03.186301",
   "total_news": 100,
   "news": [
+    {
+      "id": "6726f6ad9e20",
+      "title": "VUI MÙA LỄ HỘI, SĂN QUÀ GẤP BỘI CÙNG ĐẠI LÝ SHOPEE",
+      "link": "https://lienquan.garena.vn/vui-mua-le-hoi-san-qua-gap-boi-cung-dai-ly-shopee/",
+      "summary": "<p>Cùng Đại lý Shopee khui hàng ngàn secret, đón năm mới cực nhiệt. Với mỗi thẻ Garena từ 20.000Đ mua tại Đại lý Shopee trên toàn quốc, cơ hội đập hộp tất tần tật quà [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/vui-mua-le-hoi-san-qua-gap-boi-cung-dai-ly-shopee/\">VUI MÙA LỄ HỘI, SĂN QUÀ GẤP BỘI CÙNG ĐẠI LÝ SHOPEE</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
+      "image_url": null,
+      "source": "Liên Quân Mobile Official",
+      "source_url": "https://lienquan.garena.vn/rss",
+      "published_at": "2025-12-23T14:00:15Z",
+      "crawled_at": "2025-12-23T15:01:39.460759",
+      "category": "tin tức",
+      "priority": 1
+    },
     {
       "id": "aa500ee1920b",
       "title": "SỰ KIỆN SĂN QUÀ LIÊN QUÂN TRÊN ỨNG DỤNG SHOPEE TIẾP TỤC THÁNG 12/2025",
@@ -1270,19 +1283,6 @@
       "published_at": null,
       "crawled_at": "2025-11-25T11:01:37.150761",
       "category": "esports",
-      "priority": 2
-    },
-    {
-      "id": "1fec6d758286",
-      "title": "Biến hình thành Aya, hot coser khiến anh em game thủ mê mệt vì \"to hơn bản gốc\"",
-      "link": "https://gamek.vn/bien-hinh-thanh-aya-hot-coser-khien-anh-em-game-thu-me-met-vi-to-hon-ban-goc-178251124222934135.chn",
-      "summary": "Nữ coser này đã khiến anh em Liên Quân được một phen trầm trồ.",
-      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/11/25/photo-1763997330188-17639973304381254806781-315-0-1046-1170-crop-1764041399933409120614.png",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2025-11-25T08:01:45.714764",
-      "category": "tin tức",
       "priority": 2
     }
   ]
