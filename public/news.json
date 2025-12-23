@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-23T05:03:56.233900",
+  "last_updated": "2025-12-23T06:01:56.488715",
   "total_news": 100,
   "news": [
     {
@@ -779,6 +779,19 @@
       "priority": 5
     },
     {
+      "id": "db3d64a13363",
+      "title": "Cộng đồng game thủ dậy sóng với thẻ tín dụng VPBank phiên bản giới hạn có chữ ký của đội tuyển T1",
+      "link": "https://gamek.vn/cong-dong-game-thu-day-song-voi-the-tin-dung-vpbank-phien-ban-gioi-han-co-chu-ky-cua-doi-tuyen-t1-178251223120541246.chn",
+      "summary": "Lần đầu tiên tại Việt Nam, fan eSports có cơ hội sở hữu một tấm thẻ tín dụng “có một không hai” với đầy đủ bộ chữ ký của đội tuyển huyền thoại thế giới T1. Đây không chỉ là phương tiện thanh toán tiện lợi, mà còn là món quà đặc quyền dành cho những tín đồ gaming, khẳng định đam mê và phong cách trong từng giao dịch.",
+      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/12/23/photo1766459845330-1766459845831303342270-1766466342468491591668.jpg",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2025-12-23T06:01:34.961152",
+      "category": "esports",
+      "priority": 2
+    },
+    {
       "id": "ed5617f16c9a",
       "title": "Choáng ngợp sân khấu đại tiệc eSports VPBank Presents T1 in Vietnam: The Promise Fulfilled",
       "link": "https://gamek.vn/choang-ngop-san-khau-dai-tiec-esports-vpbank-presents-t1-in-vietnam-the-promise-fulfilled-178251220204818763.chn",
@@ -1270,19 +1283,6 @@
       "published_at": null,
       "crawled_at": "2025-11-24T11:01:40.562058",
       "category": "tướng",
-      "priority": 2
-    },
-    {
-      "id": "73f71cd4368a",
-      "title": "Một huyền thoại Esports khác cũng \"dứt tình\" với T1, CEO đội tuyển lại có phát biểu \"khó hiểu\"",
-      "link": "https://gamek.vn/mot-huyen-thoai-esports-khac-cung-dut-tinh-voi-t1-ceo-doi-tuyen-lai-co-phat-bieu-kho-hieu-17825112315234044.chn",
-      "summary": "Gumayusi ra đi dẫn tới việc một huyền thoại khác cũng \"dứt tình\" với T1.",
-      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/11/23/t1-gumayusi-ceo-4-17638861800801438333594-0-0-750-1200-crop-17638861833621984529796.png",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2025-11-23T12:01:47.389812",
-      "category": "esports",
       "priority": 2
     }
   ]
