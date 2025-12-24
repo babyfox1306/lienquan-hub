@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-24T08:01:55.636480",
+  "last_updated": "2025-12-24T09:03:59.599188",
   "total_news": 100,
   "news": [
     {
@@ -805,6 +805,19 @@
       "priority": 5
     },
     {
+      "id": "81d1b2f6ed70",
+      "title": "Khi đi xem T1 mà không biết màn hình này là gì, tôi hỏi AI",
+      "link": "https://gamek.vn/khi-di-xem-t1-ma-khong-biet-man-hinh-nay-la-gi-toi-hoi-ai-178251224154809553.chn",
+      "summary": "Giữa không gian eSports sôi động tại VEC, nơi T1 thi đấu và công nghệ phủ kín mọi góc nhìn, AI trên Galaxy S25 Ultra trở thành cách nhanh nhất để hiểu những gì đang diễn ra trước mắt.",
+      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/12/24/photo1766549361610-1766549361768145257763-1766566091386253571407.jpg",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2025-12-24T09:03:40.870947",
+      "category": "esports",
+      "priority": 2
+    },
+    {
       "id": "db3d64a13363",
       "title": "Cộng đồng game thủ dậy sóng với thẻ tín dụng VPBank phiên bản giới hạn có chữ ký của đội tuyển T1",
       "link": "https://gamek.vn/cong-dong-game-thu-day-song-voi-the-tin-dung-vpbank-phien-ban-gioi-han-co-chu-ky-cua-doi-tuyen-t1-178251223120541246.chn",
@@ -1270,19 +1283,6 @@
       "published_at": null,
       "crawled_at": "2025-11-25T18:01:49.437027",
       "category": "skin",
-      "priority": 2
-    },
-    {
-      "id": "b02567cbfb10",
-      "title": "Vòng loại NSOC 2025 bùng nổ với hơn 5.000 tuyển thủ so tài - cuộc đua căng nhất cộng đồng eSports sinh viên Việt Nam",
-      "link": "https://gamek.vn/vong-loai-nsoc-2025-bung-no-voi-hon-5000-tuyen-thu-so-tai-cuoc-dua-cang-nhat-cong-dong-esports-sinh-vien-viet-nam-178251125172223009.chn",
-      "summary": "Với hơn 5.000 sinh viên đến từ 170 trường Đại học và Cao đẳng trên toàn quốc tham gia tranh tài, vòng loại giải đấu Thể thao điện tử sinh viên toàn quốc - NSOC 2025 đã và đang diễn ra vô cùng sôi động, căng thẳng và đầy cảm xúc.",
-      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/11/25/avatar1764065762848-1764065763221178057631.png",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2025-11-25T11:01:37.150761",
-      "category": "esports",
       "priority": 2
     }
   ]
