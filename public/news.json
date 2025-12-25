@@ -1,7 +1,20 @@
 {
-  "last_updated": "2025-12-25T08:01:48.744449",
+  "last_updated": "2025-12-25T09:03:21.389390",
   "total_news": 100,
   "news": [
+    {
+      "id": "c507c3b2abb3",
+      "title": "NHẬN QUÀ TẾT CỰC Ý NGHĨA CÙNG CHUỖI SỰ KIỆN CỘNG ĐỒNG TẾT LIÊN QUÂN 2026",
+      "link": "https://lienquan.garena.vn/nhan-qua-tet-cuc-y-nghia-cung-chuoi-su-kien-cong-dong-tet-lien-quan-2026/",
+      "summary": "<p>Xin chào các Kiện tướng, Nhân dịp Tết Bính Ngọ 2026, Hội Đồng Liên Quân xin gửi tới các Kiện tướng Chuỗi sự kiện Cộng Đồng Tết 2026 với vô vàn phần quà tặng hấp [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/nhan-qua-tet-cuc-y-nghia-cung-chuoi-su-kien-cong-dong-tet-lien-quan-2026/\">NHẬN QUÀ TẾT CỰC Ý NGHĨA CÙNG CHUỖI SỰ KIỆN CỘNG ĐỒNG TẾT LIÊN QUÂN 2026</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
+      "image_url": "https://picsum.photos/seed/https://lienquan.garena.vn/nhan-qua-tet-cuc-y-nghia-cung-chuoi-su-kien-cong-dong-tet-lien-quan-2026//400/225",
+      "source": "Liên Quân Mobile Official",
+      "source_url": "https://lienquan.garena.vn/rss",
+      "published_at": "2025-12-25T08:51:20Z",
+      "crawled_at": "2025-12-25T09:02:56.640675",
+      "category": "tướng",
+      "priority": 1
+    },
     {
       "id": "6726f6ad9e20",
       "title": "VUI MÙA LỄ HỘI, SĂN QUÀ GẤP BỘI CÙNG ĐẠI LÝ SHOPEE",
@@ -1270,19 +1283,6 @@
       "published_at": null,
       "crawled_at": "2025-11-26T07:01:46.120179",
       "category": "cập nhật",
-      "priority": 2
-    },
-    {
-      "id": "a77b39c54bce",
-      "title": "Gumayusi chốt skin CKTG 2025, không nằm ngoài dự đoán nhưng vẫn khiến fan tiếc nuối",
-      "link": "https://gamek.vn/gumayusi-chot-skin-cktg-2025-khong-nam-ngoai-du-doan-nhung-van-khien-fan-tiec-nuoi-178251125155110198.chn",
-      "summary": "Gumayusi có lẽ là tuyển thủ cuối cùng của T1 2025 chốt skin CKTG.",
-      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/11/25/gumayusi-skin-cktg-4-17640606220941789427301-36-0-786-1200-crop-1764060630334101978922.png",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2025-11-25T18:01:49.437027",
-      "category": "skin",
       "priority": 2
     }
   ]
