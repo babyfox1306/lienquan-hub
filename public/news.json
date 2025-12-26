@@ -1,7 +1,20 @@
 {
-  "last_updated": "2025-12-26T07:03:09.722720",
+  "last_updated": "2025-12-26T08:01:46.957150",
   "total_news": 100,
   "news": [
+    {
+      "id": "cea74eb65d31",
+      "title": "MỞ BÁN SỔ SỨ MỆNH 85",
+      "link": "https://lienquan.garena.vn/mo-ban-so-su-menh-85/",
+      "summary": "<p>Xin chào các Kiện Tướng Chào mừng đến với Sổ Sứ Mệnh mùa 85 &#8211; Đại chiến Pixel SỔ SỨ MỆNH MÙA 85 Các Kiện Tướng có hai lựa chọn tham gia Sổ Sứ Mệnh [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/mo-ban-so-su-menh-85/\">MỞ BÁN SỔ SỨ MỆNH 85</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
+      "image_url": null,
+      "source": "Liên Quân Mobile Official",
+      "source_url": "https://lienquan.garena.vn/rss",
+      "published_at": "2025-12-26T07:54:25Z",
+      "crawled_at": "2025-12-26T08:01:21.600616",
+      "category": "tướng",
+      "priority": 1
+    },
     {
       "id": "c507c3b2abb3",
       "title": "NHẬN QUÀ TẾT CỰC Ý NGHĨA CÙNG CHUỖI SỰ KIỆN CỘNG ĐỒNG TẾT LIÊN QUÂN 2026",
@@ -1270,19 +1283,6 @@
       "published_at": null,
       "crawled_at": "2025-11-26T09:01:50.138347",
       "category": "tin tức",
-      "priority": 2
-    },
-    {
-      "id": "f617e7616de8",
-      "title": "Kiếm Hiệp Tình 2 Mobile \"hồi sinh\", S19 chuẩn bị bùng nổ",
-      "link": "https://gamek.vn/kiem-hiep-tinh-2-mobile-hoi-sinh-s19-chuan-bi-bung-no-178251126130734667.chn",
-      "summary": "Kiếm Hiệp Tình 2 Mobile đang chuẩn bị bước vào giai đoạn đổi mới mạnh mẽ nhất từ trước đến nay. Sau thời gian dài lắng nghe góp ý từ cộng đồng, bản cập nhật lớn nhất năm sắp ra mắt với hàng loạt cập nhật nâng cấp về môn phái, trang bị, bang hội và trải nghiệm PK.",
-      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/11/26/photo1764063259037-17640632591111984004691-17641372657741451320595.jpg",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2025-11-26T07:01:46.120179",
-      "category": "cập nhật",
       "priority": 2
     }
   ]
