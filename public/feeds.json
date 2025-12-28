@@ -56,6 +56,11 @@
       "type": "channel"
     },
     {
+      "id": "UCyqjmx1kcZknycssiIhFQKw",
+      "name": "VuxGaming",
+      "type": "channel"
+    },
+    {
       "id": "UCpQ52533EsOa5k-dQSmD1jw",
       "name": "Ha Le Quyen",
       "type": "channel"
@@ -93,11 +98,6 @@
     {
       "id": "UCMHSTFMGp-k4Z0kG-CfMSWg",
       "name": "HTT GAMER LIÊN QUÂN MOBILE",
-      "type": "channel"
-    },
-    {
-      "id": "UCbRugPHs-2i48MbID-AnEVQ",
-      "name": "Htt Gamer Liên Quân TV",
       "type": "channel"
     }
   ],
