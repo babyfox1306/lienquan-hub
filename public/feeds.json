@@ -41,11 +41,6 @@
       "type": "channel"
     },
     {
-      "id": "UCeMjhoCCvujpObnt6yeZeNg",
-      "name": "Garena 傳說對決",
-      "type": "channel"
-    },
-    {
       "id": "UC1EOVZPr8neE-05eqKR_K-Q",
       "name": "ADC Gaming",
       "type": "channel"
@@ -78,6 +73,11 @@
     {
       "id": "UCLmVT2XmCej720HFtG7mwSQ",
       "name": "NTD LQ",
+      "type": "channel"
+    },
+    {
+      "id": "UCJojBppsLbhkaQ_DySRWM-A",
+      "name": "BLV Thanh Tùng",
       "type": "channel"
     },
     {
