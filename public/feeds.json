@@ -71,6 +71,11 @@
       "type": "channel"
     },
     {
+      "id": "UCCIYZ5cZ0V6Mx_DRGsRhzeA",
+      "name": "Liên Quân GameTV",
+      "type": "channel"
+    },
+    {
       "id": "UCLmVT2XmCej720HFtG7mwSQ",
       "name": "NTD LQ",
       "type": "channel"
@@ -93,11 +98,6 @@
     {
       "id": "UCMHSTFMGp-k4Z0kG-CfMSWg",
       "name": "HTT GAMER LIÊN QUÂN MOBILE",
-      "type": "channel"
-    },
-    {
-      "id": "UCbRugPHs-2i48MbID-AnEVQ",
-      "name": "Htt Gamer Liên Quân TV",
       "type": "channel"
     }
   ],
