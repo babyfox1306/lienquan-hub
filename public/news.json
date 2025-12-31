@@ -1,7 +1,20 @@
 {
-  "last_updated": "2025-12-31T10:01:36.791626",
+  "last_updated": "2025-12-31T11:01:54.952021",
   "total_news": 100,
   "news": [
+    {
+      "id": "8937fa5f21af",
+      "title": "CẬP NHẬT CÁC HÀNH VI BỊ XỬ PHẠT VÀ THỜI HẠN KHÓA TỪ 1/1/2026",
+      "link": "https://lienquan.garena.vn/cap-nhat-cac-hanh-vi-bi-xu-phat-va-thoi-han-khoa-tu-1-1-2026/",
+      "summary": "<p>Xin chào các Kiện Tướng, Hội Đồng Liên Quân cập nhật các hành vi bị xử phạt và thời hạn khóa đối với từng hành vi để phù hợp hơn với tình hình thực tế, [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/cap-nhat-cac-hanh-vi-bi-xu-phat-va-thoi-han-khoa-tu-1-1-2026/\">CẬP NHẬT CÁC HÀNH VI BỊ XỬ PHẠT VÀ THỜI HẠN KHÓA TỪ 1/1/2026</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
+      "image_url": null,
+      "source": "Liên Quân Mobile Official",
+      "source_url": "https://lienquan.garena.vn/rss",
+      "published_at": "2025-12-31T10:25:19Z",
+      "crawled_at": "2025-12-31T11:01:32.200696",
+      "category": "tướng",
+      "priority": 1
+    },
     {
       "id": "c23b7e371329",
       "title": "PHÁT ĐỘNG CUỘC THI ĐUA TOP LEADER TỔ CHỨC SỰ KIỆN CỘNG ĐỒNG LIÊN QUÂN",
@@ -1270,19 +1283,6 @@
       "published_at": null,
       "crawled_at": "2025-12-03T06:01:37.637093",
       "category": "tướng",
-      "priority": 2
-    },
-    {
-      "id": "6635246f7822",
-      "title": "Kiều Phong - Quách Tĩnh: Đệ nhất cao thủ Hàng Long Thập Bát Chưởng là đây",
-      "link": "https://gamek.vn/kieu-phong-quach-tinh-de-nhat-cao-thu-hang-long-thap-bat-chuong-la-day-178251129005912035.chn",
-      "summary": "Cùng là những cao thủ của Cái Bang nhưng giữa Kiều Phong và Quách Tĩnh chỉ có một người xứng đáng là đệ nhất.",
-      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/11/28/kieuphong-quachtinh-kimdung-7-17643526541171099322894-3-0-566-900-crop-1764352686476117942610.png",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2025-11-29T18:01:28.838779",
-      "category": "tin tức",
       "priority": 2
     }
   ]
