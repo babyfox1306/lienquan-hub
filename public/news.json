@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-31T06:01:47.745354",
+  "last_updated": "2025-12-31T07:03:34.530214",
   "total_news": 100,
   "news": [
     {
@@ -857,6 +857,19 @@
       "priority": 5
     },
     {
+      "id": "50a6f1d25acf",
+      "title": "Silkroad Origin VTC: Lộ diện Top Cao thủ thống trị đường Đua Top Map 100 tại Server Kim Long",
+      "link": "https://gamek.vn/silkroad-origin-vtc-lo-dien-top-cao-thu-thong-tri-duong-dua-top-map-100-tai-server-kim-long-178251231132149469.chn",
+      "summary": "Silkroad Origin VTC – phiên bản Chính thống Con Đường Tơ Lụa do Vtc Game phát hành được xem là mảnh đất hội tụ của cộng đồng game thủ yêu thích lối chơi nhập vai kinh điển, đề cao tính cạnh tranh và tinh thần phiêu lưu nơi Đại Lục.",
+      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/12/31/photo1767089043152-176708904335041687074-17671621109681845365995.jpg",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2025-12-31T07:03:13.690169",
+      "category": "tin tức",
+      "priority": 2
+    },
+    {
       "id": "401e24ec997b",
       "title": "Record of Ragnarok phiên bản nữ: Khi 32 'ác nữ' lịch sử đại chiến giành điều ước trong giải đấu đẫm máu",
       "link": "https://gamek.vn/record-of-ragnarok-phien-ban-nu-khi-32-ac-nu-lich-su-dai-chien-gianh-dieu-uoc-trong-giai-dau-dam-mau-178251229210727148.chn",
@@ -1270,19 +1283,6 @@
       "published_at": null,
       "crawled_at": "2025-11-28T15:01:19.330493",
       "category": "esports",
-      "priority": 2
-    },
-    {
-      "id": "87da971b0571",
-      "title": "Đu trend cùng đàn em, MC Phương Thảo bị soi một chi tiết khiến cô nàng giận “tím mặt”",
-      "link": "https://gamek.vn/du-trend-cung-dan-em-mc-phuong-thao-bi-soi-mot-chi-tiet-khien-co-nang-gian-tim-mat-178251128095111639.chn",
-      "summary": "Cặp chị em MC Liên Quân đang được nhắc tới rất nhiều ở thời điểm hiện tại.",
-      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/11/28/photo-1764297977791-1764297978171792332155-52-0-346-471-crop-17643048608382116302415.png",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2025-11-28T09:01:44.204581",
-      "category": "tin tức",
       "priority": 2
     }
   ]
