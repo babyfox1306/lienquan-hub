@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-31T09:03:21.553323",
+  "last_updated": "2025-12-31T10:01:36.791626",
   "total_news": 100,
   "news": [
     {
@@ -857,6 +857,19 @@
       "priority": 5
     },
     {
+      "id": "bb152b346e98",
+      "title": "Giải đấu đầu tiên chi 100 triệu tiền thưởng, Tiếu Ngạo VTC chơi lớn, khơi hào quang cộng đồng",
+      "link": "https://gamek.vn/giai-dau-dau-tien-chi-100-trieu-tien-thuong-tieu-ngao-vtc-choi-lon-khoi-hao-quang-cong-dong-178251231155435882.chn",
+      "summary": "Tiếu Ngạo Giang Hồ VTC nhanh chóng hiện thực hóa cam kết với cộng đồng bằng việc khởi động giải đấu kỹ năng 3vs3 Nam Quốc Anh Hùng ngay sau khi ra mắt với tổng giá trị quà tặng lên đến 100 triệu đồng.",
+      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/12/31/photo1767156510219-1767156510351409697749-17671712777791893204755.jpg",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2025-12-31T10:01:17.998004",
+      "category": "esports",
+      "priority": 2
+    },
+    {
       "id": "50a6f1d25acf",
       "title": "Silkroad Origin VTC: Lộ diện Top Cao thủ thống trị đường Đua Top Map 100 tại Server Kim Long",
       "link": "https://gamek.vn/silkroad-origin-vtc-lo-dien-top-cao-thu-thong-tri-duong-dua-top-map-100-tai-server-kim-long-178251231132149469.chn",
@@ -1270,19 +1283,6 @@
       "published_at": null,
       "crawled_at": "2025-11-29T18:01:28.838779",
       "category": "tin tức",
-      "priority": 2
-    },
-    {
-      "id": "5a6c4cde6cef",
-      "title": "Đội tuyển Audition Việt Nam chính thức xuất quân cho SEA Games 33",
-      "link": "https://gamek.vn/doi-tuyen-audition-viet-nam-chinh-thuc-xuat-quan-cho-sea-games-33-178251128143631198.chn",
-      "summary": "Tổng công ty VTC đã chính thức làm Lễ xuất quân cho Đội tuyển Esports Audition Việt Nam tham dự SEA Games 33.",
-      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/11/28/audition-1-1764315354655306397732-50-0-800-1200-crop-1764315359061251771234.png",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2025-11-28T15:01:19.330493",
-      "category": "esports",
       "priority": 2
     }
   ]
