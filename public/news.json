@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-01T02:43:43.323234",
+  "last_updated": "2026-01-01T03:31:44.755014",
   "total_news": 100,
   "news": [
     {
@@ -870,6 +870,19 @@
       "priority": 5
     },
     {
+      "id": "e864d78f1315",
+      "title": "Kỷ niệm 1 năm ra mắt, Where Winds Meet tung luôn bộ skin trị giá 1 tỷ khiến fan choáng váng",
+      "link": "https://gamek.vn/ky-niem-1-nam-ra-mat-where-winds-meet-tung-luon-bo-skin-tri-gia-1-ty-khien-fan-choang-vang-178251231094759692.chn",
+      "summary": "Mức giá để sở hữu bộ skin này là quá... \"chát\".",
+      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/12/31/photo-1767148749504-1767148750313523149622-124-0-735-978-crop-17671589906671295413769.png",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2026-01-01T03:31:25.108440",
+      "category": "skin",
+      "priority": 2
+    },
+    {
       "id": "bb152b346e98",
       "title": "Giải đấu đầu tiên chi 100 triệu tiền thưởng, Tiếu Ngạo VTC chơi lớn, khơi hào quang cộng đồng",
       "link": "https://gamek.vn/giai-dau-dau-tien-chi-100-trieu-tien-thuong-tieu-ngao-vtc-choi-lon-khoi-hao-quang-cong-dong-178251231155435882.chn",
@@ -1270,19 +1283,6 @@
       "published_at": null,
       "crawled_at": "2025-12-03T10:01:31.756524",
       "category": "skin",
-      "priority": 2
-    },
-    {
-      "id": "3d0907b45366",
-      "title": "Trời cũng không thể giảm sức mạnh của \"con tướng\" này lại được: 5 ngày kiếm 15.000 tỷ, phá vỡ mọi kỷ lục thế giới",
-      "link": "https://gamek.vn/troi-cung-khong-the-giam-suc-manh-cua-con-tuong-nay-lai-duoc-5-ngay-kiem-15000-ty-pha-vo-moi-ky-luc-the-gioi-178251202084518846.chn",
-      "summary": "Đây là cái tên đang khiến người yêu phim ảnh trên toàn cầu nhắc đến nhiều nhất.",
-      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/12/2/avatar1764639776794-17646397774091945122652.jpg",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2025-12-03T06:01:37.637093",
-      "category": "tướng",
       "priority": 2
     }
   ]
