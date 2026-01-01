@@ -21,11 +21,6 @@
       "type": "channel"
     },
     {
-      "id": "UCAml1Hqu4LW36B3yEtQg8Fw",
-      "name": "FUNNY GAMING TV",
-      "type": "channel"
-    },
-    {
       "id": "UC3QLI0FHwACCaa91Xdpam2A",
       "name": "Trải Nghiệm Game",
       "type": "channel"
@@ -38,11 +33,6 @@
     {
       "id": "UCFgdNlUefoIqZm_IQssJkHw",
       "name": "ĐỆ TỨ Liên Quân Mobile",
-      "type": "channel"
-    },
-    {
-      "id": "UCeMjhoCCvujpObnt6yeZeNg",
-      "name": "Garena 傳說對決",
       "type": "channel"
     },
     {
@@ -81,6 +71,11 @@
       "type": "channel"
     },
     {
+      "id": "UCJojBppsLbhkaQ_DySRWM-A",
+      "name": "BLV Thanh Tùng",
+      "type": "channel"
+    },
+    {
       "id": "UCB7b1Gb6yM-RyY0YW1HY6pA",
       "name": "Tainzo",
       "type": "channel"
@@ -98,6 +93,11 @@
     {
       "id": "UCbRugPHs-2i48MbID-AnEVQ",
       "name": "Htt Gamer Liên Quân TV",
+      "type": "channel"
+    },
+    {
+      "id": "UCWXXFvwmcOHxEk6IlhW1BhA",
+      "name": "Phuc Ram",
       "type": "channel"
     }
   ],
