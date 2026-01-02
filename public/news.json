@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-02T16:01:58.056388",
+  "last_updated": "2026-01-02T17:02:16.722131",
   "total_news": 100,
   "news": [
     {
@@ -870,6 +870,19 @@
       "priority": 5
     },
     {
+      "id": "4bc797ab51a0",
+      "title": "Khán giả soi ra loạt đãi ngộ dành cho Faker nhưng có một nhân vật sẽ phải chịu áp lực cực lớn",
+      "link": "https://gamek.vn/khan-gia-soi-ra-loat-dai-ngo-danh-cho-faker-nhung-co-mot-nhan-vat-se-phai-chiu-ap-luc-cuc-lon-178260102224044624.chn",
+      "summary": "Faker đang ở một tầm vóc có thể nói là \"không tưởng\" với một tuyển thủ Esports nhưng lại dễ khiến một nhân vật khác gặp áp lực.",
+      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2026/1/2/avatar1767371070883-17673710712961118981206.png",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2026-01-02T17:01:56.112010",
+      "category": "esports",
+      "priority": 2
+    },
+    {
       "id": "e864d78f1315",
       "title": "Kỷ niệm 1 năm ra mắt, Where Winds Meet tung luôn bộ skin trị giá 1 tỷ khiến fan choáng váng",
       "link": "https://gamek.vn/ky-niem-1-nam-ra-mat-where-winds-meet-tung-luon-bo-skin-tri-gia-1-ty-khien-fan-choang-vang-178251231094759692.chn",
@@ -1270,19 +1283,6 @@
       "published_at": null,
       "crawled_at": "2025-12-05T13:11:20.998111",
       "category": "esports",
-      "priority": 2
-    },
-    {
-      "id": "30ee3738fed9",
-      "title": "Liên Quân Mobile lên tiếng về drama thiết kế trang phục, khiến cộng đồng hết sức phẫn nộ",
-      "link": "https://gamek.vn/lien-quan-mobile-len-tieng-ve-drama-thiet-ke-trang-phuc-khien-cong-dong-het-suc-phan-no-178251203144428275.chn",
-      "summary": "Liên Quân vừa dính vào một drama vô cùng nghiêm trọng",
-      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/12/3/avatar1764752615599-1764752617572592783076.jpg",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2025-12-03T10:01:31.756524",
-      "category": "skin",
       "priority": 2
     }
   ]
