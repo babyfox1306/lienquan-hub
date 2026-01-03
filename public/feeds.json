@@ -41,6 +41,11 @@
       "type": "channel"
     },
     {
+      "id": "UCeMjhoCCvujpObnt6yeZeNg",
+      "name": "Garena 傳說對決",
+      "type": "channel"
+    },
+    {
       "id": "UC1EOVZPr8neE-05eqKR_K-Q",
       "name": "ADC Gaming",
       "type": "channel"
@@ -76,6 +81,11 @@
       "type": "channel"
     },
     {
+      "id": "UCVVoMk8UNpVIdo5BgszmLnw",
+      "name": "Học Viện Liên Quân",
+      "type": "channel"
+    },
+    {
       "id": "UCMHSTFMGp-k4Z0kG-CfMSWg",
       "name": "HTT GAMER LIÊN QUÂN MOBILE",
       "type": "channel"
@@ -88,16 +98,6 @@
     {
       "id": "UCpkUzNC-PTa_Ju-xfT-CiDQ",
       "name": "Ly Chuột Bạch",
-      "type": "channel"
-    },
-    {
-      "id": "UCbRugPHs-2i48MbID-AnEVQ",
-      "name": "Htt Gamer Liên Quân TV",
-      "type": "channel"
-    },
-    {
-      "id": "UCfoEdZzeGa3VW-N_TYYe86Q",
-      "name": "Vĩnh Đất",
       "type": "channel"
     }
   ],
