@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-07T04:15:22.036495",
+  "last_updated": "2026-01-07T05:05:35.998425",
   "total_news": 100,
   "news": [
     {
@@ -870,6 +870,19 @@
       "priority": 5
     },
     {
+      "id": "fa40ec704866",
+      "title": "Xạ thủ gạo cội của Liên Quân Mobile thông báo giải nghệ? Fan nghi ngờ \"từ bỏ\" để đầu quân sang tựa game \"đối thủ\"?",
+      "link": "https://gamek.vn/xa-thu-gao-coi-cua-lien-quan-mobile-thong-bao-giai-nghe-fan-nghi-ngo-tu-bo-de-dau-quan-sang-tua-game-doi-thu-178260107101543684.chn",
+      "summary": "Thông báo của tuyển thủ này khiến ai cũng ngỡ ngàng.",
+      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2026/1/7/photo-1767755622226-17677556225121354002517-126-0-750-999-crop-1767757379342943954446.png",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2026-01-07T05:05:13.097899",
+      "category": "tin tức",
+      "priority": 2
+    },
+    {
       "id": "4bc797ab51a0",
       "title": "Khán giả soi ra loạt đãi ngộ dành cho Faker nhưng có một nhân vật sẽ phải chịu áp lực cực lớn",
       "link": "https://gamek.vn/khan-gia-soi-ra-loat-dai-ngo-danh-cho-faker-nhung-co-mot-nhan-vat-se-phai-chiu-ap-luc-cuc-lon-178260102224044624.chn",
@@ -1270,19 +1283,6 @@
       "published_at": null,
       "crawled_at": "2025-12-08T03:27:48.314337",
       "category": "tin tức",
-      "priority": 2
-    },
-    {
-      "id": "653cb82c0f80",
-      "title": "Khát vọng Việt trong từng nhịp nhảy Audition tại SEA Games 33",
-      "link": "https://gamek.vn/khat-vong-viet-trong-tung-nhip-nhay-audition-tai-sea-games-33-178251205195337953.chn",
-      "summary": "Ngày 28/11 vừa qua, cộng đồng thể thao điện tử (Esports) Việt Nam đã chứng kiến một cột mốc lịch sử quan trọng: Đội tuyển Esports Audition Việt Nam chính thức ra mắt để chuẩn bị tham dự SEA Games 33",
-      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/12/5/photo1764910124690-17649101255271537582607-17649392193151059282256.jpg",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2025-12-05T13:11:20.998111",
-      "category": "esports",
       "priority": 2
     }
   ]
