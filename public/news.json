@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-08T07:04:31.805569",
+  "last_updated": "2026-01-08T08:01:56.974662",
   "total_news": 100,
   "news": [
     {
@@ -870,6 +870,19 @@
       "priority": 5
     },
     {
+      "id": "90ce200865dd",
+      "title": "6 đại cao thủ bị Kim Dung \"xóa sổ\" gần như hoàn toàn vì võ công quá cao: Bạn biết được mấy người?",
+      "link": "https://gamek.vn/6-dai-cao-thu-bi-kim-dung-xoa-so-gan-nhu-hoan-toan-vi-vo-cong-qua-cao-ban-biet-duoc-may-nguoi-178260107095656125.chn",
+      "summary": "Đó là những cao thủ nào?",
+      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2026/1/7/avatar1767754474472-1767754474939335499586.png",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2026-01-08T08:01:35.262330",
+      "category": "tin tức",
+      "priority": 2
+    },
+    {
       "id": "fa40ec704866",
       "title": "Xạ thủ gạo cội của Liên Quân Mobile thông báo giải nghệ? Fan nghi ngờ \"từ bỏ\" để đầu quân sang tựa game \"đối thủ\"?",
       "link": "https://gamek.vn/xa-thu-gao-coi-cua-lien-quan-mobile-thong-bao-giai-nghe-fan-nghi-ngo-tu-bo-de-dau-quan-sang-tua-game-doi-thu-178260107101543684.chn",
@@ -1269,19 +1282,6 @@
       "source_url": "https://gamek.vn/rss",
       "published_at": null,
       "crawled_at": "2025-12-08T07:03:47.991245",
-      "category": "tin tức",
-      "priority": 2
-    },
-    {
-      "id": "6f87216a88c5",
-      "title": "Tứ đại \"chiến thần\" cận chiến trong vũ trụ Kim Dung",
-      "link": "https://gamek.vn/tu-dai-chien-than-can-chien-trong-vu-tru-kim-dung-178251207191717825.chn",
-      "summary": "Trong rất nhiều đại cao thủ của Kim Dung, đây là 4 nhân vật có lẽ là sở hữu khả năng cận chiến vào dạng đỉnh cao nhất.",
-      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/12/7/cao-thu-kimdung-8-17651298139762015861994-38-0-601-900-crop-1765130092447505541119.png",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2025-12-08T03:27:48.314337",
       "category": "tin tức",
       "priority": 2
     }
