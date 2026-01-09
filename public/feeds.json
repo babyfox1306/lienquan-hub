@@ -41,8 +41,8 @@
       "type": "channel"
     },
     {
-      "id": "UC55ad8jzcIWCMU-o2CXMEAw",
-      "name": "Thầy Giáo Liên Quân",
+      "id": "UCgYkGvtBuY4onYm2Eh61zwQ",
+      "name": "Arena of Valor",
       "type": "channel"
     },
     {
@@ -51,8 +51,8 @@
       "type": "channel"
     },
     {
-      "id": "UCpQ52533EsOa5k-dQSmD1jw",
-      "name": "Ha Le Quyen",
+      "id": "UCDk4tfW1Iku9-0S7L5cZP4A",
+      "name": "Arena of Valor - Topic",
       "type": "channel"
     },
     {
@@ -63,11 +63,6 @@
     {
       "id": "UCLmVT2XmCej720HFtG7mwSQ",
       "name": "NTD LQ",
-      "type": "channel"
-    },
-    {
-      "id": "UCB7b1Gb6yM-RyY0YW1HY6pA",
-      "name": "Tainzo",
       "type": "channel"
     },
     {
@@ -86,18 +81,23 @@
       "type": "channel"
     },
     {
-      "id": "UCaokzdz-Q_tLcbhDG5OAjUQ",
-      "name": "Đánh Giày",
-      "type": "channel"
-    },
-    {
       "id": "UCbRugPHs-2i48MbID-AnEVQ",
       "name": "Htt Gamer Liên Quân TV",
       "type": "channel"
     },
     {
-      "id": "UCfoEdZzeGa3VW-N_TYYe86Q",
-      "name": "Vĩnh Đất",
+      "id": "UCKjyrROfuUjQ8EHpjFHgjRA",
+      "name": "Ugi Desniana",
+      "type": "channel"
+    },
+    {
+      "id": "UCJAd1REXSJbxzD7uJcrYcow",
+      "name": "【公式】アリーナ・オブ・ヴァラー（アリヴァラ）",
+      "type": "channel"
+    },
+    {
+      "id": "UC9IMa50eipvZXSjynFJrc0w",
+      "name": "AOV Global Collection",
       "type": "channel"
     }
   ],
