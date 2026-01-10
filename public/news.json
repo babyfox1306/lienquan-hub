@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-10T02:33:20.385395",
+  "last_updated": "2026-01-10T03:28:26.530205",
   "total_news": 100,
   "news": [
     {
@@ -870,6 +870,19 @@
       "priority": 5
     },
     {
+      "id": "bdba08904306",
+      "title": "Ra mắt skin mới, tựa game này bất ngờ gặp \"biến cố\", người chơi phản ứng mạnh mẽ vì lý do khó đỡ",
+      "link": "https://gamek.vn/ra-mat-skin-moi-tua-game-nay-bat-ngo-gap-bien-co-nguoi-choi-phan-ung-manh-me-vi-ly-do-kho-do-178260108101944564.chn",
+      "summary": "Đây có lẽ cũng là bài học mà các nhà phát hành game cần rút ra kinh nghiệm sau lần này.",
+      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2026/1/9/avatar1767929682387-1767929682666242108968.png",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2026-01-10T03:28:03.755848",
+      "category": "skin",
+      "priority": 2
+    },
+    {
       "id": "10ef65e16563",
       "title": "Esports World Cup Foundation công bố mô hình đại diện đội tuyển quốc gia cho giải đấu Esports Nations Cup 2026",
       "link": "https://gamek.vn/esports-world-cup-foundation-cong-bo-mo-hinh-dai-dien-doi-tuyen-quoc-gia-cho-giai-dau-esports-nations-cup-2026-178260109144308843.chn",
@@ -1269,19 +1282,6 @@
       "source_url": "https://gamek.vn/rss",
       "published_at": null,
       "crawled_at": "2025-12-08T13:12:30.642359",
-      "category": "esports",
-      "priority": 2
-    },
-    {
-      "id": "255a7c9b3b31",
-      "title": "Bùng nổ Chung kết Quốc gia NSOC 2025 tại tổ hợp giải trí eSports OEG Stadium",
-      "link": "https://gamek.vn/bung-no-chung-ket-quoc-gia-nsoc-2025-tai-to-hop-giai-tri-esports-oeg-stadium-178251208190133157.chn",
-      "summary": "Thứ 7 vừa qua (06/12), giải đấu Thể thao điện tử Sinh viên toàn quốc NSOC 2025 chính thức diễn ra vòng Chung kết Quốc gia tại OEG Stadium sau hơn 1 tháng tranh tài.",
-      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/12/8/avatar1765195102679-17651951036331629738873.jpg",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2025-12-08T13:12:30.642406",
       "category": "esports",
       "priority": 2
     }
