@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-10T09:01:48.043879",
+  "last_updated": "2026-01-10T10:01:41.527294",
   "total_news": 100,
   "news": [
     {
@@ -870,6 +870,19 @@
       "priority": 5
     },
     {
+      "id": "90f8920076cc",
+      "title": "Tiếp tục có một tuyển thủ phải \"trả giá đắt\" vì phá game của Faker",
+      "link": "https://gamek.vn/tiep-tuc-co-mot-tuyen-thu-phai-tra-gia-dat-vi-pha-game-cua-faker-178260110114830637.chn",
+      "summary": "Một tuyển thủ phá game trong rank đã phải trả giá đắt khi trận đấu đó lại có sự tham gia của Faker.",
+      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2026/1/10/faker-pha-game-4-176802048334682432354-0-0-562-900-crop-17680204928711270448924.png",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2026-01-10T10:01:21.558321",
+      "category": "tin tức",
+      "priority": 2
+    },
+    {
       "id": "bdba08904306",
       "title": "Ra mắt skin mới, tựa game này bất ngờ gặp \"biến cố\", người chơi phản ứng mạnh mẽ vì lý do khó đỡ",
       "link": "https://gamek.vn/ra-mat-skin-moi-tua-game-nay-bat-ngo-gap-bien-co-nguoi-choi-phan-ung-manh-me-vi-ly-do-kho-do-178260108101944564.chn",
@@ -1269,19 +1282,6 @@
       "source_url": "https://gamek.vn/rss",
       "published_at": null,
       "crawled_at": "2025-12-08T14:01:41.114070",
-      "category": "esports",
-      "priority": 2
-    },
-    {
-      "id": "e67970f60581",
-      "title": "Từ sân khấu âm nhạc đến Esports: CTicket và bước tiến mới trong thị trường phân phối vé tại Việt Nam",
-      "link": "https://gamek.vn/tu-san-khau-am-nhac-den-esports-cticket-va-buoc-tien-moi-trong-thi-truong-phan-phoi-ve-tai-viet-nam-178251208185326396.chn",
-      "summary": "Sau một năm tăng trưởng mạnh mẽ, CTicket – nền tảng bán vé trực tuyến còn khá trẻ trên thị trường – đang nổi lên như một trong những nhân tố đáng chú ý của ngành công nghiệp giải trí Việt Nam.",
-      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/12/8/photo1765185456285-1765185456410869457248-1765194809895602872012.jpg",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2025-12-08T13:12:30.642359",
       "category": "esports",
       "priority": 2
     }
