@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-11T09:02:04.777699",
+  "last_updated": "2026-01-11T10:01:53.606519",
   "total_news": 100,
   "news": [
     {
@@ -870,6 +870,19 @@
       "priority": 5
     },
     {
+      "id": "d2833d4af23f",
+      "title": "Where Winds Meet tung cập nhật mới, loạt boss và tính năng siêu hấp dẫn cho game thủ",
+      "link": "https://gamek.vn/where-winds-meet-tung-cap-nhat-moi-loat-boss-va-tinh-nang-sieu-hap-dan-cho-game-thu-178260110094426821.chn",
+      "summary": "Where Winds Meet vẫn rất đều đặn mang tới các bản cập nhật mới cho người chơi.",
+      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2026/1/11/avatar1768100643690-17681006438631163711333.png",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2026-01-11T10:01:32.156989",
+      "category": "cập nhật",
+      "priority": 2
+    },
+    {
       "id": "90f8920076cc",
       "title": "Tiếp tục có một tuyển thủ phải \"trả giá đắt\" vì phá game của Faker",
       "link": "https://gamek.vn/tiep-tuc-co-mot-tuyen-thu-phai-tra-gia-dat-vi-pha-game-cua-faker-178260110114830637.chn",
@@ -1270,19 +1283,6 @@
       "published_at": null,
       "crawled_at": "2025-12-09T14:01:26.899538",
       "category": "tin tức",
-      "priority": 2
-    },
-    {
-      "id": "a940eec8ed0a",
-      "title": "Rapid Lofi đối đầu 7 \"gã khổng lồ\", tranh đoạt 5,2 tỷ đồng tại \"chảo lửa\" Quần Ngựa",
-      "link": "https://gamek.vn/rapid-lofi-doi-dau-7-ga-khong-lo-tranh-doat-52-ty-dong-tai-chao-lua-quan-ngua-178251208205013464.chn",
-      "summary": "Đội tuyển Rapid Lofi sẽ là đại diện Việt Nam cạnh tranh chức vô địch cùng những cái tên hàng đầu thế giới tại giải đấu Delta Force Invitational 2025 sắp diễn ra ở Hà Nội.",
-      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/12/8/avatar1765200457817-17652004586791792134652.jpg",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2025-12-08T14:01:41.114070",
-      "category": "esports",
       "priority": 2
     }
   ]
