@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-11T14:01:46.883205",
+  "last_updated": "2026-01-11T15:02:02.867059",
   "total_news": 100,
   "news": [
     {
@@ -870,6 +870,19 @@
       "priority": 5
     },
     {
+      "id": "624b816e61dc",
+      "title": "Garena Việt Nam tổ chức lễ mừng công SEA Games 33 nội dung Liên Quân Mobile và FC Online",
+      "link": "https://gamek.vn/garena-viet-nam-to-chuc-le-mung-cong-sea-games-33-noi-dung-lien-quan-mobile-va-fc-online-17826011120234772.chn",
+      "summary": "Garena Việt Nam trao tặng hơn 1 tỷ đồng mừng công các đội tuyển thể thao điện tử Việt Nam đoạt huy chương tại SEA Games 33 nội dung Liên Quân Mobile và FC Online.",
+      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2026/1/11/seagames-1-1768137800607942630437-38-0-601-900-crop-17681378093991837022804.png",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2026-01-11T15:01:41.822704",
+      "category": "tin tức",
+      "priority": 2
+    },
+    {
       "id": "d2833d4af23f",
       "title": "Where Winds Meet tung cập nhật mới, loạt boss và tính năng siêu hấp dẫn cho game thủ",
       "link": "https://gamek.vn/where-winds-meet-tung-cap-nhat-moi-loat-boss-va-tinh-nang-sieu-hap-dan-cho-game-thu-178260110094426821.chn",
@@ -1269,19 +1282,6 @@
       "source_url": "https://gamek.vn/rss",
       "published_at": null,
       "crawled_at": "2025-12-11T10:01:44.065940",
-      "category": "tin tức",
-      "priority": 2
-    },
-    {
-      "id": "cf7ef4e0866a",
-      "title": "ĐTCL mùa 16: Leo rank đầu mùa với đội hình Demacia công thủ toàn diện",
-      "link": "https://gamek.vn/dtcl-mua-16-leo-rank-dau-mua-voi-doi-hinh-demacia-cong-thu-toan-dien-17825120619034816.chn",
-      "summary": "Đội hình Demacia tỏ ra khá mạnh ở giai đoạn đầu của ĐTCL mùa 16.",
-      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/12/9/avatar1765270380774-17652703812472008514229.png",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2025-12-09T14:01:26.899538",
       "category": "tin tức",
       "priority": 2
     }
