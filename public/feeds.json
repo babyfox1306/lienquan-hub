@@ -86,11 +86,6 @@
       "type": "channel"
     },
     {
-      "id": "UC276YlbemvBnT10lAzTakPg",
-      "name": "Vũ Mạnh Cường",
-      "type": "channel"
-    },
-    {
       "id": "UCaokzdz-Q_tLcbhDG5OAjUQ",
       "name": "Đánh Giày",
       "type": "channel"
@@ -98,6 +93,11 @@
     {
       "id": "UCbRugPHs-2i48MbID-AnEVQ",
       "name": "Htt Gamer Liên Quân TV",
+      "type": "channel"
+    },
+    {
+      "id": "UCfoEdZzeGa3VW-N_TYYe86Q",
+      "name": "Vĩnh Đất",
       "type": "channel"
     }
   ],
