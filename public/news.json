@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-15T09:04:28.315410",
+  "last_updated": "2026-01-15T10:01:48.671789",
   "total_news": 100,
   "news": [
     {
@@ -870,6 +870,19 @@
       "priority": 5
     },
     {
+      "id": "5a45ab552079",
+      "title": "Cộng đồng LMHT phát hiện chân tướng của \"game thủ AI\" nhưng còn nhiều tranh cãi",
+      "link": "https://gamek.vn/cong-dong-lmht-phat-hien-chan-tuong-cua-game-thu-ai-nhung-con-nhieu-tranh-cai-178260115124744927.chn",
+      "summary": "Nhiều ý kiến nhận định tuyển thủ LCK này chính là \"game thủ AI\" đang \"gây bão\" trong cộng đồng LMHT những ngày qua.",
+      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2026/1/15/avatar1768459132299-1768459132782702300124.png",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2026-01-15T10:01:27.704752",
+      "category": "tướng",
+      "priority": 2
+    },
+    {
       "id": "2d8a18e2803d",
       "title": "“Thiếu Niên Ca Hành: Khởi Động” đã chính thức ra mắt trên Google Play và App Store",
       "link": "https://gamek.vn/thieu-nien-ca-hanh-khoi-dong-da-chinh-thuc-ra-mat-tren-google-play-va-app-store-178260114165325036.chn",
@@ -1269,19 +1282,6 @@
       "source_url": "https://gamek.vn/rss",
       "published_at": null,
       "crawled_at": "2025-12-15T09:04:31.513957",
-      "category": "esports",
-      "priority": 2
-    },
-    {
-      "id": "cba03f954252",
-      "title": "Điểm mặt các ngôi sao Liên Minh Huyền Thoại Việt Nam thi đấu trực tiếp với T1",
-      "link": "https://gamek.vn/diem-mat-cac-ngoi-sao-lien-minh-huyen-thoai-viet-nam-thi-dau-truc-tiep-voi-t1-178251214194455526.chn",
-      "summary": "Hàng triệu người hâm mộ Liên Minh Huyền Thoại (LMHT) Việt Nam sắp có cơ hội chứng kiến trận showmatch lịch sử giữa All-Star Vietnam và T1. Dàn tuyển thủ xuất sắc sẽ chung một đội hình “toàn sao” để đối đầu đội tuyển LMHT số 1 thế giới ngay tại Hà Nội - nơi trận thư hùng trong mơ eSports sắp thành hiện thực.",
-      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/12/14/photo1765697854750-17656978554761823248779-17657162968041771190761.jpg",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2025-12-14T13:08:55.687959",
       "category": "esports",
       "priority": 2
     }
