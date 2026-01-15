@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-15T16:05:37.592549",
+  "last_updated": "2026-01-15T17:08:23.312268",
   "total_news": 100,
   "news": [
     {
@@ -870,6 +870,19 @@
       "priority": 5
     },
     {
+      "id": "4670181af232",
+      "title": "ĐTCL mùa 16: Leo rank là dễ với đội hình Zaun Ekko \"tưởng không mạnh mà mạnh không tưởng\"",
+      "link": "https://gamek.vn/dtcl-mua-16-leo-rank-la-de-voi-doi-hinh-zaun-ekko-tuong-khong-manh-ma-manh-khong-tuong-17826011418581336.chn",
+      "summary": "Đội hình Zaun với Ekko làm chủ lực đang rất được ưa chuộng sau bản cập nhật mới nhất của ĐTCL mùa 16.",
+      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2026/1/15/doi-hinh-dtclmua16-ekko-6-17684593942351004051812-0-0-562-900-crop-1768459419167973026315.png",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2026-01-15T17:08:04.725838",
+      "category": "cập nhật",
+      "priority": 2
+    },
+    {
       "id": "5a45ab552079",
       "title": "Cộng đồng LMHT phát hiện chân tướng của \"game thủ AI\" nhưng còn nhiều tranh cãi",
       "link": "https://gamek.vn/cong-dong-lmht-phat-hien-chan-tuong-cua-game-thu-ai-nhung-con-nhieu-tranh-cai-178260115124744927.chn",
@@ -1270,19 +1283,6 @@
       "published_at": null,
       "crawled_at": "2025-12-16T05:03:09.156499",
       "category": "tin tức",
-      "priority": 2
-    },
-    {
-      "id": "d435cb786601",
-      "title": "10 sự thật về Chúa tể Địa ngục Hades trong Record of Ragnarok",
-      "link": "https://gamek.vn/10-su-that-ve-chua-te-dia-nguc-hades-trong-record-of-ragnarok-178251215082242156.chn",
-      "summary": "Sau sự kiện Buddha đổi phe, Chúa tể Địa ngục Hades đã bước vào giải đấu Ragnarok với mục đích duy nhất: trả thù cho Poseidon.",
-      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/12/15/avatar1765761641478-17657616420101577869503.jpg",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2025-12-15T09:04:31.513957",
-      "category": "esports",
       "priority": 2
     }
   ]
