@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-15T02:36:42.236425",
+  "last_updated": "2026-01-15T03:30:25.848780",
   "total_news": 100,
   "news": [
     {
@@ -870,6 +870,19 @@
       "priority": 5
     },
     {
+      "id": "2d8a18e2803d",
+      "title": "“Thiếu Niên Ca Hành: Khởi Động” đã chính thức ra mắt trên Google Play và App Store",
+      "link": "https://gamek.vn/thieu-nien-ca-hanh-khoi-dong-da-chinh-thuc-ra-mat-tren-google-play-va-app-store-178260114165325036.chn",
+      "summary": "Thiếu Niên Ca Hành: Khởi Động, tựa game đấu tướng chiến thuật mới chuẩn nguyên tác tiểu thuyết võ hiệp nổi tiếng của tác giả Chu Mộc Nam, đã chính thức phát hành ngày hôm nay - 15/1/2026 trên hai nền tảng Google Play và App Store.",
+      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2026/1/14/avatar1768384062359-17683840627341705478510-0-85-1080-1813-crop-17683842734051201344303.jpg",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2026-01-15T03:30:05.256956",
+      "category": "tướng",
+      "priority": 2
+    },
+    {
       "id": "ccb78c8cb90a",
       "title": "Gợi ý game Tam Quốc đáng chơi trong năm 2026: Quần Anh Phong Hoa Lục, ra mắt thần tướng Mã Văn Lộc, tính năng mới và còn nhiều hơn nữa",
       "link": "https://gamek.vn/goi-y-game-tam-quoc-dang-choi-trong-nam-2026-quan-anh-phong-hoa-luc-ra-mat-than-tuong-ma-van-loc-tinh-nang-moi-va-con-nhieu-hon-nua-1782601131328141.chn",
@@ -1270,19 +1283,6 @@
       "published_at": null,
       "crawled_at": "2025-12-14T13:08:55.687959",
       "category": "esports",
-      "priority": 2
-    },
-    {
-      "id": "1e318d96f334",
-      "title": "Chi tiền tỷ cho một skin phổ thông, nam game thủ khiến tất cả ngỡ ngàng, lý do thật sự đầy bí ẩn",
-      "link": "https://gamek.vn/chi-tien-ty-cho-mot-skin-pho-thong-nam-game-thu-khien-tat-ca-ngo-ngang-ly-do-that-su-day-bi-an-178250630115322854.chn",
-      "summary": "Khá nhiều game thủ sẽ phải cảm thấy ngỡ ngàng với quyết định này.",
-      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/12/10/avatar1765351145220-1765351145637872938189.png",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2025-12-12T04:10:43.191944",
-      "category": "skin",
       "priority": 2
     }
   ]
