@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-01-16T07:04:18.333248",
+  "last_updated": "2026-01-16T08:01:43.631155",
   "total_news": 100,
   "news": [
+    {
+      "id": "bc228578ec69",
+      "title": "VINH DANH COMMUNITY LEADER XUẤT SẮC NHẤT THÁNG 12 NĂM 2025",
+      "link": "https://lienquan.garena.vn/vinh-danh-community-leader-xuat-sac-nhat-thang-12-nam-2025/",
+      "summary": "<p>Xin chào các Kiện Tướng, Một năm nữa lại sắp khép lại, giữa nhịp sống hối hả cuối năm, khi mọi người chuẩn bị gác lại công việc để trở về bên gia đình, cộng [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/vinh-danh-community-leader-xuat-sac-nhat-thang-12-nam-2025/\">VINH DANH COMMUNITY LEADER XUẤT SẮC NHẤT THÁNG 12 NĂM 2025</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
+      "image_url": null,
+      "source": "Liên Quân Mobile Official",
+      "source_url": "https://lienquan.garena.vn/rss",
+      "published_at": "2026-01-16T07:56:31Z",
+      "crawled_at": "2026-01-16T08:01:23.862170",
+      "category": "tướng",
+      "priority": 1
+    },
     {
       "id": "8937fa5f21af",
       "title": "CẬP NHẬT CÁC HÀNH VI BỊ XỬ PHẠT VÀ THỜI HẠN KHÓA TỪ 1/1/2026",
@@ -1269,19 +1282,6 @@
       "source_url": "https://gamek.vn/rss",
       "published_at": null,
       "crawled_at": "2025-12-16T06:01:45.252111",
-      "category": "tin tức",
-      "priority": 2
-    },
-    {
-      "id": "f9d34daec10c",
-      "title": "Nữ tuyển thủ Liên Quân Mobile Thái Lan dính án phạt cực nặng tại SEA Games 33 vì gian lận",
-      "link": "https://gamek.vn/nu-tuyen-thu-lien-quan-mobile-thai-lan-dinh-an-phat-cuc-nang-tai-sea-games-33-vi-gian-lan-178251216112153499.chn",
-      "summary": "Nữ tuyển thủ của đội Liên Quân Mobile Thái Lan dính án phạt nặng vì có hành vi gian lận ở SEA Games 33.",
-      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/12/16/avatar1765858811040-17658588114711428094994.png",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2025-12-16T05:03:09.156499",
       "category": "tin tức",
       "priority": 2
     }
