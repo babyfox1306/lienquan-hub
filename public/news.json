@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-01-16T10:01:48.320756",
+  "last_updated": "2026-01-16T11:01:46.562091",
   "total_news": 100,
   "news": [
+    {
+      "id": "d8046acaeb86",
+      "title": "ĐIỀU CHỈNH RESET RANK MÙA MỚI TỪ S1/2026",
+      "link": "https://lienquan.garena.vn/dieu-chinh-reset-rank-mua-moi-tu-s1-2026/",
+      "summary": "<p>Xin chào các Kiện Tướng, Kể từ mùa giải S1 năm 2026, việc reset rank mùa mới sẽ có sự điều chỉnh như sau: Mức rank cuối cùng mùa trước Mức rank khởi điểm mùa [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/dieu-chinh-reset-rank-mua-moi-tu-s1-2026/\">ĐIỀU CHỈNH RESET RANK MÙA MỚI TỪ S1/2026</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
+      "image_url": null,
+      "source": "Liên Quân Mobile Official",
+      "source_url": "https://lienquan.garena.vn/rss",
+      "published_at": "2026-01-16T10:19:57Z",
+      "crawled_at": "2026-01-16T11:01:22.673322",
+      "category": "tướng",
+      "priority": 1
+    },
     {
       "id": "bc228578ec69",
       "title": "VINH DANH COMMUNITY LEADER XUẤT SẮC NHẤT THÁNG 12 NĂM 2025",
@@ -1270,19 +1283,6 @@
       "published_at": null,
       "crawled_at": "2025-12-16T07:03:29.929680",
       "category": "esports",
-      "priority": 2
-    },
-    {
-      "id": "31e4d9e5dea7",
-      "title": "Chính thức: Endgame cho đội tuyển Liên Quân Mobile nữ Thái Lan tại SEA Games 33",
-      "link": "https://gamek.vn/chinh-thuc-endgame-cho-doi-tuyen-lien-quan-mobile-nu-thai-lan-tai-sea-games-33-178251216121404264.chn",
-      "summary": "Đội tuyển Liên Quân Mobile nữ của Thái Lan rời SEA Games 33 đầy tủi hổ.",
-      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/12/16/avatar1765861501021-1765861501592159950039.png",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2025-12-16T06:01:45.252111",
-      "category": "tin tức",
       "priority": 2
     }
   ]
