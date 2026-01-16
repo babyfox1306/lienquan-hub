@@ -71,11 +71,6 @@
       "type": "channel"
     },
     {
-      "id": "UCJojBppsLbhkaQ_DySRWM-A",
-      "name": "BLV Thanh Tùng",
-      "type": "channel"
-    },
-    {
       "id": "UC_7epV7ZafErJDD74GFeAhQ",
       "name": "Yorn Trong Tay NoBiTa",
       "type": "channel"
@@ -98,6 +93,11 @@
     {
       "id": "UCaokzdz-Q_tLcbhDG5OAjUQ",
       "name": "Đánh Giày",
+      "type": "channel"
+    },
+    {
+      "id": "UCbRugPHs-2i48MbID-AnEVQ",
+      "name": "Htt Gamer Liên Quân TV",
       "type": "channel"
     }
   ],
