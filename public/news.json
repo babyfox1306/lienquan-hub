@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-17T10:01:39.872879",
+  "last_updated": "2026-01-17T11:01:38.941495",
   "total_news": 100,
   "news": [
     {
@@ -896,6 +896,19 @@
       "priority": 5
     },
     {
+      "id": "12c0ccae13ab",
+      "title": "Thiếu Niên 3Q: Khởi Nguyên công bố lộ trình ra mắt: Siêu phẩm chiến thuật \"Ban - Pick\" chuẩn bị đổ bộ thị trường Việt",
+      "link": "https://gamek.vn/thieu-nien-3q-khoi-nguyen-cong-bo-lo-trinh-ra-mat-sieu-pham-chien-thuat-ban-pick-chuan-bi-do-bo-thi-truong-viet-178260117171435231.chn",
+      "summary": "Với thông điệp \"Tái Sinh Thời Đại Chiến Thuật\", Thiếu Niên 3Q: Khởi Nguyên đang trở thành tâm điểm chú ý của cộng đồng game thủ nhờ lối chơi thẻ tướng sáng tạo và lộ trình ra mắt cực kỳ rõ ràng.",
+      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2026/1/17/avatar1768644705151-17686447068301529257474-0-77-728-1242-crop-176864476879351593793.png",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2026-01-17T11:01:19.977231",
+      "category": "tướng",
+      "priority": 2
+    },
+    {
       "id": "4670181af232",
       "title": "ĐTCL mùa 16: Leo rank là dễ với đội hình Zaun Ekko \"tưởng không mạnh mà mạnh không tưởng\"",
       "link": "https://gamek.vn/dtcl-mua-16-leo-rank-la-de-voi-doi-hinh-zaun-ekko-tuong-khong-manh-ma-manh-khong-tuong-17826011418581336.chn",
@@ -1270,19 +1283,6 @@
       "published_at": null,
       "crawled_at": "2025-12-16T11:01:30.958178",
       "category": "tin tức",
-      "priority": 2
-    },
-    {
-      "id": "aeaab443aa3c",
-      "title": "Đội tuyển Audition Việt Nam đón “cơn mưa” huy chương  tại SEA Games 33",
-      "link": "https://gamek.vn/doi-tuyen-audition-viet-nam-don-con-mua-huy-chuong-tai-sea-games-33-178251216113835151.chn",
-      "summary": "Ngày 12/12/2025 đã trở thành cột mốc lịch sử cho esports Việt Nam khi đội tuyển Audition lần đầu tiên tham gia SEA Games 33 và ngay lập tức thống trị với 2 huy chương vàng quý giá cùng loạt huy chương Bạc, Đồng.",
-      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/12/16/photo1765773471220-17657734713191001909481-17658599161111508417283.jpg",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2025-12-16T07:03:29.929680",
-      "category": "esports",
       "priority": 2
     }
   ]
