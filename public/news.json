@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-19T06:03:34.106165",
+  "last_updated": "2026-01-19T07:07:46.640814",
   "total_news": 100,
   "news": [
     {
@@ -896,6 +896,19 @@
       "priority": 5
     },
     {
+      "id": "ed7d9b3b89a2",
+      "title": "Cực hot: VCT 2026 đăng cai ở Việt Nam, người hâm mộ sẽ lần đầu được xem Crazyguy thi đấu trực tiếp!",
+      "link": "https://gamek.vn/cuc-hot-vct-2026-dang-cai-o-viet-nam-nguoi-ham-mo-se-lan-dau-duoc-xem-crazyguy-thi-dau-truc-tiep-178260119124734337.chn",
+      "summary": "Lần đầu tiên trong lịch sử, một vòng Chung kết giải đấu cấp độ quốc tế VCT Pacific sẽ chính thức cập bến TP. Hồ Chí Minh vào tháng 5 tới.",
+      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2026/1/19/avatar1768801444684-1768801444892721064237-49-0-1009-1536-crop-1768801513998758348770.jpg",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2026-01-19T07:07:25.910640",
+      "category": "esports",
+      "priority": 2
+    },
+    {
       "id": "12c0ccae13ab",
       "title": "Thiếu Niên 3Q: Khởi Nguyên công bố lộ trình ra mắt: Siêu phẩm chiến thuật \"Ban - Pick\" chuẩn bị đổ bộ thị trường Việt",
       "link": "https://gamek.vn/thieu-nien-3q-khoi-nguyen-cong-bo-lo-trinh-ra-mat-sieu-pham-chien-thuat-ban-pick-chuan-bi-do-bo-thi-truong-viet-178260117171435231.chn",
@@ -1269,19 +1282,6 @@
       "source_url": "https://gamek.vn/rss",
       "published_at": null,
       "crawled_at": "2025-12-17T06:01:24.221965",
-      "category": "tin tức",
-      "priority": 2
-    },
-    {
-      "id": "90e328a2c2fa",
-      "title": "Cao thủ của Kim Dung: Không tự cung vẫn luyện thành Quỳ Hoa Bảo Điển, vô địch thiên hạ nhưng bị xóa sổ",
-      "link": "https://gamek.vn/cao-thu-cua-kim-dung-khong-tu-cung-van-luyen-thanh-quy-hoa-bao-dien-vo-dich-thien-ha-nhung-bi-xoa-so-178251214153240707.chn",
-      "summary": "Cao thủ không cần tự cung vẫn vô địch thiên hạ với Quỳ Hoa Bảo Điển là ai?",
-      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/12/14/avatar1765701007059-176570100731949602154.jpg",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2025-12-16T11:01:30.958178",
       "category": "tin tức",
       "priority": 2
     }
