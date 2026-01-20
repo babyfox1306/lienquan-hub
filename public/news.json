@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-01-20T04:18:06.081532",
+  "last_updated": "2026-01-20T05:07:33.633090",
   "total_news": 100,
   "news": [
+    {
+      "id": "69bcbac16575",
+      "title": "QUY TRÌNH CẬP NHẬT PHIÊN BẢN TÂN NIÊN KHỞI THẾ – 21.01.2026",
+      "link": "https://lienquan.garena.vn/quy-trinh-cap-nhat-phien-ban-tan-nien-khoi-the-21-01-2026/",
+      "summary": "<p>Các Kiện Tướng thân mến, Hội đồng Liên Quân xin phép thông báo Quy trình cập nhật phiên bản mới TÂN NIÊN KHỞI THẾ 21.01.2026 Phiên bản mới TÂN NIÊN KHỞI THẾ sẽ được tiến [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/quy-trinh-cap-nhat-phien-ban-tan-nien-khoi-the-21-01-2026/\">QUY TRÌNH CẬP NHẬT PHIÊN BẢN TÂN NIÊN KHỞI THẾ – 21.01.2026</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
+      "image_url": null,
+      "source": "Liên Quân Mobile Official",
+      "source_url": "https://lienquan.garena.vn/rss",
+      "published_at": "2026-01-20T04:52:36Z",
+      "crawled_at": "2026-01-20T05:07:09.882354",
+      "category": "tướng",
+      "priority": 1
+    },
     {
       "id": "5a4807038f54",
       "title": "CHI TIẾT BẢN CẬP NHẬT TÂN NIÊN KHỞI THẾ 21.01.2026",
@@ -1269,19 +1282,6 @@
       "source_url": "https://gamek.vn/rss",
       "published_at": null,
       "crawled_at": "2025-12-17T14:01:41.122190",
-      "category": "esports",
-      "priority": 2
-    },
-    {
-      "id": "e5f065c38267",
-      "title": "Bỏ túi ngay loạt bí kíp đi đu “VPBank presents eSport Festival” trọn vẹn",
-      "link": "https://gamek.vn/bo-tui-ngay-loat-bi-kip-di-du-vpbank-presents-esport-festival-tron-ven-178251217135408811.chn",
-      "summary": "Không cần bay sang Hàn để gặp idol eSports, cũng chẳng phải “chạy show” nhiều sự kiện trong ngày, “VPBank Presents T1 in Vietnam: The Promise Fulfilled” mang đến cho giới trẻ và cộng đồng game thủ một trải nghiệm trọn gói hiếm có: xem - chơi - gặp - quẩy, tất cả gói gọn trong một.",
-      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/12/17/photo1765942941925-1765942942143989727497-1765954450649411690896.jpg",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2025-12-17T07:03:15.423230",
       "category": "esports",
       "priority": 2
     }
