@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-01-20T02:38:02.316747",
+  "last_updated": "2026-01-20T03:30:45.118670",
   "total_news": 100,
   "news": [
+    {
+      "id": "5a4807038f54",
+      "title": "CHI TIẾT BẢN CẬP NHẬT TÂN NIÊN KHỞI THẾ 21.01.2026",
+      "link": "https://lienquan.garena.vn/chi-tiet-ban-cap-nhat-tan-nien-khoi-the-21-01-2026/",
+      "summary": "<p>Xin chào các Kiện Tướng, Liên Quân Mobile sẽ tiến hành cập nhật không gián đoạn vào ngày 21.01.2026. Người chơi có thể tự chọn thời điểm cập nhật trong thời gian cho phép. Không [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/chi-tiet-ban-cap-nhat-tan-nien-khoi-the-21-01-2026/\">CHI TIẾT BẢN CẬP NHẬT TÂN NIÊN KHỞI THẾ 21.01.2026</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
+      "image_url": null,
+      "source": "Liên Quân Mobile Official",
+      "source_url": "https://lienquan.garena.vn/rss",
+      "published_at": "2026-01-20T03:20:57Z",
+      "crawled_at": "2026-01-20T03:30:22.238793",
+      "category": "tướng",
+      "priority": 1
+    },
     {
       "id": "d8046acaeb86",
       "title": "ĐIỀU CHỈNH RESET RANK MÙA MỚI TỪ S1/2026",
@@ -1270,19 +1283,6 @@
       "published_at": null,
       "crawled_at": "2025-12-17T07:03:15.423230",
       "category": "esports",
-      "priority": 2
-    },
-    {
-      "id": "9b070e2ced64",
-      "title": "4 cao thủ cùng luyện Quỳ Hoa Bảo Điển, chỉ Đông Phương Bất Bại bỏ kiếm dùng kim thêu: Sự thật gây bất ngờ",
-      "link": "https://gamek.vn/4-cao-thu-cung-luyen-quy-hoa-bao-dien-chi-dong-phuong-bat-bai-bo-kiem-dung-kim-theu-su-that-gay-bat-ngo-178251213131357448.chn",
-      "summary": "Vì sao bốn cao thủ luyện Quỳ Hoa Bảo Điển đều dùng kiếm, chỉ Đông Phương Bất Bại cầm kim thêu?",
-      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/12/13/avatar1765606234721-17656062352081898255915.jpg",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2025-12-17T06:01:24.221965",
-      "category": "tin tức",
       "priority": 2
     }
   ]
