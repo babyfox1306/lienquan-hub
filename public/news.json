@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-21T14:06:59.637423",
+  "last_updated": "2026-01-21T15:05:43.606556",
   "total_news": 100,
   "news": [
     {
@@ -935,6 +935,19 @@
       "priority": 5
     },
     {
+      "id": "1f1bdd402728",
+      "title": "Mùa giải mới vừa bắt đầu đã khiến một vị tướng LMHT \"xuống đáy\"",
+      "link": "https://gamek.vn/mua-giai-moi-vua-bat-dau-da-khien-mot-vi-tuong-lmht-xuong-day-178260121164655164.chn",
+      "summary": "Một vị tướng LMHT đã \"chạm đáy\" dù rất được ưa chuộng ở mùa giải 2025.",
+      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2026/1/21/lmht-tuong-4-17689879891041719991687-0-0-562-900-crop-17689883413611034151576.png",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2026-01-21T15:05:18.709286",
+      "category": "tướng",
+      "priority": 2
+    },
+    {
       "id": "ed7d9b3b89a2",
       "title": "Cực hot: VCT 2026 đăng cai ở Việt Nam, người hâm mộ sẽ lần đầu được xem Crazyguy thi đấu trực tiếp!",
       "link": "https://gamek.vn/cuc-hot-vct-2026-dang-cai-o-viet-nam-nguoi-ham-mo-se-lan-dau-duoc-xem-crazyguy-thi-dau-truc-tiep-178260119124734337.chn",
@@ -1270,19 +1283,6 @@
       "published_at": null,
       "crawled_at": "2025-12-18T04:09:25.484615",
       "category": "esports",
-      "priority": 2
-    },
-    {
-      "id": "5da10fac00d1",
-      "title": "Nhan sắc của hot girl rơi lệ vì gian lận của đồng đội Liên Quân Mobile nữ Thái Lan",
-      "link": "https://gamek.vn/nhan-sac-cua-hot-girl-roi-le-vi-gian-lan-cua-dong-doi-lien-quan-mobile-nu-thai-lan-178251217171233506.chn",
-      "summary": "Theo một số thông tin thì hot girl này cũng có liên quan đến vụ việc.",
-      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/12/17/avatar1765973972933-17659739734021668297159.png",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2025-12-17T16:01:42.132709",
-      "category": "tin tức",
       "priority": 2
     }
   ]
