@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-21T16:05:24.420795",
+  "last_updated": "2026-01-21T17:20:40.777647",
   "total_news": 100,
   "news": [
     {
@@ -935,6 +935,19 @@
       "priority": 5
     },
     {
+      "id": "a63d9516162a",
+      "title": "EWC 2026 công bố quỹ thưởng kỷ lục cùng danh sách các tựa game tranh tài",
+      "link": "https://gamek.vn/ewc-2026-cong-bo-quy-thuong-ky-luc-cung-danh-sach-cac-tua-game-tranh-tai-17826012119380898.chn",
+      "summary": "Quỹ giải thưởng kỷ lục tiếp tục củng cố vị thế của EWC như một sự kiện trọng điểm trong lịch thi đấu Esports toàn cầu.",
+      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2026/1/21/ewc-6-17690128540561605716025-35-0-598-900-crop-17690128589471909124780.png",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2026-01-21T17:20:20.740594",
+      "category": "esports",
+      "priority": 2
+    },
+    {
       "id": "1f1bdd402728",
       "title": "Mùa giải mới vừa bắt đầu đã khiến một vị tướng LMHT \"xuống đáy\"",
       "link": "https://gamek.vn/mua-giai-moi-vua-bat-dau-da-khien-mot-vi-tuong-lmht-xuong-day-178260121164655164.chn",
@@ -1269,19 +1282,6 @@
       "source_url": "https://gamek.vn/rss",
       "published_at": null,
       "crawled_at": "2025-12-18T12:01:40.248434",
-      "category": "esports",
-      "priority": 2
-    },
-    {
-      "id": "255ba68e2122",
-      "title": "Chính thức: Hot girl eSports Thái Lan bị cấm thi đấu trọn đời - cú “one-shot” khép lại drama gian lận chấn động SEA Games",
-      "link": "https://gamek.vn/chinh-thuc-hot-girl-esports-thai-lan-bi-cam-thi-dau-tron-doi-cu-one-shot-khep-lai-drama-gian-lan-chan-dong-sea-games-178251218110755662.chn",
-      "summary": "Chỉ trong vài giờ ngắn ngủi, từ niềm tự hào của RoV nữ Thái Lan, Tokyogurl rơi thẳng xuống đáy vực. Án phạt nặng chưa từng có được đồng loạt kích hoạt, khép lại một trong những vụ bê bối lớn nhất lịch sử eSports khu vực.",
-      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/12/18/avatar1766030322678-1766030323488415502008.png",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2025-12-18T04:09:25.484615",
       "category": "esports",
       "priority": 2
     }
