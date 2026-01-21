@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-01-21T09:05:36.233468",
+  "last_updated": "2026-01-21T10:03:27.339778",
   "total_news": 100,
   "news": [
+    {
+      "id": "21af74eac8a7",
+      "title": "CÔNG BỐ KẾT QUẢ CÁC HẠNG MỤC GIẢI THƯỞNG TẠI AOV CEREMONY 2025",
+      "link": "https://lienquan.garena.vn/cong-bo-ket-qua-cac-hang-muc-giai-thuong-tai-aov-ceremony-2025/",
+      "summary": "<p>Sau thời gian bình chọn và tổng hợp dữ liệu hoạt động, AOV Ceremony 2025 – sự kiện vinh danh cuối năm dành cho các Creator &#38; Artist của Liên Quân Mobile – chính thức [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/cong-bo-ket-qua-cac-hang-muc-giai-thuong-tai-aov-ceremony-2025/\">CÔNG BỐ KẾT QUẢ CÁC HẠNG MỤC GIẢI THƯỞNG TẠI AOV CEREMONY 2025</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
+      "image_url": "https://picsum.photos/seed/https://lienquan.garena.vn/cong-bo-ket-qua-cac-hang-muc-giai-thuong-tai-aov-ceremony-2025//400/225",
+      "source": "Liên Quân Mobile Official",
+      "source_url": "https://lienquan.garena.vn/rss",
+      "published_at": "2026-01-21T09:39:23Z",
+      "crawled_at": "2026-01-21T10:02:51.530838",
+      "category": "tin tức",
+      "priority": 1
+    },
     {
       "id": "69bcbac16575",
       "title": "QUY TRÌNH CẬP NHẬT PHIÊN BẢN TÂN NIÊN KHỞI THẾ – 21.01.2026",
@@ -1270,19 +1283,6 @@
       "published_at": null,
       "crawled_at": "2025-12-17T16:01:42.132709",
       "category": "tin tức",
-      "priority": 2
-    },
-    {
-      "id": "7eb325c5c768",
-      "title": "T1 và Faker: Từ huyền thoại sống của cả một thế hệ game thủ đến thần tượng của văn hoá đại chúng",
-      "link": "https://gamek.vn/t1-va-faker-tu-huyen-thoai-song-cua-ca-mot-the-he-game-thu-den-than-tuong-cua-van-hoa-dai-chung-178251217200926474.chn",
-      "summary": "VPBank Presents T1 in Vietnam: The Promise Fulfilled  là cơ hội hiếm có để người hâm mộ “chạm gần” hơn với huyền thoại Faker và đội tuyển T1, trực tiếp xem thần tượng thi đấu, lắng nghe những câu chuyện hậu trường chưa từng tiết lộ đồng thời trải nghiệm trọn vẹn không khí sôi động của lễ hội eSports lớn nhất từng tổ chức tại Việt Nam.",
-      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/12/17/photo1765960455899-17659604560141853175981-17659769675811999859876.jpg",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2025-12-17T14:01:41.122190",
-      "category": "esports",
       "priority": 2
     }
   ]
