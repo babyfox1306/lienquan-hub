@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-01-22T08:01:40.000651",
+  "last_updated": "2026-01-22T09:06:30.453283",
   "total_news": 100,
   "news": [
+    {
+      "id": "fab384553f45",
+      "title": "Mở bán Yue hỗn độn thần ma",
+      "link": "https://lienquan.garena.vn/mo-ban-yue-hon-don-than-ma/",
+      "summary": "<p>Thời gian sự kiện: Từ 23.01 đến 13.02. Tham dự sự kiện để có thể nhận Trang phục Yue Hỗn Độn Thần Ma. Để bắt đầu trò chơi, bạn cần chọn 3 trong số các [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/mo-ban-yue-hon-don-than-ma/\">Mở bán Yue hỗn độn thần ma</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
+      "image_url": null,
+      "source": "Liên Quân Mobile Official",
+      "source_url": "https://lienquan.garena.vn/rss",
+      "published_at": "2026-01-22T08:24:48Z",
+      "crawled_at": "2026-01-22T09:06:05.357217",
+      "category": "skin",
+      "priority": 1
+    },
     {
       "id": "21af74eac8a7",
       "title": "CÔNG BỐ KẾT QUẢ CÁC HẠNG MỤC GIẢI THƯỞNG TẠI AOV CEREMONY 2025",
@@ -1269,19 +1282,6 @@
       "source_url": "https://gamek.vn/rss",
       "published_at": null,
       "crawled_at": "2025-12-19T07:02:40.713054",
-      "category": "esports",
-      "priority": 2
-    },
-    {
-      "id": "fc5d9e12e442",
-      "title": "Crossfire: Legends – Dung hòa cả giải trí và thi đấu eSports trong cùng một sản phẩm",
-      "link": "https://gamek.vn/crossfire-legends-dung-hoa-ca-giai-tri-va-thi-dau-esports-trong-cung-mot-san-pham-178251218170528366.chn",
-      "summary": "Crossfire: Legends đã kết hợp vô cùng hài hòa chất giải trí cùng bạn bè và thi đấu eSports hướng đến đẳng cấp chuyên nghiệp.",
-      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/12/18/photo1766045931244-17660459313581755155316-17660523298751695404137.jpg",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2025-12-18T12:01:40.248434",
       "category": "esports",
       "priority": 2
     }
