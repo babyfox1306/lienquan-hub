@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-01-22T09:06:30.453283",
+  "last_updated": "2026-01-22T11:03:55.477029",
   "total_news": 100,
   "news": [
+    {
+      "id": "53a42b657714",
+      "title": "TIÊU NHANH NẠP HỜI",
+      "link": "https://lienquan.garena.vn/tieu-nhanh-nap-hoi/",
+      "summary": "<p>Thời gian sự kiện: từ 10h ngày 23.01 – 23h59 ngày 31.01 1.      Bạn còn càng ít quân huy (không tính quân huy hữu hạn), mức ưu đãi nạp quân huy của bạn sẽ càng [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/tieu-nhanh-nap-hoi/\">TIÊU NHANH NẠP HỜI</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
+      "image_url": null,
+      "source": "Liên Quân Mobile Official",
+      "source_url": "https://lienquan.garena.vn/rss",
+      "published_at": "2026-01-22T10:24:14Z",
+      "crawled_at": "2026-01-22T11:03:31.033178",
+      "category": "tin tức",
+      "priority": 1
+    },
     {
       "id": "fab384553f45",
       "title": "Mở bán Yue hỗn độn thần ma",
@@ -1269,19 +1282,6 @@
       "source_url": "https://gamek.vn/rss",
       "published_at": null,
       "crawled_at": "2025-12-19T09:02:49.070571",
-      "category": "esports",
-      "priority": 2
-    },
-    {
-      "id": "a36e6d9c2bca",
-      "title": "Vì sao VPBank đưa T1 về Việt Nam? Khi eSports là điểm kết nối thế hệ khách hàng mới",
-      "link": "https://gamek.vn/vi-sao-vpbank-dua-t1-ve-viet-nam-khi-esports-la-diem-ket-noi-the-he-khach-hang-moi-178251219130551884.chn",
-      "summary": "Việc đưa toàn bộ đội hình T1 cùng huyền thoại Faker đến Hà Nội là dấu ấn lớn để VPBank tiếp cận và chinh phục hơn 30 triệu người chơi Liên Minh Huyền Thoại tại Việt Nam. Từ K-Pop đến eSports, VPBank đang chứng minh họ hiểu người trẻ, sống cùng văn hóa đại chúng và kiến tạo trải nghiệm chưa từng có.",
-      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/12/19/photo1766115597733-17661155979131422802017-17661243534861954777932.jpg",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2025-12-19T07:02:40.713054",
       "category": "esports",
       "priority": 2
     }
