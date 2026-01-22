@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-22T12:02:03.546580",
+  "last_updated": "2026-01-22T13:17:00.560038",
   "total_news": 100,
   "news": [
     {
@@ -13,6 +13,19 @@
       "published_at": "2026-01-22T10:24:14Z",
       "crawled_at": "2026-01-22T11:03:31.033178",
       "category": "tin tức",
+      "priority": 1
+    },
+    {
+      "id": "b001aa117912",
+      "title": "ĐIỀU CHỈNH GIỮA MÙA PB TÂN NIÊN KHỞI THẾ – 23.01.2026",
+      "link": "https://lienquan.garena.vn/dieu-chinh-giua-mua-pb-tan-nien-khoi-the-23-01-2026/",
+      "summary": "<p>Xin chào các Kiện Tướng, Liên Quân Mobile sẽ tiến hành cập nhật không gián đoạn cho máy chủ chính thức vào ngày 23/01/2026. Trong thời gian quy định, các Kiện tướng có thể tự chọn thời điểm [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/dieu-chinh-giua-mua-pb-tan-nien-khoi-the-23-01-2026/\">ĐIỀU CHỈNH GIỮA MÙA PB TÂN NIÊN KHỞI THẾ – 23.01.2026</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
+      "image_url": null,
+      "source": "Liên Quân Mobile Official",
+      "source_url": "https://lienquan.garena.vn/rss",
+      "published_at": "2026-01-22T09:17:07Z",
+      "crawled_at": "2026-01-22T13:16:41.299207",
+      "category": "tướng",
       "priority": 1
     },
     {
@@ -1270,19 +1283,6 @@
       "published_at": null,
       "crawled_at": "2025-12-19T13:11:50.189436",
       "category": "tin tức",
-      "priority": 2
-    },
-    {
-      "id": "064b69b0ba7f",
-      "title": "Cụ bà 92 tuổi vô địch giải đấu game đối kháng, người trẻ chỉ biết sững sờ thán phục",
-      "link": "https://gamek.vn/cu-ba-92-tuoi-vo-dich-giai-dau-game-doi-khang-nguoi-tre-chi-biet-sung-so-than-phuc-178251216094738572.chn",
-      "summary": "Tuổi tác đôi khi không thể là thước đo năng lực của các game thủ.",
-      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/12/18/avatar1766024344195-17660243450861361897787.png",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2025-12-19T09:02:49.070571",
-      "category": "esports",
       "priority": 2
     }
   ]
