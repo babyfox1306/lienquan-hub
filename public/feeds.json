@@ -6,31 +6,6 @@
       "type": "channel"
     },
     {
-      "id": "UCpd1Gf-SZjc_5ce5vVq5FTg",
-      "name": "Mobile MOBA Việt",
-      "type": "channel"
-    },
-    {
-      "id": "UCy19QXxbCHh8qVVCbuGk-ig",
-      "name": "Garena RoV Thailand",
-      "type": "channel"
-    },
-    {
-      "id": "UCykFSnImGNa-5DABblw7K-w",
-      "name": "Gcaothu CHANNEL",
-      "type": "channel"
-    },
-    {
-      "id": "UCAml1Hqu4LW36B3yEtQg8Fw",
-      "name": "FUNNY GAMING TV",
-      "type": "channel"
-    },
-    {
-      "id": "UC3QLI0FHwACCaa91Xdpam2A",
-      "name": "Trải Nghiệm Game",
-      "type": "channel"
-    },
-    {
       "id": "UCIzzawIg4eCPgZggwFzEQbQ",
       "name": "Garena Liên Quân Mobile",
       "type": "channel"
@@ -41,63 +16,88 @@
       "type": "channel"
     },
     {
-      "id": "UCeMjhoCCvujpObnt6yeZeNg",
-      "name": "Garena 傳說對決",
-      "type": "channel"
-    },
-    {
-      "id": "UCyqjmx1kcZknycssiIhFQKw",
-      "name": "VuxGaming",
-      "type": "channel"
-    },
-    {
-      "id": "UCpQ52533EsOa5k-dQSmD1jw",
-      "name": "Ha Le Quyen",
-      "type": "channel"
-    },
-    {
-      "id": "UC1ysb__ddApp3PlDva5NAVw",
-      "name": "Top 1 Liliana",
-      "type": "channel"
-    },
-    {
-      "id": "UCLmVT2XmCej720HFtG7mwSQ",
-      "name": "NTD LQ",
-      "type": "channel"
-    },
-    {
-      "id": "UCB7b1Gb6yM-RyY0YW1HY6pA",
-      "name": "Tainzo",
-      "type": "channel"
-    },
-    {
-      "id": "UCIAVu192aQxVUginIC4bZLw",
-      "name": "NTK Liên Quân",
-      "type": "channel"
-    },
-    {
-      "id": "UCVVoMk8UNpVIdo5BgszmLnw",
-      "name": "Học Viện Liên Quân",
-      "type": "channel"
-    },
-    {
       "id": "UCMHSTFMGp-k4Z0kG-CfMSWg",
       "name": "HTT GAMER LIÊN QUÂN MOBILE",
       "type": "channel"
     },
     {
-      "id": "UCaokzdz-Q_tLcbhDG5OAjUQ",
-      "name": "Đánh Giày",
+      "id": "UCYfv7UcC1KOsvMD3BVVwoLg",
+      "name": "Esports - Garena Liên Quân Mobile",
       "type": "channel"
     },
     {
-      "id": "UCbRugPHs-2i48MbID-AnEVQ",
-      "name": "Htt Gamer Liên Quân TV",
+      "id": "UCgbMglNu16CgtxKRg3LrpjQ",
+      "name": "CBNN Liên Quân Mobile",
       "type": "channel"
     },
     {
-      "id": "UCWXXFvwmcOHxEk6IlhW1BhA",
-      "name": "Phuc Ram",
+      "id": "UCF53FEXsAPhaZDaqVBFwFkA",
+      "name": "RGC Liên Quân Mobile",
+      "type": "channel"
+    },
+    {
+      "id": "UC1io3o-PJjqTW-C2JPExjaA",
+      "name": "NOOB LIÊN QUÂN MOBILE",
+      "type": "channel"
+    },
+    {
+      "id": "UC92yhXD5hj0xvDbUj3d9aJw",
+      "name": "Liên Quân Mobile - Topic",
+      "type": "channel"
+    },
+    {
+      "id": "UCBZwYlOLdOl0G3Vji-xnwmw",
+      "name": "Liên quân Mobile",
+      "type": "channel"
+    },
+    {
+      "id": "UCDaTEZ7p34MZ2E46r_ydJmg",
+      "name": "GKL8 HIGHLIGHT LIÊN QUÂN MOBILE",
+      "type": "channel"
+    },
+    {
+      "id": "UCaaylrdGhBZov0HKJ8P6KsA",
+      "name": "Garena Liên Quân Mobile",
+      "type": "channel"
+    },
+    {
+      "id": "UCg1JLR8n5gapej24pDjdGng",
+      "name": "Garena liên quân mobile",
+      "type": "channel"
+    },
+    {
+      "id": "UCn1vIM_0pyfwcFWsnpCZ7vQ",
+      "name": "M8 Arthur Liên Quân Mobile",
+      "type": "channel"
+    },
+    {
+      "id": "UCWf2h2oDJUZ1NWAf-8Fcb9A",
+      "name": "Liên Quân Mobile eSports - Garena",
+      "type": "channel"
+    },
+    {
+      "id": "UCg83gfKs1D8ptsYmmiyO7Ig",
+      "name": "APC - Liên Quân Mobile Phan Châu Trinh",
+      "type": "channel"
+    },
+    {
+      "id": "UC7c_ffV_b1TgTt5xyuBpqmw",
+      "name": "Garena Liên Quân Mobile",
+      "type": "channel"
+    },
+    {
+      "id": "UC6_-E6Lek7_1TMt6927ITOQ",
+      "name": "NaKa Liên Quân Mobile",
+      "type": "channel"
+    },
+    {
+      "id": "UCUypu6HW1VvNuEkcdAgjOKQ",
+      "name": "Garena Liên Quân Mobile",
+      "type": "channel"
+    },
+    {
+      "id": "UCyjlxkSwTbQcV2154pyH_Bg",
+      "name": "LIÊN QUÂN (mobile)",
       "type": "channel"
     }
   ],
