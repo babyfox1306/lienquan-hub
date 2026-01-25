@@ -81,11 +81,6 @@
       "type": "channel"
     },
     {
-      "id": "UCMHSTFMGp-k4Z0kG-CfMSWg",
-      "name": "HTT GAMER LIÊN QUÂN MOBILE",
-      "type": "channel"
-    },
-    {
       "id": "UCaokzdz-Q_tLcbhDG5OAjUQ",
       "name": "Đánh Giày",
       "type": "channel"
@@ -98,6 +93,11 @@
     {
       "id": "UCdRY5czHAF_Ms15oJpfUM7A",
       "name": "Yue Bán Fans",
+      "type": "channel"
+    },
+    {
+      "id": "UCYfv7UcC1KOsvMD3BVVwoLg",
+      "name": "Esports - Garena Liên Quân Mobile",
       "type": "channel"
     }
   ],
