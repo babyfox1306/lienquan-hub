@@ -61,18 +61,13 @@
       "type": "channel"
     },
     {
-      "id": "UCv-kFfXc1LseT-mnYixJFsQ",
-      "name": "Ếch AOV",
+      "id": "UC1ysb__ddApp3PlDva5NAVw",
+      "name": "Top 1 Liliana",
       "type": "channel"
     },
     {
       "id": "UCMHSTFMGp-k4Z0kG-CfMSWg",
       "name": "HTT GAMER LIÊN QUÂN MOBILE",
-      "type": "channel"
-    },
-    {
-      "id": "UCaokzdz-Q_tLcbhDG5OAjUQ",
-      "name": "Đánh Giày",
       "type": "channel"
     },
     {
@@ -98,6 +93,11 @@
     {
       "id": "UCgbMglNu16CgtxKRg3LrpjQ",
       "name": "CBNN Liên Quân Mobile",
+      "type": "channel"
+    },
+    {
+      "id": "UCkFXkptfsPHqcOwM5dPwkWQ",
+      "name": "Arena of Valor Türkiye",
       "type": "channel"
     }
   ],
