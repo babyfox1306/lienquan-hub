@@ -21,11 +21,6 @@
       "type": "channel"
     },
     {
-      "id": "UCAml1Hqu4LW36B3yEtQg8Fw",
-      "name": "FUNNY GAMING TV",
-      "type": "channel"
-    },
-    {
       "id": "UC3QLI0FHwACCaa91Xdpam2A",
       "name": "Trải Nghiệm Game",
       "type": "channel"
@@ -66,18 +61,8 @@
       "type": "channel"
     },
     {
-      "id": "UCpQ52533EsOa5k-dQSmD1jw",
-      "name": "Ha Le Quyen",
-      "type": "channel"
-    },
-    {
-      "id": "UC1ysb__ddApp3PlDva5NAVw",
-      "name": "Top 1 Liliana",
-      "type": "channel"
-    },
-    {
-      "id": "UCLmVT2XmCej720HFtG7mwSQ",
-      "name": "NTD LQ",
+      "id": "UCv-kFfXc1LseT-mnYixJFsQ",
+      "name": "Ếch AOV",
       "type": "channel"
     },
     {
@@ -98,6 +83,21 @@
     {
       "id": "UCKjyrROfuUjQ8EHpjFHgjRA",
       "name": "Ugi Desniana",
+      "type": "channel"
+    },
+    {
+      "id": "UCJAd1REXSJbxzD7uJcrYcow",
+      "name": "【公式】アリーナ・オブ・ヴァラー（アリヴァラ）",
+      "type": "channel"
+    },
+    {
+      "id": "UC9IMa50eipvZXSjynFJrc0w",
+      "name": "AOV Global Collection",
+      "type": "channel"
+    },
+    {
+      "id": "UCgbMglNu16CgtxKRg3LrpjQ",
+      "name": "CBNN Liên Quân Mobile",
       "type": "channel"
     }
   ],
