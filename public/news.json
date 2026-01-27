@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-01-27T04:18:43.456881",
+  "last_updated": "2026-01-27T05:06:49.567069",
   "total_news": 100,
   "news": [
+    {
+      "id": "25ee40017eab",
+      "title": "CHUỖI SỰ KIỆN CỘNG ĐỒNG CHÀO XUÂN CHÍNH THỨC KHỞI ĐỘNG 21/02 – 15/03",
+      "link": "https://lienquan.garena.vn/chuoi-su-kien-cong-dong-chao-xuan-chinh-thuc-khoi-dong-21-02-15-03/",
+      "summary": "<p>Xin chào các Kiện tướng,  Ngay sau kỳ nghỉ Tết Nguyên Đán, Hội Đồng Liên Quân sẽ mang đến Chuỗi Sự Kiện Cộng Đồng Chào Xuân 2026 – hành trình kết nối và bùng nổ [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/chuoi-su-kien-cong-dong-chao-xuan-chinh-thuc-khoi-dong-21-02-15-03/\">CHUỖI SỰ KIỆN CỘNG ĐỒNG CHÀO XUÂN CHÍNH THỨC KHỞI ĐỘNG 21/02 &#8211; 15/03</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
+      "image_url": null,
+      "source": "Liên Quân Mobile Official",
+      "source_url": "https://lienquan.garena.vn/rss",
+      "published_at": "2026-01-27T04:38:38Z",
+      "crawled_at": "2026-01-27T05:06:28.752954",
+      "category": "tướng",
+      "priority": 1
+    },
     {
       "id": "38d3b8832761",
       "title": "MỞ BÁN SỔ SỨ MỆNH 86",
@@ -1269,19 +1282,6 @@
       "source_url": "https://gamek.vn/rss",
       "published_at": null,
       "crawled_at": "2025-12-23T06:01:34.961152",
-      "category": "esports",
-      "priority": 2
-    },
-    {
-      "id": "ed5617f16c9a",
-      "title": "Choáng ngợp sân khấu đại tiệc eSports VPBank Presents T1 in Vietnam: The Promise Fulfilled",
-      "link": "https://gamek.vn/choang-ngop-san-khau-dai-tiec-esports-vpbank-presents-t1-in-vietnam-the-promise-fulfilled-178251220204818763.chn",
-      "summary": "Sân khấu sự kiện VPBank Presents T1 in Vietnam: The Promise Fulfilled đang được hoàn thiện những bước cuối cùng, hé lộ quy mô chưa từng có của một sự kiện eSports tại Việt Nam.",
-      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/12/20/avatar1766237912472-17662379130361434250233.png",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2025-12-20T14:01:29.908002",
       "category": "esports",
       "priority": 2
     }
