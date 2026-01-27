@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-01-27T02:42:14.419538",
+  "last_updated": "2026-01-27T03:31:10.593935",
   "total_news": 100,
   "news": [
+    {
+      "id": "38d3b8832761",
+      "title": "MỞ BÁN SỔ SỨ MỆNH 86",
+      "link": "https://lienquan.garena.vn/mo-ban-so-su-menh-86/",
+      "summary": "<p>Xin chào các Kiện Tướng, Chào mừng đến với Sổ Sứ Mệnh mùa 86 &#8211; Reply 2025 Hồi ức SỔ SỨ MỆNH MÙA 86 Các Kiện Tướng có hai lựa chọn tham gia Sổ Sứ [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/mo-ban-so-su-menh-86/\">MỞ BÁN SỔ SỨ MỆNH 86</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
+      "image_url": null,
+      "source": "Liên Quân Mobile Official",
+      "source_url": "https://lienquan.garena.vn/rss",
+      "published_at": "2026-01-27T03:12:57Z",
+      "crawled_at": "2026-01-27T03:30:45.736061",
+      "category": "tướng",
+      "priority": 1
+    },
     {
       "id": "53a42b657714",
       "title": "TIÊU NHANH NẠP HỜI",
@@ -1270,19 +1283,6 @@
       "published_at": null,
       "crawled_at": "2025-12-20T14:01:29.908002",
       "category": "esports",
-      "priority": 2
-    },
-    {
-      "id": "fe611e5d851f",
-      "title": "Chiến thắng áp đảo, Liên Quân Mobile Việt Nam chính thức \"giật vàng\" tại SEA Games 33",
-      "link": "https://gamek.vn/chien-thang-ap-dao-lien-quan-mobile-viet-nam-chinh-thuc-giat-vang-tai-sea-games-33-178251219191453775.chn",
-      "summary": "Liên Quân Việt Nam đã đánh bại người Thái trên chính đất Thái!",
-      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/12/19/avatar1766146843829-1766146844581163553486.png",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2025-12-19T13:11:50.189436",
-      "category": "tin tức",
       "priority": 2
     }
   ]
