@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-27T06:02:09.250571",
+  "last_updated": "2026-01-27T07:06:11.790409",
   "total_news": 100,
   "news": [
     {
@@ -1000,6 +1000,19 @@
       "priority": 5
     },
     {
+      "id": "d729ba3f3298",
+      "title": "Công khai \"hack map\", game thủ Liên Quân khiến cộng đồng phẫn nộ tột cùng",
+      "link": "https://gamek.vn/cong-khai-hack-map-game-thu-lien-quan-khien-cong-dong-phan-no-tot-cung-178260126142757313.chn",
+      "summary": "Hành động của game thủ này thật không thể chấp nhận được.",
+      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2026/1/26/anh-chup-man-hinh-2026-01-26-142529-17694123383301752554065-0-0-364-582-crop-17694221378241424922841.png",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2026-01-27T07:05:51.467205",
+      "category": "tin tức",
+      "priority": 2
+    },
+    {
       "id": "a63d9516162a",
       "title": "EWC 2026 công bố quỹ thưởng kỷ lục cùng danh sách các tựa game tranh tài",
       "link": "https://gamek.vn/ewc-2026-cong-bo-quy-thuong-ky-luc-cung-danh-sach-cac-tua-game-tranh-tai-17826012119380898.chn",
@@ -1269,19 +1282,6 @@
       "source_url": "https://gamek.vn/rss",
       "published_at": null,
       "crawled_at": "2025-12-24T09:03:40.870947",
-      "category": "esports",
-      "priority": 2
-    },
-    {
-      "id": "db3d64a13363",
-      "title": "Cộng đồng game thủ dậy sóng với thẻ tín dụng VPBank phiên bản giới hạn có chữ ký của đội tuyển T1",
-      "link": "https://gamek.vn/cong-dong-game-thu-day-song-voi-the-tin-dung-vpbank-phien-ban-gioi-han-co-chu-ky-cua-doi-tuyen-t1-178251223120541246.chn",
-      "summary": "Lần đầu tiên tại Việt Nam, fan eSports có cơ hội sở hữu một tấm thẻ tín dụng “có một không hai” với đầy đủ bộ chữ ký của đội tuyển huyền thoại thế giới T1. Đây không chỉ là phương tiện thanh toán tiện lợi, mà còn là món quà đặc quyền dành cho những tín đồ gaming, khẳng định đam mê và phong cách trong từng giao dịch.",
-      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/12/23/photo1766459845330-1766459845831303342270-1766466342468491591668.jpg",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2025-12-23T06:01:34.961152",
       "category": "esports",
       "priority": 2
     }
