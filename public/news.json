@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-01-28T05:07:04.829056",
+  "last_updated": "2026-01-28T06:02:48.005797",
   "total_news": 100,
   "news": [
+    {
+      "id": "ee3d85baac10",
+      "title": "VINH DANH TOP LEADER CỘNG ĐỒNG LIÊN QUÂN MOBILE NĂM 2025",
+      "link": "https://lienquan.garena.vn/vinh-danh-top-leader-cong-dong-lien-quan-mobile-nam-2025/",
+      "summary": "<p>Xin chào các Kiện tướng, Năm 2025 đánh dấu sự bùng nổ mạnh mẽ của cộng đồng Liên Quân Mobile trên toàn quốc. Không chỉ sôi động trong game, Liên Quân còn lan tỏa ngoài [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/vinh-danh-top-leader-cong-dong-lien-quan-mobile-nam-2025/\">VINH DANH TOP LEADER CỘNG ĐỒNG LIÊN QUÂN MOBILE NĂM 2025</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
+      "image_url": "https://picsum.photos/seed/https://lienquan.garena.vn/vinh-danh-top-leader-cong-dong-lien-quan-mobile-nam-2025//400/225",
+      "source": "Liên Quân Mobile Official",
+      "source_url": "https://lienquan.garena.vn/rss",
+      "published_at": "2026-01-28T05:09:57Z",
+      "crawled_at": "2026-01-28T06:02:23.365805",
+      "category": "tướng",
+      "priority": 1
+    },
     {
       "id": "25ee40017eab",
       "title": "CHUỖI SỰ KIỆN CỘNG ĐỒNG CHÀO XUÂN CHÍNH THỨC KHỞI ĐỘNG 21/02 – 15/03",
@@ -1269,19 +1282,6 @@
       "source_url": "https://gamek.vn/rss",
       "published_at": null,
       "crawled_at": "2025-12-30T13:13:25.585136",
-      "category": "esports",
-      "priority": 2
-    },
-    {
-      "id": "81d1b2f6ed70",
-      "title": "Khi đi xem T1 mà không biết màn hình này là gì, tôi hỏi AI",
-      "link": "https://gamek.vn/khi-di-xem-t1-ma-khong-biet-man-hinh-nay-la-gi-toi-hoi-ai-178251224154809553.chn",
-      "summary": "Giữa không gian eSports sôi động tại VEC, nơi T1 thi đấu và công nghệ phủ kín mọi góc nhìn, AI trên Galaxy S25 Ultra trở thành cách nhanh nhất để hiểu những gì đang diễn ra trước mắt.",
-      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/12/24/photo1766549361610-1766549361768145257763-1766566091386253571407.jpg",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2025-12-24T09:03:40.870947",
       "category": "esports",
       "priority": 2
     }
