@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-28T07:06:05.101483",
+  "last_updated": "2026-01-28T08:01:52.674614",
   "total_news": 100,
   "news": [
     {
@@ -1013,6 +1013,19 @@
       "priority": 5
     },
     {
+      "id": "af85115e72f0",
+      "title": "LCK tiếp tục khiến chính các đội trong khu vực gặp khó",
+      "link": "https://gamek.vn/lck-tiep-tuc-khien-chinh-cac-doi-trong-khu-vuc-gap-kho-178260128004410296.chn",
+      "summary": "LCK Roadshow có lợi cho giải đấu nhưng khiến chính fan Hàn bức xúc và có thể khiến các đội đang thi đấu gặp khó.",
+      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2026/1/28/lck-4-1769583548121861001096-0-0-750-1200-crop-17695837460391777534312.png",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2026-01-28T08:01:21.963996",
+      "category": "esports",
+      "priority": 2
+    },
+    {
       "id": "d729ba3f3298",
       "title": "Công khai \"hack map\", game thủ Liên Quân khiến cộng đồng phẫn nộ tột cùng",
       "link": "https://gamek.vn/cong-khai-hack-map-game-thu-lien-quan-khien-cong-dong-phan-no-tot-cung-178260126142757313.chn",
@@ -1270,19 +1283,6 @@
       "published_at": null,
       "crawled_at": "2025-12-31T07:03:13.690169",
       "category": "tin tức",
-      "priority": 2
-    },
-    {
-      "id": "401e24ec997b",
-      "title": "Record of Ragnarok phiên bản nữ: Khi 32 'ác nữ' lịch sử đại chiến giành điều ước trong giải đấu đẫm máu",
-      "link": "https://gamek.vn/record-of-ragnarok-phien-ban-nu-khi-32-ac-nu-lich-su-dai-chien-gianh-dieu-uoc-trong-giai-dau-dam-mau-178251229210727148.chn",
-      "summary": "Được nhào nặn bởi \"cha đẻ\" của siêu phẩm đấu trí Kakegurui, The War of Greedy Witches không chỉ là một giải đấu võ đài thông thường mà còn là cuộc chiến tâm lý cực đoan.",
-      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/12/29/avatar1767017155881-17670171562191165562921.jpg",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2025-12-30T13:13:25.585136",
-      "category": "esports",
       "priority": 2
     }
   ]
