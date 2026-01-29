@@ -66,6 +66,11 @@
       "type": "channel"
     },
     {
+      "id": "UCPOZEn6lzysXJaN0VmaH30A",
+      "name": "Kronos Gaming Arena Of Valor",
+      "type": "channel"
+    },
+    {
       "id": "UCVVoMk8UNpVIdo5BgszmLnw",
       "name": "Học Viện Liên Quân",
       "type": "channel"
@@ -73,11 +78,6 @@
     {
       "id": "UCMHSTFMGp-k4Z0kG-CfMSWg",
       "name": "HTT GAMER LIÊN QUÂN MOBILE",
-      "type": "channel"
-    },
-    {
-      "id": "UCaokzdz-Q_tLcbhDG5OAjUQ",
-      "name": "Đánh Giày",
       "type": "channel"
     },
     {
@@ -91,13 +91,13 @@
       "type": "channel"
     },
     {
-      "id": "UCJAd1REXSJbxzD7uJcrYcow",
-      "name": "【公式】アリーナ・オブ・ヴァラー（アリヴァラ）",
+      "id": "UCvQVuhijmaQVDmX27p2-T9w",
+      "name": "RumblyTV - Arena of Valor",
       "type": "channel"
     },
     {
-      "id": "UC9IMa50eipvZXSjynFJrc0w",
-      "name": "AOV Global Collection",
+      "id": "UCJAd1REXSJbxzD7uJcrYcow",
+      "name": "【公式】アリーナ・オブ・ヴァラー（アリヴァラ）",
       "type": "channel"
     }
   ],
