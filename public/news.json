@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-29T14:13:00.406871",
+  "last_updated": "2026-01-29T15:09:51.094126",
   "total_news": 100,
   "news": [
     {
@@ -1013,6 +1013,19 @@
       "priority": 5
     },
     {
+      "id": "a4eaa38e254f",
+      "title": "Ngày hội game Việt - Vietnam GameVerse 2026 có sự thay đổi mang tính cột mốc: Giải đấu Esports chuyên nghiệp chính thức xuất hiện",
+      "link": "https://gamek.vn/ngay-hoi-game-viet-nam-vietnam-gameverse-2026-co-su-thay-doi-mang-tinh-cot-moc-san-choi-esports-chinh-thuc-gop-mat-178260129212534381.chn",
+      "summary": "Những thông tin chính thức về ngày hội game Việt Nam - Vietnam GameVerse 2026.",
+      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2026/1/29/avatar1769696466420-1769696468392700937561.png",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2026-01-29T15:09:28.939847",
+      "category": "esports",
+      "priority": 2
+    },
+    {
       "id": "d9c9a2598e65",
       "title": "Đầu năm mới, nữ trọng tài gợi cảm nhất Esports Việt khiến cộng đồng \"không thể rời mắt\"",
       "link": "https://gamek.vn/dau-nam-moi-nu-trong-tai-khoi-cam-nhat-esports-viet-khien-cong-dong-khong-the-roi-mat-178260128165138628.chn",
@@ -1270,19 +1283,6 @@
       "published_at": null,
       "crawled_at": "2026-01-01T03:31:25.108440",
       "category": "skin",
-      "priority": 2
-    },
-    {
-      "id": "bb152b346e98",
-      "title": "Giải đấu đầu tiên chi 100 triệu tiền thưởng, Tiếu Ngạo VTC chơi lớn, khơi hào quang cộng đồng",
-      "link": "https://gamek.vn/giai-dau-dau-tien-chi-100-trieu-tien-thuong-tieu-ngao-vtc-choi-lon-khoi-hao-quang-cong-dong-178251231155435882.chn",
-      "summary": "Tiếu Ngạo Giang Hồ VTC nhanh chóng hiện thực hóa cam kết với cộng đồng bằng việc khởi động giải đấu kỹ năng 3vs3 Nam Quốc Anh Hùng ngay sau khi ra mắt với tổng giá trị quà tặng lên đến 100 triệu đồng.",
-      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/12/31/photo1767156510219-1767156510351409697749-17671712777791893204755.jpg",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2025-12-31T10:01:17.998004",
-      "category": "esports",
       "priority": 2
     }
   ]
