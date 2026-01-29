@@ -21,11 +21,6 @@
       "type": "channel"
     },
     {
-      "id": "UCAml1Hqu4LW36B3yEtQg8Fw",
-      "name": "FUNNY GAMING TV",
-      "type": "channel"
-    },
-    {
       "id": "UC3QLI0FHwACCaa91Xdpam2A",
       "name": "Trải Nghiệm Game",
       "type": "channel"
@@ -46,33 +41,28 @@
       "type": "channel"
     },
     {
+      "id": "UCgYkGvtBuY4onYm2Eh61zwQ",
+      "name": "Arena of Valor",
+      "type": "channel"
+    },
+    {
+      "id": "UCBVBGNrag1o-V08vwYzoIwg",
+      "name": "Garena AOV Indonesia",
+      "type": "channel"
+    },
+    {
       "id": "UCyqjmx1kcZknycssiIhFQKw",
       "name": "VuxGaming",
       "type": "channel"
     },
     {
-      "id": "UCpQ52533EsOa5k-dQSmD1jw",
-      "name": "Ha Le Quyen",
+      "id": "UCDk4tfW1Iku9-0S7L5cZP4A",
+      "name": "Arena of Valor - Topic",
       "type": "channel"
     },
     {
       "id": "UC1ysb__ddApp3PlDva5NAVw",
       "name": "Top 1 Liliana",
-      "type": "channel"
-    },
-    {
-      "id": "UCLmVT2XmCej720HFtG7mwSQ",
-      "name": "NTD LQ",
-      "type": "channel"
-    },
-    {
-      "id": "UCB7b1Gb6yM-RyY0YW1HY6pA",
-      "name": "Tainzo",
-      "type": "channel"
-    },
-    {
-      "id": "UCIAVu192aQxVUginIC4bZLw",
-      "name": "NTK Liên Quân",
       "type": "channel"
     },
     {
@@ -96,8 +86,18 @@
       "type": "channel"
     },
     {
-      "id": "UCYfv7UcC1KOsvMD3BVVwoLg",
-      "name": "Esports - Garena Liên Quân Mobile",
+      "id": "UCKjyrROfuUjQ8EHpjFHgjRA",
+      "name": "Ugi Desniana",
+      "type": "channel"
+    },
+    {
+      "id": "UCJAd1REXSJbxzD7uJcrYcow",
+      "name": "【公式】アリーナ・オブ・ヴァラー（アリヴァラ）",
+      "type": "channel"
+    },
+    {
+      "id": "UC9IMa50eipvZXSjynFJrc0w",
+      "name": "AOV Global Collection",
       "type": "channel"
     }
   ],
