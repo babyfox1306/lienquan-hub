@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-31T16:07:10.408803",
+  "last_updated": "2026-01-31T17:08:45.863156",
   "total_news": 100,
   "news": [
     {
@@ -1013,6 +1013,19 @@
       "priority": 5
     },
     {
+      "id": "127119d704c4",
+      "title": "FC Online Year-End Gala 2025 - “Shine Your Journey – Build Our Greatness”",
+      "link": "https://gamek.vn/fc-online-year-end-gala-2025-shine-your-journey-build-our-greatness-178260131231724734.chn",
+      "summary": "FC Online tổ chức Buổi lễ vinh danh và trao giải thường niên chính thức diễn ra vào ngày\n31/01/2026 tại TP. Hồ Chí Minh.",
+      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2026/1/31/avatar1769876072501-1769876073550945616149.png",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2026-01-31T17:03:55.239044",
+      "category": "meta",
+      "priority": 2
+    },
+    {
       "id": "a4eaa38e254f",
       "title": "Ngày hội game Việt - Vietnam GameVerse 2026 có sự thay đổi mang tính cột mốc: Giải đấu Esports chuyên nghiệp chính thức xuất hiện",
       "link": "https://gamek.vn/ngay-hoi-game-viet-nam-vietnam-gameverse-2026-co-su-thay-doi-mang-tinh-cot-moc-san-choi-esports-chinh-thuc-gop-mat-178260129212534381.chn",
@@ -1270,19 +1283,6 @@
       "published_at": null,
       "crawled_at": "2026-01-02T17:01:56.112010",
       "category": "esports",
-      "priority": 2
-    },
-    {
-      "id": "e864d78f1315",
-      "title": "Kỷ niệm 1 năm ra mắt, Where Winds Meet tung luôn bộ skin trị giá 1 tỷ khiến fan choáng váng",
-      "link": "https://gamek.vn/ky-niem-1-nam-ra-mat-where-winds-meet-tung-luon-bo-skin-tri-gia-1-ty-khien-fan-choang-vang-178251231094759692.chn",
-      "summary": "Mức giá để sở hữu bộ skin này là quá... \"chát\".",
-      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2025/12/31/photo-1767148749504-1767148750313523149622-124-0-735-978-crop-17671589906671295413769.png",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2026-01-01T03:31:25.108440",
-      "category": "skin",
       "priority": 2
     }
   ]
