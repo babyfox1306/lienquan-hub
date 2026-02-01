@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-01T11:07:58.547010",
+  "last_updated": "2026-02-01T12:06:19.881146",
   "total_news": 100,
   "news": [
     {
@@ -1013,6 +1013,19 @@
       "priority": 5
     },
     {
+      "id": "aa8b3fcaba5c",
+      "title": "Cách những tuyển thủ nữ Liên Quân Mobile Việt Nam 'chiến đấu' vì đam mê của mình:",
+      "link": "https://gamek.vn/cach-nhung-tuyen-thu-nu-lien-quan-mobile-viet-nam-chien-dau-vi-dam-me-cua-minh-178260201184132541.chn",
+      "summary": "13 trận toàn thắng với tỉ lệ tuyệt đối tại SEA Games 33 không chỉ là một kỷ lục vô tiền khoáng hậu. Đó là lời khẳng định đanh thép của những cô gái mang tâm thế",
+      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2026/2/1/avatar1769945643059-17699456437811834195240.jpg",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2026-02-01T12:01:32.749875",
+      "category": "tin tức",
+      "priority": 2
+    },
+    {
       "id": "127119d704c4",
       "title": "FC Online Year-End Gala 2025 - “Shine Your Journey – Build Our Greatness”",
       "link": "https://gamek.vn/fc-online-year-end-gala-2025-shine-your-journey-build-our-greatness-178260131231724734.chn",
@@ -1270,19 +1283,6 @@
       "published_at": null,
       "crawled_at": "2026-01-07T05:05:13.097899",
       "category": "tin tức",
-      "priority": 2
-    },
-    {
-      "id": "4bc797ab51a0",
-      "title": "Khán giả soi ra loạt đãi ngộ dành cho Faker nhưng có một nhân vật sẽ phải chịu áp lực cực lớn",
-      "link": "https://gamek.vn/khan-gia-soi-ra-loat-dai-ngo-danh-cho-faker-nhung-co-mot-nhan-vat-se-phai-chiu-ap-luc-cuc-lon-178260102224044624.chn",
-      "summary": "Faker đang ở một tầm vóc có thể nói là \"không tưởng\" với một tuyển thủ Esports nhưng lại dễ khiến một nhân vật khác gặp áp lực.",
-      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2026/1/2/avatar1767371070883-17673710712961118981206.png",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2026-01-02T17:01:56.112010",
-      "category": "esports",
       "priority": 2
     }
   ]
