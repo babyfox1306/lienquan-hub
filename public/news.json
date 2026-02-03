@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-02-03T10:14:47.931462",
+  "last_updated": "2026-02-03T11:15:25.489262",
   "total_news": 100,
   "news": [
+    {
+      "id": "010196e6237d",
+      "title": "ĐIỀU CHỈNH GIỮA MÙA PB TÂN NIÊN KHỞI THẾ – 05.02.2026",
+      "link": "https://lienquan.garena.vn/dieu-chinh-giua-mua-pb-tan-nien-khoi-the-05-02-2026/",
+      "summary": "<p>Xin chào các Kiện Tướng, Liên Quân Mobile sẽ tiến hành cập nhật không gián đoạn cho máy chủ chính thức vào ngày 05/02/2026. Trong thời gian quy định, các Kiện tướng có thể tự chọn thời điểm [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/dieu-chinh-giua-mua-pb-tan-nien-khoi-the-05-02-2026/\">ĐIỀU CHỈNH GIỮA MÙA PB TÂN NIÊN KHỞI THẾ – 05.02.2026</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
+      "image_url": null,
+      "source": "Liên Quân Mobile Official",
+      "source_url": "https://lienquan.garena.vn/rss",
+      "published_at": "2026-02-03T10:46:55Z",
+      "crawled_at": "2026-02-03T11:10:35.353453",
+      "category": "tướng",
+      "priority": 1
+    },
     {
       "id": "ee3d85baac10",
       "title": "VINH DANH TOP LEADER CỘNG ĐỒNG LIÊN QUÂN MOBILE NĂM 2025",
@@ -1270,19 +1283,6 @@
       "published_at": null,
       "crawled_at": "2026-01-10T10:01:21.558321",
       "category": "tin tức",
-      "priority": 2
-    },
-    {
-      "id": "bdba08904306",
-      "title": "Ra mắt skin mới, tựa game này bất ngờ gặp \"biến cố\", người chơi phản ứng mạnh mẽ vì lý do khó đỡ",
-      "link": "https://gamek.vn/ra-mat-skin-moi-tua-game-nay-bat-ngo-gap-bien-co-nguoi-choi-phan-ung-manh-me-vi-ly-do-kho-do-178260108101944564.chn",
-      "summary": "Đây có lẽ cũng là bài học mà các nhà phát hành game cần rút ra kinh nghiệm sau lần này.",
-      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2026/1/9/avatar1767929682387-1767929682666242108968.png",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2026-01-10T03:28:03.755848",
-      "category": "skin",
       "priority": 2
     }
   ]

@@ -6,8 +6,23 @@
       "type": "channel"
     },
     {
+      "id": "UCpd1Gf-SZjc_5ce5vVq5FTg",
+      "name": "Mobile MOBA Việt",
+      "type": "channel"
+    },
+    {
       "id": "UCy19QXxbCHh8qVVCbuGk-ig",
       "name": "Garena RoV Thailand",
+      "type": "channel"
+    },
+    {
+      "id": "UCykFSnImGNa-5DABblw7K-w",
+      "name": "Gcaothu CHANNEL",
+      "type": "channel"
+    },
+    {
+      "id": "UC3QLI0FHwACCaa91Xdpam2A",
+      "name": "Trải Nghiệm Game",
       "type": "channel"
     },
     {
@@ -36,13 +51,38 @@
       "type": "channel"
     },
     {
+      "id": "UCyqjmx1kcZknycssiIhFQKw",
+      "name": "VuxGaming",
+      "type": "channel"
+    },
+    {
       "id": "UCDk4tfW1Iku9-0S7L5cZP4A",
       "name": "Arena of Valor - Topic",
       "type": "channel"
     },
     {
+      "id": "UCVVoMk8UNpVIdo5BgszmLnw",
+      "name": "Học Viện Liên Quân",
+      "type": "channel"
+    },
+    {
+      "id": "UCMHSTFMGp-k4Z0kG-CfMSWg",
+      "name": "HTT GAMER LIÊN QUÂN MOBILE",
+      "type": "channel"
+    },
+    {
+      "id": "UCbRugPHs-2i48MbID-AnEVQ",
+      "name": "Htt Gamer Liên Quân TV",
+      "type": "channel"
+    },
+    {
       "id": "UCKjyrROfuUjQ8EHpjFHgjRA",
       "name": "Ugi Desniana",
+      "type": "channel"
+    },
+    {
+      "id": "UCYfv7UcC1KOsvMD3BVVwoLg",
+      "name": "Esports - Garena Liên Quân Mobile",
       "type": "channel"
     },
     {
@@ -58,46 +98,6 @@
     {
       "id": "UCgbMglNu16CgtxKRg3LrpjQ",
       "name": "CBNN Liên Quân Mobile",
-      "type": "channel"
-    },
-    {
-      "id": "UCkFXkptfsPHqcOwM5dPwkWQ",
-      "name": "Arena of Valor Türkiye",
-      "type": "channel"
-    },
-    {
-      "id": "UCtv7FcH7l5smWLI6PYzfmfA",
-      "name": "ANW Soundtrack",
-      "type": "channel"
-    },
-    {
-      "id": "UC5LejsD5o-0rp8q7xiat9Rg",
-      "name": "Arena of Valor Bangladesh ",
-      "type": "channel"
-    },
-    {
-      "id": "UCPOUZYvN2RvYPOdXJIjQ-Ug",
-      "name": "Arena of Valor Brasil",
-      "type": "channel"
-    },
-    {
-      "id": "UC1Q3cPFjggqrnm-gF44_OBw",
-      "name": "Valor Series",
-      "type": "channel"
-    },
-    {
-      "id": "UCt0QMnAwX4J4JUEcOTMqVfg",
-      "name": "Arena of Valor Arabia",
-      "type": "channel"
-    },
-    {
-      "id": "UCKaxdSWCdWh9Ex984uoz7YA",
-      "name": "ESL Arena of Valor",
-      "type": "channel"
-    },
-    {
-      "id": "UCn6Tc8dXQQtweXs-oJsGOkA",
-      "name": "Arena of Valor Europe",
       "type": "channel"
     }
   ],
