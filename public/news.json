@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-03T08:11:30.853927",
+  "last_updated": "2026-02-03T09:14:42.635353",
   "total_news": 100,
   "news": [
     {
@@ -1013,6 +1013,19 @@
       "priority": 5
     },
     {
+      "id": "8daf90dec0db",
+      "title": "Đối thủ của Gia Cát Lượng gánh nỗi oan khuất nghìn năm không rửa sạch",
+      "link": "https://gamek.vn/doi-thu-cua-gia-cat-luong-ganh-noi-oan-khuat-nghin-nam-khong-rua-sach-178260202113917689.chn",
+      "summary": "Ông là vị tướng có tài năng quân sự kiệt xuất, hào hoa, cởi mở, khí phách hơn người nhưng nghìn năm qua mang tiếng xấu là kẻ hẹp hòi, luôn đố kỵ với Gia Cát Lượng.",
+      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2026/2/2/avatar1770007028236-1770007028756788763261.jpg",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2026-02-03T09:09:53.915242",
+      "category": "tướng",
+      "priority": 2
+    },
+    {
       "id": "e2ea7bb4d68d",
       "title": "Quỳnh Alee tung bộ ảnh đôi với người thương, fan đòi... \"báo công an\"",
       "link": "https://gamek.vn/quynh-alee-tung-bo-anh-doi-voi-nguoi-thuong-fan-doi-bao-cong-an-178260203105400358.chn",
@@ -1270,19 +1283,6 @@
       "published_at": null,
       "crawled_at": "2026-01-09T16:01:47.645107",
       "category": "esports",
-      "priority": 2
-    },
-    {
-      "id": "90ce200865dd",
-      "title": "6 đại cao thủ bị Kim Dung \"xóa sổ\" gần như hoàn toàn vì võ công quá cao: Bạn biết được mấy người?",
-      "link": "https://gamek.vn/6-dai-cao-thu-bi-kim-dung-xoa-so-gan-nhu-hoan-toan-vi-vo-cong-qua-cao-ban-biet-duoc-may-nguoi-178260107095656125.chn",
-      "summary": "Đó là những cao thủ nào?",
-      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2026/1/7/avatar1767754474472-1767754474939335499586.png",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2026-01-08T08:01:35.262330",
-      "category": "tin tức",
       "priority": 2
     }
   ]
