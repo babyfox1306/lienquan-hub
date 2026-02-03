@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-03T07:20:29.820668",
+  "last_updated": "2026-02-03T08:11:30.853927",
   "total_news": 100,
   "news": [
     {
@@ -1013,6 +1013,19 @@
       "priority": 5
     },
     {
+      "id": "e2ea7bb4d68d",
+      "title": "Quỳnh Alee tung bộ ảnh đôi với người thương, fan đòi... \"báo công an\"",
+      "link": "https://gamek.vn/quynh-alee-tung-bo-anh-doi-voi-nguoi-thuong-fan-doi-bao-cong-an-178260203105400358.chn",
+      "summary": "Cặp đôi đình đám của làng esports tiếp tục khiến CĐM mê mẩn.",
+      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2026/2/3/62537067413647567156647895544382612989306332n-17700886056321800380042-65-0-919-1366-crop-1770098946933118871100.jpg",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2026-02-03T08:06:40.039536",
+      "category": "esports",
+      "priority": 2
+    },
+    {
       "id": "aa8b3fcaba5c",
       "title": "Cách những tuyển thủ nữ Liên Quân Mobile Việt Nam 'chiến đấu' vì đam mê của mình:",
       "link": "https://gamek.vn/cach-nhung-tuyen-thu-nu-lien-quan-mobile-viet-nam-chien-dau-vi-dam-me-cua-minh-178260201184132541.chn",
@@ -1269,19 +1282,6 @@
       "source_url": "https://gamek.vn/rss",
       "published_at": null,
       "crawled_at": "2026-01-08T08:01:35.262330",
-      "category": "tin tức",
-      "priority": 2
-    },
-    {
-      "id": "fa40ec704866",
-      "title": "Xạ thủ gạo cội của Liên Quân Mobile thông báo giải nghệ? Fan nghi ngờ \"từ bỏ\" để đầu quân sang tựa game \"đối thủ\"?",
-      "link": "https://gamek.vn/xa-thu-gao-coi-cua-lien-quan-mobile-thong-bao-giai-nghe-fan-nghi-ngo-tu-bo-de-dau-quan-sang-tua-game-doi-thu-178260107101543684.chn",
-      "summary": "Thông báo của tuyển thủ này khiến ai cũng ngỡ ngàng.",
-      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2026/1/7/photo-1767755622226-17677556225121354002517-126-0-750-999-crop-1767757379342943954446.png",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2026-01-07T05:05:13.097899",
       "category": "tin tức",
       "priority": 2
     }
