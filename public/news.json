@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-03T09:14:42.635353",
+  "last_updated": "2026-02-03T10:14:47.931462",
   "total_news": 100,
   "news": [
     {
@@ -1013,6 +1013,19 @@
       "priority": 5
     },
     {
+      "id": "9d7a949a8459",
+      "title": "Vị tướng 21 tuổi đánh thắng Quan Vũ, 25 tuổi suýt bắt sống Lưu Bị",
+      "link": "https://gamek.vn/vi-tuong-21-tuoi-danh-thang-quan-vu-25-tuoi-suyt-bat-song-luu-bi-178260202114338297.chn",
+      "summary": "Lưu Bị xót xa thốt lên khi suýt bị viên tướng trẻ này bắt sống: \"Lúc ta đến kinh thành, nó chỉ là một đứa trẻ, giờ đã đẩy ta đến bước đường này!\".",
+      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2026/2/2/avatar1770007202525-17700072034181753089690.jpg",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2026-02-03T10:09:59.883615",
+      "category": "tướng",
+      "priority": 2
+    },
+    {
       "id": "8daf90dec0db",
       "title": "Đối thủ của Gia Cát Lượng gánh nỗi oan khuất nghìn năm không rửa sạch",
       "link": "https://gamek.vn/doi-thu-cua-gia-cat-luong-ganh-noi-oan-khuat-nghin-nam-khong-rua-sach-178260202113917689.chn",
@@ -1270,19 +1283,6 @@
       "published_at": null,
       "crawled_at": "2026-01-10T03:28:03.755848",
       "category": "skin",
-      "priority": 2
-    },
-    {
-      "id": "10ef65e16563",
-      "title": "Esports World Cup Foundation công bố mô hình đại diện đội tuyển quốc gia cho giải đấu Esports Nations Cup 2026",
-      "link": "https://gamek.vn/esports-world-cup-foundation-cong-bo-mo-hinh-dai-dien-doi-tuyen-quoc-gia-cho-giai-dau-esports-nations-cup-2026-178260109144308843.chn",
-      "summary": "Cổng đăng ký hiện đã được mở dành cho các Đối tác Quốc gia chính thức nhằm xây dựng nền tảng thi đấu Esports cấp quốc gia uy tín và bền vững.",
-      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2026/1/9/avatar1767971620228-1767971620627296765100.png",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2026-01-09T16:01:47.645107",
-      "category": "esports",
       "priority": 2
     }
   ]
