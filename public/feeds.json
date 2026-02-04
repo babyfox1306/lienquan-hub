@@ -31,11 +31,6 @@
       "type": "channel"
     },
     {
-      "id": "UCen3q9LMBtFHYU3Us7aKD3w",
-      "name": "Anhhao",
-      "type": "channel"
-    },
-    {
       "id": "UCIzzawIg4eCPgZggwFzEQbQ",
       "name": "Garena Liên Quân Mobile",
       "type": "channel"
@@ -48,11 +43,6 @@
     {
       "id": "UCeMjhoCCvujpObnt6yeZeNg",
       "name": "Garena 傳說對決",
-      "type": "channel"
-    },
-    {
-      "id": "UC1EOVZPr8neE-05eqKR_K-Q",
-      "name": "ADC Gaming",
       "type": "channel"
     },
     {
@@ -76,18 +66,8 @@
       "type": "channel"
     },
     {
-      "id": "UCoqyygF5N1dMSer-Jlt_rOg",
-      "name": "Đạt Bá Phú TV",
-      "type": "channel"
-    },
-    {
       "id": "UCB7b1Gb6yM-RyY0YW1HY6pA",
       "name": "Tainzo",
-      "type": "channel"
-    },
-    {
-      "id": "UCIAVu192aQxVUginIC4bZLw",
-      "name": "NTK Liên Quân",
       "type": "channel"
     },
     {
@@ -98,6 +78,26 @@
     {
       "id": "UCMHSTFMGp-k4Z0kG-CfMSWg",
       "name": "HTT GAMER LIÊN QUÂN MOBILE",
+      "type": "channel"
+    },
+    {
+      "id": "UCaokzdz-Q_tLcbhDG5OAjUQ",
+      "name": "Đánh Giày",
+      "type": "channel"
+    },
+    {
+      "id": "UCbRugPHs-2i48MbID-AnEVQ",
+      "name": "Htt Gamer Liên Quân TV",
+      "type": "channel"
+    },
+    {
+      "id": "UCdRY5czHAF_Ms15oJpfUM7A",
+      "name": "Yue Bán Fans",
+      "type": "channel"
+    },
+    {
+      "id": "UCYfv7UcC1KOsvMD3BVVwoLg",
+      "name": "Esports - Garena Liên Quân Mobile",
       "type": "channel"
     }
   ],
