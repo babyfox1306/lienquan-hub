@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-04T11:15:01.930780",
+  "last_updated": "2026-02-04T12:09:11.038010",
   "total_news": 100,
   "news": [
     {
@@ -1026,6 +1026,19 @@
       "priority": 5
     },
     {
+      "id": "f5f65915329d",
+      "title": "Thống kê bất ngờ chứng minh Faker còn bền bỉ hơn hầu như toàn bộ tướng LMHT hiện nay",
+      "link": "https://gamek.vn/thong-ke-bat-ngo-chung-minh-faker-con-ben-bi-hon-hau-nhu-toan-bo-tuong-lmht-hien-nay-178260204131114614.chn",
+      "summary": "Thống kê của Faker tưởng bất ngờ nhưng lại rất hợp lý.",
+      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2026/2/4/faker-lck-4-1770201399096180388752-0-0-562-900-crop-17702014041641686467259.png",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2026-02-04T12:04:21.560922",
+      "category": "tướng",
+      "priority": 2
+    },
+    {
       "id": "9d7a949a8459",
       "title": "Vị tướng 21 tuổi đánh thắng Quan Vũ, 25 tuổi suýt bắt sống Lưu Bị",
       "link": "https://gamek.vn/vi-tuong-21-tuoi-danh-thang-quan-vu-25-tuoi-suyt-bat-song-luu-bi-178260202114338297.chn",
@@ -1270,19 +1283,6 @@
       "published_at": null,
       "crawled_at": "2026-01-11T10:01:32.156989",
       "category": "cập nhật",
-      "priority": 2
-    },
-    {
-      "id": "90f8920076cc",
-      "title": "Tiếp tục có một tuyển thủ phải \"trả giá đắt\" vì phá game của Faker",
-      "link": "https://gamek.vn/tiep-tuc-co-mot-tuyen-thu-phai-tra-gia-dat-vi-pha-game-cua-faker-178260110114830637.chn",
-      "summary": "Một tuyển thủ phá game trong rank đã phải trả giá đắt khi trận đấu đó lại có sự tham gia của Faker.",
-      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2026/1/10/faker-pha-game-4-176802048334682432354-0-0-562-900-crop-17680204928711270448924.png",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2026-01-10T10:01:21.558321",
-      "category": "tin tức",
       "priority": 2
     }
   ]
