@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-02-06T04:36:20.439213",
+  "last_updated": "2026-02-06T05:26:55.870647",
   "total_news": 100,
   "news": [
+    {
+      "id": "8ac9ad7fb4ba",
+      "title": "PHÁT ĐỘNG VIEWING PARTY ĐẤU TRƯỜNG DANH VỌNG MÙA XUÂN 2026",
+      "link": "https://lienquan.garena.vn/phat-dong-viewing-party-dau-truong-danh-vong-mua-xuan-2026/",
+      "summary": "<p>Xin chào các Kiện Tướng, Mùa Viewing Party Đấu Trường Danh Vọng Mùa Xuân 2026 chính thức khởi tranh vào ngày 28/02, mở ra cơ hội để các Kiện Tướng trên toàn quốc cùng nhau [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/phat-dong-viewing-party-dau-truong-danh-vong-mua-xuan-2026/\">PHÁT ĐỘNG VIEWING PARTY ĐẤU TRƯỜNG DANH VỌNG MÙA XUÂN 2026</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
+      "image_url": null,
+      "source": "Liên Quân Mobile Official",
+      "source_url": "https://lienquan.garena.vn/rss",
+      "published_at": "2026-02-06T04:57:25Z",
+      "crawled_at": "2026-02-06T05:21:58.815629",
+      "category": "tướng",
+      "priority": 1
+    },
     {
       "id": "010196e6237d",
       "title": "ĐIỀU CHỈNH GIỮA MÙA PB TÂN NIÊN KHỞI THẾ – 05.02.2026",
@@ -1270,19 +1283,6 @@
       "published_at": null,
       "crawled_at": "2026-01-13T08:01:29.919351",
       "category": "tướng",
-      "priority": 2
-    },
-    {
-      "id": "624b816e61dc",
-      "title": "Garena Việt Nam tổ chức lễ mừng công SEA Games 33 nội dung Liên Quân Mobile và FC Online",
-      "link": "https://gamek.vn/garena-viet-nam-to-chuc-le-mung-cong-sea-games-33-noi-dung-lien-quan-mobile-va-fc-online-17826011120234772.chn",
-      "summary": "Garena Việt Nam trao tặng hơn 1 tỷ đồng mừng công các đội tuyển thể thao điện tử Việt Nam đoạt huy chương tại SEA Games 33 nội dung Liên Quân Mobile và FC Online.",
-      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2026/1/11/seagames-1-1768137800607942630437-38-0-601-900-crop-17681378093991837022804.png",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2026-01-11T15:01:41.822704",
-      "category": "tin tức",
       "priority": 2
     }
   ]
