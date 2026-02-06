@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-06T01:35:07.888666",
+  "last_updated": "2026-02-06T02:58:14.672357",
   "total_news": 100,
   "news": [
     {
@@ -1026,6 +1026,19 @@
       "priority": 5
     },
     {
+      "id": "4dcc649dfb0d",
+      "title": "Vị tướng LMHT \"con ghẻ\" Riot bất ngờ xuất hiện tại LPL ở vai trò \"độc lạ\"",
+      "link": "https://gamek.vn/vi-tuong-lmht-con-ghe-riot-bat-ngo-xuat-hien-tai-lpl-o-vai-tro-doc-la-178260205033903549.chn",
+      "summary": "Một vị tướng LMHT tưởng chừng rơi vào \"quên lãng\" đã có lần debut tại LPL.",
+      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2026/2/5/tuong-lmht-3-17703157410301114809207-0-0-562-900-crop-17703157500781948146329.png",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2026-02-06T02:53:27.002042",
+      "category": "tướng",
+      "priority": 2
+    },
+    {
       "id": "f5f65915329d",
       "title": "Thống kê bất ngờ chứng minh Faker còn bền bỉ hơn hầu như toàn bộ tướng LMHT hiện nay",
       "link": "https://gamek.vn/thong-ke-bat-ngo-chung-minh-faker-con-ben-bi-hon-hau-nhu-toan-bo-tuong-lmht-hien-nay-178260204131114614.chn",
@@ -1270,19 +1283,6 @@
       "published_at": null,
       "crawled_at": "2026-01-11T15:01:41.822704",
       "category": "tin tức",
-      "priority": 2
-    },
-    {
-      "id": "d2833d4af23f",
-      "title": "Where Winds Meet tung cập nhật mới, loạt boss và tính năng siêu hấp dẫn cho game thủ",
-      "link": "https://gamek.vn/where-winds-meet-tung-cap-nhat-moi-loat-boss-va-tinh-nang-sieu-hap-dan-cho-game-thu-178260110094426821.chn",
-      "summary": "Where Winds Meet vẫn rất đều đặn mang tới các bản cập nhật mới cho người chơi.",
-      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2026/1/11/avatar1768100643690-17681006438631163711333.png",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2026-01-11T10:01:32.156989",
-      "category": "cập nhật",
       "priority": 2
     }
   ]
