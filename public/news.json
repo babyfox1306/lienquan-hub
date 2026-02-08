@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-08T10:07:24.438035",
+  "last_updated": "2026-02-08T11:08:12.883845",
   "total_news": 100,
   "news": [
     {
@@ -1039,6 +1039,19 @@
       "priority": 5
     },
     {
+      "id": "a9405dac20b8",
+      "title": "MC Phương Thảo, Minh Nghi và Mai Dora khoe sắc trên thảm đỏ WeChoice Awards 2025",
+      "link": "https://gamek.vn/mc-phuong-thao-minh-nghi-va-mai-dora-khoe-sac-tren-tham-do-wechoice-awards-2025-178260208172928385.chn",
+      "summary": "Tối 7/2, sự kiện WeChoice Awards 2025 đã chính thức diễn ra tại TP.HCM, quy tụ hàng loạt ngôi sao đình đám của showbiz Việt. Tuy nhiên, tâm điểm của sự chú ý không chỉ dành cho các nghệ sĩ giải trí mà còn thuộc về sự xuất hiện lộng lẫy của bộ ba \"nữ thần\" làng Esports: MC Phương Thảo, Minh Nghi và Mai Dora.",
+      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2026/2/8/avatar1770546525279-17705465258361908691464.jpg",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2026-02-08T11:03:26.846250",
+      "category": "esports",
+      "priority": 2
+    },
+    {
       "id": "4dcc649dfb0d",
       "title": "Vị tướng LMHT \"con ghẻ\" Riot bất ngờ xuất hiện tại LPL ở vai trò \"độc lạ\"",
       "link": "https://gamek.vn/vi-tuong-lmht-con-ghe-riot-bat-ngo-xuat-hien-tai-lpl-o-vai-tro-doc-la-178260205033903549.chn",
@@ -1269,19 +1282,6 @@
       "source_url": "https://gamek.vn/rss",
       "published_at": null,
       "crawled_at": "2026-01-15T03:30:05.256956",
-      "category": "tướng",
-      "priority": 2
-    },
-    {
-      "id": "ccb78c8cb90a",
-      "title": "Gợi ý game Tam Quốc đáng chơi trong năm 2026: Quần Anh Phong Hoa Lục, ra mắt thần tướng Mã Văn Lộc, tính năng mới và còn nhiều hơn nữa",
-      "link": "https://gamek.vn/goi-y-game-tam-quoc-dang-choi-trong-nam-2026-quan-anh-phong-hoa-luc-ra-mat-than-tuong-ma-van-loc-tinh-nang-moi-va-con-nhieu-hon-nua-1782601131328141.chn",
-      "summary": "Nhìn sơ qua có thể thấy rõ, Quần Anh Phong Hoa Lục thật sự đã mang đến rất nhiều những bổ sung cần thiết cho game thủ tam quốc.",
-      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2026/1/13/avatar1768285552461-17682855527371424536703-88-0-838-1200-crop-1768285611141248341730.jpg",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2026-01-13T08:01:29.919351",
       "category": "tướng",
       "priority": 2
     }
