@@ -21,6 +21,11 @@
       "type": "channel"
     },
     {
+      "id": "UCAml1Hqu4LW36B3yEtQg8Fw",
+      "name": "FUNNY GAMING TV",
+      "type": "channel"
+    },
+    {
       "id": "UC3QLI0FHwACCaa91Xdpam2A",
       "name": "Trải Nghiệm Game",
       "type": "channel"
@@ -41,13 +46,8 @@
       "type": "channel"
     },
     {
-      "id": "UCgYkGvtBuY4onYm2Eh61zwQ",
-      "name": "Arena of Valor",
-      "type": "channel"
-    },
-    {
-      "id": "UCBVBGNrag1o-V08vwYzoIwg",
-      "name": "Garena AOV Indonesia",
+      "id": "UC1EOVZPr8neE-05eqKR_K-Q",
+      "name": "ADC Gaming",
       "type": "channel"
     },
     {
@@ -56,13 +56,23 @@
       "type": "channel"
     },
     {
-      "id": "UCDk4tfW1Iku9-0S7L5cZP4A",
-      "name": "Arena of Valor - Topic",
+      "id": "UCpQ52533EsOa5k-dQSmD1jw",
+      "name": "Ha Le Quyen",
       "type": "channel"
     },
     {
       "id": "UC1ysb__ddApp3PlDva5NAVw",
       "name": "Top 1 Liliana",
+      "type": "channel"
+    },
+    {
+      "id": "UCLmVT2XmCej720HFtG7mwSQ",
+      "name": "NTD LQ",
+      "type": "channel"
+    },
+    {
+      "id": "UCB7b1Gb6yM-RyY0YW1HY6pA",
+      "name": "Tainzo",
       "type": "channel"
     },
     {
@@ -76,28 +86,18 @@
       "type": "channel"
     },
     {
-      "id": "UCKjyrROfuUjQ8EHpjFHgjRA",
-      "name": "Ugi Desniana",
+      "id": "UCbRugPHs-2i48MbID-AnEVQ",
+      "name": "Htt Gamer Liên Quân TV",
       "type": "channel"
     },
     {
-      "id": "UCJAd1REXSJbxzD7uJcrYcow",
-      "name": "【公式】アリーナ・オブ・ヴァラー（アリヴァラ）",
+      "id": "UCfoEdZzeGa3VW-N_TYYe86Q",
+      "name": "Vĩnh Đất",
       "type": "channel"
     },
     {
-      "id": "UC9IMa50eipvZXSjynFJrc0w",
-      "name": "AOV Global Collection",
-      "type": "channel"
-    },
-    {
-      "id": "UCgbMglNu16CgtxKRg3LrpjQ",
-      "name": "CBNN Liên Quân Mobile",
-      "type": "channel"
-    },
-    {
-      "id": "UCkFXkptfsPHqcOwM5dPwkWQ",
-      "name": "Arena of Valor Türkiye",
+      "id": "UCdRY5czHAF_Ms15oJpfUM7A",
+      "name": "Yue Bán Fans",
       "type": "channel"
     }
   ],
