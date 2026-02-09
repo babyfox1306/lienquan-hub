@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-02-09T09:19:59.956911",
+  "last_updated": "2026-02-09T10:23:07.049570",
   "total_news": 100,
   "news": [
+    {
+      "id": "bc6bb7c6a88b",
+      "title": "TỔNG HỢP SỰ KIỆN 09.02 – 14.02",
+      "link": "https://lienquan.garena.vn/tong-hop-su-kien-0902-1402/",
+      "summary": "<p>Xin chào các Kiện tướng, Hội đồng xin gửi tới các Kiện tướng lịch sự kiện  (09/02– 15/02) như sau: Ngày Sự kiện Sự kiện Thứ 2 (09/02) &#160; Mở bán trang phục SSM Thứ [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/tong-hop-su-kien-0902-1402/\">TỔNG HỢP SỰ KIỆN 09.02 &#8211; 14.02</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
+      "image_url": null,
+      "source": "Liên Quân Mobile Official",
+      "source_url": "https://lienquan.garena.vn/rss",
+      "published_at": "2026-02-09T09:59:56Z",
+      "crawled_at": "2026-02-09T10:18:18.298543",
+      "category": "tướng",
+      "priority": 1
+    },
     {
       "id": "887bba176afd",
       "title": "Mở bán trang phục Omen Liệt Hỏa Thiên Cang",
@@ -1270,19 +1283,6 @@
       "published_at": null,
       "crawled_at": "2026-01-15T17:08:04.725838",
       "category": "cập nhật",
-      "priority": 2
-    },
-    {
-      "id": "5a45ab552079",
-      "title": "Cộng đồng LMHT phát hiện chân tướng của \"game thủ AI\" nhưng còn nhiều tranh cãi",
-      "link": "https://gamek.vn/cong-dong-lmht-phat-hien-chan-tuong-cua-game-thu-ai-nhung-con-nhieu-tranh-cai-178260115124744927.chn",
-      "summary": "Nhiều ý kiến nhận định tuyển thủ LCK này chính là \"game thủ AI\" đang \"gây bão\" trong cộng đồng LMHT những ngày qua.",
-      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2026/1/15/avatar1768459132299-1768459132782702300124.png",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2026-01-15T10:01:27.704752",
-      "category": "tướng",
       "priority": 2
     }
   ]
