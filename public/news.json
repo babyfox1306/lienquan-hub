@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-09T11:20:17.594133",
+  "last_updated": "2026-02-09T12:13:46.146326",
   "total_news": 100,
   "news": [
     {
@@ -1065,6 +1065,19 @@
       "priority": 5
     },
     {
+      "id": "148df727d78a",
+      "title": "Faker khiến cả huyền thoại Đi Rừng như Peanut cũng ngỡ ngàng",
+      "link": "https://gamek.vn/faker-khien-ca-huyen-thoai-di-rung-nhu-peanut-cung-ngo-ngang-178260209185826095.chn",
+      "summary": "Rõ ràng Faker có sự am hiểu tướng LMHT rất tốt.",
+      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2026/2/9/avatar1770637488369-1770637488790133635483.png",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2026-02-09T12:08:58.222187",
+      "category": "tướng",
+      "priority": 2
+    },
+    {
       "id": "a9405dac20b8",
       "title": "MC Phương Thảo, Minh Nghi và Mai Dora khoe sắc trên thảm đỏ WeChoice Awards 2025",
       "link": "https://gamek.vn/mc-phuong-thao-minh-nghi-va-mai-dora-khoe-sac-tren-tham-do-wechoice-awards-2025-178260208172928385.chn",
@@ -1270,19 +1283,6 @@
       "published_at": null,
       "crawled_at": "2026-01-17T11:01:19.977231",
       "category": "tướng",
-      "priority": 2
-    },
-    {
-      "id": "4670181af232",
-      "title": "ĐTCL mùa 16: Leo rank là dễ với đội hình Zaun Ekko \"tưởng không mạnh mà mạnh không tưởng\"",
-      "link": "https://gamek.vn/dtcl-mua-16-leo-rank-la-de-voi-doi-hinh-zaun-ekko-tuong-khong-manh-ma-manh-khong-tuong-17826011418581336.chn",
-      "summary": "Đội hình Zaun với Ekko làm chủ lực đang rất được ưa chuộng sau bản cập nhật mới nhất của ĐTCL mùa 16.",
-      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2026/1/15/doi-hinh-dtclmua16-ekko-6-17684593942351004051812-0-0-562-900-crop-1768459419167973026315.png",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2026-01-15T17:08:04.725838",
-      "category": "cập nhật",
       "priority": 2
     }
   ]
