@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-02-09T07:26:41.889588",
+  "last_updated": "2026-02-09T08:14:49.655771",
   "total_news": 100,
   "news": [
+    {
+      "id": "887bba176afd",
+      "title": "Mở bán trang phục Omen Liệt Hỏa Thiên Cang",
+      "link": "https://lienquan.garena.vn/mo-ban-trang-phuc-omen-liet-hoa-thien-cang/",
+      "summary": "<p>Kính gửi các Kiện Tướng, Sau khi tiếp nhận các ý kiến đóng góp về trang phục Omen &#8211; Liệt Hỏa Thiên Cang, chúng tôi xin thông báo điều chỉnh như sau: Trang phục Omen [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/mo-ban-trang-phuc-omen-liet-hoa-thien-cang/\">Mở bán trang phục Omen Liệt Hỏa Thiên Cang</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
+      "image_url": null,
+      "source": "Liên Quân Mobile Official",
+      "source_url": "https://lienquan.garena.vn/rss",
+      "published_at": "2026-02-09T07:59:12Z",
+      "crawled_at": "2026-02-09T08:09:59.518273",
+      "category": "tướng",
+      "priority": 1
+    },
     {
       "id": "8ac9ad7fb4ba",
       "title": "PHÁT ĐỘNG VIEWING PARTY ĐẤU TRƯỜNG DANH VỌNG MÙA XUÂN 2026",
@@ -1269,19 +1282,6 @@
       "source_url": "https://gamek.vn/rss",
       "published_at": null,
       "crawled_at": "2026-01-15T10:01:27.704752",
-      "category": "tướng",
-      "priority": 2
-    },
-    {
-      "id": "2d8a18e2803d",
-      "title": "“Thiếu Niên Ca Hành: Khởi Động” đã chính thức ra mắt trên Google Play và App Store",
-      "link": "https://gamek.vn/thieu-nien-ca-hanh-khoi-dong-da-chinh-thuc-ra-mat-tren-google-play-va-app-store-178260114165325036.chn",
-      "summary": "Thiếu Niên Ca Hành: Khởi Động, tựa game đấu tướng chiến thuật mới chuẩn nguyên tác tiểu thuyết võ hiệp nổi tiếng của tác giả Chu Mộc Nam, đã chính thức phát hành ngày hôm nay - 15/1/2026 trên hai nền tảng Google Play và App Store.",
-      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2026/1/14/avatar1768384062359-17683840627341705478510-0-85-1080-1813-crop-17683842734051201344303.jpg",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2026-01-15T03:30:05.256956",
       "category": "tướng",
       "priority": 2
     }
