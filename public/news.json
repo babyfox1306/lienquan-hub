@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-11T08:14:41.990080",
+  "last_updated": "2026-02-11T09:19:24.132432",
   "total_news": 100,
   "news": [
     {
@@ -1078,6 +1078,19 @@
       "priority": 5
     },
     {
+      "id": "e18e6b3f97a2",
+      "title": "Huyền thoại LCK chỉ ra cái tên duy nhất có thể chơi tốt Azir tại LPL hiện tại",
+      "link": "https://gamek.vn/huyen-thoai-lck-chi-ra-cai-ten-duy-nhat-co-the-choi-tot-azir-tai-lpl-hien-tai-17826021102453219.chn",
+      "summary": "Azir là vị tướng \"mặc định\" của những midlaner LCK thượng thừa nhưng với LPL lại là câu chuyện khác.",
+      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2026/2/11/lck-lpl-azir-6-17707984433971475308670-0-0-562-900-crop-177079844760834506357.png",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2026-02-11T09:14:38.234998",
+      "category": "tướng",
+      "priority": 2
+    },
+    {
       "id": "148df727d78a",
       "title": "Faker khiến cả huyền thoại Đi Rừng như Peanut cũng ngỡ ngàng",
       "link": "https://gamek.vn/faker-khien-ca-huyen-thoai-di-rung-nhu-peanut-cung-ngo-ngang-178260209185826095.chn",
@@ -1270,19 +1283,6 @@
       "published_at": null,
       "crawled_at": "2026-01-21T15:05:18.709286",
       "category": "tướng",
-      "priority": 2
-    },
-    {
-      "id": "ed7d9b3b89a2",
-      "title": "Cực hot: VCT 2026 đăng cai ở Việt Nam, người hâm mộ sẽ lần đầu được xem Crazyguy thi đấu trực tiếp!",
-      "link": "https://gamek.vn/cuc-hot-vct-2026-dang-cai-o-viet-nam-nguoi-ham-mo-se-lan-dau-duoc-xem-crazyguy-thi-dau-truc-tiep-178260119124734337.chn",
-      "summary": "Lần đầu tiên trong lịch sử, một vòng Chung kết giải đấu cấp độ quốc tế VCT Pacific sẽ chính thức cập bến TP. Hồ Chí Minh vào tháng 5 tới.",
-      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2026/1/19/avatar1768801444684-1768801444892721064237-49-0-1009-1536-crop-1768801513998758348770.jpg",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2026-01-19T07:07:25.910640",
-      "category": "esports",
       "priority": 2
     }
   ]
