@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-02-11T09:19:24.132432",
+  "last_updated": "2026-02-11T10:19:52.982788",
   "total_news": 100,
   "news": [
+    {
+      "id": "e4af999a581d",
+      "title": "ĐIỀU CHỈNH GIỮA MÙA PB TÂN NIÊN KHỞI THẾ – 14.02.2026",
+      "link": "https://lienquan.garena.vn/dieu-chinh-giua-mua-pb-tan-nien-khoi-the-14-02-2026/",
+      "summary": "<p>Xin chào các Kiện Tướng, Liên Quân Mobile sẽ tiến hành cập nhật không gián đoạn cho máy chủ chính thức vào ngày 14/02/2026. Trong thời gian quy định, các Kiện tướng có thể tự chọn thời điểm [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/dieu-chinh-giua-mua-pb-tan-nien-khoi-the-14-02-2026/\">ĐIỀU CHỈNH GIỮA MÙA PB TÂN NIÊN KHỞI THẾ – 14.02.2026</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
+      "image_url": null,
+      "source": "Liên Quân Mobile Official",
+      "source_url": "https://lienquan.garena.vn/rss",
+      "published_at": "2026-02-11T09:41:22Z",
+      "crawled_at": "2026-02-11T10:15:01.220284",
+      "category": "tướng",
+      "priority": 1
+    },
     {
       "id": "25aedf144800",
       "title": "🐎Khởi động 2026 – phi “mã” voucher hot hit cùng ShopeePay!",
@@ -1270,19 +1283,6 @@
       "published_at": null,
       "crawled_at": "2026-01-21T17:20:20.740594",
       "category": "esports",
-      "priority": 2
-    },
-    {
-      "id": "1f1bdd402728",
-      "title": "Mùa giải mới vừa bắt đầu đã khiến một vị tướng LMHT \"xuống đáy\"",
-      "link": "https://gamek.vn/mua-giai-moi-vua-bat-dau-da-khien-mot-vi-tuong-lmht-xuong-day-178260121164655164.chn",
-      "summary": "Một vị tướng LMHT đã \"chạm đáy\" dù rất được ưa chuộng ở mùa giải 2025.",
-      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2026/1/21/lmht-tuong-4-17689879891041719991687-0-0-562-900-crop-17689883413611034151576.png",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2026-01-21T15:05:18.709286",
-      "category": "tướng",
       "priority": 2
     }
   ]
