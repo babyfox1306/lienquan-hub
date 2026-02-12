@@ -1,42 +1,6 @@
 {
   "videos": [
     {
-      "videoId": "W63BCHY_JqY",
-      "title": "Phong cách khiến Moren bị cấm trong rank cực nhiều hóa quái vật từ phế vật",
-      "source": "youtube",
-      "publishedAt": "2026-02-01T12:12:44Z"
-    },
-    {
-      "videoId": "Wi_thyhLYKM",
-      "title": "Tướng mạnh mà ít người chơi Ishar và cách ép team địch 7 phút GG luôn",
-      "source": "youtube",
-      "publishedAt": "2026-01-30T05:03:49Z"
-    },
-    {
-      "videoId": "uVGy-DR9AC8",
-      "title": "Tướng mới Moren nhảy nhót bay như chim cả trận, Rank đầu mùa có nên chơi k",
-      "source": "youtube",
-      "publishedAt": "2026-01-21T08:33:43Z"
-    },
-    {
-      "videoId": "zMBrE38grGU",
-      "title": "Tướng mới đánh toàn thua Edras vẫn phải lật kèo gánh team khi đối đầu Florentino",
-      "source": "youtube",
-      "publishedAt": "2025-12-18T05:13:23Z"
-    },
-    {
-      "videoId": "1pbNlJ6cxcc",
-      "title": "Siu phm Triu Vn sp ra mt nhng y mi l skin c tin khng mua c",
-      "source": "youtube",
-      "publishedAt": "2025-12-03T13:05:34Z"
-    },
-    {
-      "videoId": "u_iuY17AmyI",
-      "title": "▎RoV × My Little Pony — ความน่ารักกำลังเดินทางมา!",
-      "source": "youtube",
-      "publishedAt": "2026-02-11T06:00:00Z"
-    },
-    {
       "videoId": "Glt20X6UCBM",
       "title": "[Gcaothu] Đối đầu team khủng tử thủ ôm late game - Biron tuyệt kĩ combo tốc biến gánh team mãn nhãn",
       "source": "youtube",
@@ -199,12 +163,6 @@
       "publishedAt": "2026-02-07T14:00:49Z"
     },
     {
-      "videoId": "2sXi_K4rWyc",
-      "title": "Đối Đầu Siêu Xạ Thủ 1S.SEA Trên Rank Cận Thách Đấu - ADC Múa Tướng Tủ Gánh Team Mãn Nhãn.",
-      "source": "youtube",
-      "publishedAt": "2025-12-22T13:46:40Z"
-    },
-    {
       "videoId": "THs46xJwrzA",
       "title": "VUX TEST SKIN FREE MURAD THẦN PHÁO HOA TRÊN RANK ĐẠI CAO THỦ ĐẦY BÙNG NỔ",
       "source": "youtube",
@@ -271,28 +229,10 @@
       "publishedAt": "2026-01-23T09:31:02Z"
     },
     {
-      "videoId": "D_gVYq8IXyY",
-      "title": "Mn  Out Meta Ny Gip Triu Vn Khc Ch Florentino ?",
-      "source": "youtube",
-      "publishedAt": "2026-01-27T11:15:06Z"
-    },
-    {
-      "videoId": "v3ZT7ZpuJks",
-      "title": "Tại Sao Raz Đang Out Meta ?",
-      "source": "youtube",
-      "publishedAt": "2026-01-13T11:30:37Z"
-    },
-    {
       "videoId": "D1KPNT3vnBI",
       "title": "Raz S1-2026 Lin Qun Mobile | Cch Chi, Combo, Ln , Ph Hiu, Bng Ngc Cho Raz S1 2026 i Mid",
       "source": "youtube",
       "publishedAt": "2026-01-29T13:06:55Z"
-    },
-    {
-      "videoId": "XSHtX4JKpnA",
-      "title": "Trải nghiệm build đồ Enzo siêu \" XANH \" cùng Tài Enzo",
-      "source": "youtube",
-      "publishedAt": "2026-02-03T13:14:52Z"
     },
     {
       "videoId": "vabbsrlkPrA",
@@ -317,36 +257,6 @@
       "title": "YUEBANFANS - Giả Làm \"NOOB\" Không Có Skin, Cái Kết Nói Lên Tất Cả",
       "source": "youtube",
       "publishedAt": "2026-01-11T09:58:48Z"
-    },
-    {
-      "videoId": "V0xdRJyMDxg",
-      "title": "Bazaar Gaming vs Evos Debut - Tun 6 - RPL Thi Lan Ma 4 - Garena Lin Qun Mobile",
-      "source": "youtube",
-      "publishedAt": "2019-09-24T11:18:14Z"
-    },
-    {
-      "videoId": "FmadNV_M5J0",
-      "title": "Buriram United vs Workpoint Fighting Fish - Tun 6 - RPL Thi Lan Ma 4 - Garena Lin Qun Mobile",
-      "source": "youtube",
-      "publishedAt": "2019-09-24T10:49:06Z"
-    },
-    {
-      "videoId": "AJewlB38VYs",
-      "title": "Evos Debut vs KOG Diamond Cobra - Tun 6 - RPL Thi Lan Ma 4 - Garena Lin Qun Mobile",
-      "source": "youtube",
-      "publishedAt": "2019-09-24T10:29:18Z"
-    },
-    {
-      "videoId": "aNnz8G2lxxU",
-      "title": "AHQ vs Workpoint Fighting Fish - Tun 6 - RPL Thi Lan Ma 4 - Garena Lin Qun Mobile",
-      "source": "youtube",
-      "publishedAt": "2019-09-24T08:49:23Z"
-    },
-    {
-      "videoId": "yewmbUYhzSU",
-      "title": "Talon vs Bazaar Gaming - Tun 6 - RPL Thi Lan Ma 4 - Garena Lin Qun Mobile",
-      "source": "youtube",
-      "publishedAt": "2019-09-24T08:18:58Z"
     }
   ]
 }
