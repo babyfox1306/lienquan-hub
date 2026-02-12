@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-02-12T03:02:37.599004",
+  "last_updated": "2026-02-12T04:00:32.547849",
   "total_news": 100,
   "news": [
+    {
+      "id": "087e393b7d5c",
+      "title": "TỔNG HỢP SỰ KIỆN TẾT LIÊN QUÂN 2026",
+      "link": "https://lienquan.garena.vn/tong-hop-su-kien-tet-lien-quan-2026/",
+      "summary": "<p>Xin chào các Kiện tướng, Hội đồng xin gửi tới các Kiện tướng lịch chuỗi Sự kiện tại Tết Liên Quân (13/02– 09/03) như sau: &#160; ƯU ĐÃI NẠP QUÂN HUY Thời gian: 00:00 13/02- [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/tong-hop-su-kien-tet-lien-quan-2026/\">TỔNG HỢP SỰ KIỆN TẾT LIÊN QUÂN 2026</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
+      "image_url": "https://picsum.photos/seed/https://lienquan.garena.vn/tong-hop-su-kien-tet-lien-quan-2026//400/225",
+      "source": "Liên Quân Mobile Official",
+      "source_url": "https://lienquan.garena.vn/rss",
+      "published_at": "2026-02-12T03:12:59Z",
+      "crawled_at": "2026-02-12T03:55:41.295581",
+      "category": "tướng",
+      "priority": 1
+    },
     {
       "id": "e4af999a581d",
       "title": "ĐIỀU CHỈNH GIỮA MÙA PB TÂN NIÊN KHỞI THẾ – 14.02.2026",
@@ -1270,19 +1283,6 @@
       "published_at": null,
       "crawled_at": "2026-01-27T07:05:51.467205",
       "category": "tin tức",
-      "priority": 2
-    },
-    {
-      "id": "a63d9516162a",
-      "title": "EWC 2026 công bố quỹ thưởng kỷ lục cùng danh sách các tựa game tranh tài",
-      "link": "https://gamek.vn/ewc-2026-cong-bo-quy-thuong-ky-luc-cung-danh-sach-cac-tua-game-tranh-tai-17826012119380898.chn",
-      "summary": "Quỹ giải thưởng kỷ lục tiếp tục củng cố vị thế của EWC như một sự kiện trọng điểm trong lịch thi đấu Esports toàn cầu.",
-      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2026/1/21/ewc-6-17690128540561605716025-35-0-598-900-crop-17690128589471909124780.png",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2026-01-21T17:20:20.740594",
-      "category": "esports",
       "priority": 2
     }
   ]
