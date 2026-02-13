@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-02-13T11:15:37.241551",
+  "last_updated": "2026-02-13T12:08:33.004126",
   "total_news": 100,
   "news": [
+    {
+      "id": "01d7e60f9274",
+      "title": "MỞ BÁN HỮU HẠN TRANG PHỤC DOLIA MÃ KHỞI THIÊN CA",
+      "link": "https://lienquan.garena.vn/mo-ban-huu-han-trang-phuc-dolia-ma-khoi-thien-ca/",
+      "summary": "<p>Xin chào các Kiện Tướng Hội Đồng xin gửi tới các bạn ưu đãi: Mở bán hữu hạn trang phục Dolia Mã Khởi Thiên Ca &#160; &#160; NỘI DUNG VÀ THỜI GIAN Từ ngày 20/02/2026 &#8211; 09/03/2026: [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/mo-ban-huu-han-trang-phuc-dolia-ma-khoi-thien-ca/\">MỞ BÁN HỮU HẠN TRANG PHỤC DOLIA MÃ KHỞI THIÊN CA</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
+      "image_url": null,
+      "source": "Liên Quân Mobile Official",
+      "source_url": "https://lienquan.garena.vn/rss",
+      "published_at": "2026-02-13T11:42:41Z",
+      "crawled_at": "2026-02-13T12:03:38.980645",
+      "category": "tướng",
+      "priority": 1
+    },
     {
       "id": "cc5001e645dd",
       "title": "Mở bán hữu hạn trang phục LAURIEL MÃ ĐẰNG CỬU THẾ",
@@ -1270,19 +1283,6 @@
       "published_at": null,
       "crawled_at": "2026-02-01T12:01:32.749875",
       "category": "tin tức",
-      "priority": 2
-    },
-    {
-      "id": "127119d704c4",
-      "title": "FC Online Year-End Gala 2025 - “Shine Your Journey – Build Our Greatness”",
-      "link": "https://gamek.vn/fc-online-year-end-gala-2025-shine-your-journey-build-our-greatness-178260131231724734.chn",
-      "summary": "FC Online tổ chức Buổi lễ vinh danh và trao giải thường niên chính thức diễn ra vào ngày\n31/01/2026 tại TP. Hồ Chí Minh.",
-      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2026/1/31/avatar1769876072501-1769876073550945616149.png",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2026-01-31T17:03:55.239044",
-      "category": "meta",
       "priority": 2
     }
   ]
