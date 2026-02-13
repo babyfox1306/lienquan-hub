@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-13T03:02:52.273611",
+  "last_updated": "2026-02-13T03:58:04.395652",
   "total_news": 100,
   "news": [
     {
@@ -1104,6 +1104,19 @@
       "priority": 5
     },
     {
+      "id": "9e4ae3b6e673",
+      "title": "Cột mốc lớn của Game top 1 Doanh Thu Đại Lục cập bến bản Việt : Big update to nhất năm - Ra mắt Linh Tướng đầu tiên Tào Tháo",
+      "link": "https://gamek.vn/cot-moc-lon-cua-game-top-1-doanh-thu-dai-luc-cap-ben-ban-viet-big-update-to-nhat-nam-ra-mat-linh-tuong-dau-tien-tao-thao-178260211173223112.chn",
+      "summary": "Quần Anh Phong Hoa Lục của NPH Vplay hiện vẫn giữ vững vị trí số 1 tại các bảng xếp hạng Việt Nam",
+      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2026/2/11/avatar1770805674576-1770805675010183814809-0-6-456-736-crop-17708058195801049748214.jpg",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2026-02-13T03:53:13.669452",
+      "category": "tướng",
+      "priority": 2
+    },
+    {
       "id": "e18e6b3f97a2",
       "title": "Huyền thoại LCK chỉ ra cái tên duy nhất có thể chơi tốt Azir tại LPL hiện tại",
       "link": "https://gamek.vn/huyen-thoai-lck-chi-ra-cai-ten-duy-nhat-co-the-choi-tot-azir-tai-lpl-hien-tai-17826021102453219.chn",
@@ -1270,19 +1283,6 @@
       "published_at": null,
       "crawled_at": "2026-01-28T08:01:21.963996",
       "category": "esports",
-      "priority": 2
-    },
-    {
-      "id": "d729ba3f3298",
-      "title": "Công khai \"hack map\", game thủ Liên Quân khiến cộng đồng phẫn nộ tột cùng",
-      "link": "https://gamek.vn/cong-khai-hack-map-game-thu-lien-quan-khien-cong-dong-phan-no-tot-cung-178260126142757313.chn",
-      "summary": "Hành động của game thủ này thật không thể chấp nhận được.",
-      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2026/1/26/anh-chup-man-hinh-2026-01-26-142529-17694123383301752554065-0-0-364-582-crop-17694221378241424922841.png",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2026-01-27T07:05:51.467205",
-      "category": "tin tức",
       "priority": 2
     }
   ]
