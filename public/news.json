@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-02-13T07:23:54.715271",
+  "last_updated": "2026-02-13T08:14:03.425162",
   "total_news": 100,
   "news": [
+    {
+      "id": "de64dc768f73",
+      "title": "MỞ BÁN HỮU HẠN VALHEIN MÃ HÀNH VẠN LÝ",
+      "link": "https://lienquan.garena.vn/mo-ban-huu-han-valhein-ma-hanh-van-ly/",
+      "summary": "<p>Xin chào các Kiện Tướng Hội Đồng xin gửi tới các bạn ưu đãi: Mở bán hữu hạn trang phục VALHEIN MÃ HÀNH VẠN LÝ &#160; &#160; NỘI DUNG VÀ THỜI GIAN Từ ngày 18/02/2026 &#8211; 09/03/2026: [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/mo-ban-huu-han-valhein-ma-hanh-van-ly/\">MỞ BÁN HỮU HẠN VALHEIN MÃ HÀNH VẠN LÝ</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
+      "image_url": null,
+      "source": "Liên Quân Mobile Official",
+      "source_url": "https://lienquan.garena.vn/rss",
+      "published_at": "2026-02-13T07:30:36Z",
+      "crawled_at": "2026-02-13T08:09:10.809657",
+      "category": "tướng",
+      "priority": 1
+    },
     {
       "id": "087e393b7d5c",
       "title": "TỔNG HỢP SỰ KIỆN TẾT LIÊN QUÂN 2026",
@@ -1104,6 +1117,19 @@
       "priority": 5
     },
     {
+      "id": "fb1dc1045b57",
+      "title": "Nữ game thủ Liên Quân Thái Lan gây lùm xùm vì gian lận tại SEA Games 33 bị truy tố hình sự",
+      "link": "https://gamek.vn/nu-game-thu-lien-quan-thai-lan-gay-lum-xum-vi-gian-lan-tai-sea-games-33-bi-truy-to-hinh-su-178260213142419348.chn",
+      "summary": "Nữ game thủ này có thể đối mặt với án phạt cực nặng.",
+      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2026/2/13/dfqror7owzulq5fa7hmv7ya46auwn4sxbgwc4t9h58jnayfeqfwtj8pfnlbmlvcimgb-1770967245085-17709672455801744548733-0-91-720-1243-crop-1770967703641689709282.jpg",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2026-02-13T08:09:13.772192",
+      "category": "tin tức",
+      "priority": 2
+    },
+    {
       "id": "9e4ae3b6e673",
       "title": "Cột mốc lớn của Game top 1 Doanh Thu Đại Lục cập bến bản Việt : Big update to nhất năm - Ra mắt Linh Tướng đầu tiên Tào Tháo",
       "link": "https://gamek.vn/cot-moc-lon-cua-game-top-1-doanh-thu-dai-luc-cap-ben-ban-viet-big-update-to-nhat-nam-ra-mat-linh-tuong-dau-tien-tao-thao-178260211173223112.chn",
@@ -1256,32 +1282,6 @@
       "source_url": "https://gamek.vn/rss",
       "published_at": null,
       "crawled_at": "2026-01-29T15:09:28.939847",
-      "category": "esports",
-      "priority": 2
-    },
-    {
-      "id": "d9c9a2598e65",
-      "title": "Đầu năm mới, nữ trọng tài gợi cảm nhất Esports Việt khiến cộng đồng \"không thể rời mắt\"",
-      "link": "https://gamek.vn/dau-nam-moi-nu-trong-tai-khoi-cam-nhat-esports-viet-khien-cong-dong-khong-the-roi-mat-178260128165138628.chn",
-      "summary": "Những bức ảnh của nữ trọng tài không quá phản cảm nhưng thực sự cũng rất gợi cảm.",
-      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2026/1/28/avatar1769607786575-17696077872521035898196.png",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2026-01-28T14:07:12.147951",
-      "category": "esports",
-      "priority": 2
-    },
-    {
-      "id": "af85115e72f0",
-      "title": "LCK tiếp tục khiến chính các đội trong khu vực gặp khó",
-      "link": "https://gamek.vn/lck-tiep-tuc-khien-chinh-cac-doi-trong-khu-vuc-gap-kho-178260128004410296.chn",
-      "summary": "LCK Roadshow có lợi cho giải đấu nhưng khiến chính fan Hàn bức xúc và có thể khiến các đội đang thi đấu gặp khó.",
-      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2026/1/28/lck-4-1769583548121861001096-0-0-750-1200-crop-17695837460391777534312.png",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2026-01-28T08:01:21.963996",
       "category": "esports",
       "priority": 2
     }
