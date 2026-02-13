@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-02-13T10:15:59.593369",
+  "last_updated": "2026-02-13T11:15:37.241551",
   "total_news": 100,
   "news": [
+    {
+      "id": "cc5001e645dd",
+      "title": "Mở bán hữu hạn trang phục LAURIEL MÃ ĐẰNG CỬU THẾ",
+      "link": "https://lienquan.garena.vn/mo-ban-huu-han-trang-phuc-lauriel-ma-dang-cuu-the/",
+      "summary": "<p>Xin chào các Kiện Tướng Hội Đồng xin gửi tới các bạn ưu đãi: Mở bán hữu hạn trang phục LAURIEL MÃ ĐẰNG CỬU THẾ &#160; &#160; NỘI DUNG VÀ THỜI GIAN Từ ngày 19/02/2026 &#8211; 09/03/2026: [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/mo-ban-huu-han-trang-phuc-lauriel-ma-dang-cuu-the/\">Mở bán hữu hạn trang phục LAURIEL MÃ ĐẰNG CỬU THẾ</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
+      "image_url": null,
+      "source": "Liên Quân Mobile Official",
+      "source_url": "https://lienquan.garena.vn/rss",
+      "published_at": "2026-02-13T10:23:05Z",
+      "crawled_at": "2026-02-13T11:10:43.270733",
+      "category": "tướng",
+      "priority": 1
+    },
     {
       "id": "de64dc768f73",
       "title": "MỞ BÁN HỮU HẠN VALHEIN MÃ HÀNH VẠN LÝ",
@@ -1270,19 +1283,6 @@
       "published_at": null,
       "crawled_at": "2026-01-31T17:03:55.239044",
       "category": "meta",
-      "priority": 2
-    },
-    {
-      "id": "a4eaa38e254f",
-      "title": "Ngày hội game Việt - Vietnam GameVerse 2026 có sự thay đổi mang tính cột mốc: Giải đấu Esports chuyên nghiệp chính thức xuất hiện",
-      "link": "https://gamek.vn/ngay-hoi-game-viet-nam-vietnam-gameverse-2026-co-su-thay-doi-mang-tinh-cot-moc-san-choi-esports-chinh-thuc-gop-mat-178260129212534381.chn",
-      "summary": "Những thông tin chính thức về ngày hội game Việt Nam - Vietnam GameVerse 2026.",
-      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2026/1/29/avatar1769696466420-1769696468392700937561.png",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2026-01-29T15:09:28.939847",
-      "category": "esports",
       "priority": 2
     }
   ]
