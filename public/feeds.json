@@ -66,11 +66,6 @@
       "type": "channel"
     },
     {
-      "id": "UCMHSTFMGp-k4Z0kG-CfMSWg",
-      "name": "HTT GAMER LIÊN QUÂN MOBILE",
-      "type": "channel"
-    },
-    {
       "id": "UCbRugPHs-2i48MbID-AnEVQ",
       "name": "Htt Gamer Liên Quân TV",
       "type": "channel"
@@ -78,11 +73,6 @@
     {
       "id": "UCKjyrROfuUjQ8EHpjFHgjRA",
       "name": "Ugi Desniana",
-      "type": "channel"
-    },
-    {
-      "id": "UCvQVuhijmaQVDmX27p2-T9w",
-      "name": "RumblyTV - Arena of Valor",
       "type": "channel"
     },
     {
@@ -98,6 +88,16 @@
     {
       "id": "UCgbMglNu16CgtxKRg3LrpjQ",
       "name": "CBNN Liên Quân Mobile",
+      "type": "channel"
+    },
+    {
+      "id": "UCkFXkptfsPHqcOwM5dPwkWQ",
+      "name": "Arena of Valor Türkiye",
+      "type": "channel"
+    },
+    {
+      "id": "UCtv7FcH7l5smWLI6PYzfmfA",
+      "name": "ANW Soundtrack",
       "type": "channel"
     }
   ],
