@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-14T13:20:51.239195",
+  "last_updated": "2026-02-14T14:10:07.861443",
   "total_news": 100,
   "news": [
     {
@@ -1169,6 +1169,19 @@
       "priority": 5
     },
     {
+      "id": "419403b252b0",
+      "title": "Trước thềm Playoffs, Peyz \"lập nhẹ\" một cột mốc ở rank Hàn",
+      "link": "https://gamek.vn/truoc-them-playoffs-peyz-lap-nhe-mot-cot-moc-o-rank-han-178260214172001419.chn",
+      "summary": "Quãng nghĩ cho T1 đang giúp Peyz có dấu ấn hậu trường cũng rất đáng chú ý.",
+      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2026/2/14/avatar1771065798516-17710657992181946875679.png",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2026-02-14T14:05:18.355907",
+      "category": "tin tức",
+      "priority": 2
+    },
+    {
       "id": "fb1dc1045b57",
       "title": "Nữ game thủ Liên Quân Thái Lan gây lùm xùm vì gian lận tại SEA Games 33 bị truy tố hình sự",
       "link": "https://gamek.vn/nu-game-thu-lien-quan-thai-lan-gay-lum-xum-vi-gian-lan-tai-sea-games-33-bi-truy-to-hinh-su-178260213142419348.chn",
@@ -1269,19 +1282,6 @@
       "source_url": "https://gamek.vn/rss",
       "published_at": null,
       "crawled_at": "2026-02-03T10:09:59.883615",
-      "category": "tướng",
-      "priority": 2
-    },
-    {
-      "id": "8daf90dec0db",
-      "title": "Đối thủ của Gia Cát Lượng gánh nỗi oan khuất nghìn năm không rửa sạch",
-      "link": "https://gamek.vn/doi-thu-cua-gia-cat-luong-ganh-noi-oan-khuat-nghin-nam-khong-rua-sach-178260202113917689.chn",
-      "summary": "Ông là vị tướng có tài năng quân sự kiệt xuất, hào hoa, cởi mở, khí phách hơn người nhưng nghìn năm qua mang tiếng xấu là kẻ hẹp hòi, luôn đố kỵ với Gia Cát Lượng.",
-      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2026/2/2/avatar1770007028236-1770007028756788763261.jpg",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2026-02-03T09:09:53.915242",
       "category": "tướng",
       "priority": 2
     }
