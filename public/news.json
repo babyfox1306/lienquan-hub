@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-15T12:06:31.384606",
+  "last_updated": "2026-02-15T13:21:37.135154",
   "total_news": 100,
   "news": [
     {
@@ -1169,6 +1169,19 @@
       "priority": 5
     },
     {
+      "id": "508e981286c7",
+      "title": "Nhìn lại làng Esports 2025: Lắm thăng trầm, \"vui ít buồn nhiều\"",
+      "link": "https://gamek.vn/nhin-lai-lang-esports-2025-lam-thang-tram-vui-it-buon-nhieu-178260215011915939.chn",
+      "summary": "Năm 2025 thực sự là một năm thăng trầm với Esports Việt nói riêng và thế giới nói chung.",
+      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2026/2/15/esports-viet-7-17711602980642020915712-0-0-562-900-crop-17711603016882097243015.png",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2026-02-15T13:16:45.368597",
+      "category": "esports",
+      "priority": 2
+    },
+    {
       "id": "419403b252b0",
       "title": "Trước thềm Playoffs, Peyz \"lập nhẹ\" một cột mốc ở rank Hàn",
       "link": "https://gamek.vn/truoc-them-playoffs-peyz-lap-nhe-mot-cot-moc-o-rank-han-178260214172001419.chn",
@@ -1269,19 +1282,6 @@
       "source_url": "https://gamek.vn/rss",
       "published_at": null,
       "crawled_at": "2026-02-04T12:04:21.560922",
-      "category": "tướng",
-      "priority": 2
-    },
-    {
-      "id": "9d7a949a8459",
-      "title": "Vị tướng 21 tuổi đánh thắng Quan Vũ, 25 tuổi suýt bắt sống Lưu Bị",
-      "link": "https://gamek.vn/vi-tuong-21-tuoi-danh-thang-quan-vu-25-tuoi-suyt-bat-song-luu-bi-178260202114338297.chn",
-      "summary": "Lưu Bị xót xa thốt lên khi suýt bị viên tướng trẻ này bắt sống: \"Lúc ta đến kinh thành, nó chỉ là một đứa trẻ, giờ đã đẩy ta đến bước đường này!\".",
-      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2026/2/2/avatar1770007202525-17700072034181753089690.jpg",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2026-02-03T10:09:59.883615",
       "category": "tướng",
       "priority": 2
     }
