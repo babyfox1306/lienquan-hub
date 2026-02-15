@@ -41,6 +41,11 @@
       "type": "channel"
     },
     {
+      "id": "UCeMjhoCCvujpObnt6yeZeNg",
+      "name": "Garena 傳說對決",
+      "type": "channel"
+    },
+    {
       "id": "UC1EOVZPr8neE-05eqKR_K-Q",
       "name": "ADC Gaming",
       "type": "channel"
@@ -68,11 +73,6 @@
     {
       "id": "UCB7b1Gb6yM-RyY0YW1HY6pA",
       "name": "Tainzo",
-      "type": "channel"
-    },
-    {
-      "id": "UCpkUzNC-PTa_Ju-xfT-CiDQ",
-      "name": "Ly Chuột Bạch",
       "type": "channel"
     },
     {
