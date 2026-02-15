@@ -76,11 +76,6 @@
       "type": "channel"
     },
     {
-      "id": "UCpkUzNC-PTa_Ju-xfT-CiDQ",
-      "name": "Ly Chuột Bạch",
-      "type": "channel"
-    },
-    {
       "id": "UCbRugPHs-2i48MbID-AnEVQ",
       "name": "Htt Gamer Liên Quân TV",
       "type": "channel"
@@ -98,6 +93,11 @@
     {
       "id": "UCdRY5czHAF_Ms15oJpfUM7A",
       "name": "Yue Bán Fans",
+      "type": "channel"
+    },
+    {
+      "id": "UCYfv7UcC1KOsvMD3BVVwoLg",
+      "name": "Esports - Garena Liên Quân Mobile",
       "type": "channel"
     }
   ],
