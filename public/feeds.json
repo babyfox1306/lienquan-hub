@@ -66,6 +66,11 @@
       "type": "channel"
     },
     {
+      "id": "UCCIYZ5cZ0V6Mx_DRGsRhzeA",
+      "name": "Liên Quân GameTV",
+      "type": "channel"
+    },
+    {
       "id": "UCLmVT2XmCej720HFtG7mwSQ",
       "name": "NTD LQ",
       "type": "channel"
@@ -93,11 +98,6 @@
     {
       "id": "UCYfv7UcC1KOsvMD3BVVwoLg",
       "name": "Esports - Garena Liên Quân Mobile",
-      "type": "channel"
-    },
-    {
-      "id": "UCgbMglNu16CgtxKRg3LrpjQ",
-      "name": "CBNN Liên Quân Mobile",
       "type": "channel"
     }
   ],
