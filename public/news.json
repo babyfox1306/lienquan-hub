@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-16T03:57:56.855081",
+  "last_updated": "2026-02-16T04:44:02.222188",
   "total_news": 100,
   "news": [
     {
@@ -1169,6 +1169,19 @@
       "priority": 5
     },
     {
+      "id": "4a37e7e0eaed",
+      "title": "Vị tướng bị chê \"hèn nhất\" Tam Quốc: Đấu ngang Trương Phi, suýt chém Triệu Vân nhưng chết vì quá nghe lời",
+      "link": "https://gamek.vn/vi-tuong-bi-che-hen-nhat-tam-quoc-dau-ngang-truong-phi-suyt-chem-trieu-van-nhung-chet-vi-qua-nghe-loi-178260213092711361.chn",
+      "summary": "Vị tướng này là ai?",
+      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2026/2/13/avatar1770949459510-17709494601111029989555.jpg",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2026-02-16T04:39:10.797886",
+      "category": "tướng",
+      "priority": 2
+    },
+    {
       "id": "7f731ae0f266",
       "title": "Thiếu Niên 3Q: Khởi Nguyên khai mở giải đấu Ban - Pick \"Đế Vương Đỉnh Phong\": Khi trí tuệ lên ngôi, quà tặng \"có hay không\" cũng quan trọng không kém",
       "link": "https://gamek.vn/thieu-nien-3q-khoi-nguyen-khai-mo-giai-dau-ban-pick-de-vuong-dinh-phong-khi-tri-tue-len-ngoi-qua-tang-co-hay-khong-cung-quan-trong-khong-kem-178260216101347379.chn",
@@ -1270,19 +1283,6 @@
       "published_at": null,
       "crawled_at": "2026-02-08T11:03:26.846250",
       "category": "esports",
-      "priority": 2
-    },
-    {
-      "id": "4dcc649dfb0d",
-      "title": "Vị tướng LMHT \"con ghẻ\" Riot bất ngờ xuất hiện tại LPL ở vai trò \"độc lạ\"",
-      "link": "https://gamek.vn/vi-tuong-lmht-con-ghe-riot-bat-ngo-xuat-hien-tai-lpl-o-vai-tro-doc-la-178260205033903549.chn",
-      "summary": "Một vị tướng LMHT tưởng chừng rơi vào \"quên lãng\" đã có lần debut tại LPL.",
-      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2026/2/5/tuong-lmht-3-17703157410301114809207-0-0-562-900-crop-17703157500781948146329.png",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2026-02-06T02:53:27.002042",
-      "category": "tướng",
       "priority": 2
     }
   ]
