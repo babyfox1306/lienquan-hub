@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-16T03:01:53.919507",
+  "last_updated": "2026-02-16T03:57:56.855081",
   "total_news": 100,
   "news": [
     {
@@ -1169,6 +1169,19 @@
       "priority": 5
     },
     {
+      "id": "7f731ae0f266",
+      "title": "Thiếu Niên 3Q: Khởi Nguyên khai mở giải đấu Ban - Pick \"Đế Vương Đỉnh Phong\": Khi trí tuệ lên ngôi, quà tặng \"có hay không\" cũng quan trọng không kém",
+      "link": "https://gamek.vn/thieu-nien-3q-khoi-nguyen-khai-mo-giai-dau-ban-pick-de-vuong-dinh-phong-khi-tri-tue-len-ngoi-qua-tang-co-hay-khong-cung-quan-trong-khong-kem-178260216101347379.chn",
+      "summary": "Không còn là những màn so kè lực chiến đơn thuần, giải đấu \"Đế Vương Đỉnh Phong\" của Thiếu Niên 3Q: Khởi Nguyên đang trở thành tâm điểm của cộng đồng chiến thuật Việt với cơ chế Ban - Pick \"hack não\" chưa từng có.",
+      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2026/2/16/avatar1771211515568-1771211516078200723241.png",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2026-02-16T03:53:07.675610",
+      "category": "esports",
+      "priority": 2
+    },
+    {
       "id": "508e981286c7",
       "title": "Nhìn lại làng Esports 2025: Lắm thăng trầm, \"vui ít buồn nhiều\"",
       "link": "https://gamek.vn/nhin-lai-lang-esports-2025-lam-thang-tram-vui-it-buon-nhieu-178260215011915939.chn",
@@ -1269,19 +1282,6 @@
       "source_url": "https://gamek.vn/rss",
       "published_at": null,
       "crawled_at": "2026-02-06T02:53:27.002042",
-      "category": "tướng",
-      "priority": 2
-    },
-    {
-      "id": "f5f65915329d",
-      "title": "Thống kê bất ngờ chứng minh Faker còn bền bỉ hơn hầu như toàn bộ tướng LMHT hiện nay",
-      "link": "https://gamek.vn/thong-ke-bat-ngo-chung-minh-faker-con-ben-bi-hon-hau-nhu-toan-bo-tuong-lmht-hien-nay-178260204131114614.chn",
-      "summary": "Thống kê của Faker tưởng bất ngờ nhưng lại rất hợp lý.",
-      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2026/2/4/faker-lck-4-1770201399096180388752-0-0-562-900-crop-17702014041641686467259.png",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2026-02-04T12:04:21.560922",
       "category": "tướng",
       "priority": 2
     }
