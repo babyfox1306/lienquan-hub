@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-16T10:20:01.616369",
+  "last_updated": "2026-02-16T11:18:00.945633",
   "total_news": 100,
   "news": [
     {
@@ -1169,6 +1169,19 @@
       "priority": 5
     },
     {
+      "id": "401a11e0ccb8",
+      "title": "Nữ MC nổi tiếng của LMHT Brazil “bẻ lái” không “làm nghề” nữa",
+      "link": "https://gamek.vn/nu-mc-noi-tieng-cua-lmht-brazil-be-lai-khong-lam-nghe-nua-178261602110233675.chn",
+      "summary": "Được coi là một trong những bóng hồng nổi tiếng nhất làng Esports Brazil, nữ MC này đã khiến nhiều fan bất ngờ khi gia nhập làng “bán quạt”.",
+      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2026/2/16/avatar1771239229123-17712392295764633789.jpeg",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2026-02-16T11:13:10.216314",
+      "category": "esports",
+      "priority": 2
+    },
+    {
       "id": "4a37e7e0eaed",
       "title": "Vị tướng bị chê \"hèn nhất\" Tam Quốc: Đấu ngang Trương Phi, suýt chém Triệu Vân nhưng chết vì quá nghe lời",
       "link": "https://gamek.vn/vi-tuong-bi-che-hen-nhat-tam-quoc-dau-ngang-truong-phi-suyt-chem-trieu-van-nhung-chet-vi-qua-nghe-loi-178260213092711361.chn",
@@ -1270,19 +1283,6 @@
       "published_at": null,
       "crawled_at": "2026-02-09T12:08:58.222187",
       "category": "tướng",
-      "priority": 2
-    },
-    {
-      "id": "a9405dac20b8",
-      "title": "MC Phương Thảo, Minh Nghi và Mai Dora khoe sắc trên thảm đỏ WeChoice Awards 2025",
-      "link": "https://gamek.vn/mc-phuong-thao-minh-nghi-va-mai-dora-khoe-sac-tren-tham-do-wechoice-awards-2025-178260208172928385.chn",
-      "summary": "Tối 7/2, sự kiện WeChoice Awards 2025 đã chính thức diễn ra tại TP.HCM, quy tụ hàng loạt ngôi sao đình đám của showbiz Việt. Tuy nhiên, tâm điểm của sự chú ý không chỉ dành cho các nghệ sĩ giải trí mà còn thuộc về sự xuất hiện lộng lẫy của bộ ba \"nữ thần\" làng Esports: MC Phương Thảo, Minh Nghi và Mai Dora.",
-      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2026/2/8/avatar1770546525279-17705465258361908691464.jpg",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2026-02-08T11:03:26.846250",
-      "category": "esports",
       "priority": 2
     }
   ]
