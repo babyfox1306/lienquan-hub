@@ -66,6 +66,11 @@
       "type": "channel"
     },
     {
+      "id": "UCaokzdz-Q_tLcbhDG5OAjUQ",
+      "name": "Đánh Giày",
+      "type": "channel"
+    },
+    {
       "id": "UCbRugPHs-2i48MbID-AnEVQ",
       "name": "Htt Gamer Liên Quân TV",
       "type": "channel"
@@ -76,18 +81,8 @@
       "type": "channel"
     },
     {
-      "id": "UCvQVuhijmaQVDmX27p2-T9w",
-      "name": "RumblyTV - Arena of Valor",
-      "type": "channel"
-    },
-    {
       "id": "UCJAd1REXSJbxzD7uJcrYcow",
       "name": "【公式】アリーナ・オブ・ヴァラー（アリヴァラ）",
-      "type": "channel"
-    },
-    {
-      "id": "UC9IMa50eipvZXSjynFJrc0w",
-      "name": "AOV Global Collection",
       "type": "channel"
     },
     {
@@ -98,6 +93,11 @@
     {
       "id": "UCkFXkptfsPHqcOwM5dPwkWQ",
       "name": "Arena of Valor Türkiye",
+      "type": "channel"
+    },
+    {
+      "id": "UC5LejsD5o-0rp8q7xiat9Rg",
+      "name": "Arena of Valor Bangladesh ",
       "type": "channel"
     }
   ],
