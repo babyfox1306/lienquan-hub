@@ -66,11 +66,6 @@
       "type": "channel"
     },
     {
-      "id": "UCaokzdz-Q_tLcbhDG5OAjUQ",
-      "name": "Đánh Giày",
-      "type": "channel"
-    },
-    {
       "id": "UCbRugPHs-2i48MbID-AnEVQ",
       "name": "Htt Gamer Liên Quân TV",
       "type": "channel"
@@ -86,6 +81,11 @@
       "type": "channel"
     },
     {
+      "id": "UC9IMa50eipvZXSjynFJrc0w",
+      "name": "AOV Global Collection",
+      "type": "channel"
+    },
+    {
       "id": "UCgbMglNu16CgtxKRg3LrpjQ",
       "name": "CBNN Liên Quân Mobile",
       "type": "channel"
@@ -96,8 +96,8 @@
       "type": "channel"
     },
     {
-      "id": "UC5LejsD5o-0rp8q7xiat9Rg",
-      "name": "Arena of Valor Bangladesh ",
+      "id": "UCtv7FcH7l5smWLI6PYzfmfA",
+      "name": "ANW Soundtrack",
       "type": "channel"
     }
   ],
