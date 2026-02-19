@@ -21,6 +21,11 @@
       "type": "channel"
     },
     {
+      "id": "UCAml1Hqu4LW36B3yEtQg8Fw",
+      "name": "FUNNY GAMING TV",
+      "type": "channel"
+    },
+    {
       "id": "UC3QLI0FHwACCaa91Xdpam2A",
       "name": "Trải Nghiệm Game",
       "type": "channel"
@@ -61,6 +66,11 @@
       "type": "channel"
     },
     {
+      "id": "UCpQ52533EsOa5k-dQSmD1jw",
+      "name": "Ha Le Quyen",
+      "type": "channel"
+    },
+    {
       "id": "UC1ysb__ddApp3PlDva5NAVw",
       "name": "Top 1 Liliana",
       "type": "channel"
@@ -71,6 +81,16 @@
       "type": "channel"
     },
     {
+      "id": "UCKjyrROfuUjQ8EHpjFHgjRA",
+      "name": "Ugi Desniana",
+      "type": "channel"
+    },
+    {
+      "id": "UCvQVuhijmaQVDmX27p2-T9w",
+      "name": "RumblyTV - Arena of Valor",
+      "type": "channel"
+    },
+    {
       "id": "UCJAd1REXSJbxzD7uJcrYcow",
       "name": "【公式】アリーナ・オブ・ヴァラー（アリヴァラ）",
       "type": "channel"
@@ -78,26 +98,6 @@
     {
       "id": "UC9IMa50eipvZXSjynFJrc0w",
       "name": "AOV Global Collection",
-      "type": "channel"
-    },
-    {
-      "id": "UCgbMglNu16CgtxKRg3LrpjQ",
-      "name": "CBNN Liên Quân Mobile",
-      "type": "channel"
-    },
-    {
-      "id": "UCkFXkptfsPHqcOwM5dPwkWQ",
-      "name": "Arena of Valor Türkiye",
-      "type": "channel"
-    },
-    {
-      "id": "UCtv7FcH7l5smWLI6PYzfmfA",
-      "name": "ANW Soundtrack",
-      "type": "channel"
-    },
-    {
-      "id": "UC5LejsD5o-0rp8q7xiat9Rg",
-      "name": "Arena of Valor Bangladesh ",
       "type": "channel"
     }
   ],
