@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-19T01:35:31.052931",
+  "last_updated": "2026-02-19T03:01:04.816062",
   "total_news": 100,
   "news": [
     {
@@ -1169,6 +1169,19 @@
       "priority": 5
     },
     {
+      "id": "99925bbf48c4",
+      "title": "Cộng đồng Thiếu Niên 3Q: Khởi Nguyên đang \"mất ăn mất ngủ\" vì đấu trí",
+      "link": "https://gamek.vn/cong-dong-thieu-nien-3q-khoi-nguyen-dang-mat-an-mat-ngu-vi-dau-tri-178260219000842987.chn",
+      "summary": "Không chỉ dừng lại ở những trận so tài nảy lửa trong game, sức nóng của giải đấu Ban - Pick \"Đế Vương Đỉnh Phong\" đã lan tỏa mạnh mẽ ra khắp các hội nhóm, biến cộng đồng Thiếu Niên 3Q: Khởi Nguyên trở thành một trong những cộng đồng sôi động nhất đầu năm 2026.",
+      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2026/2/18/avatar1771434414993-1771434415609287216675.jpg",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2026-02-19T02:56:17.020295",
+      "category": "esports",
+      "priority": 2
+    },
+    {
       "id": "401a11e0ccb8",
       "title": "Nữ MC nổi tiếng của LMHT Brazil “bẻ lái” không “làm nghề” nữa",
       "link": "https://gamek.vn/nu-mc-noi-tieng-cua-lmht-brazil-be-lai-khong-lam-nghe-nua-178261602110233675.chn",
@@ -1269,19 +1282,6 @@
       "source_url": "https://gamek.vn/rss",
       "published_at": null,
       "crawled_at": "2026-02-11T09:14:38.234998",
-      "category": "tướng",
-      "priority": 2
-    },
-    {
-      "id": "148df727d78a",
-      "title": "Faker khiến cả huyền thoại Đi Rừng như Peanut cũng ngỡ ngàng",
-      "link": "https://gamek.vn/faker-khien-ca-huyen-thoai-di-rung-nhu-peanut-cung-ngo-ngang-178260209185826095.chn",
-      "summary": "Rõ ràng Faker có sự am hiểu tướng LMHT rất tốt.",
-      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2026/2/9/avatar1770637488369-1770637488790133635483.png",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2026-02-09T12:08:58.222187",
       "category": "tướng",
       "priority": 2
     }
