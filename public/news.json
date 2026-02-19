@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-19T06:22:32.360062",
+  "last_updated": "2026-02-19T07:24:14.169966",
   "total_news": 100,
   "news": [
     {
@@ -1169,6 +1169,19 @@
       "priority": 5
     },
     {
+      "id": "4d7634286aa8",
+      "title": "Cao thủ ăn mày dạy Túy Quyền cho Hoàng Phi Hồng là ai?",
+      "link": "https://gamek.vn/cao-thu-an-may-day-tuy-quyen-cho-hoang-phi-hong-la-ai-178260217221244493.chn",
+      "summary": "Tô Xán là cao thủ trong “Quảng Đông Thập Hổ”, là người dạy Túy Quyền cho Hoàng Phi Hồng.",
+      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2026/2/17/avatar1771341020549-17713410211001219696422.jpg",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2026-02-19T07:19:25.731139",
+      "category": "tin tức",
+      "priority": 2
+    },
+    {
       "id": "99925bbf48c4",
       "title": "Cộng đồng Thiếu Niên 3Q: Khởi Nguyên đang \"mất ăn mất ngủ\" vì đấu trí",
       "link": "https://gamek.vn/cong-dong-thieu-nien-3q-khoi-nguyen-dang-mat-an-mat-ngu-vi-dau-tri-178260219000842987.chn",
@@ -1269,19 +1282,6 @@
       "source_url": "https://gamek.vn/rss",
       "published_at": null,
       "crawled_at": "2026-02-13T03:53:13.669452",
-      "category": "tướng",
-      "priority": 2
-    },
-    {
-      "id": "e18e6b3f97a2",
-      "title": "Huyền thoại LCK chỉ ra cái tên duy nhất có thể chơi tốt Azir tại LPL hiện tại",
-      "link": "https://gamek.vn/huyen-thoai-lck-chi-ra-cai-ten-duy-nhat-co-the-choi-tot-azir-tai-lpl-hien-tai-17826021102453219.chn",
-      "summary": "Azir là vị tướng \"mặc định\" của những midlaner LCK thượng thừa nhưng với LPL lại là câu chuyện khác.",
-      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2026/2/11/lck-lpl-azir-6-17707984433971475308670-0-0-562-900-crop-177079844760834506357.png",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2026-02-11T09:14:38.234998",
       "category": "tướng",
       "priority": 2
     }
