@@ -66,16 +66,6 @@
       "type": "channel"
     },
     {
-      "id": "UCaokzdz-Q_tLcbhDG5OAjUQ",
-      "name": "Đánh Giày",
-      "type": "channel"
-    },
-    {
-      "id": "UCvQVuhijmaQVDmX27p2-T9w",
-      "name": "RumblyTV - Arena of Valor",
-      "type": "channel"
-    },
-    {
       "id": "UCJAd1REXSJbxzD7uJcrYcow",
       "name": "【公式】アリーナ・オブ・ヴァラー（アリヴァラ）",
       "type": "channel"
@@ -98,6 +88,16 @@
     {
       "id": "UCtv7FcH7l5smWLI6PYzfmfA",
       "name": "ANW Soundtrack",
+      "type": "channel"
+    },
+    {
+      "id": "UC5LejsD5o-0rp8q7xiat9Rg",
+      "name": "Arena of Valor Bangladesh ",
+      "type": "channel"
+    },
+    {
+      "id": "UCPOUZYvN2RvYPOdXJIjQ-Ug",
+      "name": "Arena of Valor Brasil",
       "type": "channel"
     }
   ],
