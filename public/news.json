@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-20T16:13:00.684715",
+  "last_updated": "2026-02-20T17:16:05.439058",
   "total_news": 100,
   "news": [
     {
@@ -1169,6 +1169,19 @@
       "priority": 5
     },
     {
+      "id": "5107536b47d8",
+      "title": "Xuất hiện những thông tin đầu tiên về Esports Nation Cup, cộng đồng đoán luôn đội đại diện LCK",
+      "link": "https://gamek.vn/xuat-hien-nhung-thong-tin-dau-tien-ve-esports-nation-cup-cong-dong-doan-luon-doi-dai-dien-lck-178260220233447037.chn",
+      "summary": "Esports Nation Cup sẽ là một cơ hội nữa cho làng Esports thế giới và LMHT nói riêng.",
+      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2026/2/20/avatar1771604707274-1771604707843598893749.png",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2026-02-20T17:11:16.258116",
+      "category": "esports",
+      "priority": 2
+    },
+    {
       "id": "4d7634286aa8",
       "title": "Cao thủ ăn mày dạy Túy Quyền cho Hoàng Phi Hồng là ai?",
       "link": "https://gamek.vn/cao-thu-an-may-day-tuy-quyen-cho-hoang-phi-hong-la-ai-178260217221244493.chn",
@@ -1270,19 +1283,6 @@
       "published_at": null,
       "crawled_at": "2026-02-13T08:09:13.772192",
       "category": "tin tức",
-      "priority": 2
-    },
-    {
-      "id": "9e4ae3b6e673",
-      "title": "Cột mốc lớn của Game top 1 Doanh Thu Đại Lục cập bến bản Việt : Big update to nhất năm - Ra mắt Linh Tướng đầu tiên Tào Tháo",
-      "link": "https://gamek.vn/cot-moc-lon-cua-game-top-1-doanh-thu-dai-luc-cap-ben-ban-viet-big-update-to-nhat-nam-ra-mat-linh-tuong-dau-tien-tao-thao-178260211173223112.chn",
-      "summary": "Quần Anh Phong Hoa Lục của NPH Vplay hiện vẫn giữ vững vị trí số 1 tại các bảng xếp hạng Việt Nam",
-      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2026/2/11/avatar1770805674576-1770805675010183814809-0-6-456-736-crop-17708058195801049748214.jpg",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2026-02-13T03:53:13.669452",
-      "category": "tướng",
       "priority": 2
     }
   ]
