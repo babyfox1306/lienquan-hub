@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-21T07:15:08.128455",
+  "last_updated": "2026-02-21T08:07:22.328020",
   "total_news": 100,
   "news": [
     {
@@ -1169,6 +1169,19 @@
       "priority": 5
     },
     {
+      "id": "0eb48f4eb93c",
+      "title": "Cộng đồng LMHT mơ tương lai \"không tưởng\" với Esports Nation Cup 2026v",
+      "link": "https://gamek.vn/cong-dong-lmht-mo-tuong-lai-khong-tuong-voi-esports-nation-cup-2026v-17826022113072904.chn",
+      "summary": "Một viễn cảnh đang được nhiều fan LMHT nghĩ đến khi xuất hiện thông tin mới về Esports Nation Cup 2026.",
+      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2026/2/21/avatar1771657922659-1771657923369380992866.png",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2026-02-21T08:02:33.751318",
+      "category": "esports",
+      "priority": 2
+    },
+    {
       "id": "5107536b47d8",
       "title": "Xuất hiện những thông tin đầu tiên về Esports Nation Cup, cộng đồng đoán luôn đội đại diện LCK",
       "link": "https://gamek.vn/xuat-hien-nhung-thong-tin-dau-tien-ve-esports-nation-cup-cong-dong-doan-luon-doi-dai-dien-lck-178260220233447037.chn",
@@ -1269,19 +1282,6 @@
       "source_url": "https://gamek.vn/rss",
       "published_at": null,
       "crawled_at": "2026-02-14T14:05:18.355907",
-      "category": "tin tức",
-      "priority": 2
-    },
-    {
-      "id": "fb1dc1045b57",
-      "title": "Nữ game thủ Liên Quân Thái Lan gây lùm xùm vì gian lận tại SEA Games 33 bị truy tố hình sự",
-      "link": "https://gamek.vn/nu-game-thu-lien-quan-thai-lan-gay-lum-xum-vi-gian-lan-tai-sea-games-33-bi-truy-to-hinh-su-178260213142419348.chn",
-      "summary": "Nữ game thủ này có thể đối mặt với án phạt cực nặng.",
-      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2026/2/13/dfqror7owzulq5fa7hmv7ya46auwn4sxbgwc4t9h58jnayfeqfwtj8pfnlbmlvcimgb-1770967245085-17709672455801744548733-0-91-720-1243-crop-1770967703641689709282.jpg",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2026-02-13T08:09:13.772192",
       "category": "tin tức",
       "priority": 2
     }
