@@ -46,6 +46,11 @@
       "type": "channel"
     },
     {
+      "id": "UC1EOVZPr8neE-05eqKR_K-Q",
+      "name": "ADC Gaming",
+      "type": "channel"
+    },
+    {
       "id": "UC55ad8jzcIWCMU-o2CXMEAw",
       "name": "Thầy Giáo Liên Quân",
       "type": "channel"
@@ -93,11 +98,6 @@
     {
       "id": "UCWXXFvwmcOHxEk6IlhW1BhA",
       "name": "Phuc Ram",
-      "type": "channel"
-    },
-    {
-      "id": "UCdRY5czHAF_Ms15oJpfUM7A",
-      "name": "Yue Bán Fans",
       "type": "channel"
     }
   ],
