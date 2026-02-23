@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-02-23T14:21:18.561759",
+  "last_updated": "2026-02-23T15:18:51.069813",
   "total_news": 100,
   "news": [
+    {
+      "id": "41373c366705",
+      "title": "THÔNG BÁO SỰ CỐ & XIN LỖI CỘNG ĐỒNG VỀ LỖI SỰ KIỆN CHUNG SỨC MỞ VẬN",
+      "link": "https://lienquan.garena.vn/thong-bao-su-co-xin-loi-cong-dong-ve-loi-su-kien-chung-suc-mo-van/",
+      "summary": "<p>THÔNG BÁO SỰ CỐ &#38; XIN LỖI CỘNG ĐỒNG VỀ LỖI SỰ KIỆN CHUNG SỨC MỞ VẬN Kính gửi toàn thể các kiện tướng, Vào tối ngày 22/2, Hội Đồng nhận được báo cáo từ [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/thong-bao-su-co-xin-loi-cong-dong-ve-loi-su-kien-chung-suc-mo-van/\">THÔNG BÁO SỰ CỐ &#038; XIN LỖI CỘNG ĐỒNG VỀ LỖI SỰ KIỆN CHUNG SỨC MỞ VẬN</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
+      "image_url": null,
+      "source": "Liên Quân Mobile Official",
+      "source_url": "https://lienquan.garena.vn/rss",
+      "published_at": "2026-02-23T14:27:26Z",
+      "crawled_at": "2026-02-23T15:13:56.644629",
+      "category": "tướng",
+      "priority": 1
+    },
     {
       "id": "ba4d8e078c54",
       "title": "CẬP NHẬT THÔNG TIN SỰ KIỆN LÌ XÌ LINH BẢO",
@@ -1270,19 +1283,6 @@
       "published_at": null,
       "crawled_at": "2026-02-16T11:13:10.216314",
       "category": "esports",
-      "priority": 2
-    },
-    {
-      "id": "4a37e7e0eaed",
-      "title": "Vị tướng bị chê \"hèn nhất\" Tam Quốc: Đấu ngang Trương Phi, suýt chém Triệu Vân nhưng chết vì quá nghe lời",
-      "link": "https://gamek.vn/vi-tuong-bi-che-hen-nhat-tam-quoc-dau-ngang-truong-phi-suyt-chem-trieu-van-nhung-chet-vi-qua-nghe-loi-178260213092711361.chn",
-      "summary": "Vị tướng này là ai?",
-      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2026/2/13/avatar1770949459510-17709494601111029989555.jpg",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2026-02-16T04:39:10.797886",
-      "category": "tướng",
       "priority": 2
     }
   ]
