@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-02-23T03:01:35.724813",
+  "last_updated": "2026-02-23T03:56:14.135398",
   "total_news": 100,
   "news": [
+    {
+      "id": "af5e4ad3be06",
+      "title": "realme – “Sức Mạnh Real, Siêu Chiến Tích”: Nhà tài trợ Chính thức Đấu Trường Danh Vọng mùa Xuân 2026",
+      "link": "https://lienquan.garena.vn/realme-suc-manh-real-sieu-chien-tich-nha-tai-tro-chinh-thuc-dau-truong-danh-vong-mua-xuan-2026/",
+      "summary": "<p>realme – thương hiệu smartphone tăng trưởng nhanh hàng đầu thế giới – chính thức trở lại với vai trò Nhà tài trợ Chính thức của Đấu Trường Danh Vọng mùa Xuân 2026, tiếp tục [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/realme-suc-manh-real-sieu-chien-tich-nha-tai-tro-chinh-thuc-dau-truong-danh-vong-mua-xuan-2026/\">realme &#8211; “Sức Mạnh Real, Siêu Chiến Tích”: Nhà tài trợ Chính thức Đấu Trường Danh Vọng mùa Xuân 2026</a> appeared first on <a href=\"https://lienquan.garena.vn\"",
+      "image_url": null,
+      "source": "Liên Quân Mobile Official",
+      "source_url": "https://lienquan.garena.vn/rss",
+      "published_at": "2026-02-23T03:44:18Z",
+      "crawled_at": "2026-02-23T03:51:19.475470",
+      "category": "tin tức",
+      "priority": 1
+    },
     {
       "id": "bd9f633f91a6",
       "title": "Mở bán Grakk Ngũ Cốc Phong Đăng",
@@ -1270,19 +1283,6 @@
       "published_at": null,
       "crawled_at": "2026-02-15T13:16:45.368597",
       "category": "esports",
-      "priority": 2
-    },
-    {
-      "id": "419403b252b0",
-      "title": "Trước thềm Playoffs, Peyz \"lập nhẹ\" một cột mốc ở rank Hàn",
-      "link": "https://gamek.vn/truoc-them-playoffs-peyz-lap-nhe-mot-cot-moc-o-rank-han-178260214172001419.chn",
-      "summary": "Quãng nghĩ cho T1 đang giúp Peyz có dấu ấn hậu trường cũng rất đáng chú ý.",
-      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2026/2/14/avatar1771065798516-17710657992181946875679.png",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2026-02-14T14:05:18.355907",
-      "category": "tin tức",
       "priority": 2
     }
   ]
