@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-23T09:19:04.961676",
+  "last_updated": "2026-02-23T10:20:18.936774",
   "total_news": 100,
   "news": [
     {
@@ -1195,6 +1195,19 @@
       "priority": 5
     },
     {
+      "id": "e7de3d563b78",
+      "title": "Từ \"vua quán net\" đến kẻ đứng ngoài cuộc chơi: Nỗi lòng của thế hệ game thủ bị thời gian bỏ lại",
+      "link": "https://gamek.vn/tu-vua-quan-net-den-ke-dung-ngoai-cuoc-choi-noi-long-cua-the-he-game-thu-bi-thoi-gian-bo-lai-17826022316531804.chn",
+      "summary": "Chúng ta từng là những kẻ thống trị mọi bảng xếp hạng tại quán net cỏ đầu ngõ, nhưng giờ đây, khi đối mặt với những khái niệm như \"Metaverse\", \"Blockchain game\" hay \"Esports 2.0\", chúng ta bỗng thấy mình giống như những người tối cổ.",
+      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2026/2/23/avatar1771840136946-17718401372661730456116-0-0-278-445-crop-17718402621811168298524.jpg",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2026-02-23T10:15:31.870175",
+      "category": "esports",
+      "priority": 2
+    },
+    {
       "id": "0eb48f4eb93c",
       "title": "Cộng đồng LMHT mơ tương lai \"không tưởng\" với Esports Nation Cup 2026v",
       "link": "https://gamek.vn/cong-dong-lmht-mo-tuong-lai-khong-tuong-voi-esports-nation-cup-2026v-17826022113072904.chn",
@@ -1270,19 +1283,6 @@
       "published_at": null,
       "crawled_at": "2026-02-16T04:39:10.797886",
       "category": "tướng",
-      "priority": 2
-    },
-    {
-      "id": "7f731ae0f266",
-      "title": "Thiếu Niên 3Q: Khởi Nguyên khai mở giải đấu Ban - Pick \"Đế Vương Đỉnh Phong\": Khi trí tuệ lên ngôi, quà tặng \"có hay không\" cũng quan trọng không kém",
-      "link": "https://gamek.vn/thieu-nien-3q-khoi-nguyen-khai-mo-giai-dau-ban-pick-de-vuong-dinh-phong-khi-tri-tue-len-ngoi-qua-tang-co-hay-khong-cung-quan-trong-khong-kem-178260216101347379.chn",
-      "summary": "Không còn là những màn so kè lực chiến đơn thuần, giải đấu \"Đế Vương Đỉnh Phong\" của Thiếu Niên 3Q: Khởi Nguyên đang trở thành tâm điểm của cộng đồng chiến thuật Việt với cơ chế Ban - Pick \"hack não\" chưa từng có.",
-      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2026/2/16/avatar1771211515568-1771211516078200723241.png",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2026-02-16T03:53:07.675610",
-      "category": "esports",
       "priority": 2
     }
   ]
