@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-02-24T08:14:21.581796",
+  "last_updated": "2026-02-24T09:19:06.456316",
   "total_news": 100,
   "news": [
+    {
+      "id": "95141ecfa09b",
+      "title": "SỰ KIỆN ĐI LỄ ĐẦU XUÂN",
+      "link": "https://lienquan.garena.vn/su-kien-di-le-dau-xuan/",
+      "summary": "<p>1.Trong suốt 10 ngày sự kiện, mỗi ngày, ngôi chùa sẽ mở cửa theo 3 khung giờ linh thiêng: &#8211; 07:01 – 12:00 &#8211; 12:01 – 18:00 &#8211; 18:01 – 24:00&#8243; &#8220;Mỗi lần đăng nhập [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/su-kien-di-le-dau-xuan/\">SỰ KIỆN ĐI LỄ ĐẦU XUÂN</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
+      "image_url": null,
+      "source": "Liên Quân Mobile Official",
+      "source_url": "https://lienquan.garena.vn/rss",
+      "published_at": "2026-02-24T09:07:41Z",
+      "crawled_at": "2026-02-24T09:14:17.126086",
+      "category": "tin tức",
+      "priority": 1
+    },
     {
       "id": "41373c366705",
       "title": "THÔNG BÁO SỰ CỐ & XIN LỖI CỘNG ĐỒNG VỀ LỖI SỰ KIỆN CHUNG SỨC MỞ VẬN",
@@ -1269,19 +1282,6 @@
       "source_url": "https://gamek.vn/rss",
       "published_at": null,
       "crawled_at": "2026-02-19T02:56:17.020295",
-      "category": "esports",
-      "priority": 2
-    },
-    {
-      "id": "401a11e0ccb8",
-      "title": "Nữ MC nổi tiếng của LMHT Brazil “bẻ lái” không “làm nghề” nữa",
-      "link": "https://gamek.vn/nu-mc-noi-tieng-cua-lmht-brazil-be-lai-khong-lam-nghe-nua-178261602110233675.chn",
-      "summary": "Được coi là một trong những bóng hồng nổi tiếng nhất làng Esports Brazil, nữ MC này đã khiến nhiều fan bất ngờ khi gia nhập làng “bán quạt”.",
-      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2026/2/16/avatar1771239229123-17712392295764633789.jpeg",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2026-02-16T11:13:10.216314",
       "category": "esports",
       "priority": 2
     }
