@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-02-25T10:20:07.831505",
+  "last_updated": "2026-02-25T11:18:51.681400",
   "total_news": 100,
   "news": [
+    {
+      "id": "ec2a8612fde9",
+      "title": "SỰ KIỆN RA MẮT TRANG PHỤC MARJA HI PHI",
+      "link": "https://lienquan.garena.vn/su-kien-ra-mat-trang-phuc-marja-hi-phi/",
+      "summary": "<p>&#160; Thời gian sự kiện: 28.02 &#8211; 29.03 Trong thời gian diễn ra sự kiện, người chơi có thể sở hữu trang phục Marja Hi Phi thông qua 1 trong 3 cách sau: 1️. Tham [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/su-kien-ra-mat-trang-phuc-marja-hi-phi/\">SỰ KIỆN RA MẮT TRANG PHỤC MARJA HI PHI</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
+      "image_url": null,
+      "source": "Liên Quân Mobile Official",
+      "source_url": "https://lienquan.garena.vn/rss",
+      "published_at": "2026-02-25T10:20:39Z",
+      "crawled_at": "2026-02-25T11:14:01.753972",
+      "category": "skin",
+      "priority": 1
+    },
     {
       "id": "95141ecfa09b",
       "title": "SỰ KIỆN ĐI LỄ ĐẦU XUÂN",
@@ -1270,19 +1283,6 @@
       "published_at": null,
       "crawled_at": "2026-02-20T17:11:16.258116",
       "category": "esports",
-      "priority": 2
-    },
-    {
-      "id": "4d7634286aa8",
-      "title": "Cao thủ ăn mày dạy Túy Quyền cho Hoàng Phi Hồng là ai?",
-      "link": "https://gamek.vn/cao-thu-an-may-day-tuy-quyen-cho-hoang-phi-hong-la-ai-178260217221244493.chn",
-      "summary": "Tô Xán là cao thủ trong “Quảng Đông Thập Hổ”, là người dạy Túy Quyền cho Hoàng Phi Hồng.",
-      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2026/2/17/avatar1771341020549-17713410211001219696422.jpg",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2026-02-19T07:19:25.731139",
-      "category": "tin tức",
       "priority": 2
     }
   ]
