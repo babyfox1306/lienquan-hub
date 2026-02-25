@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-25T06:24:10.311223",
+  "last_updated": "2026-02-25T07:24:32.089015",
   "total_news": 100,
   "news": [
     {
@@ -1221,6 +1221,19 @@
       "priority": 5
     },
     {
+      "id": "6f843d506db9",
+      "title": "Cuộc đời game thủ: Chẳng ai cô đơn đến thế, cho đến khi crush gửi tin nhắn... đòi chia tay vì game",
+      "link": "https://gamek.vn/cuoc-doi-game-thu-chang-ai-co-don-den-the-cho-den-khi-crush-gui-tin-nhan-doi-chia-tay-vi-game-178260225141641672.chn",
+      "summary": "Có những game thủ, họ có thể \"quét sạch\" cả team địch, leo rank Thách Đấu chỉ với một tay, nhưng lại \"toát mồ hôi hột\" khi người yêu hỏi: \"Anh chọn game hay em?\". Và cái kết thường là, họ có cả một... cái thanh niên cứng để ôm.",
+      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2026/2/25/avatar1772003726088-177200372663294293306-81-0-721-1024-crop-1772003756811310310773.jpg",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2026-02-25T07:19:44.322702",
+      "category": "tin tức",
+      "priority": 2
+    },
+    {
       "id": "e7de3d563b78",
       "title": "Từ \"vua quán net\" đến kẻ đứng ngoài cuộc chơi: Nỗi lòng của thế hệ game thủ bị thời gian bỏ lại",
       "link": "https://gamek.vn/tu-vua-quan-net-den-ke-dung-ngoai-cuoc-choi-noi-long-cua-the-he-game-thu-bi-thoi-gian-bo-lai-17826022316531804.chn",
@@ -1270,19 +1283,6 @@
       "published_at": null,
       "crawled_at": "2026-02-19T07:19:25.731139",
       "category": "tin tức",
-      "priority": 2
-    },
-    {
-      "id": "99925bbf48c4",
-      "title": "Cộng đồng Thiếu Niên 3Q: Khởi Nguyên đang \"mất ăn mất ngủ\" vì đấu trí",
-      "link": "https://gamek.vn/cong-dong-thieu-nien-3q-khoi-nguyen-dang-mat-an-mat-ngu-vi-dau-tri-178260219000842987.chn",
-      "summary": "Không chỉ dừng lại ở những trận so tài nảy lửa trong game, sức nóng của giải đấu Ban - Pick \"Đế Vương Đỉnh Phong\" đã lan tỏa mạnh mẽ ra khắp các hội nhóm, biến cộng đồng Thiếu Niên 3Q: Khởi Nguyên trở thành một trong những cộng đồng sôi động nhất đầu năm 2026.",
-      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2026/2/18/avatar1771434414993-1771434415609287216675.jpg",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2026-02-19T02:56:17.020295",
-      "category": "esports",
       "priority": 2
     }
   ]
