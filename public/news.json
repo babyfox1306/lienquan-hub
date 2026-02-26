@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-26T10:17:56.499767",
+  "last_updated": "2026-02-26T11:18:20.582493",
   "total_news": 100,
   "news": [
     {
@@ -1247,6 +1247,19 @@
       "priority": 5
     },
     {
+      "id": "15c5688d01d3",
+      "title": "Lần đầu tiên VN đào tạo 5.000 nhân tài phát triển game để làm một việc có ảnh hưởng tới hàng triệu dân",
+      "link": "https://gamek.vn/lan-dau-tien-vn-dao-tao-5000-nhan-tai-phat-trien-game-de-lam-mot-viec-co-anh-huong-toi-hang-trieu-dan-178260226172721813.chn",
+      "summary": "Thông tin về chương trình đào tạo này vừa được Phó Thủ tướng Thường trực chia sẻ vào ngày 25/2.",
+      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2026/2/26/avatar1772100652521-1772100655923235959108.jpg",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2026-02-26T11:13:33.143697",
+      "category": "tướng",
+      "priority": 2
+    },
+    {
       "id": "6f843d506db9",
       "title": "Cuộc đời game thủ: Chẳng ai cô đơn đến thế, cho đến khi crush gửi tin nhắn... đòi chia tay vì game",
       "link": "https://gamek.vn/cuoc-doi-game-thu-chang-ai-co-don-den-the-cho-den-khi-crush-gui-tin-nhan-doi-chia-tay-vi-game-178260225141641672.chn",
@@ -1269,19 +1282,6 @@
       "source_url": "https://gamek.vn/rss",
       "published_at": null,
       "crawled_at": "2026-02-23T10:15:31.870175",
-      "category": "esports",
-      "priority": 2
-    },
-    {
-      "id": "0eb48f4eb93c",
-      "title": "Cộng đồng LMHT mơ tương lai \"không tưởng\" với Esports Nation Cup 2026v",
-      "link": "https://gamek.vn/cong-dong-lmht-mo-tuong-lai-khong-tuong-voi-esports-nation-cup-2026v-17826022113072904.chn",
-      "summary": "Một viễn cảnh đang được nhiều fan LMHT nghĩ đến khi xuất hiện thông tin mới về Esports Nation Cup 2026.",
-      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2026/2/21/avatar1771657922659-1771657923369380992866.png",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2026-02-21T08:02:33.751318",
       "category": "esports",
       "priority": 2
     }
