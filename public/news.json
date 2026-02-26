@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-02-26T09:18:25.905956",
+  "last_updated": "2026-02-26T10:17:56.499767",
   "total_news": 100,
   "news": [
+    {
+      "id": "02db2c211aeb",
+      "title": "ĐIỀU CHỈNH GIỮA MÙA PB TÂN NIÊN KHỞI THẾ – 27.02.2026",
+      "link": "https://lienquan.garena.vn/dieu-chinh-giua-mua-pb-tan-nien-khoi-the-27-02-2026/",
+      "summary": "<p>Xin chào các Kiện Tướng, Liên Quân Mobile sẽ tiến hành cập nhật không gián đoạn cho máy chủ chính thức vào ngày 27/02/2026. Trong thời gian quy định, các Kiện tướng có thể tự chọn thời điểm [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/dieu-chinh-giua-mua-pb-tan-nien-khoi-the-27-02-2026/\">ĐIỀU CHỈNH GIỮA MÙA PB TÂN NIÊN KHỞI THẾ – 27.02.2026</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
+      "image_url": null,
+      "source": "Liên Quân Mobile Official",
+      "source_url": "https://lienquan.garena.vn/rss",
+      "published_at": "2026-02-26T10:00:50Z",
+      "crawled_at": "2026-02-26T10:13:09.205130",
+      "category": "tướng",
+      "priority": 1
+    },
     {
       "id": "ec2a8612fde9",
       "title": "SỰ KIỆN RA MẮT TRANG PHỤC MARJA HI PHI",
@@ -1269,19 +1282,6 @@
       "source_url": "https://gamek.vn/rss",
       "published_at": null,
       "crawled_at": "2026-02-21T08:02:33.751318",
-      "category": "esports",
-      "priority": 2
-    },
-    {
-      "id": "5107536b47d8",
-      "title": "Xuất hiện những thông tin đầu tiên về Esports Nation Cup, cộng đồng đoán luôn đội đại diện LCK",
-      "link": "https://gamek.vn/xuat-hien-nhung-thong-tin-dau-tien-ve-esports-nation-cup-cong-dong-doan-luon-doi-dai-dien-lck-178260220233447037.chn",
-      "summary": "Esports Nation Cup sẽ là một cơ hội nữa cho làng Esports thế giới và LMHT nói riêng.",
-      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2026/2/20/avatar1771604707274-1771604707843598893749.png",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2026-02-20T17:11:16.258116",
       "category": "esports",
       "priority": 2
     }
