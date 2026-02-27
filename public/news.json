@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-02-27T12:09:04.328520",
+  "last_updated": "2026-02-27T13:27:51.287131",
   "total_news": 100,
   "news": [
+    {
+      "id": "a4edfdb1f5a1",
+      "title": "LỊCH THI ĐẤU LƯỢT ĐI – VÒNG BẢNG (GIAI ĐOẠN 1) – ĐTDV MÙA XUÂN 2026",
+      "link": "https://lienquan.garena.vn/lich-thi-dau-luot-di-vong-bang-giai-doan-1-dtdv-mua-xuan-2026/",
+      "summary": "<p>Chính thức khởi tranh ĐTDV mùa Xuân 2026 từ ngày 28/02. Cùng theo dõi lịch thi đấu để không bỏ lỡ những pha giao tranh rực lửa nhé.  Lượt đi tuần 1 (28/02 &#8211; 01/03) [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/lich-thi-dau-luot-di-vong-bang-giai-doan-1-dtdv-mua-xuan-2026/\">LỊCH THI ĐẤU LƯỢT ĐI – VÒNG BẢNG (GIAI ĐOẠN 1) – ĐTDV MÙA XUÂN 2026</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
+      "image_url": null,
+      "source": "Liên Quân Mobile Official",
+      "source_url": "https://lienquan.garena.vn/rss",
+      "published_at": "2026-02-27T12:43:02Z",
+      "crawled_at": "2026-02-27T13:22:59.926160",
+      "category": "tin tức",
+      "priority": 1
+    },
     {
       "id": "02db2c211aeb",
       "title": "ĐIỀU CHỈNH GIỮA MÙA PB TÂN NIÊN KHỞI THẾ – 27.02.2026",
@@ -1270,19 +1283,6 @@
       "published_at": null,
       "crawled_at": "2026-02-25T07:19:44.322702",
       "category": "tin tức",
-      "priority": 2
-    },
-    {
-      "id": "e7de3d563b78",
-      "title": "Từ \"vua quán net\" đến kẻ đứng ngoài cuộc chơi: Nỗi lòng của thế hệ game thủ bị thời gian bỏ lại",
-      "link": "https://gamek.vn/tu-vua-quan-net-den-ke-dung-ngoai-cuoc-choi-noi-long-cua-the-he-game-thu-bi-thoi-gian-bo-lai-17826022316531804.chn",
-      "summary": "Chúng ta từng là những kẻ thống trị mọi bảng xếp hạng tại quán net cỏ đầu ngõ, nhưng giờ đây, khi đối mặt với những khái niệm như \"Metaverse\", \"Blockchain game\" hay \"Esports 2.0\", chúng ta bỗng thấy mình giống như những người tối cổ.",
-      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2026/2/23/avatar1771840136946-17718401372661730456116-0-0-278-445-crop-17718402621811168298524.jpg",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2026-02-23T10:15:31.870175",
-      "category": "esports",
       "priority": 2
     }
   ]
