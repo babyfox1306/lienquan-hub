@@ -21,6 +21,11 @@
       "type": "channel"
     },
     {
+      "id": "UCAml1Hqu4LW36B3yEtQg8Fw",
+      "name": "FUNNY GAMING TV",
+      "type": "channel"
+    },
+    {
       "id": "UC3QLI0FHwACCaa91Xdpam2A",
       "name": "Trải Nghiệm Game",
       "type": "channel"
@@ -76,6 +81,11 @@
       "type": "channel"
     },
     {
+      "id": "UCpkUzNC-PTa_Ju-xfT-CiDQ",
+      "name": "Ly Chuột Bạch",
+      "type": "channel"
+    },
+    {
       "id": "UCaokzdz-Q_tLcbhDG5OAjUQ",
       "name": "Đánh Giày",
       "type": "channel"
@@ -88,16 +98,6 @@
     {
       "id": "UCdRY5czHAF_Ms15oJpfUM7A",
       "name": "Yue Bán Fans",
-      "type": "channel"
-    },
-    {
-      "id": "UCYfv7UcC1KOsvMD3BVVwoLg",
-      "name": "Esports - Garena Liên Quân Mobile",
-      "type": "channel"
-    },
-    {
-      "id": "UCgbMglNu16CgtxKRg3LrpjQ",
-      "name": "CBNN Liên Quân Mobile",
       "type": "channel"
     }
   ],
