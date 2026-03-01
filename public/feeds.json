@@ -41,6 +41,11 @@
       "type": "channel"
     },
     {
+      "id": "UC9gbpSZsxLTsVgiPyUsU8sg",
+      "name": "Trưởng Star",
+      "type": "channel"
+    },
+    {
       "id": "UC1EOVZPr8neE-05eqKR_K-Q",
       "name": "ADC Gaming",
       "type": "channel"
@@ -93,11 +98,6 @@
     {
       "id": "UCdRY5czHAF_Ms15oJpfUM7A",
       "name": "Yue Bán Fans",
-      "type": "channel"
-    },
-    {
-      "id": "UCHO0lyTSaolobfU9DX-dT-Q",
-      "name": "Jaiden Cozy Hours",
       "type": "channel"
     }
   ],
