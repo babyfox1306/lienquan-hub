@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-03-02T02:58:06.431920",
+  "last_updated": "2026-03-02T03:49:26.195650",
   "total_news": 100,
   "news": [
+    {
+      "id": "a09237507321",
+      "title": "MỞ BÁN SỔ SỨ MỆNH 87",
+      "link": "https://lienquan.garena.vn/mo-ban-so-su-menh-87/",
+      "summary": "<p>Xin chào các Kiện Tướng, Chào mừng đến với Sổ Sứ Mệnh mùa 87 &#8211; Rạp xiếc kỳ ảo SỔ SỨ MỆNH MÙA 87 Các Kiện Tướng có hai lựa chọn tham gia Sổ Sứ [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/mo-ban-so-su-menh-87/\">MỞ BÁN SỔ SỨ MỆNH 87</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
+      "image_url": null,
+      "source": "Liên Quân Mobile Official",
+      "source_url": "https://lienquan.garena.vn/rss",
+      "published_at": "2026-03-02T03:32:58Z",
+      "crawled_at": "2026-03-02T03:44:34.565265",
+      "category": "tướng",
+      "priority": 1
+    },
     {
       "id": "a4edfdb1f5a1",
       "title": "LỊCH THI ĐẤU LƯỢT ĐI – VÒNG BẢNG (GIAI ĐOẠN 1) – ĐTDV MÙA XUÂN 2026",
@@ -1270,19 +1283,6 @@
       "published_at": null,
       "crawled_at": "2026-02-26T11:13:33.143697",
       "category": "tướng",
-      "priority": 2
-    },
-    {
-      "id": "6f843d506db9",
-      "title": "Cuộc đời game thủ: Chẳng ai cô đơn đến thế, cho đến khi crush gửi tin nhắn... đòi chia tay vì game",
-      "link": "https://gamek.vn/cuoc-doi-game-thu-chang-ai-co-don-den-the-cho-den-khi-crush-gui-tin-nhan-doi-chia-tay-vi-game-178260225141641672.chn",
-      "summary": "Có những game thủ, họ có thể \"quét sạch\" cả team địch, leo rank Thách Đấu chỉ với một tay, nhưng lại \"toát mồ hôi hột\" khi người yêu hỏi: \"Anh chọn game hay em?\". Và cái kết thường là, họ có cả một... cái thanh niên cứng để ôm.",
-      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2026/2/25/avatar1772003726088-177200372663294293306-81-0-721-1024-crop-1772003756811310310773.jpg",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2026-02-25T07:19:44.322702",
-      "category": "tin tức",
       "priority": 2
     }
   ]
