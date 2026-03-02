@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-03-02T10:17:53.715959",
+  "last_updated": "2026-03-02T11:16:18.865472",
   "total_news": 100,
   "news": [
+    {
+      "id": "6ba6fd4793aa",
+      "title": "Veres Lưu Ly Long Mẫu Trở Lại",
+      "link": "https://lienquan.garena.vn/veres-luu-ly-long-mau-tro-lai/",
+      "summary": "<p>Thời gian sự kiện: 02.03 &#8211; 31.03 Vật phẩm có thể nhận Số lượt quay tối đa để chắc chắn nhận Trang phục Veres Lưu Ly Long Mẫu 150 Thẻ giảm giá trang phục 399QH [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/veres-luu-ly-long-mau-tro-lai/\">Veres Lưu Ly Long Mẫu Trở Lại</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
+      "image_url": null,
+      "source": "Liên Quân Mobile Official",
+      "source_url": "https://lienquan.garena.vn/rss",
+      "published_at": "2026-03-02T10:54:38Z",
+      "crawled_at": "2026-03-02T11:11:27.572761",
+      "category": "skin",
+      "priority": 1
+    },
     {
       "id": "a09237507321",
       "title": "MỞ BÁN SỔ SỨ MỆNH 87",
@@ -1271,19 +1284,6 @@
       "crawled_at": "2025-09-30T13:03:38.354251",
       "category": "tướng",
       "priority": 5
-    },
-    {
-      "id": "15c5688d01d3",
-      "title": "Lần đầu tiên VN đào tạo 5.000 nhân tài phát triển game để làm một việc có ảnh hưởng tới hàng triệu dân",
-      "link": "https://gamek.vn/lan-dau-tien-vn-dao-tao-5000-nhan-tai-phat-trien-game-de-lam-mot-viec-co-anh-huong-toi-hang-trieu-dan-178260226172721813.chn",
-      "summary": "Thông tin về chương trình đào tạo này vừa được Phó Thủ tướng Thường trực chia sẻ vào ngày 25/2.",
-      "image_url": "https://gamek.mediacdn.vn/zoom/1200_900/133514250583805952/2026/2/26/avatar1772100652521-1772100655923235959108.jpg",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2026-02-26T11:13:33.143697",
-      "category": "tướng",
-      "priority": 2
     }
   ]
 }
