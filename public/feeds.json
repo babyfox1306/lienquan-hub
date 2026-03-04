@@ -11,21 +11,6 @@
       "type": "channel"
     },
     {
-      "id": "UCy19QXxbCHh8qVVCbuGk-ig",
-      "name": "Garena RoV Thailand",
-      "type": "channel"
-    },
-    {
-      "id": "UCykFSnImGNa-5DABblw7K-w",
-      "name": "Gcaothu CHANNEL",
-      "type": "channel"
-    },
-    {
-      "id": "UCAml1Hqu4LW36B3yEtQg8Fw",
-      "name": "FUNNY GAMING TV",
-      "type": "channel"
-    },
-    {
       "id": "UC3QLI0FHwACCaa91Xdpam2A",
       "name": "Trải Nghiệm Game",
       "type": "channel"
@@ -41,13 +26,18 @@
       "type": "channel"
     },
     {
-      "id": "UC9gbpSZsxLTsVgiPyUsU8sg",
-      "name": "Trưởng Star",
+      "id": "UC6HjxH0ntp5iPtYYWfYpSNQ",
+      "name": "KINAS MOBILE",
       "type": "channel"
     },
     {
-      "id": "UC1EOVZPr8neE-05eqKR_K-Q",
-      "name": "ADC Gaming",
+      "id": "UCGXK_oDUDxeJM4zOO9vklfw",
+      "name": "MSUONG CHANNEL",
+      "type": "channel"
+    },
+    {
+      "id": "UCk2YqVRGYV6F3i005GTxYlg",
+      "name": "Cờ Liên Quân - Garena",
       "type": "channel"
     },
     {
@@ -58,11 +48,6 @@
     {
       "id": "UCwrzeq94NPsz1EHap9r_9NA",
       "name": "Lai Bâng",
-      "type": "channel"
-    },
-    {
-      "id": "UCyqjmx1kcZknycssiIhFQKw",
-      "name": "VuxGaming",
       "type": "channel"
     },
     {
@@ -81,8 +66,8 @@
       "type": "channel"
     },
     {
-      "id": "UCB7b1Gb6yM-RyY0YW1HY6pA",
-      "name": "Tainzo",
+      "id": "UCVVoMk8UNpVIdo5BgszmLnw",
+      "name": "Học Viện Liên Quân",
       "type": "channel"
     },
     {
@@ -91,13 +76,28 @@
       "type": "channel"
     },
     {
-      "id": "UCaokzdz-Q_tLcbhDG5OAjUQ",
-      "name": "Đánh Giày",
+      "id": "UCHO0lyTSaolobfU9DX-dT-Q",
+      "name": "Jaiden Cozy Hours",
       "type": "channel"
     },
     {
-      "id": "UCWXXFvwmcOHxEk6IlhW1BhA",
-      "name": "Phuc Ram",
+      "id": "UCvQQ7iz_thJkoQR1U3qQ6pA",
+      "name": "Box Liên Quân",
+      "type": "channel"
+    },
+    {
+      "id": "UCgbMglNu16CgtxKRg3LrpjQ",
+      "name": "CBNN Liên Quân Mobile",
+      "type": "channel"
+    },
+    {
+      "id": "UCdSGpiTIGwzlQQ9VP1IJXgg",
+      "name": "Bốp Bốp Top1 Liên Quân",
+      "type": "channel"
+    },
+    {
+      "id": "UCw8P1McVFUugpm0TB6GuvNA",
+      "name": "GKL8 Liên Quân ",
       "type": "channel"
     }
   ],
