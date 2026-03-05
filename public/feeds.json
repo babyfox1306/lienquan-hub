@@ -16,16 +16,6 @@
       "type": "channel"
     },
     {
-      "id": "UCykFSnImGNa-5DABblw7K-w",
-      "name": "Gcaothu CHANNEL",
-      "type": "channel"
-    },
-    {
-      "id": "UCAml1Hqu4LW36B3yEtQg8Fw",
-      "name": "FUNNY GAMING TV",
-      "type": "channel"
-    },
-    {
       "id": "UC3QLI0FHwACCaa91Xdpam2A",
       "name": "Trải Nghiệm Game",
       "type": "channel"
@@ -41,13 +31,13 @@
       "type": "channel"
     },
     {
-      "id": "UC9gbpSZsxLTsVgiPyUsU8sg",
-      "name": "Trưởng Star",
+      "id": "UCeMjhoCCvujpObnt6yeZeNg",
+      "name": "Garena 傳說對決",
       "type": "channel"
     },
     {
-      "id": "UC1EOVZPr8neE-05eqKR_K-Q",
-      "name": "ADC Gaming",
+      "id": "UCgYkGvtBuY4onYm2Eh61zwQ",
+      "name": "Arena of Valor",
       "type": "channel"
     },
     {
@@ -56,18 +46,8 @@
       "type": "channel"
     },
     {
-      "id": "UCyqjmx1kcZknycssiIhFQKw",
-      "name": "VuxGaming",
-      "type": "channel"
-    },
-    {
-      "id": "UCpQ52533EsOa5k-dQSmD1jw",
-      "name": "Ha Le Quyen",
-      "type": "channel"
-    },
-    {
-      "id": "UC1ysb__ddApp3PlDva5NAVw",
-      "name": "Top 1 Liliana",
+      "id": "UCDk4tfW1Iku9-0S7L5cZP4A",
+      "name": "Arena of Valor - Topic",
       "type": "channel"
     },
     {
@@ -76,28 +56,48 @@
       "type": "channel"
     },
     {
-      "id": "UCpkUzNC-PTa_Ju-xfT-CiDQ",
-      "name": "Ly Chuột Bạch",
+      "id": "UCVVoMk8UNpVIdo5BgszmLnw",
+      "name": "Học Viện Liên Quân",
       "type": "channel"
     },
     {
-      "id": "UCaokzdz-Q_tLcbhDG5OAjUQ",
-      "name": "Đánh Giày",
+      "id": "UCKjyrROfuUjQ8EHpjFHgjRA",
+      "name": "Ugi Desniana",
       "type": "channel"
     },
     {
-      "id": "UCWXXFvwmcOHxEk6IlhW1BhA",
-      "name": "Phuc Ram",
+      "id": "UCvQVuhijmaQVDmX27p2-T9w",
+      "name": "RumblyTV - Arena of Valor",
       "type": "channel"
     },
     {
-      "id": "UCdRY5czHAF_Ms15oJpfUM7A",
-      "name": "Yue Bán Fans",
+      "id": "UCgbMglNu16CgtxKRg3LrpjQ",
+      "name": "CBNN Liên Quân Mobile",
       "type": "channel"
     },
     {
-      "id": "UCrROWQp9uPZUiTVHuWBwj9g",
-      "name": "Namsensei",
+      "id": "UCkFXkptfsPHqcOwM5dPwkWQ",
+      "name": "Arena of Valor Türkiye",
+      "type": "channel"
+    },
+    {
+      "id": "UCdSGpiTIGwzlQQ9VP1IJXgg",
+      "name": "Bốp Bốp Top1 Liên Quân",
+      "type": "channel"
+    },
+    {
+      "id": "UC5LejsD5o-0rp8q7xiat9Rg",
+      "name": "Arena of Valor Bangladesh ",
+      "type": "channel"
+    },
+    {
+      "id": "UCPOUZYvN2RvYPOdXJIjQ-Ug",
+      "name": "Arena of Valor Brasil",
+      "type": "channel"
+    },
+    {
+      "id": "UC1Q3cPFjggqrnm-gF44_OBw",
+      "name": "Valor Series",
       "type": "channel"
     }
   ],
