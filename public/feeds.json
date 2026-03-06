@@ -21,6 +21,11 @@
       "type": "channel"
     },
     {
+      "id": "UCAml1Hqu4LW36B3yEtQg8Fw",
+      "name": "FUNNY GAMING TV",
+      "type": "channel"
+    },
+    {
       "id": "UC3QLI0FHwACCaa91Xdpam2A",
       "name": "Trải Nghiệm Game",
       "type": "channel"
@@ -51,8 +56,18 @@
       "type": "channel"
     },
     {
+      "id": "UCwrzeq94NPsz1EHap9r_9NA",
+      "name": "Lai Bâng",
+      "type": "channel"
+    },
+    {
       "id": "UCyqjmx1kcZknycssiIhFQKw",
       "name": "VuxGaming",
+      "type": "channel"
+    },
+    {
+      "id": "UCpQ52533EsOa5k-dQSmD1jw",
+      "name": "Ha Le Quyen",
       "type": "channel"
     },
     {
@@ -66,6 +81,11 @@
       "type": "channel"
     },
     {
+      "id": "UCpkUzNC-PTa_Ju-xfT-CiDQ",
+      "name": "Ly Chuột Bạch",
+      "type": "channel"
+    },
+    {
       "id": "UCaokzdz-Q_tLcbhDG5OAjUQ",
       "name": "Đánh Giày",
       "type": "channel"
@@ -76,28 +96,8 @@
       "type": "channel"
     },
     {
-      "id": "UCgbMglNu16CgtxKRg3LrpjQ",
-      "name": "CBNN Liên Quân Mobile",
-      "type": "channel"
-    },
-    {
-      "id": "UCw8P1McVFUugpm0TB6GuvNA",
-      "name": "GKL8 Liên Quân ",
-      "type": "channel"
-    },
-    {
-      "id": "UCjYcRjFtw2ImlKnJMqURx8Q",
-      "name": "Di No Liên Quân Mobile",
-      "type": "channel"
-    },
-    {
-      "id": "UC1io3o-PJjqTW-C2JPExjaA",
-      "name": "NOOB LIÊN QUÂN MOBILE",
-      "type": "channel"
-    },
-    {
-      "id": "UC92yhXD5hj0xvDbUj3d9aJw",
-      "name": "Liên Quân Mobile - Topic",
+      "id": "UCdRY5czHAF_Ms15oJpfUM7A",
+      "name": "Yue Bán Fans",
       "type": "channel"
     }
   ],
