@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-03-06T07:18:35.551145",
+  "last_updated": "2026-03-06T08:09:13.664715",
   "total_news": 100,
   "news": [
+    {
+      "id": "1b029aaa5a62",
+      "title": "TỨ PHƯƠNG ĐẠI CHIẾN MÙA XUÂN 2026 | CHÍNH THỨC KHỞI TRANH",
+      "link": "https://lienquan.garena.vn/tu-phuong-dai-chien-mua-xuan-2026-chinh-thuc-khoi-tranh/",
+      "summary": "<p>Xin chào các Kiện Tướng, Tứ Phương Đại Chiến Mùa Xuân 2026 &#8211; giải đấu cộng đồng lớn nhất toàn quốc đã chính thức khởi tranh với tổng giá trị giải thưởng lên tới 280.000.000 [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/tu-phuong-dai-chien-mua-xuan-2026-chinh-thuc-khoi-tranh/\">TỨ PHƯƠNG ĐẠI CHIẾN MÙA XUÂN 2026 | CHÍNH THỨC KHỞI TRANH</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
+      "image_url": null,
+      "source": "Liên Quân Mobile Official",
+      "source_url": "https://lienquan.garena.vn/rss",
+      "published_at": "2026-03-06T07:45:37Z",
+      "crawled_at": "2026-03-06T08:04:23.290182",
+      "category": "tướng",
+      "priority": 1
+    },
     {
       "id": "7356073d76d3",
       "title": "TỔNG KẾT ĐẤU TRƯỜNG DANH VỌNG MÙA XUÂN 2026 – VÒNG 1: NHÀ VUA LÊN TIẾNG – TÂN BINH KHẲNG ĐỊNH THAM VỌNG",
@@ -1273,18 +1286,6 @@
       "crawled_at": "2025-09-30T10:00:00Z",
       "category": "cập nhật",
       "priority": 12
-    },
-    {
-      "id": "02d1939ffce3",
-      "title": "THÔNG BÁO TRẢI NGHIỆM GIAO DIỆN NẠP THẺ 2.0",
-      "link": "https://lienquan.garena.vn/thong-bao-trai-nghiem-giao-dien-nap-the-2-0/",
-      "summary": "<p>THÔNG BÁO TRẢI NGHIỆM GIAO DIỆN NẠP THẺ 2.0 Nhằm mang đến trải nghiệm nạp thẻ tối ưu hơn cho người chơi, Garena sẽ triển khai thử nghiệm giao diện nạp thẻ phiên bản 2.0 [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/thong-bao-trai-nghiem-giao-dien-nap-the-2-0/\">THÔNG BÁO TRẢI NGHIỆM GIAO DIỆN NẠP THẺ 2.0</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
-      "source": "Liên Quân Mobile Official",
-      "source_url": "https://lienquan.garena.vn/rss",
-      "published_at": "2025-09-24T02:00:25Z",
-      "crawled_at": "2025-09-30T13:03:38.354251",
-      "category": "tin tức",
-      "priority": 5
     }
   ]
 }
