@@ -81,6 +81,11 @@
       "type": "channel"
     },
     {
+      "id": "UCMHSTFMGp-k4Z0kG-CfMSWg",
+      "name": "Gấu Ham Chơi",
+      "type": "channel"
+    },
+    {
       "id": "UCpkUzNC-PTa_Ju-xfT-CiDQ",
       "name": "Ly Chuột Bạch",
       "type": "channel"
@@ -93,11 +98,6 @@
     {
       "id": "UCWXXFvwmcOHxEk6IlhW1BhA",
       "name": "Phuc Ram",
-      "type": "channel"
-    },
-    {
-      "id": "UCdRY5czHAF_Ms15oJpfUM7A",
-      "name": "Yue Bán Fans",
       "type": "channel"
     }
   ],
