@@ -21,11 +21,6 @@
       "type": "channel"
     },
     {
-      "id": "UCk2YqVRGYV6F3i005GTxYlg",
-      "name": "Cờ Liên Quân - Garena",
-      "type": "channel"
-    },
-    {
       "id": "UC55ad8jzcIWCMU-o2CXMEAw",
       "name": "Thầy Giáo Liên Quân",
       "type": "channel"
@@ -78,6 +73,11 @@
     {
       "id": "UCPNH9nM5OWV9h3q6A6o6fnw",
       "name": "Liên Quân Mobile",
+      "type": "channel"
+    },
+    {
+      "id": "UCDStgYP2QWAgt1EpV8r_pRQ",
+      "name": "Mon chơi Liên Quân nè 💛🎮",
       "type": "channel"
     },
     {
