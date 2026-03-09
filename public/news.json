@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-03-09T16:21:58.214354",
+  "last_updated": "2026-03-09T17:19:44.240564",
   "total_news": 100,
   "news": [
+    {
+      "id": "1f3c48d30b27",
+      "title": "ĐÍNH CHÍNH NỘI DUNG SAI SỰ THẬT VỀ QUY TRÌNH XỬ LÝ TÀI KHOẢN VI PHẠM & CSKH CỦA GARENA LIÊN QUÂN MOBILE",
+      "link": "https://lienquan.garena.vn/dinh-chinh-noi-dung-sai-su-that-ve-quy-trinh-xu-ly-tai-khoan-vi-pham-cskh-cua-garena-lien-quan-mobile/",
+      "summary": "<p>Hội Đồng Garena Liên Quân Mobile có nhận thông tin về việc có người chơi tố cáo &#8220;Người làm trong Garena cấu kết với gian thương nhận tiền mở khóa tài khoản&#8221;. Sau đây là [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/dinh-chinh-noi-dung-sai-su-that-ve-quy-trinh-xu-ly-tai-khoan-vi-pham-cskh-cua-garena-lien-quan-mobile/\">ĐÍNH CHÍNH NỘI DUNG SAI SỰ THẬT VỀ QUY TRÌNH XỬ LÝ TÀI KHOẢN VI PHẠM &#038; CSKH CỦA GARENA LIÊN QUÂN MOBILE</a> appeared first on <a href=\"https://li",
+      "image_url": "https://picsum.photos/seed/https://lienquan.garena.vn/dinh-chinh-noi-dung-sai-su-that-ve-quy-trinh-xu-ly-tai-khoan-vi-pham-cskh-cua-garena-lien-quan-mobile//400/225",
+      "source": "Liên Quân Mobile Official",
+      "source_url": "https://lienquan.garena.vn/rss",
+      "published_at": "2026-03-09T17:13:20Z",
+      "crawled_at": "2026-03-09T17:14:50.394004",
+      "category": "tin tức",
+      "priority": 1
+    },
     {
       "id": "1b029aaa5a62",
       "title": "TỨ PHƯƠNG ĐẠI CHIẾN MÙA XUÂN 2026 | CHÍNH THỨC KHỞI TRANH",
@@ -1274,18 +1287,6 @@
       "crawled_at": "2025-09-30T13:03:38.354251",
       "category": "tướng",
       "priority": 5
-    },
-    {
-      "id": "news012",
-      "title": "Cập nhật hệ thống báo cáo và chống hack",
-      "link": "https://example.com/anti-cheat-update",
-      "summary": "Hệ thống chống hack và báo cáo người chơi gian lận đã được cải tiến để đảm bảo công bằng trong game.",
-      "source": "Dân Trí",
-      "source_url": "https://dantri.com.vn",
-      "published_at": "2025-09-24T20:00:00Z",
-      "crawled_at": "2025-09-30T10:00:00Z",
-      "category": "cập nhật",
-      "priority": 12
     }
   ]
 }
