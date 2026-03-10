@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-03-10T07:18:51.558040",
+  "last_updated": "2026-03-10T08:10:51.755826",
   "total_news": 100,
   "news": [
+    {
+      "id": "0d69767560df",
+      "title": "ĐIỀU CHỈNH GIỮA MÙA PB TÂN NIÊN KHỞI THẾ – 11.03.2026",
+      "link": "https://lienquan.garena.vn/dieu-chinh-giua-mua-pb-tan-nien-khoi-the-11-03-2026/",
+      "summary": "<p>Xin chào các Kiện Tướng, Liên Quân Mobile sẽ tiến hành cập nhật không gián đoạn cho máy chủ chính thức vào ngày 11/03/2026. Trong thời gian quy định, các Kiện tướng có thể tự chọn thời điểm [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/dieu-chinh-giua-mua-pb-tan-nien-khoi-the-11-03-2026/\">ĐIỀU CHỈNH GIỮA MÙA PB TÂN NIÊN KHỞI THẾ – 11.03.2026</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
+      "image_url": null,
+      "source": "Liên Quân Mobile Official",
+      "source_url": "https://lienquan.garena.vn/rss",
+      "published_at": "2026-03-10T07:24:09Z",
+      "crawled_at": "2026-03-10T08:06:02.636845",
+      "category": "tướng",
+      "priority": 1
+    },
     {
       "id": "1f3c48d30b27",
       "title": "ĐÍNH CHÍNH NỘI DUNG SAI SỰ THẬT VỀ QUY TRÌNH XỬ LÝ TÀI KHOẢN VI PHẠM & CSKH CỦA GARENA LIÊN QUÂN MOBILE",
@@ -1274,18 +1287,6 @@
       "published_at": "2025-09-25T09:47:51Z",
       "crawled_at": "2025-09-30T13:03:38.354251",
       "category": "tin tức",
-      "priority": 5
-    },
-    {
-      "id": "7f0b44e0bb60",
-      "title": "Tổng hợp sự kiện 22.09 – 28.09",
-      "link": "https://lienquan.garena.vn/11172-2/",
-      "summary": "<p>Xin chào các Kiện tướng, Hội đồng xin gửi tới các Kiện tướng lịch sự kiện tại Cửa hàng (22/09– 28/08) như sau: Ngày Sự kiện Sự kiện Thứ 2 (22/09) Sự kiện Sự trở [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/11172-2/\">Tổng hợp sự kiện 22.09 &#8211; 28.09</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
-      "source": "Liên Quân Mobile Official",
-      "source_url": "https://lienquan.garena.vn/rss",
-      "published_at": "2025-09-25T08:26:54Z",
-      "crawled_at": "2025-09-30T13:03:38.354251",
-      "category": "tướng",
       "priority": 5
     }
   ]
