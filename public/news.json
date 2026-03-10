@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-03-10T10:15:08.314093",
+  "last_updated": "2026-03-10T11:14:35.735332",
   "total_news": 100,
   "news": [
+    {
+      "id": "a9da172ce9d1",
+      "title": "TỔNG KẾT ĐẤU TRƯỜNG DANH VỌNG MÙA XUÂN 2026: TÂM ĐIỂM 1S-SGP CHÓNG VÁNH, TÂN BINH GAM THỂ HIỆN BẢN LĨNH",
+      "link": "https://lienquan.garena.vn/to%cc%89ng-ket-dau-truong-danh-vo%cc%a3ng-mua-xuan-2026-tam-die%cc%89m-1s-sgp-chong-vanh-tan-binh-gam-the%cc%89-hie%cc%a3n-ba%cc%89n-li%cc%83nh/",
+      "summary": "<p>Vòng 2 ĐTDV Mùa Xuân 2026 chứng kiến những cặp đấu thần tốc khi tỷ số nhanh chóng được định đoạt. Không ngoài dự đoán, FPT x Flash và BOX Gaming tiếp tục có thêm [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/to%cc%89ng-ket-dau-truong-danh-vo%cc%a3ng-mua-xuan-2026-tam-die%cc%89m-1s-sgp-chong-vanh-tan-binh-gam-the%cc%89-hie%cc%a3n-ba%cc%89n-li%cc%83nh/\">TỔNG KẾT ĐẤU TRƯỜNG DANH VỌNG MÙA XUÂN 2026: TÂM ĐIỂM 1S-SGP CHÓNG VÁNH, TÂN BINH GAM THỂ HIỆN",
+      "image_url": null,
+      "source": "Liên Quân Mobile Official",
+      "source_url": "https://lienquan.garena.vn/rss",
+      "published_at": "2026-03-10T10:31:37Z",
+      "crawled_at": "2026-03-10T11:09:42.659586",
+      "category": "tin tức",
+      "priority": 1
+    },
     {
       "id": "6163310cdc92",
       "title": "⚡️ CHÍNH THỨC: SHOPEEPAY LÀ ĐỐI TÁC THANH TOÁN CỦA ĐẤU TRƯỜNG DANH VỌNG MÙA XUÂN 2026! ⚡️",
@@ -1277,18 +1290,6 @@
       "crawled_at": "2025-09-30T10:00:00Z",
       "category": "esports",
       "priority": 10
-    },
-    {
-      "id": "news011",
-      "title": "Bảng ngọc mới cho tướng đi rừng mùa này",
-      "link": "https://example.com/jungle-arcana-guide",
-      "summary": "Hướng dẫn chọn bảng ngọc phù hợp cho các tướng đi rừng trong meta hiện tại để tối ưu hóa sức mạnh.",
-      "source": "Zing News",
-      "source_url": "https://zingnews.vn",
-      "published_at": "2025-09-25T13:00:00Z",
-      "crawled_at": "2025-09-30T10:00:00Z",
-      "category": "meta",
-      "priority": 11
     }
   ]
 }
