@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-03-13T04:35:06.392227",
+  "last_updated": "2026-03-13T05:24:34.627970",
   "total_news": 100,
   "news": [
+    {
+      "id": "5bf325f8536a",
+      "title": "Mở bán hữu hạn trang phục Krixi Kimono",
+      "link": "https://lienquan.garena.vn/mo-ban-huu-han-trang-phuc-krixi-kimono/",
+      "summary": "<p>Xin chào các Kiện Tướng Hội Đồng xin gửi tới các bạn ưu đãi: Mở bán trang phục Krixi Kimono &#160; &#160; NỘI DUNG VÀ THỜI GIAN Từ ngày 13/03/2026: Mở bán Trang phục Krixi Kimono có giá 799 [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/mo-ban-huu-han-trang-phuc-krixi-kimono/\">Mở bán hữu hạn trang phục Krixi Kimono</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
+      "image_url": null,
+      "source": "Liên Quân Mobile Official",
+      "source_url": "https://lienquan.garena.vn/rss",
+      "published_at": "2026-03-13T04:49:27Z",
+      "crawled_at": "2026-03-13T05:19:40.227257",
+      "category": "tướng",
+      "priority": 1
+    },
     {
       "id": "a9da172ce9d1",
       "title": "TỔNG KẾT ĐẤU TRƯỜNG DANH VỌNG MÙA XUÂN 2026: TÂM ĐIỂM 1S-SGP CHÓNG VÁNH, TÂN BINH GAM THỂ HIỆN BẢN LĨNH",
@@ -1278,18 +1291,6 @@
       "crawled_at": "2025-09-30T13:03:38.354251",
       "category": "tướng",
       "priority": 5
-    },
-    {
-      "id": "news010",
-      "title": "Giải đấu Liên Quân Mobile quốc tế sắp diễn ra",
-      "link": "https://example.com/international-tournament",
-      "summary": "Giải đấu Liên Quân Mobile quốc tế với sự tham gia của các đội tuyển hàng đầu thế giới sẽ diễn ra vào tháng 11.",
-      "source": "VnExpress",
-      "source_url": "https://vnexpress.net",
-      "published_at": "2025-09-25T18:00:00Z",
-      "crawled_at": "2025-09-30T10:00:00Z",
-      "category": "esports",
-      "priority": 10
     }
   ]
 }
