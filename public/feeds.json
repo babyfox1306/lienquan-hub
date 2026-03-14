@@ -46,11 +46,6 @@
       "type": "channel"
     },
     {
-      "id": "UC9gbpSZsxLTsVgiPyUsU8sg",
-      "name": "Trưởng Star",
-      "type": "channel"
-    },
-    {
       "id": "UCeMjhoCCvujpObnt6yeZeNg",
       "name": "Garena 傳說對決",
       "type": "channel"
@@ -98,6 +93,11 @@
     {
       "id": "UC8wTcotvZb9_EibpT15RurQ",
       "name": "Thủ Khoa Mù Chữ TV",
+      "type": "channel"
+    },
+    {
+      "id": "UCJojBppsLbhkaQ_DySRWM-A",
+      "name": "BLV Thanh Tùng",
       "type": "channel"
     }
   ],
