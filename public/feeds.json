@@ -11,8 +11,28 @@
       "type": "channel"
     },
     {
+      "id": "UCy19QXxbCHh8qVVCbuGk-ig",
+      "name": "Garena RoV Thailand",
+      "type": "channel"
+    },
+    {
+      "id": "UCykFSnImGNa-5DABblw7K-w",
+      "name": "Gcaothu CHANNEL",
+      "type": "channel"
+    },
+    {
+      "id": "UCAml1Hqu4LW36B3yEtQg8Fw",
+      "name": "FUNNY GAMING TV",
+      "type": "channel"
+    },
+    {
       "id": "UC3QLI0FHwACCaa91Xdpam2A",
       "name": "Trải Nghiệm Game",
+      "type": "channel"
+    },
+    {
+      "id": "UCen3q9LMBtFHYU3Us7aKD3w",
+      "name": "Anhhao",
       "type": "channel"
     },
     {
@@ -28,11 +48,6 @@
     {
       "id": "UC9gbpSZsxLTsVgiPyUsU8sg",
       "name": "Trưởng Star",
-      "type": "channel"
-    },
-    {
-      "id": "UC6HjxH0ntp5iPtYYWfYpSNQ",
-      "name": "KINAS MOBILE",
       "type": "channel"
     },
     {
@@ -61,11 +76,6 @@
       "type": "channel"
     },
     {
-      "id": "UCDF-PfaMtT62y414NSWa2ew",
-      "name": "King Shark Mobile",
-      "type": "channel"
-    },
-    {
       "id": "UCpQ52533EsOa5k-dQSmD1jw",
       "name": "Ha Le Quyen",
       "type": "channel"
@@ -73,11 +83,6 @@
     {
       "id": "UC1ysb__ddApp3PlDva5NAVw",
       "name": "Top 1 Liliana",
-      "type": "channel"
-    },
-    {
-      "id": "UCdXcA-jdkIyw_i26gLL0PXA",
-      "name": "Gin TV",
       "type": "channel"
     },
     {
@@ -91,13 +96,8 @@
       "type": "channel"
     },
     {
-      "id": "UCIAVu192aQxVUginIC4bZLw",
-      "name": "NTK Liên Quân",
-      "type": "channel"
-    },
-    {
-      "id": "UCVVoMk8UNpVIdo5BgszmLnw",
-      "name": "Học Viện Liên Quân",
+      "id": "UC8wTcotvZb9_EibpT15RurQ",
+      "name": "Thủ Khoa Mù Chữ TV",
       "type": "channel"
     }
   ],
