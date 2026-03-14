@@ -16,6 +16,11 @@
       "type": "channel"
     },
     {
+      "id": "UCykFSnImGNa-5DABblw7K-w",
+      "name": "Gcaothu CHANNEL",
+      "type": "channel"
+    },
+    {
       "id": "UCAml1Hqu4LW36B3yEtQg8Fw",
       "name": "FUNNY GAMING TV",
       "type": "channel"
@@ -23,6 +28,11 @@
     {
       "id": "UC3QLI0FHwACCaa91Xdpam2A",
       "name": "Trải Nghiệm Game",
+      "type": "channel"
+    },
+    {
+      "id": "UCen3q9LMBtFHYU3Us7aKD3w",
+      "name": "Anhhao",
       "type": "channel"
     },
     {
@@ -36,8 +46,8 @@
       "type": "channel"
     },
     {
-      "id": "UC6HjxH0ntp5iPtYYWfYpSNQ",
-      "name": "KINAS MOBILE",
+      "id": "UC9gbpSZsxLTsVgiPyUsU8sg",
+      "name": "Trưởng Star",
       "type": "channel"
     },
     {
@@ -51,16 +61,6 @@
       "type": "channel"
     },
     {
-      "id": "UCgYkGvtBuY4onYm2Eh61zwQ",
-      "name": "Arena of Valor",
-      "type": "channel"
-    },
-    {
-      "id": "UCBVBGNrag1o-V08vwYzoIwg",
-      "name": "Garena AOV Indonesia",
-      "type": "channel"
-    },
-    {
       "id": "UCwrzeq94NPsz1EHap9r_9NA",
       "name": "Lai Bâng",
       "type": "channel"
@@ -71,8 +71,8 @@
       "type": "channel"
     },
     {
-      "id": "UCDk4tfW1Iku9-0S7L5cZP4A",
-      "name": "Arena of Valor - Topic",
+      "id": "UCyqjmx1kcZknycssiIhFQKw",
+      "name": "VuxGaming",
       "type": "channel"
     },
     {
@@ -86,18 +86,18 @@
       "type": "channel"
     },
     {
+      "id": "UChVW44gbrdQjc0zF_4-LbUA",
+      "name": "Onekill TV",
+      "type": "channel"
+    },
+    {
       "id": "UCLmVT2XmCej720HFtG7mwSQ",
       "name": "NTD LQ",
       "type": "channel"
     },
     {
-      "id": "UCVVoMk8UNpVIdo5BgszmLnw",
-      "name": "Học Viện Liên Quân",
-      "type": "channel"
-    },
-    {
-      "id": "UCKjyrROfuUjQ8EHpjFHgjRA",
-      "name": "Ugi Desniana",
+      "id": "UC8wTcotvZb9_EibpT15RurQ",
+      "name": "Thủ Khoa Mù Chữ TV",
       "type": "channel"
     }
   ],
