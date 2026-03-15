@@ -21,18 +21,8 @@
       "type": "channel"
     },
     {
-      "id": "UCAml1Hqu4LW36B3yEtQg8Fw",
-      "name": "FUNNY GAMING TV",
-      "type": "channel"
-    },
-    {
       "id": "UC3QLI0FHwACCaa91Xdpam2A",
       "name": "Trải Nghiệm Game",
-      "type": "channel"
-    },
-    {
-      "id": "UCen3q9LMBtFHYU3Us7aKD3w",
-      "name": "Anhhao",
       "type": "channel"
     },
     {
@@ -86,18 +76,28 @@
       "type": "channel"
     },
     {
-      "id": "UChVW44gbrdQjc0zF_4-LbUA",
-      "name": "Onekill TV",
-      "type": "channel"
-    },
-    {
       "id": "UCLmVT2XmCej720HFtG7mwSQ",
       "name": "NTD LQ",
       "type": "channel"
     },
     {
-      "id": "UClrDym-Hw3kfgTly3b5Y4-Q",
-      "name": "Công Đức",
+      "id": "UCIAVu192aQxVUginIC4bZLw",
+      "name": "NTK Liên Quân",
+      "type": "channel"
+    },
+    {
+      "id": "UCaokzdz-Q_tLcbhDG5OAjUQ",
+      "name": "Đánh Giày",
+      "type": "channel"
+    },
+    {
+      "id": "UCYfv7UcC1KOsvMD3BVVwoLg",
+      "name": "Esports - Garena Liên Quân Mobile",
+      "type": "channel"
+    },
+    {
+      "id": "UCgbMglNu16CgtxKRg3LrpjQ",
+      "name": "CBNN Liên Quân Mobile",
       "type": "channel"
     }
   ],
