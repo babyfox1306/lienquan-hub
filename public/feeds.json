@@ -71,11 +71,6 @@
       "type": "channel"
     },
     {
-      "id": "UCyqjmx1kcZknycssiIhFQKw",
-      "name": "VuxGaming",
-      "type": "channel"
-    },
-    {
       "id": "UCpQ52533EsOa5k-dQSmD1jw",
       "name": "Ha Le Quyen",
       "type": "channel"
@@ -98,6 +93,11 @@
     {
       "id": "UC8wTcotvZb9_EibpT15RurQ",
       "name": "Thủ Khoa Mù Chữ TV",
+      "type": "channel"
+    },
+    {
+      "id": "UClrDym-Hw3kfgTly3b5Y4-Q",
+      "name": "Công Đức",
       "type": "channel"
     }
   ],
