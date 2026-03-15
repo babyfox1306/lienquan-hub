@@ -11,6 +11,16 @@
       "type": "channel"
     },
     {
+      "id": "UCy19QXxbCHh8qVVCbuGk-ig",
+      "name": "Garena RoV Thailand",
+      "type": "channel"
+    },
+    {
+      "id": "UCykFSnImGNa-5DABblw7K-w",
+      "name": "Gcaothu CHANNEL",
+      "type": "channel"
+    },
+    {
       "id": "UCAml1Hqu4LW36B3yEtQg8Fw",
       "name": "FUNNY GAMING TV",
       "type": "channel"
@@ -18,6 +28,11 @@
     {
       "id": "UC3QLI0FHwACCaa91Xdpam2A",
       "name": "Trải Nghiệm Game",
+      "type": "channel"
+    },
+    {
+      "id": "UCen3q9LMBtFHYU3Us7aKD3w",
+      "name": "Anhhao",
       "type": "channel"
     },
     {
@@ -33,16 +48,6 @@
     {
       "id": "UC9gbpSZsxLTsVgiPyUsU8sg",
       "name": "Trưởng Star",
-      "type": "channel"
-    },
-    {
-      "id": "UC6HjxH0ntp5iPtYYWfYpSNQ",
-      "name": "KINAS MOBILE",
-      "type": "channel"
-    },
-    {
-      "id": "UCGXK_oDUDxeJM4zOO9vklfw",
-      "name": "MSUONG CHANNEL",
       "type": "channel"
     },
     {
@@ -71,16 +76,6 @@
       "type": "channel"
     },
     {
-      "id": "UCDF-PfaMtT62y414NSWa2ew",
-      "name": "King Shark Mobile",
-      "type": "channel"
-    },
-    {
-      "id": "UCTQVIBMJLkipI2Rc1qjTyDw",
-      "name": "Quân Fbz",
-      "type": "channel"
-    },
-    {
       "id": "UCpQ52533EsOa5k-dQSmD1jw",
       "name": "Ha Le Quyen",
       "type": "channel"
@@ -91,13 +86,18 @@
       "type": "channel"
     },
     {
-      "id": "UCCNb-Pr8q7tom88WYd35__g",
-      "name": "Trâm Anh 5 phút",
+      "id": "UCLmVT2XmCej720HFtG7mwSQ",
+      "name": "NTD LQ",
       "type": "channel"
     },
     {
       "id": "UChVW44gbrdQjc0zF_4-LbUA",
       "name": "Onekill TV",
+      "type": "channel"
+    },
+    {
+      "id": "UC8wTcotvZb9_EibpT15RurQ",
+      "name": "Thủ Khoa Mù Chữ TV",
       "type": "channel"
     }
   ],
