@@ -81,23 +81,23 @@
       "type": "channel"
     },
     {
-      "id": "UChVW44gbrdQjc0zF_4-LbUA",
-      "name": "Onekill TV",
-      "type": "channel"
-    },
-    {
       "id": "UCLmVT2XmCej720HFtG7mwSQ",
       "name": "NTD LQ",
       "type": "channel"
     },
     {
-      "id": "UCkcHSI_NuczKz0-KwTqHaJA",
-      "name": "Quoc Duong",
+      "id": "UChVW44gbrdQjc0zF_4-LbUA",
+      "name": "Onekill TV",
       "type": "channel"
     },
     {
       "id": "UClrDym-Hw3kfgTly3b5Y4-Q",
       "name": "Công Đức",
+      "type": "channel"
+    },
+    {
+      "id": "UCJojBppsLbhkaQ_DySRWM-A",
+      "name": "BLV Thanh Tùng",
       "type": "channel"
     }
   ],
