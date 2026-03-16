@@ -56,11 +56,6 @@
       "type": "channel"
     },
     {
-      "id": "UC1EOVZPr8neE-05eqKR_K-Q",
-      "name": "ADC Gaming",
-      "type": "channel"
-    },
-    {
       "id": "UCwrzeq94NPsz1EHap9r_9NA",
       "name": "Lai Bâng",
       "type": "channel"
@@ -98,6 +93,11 @@
     {
       "id": "UC8wTcotvZb9_EibpT15RurQ",
       "name": "Thủ Khoa Mù Chữ TV",
+      "type": "channel"
+    },
+    {
+      "id": "UClrDym-Hw3kfgTly3b5Y4-Q",
+      "name": "Công Đức",
       "type": "channel"
     }
   ],
