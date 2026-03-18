@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-03-18T04:41:53.570255",
+  "last_updated": "2026-03-18T05:32:50.545146",
   "total_news": 100,
   "news": [
+    {
+      "id": "6dabf637b439",
+      "title": "RA MẮT TÍNH NĂNG | TÍCH THẺ ĐỔI QUÀ TẠI WEBSITE CỘNG ĐỒNG LIÊN QUÂN",
+      "link": "https://lienquan.garena.vn/ra-mat-tinh-nang-tich-the-doi-qua-tai-website-cong-dong-lien-quan/",
+      "summary": "<p>Xin chào các Kiện tướng,  Hội Đồng Liên Quân xin thông báo tính năng “Tích thẻ &#8211; Đổi quà” tại Website Cộng Đồng Liên Quân như sau:  Thời gian: Từ ngày 21/03 &#8211; 30/06/2026 Số [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/ra-mat-tinh-nang-tich-the-doi-qua-tai-website-cong-dong-lien-quan/\">RA MẮT TÍNH NĂNG | TÍCH THẺ ĐỔI QUÀ TẠI WEBSITE CỘNG ĐỒNG LIÊN QUÂN</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
+      "image_url": "https://picsum.photos/seed/https://lienquan.garena.vn/ra-mat-tinh-nang-tich-the-doi-qua-tai-website-cong-dong-lien-quan//400/225",
+      "source": "Liên Quân Mobile Official",
+      "source_url": "https://lienquan.garena.vn/rss",
+      "published_at": "2026-03-18T05:12:26Z",
+      "crawled_at": "2026-03-18T05:27:56.739325",
+      "category": "tướng",
+      "priority": 1
+    },
     {
       "id": "afeee21026a3",
       "title": "TỔNG KẾT ĐẤU TRƯỜNG DANH VỌNG MÙA XUÂN 2026 – VÒNG 3: GAM HẠ GỤC SGP, TS ĐỂ THUA ĐÁNG TIẾC",
@@ -1280,18 +1293,6 @@
       "crawled_at": "2025-09-30T10:00:00Z",
       "category": "meta",
       "priority": 8
-    },
-    {
-      "id": "news009",
-      "title": "Skin mới cho Alice - Công chúa Băng Giá",
-      "link": "https://example.com/alice-ice-princess-skin",
-      "summary": "Skin mới của Alice với chủ đề công chúa băng giá sẽ có hiệu ứng đặc biệt và animation đẹp mắt.",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn",
-      "published_at": "2025-09-26T11:00:00Z",
-      "crawled_at": "2025-09-30T10:00:00Z",
-      "category": "skin",
-      "priority": 9
     }
   ]
 }
