@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-03-19T08:13:00.317337",
+  "last_updated": "2026-03-19T09:16:47.993316",
   "total_news": 100,
   "news": [
+    {
+      "id": "c54053e9b62a",
+      "title": "Mở bán trang phục Triệu Vân Chiến Thần Vô song",
+      "link": "https://lienquan.garena.vn/mo-ban-trang-phuc-trieu-van-chien-than-vo-song/",
+      "summary": "<p>Xin chào các Kiện Tướng Hội Đồng xin gửi tới các bạn ưu đãi: Mở bán trang phục Triệu Vân Chiến Thần Vô song &#160; &#160; NỘI DUNG VÀ THỜI GIAN Từ ngày 20/03/2026: Mở bán Trang [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/mo-ban-trang-phuc-trieu-van-chien-than-vo-song/\">Mở bán trang phục Triệu Vân Chiến Thần Vô song</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
+      "image_url": null,
+      "source": "Liên Quân Mobile Official",
+      "source_url": "https://lienquan.garena.vn/rss",
+      "published_at": "2026-03-19T08:43:34Z",
+      "crawled_at": "2026-03-19T09:11:53.997703",
+      "category": "tướng",
+      "priority": 1
+    },
     {
       "id": "6dabf637b439",
       "title": "RA MẮT TÍNH NĂNG | TÍCH THẺ ĐỔI QUÀ TẠI WEBSITE CỘNG ĐỒNG LIÊN QUÂN",
@@ -1281,18 +1294,6 @@
       "crawled_at": "2025-09-30T10:00:00Z",
       "category": "tin tức",
       "priority": 7
-    },
-    {
-      "id": "news008",
-      "title": "Tier List tướng tháng 9: Ai đang mạnh nhất?",
-      "link": "https://example.com/september-tier-list",
-      "summary": "Danh sách xếp hạng tướng mạnh nhất tháng 9 dựa trên tỷ lệ thắng và độ phổ biến tại các rank cao.",
-      "source": "Dân Trí",
-      "source_url": "https://dantri.com.vn",
-      "published_at": "2025-09-26T16:00:00Z",
-      "crawled_at": "2025-09-30T10:00:00Z",
-      "category": "meta",
-      "priority": 8
     }
   ]
 }
