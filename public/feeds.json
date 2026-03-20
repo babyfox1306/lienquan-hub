@@ -21,11 +21,6 @@
       "type": "channel"
     },
     {
-      "id": "UCAml1Hqu4LW36B3yEtQg8Fw",
-      "name": "FUNNY GAMING TV",
-      "type": "channel"
-    },
-    {
       "id": "UC3QLI0FHwACCaa91Xdpam2A",
       "name": "Trải Nghiệm Game",
       "type": "channel"
@@ -86,18 +81,23 @@
       "type": "channel"
     },
     {
-      "id": "UCWXXFvwmcOHxEk6IlhW1BhA",
-      "name": "Phuc Ram",
-      "type": "channel"
-    },
-    {
-      "id": "UC_Kfu-XiwH0WKTRSMD9st_Q",
-      "name": "Bạn Cay Tôi À?",
-      "type": "channel"
-    },
-    {
       "id": "UCrROWQp9uPZUiTVHuWBwj9g",
       "name": "Namsensei",
+      "type": "channel"
+    },
+    {
+      "id": "UCgbMglNu16CgtxKRg3LrpjQ",
+      "name": "CBNN Liên Quân Mobile",
+      "type": "channel"
+    },
+    {
+      "id": "UC-r1vXyPiJSo2r29U3PgoNg",
+      "name": "HẢI PHONG - HỎNG FILE",
+      "type": "channel"
+    },
+    {
+      "id": "UC92yhXD5hj0xvDbUj3d9aJw",
+      "name": "Liên Quân Mobile - Topic",
       "type": "channel"
     }
   ],
