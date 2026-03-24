@@ -21,11 +21,6 @@
       "type": "channel"
     },
     {
-      "id": "UCAml1Hqu4LW36B3yEtQg8Fw",
-      "name": "FUNNY GAMING TV",
-      "type": "channel"
-    },
-    {
       "id": "UC3QLI0FHwACCaa91Xdpam2A",
       "name": "Trải Nghiệm Game",
       "type": "channel"
@@ -61,11 +56,6 @@
       "type": "channel"
     },
     {
-      "id": "UCpQ52533EsOa5k-dQSmD1jw",
-      "name": "Ha Le Quyen",
-      "type": "channel"
-    },
-    {
       "id": "UC1ysb__ddApp3PlDva5NAVw",
       "name": "Top 1 Liliana",
       "type": "channel"
@@ -98,6 +88,16 @@
     {
       "id": "UCrROWQp9uPZUiTVHuWBwj9g",
       "name": "Namsensei",
+      "type": "channel"
+    },
+    {
+      "id": "UCVBE4ZK00c4BKU8_NUCPTbQ",
+      "name": "Đạt Feed",
+      "type": "channel"
+    },
+    {
+      "id": "UCgbMglNu16CgtxKRg3LrpjQ",
+      "name": "CBNN Liên Quân Mobile",
       "type": "channel"
     }
   ],
