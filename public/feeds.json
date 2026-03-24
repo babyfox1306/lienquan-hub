@@ -41,11 +41,6 @@
       "type": "channel"
     },
     {
-      "id": "UC9gbpSZsxLTsVgiPyUsU8sg",
-      "name": "Trưởng Star",
-      "type": "channel"
-    },
-    {
       "id": "UCeMjhoCCvujpObnt6yeZeNg",
       "name": "Garena 傳說對決",
       "type": "channel"
@@ -96,8 +91,13 @@
       "type": "channel"
     },
     {
-      "id": "UC_Kfu-XiwH0WKTRSMD9st_Q",
-      "name": "Bạn Cay Tôi À?",
+      "id": "UCdRY5czHAF_Ms15oJpfUM7A",
+      "name": "Yue Bán Fans",
+      "type": "channel"
+    },
+    {
+      "id": "UCrROWQp9uPZUiTVHuWBwj9g",
+      "name": "Namsensei",
       "type": "channel"
     }
   ],
