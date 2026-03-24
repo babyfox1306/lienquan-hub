@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-03-24T10:19:10.962885",
+  "last_updated": "2026-03-24T11:19:00.999682",
   "total_news": 100,
   "news": [
+    {
+      "id": "ef771f554924",
+      "title": "TỔNG KẾT ĐẤU TRƯỜNG DANH VỌNG MÙA XUÂN 2026 – VÒNG 4: 1S ÁP ĐẢO FL, BOX ÁP SÁT NGÔI ĐẦU",
+      "link": "https://lienquan.garena.vn/to%cc%89ng-ket-dau-truong-danh-vo%cc%a3ng-mua-xuan-2026-vong-4-1s-ap-da%cc%89o-fl-box-ap-sat-ngoi-dau/",
+      "summary": "<p>Vòng 4 ĐTDV Mùa Xuân 2026 khép lại với nhiều diễn biến đáng chú ý. Saigon Phantom chật vật giành chiến thắng sát nút trước Team Secret. Trong khi đó, One Star Esport thể hiện [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/to%cc%89ng-ket-dau-truong-danh-vo%cc%a3ng-mua-xuan-2026-vong-4-1s-ap-da%cc%89o-fl-box-ap-sat-ngoi-dau/\">TỔNG KẾT ĐẤU TRƯỜNG DANH VỌNG MÙA XUÂN 2026 &#8211; VÒNG 4: 1S ÁP ĐẢO FL, BOX ÁP SÁT NGÔI ĐẦU</a> appeared first on <a hre",
+      "image_url": null,
+      "source": "Liên Quân Mobile Official",
+      "source_url": "https://lienquan.garena.vn/rss",
+      "published_at": "2026-03-24T11:06:15Z",
+      "crawled_at": "2026-03-24T11:14:11.353361",
+      "category": "tin tức",
+      "priority": 1
+    },
     {
       "id": "c54053e9b62a",
       "title": "Mở bán trang phục Triệu Vân Chiến Thần Vô song",
@@ -1282,18 +1295,6 @@
       "crawled_at": "2025-09-30T10:00:00Z",
       "category": "meta",
       "priority": 6
-    },
-    {
-      "id": "news007",
-      "title": "Sự kiện đặc biệt: Nhân đôi kinh nghiệm và vàng",
-      "link": "https://example.com/double-exp-gold-event",
-      "summary": "Sự kiện đặc biệt cuối tuần này sẽ nhân đôi kinh nghiệm và vàng kiếm được trong các trận đấu.",
-      "source": "Zing News",
-      "source_url": "https://zingnews.vn",
-      "published_at": "2025-09-27T09:00:00Z",
-      "crawled_at": "2025-09-30T10:00:00Z",
-      "category": "tin tức",
-      "priority": 7
     }
   ]
 }
