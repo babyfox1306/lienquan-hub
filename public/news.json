@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-03-26T10:21:22.689006",
+  "last_updated": "2026-03-26T11:21:14.042164",
   "total_news": 100,
   "news": [
+    {
+      "id": "8e1324f87a0f",
+      "title": "FUN STUDIO x LIÊN QUÂN MOBILE: KHI PHOTOBOOTH TRỞ THÀNH ĐIỂM CHẠM MỚI ĐỂ KẾT NỐI",
+      "link": "https://lienquan.garena.vn/fun-studio-x-lien-quan-mobile-khi-photobooth-tro-thanh-diem-cham-moi-de-ket-noi/",
+      "summary": "<p>Trong bối cảnh giới trẻ ngày càng tìm kiếm những trải nghiệm mang tính tương tác, cá nhân hóa và dễ chia sẻ, sự hợp tác giữa Fun Studio và Liên Quân Mobile cho thấy [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/fun-studio-x-lien-quan-mobile-khi-photobooth-tro-thanh-diem-cham-moi-de-ket-noi/\">FUN STUDIO x LIÊN QUÂN MOBILE: KHI PHOTOBOOTH TRỞ THÀNH ĐIỂM CHẠM MỚI ĐỂ KẾT NỐI</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
+      "image_url": "https://picsum.photos/seed/https://lienquan.garena.vn/fun-studio-x-lien-quan-mobile-khi-photobooth-tro-thanh-diem-cham-moi-de-ket-noi//400/225",
+      "source": "Liên Quân Mobile Official",
+      "source_url": "https://lienquan.garena.vn/rss",
+      "published_at": "2026-03-26T10:27:52Z",
+      "crawled_at": "2026-03-26T11:16:21.016264",
+      "category": "tin tức",
+      "priority": 1
+    },
     {
       "id": "f14b087956e3",
       "title": "Sự kiện Đỉnh cao Thông thạo",
@@ -1287,18 +1300,6 @@
       "published_at": "2025-10-02T03:36:48Z",
       "crawled_at": "2025-10-05T09:24:12.930299",
       "category": "tin tức",
-      "priority": 1
-    },
-    {
-      "id": "news001",
-      "title": "Tướng mới Charlotte sắp ra mắt với kỹ năng đặc biệt",
-      "link": "https://example.com/charlotte-new-hero",
-      "summary": "Charlotte - tướng pháp sư mới với khả năng điều khiển thời gian sẽ được ra mắt trong bản cập nhật tiếp theo của Liên Quân Mobile.",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn",
-      "published_at": "2025-09-30T08:00:00Z",
-      "crawled_at": "2025-09-30T10:00:00Z",
-      "category": "tướng",
       "priority": 1
     }
   ]
