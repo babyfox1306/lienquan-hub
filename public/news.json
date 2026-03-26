@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-03-26T09:22:06.938542",
+  "last_updated": "2026-03-26T10:21:22.689006",
   "total_news": 100,
   "news": [
+    {
+      "id": "f14b087956e3",
+      "title": "Sự kiện Đỉnh cao Thông thạo",
+      "link": "https://lienquan.garena.vn/su-kien-dinh-cao-thong-thao/",
+      "summary": "<p>Thời gian sự kiện: 27.03-30.06 Người chơi nhận ngẫu nhiên 10 tướng khác nhau, có thể dùng vàng để đổi lại tướng tối đa 10 lần. Một khi đã đổi quà không thể chọn tướng [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/su-kien-dinh-cao-thong-thao/\">Sự kiện Đỉnh cao Thông thạo</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
+      "image_url": null,
+      "source": "Liên Quân Mobile Official",
+      "source_url": "https://lienquan.garena.vn/rss",
+      "published_at": "2026-03-26T09:48:57Z",
+      "crawled_at": "2026-03-26T10:16:34.895284",
+      "category": "tướng",
+      "priority": 1
+    },
     {
       "id": "532fc9c3d0bc",
       "title": "TỔNG KẾT ĐẤU TRƯỜNG DANH VỌNG MÙA XUÂN 2026 – VÒNG BẢNG GIAI ĐOẠN 1 – LƯỢT ĐI",
@@ -1287,18 +1300,6 @@
       "crawled_at": "2025-09-30T10:00:00Z",
       "category": "tướng",
       "priority": 1
-    },
-    {
-      "id": "news002",
-      "title": "Skin Legendary mới cho Nakroth - Thần Chiến Binh",
-      "link": "https://example.com/nakroth-legendary-skin",
-      "summary": "Skin Legendary mới của Nakroth với hiệu ứng đặc biệt và animation độc đáo sẽ có mặt trong shop từ ngày mai.",
-      "source": "VnExpress",
-      "source_url": "https://vnexpress.net",
-      "published_at": "2025-09-29T15:30:00Z",
-      "crawled_at": "2025-09-30T10:00:00Z",
-      "category": "skin",
-      "priority": 2
     }
   ]
 }
