@@ -86,11 +86,6 @@
       "type": "channel"
     },
     {
-      "id": "UCJAd1REXSJbxzD7uJcrYcow",
-      "name": "【公式】アリーナ・オブ・ヴァラー（アリヴァラ）",
-      "type": "channel"
-    },
-    {
       "id": "UC9IMa50eipvZXSjynFJrc0w",
       "name": "AOV Global Collection",
       "type": "channel"
@@ -98,6 +93,11 @@
     {
       "id": "UCgbMglNu16CgtxKRg3LrpjQ",
       "name": "CBNN Liên Quân Mobile",
+      "type": "channel"
+    },
+    {
+      "id": "UCdSGpiTIGwzlQQ9VP1IJXgg",
+      "name": "Bốp Bốp Top1 Liên Quân",
       "type": "channel"
     }
   ],
