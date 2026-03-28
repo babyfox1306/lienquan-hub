@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-03-28T06:20:19.632382",
+  "last_updated": "2026-03-28T07:22:21.189893",
   "total_news": 100,
   "news": [
+    {
+      "id": "9823c1e28ec7",
+      "title": "THÔNG BÁO XỬ PHẠT CÁC ĐỘI TUYỂN TẠI VÒNG TUYỂN CHỌN TỨ PHƯƠNG ĐẠI CHIẾN MÙA XUÂN 2026",
+      "link": "https://lienquan.garena.vn/thong-bao-xu-phat-cac-doi-tuyen-tai-vong-tuyen-chon-tu-phuong-dai-chien-mua-xuan-2026/",
+      "summary": "<p>Xin chào các Kiện tướng, Tại vòng Tuyển Chọn giải đấu Tứ Phương Đại Chiến Mùa Xuân 2026 vừa qua, Ban Tổ Chức đã xác thực thông tin về việc các đội tuyển có liên [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/thong-bao-xu-phat-cac-doi-tuyen-tai-vong-tuyen-chon-tu-phuong-dai-chien-mua-xuan-2026/\">THÔNG BÁO XỬ PHẠT CÁC ĐỘI TUYỂN TẠI VÒNG TUYỂN CHỌN TỨ PHƯƠNG ĐẠI CHIẾN MÙA XUÂN 2026</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
+      "image_url": null,
+      "source": "Liên Quân Mobile Official",
+      "source_url": "https://lienquan.garena.vn/rss",
+      "published_at": "2026-03-28T06:42:16Z",
+      "crawled_at": "2026-03-28T07:17:28.114656",
+      "category": "tướng",
+      "priority": 1
+    },
     {
       "id": "e0bc5392de87",
       "title": "Garena Liên Quân Mobile chính thức tham gia 2026 Esports World Cup trong sự kiện hợp tác đặc biệt cùng Honor of Kings",
@@ -1287,19 +1300,6 @@
       "published_at": "2025-10-13T07:48:20Z",
       "crawled_at": "2025-10-18T05:06:55.671108",
       "category": "tướng",
-      "priority": 1
-    },
-    {
-      "id": "a5e7115c9b75",
-      "title": "THÁNG 10 NÀY NHẬN NGAY CƠ HỘI GIẢM ĐẾN 50K KHI NẠP THẺ GARENA BẰNG VÍ SHOPEEPAY",
-      "link": "https://lienquan.garena.vn/thang-10-nay-nhan-ngay-co-hoi-giam-den-50k-khi-nap-the-garena-bang-vi-shopeepay/",
-      "summary": "<p>Mưa rơi không làm chùn bước &#8220;dân chơi&#8221;  Tháng 10 này nhận ngay cơ hội giảm đến 50K khi nạp thẻ Garena bằng ví ShopeePay  Đặc biệt: giảm 20% tối đa 20K khi nhập mã [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/thang-10-nay-nhan-ngay-co-hoi-giam-den-50k-khi-nap-the-garena-bang-vi-shopeepay/\">THÁNG 10 NÀY NHẬN NGAY CƠ HỘI GIẢM ĐẾN 50K KHI NẠP THẺ GARENA BẰNG VÍ SHOPEEPAY</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
-      "image_url": null,
-      "source": "Liên Quân Mobile Official",
-      "source_url": "https://lienquan.garena.vn/rss",
-      "published_at": "2025-10-02T04:38:16Z",
-      "crawled_at": "2025-10-05T09:24:12.930299",
-      "category": "tin tức",
       "priority": 1
     }
   ]
