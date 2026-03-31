@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-03-31T10:22:25.297781",
+  "last_updated": "2026-03-31T11:20:30.957162",
   "total_news": 100,
   "news": [
+    {
+      "id": "d76dfef1da91",
+      "title": "KHỞI ĐỘNG OFFLINE GIẢI ĐẤU THÁNG 4 | CÙNG BẠN BÈ – CHIẾN LIÊN QUÂN",
+      "link": "https://lienquan.garena.vn/khoi-dong-offline-giai-dau-thang-4-cung-ban-be-chien-lien-quan/",
+      "summary": "<p>Xin chào các Kiện Tướng, Trong tháng 04 này, Hội Đồng Liên Quân xin gửi tới các Kiện Tướng chuỗi sự kiện cộng đồng “Offline Giải đấu tháng 4: Cùng bạn bè – Chiến Liên [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/khoi-dong-offline-giai-dau-thang-4-cung-ban-be-chien-lien-quan/\">KHỞI ĐỘNG OFFLINE GIẢI ĐẤU THÁNG 4 | CÙNG BẠN BÈ – CHIẾN LIÊN QUÂN</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
+      "image_url": "https://picsum.photos/seed/https://lienquan.garena.vn/khoi-dong-offline-giai-dau-thang-4-cung-ban-be-chien-lien-quan//400/225",
+      "source": "Liên Quân Mobile Official",
+      "source_url": "https://lienquan.garena.vn/rss",
+      "published_at": "2026-03-31T10:39:27Z",
+      "crawled_at": "2026-03-31T11:15:39.267736",
+      "category": "tướng",
+      "priority": 1
+    },
     {
       "id": "806bfe24e7f8",
       "title": "CUỘC THI CHẾ “LIÊN QUÂN VUI NHỘN”",
@@ -1287,19 +1300,6 @@
       "published_at": "2025-10-15T03:15:38Z",
       "crawled_at": "2025-10-18T05:06:55.671024",
       "category": "tin tức",
-      "priority": 1
-    },
-    {
-      "id": "5255b12b3df1",
-      "title": "NHẬN QUÀ SINH NHẬT CỰC HẤP DẪN TẠI CHUỖI SỰ KIỆN CỘNG ĐỒNG SINH NHẬT LIÊN QUÂN 9 TUỔI TỪ NGÀY 18/10 ĐẾN HẾT 31/10",
-      "link": "https://lienquan.garena.vn/nhan-qua-sinh-nhat-cuc-hap-dan-tai-chuoi-su-kien-cong-dong-sinh-nhat-lien-quan-9-tuoi-tu-ngay-18-10-den-het-31-10/",
-      "summary": "<p>Xin chào các Kiện tướng,  Vậy là Liên Quân Mobile đã chính thức tròn 9 tuổi – đánh dấu một hành trình đáng nhớ của hàng triệu Kiện Tướng trên khắp Việt Nam, nơi chúng [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/nhan-qua-sinh-nhat-cuc-hap-dan-tai-chuoi-su-kien-cong-dong-sinh-nhat-lien-quan-9-tuoi-tu-ngay-18-10-den-het-31-10/\">NHẬN QUÀ SINH NHẬT CỰC HẤP DẪN TẠI CHUỖI SỰ KIỆN CỘNG ĐỒNG SINH NHẬT LIÊN QUÂN 9 TUỔI TỪ NGÀY 18/10 ĐẾN HẾT 31/10</a> appeared first on <a href=\"https:/",
-      "image_url": "https://picsum.photos/seed/https://lienquan.garena.vn/nhan-qua-sinh-nhat-cuc-hap-dan-tai-chuoi-su-kien-cong-dong-sinh-nhat-lien-quan-9-tuoi-tu-ngay-18-10-den-het-31-10//400/225",
-      "source": "Liên Quân Mobile Official",
-      "source_url": "https://lienquan.garena.vn/rss",
-      "published_at": "2025-10-14T04:30:35Z",
-      "crawled_at": "2025-10-18T05:06:55.671071",
-      "category": "tướng",
       "priority": 1
     }
   ]
