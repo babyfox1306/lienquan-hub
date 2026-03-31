@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-03-31T09:24:53.689428",
+  "last_updated": "2026-03-31T10:22:25.297781",
   "total_news": 100,
   "news": [
+    {
+      "id": "806bfe24e7f8",
+      "title": "CUỘC THI CHẾ “LIÊN QUÂN VUI NHỘN”",
+      "link": "https://lienquan.garena.vn/cuoc-thi-che-lien-quan-vui-nhon/",
+      "summary": "<p>Xin chào các Kiện Tướng Hội Đồng xin gửi tới các bạn thông tin Cuộc thi chế &#8220;Liên Quân Vui Nhộn&#8221; NỘI DUNG VÀ THỜI GIAN Cuộc thi chế &#8220;Liên Quân Vui Nhộn&#8221; dành cho [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/cuoc-thi-che-lien-quan-vui-nhon/\">CUỘC THI CHẾ &#8220;LIÊN QUÂN VUI NHỘN&#8221;</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
+      "image_url": "https://picsum.photos/seed/https://lienquan.garena.vn/cuoc-thi-che-lien-quan-vui-nhon//400/225",
+      "source": "Liên Quân Mobile Official",
+      "source_url": "https://lienquan.garena.vn/rss",
+      "published_at": "2026-03-31T09:35:14Z",
+      "crawled_at": "2026-03-31T10:17:32.544985",
+      "category": "tướng",
+      "priority": 1
+    },
     {
       "id": "9823c1e28ec7",
       "title": "THÔNG BÁO XỬ PHẠT CÁC ĐỘI TUYỂN TẠI VÒNG TUYỂN CHỌN TỨ PHƯƠNG ĐẠI CHIẾN MÙA XUÂN 2026",
@@ -1286,19 +1299,6 @@
       "source_url": "https://lienquan.garena.vn/rss",
       "published_at": "2025-10-14T04:30:35Z",
       "crawled_at": "2025-10-18T05:06:55.671071",
-      "category": "tướng",
-      "priority": 1
-    },
-    {
-      "id": "11eb3d224359",
-      "title": "TỔNG HỢP SỰ KIỆN 13.10 – 19.10",
-      "link": "https://lienquan.garena.vn/tong-hop-su-kien-1310-1910/",
-      "summary": "<p>Xin chào các Kiện tướng, Hội đồng xin gửi tới các Kiện tướng lịch sự kiện tại Cửa hàng (13/10– 19/10) như sau: Ngày Sự kiện Sự kiện Thứ 2 (13/10) Rương thủy thần: Cơ [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/tong-hop-su-kien-1310-1910/\">TỔNG HỢP SỰ KIỆN 13.10 &#8211; 19.10</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
-      "image_url": null,
-      "source": "Liên Quân Mobile Official",
-      "source_url": "https://lienquan.garena.vn/rss",
-      "published_at": "2025-10-13T07:48:20Z",
-      "crawled_at": "2025-10-18T05:06:55.671108",
       "category": "tướng",
       "priority": 1
     }
