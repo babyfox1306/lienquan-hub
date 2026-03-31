@@ -16,6 +16,11 @@
       "type": "channel"
     },
     {
+      "id": "UCykFSnImGNa-5DABblw7K-w",
+      "name": "Gcaothu CHANNEL",
+      "type": "channel"
+    },
+    {
       "id": "UCAml1Hqu4LW36B3yEtQg8Fw",
       "name": "FUNNY GAMING TV",
       "type": "channel"
@@ -36,18 +41,13 @@
       "type": "channel"
     },
     {
+      "id": "UC9gbpSZsxLTsVgiPyUsU8sg",
+      "name": "Trưởng Star",
+      "type": "channel"
+    },
+    {
       "id": "UCeMjhoCCvujpObnt6yeZeNg",
       "name": "Garena 傳說對決",
-      "type": "channel"
-    },
-    {
-      "id": "UCgYkGvtBuY4onYm2Eh61zwQ",
-      "name": "Arena of Valor",
-      "type": "channel"
-    },
-    {
-      "id": "UCBVBGNrag1o-V08vwYzoIwg",
-      "name": "Garena AOV Indonesia",
       "type": "channel"
     },
     {
@@ -61,8 +61,8 @@
       "type": "channel"
     },
     {
-      "id": "UCDk4tfW1Iku9-0S7L5cZP4A",
-      "name": "Arena of Valor - Topic",
+      "id": "UCpQ52533EsOa5k-dQSmD1jw",
+      "name": "Ha Le Quyen",
       "type": "channel"
     },
     {
@@ -71,33 +71,33 @@
       "type": "channel"
     },
     {
+      "id": "UCJojBppsLbhkaQ_DySRWM-A",
+      "name": "BLV Thanh Tùng",
+      "type": "channel"
+    },
+    {
+      "id": "UCL_X1VBEYADQHmEIsmRHpGg",
+      "name": "Khánh Hy",
+      "type": "channel"
+    },
+    {
       "id": "UCWXXFvwmcOHxEk6IlhW1BhA",
       "name": "Phuc Ram",
       "type": "channel"
     },
     {
-      "id": "UCKjyrROfuUjQ8EHpjFHgjRA",
-      "name": "Ugi Desniana",
+      "id": "UC_Kfu-XiwH0WKTRSMD9st_Q",
+      "name": "Bạn Cay Tôi À?",
       "type": "channel"
     },
     {
-      "id": "UCvQVuhijmaQVDmX27p2-T9w",
-      "name": "RumblyTV - Arena of Valor",
-      "type": "channel"
-    },
-    {
-      "id": "UC9IMa50eipvZXSjynFJrc0w",
-      "name": "AOV Global Collection",
+      "id": "UCrROWQp9uPZUiTVHuWBwj9g",
+      "name": "Namsensei",
       "type": "channel"
     },
     {
       "id": "UCdSGpiTIGwzlQQ9VP1IJXgg",
       "name": "Bốp Bốp Top1 Liên Quân",
-      "type": "channel"
-    },
-    {
-      "id": "UCgbMglNu16CgtxKRg3LrpjQ",
-      "name": "CBNN Liên Quân Mobile",
       "type": "channel"
     }
   ],
