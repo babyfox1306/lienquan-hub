@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-04-01T03:03:32.288467",
+  "last_updated": "2026-04-01T04:12:34.955321",
   "total_news": 100,
   "news": [
+    {
+      "id": "0927ea53df28",
+      "title": "MỞ BÁN SỔ SỨ MỆNH 88",
+      "link": "https://lienquan.garena.vn/mo-ban-so-su-menh-88/",
+      "summary": "<p>Xin chào các Kiện Tướng, Chào mừng đến với Sổ Sứ Mệnh mùa 88 &#8211; Nữ thần nhiệt đới SỔ SỨ MỆNH MÙA 88 Các Kiện Tướng có hai lựa chọn tham gia Sổ Sứ [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/mo-ban-so-su-menh-88/\">MỞ BÁN SỔ SỨ MỆNH 88</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
+      "image_url": null,
+      "source": "Liên Quân Mobile Official",
+      "source_url": "https://lienquan.garena.vn/rss",
+      "published_at": "2026-04-01T03:35:55Z",
+      "crawled_at": "2026-04-01T04:07:41.071434",
+      "category": "tướng",
+      "priority": 1
+    },
     {
       "id": "d76dfef1da91",
       "title": "KHỞI ĐỘNG OFFLINE GIẢI ĐẤU THÁNG 4 | CÙNG BẠN BÈ – CHIẾN LIÊN QUÂN",
@@ -1286,19 +1299,6 @@
       "source_url": "https://lienquan.garena.vn/rss",
       "published_at": "2025-10-15T03:21:38Z",
       "crawled_at": "2025-10-18T05:06:55.670977",
-      "category": "tin tức",
-      "priority": 1
-    },
-    {
-      "id": "0fd71f9c47c3",
-      "title": "LỊCH TUẦN THI ĐẤU SUPER WEEK – ĐẤU TRƯỜNG DANH VỌNG MÙA ĐÔNG 2025",
-      "link": "https://lienquan.garena.vn/lich-tuan-thi-dau-super-week-dau-truong-danh-vong-mua-dong-2025/",
-      "summary": "<p>Bắt đầu từ ngày 08/10 &#8211; 12/10 (Giai đoạn 2) và 19/10 (vòng Play-Offs), tuần thi đấu Super Week chính thức bắt đầu. Tuần thi đấu trực tiếp có khán giả sẽ diễn ra xuyên [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/lich-tuan-thi-dau-super-week-dau-truong-danh-vong-mua-dong-2025/\">LỊCH TUẦN THI ĐẤU SUPER WEEK &#8211; ĐẤU TRƯỜNG DANH VỌNG MÙA ĐÔNG 2025</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
-      "image_url": null,
-      "source": "Liên Quân Mobile Official",
-      "source_url": "https://lienquan.garena.vn/rss",
-      "published_at": "2025-10-15T03:15:38Z",
-      "crawled_at": "2025-10-18T05:06:55.671024",
       "category": "tin tức",
       "priority": 1
     }
