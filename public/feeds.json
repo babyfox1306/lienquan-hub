@@ -41,6 +41,11 @@
       "type": "channel"
     },
     {
+      "id": "UC9gbpSZsxLTsVgiPyUsU8sg",
+      "name": "Trưởng Star",
+      "type": "channel"
+    },
+    {
       "id": "UCeMjhoCCvujpObnt6yeZeNg",
       "name": "Garena 傳說對決",
       "type": "channel"
@@ -48,6 +53,11 @@
     {
       "id": "UCwrzeq94NPsz1EHap9r_9NA",
       "name": "Lai Bâng",
+      "type": "channel"
+    },
+    {
+      "id": "UC55ad8jzcIWCMU-o2CXMEAw",
+      "name": "Thầy Giáo Liên Quân",
       "type": "channel"
     },
     {
@@ -66,11 +76,6 @@
       "type": "channel"
     },
     {
-      "id": "UCpkUzNC-PTa_Ju-xfT-CiDQ",
-      "name": "Ly Chuột Bạch",
-      "type": "channel"
-    },
-    {
       "id": "UCWXXFvwmcOHxEk6IlhW1BhA",
       "name": "Phuc Ram",
       "type": "channel"
@@ -81,23 +86,18 @@
       "type": "channel"
     },
     {
-      "id": "UCgbMglNu16CgtxKRg3LrpjQ",
-      "name": "CBNN Liên Quân Mobile",
+      "id": "UCdRY5czHAF_Ms15oJpfUM7A",
+      "name": "Yue Bán Fans",
       "type": "channel"
     },
     {
-      "id": "UC-r1vXyPiJSo2r29U3PgoNg",
-      "name": "HẢI PHONG - HỎNG FILE",
+      "id": "UCrROWQp9uPZUiTVHuWBwj9g",
+      "name": "Namsensei",
       "type": "channel"
     },
     {
-      "id": "UC1Gvx0tvS1_WyFmEH-G_2TA",
-      "name": "Team Flash Liên Quân Mobile",
-      "type": "channel"
-    },
-    {
-      "id": "UCxRmGuMCF-xhlL4ex5gnAlg",
-      "name": "Soon Nata",
+      "id": "UCdSGpiTIGwzlQQ9VP1IJXgg",
+      "name": "Bốp Bốp Top1 Liên Quân",
       "type": "channel"
     }
   ],
