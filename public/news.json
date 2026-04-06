@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-04-06T06:34:45.487226",
+  "last_updated": "2026-04-06T07:34:00.191252",
   "total_news": 100,
   "news": [
+    {
+      "id": "321abd8a269e",
+      "title": "QUY TRÌNH CẬP NHẬT PHIÊN BẢN LỄ HỘI 5v5 – 08.04.2026",
+      "link": "https://lienquan.garena.vn/quy-trinh-cap-nhat-phien-ban-le-hoi-5v5-08-04-2026/",
+      "summary": "<p>Các Kiện Tướng thân mến, Hội đồng Liên Quân xin phép thông báo Quy trình cập nhật phiên bản mới LỄ HỘI 5v5 08.04.2026 Phiên bản mới LỄ HỘI 5v5 sẽ được tiến hành cập nhật [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/quy-trinh-cap-nhat-phien-ban-le-hoi-5v5-08-04-2026/\">QUY TRÌNH CẬP NHẬT PHIÊN BẢN LỄ HỘI 5v5 – 08.04.2026</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
+      "image_url": null,
+      "source": "Liên Quân Mobile Official",
+      "source_url": "https://lienquan.garena.vn/rss",
+      "published_at": "2026-04-06T07:16:02Z",
+      "crawled_at": "2026-04-06T07:29:12.543843",
+      "category": "tướng",
+      "priority": 1
+    },
     {
       "id": "0927ea53df28",
       "title": "MỞ BÁN SỔ SỨ MỆNH 88",
@@ -1286,19 +1299,6 @@
       "source_url": "https://lienquan.garena.vn/rss",
       "published_at": "2025-10-15T03:29:07Z",
       "crawled_at": "2025-10-18T05:06:55.670928",
-      "category": "tin tức",
-      "priority": 1
-    },
-    {
-      "id": "4bc765fe20a3",
-      "title": "TỔNG KẾT ĐỘI HÌNH XUẤT SẮC NHẤT VÀ DIỄN BIẾN LƯỢT VỀ GIAI ĐOẠN 1 ĐẤU TRƯỜNG DANH VỌNG MÙA ĐÔNG 2025",
-      "link": "https://lienquan.garena.vn/tong-ket-doi-hinh-xuat-sac-nhat-va-dien-bien-luot-ve-giai-doan-1-dau-truong-danh-vong-mua-dong-2025/",
-      "summary": "<p>Khép lại lượt về Đấu Trường Danh Vọng mùa Đông 2025, đội hình xuất sắc nhất giai đoạn cũng đã chính thức lộ diện quy tụ những cái tên thi đấu ổn định, giàu đột [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/tong-ket-doi-hinh-xuat-sac-nhat-va-dien-bien-luot-ve-giai-doan-1-dau-truong-danh-vong-mua-dong-2025/\">TỔNG KẾT ĐỘI HÌNH XUẤT SẮC NHẤT VÀ DIỄN BIẾN LƯỢT VỀ GIAI ĐOẠN 1 ĐẤU TRƯỜNG DANH VỌNG MÙA ĐÔNG 2025</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobi",
-      "image_url": null,
-      "source": "Liên Quân Mobile Official",
-      "source_url": "https://lienquan.garena.vn/rss",
-      "published_at": "2025-10-15T03:21:38Z",
-      "crawled_at": "2025-10-18T05:06:55.670977",
       "category": "tin tức",
       "priority": 1
     }
