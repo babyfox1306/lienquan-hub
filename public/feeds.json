@@ -11,6 +11,11 @@
       "type": "channel"
     },
     {
+      "id": "UCy19QXxbCHh8qVVCbuGk-ig",
+      "name": "Garena RoV Thailand",
+      "type": "channel"
+    },
+    {
       "id": "UCykFSnImGNa-5DABblw7K-w",
       "name": "Gcaothu CHANNEL",
       "type": "channel"
@@ -41,6 +46,11 @@
       "type": "channel"
     },
     {
+      "id": "UC9gbpSZsxLTsVgiPyUsU8sg",
+      "name": "Trưởng Star",
+      "type": "channel"
+    },
+    {
       "id": "UCeMjhoCCvujpObnt6yeZeNg",
       "name": "Garena 傳說對決",
       "type": "channel"
@@ -61,13 +71,13 @@
       "type": "channel"
     },
     {
-      "id": "UC1ysb__ddApp3PlDva5NAVw",
-      "name": "Top 1 Liliana",
+      "id": "UCpQ52533EsOa5k-dQSmD1jw",
+      "name": "Ha Le Quyen",
       "type": "channel"
     },
     {
-      "id": "UCpkUzNC-PTa_Ju-xfT-CiDQ",
-      "name": "Ly Chuột Bạch",
+      "id": "UC1ysb__ddApp3PlDva5NAVw",
+      "name": "Top 1 Liliana",
       "type": "channel"
     },
     {
@@ -88,16 +98,6 @@
     {
       "id": "UCrROWQp9uPZUiTVHuWBwj9g",
       "name": "Namsensei",
-      "type": "channel"
-    },
-    {
-      "id": "UCdSGpiTIGwzlQQ9VP1IJXgg",
-      "name": "Bốp Bốp Top1 Liên Quân",
-      "type": "channel"
-    },
-    {
-      "id": "UCgbMglNu16CgtxKRg3LrpjQ",
-      "name": "CBNN Liên Quân Mobile",
       "type": "channel"
     }
   ],
