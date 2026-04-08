@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-04-08T08:25:08.041247",
+  "last_updated": "2026-04-08T09:25:43.213496",
   "total_news": 100,
   "news": [
+    {
+      "id": "2f8a3c5bda03",
+      "title": "Mở bán trang phục Volkath Ma Ảnh Thần Đao",
+      "link": "https://lienquan.garena.vn/mo-ban-trang-phuc-volkath-ma-anh-than-dao/",
+      "summary": "<p>Xin chào các Kiện Tướng Hội Đồng xin gửi tới các bạn ưu đãi: Mở bán trang phục Volkath Ma Ảnh Thần Đao &#160; &#160; NỘI DUNG VÀ THỜI GIAN Từ ngày 08/04/2026 &#8211; 30/04/2026 : Mở [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/mo-ban-trang-phuc-volkath-ma-anh-than-dao/\">Mở bán trang phục Volkath Ma Ảnh Thần Đao</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
+      "image_url": null,
+      "source": "Liên Quân Mobile Official",
+      "source_url": "https://lienquan.garena.vn/rss",
+      "published_at": "2026-04-08T08:55:30Z",
+      "crawled_at": "2026-04-08T09:20:49.621041",
+      "category": "tướng",
+      "priority": 1
+    },
     {
       "id": "544d647be98c",
       "title": "CHI TIẾT BẢN CẬP NHẬT LỄ HỘI 5v5 08.04.2026",
@@ -1287,19 +1300,6 @@
       "published_at": "2025-10-16T08:48:31Z",
       "crawled_at": "2025-10-18T05:06:55.670820",
       "category": "tin tức",
-      "priority": 1
-    },
-    {
-      "id": "84f2fedca22a",
-      "title": "CHÚC MỪNG COMMUNITY LEADER XUẤT SẮC NHẤT THÁNG 9 NĂM 2025",
-      "link": "https://lienquan.garena.vn/chuc-mung-community-leader-xuat-sac-nhat-thang-9-nam-2025/",
-      "summary": "<p>Xin chào các Kiện tướng, Hành trình “Ngày hội tựu trường Liên Quân” tháng 9/2025 đã chính thức khép lại, để lại những dấu ấn khó quên trong cộng đồng Kiện Tướng trên toàn quốc.  [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/chuc-mung-community-leader-xuat-sac-nhat-thang-9-nam-2025/\">CHÚC MỪNG COMMUNITY LEADER XUẤT SẮC NHẤT THÁNG 9 NĂM 2025</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
-      "image_url": null,
-      "source": "Liên Quân Mobile Official",
-      "source_url": "https://lienquan.garena.vn/rss",
-      "published_at": "2025-10-16T05:25:39Z",
-      "crawled_at": "2025-10-18T05:06:55.670885",
-      "category": "tướng",
       "priority": 1
     }
   ]
