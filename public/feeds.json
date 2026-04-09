@@ -41,13 +41,13 @@
       "type": "channel"
     },
     {
-      "id": "UCTQVIBMJLkipI2Rc1qjTyDw",
-      "name": "Quân Fbz",
+      "id": "UCpQ52533EsOa5k-dQSmD1jw",
+      "name": "Ha Le Quyen",
       "type": "channel"
     },
     {
-      "id": "UCpQ52533EsOa5k-dQSmD1jw",
-      "name": "Ha Le Quyen",
+      "id": "UC1ysb__ddApp3PlDva5NAVw",
+      "name": "Top 1 Liliana",
       "type": "channel"
     },
     {
@@ -86,6 +86,11 @@
       "type": "channel"
     },
     {
+      "id": "UC-r1vXyPiJSo2r29U3PgoNg",
+      "name": "HẢI PHONG - HỎNG FILE",
+      "type": "channel"
+    },
+    {
       "id": "UC1Gvx0tvS1_WyFmEH-G_2TA",
       "name": "Team Flash Liên Quân Mobile",
       "type": "channel"
@@ -93,11 +98,6 @@
     {
       "id": "UC6dQDhRxU57lY7bx62NcC7A",
       "name": "Highlight Liên Quân AOV",
-      "type": "channel"
-    },
-    {
-      "id": "UCYjvbjIL8c7MwcjFlBdoegg",
-      "name": "Cafe Liên Quân",
       "type": "channel"
     }
   ],
