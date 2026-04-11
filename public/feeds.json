@@ -11,6 +11,11 @@
       "type": "channel"
     },
     {
+      "id": "UCy19QXxbCHh8qVVCbuGk-ig",
+      "name": "Garena RoV Thailand",
+      "type": "channel"
+    },
+    {
       "id": "UCykFSnImGNa-5DABblw7K-w",
       "name": "Gcaothu CHANNEL",
       "type": "channel"
@@ -93,11 +98,6 @@
     {
       "id": "UCgbMglNu16CgtxKRg3LrpjQ",
       "name": "CBNN Liên Quân Mobile",
-      "type": "channel"
-    },
-    {
-      "id": "UC-r1vXyPiJSo2r29U3PgoNg",
-      "name": "HẢI PHONG - HỎNG FILE",
       "type": "channel"
     }
   ],
