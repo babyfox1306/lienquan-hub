@@ -16,6 +16,11 @@
       "type": "channel"
     },
     {
+      "id": "UC3QLI0FHwACCaa91Xdpam2A",
+      "name": "Trải Nghiệm Game",
+      "type": "channel"
+    },
+    {
       "id": "UCIzzawIg4eCPgZggwFzEQbQ",
       "name": "Garena Liên Quân Mobile",
       "type": "channel"
@@ -23,6 +28,11 @@
     {
       "id": "UCFgdNlUefoIqZm_IQssJkHw",
       "name": "ĐỆ TỨ Liên Quân Mobile",
+      "type": "channel"
+    },
+    {
+      "id": "UC9gbpSZsxLTsVgiPyUsU8sg",
+      "name": "Trưởng Star",
       "type": "channel"
     },
     {
@@ -41,6 +51,11 @@
       "type": "channel"
     },
     {
+      "id": "UCyqjmx1kcZknycssiIhFQKw",
+      "name": "VuxGaming",
+      "type": "channel"
+    },
+    {
       "id": "UCpQ52533EsOa5k-dQSmD1jw",
       "name": "Ha Le Quyen",
       "type": "channel"
@@ -51,18 +66,28 @@
       "type": "channel"
     },
     {
-      "id": "UCLmVT2XmCej720HFtG7mwSQ",
-      "name": "NTD LQ",
-      "type": "channel"
-    },
-    {
-      "id": "UCVVoMk8UNpVIdo5BgszmLnw",
-      "name": "Học Viện Liên Quân",
-      "type": "channel"
-    },
-    {
       "id": "UCMHSTFMGp-k4Z0kG-CfMSWg",
       "name": "HTT GAMER LIÊN QUÂN MOBILE",
+      "type": "channel"
+    },
+    {
+      "id": "UCWXXFvwmcOHxEk6IlhW1BhA",
+      "name": "Phuc Ram",
+      "type": "channel"
+    },
+    {
+      "id": "UC_Kfu-XiwH0WKTRSMD9st_Q",
+      "name": "Bạn Cay Tôi À?",
+      "type": "channel"
+    },
+    {
+      "id": "UCdRY5czHAF_Ms15oJpfUM7A",
+      "name": "Yue Bán Fans",
+      "type": "channel"
+    },
+    {
+      "id": "UCrROWQp9uPZUiTVHuWBwj9g",
+      "name": "Namsensei",
       "type": "channel"
     },
     {
@@ -73,31 +98,6 @@
     {
       "id": "UCgbMglNu16CgtxKRg3LrpjQ",
       "name": "CBNN Liên Quân Mobile",
-      "type": "channel"
-    },
-    {
-      "id": "UC-r1vXyPiJSo2r29U3PgoNg",
-      "name": "HẢI PHONG - HỎNG FILE",
-      "type": "channel"
-    },
-    {
-      "id": "UC1Gvx0tvS1_WyFmEH-G_2TA",
-      "name": "Team Flash Liên Quân Mobile",
-      "type": "channel"
-    },
-    {
-      "id": "UC92yhXD5hj0xvDbUj3d9aJw",
-      "name": "Liên Quân Mobile - Topic",
-      "type": "channel"
-    },
-    {
-      "id": "UCDaTEZ7p34MZ2E46r_ydJmg",
-      "name": "GKL8 HIGHLIGHT LIÊN QUÂN MOBILE",
-      "type": "channel"
-    },
-    {
-      "id": "UCg1JLR8n5gapej24pDjdGng",
-      "name": "Garena liên quân mobile",
       "type": "channel"
     }
   ],
