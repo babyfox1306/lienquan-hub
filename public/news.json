@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-04-17T04:11:23.770104",
+  "last_updated": "2026-04-17T05:46:20.407807",
   "total_news": 100,
   "news": [
+    {
+      "id": "d0bc9556776b",
+      "title": "Sự kiện giảm giá tới 90% trang phục Zill Siêu Việt",
+      "link": "https://lienquan.garena.vn/13559-2/",
+      "summary": "<p>Thời gian: 17.04 &#8211; 24.04 Trang phục Zill Siêu Việt có giá gốc 499QH được mở bán lần đầu tại sự kiện &#8220;Siêu giảm giá&#8221;. Bạn sẽ có 3 cơ hội để quay mức giảm [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/13559-2/\">Sự kiện giảm giá tới 90% trang phục Zill Siêu Việt</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
+      "image_url": null,
+      "source": "Liên Quân Mobile Official",
+      "source_url": "https://lienquan.garena.vn/rss",
+      "published_at": "2026-04-17T04:34:21Z",
+      "crawled_at": "2026-04-17T05:41:25.911789",
+      "category": "skin",
+      "priority": 1
+    },
     {
       "id": "c2e50c5d5882",
       "title": "SWISS STAGE TỨ PHƯƠNG ĐẠI CHIẾN MÙA XUÂN 2026 – 8 TRƯỜNG HỌC XUẤT SẮC NHẤT TOÀN QUỐC ĐÃ SẴN SÀNG CHINH PHỤC MŨ VINH QUANG",
@@ -1286,19 +1299,6 @@
       "source_url": "https://lienquan.garena.vn/rss",
       "published_at": "2025-10-22T04:26:10Z",
       "crawled_at": "2025-10-22T05:01:44.314429",
-      "category": "tin tức",
-      "priority": 1
-    },
-    {
-      "id": "441fff9b818a",
-      "title": "CẬP NHẬT DANH SÁCH TỈNH THÀNH MỚI TRONG GAME LIÊN QUÂN MOBILE TỪ NGÀY 22.10.2025",
-      "link": "https://lienquan.garena.vn/cap-nhat-danh-sach-tinh-thanh-moi-trong-game-lien-quan-mobile-tu-ngay-22-10-2025/",
-      "summary": "<p>Hệ thống Liên Quân sẽ tiến hành cập nhật danh sách tỉnh thành mới của Việt Nam kể từ phiên bản Quang Minh &#38; Hắc Ám. Thông tin chi tiết như sau: Từ ngày 22.10: [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/cap-nhat-danh-sach-tinh-thanh-moi-trong-game-lien-quan-mobile-tu-ngay-22-10-2025/\">CẬP NHẬT DANH SÁCH TỈNH THÀNH MỚI TRONG GAME LIÊN QUÂN MOBILE TỪ NGÀY 22.10.2025</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
-      "image_url": "https://picsum.photos/seed/https://lienquan.garena.vn/cap-nhat-danh-sach-tinh-thanh-moi-trong-game-lien-quan-mobile-tu-ngay-22-10-2025//400/225",
-      "source": "Liên Quân Mobile Official",
-      "source_url": "https://lienquan.garena.vn/rss",
-      "published_at": "2025-10-21T11:39:06Z",
-      "crawled_at": "2025-10-21T12:02:10.795906",
       "category": "tin tức",
       "priority": 1
     }
