@@ -26,6 +26,11 @@
       "type": "channel"
     },
     {
+      "id": "UCen3q9LMBtFHYU3Us7aKD3w",
+      "name": "Anhhao",
+      "type": "channel"
+    },
+    {
       "id": "UCIzzawIg4eCPgZggwFzEQbQ",
       "name": "Garena Liên Quân Mobile",
       "type": "channel"
@@ -93,11 +98,6 @@
     {
       "id": "UCgbMglNu16CgtxKRg3LrpjQ",
       "name": "CBNN Liên Quân Mobile",
-      "type": "channel"
-    },
-    {
-      "id": "UC-r1vXyPiJSo2r29U3PgoNg",
-      "name": "HẢI PHONG - HỎNG FILE",
       "type": "channel"
     }
   ],
