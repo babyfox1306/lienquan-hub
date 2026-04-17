@@ -1,3 +1,46 @@
 {
-  "videos": []
+  "videos": [
+    {
+      "videoId": "1M5wrL1mJow",
+      "title": "2026 傳說女神盃 W1D1 － 2026/04/17《Garena 傳說對決》",
+      "source": "youtube",
+      "publishedAt": "2026-04-16T12:08:28Z"
+    },
+    {
+      "videoId": "_F0n9XF7SxI",
+      "title": "神操作漂亮 EP7 有選手打不贏就是偷拆？FW 還能有第三種輸法！？《Garena 傳說對決》",
+      "source": "youtube",
+      "publishedAt": "2026-04-16T12:01:11Z"
+    },
+    {
+      "videoId": "iCJwu5bicYY",
+      "title": "ACS 2026 夏季例行賽W3D2 － 2026/04/16《Garena 傳說對決》",
+      "source": "youtube",
+      "publishedAt": "2026-04-16T11:29:05Z"
+    },
+    {
+      "videoId": "J7TaBfMvNAc",
+      "title": "【選手視角】HKA DWEI 瑟菲斯狂踩猛踩，鬼搶凱撒展現野王霸氣🔥《Garena 傳說對決》",
+      "source": "youtube",
+      "publishedAt": "2026-04-16T10:30:11Z"
+    },
+    {
+      "videoId": "h6tC456aO84",
+      "title": "【傳說新造型】齊爾「合金進化」｜造型展示影片《Garena傳說對決》",
+      "source": "youtube",
+      "publishedAt": "2026-04-16T10:01:12Z"
+    },
+    {
+      "videoId": "sNdYqgPsm6U",
+      "title": "GCS 2026 春季季後賽D2－2026/04/19《Garena 傳說對決》",
+      "source": "youtube",
+      "publishedAt": "2026-04-15T16:02:17Z"
+    },
+    {
+      "videoId": "AMMcOOUU6b8",
+      "title": "GCS 2026 春季季後賽D1－2026/04/18《Garena 傳說對決》",
+      "source": "youtube",
+      "publishedAt": "2026-04-15T16:00:50Z"
+    }
+  ]
 }
