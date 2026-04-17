@@ -1,28 +1,3 @@
 {
-  "videos": [
-    {
-      "videoId": "_AILUJvrO1Q",
-      "title": "HIGHLIGHT: 1S vs BOX - Ông Vua Vòng Bảng 1S",
-      "source": "youtube",
-      "publishedAt": "2026-04-13T11:02:55Z"
-    },
-    {
-      "videoId": "LZyW12U4rGw",
-      "title": "Rank 5 đầu mùa nek",
-      "source": "youtube",
-      "publishedAt": "2026-04-11T18:23:33Z"
-    },
-    {
-      "videoId": "wGEOqkJd8Ls",
-      "title": "HIGHLIGHT: Saigon Phantom Lấy Lại Phong Độ - Huỷ Diệt SPN",
-      "source": "youtube",
-      "publishedAt": "2026-04-11T02:25:38Z"
-    },
-    {
-      "videoId": "ffG97IBeCCw",
-      "title": "Rank 5 đầu mùa",
-      "source": "youtube",
-      "publishedAt": "2026-04-09T19:11:56Z"
-    }
-  ]
+  "videos": []
 }
