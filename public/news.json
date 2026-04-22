@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-04-22T03:03:26.472704",
+  "last_updated": "2026-04-22T04:10:46.727820",
   "total_news": 100,
   "news": [
+    {
+      "id": "85705330ab92",
+      "title": "ĐIỀU CHỈNH GIỮA MÙA PB LỄ HỘI 5v5 – 23.04.2026",
+      "link": "https://lienquan.garena.vn/dieu-chinh-giua-mua-pb-le-hoi-5v5-23-04-2026/",
+      "summary": "<p>Xin chào các Kiện Tướng, Liên Quân Mobile sẽ tiến hành cập nhật không gián đoạn cho máy chủ chính thức vào ngày 23/04/2026. Trong thời gian quy định, các Kiện tướng có thể tự chọn thời điểm [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/dieu-chinh-giua-mua-pb-le-hoi-5v5-23-04-2026/\">ĐIỀU CHỈNH GIỮA MÙA PB LỄ HỘI 5v5 – 23.04.2026</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
+      "image_url": null,
+      "source": "Liên Quân Mobile Official",
+      "source_url": "https://lienquan.garena.vn/rss",
+      "published_at": "2026-04-22T04:04:57Z",
+      "crawled_at": "2026-04-22T04:05:52.235003",
+      "category": "tướng",
+      "priority": 1
+    },
     {
       "id": "da640354fcd1",
       "title": "TỔNG KẾT CUỘC THI “ĐUA TOP LEADER TỔ CHỨC SỰ KIỆN CỘNG ĐỒNG LIÊN QUÂN” QUÝ I (01/01 – 31/03/2026)",
@@ -1287,19 +1300,6 @@
       "published_at": "2025-10-24T07:46:27Z",
       "crawled_at": "2025-10-24T08:01:48.966773",
       "category": "tướng",
-      "priority": 1
-    },
-    {
-      "id": "1edb34599c64",
-      "title": "TỔNG KẾT ĐẤU TRƯỜNG DANH VỌNG MÙA ĐÔNG 2025 – PLAYOFF 1&2: CUNG ĐIỀN KINH MỸ ĐÌNH GỌI TÊN SAIGON PHANTOM, ONE STAR ESPORTS VÀ FPT X FLASH",
-      "link": "https://lienquan.garena.vn/tong-ket-dau-truong-danh-vong-mua-dong-2025-playoff-12-cung-dien-kinh-my-dinh-goi-ten-saigon-phantom-one-star-esports-va-fpt-x-flash/",
-      "summary": "<p>Hai trận Playoff 1 và 2 của Đấu Trường Danh Vọng Mùa Đông 2025 đã khép lại với những màn đối đầu mãn nhãn và đầy cảm xúc. Sau loạt trận căng thẳng, FPTx Flash, [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/tong-ket-dau-truong-danh-vong-mua-dong-2025-playoff-12-cung-dien-kinh-my-dinh-goi-ten-saigon-phantom-one-star-esports-va-fpt-x-flash/\">TỔNG KẾT ĐẤU TRƯỜNG DANH VỌNG MÙA ĐÔNG 2025 – PLAYOFF 1&#038;2: CUNG ĐIỀN KINH MỸ ĐÌNH GỌI TÊN SAIGON PHANTOM, ONE STAR ESPORTS VÀ FPT X FLA",
-      "image_url": null,
-      "source": "Liên Quân Mobile Official",
-      "source_url": "https://lienquan.garena.vn/rss",
-      "published_at": "2025-10-23T12:18:34Z",
-      "crawled_at": "2025-10-23T13:10:52.184208",
-      "category": "esports",
       "priority": 1
     }
   ]
