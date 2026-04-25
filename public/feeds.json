@@ -81,11 +81,6 @@
       "type": "channel"
     },
     {
-      "id": "UCpkUzNC-PTa_Ju-xfT-CiDQ",
-      "name": "Ly Chuột Bạch",
-      "type": "channel"
-    },
-    {
       "id": "UCdRY5czHAF_Ms15oJpfUM7A",
       "name": "Yue Bán Fans",
       "type": "channel"
@@ -98,6 +93,11 @@
     {
       "id": "UCdSGpiTIGwzlQQ9VP1IJXgg",
       "name": "Bốp Bốp Top1 Liên Quân",
+      "type": "channel"
+    },
+    {
+      "id": "UCgbMglNu16CgtxKRg3LrpjQ",
+      "name": "CBNN Liên Quân Mobile",
       "type": "channel"
     }
   ],
