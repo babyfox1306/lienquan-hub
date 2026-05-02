@@ -1,3 +1,52 @@
 {
-  "videos": []
+  "videos": [
+    {
+      "videoId": "JySrWC15lQw",
+      "title": "《Garena傳說對決》傳說對決 X 進擊的巨人｜聯動限定賽季玩法 巨人召喚",
+      "source": "youtube",
+      "publishedAt": "2026-05-02T04:30:21Z"
+    },
+    {
+      "videoId": "uC6qio7ViWc",
+      "title": "《Garena 傳說對決》傳說對決 X 進擊的巨人 05.01 聯動開始！",
+      "source": "youtube",
+      "publishedAt": "2026-05-01T10:01:33Z"
+    },
+    {
+      "videoId": "Rawa2-LbkJE",
+      "title": "【傳說新造型】艾瑞「暴走之徒」｜造型展示影片《Garena傳說對決》",
+      "source": "youtube",
+      "publishedAt": "2026-04-30T14:00:48Z"
+    },
+    {
+      "videoId": "vabwzIAUTPo",
+      "title": "【新造型】暴徒之徒 故事影片｜We’re the BADASS！《Garena傳說對決》",
+      "source": "youtube",
+      "publishedAt": "2026-04-30T08:01:04Z"
+    },
+    {
+      "videoId": "Q4SIpYHbIe8",
+      "title": "【賽前喊話】操作天花板 NAILIU上限是幾連霸？DCG、ANK 挑戰隊史最高榮耀🔥《Garena 傳說對決》",
+      "source": "youtube",
+      "publishedAt": "2026-04-29T10:30:07Z"
+    },
+    {
+      "videoId": "JS5rWs7AWx8",
+      "title": "《Garena 傳說對決》傳說對決 X 進擊的巨人 聯動限定主題搶先看💥",
+      "source": "youtube",
+      "publishedAt": "2026-04-29T10:00:29Z"
+    },
+    {
+      "videoId": "_iiGbBXPB4g",
+      "title": "【女神視角】ANK Mico 就是野區的皇后，比洛爾精準收割和蘭鐸換位輸出驚豔全場!《Garena 傳說對決》",
+      "source": "youtube",
+      "publishedAt": "2026-04-28T14:30:26Z"
+    },
+    {
+      "videoId": "zqO26dzOyQI",
+      "title": "【選手視角】跟著FW NaiLiu看比賽，銳評選手操作敢不敢不要這麼醜⁉️《Garena 傳說對決》",
+      "source": "youtube",
+      "publishedAt": "2026-04-28T10:30:41Z"
+    }
+  ]
 }
