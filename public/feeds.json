@@ -21,11 +21,6 @@
       "type": "channel"
     },
     {
-      "id": "UCAml1Hqu4LW36B3yEtQg8Fw",
-      "name": "FUNNY GAMING TV",
-      "type": "channel"
-    },
-    {
       "id": "UC3QLI0FHwACCaa91Xdpam2A",
       "name": "Trải Nghiệm Game",
       "type": "channel"
@@ -83,6 +78,11 @@
     {
       "id": "UC_Kfu-XiwH0WKTRSMD9st_Q",
       "name": "Bạn Cay Tôi À?",
+      "type": "channel"
+    },
+    {
+      "id": "UCpkUzNC-PTa_Ju-xfT-CiDQ",
+      "name": "Ly Chuột Bạch",
       "type": "channel"
     },
     {
