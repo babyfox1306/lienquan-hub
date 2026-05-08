@@ -26,6 +26,11 @@
       "type": "channel"
     },
     {
+      "id": "UCen3q9LMBtFHYU3Us7aKD3w",
+      "name": "Anhhao",
+      "type": "channel"
+    },
+    {
       "id": "UCIzzawIg4eCPgZggwFzEQbQ",
       "name": "Garena Liên Quân Mobile",
       "type": "channel"
@@ -93,11 +98,6 @@
     {
       "id": "UCfoEdZzeGa3VW-N_TYYe86Q",
       "name": "Vĩnh Đất",
-      "type": "channel"
-    },
-    {
-      "id": "UCdRY5czHAF_Ms15oJpfUM7A",
-      "name": "Yue Bán Fans",
       "type": "channel"
     }
   ],
