@@ -16,6 +16,11 @@
       "type": "channel"
     },
     {
+      "id": "UC3QLI0FHwACCaa91Xdpam2A",
+      "name": "Trải Nghiệm Game",
+      "type": "channel"
+    },
+    {
       "id": "UCIzzawIg4eCPgZggwFzEQbQ",
       "name": "Garena Liên Quân Mobile",
       "type": "channel"
@@ -93,11 +98,6 @@
     {
       "id": "UCdSGpiTIGwzlQQ9VP1IJXgg",
       "name": "Bốp Bốp Top1 Liên Quân",
-      "type": "channel"
-    },
-    {
-      "id": "UCgbMglNu16CgtxKRg3LrpjQ",
-      "name": "CBNN Liên Quân Mobile",
       "type": "channel"
     }
   ],
