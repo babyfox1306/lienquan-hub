@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-05-11T04:38:10.593315",
+  "last_updated": "2026-05-11T06:18:38.042706",
   "total_news": 100,
   "news": [
+    {
+      "id": "88ad98bc77c8",
+      "title": "THÔNG BÁO XỬ PHẠT ĐỘI TUYỂN NGHỆ AN – SWISS STAGE TỨ PHƯƠNG ĐẠI CHIẾN MÙA XUÂN 2026",
+      "link": "https://lienquan.garena.vn/thong-bao-xu-phat-doi-tuyen-nghe-an-swiss-stage-tu-phuong-dai-chien-mua-xuan-2026/",
+      "summary": "<p>Xin chào các Kiện tướng,  Ban Tổ Chức Giải Đấu Tứ Phương Đại Chiến Mùa Xuân 2026 xin thông báo quyết định xử phạt đối với tuyển thủ Nguyễn Đức Việt (NA.Julia) của đội tuyển [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/thong-bao-xu-phat-doi-tuyen-nghe-an-swiss-stage-tu-phuong-dai-chien-mua-xuan-2026/\">THÔNG BÁO XỬ PHẠT ĐỘI TUYỂN NGHỆ AN &#8211; SWISS STAGE TỨ PHƯƠNG ĐẠI CHIẾN MÙA XUÂN 2026</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
+      "image_url": null,
+      "source": "Liên Quân Mobile Official",
+      "source_url": "https://lienquan.garena.vn/rss",
+      "published_at": "2026-05-11T05:06:00Z",
+      "crawled_at": "2026-05-11T06:13:47.382546",
+      "category": "tướng",
+      "priority": 1
+    },
     {
       "id": "dfde8e37d40e",
       "title": "Mở bán trang phục Wisp Hành Trình Kỳ Ảo",
@@ -1286,19 +1299,6 @@
       "source_url": "https://lienquan.garena.vn/rss",
       "published_at": "2025-10-30T04:39:01Z",
       "crawled_at": "2025-10-30T05:01:33.891350",
-      "category": "tin tức",
-      "priority": 1
-    },
-    {
-      "id": "06e6fa3b1d9d",
-      "title": "HÚ HỒN VÌ LOẠT “TÁO” XỊN TỪ ĐẠI LÝ SHOPEE",
-      "link": "https://lienquan.garena.vn/hu-hon-vi-loat-tao-xin-tu-dai-ly-shopee/",
-      "summary": "<p>Cùng Đại lý Shopee quẩy tung đại tiệc ma quái với loạt quà tặng cực hot. Với mỗi thẻ Garena từ 20.000Đ mua tại Đại lý Shopee trên toàn quốc, cơ hội rinh về &#8220;táo&#8221; [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/hu-hon-vi-loat-tao-xin-tu-dai-ly-shopee/\">HÚ HỒN VÌ LOẠT &#8220;TÁO&#8221; XỊN TỪ ĐẠI LÝ SHOPEE</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
-      "image_url": null,
-      "source": "Liên Quân Mobile Official",
-      "source_url": "https://lienquan.garena.vn/rss",
-      "published_at": "2025-10-29T13:00:00Z",
-      "crawled_at": "2025-10-29T13:11:40.066083",
       "category": "tin tức",
       "priority": 1
     }
