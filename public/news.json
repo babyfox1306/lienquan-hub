@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-05-12T06:06:29.249060",
+  "last_updated": "2026-05-12T07:59:07.483120",
   "total_news": 100,
   "news": [
+    {
+      "id": "2eb80a5a12d1",
+      "title": "💃 CUỘC THI CHẾ TRANG PHỤC LINH BẢO",
+      "link": "https://lienquan.garena.vn/cuoc-thi-che-trang-phuc-linh-bao/",
+      "summary": "<p>Xin chào các Kiện Tướng. Hội Đồng xin gửi tới các bạn thông tin Cuộc thi &#8220;Chế Trang phục Linh Bảo&#8221; do Liên Quân Mobile tổ chức nhằm đem lại sân chơi thú vị cho [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/cuoc-thi-che-trang-phuc-linh-bao/\">💃 CUỘC THI CHẾ TRANG PHỤC LINH BẢO</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
+      "image_url": null,
+      "source": "Liên Quân Mobile Official",
+      "source_url": "https://lienquan.garena.vn/rss",
+      "published_at": "2026-05-12T06:36:09Z",
+      "crawled_at": "2026-05-12T07:54:17.258276",
+      "category": "tướng",
+      "priority": 1
+    },
     {
       "id": "88ad98bc77c8",
       "title": "THÔNG BÁO XỬ PHẠT ĐỘI TUYỂN NGHỆ AN – SWISS STAGE TỨ PHƯƠNG ĐẠI CHIẾN MÙA XUÂN 2026",
@@ -1287,19 +1300,6 @@
       "published_at": "2025-11-04T12:04:32Z",
       "crawled_at": "2025-11-04T13:12:47.023323",
       "category": "tướng",
-      "priority": 1
-    },
-    {
-      "id": "dbba4cece12c",
-      "title": "LỊCH THI ĐẤU CHUNG KẾT TỔNG – ĐẤU TRƯỜNG DANH VỌNG MÙA ĐÔNG 2025",
-      "link": "https://lienquan.garena.vn/lich-thi-dau-chung-ket-tong-dau-truong-danh-vong-mua-dong-2025/",
-      "summary": "<p>Chặng đường chinh phục ngôi vương Đấu Trường Danh Vọng mùa Đông 2025 đang dần đến hồi kết. Với sự góp mặt của 3 đội tuyển SGP, FPT và 1S, cái tên nào sẽ giành [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/lich-thi-dau-chung-ket-tong-dau-truong-danh-vong-mua-dong-2025/\">LỊCH THI ĐẤU CHUNG KẾT TỔNG &#8211; ĐẤU TRƯỜNG DANH VỌNG MÙA ĐÔNG 2025</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
-      "image_url": null,
-      "source": "Liên Quân Mobile Official",
-      "source_url": "https://lienquan.garena.vn/rss",
-      "published_at": "2025-10-30T04:39:01Z",
-      "crawled_at": "2025-10-30T05:01:33.891350",
-      "category": "tin tức",
       "priority": 1
     }
   ]
