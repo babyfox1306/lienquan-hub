@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-05-13T09:07:41.896848",
+  "last_updated": "2026-05-13T10:52:21.798220",
   "total_news": 100,
   "news": [
+    {
+      "id": "2b3c930cde12",
+      "title": "KHỞI ĐỘNG GIẢI ĐẤU LIÊN CÂU LẠC BỘ MÙA XUÂN 2026 – TỔNG GIẢI THƯỞNG LÊN ĐẾN 30.000.000 VNĐ",
+      "link": "https://lienquan.garena.vn/khoi-dong-giai-dau-lien-cau-lac-bo-mua-xuan-2026-tong-giai-thuong-len-den-30-000-000-vnd/",
+      "summary": "<p>Xin chào các Kiện Tướng, Giải đấu Liên Câu Lạc Bộ Mùa Xuân 2026 đã chính thức khởi động, đánh dấu sự trở lại của sân chơi cộng đồng thường niên dành cho game thủ [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/khoi-dong-giai-dau-lien-cau-lac-bo-mua-xuan-2026-tong-giai-thuong-len-den-30-000-000-vnd/\">KHỞI ĐỘNG GIẢI ĐẤU LIÊN CÂU LẠC BỘ MÙA XUÂN 2026 &#8211; TỔNG GIẢI THƯỞNG LÊN ĐẾN 30.000.000 VNĐ</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
+      "image_url": null,
+      "source": "Liên Quân Mobile Official",
+      "source_url": "https://lienquan.garena.vn/rss",
+      "published_at": "2026-05-13T10:33:53Z",
+      "crawled_at": "2026-05-13T10:47:31.483700",
+      "category": "tướng",
+      "priority": 1
+    },
     {
       "id": "2eb80a5a12d1",
       "title": "💃 CUỘC THI CHẾ TRANG PHỤC LINH BẢO",
@@ -1287,19 +1300,6 @@
       "published_at": "2025-11-05T06:10:04Z",
       "crawled_at": "2025-11-05T07:01:25.641925",
       "category": "tin tức",
-      "priority": 1
-    },
-    {
-      "id": "b6e190eb9549",
-      "title": "CHUNG KẾT TOÀN QUỐC TỨ PHƯƠNG MÙA ĐÔNG 2025 | 09/11 HÀNH TRÌNH MANG CHUNG KẾT VỀ QUÊ HƯƠNG",
-      "link": "https://lienquan.garena.vn/chung-ket-toan-quoc-tu-phuong-mua-dong-2025-09-11-hanh-trinh-mang-chung-ket-ve-que-huong/",
-      "summary": "<p>Xin chào các Kiện Tướng,  Lần đầu tiên trong lịch sử, Tứ Phương Đại Chiến Mùa Đông 2025 mang vòng Chung Kết trở lại chính quê hương/ trường học của 4 đội tuyển xuất sắc [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/chung-ket-toan-quoc-tu-phuong-mua-dong-2025-09-11-hanh-trinh-mang-chung-ket-ve-que-huong/\">CHUNG KẾT TOÀN QUỐC TỨ PHƯƠNG MÙA ĐÔNG 2025 | 09/11 HÀNH TRÌNH MANG CHUNG KẾT VỀ QUÊ HƯƠNG</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
-      "image_url": null,
-      "source": "Liên Quân Mobile Official",
-      "source_url": "https://lienquan.garena.vn/rss",
-      "published_at": "2025-11-04T12:04:32Z",
-      "crawled_at": "2025-11-04T13:12:47.023323",
-      "category": "tướng",
       "priority": 1
     }
   ]
