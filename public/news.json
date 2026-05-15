@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-15T11:42:43.049426",
+  "last_updated": "2026-05-15T12:37:16.901155",
   "total_news": 100,
   "news": [
     {
@@ -13,6 +13,19 @@
       "published_at": "2026-05-14T05:44:03Z",
       "crawled_at": "2026-05-14T06:04:35.844454",
       "category": "tướng",
+      "priority": 1
+    },
+    {
+      "id": "1bce1cab7b30",
+      "title": "TỔNG KẾT VÒNG CHUNG KẾT ĐẤU TRƯỜNG DANH VỌNG MÙA XUÂN 2026: KỶ NGUYÊN MỚI CỦA NHÀ VÔ ĐỊCH FPT x FLASH",
+      "link": "https://lienquan.garena.vn/tong-ket-vong-chung-ket-dau-truong-danh-vong-mua-xuan-2026-ky-nguyen-moi-cua-nha-vo-dich-fpt-x-flash/",
+      "summary": "<p>Ngày 10/05/2026, hàng ngàn khán giả và cổ động viên yêu thích Liên Quân Mobile đã  có mặt tại Nhà thi đấu đa năng tỉnh Quảng Ninh &#8211; nơi diễn ra Vòng Chung kết Đấu [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/tong-ket-vong-chung-ket-dau-truong-danh-vong-mua-xuan-2026-ky-nguyen-moi-cua-nha-vo-dich-fpt-x-flash/\">TỔNG KẾT VÒNG CHUNG KẾT ĐẤU TRƯỜNG DANH VỌNG MÙA XUÂN 2026: KỶ NGUYÊN MỚI CỦA NHÀ VÔ ĐỊCH FPT x FLASH </a> appeared first on <a href=\"https://lienquan.garena.vn\">L",
+      "image_url": null,
+      "source": "Liên Quân Mobile Official",
+      "source_url": "https://lienquan.garena.vn/rss",
+      "published_at": "2026-05-13T12:01:15Z",
+      "crawled_at": "2026-05-15T12:30:01.806296",
+      "category": "tin tức",
       "priority": 1
     },
     {
@@ -39,6 +52,32 @@
       "published_at": "2026-05-12T06:36:09Z",
       "crawled_at": "2026-05-12T07:54:17.258276",
       "category": "tướng",
+      "priority": 1
+    },
+    {
+      "id": "0fa90e02ddf9",
+      "title": "TỔNG KẾT GIẢI THƯỞNG ĐẤU TRƯỜNG DANH VỌNG MÙA XUÂN 2026",
+      "link": "https://lienquan.garena.vn/to%cc%89ng-ket-giai-thuong-dau-truong-danh-vo%cc%a3ng-mua-xuan-2026/",
+      "summary": "<p>Sau loạt trận BO7 đầy cảm xúc tại Nhà thi đấu Đa Năng Quảng Ninh, FPT x Flash đã thành công hủy diệt Saigon Phantom để lên ngôi vô địch. Khép lại mùa giải bùng [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/to%cc%89ng-ket-giai-thuong-dau-truong-danh-vo%cc%a3ng-mua-xuan-2026/\">TỔNG KẾT GIẢI THƯỞNG ĐẤU TRƯỜNG DANH VỌNG MÙA XUÂN 2026</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
+      "image_url": null,
+      "source": "Liên Quân Mobile Official",
+      "source_url": "https://lienquan.garena.vn/rss",
+      "published_at": "2026-05-11T12:06:13Z",
+      "crawled_at": "2026-05-15T12:30:01.806395",
+      "category": "tin tức",
+      "priority": 1
+    },
+    {
+      "id": "21b153746072",
+      "title": "TỔNG KẾT GIẢI THƯỞNG QUEENS OF GLORY 2026",
+      "link": "https://lienquan.garena.vn/tong-ket-giai-thuong-queens-of-glory-2026/",
+      "summary": "<p>Ngày 10/05/2026, tại Nhà thi đấu Đa Năng Quảng Ninh, đội tuyển nữ Saigon Phantom đã có màn trình diễn đầy bản lĩnh, thành công đánh bại One Star Esports để lên ngôi vô địch [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/tong-ket-giai-thuong-queens-of-glory-2026/\">TỔNG KẾT GIẢI THƯỞNG QUEENS OF GLORY 2026</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
+      "image_url": null,
+      "source": "Liên Quân Mobile Official",
+      "source_url": "https://lienquan.garena.vn/rss",
+      "published_at": "2026-05-11T12:04:01Z",
+      "crawled_at": "2026-05-15T12:30:01.806428",
+      "category": "esports",
       "priority": 1
     },
     {
@@ -1261,45 +1300,6 @@
       "published_at": "2025-11-12T04:43:20Z",
       "crawled_at": "2025-11-12T05:01:31.333655",
       "category": "tướng",
-      "priority": 1
-    },
-    {
-      "id": "8d8de4773e81",
-      "title": "THÔNG BÁO QUÀ TẶNG TOÀN MÁY CHỦ",
-      "link": "https://lienquan.garena.vn/thong-bao-qua-tang-toan-may-chu/",
-      "summary": "<p>Xin chào các Kiện tướng, Hội đồng xin đưa thông tin tới các Kiện tướng sau sự cố đường truyền vừa qua Những ngày gần đây, do ảnh hưởng của sự cố kết nối internet [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/thong-bao-qua-tang-toan-may-chu/\">THÔNG BÁO QUÀ TẶNG TOÀN MÁY CHỦ</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
-      "image_url": null,
-      "source": "Liên Quân Mobile Official",
-      "source_url": "https://lienquan.garena.vn/rss",
-      "published_at": "2025-11-11T09:23:57Z",
-      "crawled_at": "2025-11-11T10:01:38.417627",
-      "category": "tướng",
-      "priority": 1
-    },
-    {
-      "id": "b70460b13003",
-      "title": "realme đồng hành cùng cộng đồng Liên Quân Mobile Việt Nam 2025: Hành trình bứt phá giới hạn và chinh phục đam mê với “Sức Mạnh Real, Siêu Chiến Tích”",
-      "link": "https://lienquan.garena.vn/realme-dong-hanh-cung-cong-dong-lien-quan-mobile-viet-nam-2025-hanh-trinh-but-pha-gioi-han-va-chinh-phuc-dam-me-voi-suc-manh-real-sieu-chien-tich/",
-      "summary": "<p>Năm 2025 đánh dấu một hành trình đặc biệt của thương hiệu công nghệ toàn cầu realme, khi không chỉ mang đến những sản phẩm smartphone đột phá, mà còn trở thành người bạn đồng [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/realme-dong-hanh-cung-cong-dong-lien-quan-mobile-viet-nam-2025-hanh-trinh-but-pha-gioi-han-va-chinh-phuc-dam-me-voi-suc-manh-real-sieu-chien-tich/\">realme đồng hành cùng cộng đồng Liên Quân Mobile Việt Nam 2025: Hành trình bứt phá giới hạn và chinh phục đam mê",
-      "image_url": "https://picsum.photos/seed/https://lienquan.garena.vn/realme-dong-hanh-cung-cong-dong-lien-quan-mobile-viet-nam-2025-hanh-trinh-but-pha-gioi-han-va-chinh-phuc-dam-me-voi-suc-manh-real-sieu-chien-tich//400/225",
-      "source": "Liên Quân Mobile Official",
-      "source_url": "https://lienquan.garena.vn/rss",
-      "published_at": "2025-11-08T20:00:09Z",
-      "crawled_at": "2025-11-08T20:01:31.857705",
-      "category": "tin tức",
-      "priority": 1
-    },
-    {
-      "id": "969d465021a3",
-      "title": "TỔNG KẾT GIẢI THƯỞNG ĐẤU TRƯỜNG DANH VỌNG MÙA ĐÔNG 2025 – FPT x FLASH ÔM TRỌN HÀO QUANG!",
-      "link": "https://lienquan.garena.vn/tong-ket-giai-thuong-dau-truong-danh-vong-mua-dong-2025/",
-      "summary": "<p>Ngày 02/11 vừa qua tại Cung điền kinh Mỹ Đình, người hâm mộ của Tia chớp cam cuối cùng cũng được chứng kiến đội tuyển của họ đăng quang ngôi vô địch sau hơn 4 [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/tong-ket-giai-thuong-dau-truong-danh-vong-mua-dong-2025/\">TỔNG KẾT GIẢI THƯỞNG ĐẤU TRƯỜNG DANH VỌNG MÙA ĐÔNG 2025 &#8211; FPT x FLASH ÔM TRỌN HÀO QUANG!</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
-      "image_url": null,
-      "source": "Liên Quân Mobile Official",
-      "source_url": "https://lienquan.garena.vn/rss",
-      "published_at": "2025-11-05T06:11:00Z",
-      "crawled_at": "2025-11-05T07:01:25.641856",
-      "category": "tin tức",
       "priority": 1
     }
   ]
