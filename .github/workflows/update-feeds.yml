@@ -63,6 +63,15 @@ jobs:
           python crawler/update_hero_trends.py
           echo "✅ Hero trends updated"
           ls -la public/heroes.json
+      - name: Run hero wiki images fetcher (once a day at UTC 00)
+        run: |
+          if [ "$(date +%H)" = "00" ] || [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "🖼️ Fetching hero wiki images (scheduled daily)..."
+            python crawler/fetch_hero_images.py
+            echo "✅ Hero wiki images updated"
+          else
+            echo "⏭️ Skipping hero wiki images fetcher (only runs at UTC 00:00)"
+          fi
       - name: Generate sitemap
         run: |
           echo "🗺️ Generating sitemap..."
