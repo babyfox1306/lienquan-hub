@@ -139,19 +139,44 @@ def update_trends():
                     
         score = pos_count - neg_count
         
-        # Map score to tier
+        # Seed tier data for low data heroes (hot_count < 2)
+        s_seed_lower = {name.lower() for name in ["Volkath", "Taara", "Marja", "Violet", "Hayate", "Gildur", "Sinestrea", "Lorion"]}
+        a_seed_lower = {name.lower() for name in ["Florentino", "Yena", "Murad", "Nakroth", "Keera", "Zata", "Toro"]}
+        
         old_tier = hero.get("tier", "A")
-        if score >= 5:
-            tier = "S"
-        elif score >= 2:
-            tier = "A"
-        elif score >= 0:
-            tier = "B"
+        
+        # Determine tier based on logic
+        if hot_count >= 2:
+            if score >= 3:
+                tier = "S"
+            elif score >= 1:
+                tier = "A"
+            elif score >= 0:
+                tier = "B"
+            else:
+                tier = "C"
+            tier_reason = f"Xuất hiện nhiều trong video/tin tức (Hot Count: {hot_count}, Score: {score})"
         else:
-            tier = "C"
+            hero_name_lower = hero_name.lower()
+            if hero_name_lower in s_seed_lower:
+                tier = "S"
+                tier_reason = f"Được gán từ dữ liệu hạt giống (Seed S-Tier) do ít video mới (Hot Count: {hot_count})"
+            elif hero_name_lower in a_seed_lower:
+                tier = "A"
+                tier_reason = f"Được gán từ dữ liệu hạt giống (Seed A-Tier) do ít video mới (Hot Count: {hot_count})"
+            else:
+                if score >= 3:
+                    tier = "S"
+                elif score >= 1:
+                    tier = "A"
+                elif score >= 0:
+                    tier = "B"
+                else:
+                    tier = "C"
+                tier_reason = f"Xuất hiện {total_occurrences} lần trong video/tin tức 14 ngày qua (Score: {score})"
             
         hero["tier"] = tier
-        hero["tier_reason"] = f"Xuất hiện {total_occurrences} lần trong video/tin tức 14 ngày qua (Score: {score})"
+        hero["tier_reason"] = tier_reason
         
         # C. Related Videos (max 6)
         related_videos = []
