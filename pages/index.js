@@ -8,11 +8,13 @@ import Pagination from '../components/Pagination';
 import { BannerAd, InContentAd } from '../components/DualAds';
 import { useRouter } from 'next/router';
 import { useState, useEffect } from 'react';
+import Link from 'next/link';
 
 export async function getStaticProps() {
   const publicDir = path.join(process.cwd(), 'public');
   const videosJsonPath = path.join(publicDir, 'videos.json');
   const feedsPath = path.join(publicDir, 'feeds.json');
+  const heroesJsonPath = path.join(publicDir, 'heroes.json');
 
   let videos = [];
   if (fs.existsSync(videosJsonPath)) {
@@ -31,13 +33,27 @@ export async function getStaticProps() {
     videos = feeds.manual_videos || [];
   }
 
+  let hotHeroes = [];
+  if (fs.existsSync(heroesJsonPath)) {
+    const raw = fs.readFileSync(heroesJsonPath, 'utf8');
+    const sanitized = raw.replace(/^\uFEFF/, '');
+    let j = {};
+    try {
+      j = JSON.parse(sanitized);
+      const allHeroes = j.heroes || [];
+      hotHeroes = allHeroes.filter(h => h.hot === true);
+    } catch (_) {
+      hotHeroes = [];
+    }
+  }
+
   // Sắp xếp video theo thời gian mới nhất lên trên
   videos.sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt));
 
-  return { props: { videos }, revalidate: 60 };
+  return { props: { videos, hotHeroes }, revalidate: 60 };
 }
 
-export default function Home({ videos }) {
+export default function Home({ videos, hotHeroes = [] }) {
   const router = useRouter();
   const [currentPage, setCurrentPage] = useState(1);
   const [selectedCategory, setSelectedCategory] = useState('all');
@@ -60,6 +76,72 @@ export default function Home({ videos }) {
     setCurrentPage(1);
     router.push({ pathname: '/', query: { ...router.query, page: 1 } }, undefined, { shallow: true });
   };
+
+  // Particles Background Effect
+  useEffect(() => {
+    const canvas = document.getElementById('particles');
+    if (!canvas) return;
+    const ctx = canvas.getContext('2d');
+    if (!ctx) return;
+
+    let animationFrameId;
+    let particles = [];
+    const colors = ['#ef4444', '#6366f1', '#ffffff'];
+
+    const resizeCanvas = () => {
+      const rect = canvas.parentElement.getBoundingClientRect();
+      canvas.width = rect.width;
+      canvas.height = rect.height;
+    };
+    resizeCanvas();
+    window.addEventListener('resize', resizeCanvas);
+
+    const particleCount = 80;
+    for (let i = 0; i < particleCount; i++) {
+      particles.push({
+        x: Math.random() * canvas.width,
+        y: Math.random() * canvas.height,
+        size: Math.random() * 2 + 1, // 1 to 3px
+        speedY: -(Math.random() * 0.4 + 0.1), // float up slowly
+        speedX: (Math.random() - 0.5) * 0.15, // horizontal drift
+        color: colors[Math.floor(Math.random() * colors.length)],
+        opacity: Math.random() * 0.5 + 0.3
+      });
+    }
+
+    const animate = () => {
+      ctx.clearRect(0, 0, canvas.width, canvas.height);
+      
+      for (let i = 0; i < particles.length; i++) {
+        const p = particles[i];
+        p.y += p.speedY;
+        p.x += p.speedX;
+
+        if (p.y < 0) {
+          p.y = canvas.height;
+          p.x = Math.random() * canvas.width;
+        }
+        if (p.x < 0 || p.x > canvas.width) {
+          p.x = Math.random() * canvas.width;
+        }
+
+        ctx.beginPath();
+        ctx.arc(p.x, p.y, p.size, 0, Math.PI * 2);
+        ctx.fillStyle = p.color;
+        ctx.globalAlpha = p.opacity;
+        ctx.fill();
+      }
+      
+      ctx.globalAlpha = 1.0;
+      animationFrameId = requestAnimationFrame(animate);
+    };
+    animate();
+
+    return () => {
+      window.removeEventListener('resize', resizeCanvas);
+      cancelAnimationFrame(animationFrameId);
+    };
+  }, []);
 
   // Lọc video theo search term và category
   const filteredVideos = videos.filter(v => {
@@ -97,8 +179,9 @@ export default function Home({ videos }) {
       url: `https://lienquan-hub.vercel.app/watch/${v.videoId}`
     }))
   };
+
   return (
-    <div className="min-h-screen bg-base-200">
+    <div className="min-h-screen bg-slate-950 text-white flex flex-col">
       <Head>
         <title>{currentPage === 1 ? 'Liên Quân Hub - Video Mới Nhất' : `Liên Quân Hub - Trang ${currentPage}`}</title>
         <meta name="description" content={`${currentPage === 1 ? 'Video Liên Quân mới nhất' : `Trang ${currentPage}`} - Highlight, guide, news cập nhật tự động từ YouTube`} />
@@ -107,56 +190,163 @@ export default function Home({ videos }) {
         <link rel="preconnect" href="https://i.ytimg.com" />
         <link rel="preconnect" href="https://www.youtube.com" />
       </Head>
+      
       <NavBar />
 
-      {/* Banner Ad - Only show when ads available */}
-      <BannerAd className="max-w-6xl mx-auto px-6" />
-      
-      <main className="p-3 sm:p-4 md:p-6">
-        <section className="max-w-6xl mx-auto mb-6 sm:mb-8">
-          <div className="text-center py-4 sm:py-6 md:py-8">
-            <h1 className="text-2xl sm:text-3xl md:text-4xl font-bold mb-3 sm:mb-4">Liên Quân Hub</h1>
-            <p className="text-sm sm:text-base text-base-content/70 mb-4 sm:mb-6 px-4">Tổng hợp highlight, guide, news — cập nhật tự động từ YouTube/RSS</p>
-            <div className="join w-full max-w-sm sm:max-w-md md:max-w-xl mb-4 px-4">
-              <input 
-                className="input input-bordered join-item w-full text-sm sm:text-base" 
-                placeholder="Tìm video..." 
-                value={searchTerm}
-                onChange={handleSearchChange} 
-              />
-              <button className="btn btn-primary join-item text-sm sm:text-base">Search</button>
+      {/* Hero Section */}
+      <section className="relative overflow-hidden w-full py-16 px-4 md:py-24 text-center border-b border-slate-900/60" style={{
+        minHeight: '320px',
+        background: 'linear-gradient(135deg, #0b1020 0%, #0f1923 40%, #1a0a2e 100%)'
+      }}>
+        {/* Canvas Background */}
+        <canvas id="particles" className="absolute top-0 left-0 w-full h-full pointer-events-none" />
+
+        {/* Content */}
+        <div className="relative z-10 max-w-4xl mx-auto flex flex-col items-center justify-center space-y-6">
+          {/* Live status badge */}
+          <span className="inline-flex items-center gap-1.5 px-3 py-1.5 text-xs font-black text-red-500 rounded-full border border-red-500/30 bg-red-500/10 backdrop-blur-sm animate-pulse uppercase tracking-wider">
+            <span className="w-1.5 h-1.5 rounded-full bg-red-500 animate-ping"></span>
+            🔴 LIVE · Cập nhật tự động mỗi giờ
+          </span>
+
+          {/* Title */}
+          <h1 className="text-4xl sm:text-5xl md:text-6xl font-extrabold tracking-tight" style={{
+            fontSize: 'clamp(2rem, 5vw, 3.5rem)',
+            background: 'linear-gradient(135deg, #fff 0%, #ef4444 100%)',
+            WebkitBackgroundClip: 'text',
+            WebkitTextFillColor: 'transparent'
+          }}>
+            Liên Quân Hub
+          </h1>
+
+          {/* Description */}
+          <p className="text-slate-400 text-sm sm:text-base md:text-lg max-w-2xl font-medium">
+            Tổng hợp video · Tin tức · Tier List · Bảng tướng
+          </p>
+
+          {/* Premium Search Bar */}
+          <div className="w-full max-w-[600px] flex items-center bg-white/5 border border-white/10 rounded-2xl p-1.5 focus-within:border-red-500 focus-within:ring-2 focus-within:ring-red-500/20 transition-all duration-300 backdrop-blur-sm">
+            <input 
+              type="text" 
+              className="w-full bg-transparent outline-none px-4 py-2 text-white placeholder-slate-500 text-sm sm:text-base font-semibold"
+              placeholder="Tìm video, tướng, tin tức..."
+              value={searchTerm}
+              onChange={handleSearchChange}
+            />
+            <button className="bg-red-500 hover:bg-red-600 active:scale-95 text-white font-black text-sm sm:text-base px-6 py-2.5 rounded-xl transition-all duration-300 shadow-lg shadow-red-500/20">
+              Tìm kiếm
+            </button>
+          </div>
+        </div>
+      </section>
+
+      {/* Banner Ad */}
+      <BannerAd className="max-w-6xl mx-auto px-4 mt-6" />
+
+      {/* Main Grid Content */}
+      <main className="max-w-7xl mx-auto p-4 sm:p-6 lg:p-8 flex-grow w-full space-y-10">
+        
+        {/* Hot Heroes Section */}
+        {hotHeroes.length > 0 && (
+          <section className="space-y-4">
+            <div className="flex items-center gap-3">
+              <div className="w-1 h-6 bg-red-500 rounded" />
+              <h2 className="text-xl font-extrabold text-white tracking-tight">🔥 Tướng hot tuần này</h2>
+              <span className="text-slate-500 text-sm font-semibold">· {hotHeroes.length} tướng</span>
             </div>
-            <div className="tabs tabs-boxed inline-flex flex-wrap justify-center gap-1 sm:gap-2">
-              {['all', 'highlight', 'guide', 'news'].map(cat => (
+            
+            <div className="flex overflow-x-auto gap-5 pb-4 no-scrollbar scroll-smooth" style={{
+              scrollbarWidth: 'none',
+              msOverflowStyle: 'none'
+            }}>
+              {hotHeroes.map(hero => (
+                <Link key={hero.id} href={`/tuong/${hero.id}`} className="flex flex-col items-center text-center min-w-[76px] group cursor-pointer">
+                  <div className="relative w-16 h-16 rounded-full overflow-hidden border-2 border-red-500/30 group-hover:border-red-500 group-hover:scale-105 transition-all duration-300 bg-slate-900 shadow-lg">
+                    {hero.thumbnail ? (
+                      <img src={hero.thumbnail} alt={hero.name} className="w-full h-full object-cover" />
+                    ) : (
+                      <div className="w-full h-full bg-gradient-to-br from-red-500 to-amber-500 flex items-center justify-center font-bold text-xl text-white">
+                        {hero.name[0]}
+                      </div>
+                    )}
+                    <span className={`absolute bottom-0 right-0 text-[10px] font-black px-1.5 py-0.5 rounded-full border border-slate-950 shadow-md ${
+                      hero.tier === 'S' ? 'bg-red-500 text-white' :
+                      hero.tier === 'A' ? 'bg-orange-500 text-white' :
+                      hero.tier === 'B' ? 'bg-green-500 text-white' :
+                      'bg-blue-500 text-white'
+                    }`}>
+                      {hero.tier}
+                    </span>
+                  </div>
+                  <span className="mt-2 text-xs font-bold text-slate-300 group-hover:text-white transition-colors duration-200 truncate w-20">
+                    {hero.name}
+                  </span>
+                </Link>
+              ))}
+            </div>
+          </section>
+        )}
+
+        {/* Video Grid Section */}
+        <section className="space-y-6">
+          {/* Header & Categories */}
+          <div className="flex flex-col md:flex-row md:items-center justify-between gap-4 border-b border-slate-900 pb-4">
+            <div className="flex items-center gap-3">
+              <div className="w-1 h-6 bg-red-500 rounded" />
+              <h2 className="text-xl font-extrabold text-white tracking-tight">Video mới nhất</h2>
+              <span className="text-slate-500 text-sm font-semibold">· {totalVideos} video</span>
+            </div>
+            
+            {/* Category tabs */}
+            <div className="tabs tabs-boxed bg-slate-900 border border-slate-800/80 p-1 flex gap-1 rounded-xl self-start md:self-auto">
+              {[
+                { id: 'all', label: 'Tất cả' },
+                { id: 'highlight', label: 'Highlight' },
+                { id: 'guide', label: 'Cẩm nang' },
+                { id: 'news', label: 'Tin tức' }
+              ].map(cat => (
                 <button
-                  key={cat}
-                  className={`tab text-xs sm:text-sm ${selectedCategory === cat ? 'tab-active' : ''}`}
-                  onClick={() => handleCategoryChange(cat)}
+                  key={cat.id}
+                  className={`px-4 py-1.5 text-xs font-black rounded-lg transition-all duration-300 ${
+                    selectedCategory === cat.id 
+                      ? 'bg-red-500 text-white shadow-md shadow-red-500/20' 
+                      : 'text-slate-400 hover:text-white hover:bg-slate-800'
+                  }`}
+                  onClick={() => handleCategoryChange(cat.id)}
                 >
-                  {cat === 'all' ? 'All' : cat.charAt(0).toUpperCase() + cat.slice(1)}
+                  {cat.label}
                 </button>
               ))}
             </div>
           </div>
+
+          {/* Grid */}
+          {currentVideos.length > 0 ? (
+            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4 sm:gap-6">
+              {currentVideos.map((v, idx) => (
+                <VideoCard key={v.videoId} video={v} priority={idx === 0} />
+              ))}
+            </div>
+          ) : (
+            <div className="text-center py-12 bg-slate-900/40 border border-slate-900 rounded-3xl">
+              <span className="text-4xl">🔍</span>
+              <p className="mt-4 text-slate-400 font-bold">Không tìm thấy video nào phù hợp</p>
+            </div>
+          )}
         </section>
-        <section className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-3 sm:gap-4 md:gap-6">
-          {currentVideos.map((v, idx) => (
-            <VideoCard key={v.videoId} video={v} priority={idx === 0} />
-          ))}
-        </section>
-        
-        {/* In-Content Ad - Only after first 10 videos */}
+
+        {/* In-Content Ad */}
         {currentPage === 1 && <InContentAd className="mt-8" />}
-        
+
+        {/* Pagination */}
         <Pagination 
           currentPage={currentPage} 
           totalPages={totalPages} 
           totalVideos={totalVideos} 
         />
-        <Footer />
       </main>
+
+      <Footer />
     </div>
   );
 }
-
-

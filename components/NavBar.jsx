@@ -1,23 +1,42 @@
 import Link from 'next/link';
 import { useEffect, useState } from 'react';
+import { useRouter } from 'next/router';
 
 export default function NavBar() {
-  const [theme, setTheme] = useState('dark');
+  const router = useRouter();
+  const [scrolled, setScrolled] = useState(false);
+
   useEffect(() => {
-    const t = localStorage.getItem('theme') || 'dark';
-    setTheme(t);
-    document.documentElement.setAttribute('data-theme', t);
+    const handleScroll = () => {
+      if (window.scrollY > 50) {
+        setScrolled(true);
+      } else {
+        setScrolled(false);
+      }
+    };
+    window.addEventListener('scroll', handleScroll);
+    return () => window.removeEventListener('scroll', handleScroll);
   }, []);
-  const toggleTheme = () => {
-    const next = theme === 'light' ? 'dark' : 'light';
-    setTheme(next);
-    document.documentElement.setAttribute('data-theme', next);
-    localStorage.setItem('theme', next);
+
+  const isActive = (path) => {
+    if (path === '/') {
+      return router.pathname === '/';
+    }
+    return router.pathname.startsWith(path);
   };
+
   return (
-    <div className="sticky top-0 z-50 backdrop-blur-lg bg-slate-950/85 border-b border-white/10 transition-all duration-300">
-      <div className="navbar max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div className="flex-1 flex items-center gap-6">
+    <div 
+      className="sticky top-0 z-50 transition-all duration-300" 
+      style={{
+        background: scrolled ? 'rgba(11, 16, 32, 0.95)' : 'rgba(11, 16, 32, 0.8)',
+        backdropFilter: 'blur(20px) saturate(180%)',
+        WebkitBackdropFilter: 'blur(20px) saturate(180%)',
+        borderBottom: scrolled ? '1px solid rgba(239, 68, 68, 0.35)' : '1px solid rgba(239, 68, 68, 0.15)'
+      }}
+    >
+      <div className="navbar max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-16">
+        <div className="flex-1 flex items-center gap-8">
           {/* Logo with Shield SVG */}
           <Link href="/" className="flex items-center gap-2.5 group">
             <svg className="w-9 h-9 transform group-hover:scale-105 transition-transform duration-300" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
@@ -33,41 +52,57 @@ export default function NavBar() {
             </svg>
             <div className="text-lg sm:text-xl font-black tracking-tight text-white">
               <span>Liên Quân </span>
-              <span className="text-red-500">Hub</span>
+              <span className="text-red-500 font-black">Hub</span>
             </div>
           </Link>
 
-          {/* Premium Nav Links */}
+          {/* Premium Nav Links with Underline Animation */}
           <div className="hidden md:flex items-center gap-6 ml-4">
-            <Link href="/" className="nav-link-premium font-semibold text-sm py-1.5">Video</Link>
-            <Link href="/news" className="nav-link-premium font-semibold text-sm py-1.5">Tin tức</Link>
-            <Link href="/blog" className="nav-link-premium font-semibold text-sm py-1.5">Blog</Link>
-            <Link href="/tuong" className="nav-link-premium font-semibold text-sm py-1.5">Tướng</Link>
-            <Link href="/tier-list" className="nav-link-premium font-semibold text-sm py-1.5">Tier List</Link>
+            {[
+              { label: 'Video', path: '/' },
+              { label: 'Tin tức', path: '/news' },
+              { label: 'Blog', path: '/blog' },
+              { label: 'Tướng', path: '/tuong' },
+              { label: 'Tier List', path: '/tier-list' }
+            ].map(link => (
+              <Link 
+                key={link.path} 
+                href={link.path} 
+                className={`relative py-1.5 text-sm font-black tracking-wide transition-colors duration-300 ${
+                  isActive(link.path) ? 'text-red-400' : 'text-slate-300 hover:text-white'
+                } group/link`}
+              >
+                {link.label}
+                <span className={`absolute bottom-0 left-0 w-full h-[2px] bg-red-500 origin-left transition-transform duration-300 ${
+                  isActive(link.path) ? 'scale-x-100' : 'scale-x-0 group-hover/link:scale-x-100'
+                }`} />
+              </Link>
+            ))}
           </div>
         </div>
         
-        {/* Mobile quick link & Theme switcher */}
+        {/* Mobile quick link */}
         <div className="flex-none gap-2">
-          {/* Mobile quick links */}
-          <div className="flex md:hidden items-center gap-3 mr-2">
-            <Link href="/tuong" className="text-xs font-bold text-slate-400 hover:text-white">Tướng</Link>
-            <Link href="/tier-list" className="text-xs font-bold text-slate-400 hover:text-white">Tiers</Link>
+          <div className="flex md:hidden items-center gap-4 mr-2">
+            <Link 
+              href="/tuong" 
+              className={`text-xs font-black tracking-wide ${isActive('/tuong') ? 'text-red-400' : 'text-slate-400 hover:text-white'}`}
+            >
+              Tướng
+            </Link>
+            <Link 
+              href="/tier-list" 
+              className={`text-xs font-black tracking-wide ${isActive('/tier-list') ? 'text-red-400' : 'text-slate-400 hover:text-white'}`}
+            >
+              Tiers
+            </Link>
+            <Link 
+              href="/blog" 
+              className={`text-xs font-black tracking-wide ${isActive('/blog') ? 'text-red-400' : 'text-slate-400 hover:text-white'}`}
+            >
+              Blog
+            </Link>
           </div>
-          
-          <select
-            className="select select-xs sm:select-sm select-bordered bg-slate-900 border-slate-800 text-slate-300"
-            value={theme}
-            onChange={(e) => {
-              const val = e.target.value;
-              setTheme(val);
-              document.documentElement.setAttribute('data-theme', val);
-              localStorage.setItem('theme', val);
-            }}
-          >
-            <option value="light">☀️ Light</option>
-            <option value="dark">🌙 Dark</option>
-          </select>
         </div>
       </div>
     </div>
