@@ -166,9 +166,13 @@ export default function HeroesHub({ heroes, updatedAt }) {
         {/* Heroes Grid */}
         {filteredHeroes.length > 0 ? (
           <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">
-            {filteredHeroes.map((hero) => (
-              <Link key={hero.id} href={`/tuong/${hero.id}`} className="group">
-                <div className="card bg-slate-900/40 backdrop-blur-sm border border-slate-800 hover:border-red-500/50 hover:shadow-2xl hover:shadow-red-500/5 transition-all duration-300 overflow-hidden h-full rounded-2xl">
+            {filteredHeroes.map((hero) => {
+              const glowClass = hero.tier === 'S' ? 'card-glow-s' :
+                                hero.tier === 'A' ? 'card-glow-a' :
+                                hero.tier === 'B' ? 'card-glow-b' : 'card-glow-c';
+              return (
+                <Link key={hero.id} href={`/tuong/${hero.id}`} className="group">
+                  <div className={`card bg-slate-900/40 backdrop-blur-sm border border-slate-800 overflow-hidden h-full rounded-2xl card-glow-transition ${glowClass}`}>
                   {/* Thumbnail area */}
                   <div className="relative aspect-[4/3] w-full bg-slate-950 overflow-hidden border-b border-slate-800">
                     {hero.thumbnail && !imgErrors[hero.id] ? (
@@ -234,8 +238,9 @@ export default function HeroesHub({ heroes, updatedAt }) {
                   </div>
                 </div>
               </Link>
-            ))}
-          </div>
+            );
+          })}
+        </div>
         ) : (
           <div className="text-center py-16 bg-slate-900/20 rounded-2xl border border-slate-800 border-dashed">
             <span className="text-4xl">🔍</span>
