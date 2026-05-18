@@ -55,7 +55,7 @@ def clean_and_fix_title(title):
     return title
 
 
-def translate_title(title, source_lang):
+def translate_title(title, source_lang='en'):
     if not title:
         return title
         
@@ -73,7 +73,33 @@ def translate_title(title, source_lang):
         
     print(f"Translating: '{title}' ({lang} -> vi)")
     
-    # LibreTranslate instances fallback list
+    # 1. Google Translate Web API (Primary - Super fast and high quality)
+    try:
+        url = f"https://translate.googleapis.com/translate_a/single?client=gtx&sl={lang}&tl=vi&dt=t&q={requests.utils.quote(title)}"
+        res = requests.get(url, timeout=5)
+        if res.status_code == 200:
+            data = res.json()
+            translated_text = "".join([part[0] for part in data[0] if part[0]])
+            if translated_text:
+                print(f"-> Google Translated: '{translated_text}'")
+                return translated_text
+    except Exception as e:
+        print(f"Google Translate error: {e}")
+
+    # 2. MyMemory Translation API (Secondary fallback)
+    try:
+        url = f"https://api.mymemory.translated.net/get?q={requests.utils.quote(title)}&langpair={lang}|vi"
+        res = requests.get(url, timeout=5)
+        if res.status_code == 200:
+            data = res.json()
+            translated_text = data.get('responseData', {}).get('translatedText')
+            if translated_text:
+                print(f"-> MyMemory Translated: '{translated_text}'")
+                return translated_text
+    except Exception as e:
+        print(f"MyMemory Translate error: {e}")
+        
+    # 3. LibreTranslate instances (Tertiary fallback)
     instances = [
         "https://libretranslate.de/translate",
         "https://translate.argosopentech.com/translate",
@@ -99,7 +125,7 @@ def translate_title(title, source_lang):
                 translated_text = data.get('translatedText')
                 if translated_text:
                     time.sleep(0.3)
-                    print(f"-> Translated to: '{translated_text}'")
+                    print(f"-> LibreTranslate Translated: '{translated_text}'")
                     return translated_text
         except Exception as e:
             print(f"LibreTranslate error at {instance}: {e}")
@@ -242,7 +268,14 @@ def fetch():
                 "publishedAt": published_iso,
                 "thumbnailUrl": thumbnail_url
             }
-            if not any(v['videoId'] == vid for v in videos):
+            existing_item = next((v for v in videos if v['videoId'] == vid), None)
+            if existing_item:
+                existing_item['country'] = country
+                existing_item['lang_original'] = lang
+                existing_item['title'] = title_translated
+                existing_item['title_original'] = raw_title
+                existing_item['translated'] = is_translated
+            else:
                 videos.append(item)
                 print(f'Added video: {title_translated[:50]}... - {published_iso}')
 
