@@ -4,6 +4,113 @@ import Footer from '../components/Footer';
 import Link from 'next/link';
 import { useState } from 'react';
 
+function BlogCardCover({ category, id, title }) {
+  let gradient = 'from-slate-950 via-slate-900 to-indigo-950';
+  let accentColor = 'text-indigo-400 border-indigo-500/30';
+  let glowColor = 'bg-indigo-500/10';
+  let icon = '🎮';
+  let shortTitle = 'LQ';
+
+  if (category === 'Meta Game') {
+    gradient = 'from-slate-950 via-slate-900 to-violet-950';
+    accentColor = 'text-violet-400 border-violet-500/30';
+    glowColor = 'bg-violet-500/15';
+    icon = '👑';
+    shortTitle = 'META';
+  } else if (category === 'Guide Position') {
+    gradient = 'from-slate-950 via-slate-900 to-blue-950';
+    accentColor = 'text-blue-400 border-blue-500/30';
+    glowColor = 'bg-blue-500/15';
+    icon = '🎯';
+    shortTitle = 'POSITION';
+  } else if (category === 'Guide Hero') {
+    gradient = 'from-slate-950 via-slate-900 to-red-950';
+    accentColor = 'text-red-400 border-red-500/30';
+    glowColor = 'bg-red-500/15';
+    icon = '⚔️';
+    shortTitle = 'HERO';
+  } else if (category === 'Tips Rank') {
+    gradient = 'from-slate-950 via-slate-900 to-emerald-950';
+    accentColor = 'text-emerald-400 border-emerald-500/30';
+    glowColor = 'bg-emerald-500/15';
+    icon = '💎';
+    shortTitle = 'RANK';
+  } else if (category === 'Skin Review') {
+    gradient = 'from-slate-950 via-slate-900 to-pink-950';
+    accentColor = 'text-pink-400 border-pink-500/30';
+    glowColor = 'bg-pink-500/15';
+    icon = '✨';
+    shortTitle = 'SKIN';
+  }
+
+  if (id.includes('nakroth')) {
+    shortTitle = 'NAKROTH';
+  } else if (id.includes('murad')) {
+    shortTitle = 'MURAD';
+  } else if (id.includes('marja')) {
+    shortTitle = 'MARJA';
+  } else if (id.includes('hayate')) {
+    shortTitle = 'HAYATE';
+  } else if (id.includes('violet')) {
+    shortTitle = 'VIOLET';
+  } else if (id.includes('yena')) {
+    shortTitle = 'YENA';
+  } else if (id.includes('gildur')) {
+    shortTitle = 'GILDUR';
+  } else if (id.includes('tier-list')) {
+    shortTitle = 'TIER LIST';
+  } else if (id.includes('di-rung')) {
+    shortTitle = 'JUNGLE';
+  } else if (id.includes('ta-than')) {
+    shortTitle = 'SLAYER';
+  } else if (id.includes('ho-tro')) {
+    shortTitle = 'SUPPORT';
+  } else if (id.includes('leo-rank')) {
+    shortTitle = 'LEO RANK';
+  } else if (id.includes('azzenka')) {
+    shortTitle = "AZZEN'KA";
+  }
+
+  return (
+    <div className={`w-full h-full relative overflow-hidden bg-gradient-to-br ${gradient} flex flex-col justify-between p-6 select-none transition-all duration-300`}>
+      <div 
+        className="absolute inset-0 pointer-events-none opacity-[0.03]"
+        style={{
+          backgroundImage: 'repeating-linear-gradient(45deg, #fff, #fff 1px, transparent 1px, transparent 10px)'
+        }}
+      />
+      <div className="absolute inset-0 pointer-events-none border border-white/[0.02] m-2 rounded-xl" />
+      <div className={`absolute -bottom-10 -right-10 w-32 h-32 rounded-full blur-2xl ${glowColor} group-hover:scale-110 transition-transform duration-700`} />
+      <div className={`absolute -top-10 -left-10 w-24 h-24 rounded-full blur-xl opacity-60 ${glowColor}`} />
+
+      <div className="flex justify-between items-center relative z-10">
+        <span className="text-[9px] font-black uppercase tracking-widest text-slate-500">
+          LQHUB // DATABASE
+        </span>
+        <span className="text-lg filter drop-shadow-md group-hover:scale-110 transition-transform duration-300">{icon}</span>
+      </div>
+
+      <div className="my-auto py-4 relative z-10 text-left">
+        <h4 className="text-[10px] font-black tracking-widest text-slate-400 uppercase opacity-65 mb-0.5">
+          {category}
+        </h4>
+        <div className="text-xl sm:text-2xl font-black tracking-tighter text-white uppercase bg-gradient-to-r from-white via-slate-200 to-slate-400 bg-clip-text text-transparent drop-shadow-lg group-hover:translate-x-1 transition-transform duration-300">
+          {shortTitle}
+        </div>
+      </div>
+
+      <div className="flex justify-between items-center relative z-10 pt-2 border-t border-white/[0.03]">
+        <span className="text-[9px] font-mono tracking-wider text-slate-500">
+          SEC_AUTH_META_v2.0
+        </span>
+        <span className={`text-[9px] font-black tracking-widest px-2 py-0.5 rounded border ${accentColor} bg-slate-900/30`}>
+          READY
+        </span>
+      </div>
+    </div>
+  );
+}
+
 export default function Blog() {
   const [selectedCategory, setSelectedCategory] = useState('Tất cả');
 
@@ -287,11 +394,11 @@ export default function Blog() {
                     </Link>
                   </div>
                 </div>
-                <div className="w-full lg:w-[450px] aspect-[16/10] overflow-hidden rounded-2xl border border-slate-800 bg-slate-950 relative">
-                  <img 
-                    src={featuredArticle.image} 
-                    alt={featuredArticle.title}
-                    className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
+                <div className="w-full lg:w-[450px] aspect-[16/10] overflow-hidden rounded-2xl border border-slate-800 bg-slate-950 relative group-hover:border-red-500/30 transition-colors duration-300 flex-shrink-0">
+                  <BlogCardCover 
+                    category={featuredArticle.category} 
+                    id={featuredArticle.id} 
+                    title={featuredArticle.title} 
                   />
                 </div>
               </div>
@@ -313,17 +420,12 @@ export default function Blog() {
                   key={article.id} 
                   className="group card bg-slate-900/40 backdrop-blur-sm border border-slate-800 overflow-hidden h-full rounded-2xl card-glow-transition card-glow-a"
                 >
-                  <div className="relative aspect-[16/9] w-full bg-slate-950 overflow-hidden border-b border-slate-800">
-                    <img 
-                      src={article.image} 
-                      alt={article.title}
-                      className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
+                  <div className="relative aspect-[16/9] w-full bg-slate-950 overflow-hidden border-b border-slate-800 group-hover:border-b-red-500/20 transition-colors duration-300">
+                    <BlogCardCover 
+                      category={article.category} 
+                      id={article.id} 
+                      title={article.title} 
                     />
-                    <div className="absolute top-2 right-2">
-                      <span className="badge border-none bg-slate-850/90 text-white font-bold text-[10px] px-2.5 py-1">
-                        {article.category}
-                      </span>
-                    </div>
                   </div>
                   <div className="card-body p-5 flex flex-col justify-between space-y-4">
                     <div className="space-y-2">
