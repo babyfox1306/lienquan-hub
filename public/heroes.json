@@ -90,14 +90,13 @@
         "Alice",
         "Gildur"
       ],
-      "tier": "A",
-      "tier_reason": "Xuất hiện 2 lần trong video/tin tức 14 ngày qua (Score: 2)",
+      "tier": "B",
+      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 1)",
       "hot": false,
       "hot_count": 1,
       "thumbnail": "https://img.youtube.com/vi/7iRHVGEUZTM/maxresdefault.jpg",
       "related_videos": [
-        "7iRHVGEUZTM",
-        "ISbKnVIhnio"
+        "7iRHVGEUZTM"
       ]
     },
     {
@@ -1229,9 +1228,8 @@
       "tier_reason": "Xuất hiện 2 lần trong video/tin tức 14 ngày qua (Score: 1)",
       "hot": false,
       "hot_count": 1,
-      "thumbnail": "https://img.youtube.com/vi/3S_ZW1koj90/maxresdefault.jpg",
+      "thumbnail": "https://img.youtube.com/vi/x2T43AUYVEw/maxresdefault.jpg",
       "related_videos": [
-        "3S_ZW1koj90",
         "x2T43AUYVEw",
         "tGPwxwmbZ1A"
       ]
@@ -2356,5 +2354,5 @@
       "related_videos": []
     }
   ],
-  "updated_at": "2026-05-18T15:03:44Z"
+  "updated_at": "2026-05-18T15:09:24Z"
 }
