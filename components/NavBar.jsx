@@ -22,6 +22,8 @@ export default function NavBar() {
           <Link href="/" className="btn btn-ghost btn-xs sm:btn-sm">Video</Link>
           <Link href="/news" className="btn btn-ghost btn-xs sm:btn-sm">Tin tức</Link>
           <Link href="/blog" className="btn btn-ghost btn-xs sm:btn-sm">Blog</Link>
+          <Link href="/tuong" className="btn btn-ghost btn-xs sm:btn-sm">Tướng</Link>
+          <Link href="/tier-list" className="btn btn-ghost btn-xs sm:btn-sm">Tier List</Link>
         </div>
       </div>
       <div className="flex-none gap-1 sm:gap-2">

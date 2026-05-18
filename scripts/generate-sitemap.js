@@ -16,7 +16,9 @@ function generate() {
     `${site}/contact`,
     `${site}/disclaimer`,
     `${site}/privacy`,
-    `${site}/terms`
+    `${site}/terms`,
+    `${site}/tuong`,
+    `${site}/tier-list`
   ];
 
   // Blog posts from pages/blog
@@ -28,6 +30,22 @@ function generate() {
         const slug = file.replace(/\.(js|jsx|tsx|ts)$/, '');
         urls.push(`${site}/blog/${slug}`);
       }
+    }
+  }
+
+  // Heroes
+  const heroesPath = path.join(PUBLIC_DIR, 'heroes.json');
+  if (fs.existsSync(heroesPath)) {
+    try {
+      const data = JSON.parse(fs.readFileSync(heroesPath, 'utf8'));
+      const heroes = data.heroes || [];
+      for (const h of heroes) {
+        if (h.id) {
+          urls.push(`${site}/tuong/${h.id}`);
+        }
+      }
+    } catch (err) {
+      console.error('Error reading heroes.json for sitemap:', err);
     }
   }
 

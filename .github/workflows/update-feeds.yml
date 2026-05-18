@@ -10,6 +10,7 @@ on:
       - 'public/news.json'
       - 'public/feeds.json'
       - 'public/sitemap.xml'
+      - 'public/heroes.json'
 
 jobs:
   update:
@@ -56,6 +57,12 @@ jobs:
           python crawler/news_crawler.py
           echo "✅ News crawler completed"
           ls -la public/news.json
+      - name: Run hero trends updater
+        run: |
+          echo "🔥 Updating hero trends..."
+          python crawler/update_hero_trends.py
+          echo "✅ Hero trends updated"
+          ls -la public/heroes.json
       - name: Generate sitemap
         run: |
           echo "🗺️ Generating sitemap..."
@@ -71,7 +78,7 @@ jobs:
           echo "🔍 Checking for changes..."
           git status
           git diff --name-only
-          if git diff --quiet HEAD -- public/videos.json public/news.json public/feeds.json public/sitemap.xml; then
+          if git diff --quiet HEAD -- public/videos.json public/news.json public/feeds.json public/sitemap.xml public/heroes.json; then
             echo "No changes detected"
             echo "has-changes=false" >> $GITHUB_OUTPUT
           else
@@ -87,7 +94,7 @@ jobs:
           
           # Add files with error handling
           echo "Adding files to git..."
-          git add public/videos.json public/news.json public/feeds.json public/sitemap.xml
+          git add public/videos.json public/news.json public/feeds.json public/sitemap.xml public/heroes.json
           
           # Check git status
           echo "Git status:"
