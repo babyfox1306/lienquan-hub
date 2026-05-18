@@ -77,72 +77,6 @@ export default function Home({ videos, hotHeroes = [] }) {
     router.push({ pathname: '/', query: { ...router.query, page: 1 } }, undefined, { shallow: true });
   };
 
-  // Particles Background Effect
-  useEffect(() => {
-    const canvas = document.getElementById('particles');
-    if (!canvas) return;
-    const ctx = canvas.getContext('2d');
-    if (!ctx) return;
-
-    let animationFrameId;
-    let particles = [];
-    const colors = ['#ef4444', '#6366f1', '#ffffff'];
-
-    const resizeCanvas = () => {
-      const rect = canvas.parentElement.getBoundingClientRect();
-      canvas.width = rect.width;
-      canvas.height = rect.height;
-    };
-    resizeCanvas();
-    window.addEventListener('resize', resizeCanvas);
-
-    const particleCount = 80;
-    for (let i = 0; i < particleCount; i++) {
-      particles.push({
-        x: Math.random() * canvas.width,
-        y: Math.random() * canvas.height,
-        size: Math.random() * 2 + 1, // 1 to 3px
-        speedY: -(Math.random() * 0.4 + 0.1), // float up slowly
-        speedX: (Math.random() - 0.5) * 0.15, // horizontal drift
-        color: colors[Math.floor(Math.random() * colors.length)],
-        opacity: Math.random() * 0.5 + 0.3
-      });
-    }
-
-    const animate = () => {
-      ctx.clearRect(0, 0, canvas.width, canvas.height);
-      
-      for (let i = 0; i < particles.length; i++) {
-        const p = particles[i];
-        p.y += p.speedY;
-        p.x += p.speedX;
-
-        if (p.y < 0) {
-          p.y = canvas.height;
-          p.x = Math.random() * canvas.width;
-        }
-        if (p.x < 0 || p.x > canvas.width) {
-          p.x = Math.random() * canvas.width;
-        }
-
-        ctx.beginPath();
-        ctx.arc(p.x, p.y, p.size, 0, Math.PI * 2);
-        ctx.fillStyle = p.color;
-        ctx.globalAlpha = p.opacity;
-        ctx.fill();
-      }
-      
-      ctx.globalAlpha = 1.0;
-      animationFrameId = requestAnimationFrame(animate);
-    };
-    animate();
-
-    return () => {
-      window.removeEventListener('resize', resizeCanvas);
-      cancelAnimationFrame(animationFrameId);
-    };
-  }, []);
-
   // Lọc video theo search term và category
   const filteredVideos = videos.filter(v => {
     const titleLower = v.title.toLowerCase();
@@ -193,25 +127,34 @@ export default function Home({ videos, hotHeroes = [] }) {
       
       <NavBar />
 
-      {/* Hero Section */}
+      {/* Hero Section with Official Key Art Background */}
       <section className="relative overflow-hidden w-full py-16 px-4 md:py-24 text-center border-b border-slate-900/60" style={{
         minHeight: '320px',
-        background: 'linear-gradient(135deg, #0b1020 0%, #0f1923 40%, #1a0a2e 100%)'
+        background: '#0b1020'
       }}>
-        {/* Canvas Background */}
-        <canvas id="particles" className="absolute top-0 left-0 w-full h-full pointer-events-none" />
+        {/* Background Key Art Image */}
+        <div className="absolute inset-0 overflow-hidden pointer-events-none">
+          {/* eslint-disable-next-line @next/next/no-img-element */}
+          <img 
+            src="/images/hero-bg.jpg" 
+            alt="Liên Quân Mobile Background" 
+            className="w-full h-full object-cover opacity-25" 
+          />
+          {/* Dark gradient blending the image into the page background */}
+          <div className="absolute inset-0 bg-gradient-to-t from-slate-950 via-slate-950/80 to-transparent"></div>
+        </div>
 
         {/* Content */}
         <div className="relative z-10 max-w-4xl mx-auto flex flex-col items-center justify-center space-y-6">
           {/* Live status badge */}
           <span className="inline-flex items-center gap-1.5 px-3 py-1.5 text-xs font-black text-red-500 rounded-full border border-red-500/30 bg-red-500/10 backdrop-blur-sm animate-pulse uppercase tracking-wider">
-            <span className="w-1.5 h-1.5 rounded-full bg-red-500 animate-ping"></span>
+            <span className="w-1.5 h-1.5 rounded-full bg-red-500"></span>
             🔴 LIVE · Cập nhật tự động mỗi giờ
           </span>
 
           {/* Title */}
           <h1 className="text-4xl sm:text-5xl md:text-6xl font-extrabold tracking-tight" style={{
-            fontSize: 'clamp(2rem, 5vw, 3.5rem)',
+            fontSize: 'clamp(2.2rem, 5.5vw, 3.8rem)',
             background: 'linear-gradient(135deg, #fff 0%, #ef4444 100%)',
             WebkitBackgroundClip: 'text',
             WebkitTextFillColor: 'transparent'
@@ -220,12 +163,12 @@ export default function Home({ videos, hotHeroes = [] }) {
           </h1>
 
           {/* Description */}
-          <p className="text-slate-400 text-sm sm:text-base md:text-lg max-w-2xl font-medium">
+          <p className="text-slate-300 text-sm sm:text-base md:text-lg max-w-2xl font-bold tracking-wide drop-shadow-md">
             Tổng hợp video · Tin tức · Tier List · Bảng tướng
           </p>
 
           {/* Premium Search Bar */}
-          <div className="w-full max-w-[600px] flex items-center bg-white/5 border border-white/10 rounded-2xl p-1.5 focus-within:border-red-500 focus-within:ring-2 focus-within:ring-red-500/20 transition-all duration-300 backdrop-blur-sm">
+          <div className="w-full max-w-[600px] flex items-center bg-slate-950/70 border border-white/10 rounded-2xl p-1.5 focus-within:border-red-500 focus-within:ring-2 focus-within:ring-red-500/20 transition-all duration-300 backdrop-blur-md">
             <input 
               type="text" 
               className="w-full bg-transparent outline-none px-4 py-2 text-white placeholder-slate-500 text-sm sm:text-base font-semibold"
@@ -260,27 +203,35 @@ export default function Home({ videos, hotHeroes = [] }) {
               msOverflowStyle: 'none'
             }}>
               {hotHeroes.map(hero => (
-                <Link key={hero.id} href={`/tuong/${hero.id}`} className="flex flex-col items-center text-center min-w-[76px] group cursor-pointer">
-                  <div className="relative w-16 h-16 rounded-full overflow-hidden border-2 border-red-500/30 group-hover:border-red-500 group-hover:scale-105 transition-all duration-300 bg-slate-900 shadow-lg">
-                    {hero.thumbnail ? (
-                      <img src={hero.thumbnail} alt={hero.name} className="w-full h-full object-cover" />
-                    ) : (
-                      <div className="w-full h-full bg-gradient-to-br from-red-500 to-amber-500 flex items-center justify-center font-bold text-xl text-white">
-                        {hero.name[0]}
-                      </div>
-                    )}
-                    <span className={`absolute bottom-0 right-0 text-[10px] font-black px-1.5 py-0.5 rounded-full border border-slate-950 shadow-md ${
-                      hero.tier === 'S' ? 'bg-red-500 text-white' :
-                      hero.tier === 'A' ? 'bg-orange-500 text-white' :
-                      hero.tier === 'B' ? 'bg-green-500 text-white' :
-                      'bg-blue-500 text-white'
-                    }`}>
-                      {hero.tier}
+                <Link key={hero.id} href={`/tuong/${hero.id}`} className="flex flex-col items-center text-center min-w-[76px] group cursor-pointer" legacyBehavior>
+                  <a>
+                    <div className="relative w-16 h-16 rounded-full overflow-hidden border-2 border-red-500/30 group-hover:border-red-500 group-hover:scale-105 transition-all duration-300 bg-slate-900 shadow-lg">
+                      {hero.thumbnail ? (
+                        /* eslint-disable-next-line @next/next/no-img-element */
+                        <img 
+                          src={hero.thumbnail} 
+                          alt={hero.name} 
+                          referrerPolicy="no-referrer"
+                          className="w-full h-full object-cover" 
+                        />
+                      ) : (
+                        <div className="w-full h-full bg-gradient-to-br from-red-500 to-amber-500 flex items-center justify-center font-bold text-xl text-white">
+                          {hero.name[0]}
+                        </div>
+                      )}
+                      <span className={`absolute bottom-0 right-0 text-[10px] font-black px-1.5 py-0.5 rounded-full border border-slate-950 shadow-md ${
+                        hero.tier === 'S' ? 'bg-red-500 text-white' :
+                        hero.tier === 'A' ? 'bg-orange-500 text-white' :
+                        hero.tier === 'B' ? 'bg-green-500 text-white' :
+                        'bg-blue-500 text-white'
+                      }`}>
+                        {hero.tier}
+                      </span>
+                    </div>
+                    <span className="mt-2 block text-xs font-bold text-slate-300 group-hover:text-white transition-colors duration-200 truncate w-20">
+                      {hero.name}
                     </span>
-                  </div>
-                  <span className="mt-2 text-xs font-bold text-slate-300 group-hover:text-white transition-colors duration-200 truncate w-20">
-                    {hero.name}
-                  </span>
+                  </a>
                 </Link>
               ))}
             </div>
