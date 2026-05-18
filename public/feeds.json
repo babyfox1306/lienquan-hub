@@ -3,102 +3,184 @@
     {
       "id": "UCpnQwjzvDm1MOMtZV2zkVpA",
       "name": "Liên Quân Mobile eSports-Garena",
-      "type": "channel"
+      "type": "channel",
+      "country": "VN",
+      "lang": "vi"
     },
     {
       "id": "UCpd1Gf-SZjc_5ce5vVq5FTg",
       "name": "Mobile MOBA Việt",
-      "type": "channel"
+      "type": "channel",
+      "country": "VN",
+      "lang": "vi"
     },
     {
       "id": "UCy19QXxbCHh8qVVCbuGk-ig",
       "name": "Garena RoV Thailand",
-      "type": "channel"
+      "type": "channel",
+      "country": "TH",
+      "lang": "th"
     },
     {
       "id": "UCykFSnImGNa-5DABblw7K-w",
       "name": "Gcaothu CHANNEL",
-      "type": "channel"
+      "type": "channel",
+      "country": "VN",
+      "lang": "vi"
     },
     {
       "id": "UCAml1Hqu4LW36B3yEtQg8Fw",
       "name": "FUNNY GAMING TV",
-      "type": "channel"
+      "type": "channel",
+      "country": "VN",
+      "lang": "vi"
     },
     {
       "id": "UC3QLI0FHwACCaa91Xdpam2A",
       "name": "Trải Nghiệm Game",
-      "type": "channel"
+      "type": "channel",
+      "country": "VN",
+      "lang": "vi"
     },
     {
       "id": "UCIzzawIg4eCPgZggwFzEQbQ",
       "name": "Garena Liên Quân Mobile",
-      "type": "channel"
+      "type": "channel",
+      "country": "VN",
+      "lang": "vi"
     },
     {
       "id": "UCFgdNlUefoIqZm_IQssJkHw",
       "name": "ĐỆ TỨ Liên Quân Mobile",
-      "type": "channel"
+      "type": "channel",
+      "country": "VN",
+      "lang": "vi"
     },
     {
       "id": "UC9gbpSZsxLTsVgiPyUsU8sg",
       "name": "Trưởng Star",
-      "type": "channel"
+      "type": "channel",
+      "country": "VN",
+      "lang": "vi"
     },
     {
       "id": "UCeMjhoCCvujpObnt6yeZeNg",
       "name": "Garena 傳說對決",
-      "type": "channel"
+      "type": "channel",
+      "country": "TW",
+      "lang": "zh"
     },
     {
       "id": "UCwrzeq94NPsz1EHap9r_9NA",
       "name": "Lai Bâng",
-      "type": "channel"
+      "type": "channel",
+      "country": "VN",
+      "lang": "vi"
     },
     {
       "id": "UC55ad8jzcIWCMU-o2CXMEAw",
       "name": "Thầy Giáo Liên Quân",
-      "type": "channel"
+      "type": "channel",
+      "country": "VN",
+      "lang": "vi"
     },
     {
       "id": "UCyqjmx1kcZknycssiIhFQKw",
       "name": "VuxGaming",
-      "type": "channel"
+      "type": "channel",
+      "country": "VN",
+      "lang": "vi"
     },
     {
       "id": "UCpQ52533EsOa5k-dQSmD1jw",
       "name": "Ha Le Quyen",
-      "type": "channel"
+      "type": "channel",
+      "country": "VN",
+      "lang": "vi"
     },
     {
       "id": "UC1ysb__ddApp3PlDva5NAVw",
       "name": "Top 1 Liliana",
-      "type": "channel"
+      "type": "channel",
+      "country": "VN",
+      "lang": "vi"
     },
     {
       "id": "UC_Kfu-XiwH0WKTRSMD9st_Q",
       "name": "Bạn Cay Tôi À?",
-      "type": "channel"
+      "type": "channel",
+      "country": "VN",
+      "lang": "vi"
     },
     {
       "id": "UCMHSTFMGp-k4Z0kG-CfMSWg",
       "name": "HTT GAMER LIÊN QUÂN MOBILE",
-      "type": "channel"
+      "type": "channel",
+      "country": "VN",
+      "lang": "vi"
     },
     {
       "id": "UCWXXFvwmcOHxEk6IlhW1BhA",
       "name": "Phuc Ram",
-      "type": "channel"
+      "type": "channel",
+      "country": "VN",
+      "lang": "vi"
     },
     {
       "id": "UCfoEdZzeGa3VW-N_TYYe86Q",
       "name": "Vĩnh Đất",
-      "type": "channel"
+      "type": "channel",
+      "country": "VN",
+      "lang": "vi"
     },
     {
       "id": "UCdRY5czHAF_Ms15oJpfUM7A",
       "name": "Yue Bán Fans",
-      "type": "channel"
+      "type": "channel",
+      "country": "VN",
+      "lang": "vi"
+    },
+    {
+      "id": "UCVBE4ZK00c4BKU8_NUCPTbQ",
+      "name": "Doyser",
+      "type": "channel",
+      "country": "TH",
+      "lang": "th"
+    },
+    {
+      "id": "UCdSGpiTIGwzlQQ9VP1IJXgg",
+      "name": "007x",
+      "type": "channel",
+      "country": "TH",
+      "lang": "th"
+    },
+    {
+      "id": "UC-r1vXyPiJSo2r29U3PgoNg",
+      "name": "GuySn",
+      "type": "channel",
+      "country": "TH",
+      "lang": "th"
+    },
+    {
+      "id": "UC0tOQ_WjU_994OtcZ_4aW1Q",
+      "name": "Lobo",
+      "type": "channel",
+      "country": "TW",
+      "lang": "zh"
+    },
+    {
+      "id": "UCe1yNf2Nl26kGv0T89C6Ucw",
+      "name": "Garena AOV Indonesia",
+      "type": "channel",
+      "country": "ID",
+      "lang": "id"
+    },
+    {
+      "id": "UCu9gY_5xRzplS2f2v0hH9qA",
+      "name": "Garena AOV Global",
+      "type": "channel",
+      "country": "GLOBAL",
+      "lang": "en"
     }
   ],
   "manual_videos": []
