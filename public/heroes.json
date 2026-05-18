@@ -2335,7 +2335,2588 @@
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/a/a3/Raz_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125091551",
       "related_videos": []
+    },
+    {
+      "id": "airi",
+      "name": "Airi",
+      "role": [
+        "Assassin",
+        "Warrior"
+      ],
+      "lane": [
+        "slayer"
+      ],
+      "difficulty": "medium",
+      "description": "Đấu sĩ sát thủ cơ động cao, chuyên càn lướt bắt xạ thủ địch.",
+      "skills": {
+        "passive": "Đang cập nhật: Kỹ năng nội tại của vị tướng này.",
+        "skill1": "Đang cập nhật: Kỹ năng chiêu 1 của vị tướng này.",
+        "skill2": "Đang cập nhật: Kỹ năng chiêu 2 của vị tướng này.",
+        "skill3": "Đang cập nhật: Kỹ năng chiêu cuối của vị tướng này."
+      },
+      "build_recommend": {
+        "items": [
+          "Giày Kiên Cường",
+          "Thương Xuyên Phá",
+          "Phức Hợp Kiếm",
+          "Nanh Fenrir",
+          "Huân Chương Troy",
+          "Giáp Hộ Mệnh"
+        ],
+        "spell": "Tốc Biến",
+        "emblem": "Vực Hỗn Loạn"
+      },
+      "counters": [],
+      "synergies": [],
+      "tier": "B",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "hot": false,
+      "hot_count": 0,
+      "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/d/d9/Airi_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20210809013024",
+      "related_videos": []
+    },
+    {
+      "id": "aleister",
+      "name": "Aleister",
+      "role": [
+        "Mage"
+      ],
+      "lane": [
+        "mid"
+      ],
+      "difficulty": "easy",
+      "description": "Pháp sư khống chế cứng bậc nhất, là nỗi khiếp sợ của mọi sát thủ bay nhảy.",
+      "skills": {
+        "passive": "Đang cập nhật: Kỹ năng nội tại của vị tướng này.",
+        "skill1": "Đang cập nhật: Kỹ năng chiêu 1 của vị tướng này.",
+        "skill2": "Đang cập nhật: Kỹ năng chiêu 2 của vị tướng này.",
+        "skill3": "Đang cập nhật: Kỹ năng chiêu cuối của vị tướng này."
+      },
+      "build_recommend": {
+        "items": [
+          "Giày Kiên Cường",
+          "Thương Xuyên Phá",
+          "Phức Hợp Kiếm",
+          "Nanh Fenrir",
+          "Huân Chương Troy",
+          "Giáp Hộ Mệnh"
+        ],
+        "spell": "Tốc Biến",
+        "emblem": "Vực Hỗn Loạn"
+      },
+      "counters": [],
+      "synergies": [],
+      "tier": "B",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "hot": false,
+      "hot_count": 0,
+      "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/6/64/Aleister_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20241210090540",
+      "related_videos": []
+    },
+    {
+      "id": "amily",
+      "name": "Amily",
+      "role": [
+        "Warrior"
+      ],
+      "lane": [
+        "slayer",
+        "jungle"
+      ],
+      "difficulty": "easy",
+      "description": "Đấu sĩ solo tay đôi cực mạnh nhờ nội tại tăng sát thương lên mục tiêu đơn độc.",
+      "skills": {
+        "passive": "Đang cập nhật: Kỹ năng nội tại của vị tướng này.",
+        "skill1": "Đang cập nhật: Kỹ năng chiêu 1 của vị tướng này.",
+        "skill2": "Đang cập nhật: Kỹ năng chiêu 2 của vị tướng này.",
+        "skill3": "Đang cập nhật: Kỹ năng chiêu cuối của vị tướng này."
+      },
+      "build_recommend": {
+        "items": [
+          "Giày Kiên Cường",
+          "Thương Xuyên Phá",
+          "Phức Hợp Kiếm",
+          "Nanh Fenrir",
+          "Huân Chương Troy",
+          "Giáp Hộ Mệnh"
+        ],
+        "spell": "Trừng Phạt",
+        "emblem": "Vực Hỗn Loạn"
+      },
+      "counters": [],
+      "synergies": [],
+      "tier": "B",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "hot": false,
+      "hot_count": 0,
+      "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/f/f8/Amily_profile.jpg/revision/latest/scale-to-width-down/500?cb=20200603121301",
+      "related_videos": []
+    },
+    {
+      "id": "annette",
+      "name": "Annette",
+      "role": [
+        "Support",
+        "Mage"
+      ],
+      "lane": [
+        "dragon"
+      ],
+      "difficulty": "medium",
+      "description": "Trợ thủ buff giáp, khống chế diện rộng và chia rẽ đội hình địch xuất sắc.",
+      "skills": {
+        "passive": "Đang cập nhật: Kỹ năng nội tại của vị tướng này.",
+        "skill1": "Đang cập nhật: Kỹ năng chiêu 1 của vị tướng này.",
+        "skill2": "Đang cập nhật: Kỹ năng chiêu 2 của vị tướng này.",
+        "skill3": "Đang cập nhật: Kỹ năng chiêu cuối của vị tướng này."
+      },
+      "build_recommend": {
+        "items": [
+          "Giày Kiên Cường",
+          "Thương Xuyên Phá",
+          "Phức Hợp Kiếm",
+          "Nanh Fenrir",
+          "Huân Chương Troy",
+          "Giáp Hộ Mệnh"
+        ],
+        "spell": "Tốc Biến",
+        "emblem": "Vực Hỗn Loạn"
+      },
+      "counters": [],
+      "synergies": [],
+      "tier": "B",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "hot": false,
+      "hot_count": 0,
+      "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/5/55/Annette_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125052028",
+      "related_videos": []
+    },
+    {
+      "id": "aoi",
+      "name": "Aoi",
+      "role": [
+        "Assassin"
+      ],
+      "lane": [
+        "jungle"
+      ],
+      "difficulty": "hard",
+      "description": "Sát thủ cơ động bay nhảy bậc nhất với kỹ năng đu dây Long Trảo cướp rừng ám sát đỉnh cao.",
+      "skills": {
+        "passive": "Đang cập nhật: Kỹ năng nội tại của vị tướng này.",
+        "skill1": "Đang cập nhật: Kỹ năng chiêu 1 của vị tướng này.",
+        "skill2": "Đang cập nhật: Kỹ năng chiêu 2 của vị tướng này.",
+        "skill3": "Đang cập nhật: Kỹ năng chiêu cuối của vị tướng này."
+      },
+      "build_recommend": {
+        "items": [
+          "Giày Kiên Cường",
+          "Thương Xuyên Phá",
+          "Phức Hợp Kiếm",
+          "Nanh Fenrir",
+          "Huân Chương Troy",
+          "Giáp Hộ Mệnh"
+        ],
+        "spell": "Trừng Phạt",
+        "emblem": "Vực Hỗn Loạn"
+      },
+      "counters": [],
+      "synergies": [],
+      "tier": "B",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "hot": false,
+      "hot_count": 0,
+      "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/c/c7/Aoi_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20210213111102",
+      "related_videos": [
+        "hXdnexN6kDs",
+        "h5VkvTQIigU"
+      ]
+    },
+    {
+      "id": "ata",
+      "name": "Ata",
+      "role": [
+        "Tank"
+      ],
+      "lane": [
+        "dragon",
+        "slayer"
+      ],
+      "difficulty": "easy",
+      "description": "Đỡ đòn hồi phục tốt bậc nhất nhờ nội tại giữ thanh máu ảo khi nhận sát thương.",
+      "skills": {
+        "passive": "Đang cập nhật: Kỹ năng nội tại của vị tướng này.",
+        "skill1": "Đang cập nhật: Kỹ năng chiêu 1 của vị tướng này.",
+        "skill2": "Đang cập nhật: Kỹ năng chiêu 2 của vị tướng này.",
+        "skill3": "Đang cập nhật: Kỹ năng chiêu cuối của vị tướng này."
+      },
+      "build_recommend": {
+        "items": [
+          "Giày Kiên Cường",
+          "Thương Xuyên Phá",
+          "Phức Hợp Kiếm",
+          "Nanh Fenrir",
+          "Huân Chương Troy",
+          "Giáp Hộ Mệnh"
+        ],
+        "spell": "Tốc Biến",
+        "emblem": "Vực Hỗn Loạn"
+      },
+      "counters": [],
+      "synergies": [],
+      "tier": "B",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "hot": false,
+      "hot_count": 0,
+      "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/0/05/Ata_White_Anchor.jpg/revision/latest/scale-to-width-down/500?cb=20220123231714",
+      "related_videos": []
+    },
+    {
+      "id": "aya",
+      "name": "Aya",
+      "role": [
+        "Support"
+      ],
+      "lane": [
+        "dragon"
+      ],
+      "difficulty": "easy",
+      "description": "Trợ thủ ký sinh độc đáo, có khả năng buff giáp ảo và hóa thú khống chế diện rộng địch.",
+      "skills": {
+        "passive": "Đang cập nhật: Kỹ năng nội tại của vị tướng này.",
+        "skill1": "Đang cập nhật: Kỹ năng chiêu 1 của vị tướng này.",
+        "skill2": "Đang cập nhật: Kỹ năng chiêu 2 của vị tướng này.",
+        "skill3": "Đang cập nhật: Kỹ năng chiêu cuối của vị tướng này."
+      },
+      "build_recommend": {
+        "items": [
+          "Giày Kiên Cường",
+          "Thương Xuyên Phá",
+          "Phức Hợp Kiếm",
+          "Nanh Fenrir",
+          "Huân Chương Troy",
+          "Giáp Hộ Mệnh"
+        ],
+        "spell": "Tốc Biến",
+        "emblem": "Vực Hỗn Loạn"
+      },
+      "counters": [],
+      "synergies": [],
+      "tier": "B",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "hot": false,
+      "hot_count": 0,
+      "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/f/f6/Aya_Splashart.png/revision/latest/scale-to-width-down/500?cb=20220104210403",
+      "related_videos": []
+    },
+    {
+      "id": "azzenka",
+      "name": "Azzen'Ka",
+      "role": [
+        "Mage"
+      ],
+      "lane": [
+        "mid"
+      ],
+      "difficulty": "easy",
+      "description": "Pháp sư u hồn sa mạc khống chế diện rộng liên tục cực kỳ khó chịu trong combat tổng.",
+      "skills": {
+        "passive": "Đang cập nhật: Kỹ năng nội tại của vị tướng này.",
+        "skill1": "Đang cập nhật: Kỹ năng chiêu 1 của vị tướng này.",
+        "skill2": "Đang cập nhật: Kỹ năng chiêu 2 của vị tướng này.",
+        "skill3": "Đang cập nhật: Kỹ năng chiêu cuối của vị tướng này."
+      },
+      "build_recommend": {
+        "items": [
+          "Giày Kiên Cường",
+          "Thương Xuyên Phá",
+          "Phức Hợp Kiếm",
+          "Nanh Fenrir",
+          "Huân Chương Troy",
+          "Giáp Hộ Mệnh"
+        ],
+        "spell": "Tốc Biến",
+        "emblem": "Vực Hỗn Loạn"
+      },
+      "counters": [],
+      "synergies": [],
+      "tier": "B",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "hot": false,
+      "hot_count": 0,
+      "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/a/ad/Azzen%27Ka_profile.png/revision/latest/scale-to-width-down/500?cb=20220327081848",
+      "related_videos": []
+    },
+    {
+      "id": "bijan",
+      "name": "Bijan",
+      "role": [
+        "Warrior",
+        "Tank"
+      ],
+      "lane": [
+        "slayer",
+        "jungle"
+      ],
+      "difficulty": "medium",
+      "description": "Đấu sĩ có khả năng lái thú cưỡi di chuyển siêu nhanh hỗ trợ đồng đội toàn bản đồ.",
+      "skills": {
+        "passive": "Đang cập nhật: Kỹ năng nội tại của vị tướng này.",
+        "skill1": "Đang cập nhật: Kỹ năng chiêu 1 của vị tướng này.",
+        "skill2": "Đang cập nhật: Kỹ năng chiêu 2 của vị tướng này.",
+        "skill3": "Đang cập nhật: Kỹ năng chiêu cuối của vị tướng này."
+      },
+      "build_recommend": {
+        "items": [
+          "Giày Kiên Cường",
+          "Thương Xuyên Phá",
+          "Phức Hợp Kiếm",
+          "Nanh Fenrir",
+          "Huân Chương Troy",
+          "Giáp Hộ Mệnh"
+        ],
+        "spell": "Trừng Phạt",
+        "emblem": "Vực Hỗn Loạn"
+      },
+      "counters": [],
+      "synergies": [],
+      "tier": "B",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "hot": false,
+      "hot_count": 0,
+      "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/0/0c/Bijan.jpg/revision/latest?cb=20230718044752",
+      "related_videos": []
+    },
+    {
+      "id": "biron",
+      "name": "Biron",
+      "role": [
+        "Warrior"
+      ],
+      "lane": [
+        "slayer"
+      ],
+      "difficulty": "medium",
+      "description": "Đấu sĩ dũng mãnh sở hữu khả năng buff giáp ảo khổng lồ và hồi phục cực lớn khi combat.",
+      "skills": {
+        "passive": "Đang cập nhật: Kỹ năng nội tại của vị tướng này.",
+        "skill1": "Đang cập nhật: Kỹ năng chiêu 1 của vị tướng này.",
+        "skill2": "Đang cập nhật: Kỹ năng chiêu 2 của vị tướng này.",
+        "skill3": "Đang cập nhật: Kỹ năng chiêu cuối của vị tướng này."
+      },
+      "build_recommend": {
+        "items": [
+          "Giày Kiên Cường",
+          "Thương Xuyên Phá",
+          "Phức Hợp Kiếm",
+          "Nanh Fenrir",
+          "Huân Chương Troy",
+          "Giáp Hộ Mệnh"
+        ],
+        "spell": "Tốc Biến",
+        "emblem": "Vực Hỗn Loạn"
+      },
+      "counters": [],
+      "synergies": [],
+      "tier": "B",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "hot": false,
+      "hot_count": 0,
+      "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/7/7f/Biron_itadori.jpg/revision/latest/scale-to-width-down/500?cb=20250109145933",
+      "related_videos": []
+    },
+    {
+      "id": "bonnie",
+      "name": "Bonnie",
+      "role": [
+        "Mage"
+      ],
+      "lane": [
+        "mid"
+      ],
+      "difficulty": "easy",
+      "description": "Pháp sư tinh nghịch với bộ kỹ năng khống chế cứng và ngăn cản kẻ địch bay nhảy cực tốt.",
+      "skills": {
+        "passive": "Đang cập nhật: Kỹ năng nội tại của vị tướng này.",
+        "skill1": "Đang cập nhật: Kỹ năng chiêu 1 của vị tướng này.",
+        "skill2": "Đang cập nhật: Kỹ năng chiêu 2 của vị tướng này.",
+        "skill3": "Đang cập nhật: Kỹ năng chiêu cuối của vị tướng này."
+      },
+      "build_recommend": {
+        "items": [
+          "Giày Kiên Cường",
+          "Thương Xuyên Phá",
+          "Phức Hợp Kiếm",
+          "Nanh Fenrir",
+          "Huân Chương Troy",
+          "Giáp Hộ Mệnh"
+        ],
+        "spell": "Tốc Biến",
+        "emblem": "Vực Hỗn Loạn"
+      },
+      "counters": [],
+      "synergies": [],
+      "tier": "B",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "hot": false,
+      "hot_count": 0,
+      "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/b/b9/Bonnie_Splash_Art.png.jpg/revision/latest/scale-to-width-down/500?cb=20230116211653",
+      "related_videos": [
+        "m15qM7pknVM"
+      ]
+    },
+    {
+      "id": "bright",
+      "name": "Bright",
+      "role": [
+        "Warrior",
+        "Archer"
+      ],
+      "lane": [
+        "jungle",
+        "dragon"
+      ],
+      "difficulty": "medium",
+      "description": "Đấu sĩ xạ thủ đa năng, bất tử trong vài giây khi kích hoạt chiêu cuối.",
+      "skills": {
+        "passive": "Đang cập nhật: Kỹ năng nội tại của vị tướng này.",
+        "skill1": "Đang cập nhật: Kỹ năng chiêu 1 của vị tướng này.",
+        "skill2": "Đang cập nhật: Kỹ năng chiêu 2 của vị tướng này.",
+        "skill3": "Đang cập nhật: Kỹ năng chiêu cuối của vị tướng này."
+      },
+      "build_recommend": {
+        "items": [
+          "Giày Kiên Cường",
+          "Thương Xuyên Phá",
+          "Phức Hợp Kiếm",
+          "Nanh Fenrir",
+          "Huân Chương Troy",
+          "Giáp Hộ Mệnh"
+        ],
+        "spell": "Trừng Phạt",
+        "emblem": "Vực Hỗn Loạn"
+      },
+      "counters": [],
+      "synergies": [],
+      "tier": "B",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "hot": false,
+      "hot_count": 0,
+      "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/b/b4/Bright_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20210204185733",
+      "related_videos": []
+    },
+    {
+      "id": "celica",
+      "name": "Celica",
+      "role": [
+        "Archer"
+      ],
+      "lane": [
+        "dragon"
+      ],
+      "difficulty": "medium",
+      "description": "Xạ thủ pháo binh hạng nặng có khả năng lập pháo đài bắn tầm xa chí mạng cực khủng.",
+      "skills": {
+        "passive": "Đang cập nhật: Kỹ năng nội tại của vị tướng này.",
+        "skill1": "Đang cập nhật: Kỹ năng chiêu 1 của vị tướng này.",
+        "skill2": "Đang cập nhật: Kỹ năng chiêu 2 của vị tướng này.",
+        "skill3": "Đang cập nhật: Kỹ năng chiêu cuối của vị tướng này."
+      },
+      "build_recommend": {
+        "items": [
+          "Giày Kiên Cường",
+          "Thương Xuyên Phá",
+          "Phức Hợp Kiếm",
+          "Nanh Fenrir",
+          "Huân Chương Troy",
+          "Giáp Hộ Mệnh"
+        ],
+        "spell": "Tốc Biến",
+        "emblem": "Vực Hỗn Loạn"
+      },
+      "counters": [],
+      "synergies": [],
+      "tier": "B",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "hot": false,
+      "hot_count": 0,
+      "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/d/d2/Brunhilda_profile.jpg/revision/latest/scale-to-width-down/500?cb=20200531221741",
+      "related_videos": []
+    },
+    {
+      "id": "butterfly",
+      "name": "Butterfly",
+      "role": [
+        "Assassin"
+      ],
+      "lane": [
+        "jungle"
+      ],
+      "difficulty": "easy",
+      "description": "Sát thủ cổ điển với cơ chế hồi chiêu lập tức khi hạ gục hoặc phụ hạ gục kẻ địch.",
+      "skills": {
+        "passive": "Đang cập nhật: Kỹ năng nội tại của vị tướng này.",
+        "skill1": "Đang cập nhật: Kỹ năng chiêu 1 của vị tướng này.",
+        "skill2": "Đang cập nhật: Kỹ năng chiêu 2 của vị tướng này.",
+        "skill3": "Đang cập nhật: Kỹ năng chiêu cuối của vị tướng này."
+      },
+      "build_recommend": {
+        "items": [
+          "Giày Kiên Cường",
+          "Thương Xuyên Phá",
+          "Phức Hợp Kiếm",
+          "Nanh Fenrir",
+          "Huân Chương Troy",
+          "Giáp Hộ Mệnh"
+        ],
+        "spell": "Trừng Phạt",
+        "emblem": "Vực Hỗn Loạn"
+      },
+      "counters": [],
+      "synergies": [],
+      "tier": "B",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "hot": false,
+      "hot_count": 0,
+      "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/c/ca/Butterfly_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125083110",
+      "related_videos": []
+    },
+    {
+      "id": "capheny",
+      "name": "Capheny",
+      "role": [
+        "Archer"
+      ],
+      "lane": [
+        "dragon"
+      ],
+      "difficulty": "medium",
+      "description": "Xạ thủ cơ động có khả năng chuyển đổi vũ khí bắn đại liên cấu rỉa liên tục.",
+      "skills": {
+        "passive": "Đang cập nhật: Kỹ năng nội tại của vị tướng này.",
+        "skill1": "Đang cập nhật: Kỹ năng chiêu 1 của vị tướng này.",
+        "skill2": "Đang cập nhật: Kỹ năng chiêu 2 của vị tướng này.",
+        "skill3": "Đang cập nhật: Kỹ năng chiêu cuối của vị tướng này."
+      },
+      "build_recommend": {
+        "items": [
+          "Giày Kiên Cường",
+          "Thương Xuyên Phá",
+          "Phức Hợp Kiếm",
+          "Nanh Fenrir",
+          "Huân Chương Troy",
+          "Giáp Hộ Mệnh"
+        ],
+        "spell": "Tốc Biến",
+        "emblem": "Vực Hỗn Loạn"
+      },
+      "counters": [],
+      "synergies": [],
+      "tier": "B",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "hot": false,
+      "hot_count": 0,
+      "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/d/d3/Capheny_profile.jpg/revision/latest/scale-to-width-down/500?cb=20200531224240",
+      "related_videos": []
+    },
+    {
+      "id": "charlotte",
+      "name": "Charlotte",
+      "role": [
+        "Warrior"
+      ],
+      "lane": [
+        "slayer"
+      ],
+      "difficulty": "medium",
+      "description": "Nữ kiếm sĩ tài năng với bộ chiêu thức kiếm pháp dồn dập và giảm tốc đánh địch.",
+      "skills": {
+        "passive": "Đang cập nhật: Kỹ năng nội tại của vị tướng này.",
+        "skill1": "Đang cập nhật: Kỹ năng chiêu 1 của vị tướng này.",
+        "skill2": "Đang cập nhật: Kỹ năng chiêu 2 của vị tướng này.",
+        "skill3": "Đang cập nhật: Kỹ năng chiêu cuối của vị tướng này."
+      },
+      "build_recommend": {
+        "items": [
+          "Giày Kiên Cường",
+          "Thương Xuyên Phá",
+          "Phức Hợp Kiếm",
+          "Nanh Fenrir",
+          "Huân Chương Troy",
+          "Giáp Hộ Mệnh"
+        ],
+        "spell": "Tốc Biến",
+        "emblem": "Vực Hỗn Loạn"
+      },
+      "counters": [],
+      "synergies": [],
+      "tier": "B",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "hot": false,
+      "hot_count": 0,
+      "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/c/c6/Challot_hexswword.jpg/revision/latest/scale-to-width-down/500?cb=20250112084656",
+      "related_videos": []
+    },
+    {
+      "id": "cresht",
+      "name": "Cresht",
+      "role": [
+        "Tank",
+        "Support"
+      ],
+      "lane": [
+        "dragon"
+      ],
+      "difficulty": "easy",
+      "description": "Đỡ đòn chấn phái có khả năng hóa khổng lồ tăng giáp ảo chiếm 1/2 thanh máu.",
+      "skills": {
+        "passive": "Đang cập nhật: Kỹ năng nội tại của vị tướng này.",
+        "skill1": "Đang cập nhật: Kỹ năng chiêu 1 của vị tướng này.",
+        "skill2": "Đang cập nhật: Kỹ năng chiêu 2 của vị tướng này.",
+        "skill3": "Đang cập nhật: Kỹ năng chiêu cuối của vị tướng này."
+      },
+      "build_recommend": {
+        "items": [
+          "Giày Kiên Cường",
+          "Thương Xuyên Phá",
+          "Phức Hợp Kiếm",
+          "Nanh Fenrir",
+          "Huân Chương Troy",
+          "Giáp Hộ Mệnh"
+        ],
+        "spell": "Tốc Biến",
+        "emblem": "Vực Hỗn Loạn"
+      },
+      "counters": [],
+      "synergies": [],
+      "tier": "B",
+      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "hot": false,
+      "hot_count": 1,
+      "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/b/ba/Cresht_Default.jpg/revision/latest/scale-to-width-down/500?cb=20180309111454",
+      "related_videos": [
+        "FVsXOkE4Qbw",
+        "36Jo7Hx0SJA"
+      ]
+    },
+    {
+      "id": "darcy",
+      "name": "D'Arcy",
+      "role": [
+        "Mage"
+      ],
+      "lane": [
+        "jungle",
+        "mid"
+      ],
+      "difficulty": "medium",
+      "description": "Pháp sư thứ nguyên với khả năng giam giữ kẻ địch trong ma trận không gian.",
+      "skills": {
+        "passive": "Đang cập nhật: Kỹ năng nội tại của vị tướng này.",
+        "skill1": "Đang cập nhật: Kỹ năng chiêu 1 của vị tướng này.",
+        "skill2": "Đang cập nhật: Kỹ năng chiêu 2 của vị tướng này.",
+        "skill3": "Đang cập nhật: Kỹ năng chiêu cuối của vị tướng này."
+      },
+      "build_recommend": {
+        "items": [
+          "Giày Kiên Cường",
+          "Thương Xuyên Phá",
+          "Phức Hợp Kiếm",
+          "Nanh Fenrir",
+          "Huân Chương Troy",
+          "Giáp Hộ Mệnh"
+        ],
+        "spell": "Trừng Phạt",
+        "emblem": "Vực Hỗn Loạn"
+      },
+      "counters": [],
+      "synergies": [],
+      "tier": "B",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "hot": false,
+      "hot_count": 0,
+      "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/c/c9/D%27Arcy_profile.jpg/revision/latest/scale-to-width-down/500?cb=20200531224258",
+      "related_videos": []
+    },
+    {
+      "id": "dextra",
+      "name": "Dextra",
+      "role": [
+        "Warrior"
+      ],
+      "lane": [
+        "slayer"
+      ],
+      "difficulty": "medium",
+      "description": "Đấu sĩ huyết tộc có khả năng biến sát thương nhận vào thành lượng hồi phục khổng lồ.",
+      "skills": {
+        "passive": "Đang cập nhật: Kỹ năng nội tại của vị tướng này.",
+        "skill1": "Đang cập nhật: Kỹ năng chiêu 1 của vị tướng này.",
+        "skill2": "Đang cập nhật: Kỹ năng chiêu 2 của vị tướng này.",
+        "skill3": "Đang cập nhật: Kỹ năng chiêu cuối của vị tướng này."
+      },
+      "build_recommend": {
+        "items": [
+          "Giày Kiên Cường",
+          "Thương Xuyên Phá",
+          "Phức Hợp Kiếm",
+          "Nanh Fenrir",
+          "Huân Chương Troy",
+          "Giáp Hộ Mệnh"
+        ],
+        "spell": "Tốc Biến",
+        "emblem": "Vực Hỗn Loạn"
+      },
+      "counters": [],
+      "synergies": [],
+      "tier": "B",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "hot": false,
+      "hot_count": 0,
+      "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/c/ce/Dextra_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260124110012",
+      "related_videos": []
+    },
+    {
+      "id": "diaochan",
+      "name": "Điêu Thuyền",
+      "role": [
+        "Mage"
+      ],
+      "lane": [
+        "mid"
+      ],
+      "difficulty": "easy",
+      "description": "Pháp sư sở hữu hai lần đóng băng liên tiếp siêu khống chế khiến địch đứng hình.",
+      "skills": {
+        "passive": "Đang cập nhật: Kỹ năng nội tại của vị tướng này.",
+        "skill1": "Đang cập nhật: Kỹ năng chiêu 1 của vị tướng này.",
+        "skill2": "Đang cập nhật: Kỹ năng chiêu 2 của vị tướng này.",
+        "skill3": "Đang cập nhật: Kỹ năng chiêu cuối của vị tướng này."
+      },
+      "build_recommend": {
+        "items": [
+          "Giày Kiên Cường",
+          "Thương Xuyên Phá",
+          "Phức Hợp Kiếm",
+          "Nanh Fenrir",
+          "Huân Chương Troy",
+          "Giáp Hộ Mệnh"
+        ],
+        "spell": "Tốc Biến",
+        "emblem": "Vực Hỗn Loạn"
+      },
+      "counters": [],
+      "synergies": [],
+      "tier": "B",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "hot": false,
+      "hot_count": 0,
+      "thumbnail": null,
+      "related_videos": []
+    },
+    {
+      "id": "dolia",
+      "name": "Dolia",
+      "role": [
+        "Support"
+      ],
+      "lane": [
+        "dragon"
+      ],
+      "difficulty": "easy",
+      "description": "Trợ thủ nhân ngư có khả năng làm mới hoàn toàn thời gian hồi chiêu cuối cho đồng đội.",
+      "skills": {
+        "passive": "Đang cập nhật: Kỹ năng nội tại của vị tướng này.",
+        "skill1": "Đang cập nhật: Kỹ năng chiêu 1 của vị tướng này.",
+        "skill2": "Đang cập nhật: Kỹ năng chiêu 2 của vị tướng này.",
+        "skill3": "Đang cập nhật: Kỹ năng chiêu cuối của vị tướng này."
+      },
+      "build_recommend": {
+        "items": [
+          "Giày Kiên Cường",
+          "Thương Xuyên Phá",
+          "Phức Hợp Kiếm",
+          "Nanh Fenrir",
+          "Huân Chương Troy",
+          "Giáp Hộ Mệnh"
+        ],
+        "spell": "Tốc Biến",
+        "emblem": "Vực Hỗn Loạn"
+      },
+      "counters": [],
+      "synergies": [],
+      "tier": "B",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "hot": false,
+      "hot_count": 0,
+      "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/e/e6/Dolia_Splash_Art.jpeg/revision/latest/scale-to-width-down/500?cb=20240710174030",
+      "related_videos": []
+    },
+    {
+      "id": "dyadia",
+      "name": "Dyadia",
+      "role": [
+        "Support",
+        "Mage"
+      ],
+      "lane": [
+        "dragon"
+      ],
+      "difficulty": "medium",
+      "description": "Trợ thủ có lối chơi đa năng kết nối duyên phận đồng minh và trói buộc kẻ địch.",
+      "skills": {
+        "passive": "Đang cập nhật: Kỹ năng nội tại của vị tướng này.",
+        "skill1": "Đang cập nhật: Kỹ năng chiêu 1 của vị tướng này.",
+        "skill2": "Đang cập nhật: Kỹ năng chiêu 2 của vị tướng này.",
+        "skill3": "Đang cập nhật: Kỹ năng chiêu cuối của vị tướng này."
+      },
+      "build_recommend": {
+        "items": [
+          "Giày Kiên Cường",
+          "Thương Xuyên Phá",
+          "Phức Hợp Kiếm",
+          "Nanh Fenrir",
+          "Huân Chương Troy",
+          "Giáp Hộ Mệnh"
+        ],
+        "spell": "Tốc Biến",
+        "emblem": "Vực Hỗn Loạn"
+      },
+      "counters": [],
+      "synergies": [],
+      "tier": "B",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "hot": false,
+      "hot_count": 0,
+      "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/3/3d/Dyadia_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260124103724",
+      "related_videos": []
+    },
+    {
+      "id": "elandorr",
+      "name": "Eland'orr",
+      "role": [
+        "Archer",
+        "Assassin"
+      ],
+      "lane": [
+        "jungle"
+      ],
+      "difficulty": "hard",
+      "description": "Xạ thủ đi rừng bay nhảy ảo diệu nhất game thông qua các cánh bướm tinh linh.",
+      "skills": {
+        "passive": "Đang cập nhật: Kỹ năng nội tại của vị tướng này.",
+        "skill1": "Đang cập nhật: Kỹ năng chiêu 1 của vị tướng này.",
+        "skill2": "Đang cập nhật: Kỹ năng chiêu 2 của vị tướng này.",
+        "skill3": "Đang cập nhật: Kỹ năng chiêu cuối của vị tướng này."
+      },
+      "build_recommend": {
+        "items": [
+          "Giày Kiên Cường",
+          "Thương Xuyên Phá",
+          "Phức Hợp Kiếm",
+          "Nanh Fenrir",
+          "Huân Chương Troy",
+          "Giáp Hộ Mệnh"
+        ],
+        "spell": "Trừng Phạt",
+        "emblem": "Vực Hỗn Loạn"
+      },
+      "counters": [],
+      "synergies": [],
+      "tier": "B",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "hot": false,
+      "hot_count": 0,
+      "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/c/cf/Eland%27orr_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20210106151741",
+      "related_videos": []
+    },
+    {
+      "id": "enzo",
+      "name": "Enzo",
+      "role": [
+        "Assassin"
+      ],
+      "lane": [
+        "jungle"
+      ],
+      "difficulty": "hard",
+      "description": "Sát thủ kéo quăng và quật ngã kẻ địch cực kỳ hoa mỹ đòi hỏi độ chính xác cao.",
+      "skills": {
+        "passive": "Đang cập nhật: Kỹ năng nội tại của vị tướng này.",
+        "skill1": "Đang cập nhật: Kỹ năng chiêu 1 của vị tướng này.",
+        "skill2": "Đang cập nhật: Kỹ năng chiêu 2 của vị tướng này.",
+        "skill3": "Đang cập nhật: Kỹ năng chiêu cuối của vị tướng này."
+      },
+      "build_recommend": {
+        "items": [
+          "Giày Kiên Cường",
+          "Thương Xuyên Phá",
+          "Phức Hợp Kiếm",
+          "Nanh Fenrir",
+          "Huân Chương Troy",
+          "Giáp Hộ Mệnh"
+        ],
+        "spell": "Trừng Phạt",
+        "emblem": "Vực Hỗn Loạn"
+      },
+      "counters": [],
+      "synergies": [],
+      "tier": "B",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "hot": false,
+      "hot_count": 0,
+      "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/e/e6/Enzo_profile.jpg/revision/latest/scale-to-width-down/500?cb=20200531224410",
+      "related_videos": []
+    },
+    {
+      "id": "erin",
+      "name": "Erin",
+      "role": [
+        "Archer",
+        "Mage"
+      ],
+      "lane": [
+        "dragon"
+      ],
+      "difficulty": "medium",
+      "description": "Xạ thủ gây sát thương phép tinh linh vô cùng cơ động và bắn nhanh liên tục.",
+      "skills": {
+        "passive": "Đang cập nhật: Kỹ năng nội tại của vị tướng này.",
+        "skill1": "Đang cập nhật: Kỹ năng chiêu 1 của vị tướng này.",
+        "skill2": "Đang cập nhật: Kỹ năng chiêu 2 của vị tướng này.",
+        "skill3": "Đang cập nhật: Kỹ năng chiêu cuối của vị tướng này."
+      },
+      "build_recommend": {
+        "items": [
+          "Giày Kiên Cường",
+          "Thương Xuyên Phá",
+          "Phức Hợp Kiếm",
+          "Nanh Fenrir",
+          "Huân Chương Troy",
+          "Giáp Hộ Mệnh"
+        ],
+        "spell": "Tốc Biến",
+        "emblem": "Vực Hỗn Loạn"
+      },
+      "counters": [],
+      "synergies": [],
+      "tier": "B",
+      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "hot": false,
+      "hot_count": 1,
+      "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/5/54/Erin_noi_tai.png/revision/latest?cb=20240411130433",
+      "related_videos": [
+        "8_pNnEX5l1g"
+      ]
+    },
+    {
+      "id": "errol",
+      "name": "Errol",
+      "role": [
+        "Warrior"
+      ],
+      "lane": [
+        "slayer",
+        "jungle"
+      ],
+      "difficulty": "medium",
+      "description": "Đấu sĩ quỷ kiếm càn lướt giao tranh mạnh mẽ nhờ hút máu vượt trội và chiêu cuối hất tung.",
+      "skills": {
+        "passive": "Đang cập nhật: Kỹ năng nội tại của vị tướng này.",
+        "skill1": "Đang cập nhật: Kỹ năng chiêu 1 của vị tướng này.",
+        "skill2": "Đang cập nhật: Kỹ năng chiêu 2 của vị tướng này.",
+        "skill3": "Đang cập nhật: Kỹ năng chiêu cuối của vị tướng này."
+      },
+      "build_recommend": {
+        "items": [
+          "Giày Kiên Cường",
+          "Thương Xuyên Phá",
+          "Phức Hợp Kiếm",
+          "Nanh Fenrir",
+          "Huân Chương Troy",
+          "Giáp Hộ Mệnh"
+        ],
+        "spell": "Trừng Phạt",
+        "emblem": "Vực Hỗn Loạn"
+      },
+      "counters": [],
+      "synergies": [],
+      "tier": "B",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "hot": false,
+      "hot_count": 0,
+      "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/8/86/Errol_profile.jpg/revision/latest/scale-to-width-down/500?cb=20200531224447",
+      "related_videos": [
+        "Pimz8WqNNuk"
+      ]
+    },
+    {
+      "id": "fennik",
+      "name": "Fennik",
+      "role": [
+        "Archer"
+      ],
+      "lane": [
+        "jungle",
+        "dragon"
+      ],
+      "difficulty": "easy",
+      "description": "Cáo siêu thanh dọn quái và đẩy trụ nhanh nhất Liên Quân nhờ kíp nổ lan.",
+      "skills": {
+        "passive": "Đang cập nhật: Kỹ năng nội tại của vị tướng này.",
+        "skill1": "Đang cập nhật: Kỹ năng chiêu 1 của vị tướng này.",
+        "skill2": "Đang cập nhật: Kỹ năng chiêu 2 của vị tướng này.",
+        "skill3": "Đang cập nhật: Kỹ năng chiêu cuối của vị tướng này."
+      },
+      "build_recommend": {
+        "items": [
+          "Giày Kiên Cường",
+          "Thương Xuyên Phá",
+          "Phức Hợp Kiếm",
+          "Nanh Fenrir",
+          "Huân Chương Troy",
+          "Giáp Hộ Mệnh"
+        ],
+        "spell": "Trừng Phạt",
+        "emblem": "Vực Hỗn Loạn"
+      },
+      "counters": [],
+      "synergies": [],
+      "tier": "B",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "hot": false,
+      "hot_count": 0,
+      "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/5/56/Fennik_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125054758",
+      "related_videos": []
+    },
+    {
+      "id": "heino",
+      "name": "Heino",
+      "role": [
+        "Mage",
+        "Warrior"
+      ],
+      "lane": [
+        "mid",
+        "slayer"
+      ],
+      "difficulty": "medium",
+      "description": "Pháp sư thời không có khả năng quay ngược thời gian hồi sinh tế đàn và phục hồi máu.",
+      "skills": {
+        "passive": "Đang cập nhật: Kỹ năng nội tại của vị tướng này.",
+        "skill1": "Đang cập nhật: Kỹ năng chiêu 1 của vị tướng này.",
+        "skill2": "Đang cập nhật: Kỹ năng chiêu 2 của vị tướng này.",
+        "skill3": "Đang cập nhật: Kỹ năng chiêu cuối của vị tướng này."
+      },
+      "build_recommend": {
+        "items": [
+          "Giày Kiên Cường",
+          "Thương Xuyên Phá",
+          "Phức Hợp Kiếm",
+          "Nanh Fenrir",
+          "Huân Chương Troy",
+          "Giáp Hộ Mệnh"
+        ],
+        "spell": "Tốc Biến",
+        "emblem": "Vực Hỗn Loạn"
+      },
+      "counters": [],
+      "synergies": [],
+      "tier": "B",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "hot": false,
+      "hot_count": 0,
+      "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/8/86/Heino_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260124103942",
+      "related_videos": []
+    },
+    {
+      "id": "helen",
+      "name": "Helen",
+      "role": [
+        "Support"
+      ],
+      "lane": [
+        "dragon"
+      ],
+      "difficulty": "easy",
+      "description": "Trợ thủ hồi máu mạnh nhất game, được coi là bình cứu thương di động của cả đội.",
+      "skills": {
+        "passive": "Đang cập nhật: Kỹ năng nội tại của vị tướng này.",
+        "skill1": "Đang cập nhật: Kỹ năng chiêu 1 của vị tướng này.",
+        "skill2": "Đang cập nhật: Kỹ năng chiêu 2 của vị tướng này.",
+        "skill3": "Đang cập nhật: Kỹ năng chiêu cuối của vị tướng này."
+      },
+      "build_recommend": {
+        "items": [
+          "Giày Kiên Cường",
+          "Thương Xuyên Phá",
+          "Phức Hợp Kiếm",
+          "Nanh Fenrir",
+          "Huân Chương Troy",
+          "Giáp Hộ Mệnh"
+        ],
+        "spell": "Tốc Biến",
+        "emblem": "Vực Hỗn Loạn"
+      },
+      "counters": [],
+      "synergies": [],
+      "tier": "B",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "hot": false,
+      "hot_count": 0,
+      "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/7/7d/Helen_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260124104717",
+      "related_videos": []
+    },
+    {
+      "id": "iggy",
+      "name": "Iggy",
+      "role": [
+        "Mage"
+      ],
+      "lane": [
+        "mid"
+      ],
+      "difficulty": "easy",
+      "description": "Pháp sư cấu rỉa tầm xa siêu mạnh với chiêu cuối hủy diệt diện rộng từ khoảng cách cực lớn.",
+      "skills": {
+        "passive": "Đang cập nhật: Kỹ năng nội tại của vị tướng này.",
+        "skill1": "Đang cập nhật: Kỹ năng chiêu 1 của vị tướng này.",
+        "skill2": "Đang cập nhật: Kỹ năng chiêu 2 của vị tướng này.",
+        "skill3": "Đang cập nhật: Kỹ năng chiêu cuối của vị tướng này."
+      },
+      "build_recommend": {
+        "items": [
+          "Giày Kiên Cường",
+          "Thương Xuyên Phá",
+          "Phức Hợp Kiếm",
+          "Nanh Fenrir",
+          "Huân Chương Troy",
+          "Giáp Hộ Mệnh"
+        ],
+        "spell": "Tốc Biến",
+        "emblem": "Vực Hỗn Loạn"
+      },
+      "counters": [],
+      "synergies": [],
+      "tier": "B",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "hot": false,
+      "hot_count": 0,
+      "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/5/5a/Iggy_Splash_Art.png/revision/latest/scale-to-width-down/500?cb=20260124105617",
+      "related_videos": []
+    },
+    {
+      "id": "ishar",
+      "name": "Ishar",
+      "role": [
+        "Mage",
+        "Support"
+      ],
+      "lane": [
+        "mid",
+        "dragon"
+      ],
+      "difficulty": "medium",
+      "description": "Pháp sư triệu hồi pet Tí Nị trợ chiến cấu rỉa và giam giữ kẻ địch trong lồng ma thuật.",
+      "skills": {
+        "passive": "Đang cập nhật: Kỹ năng nội tại của vị tướng này.",
+        "skill1": "Đang cập nhật: Kỹ năng chiêu 1 của vị tướng này.",
+        "skill2": "Đang cập nhật: Kỹ năng chiêu 2 của vị tướng này.",
+        "skill3": "Đang cập nhật: Kỹ năng chiêu cuối của vị tướng này."
+      },
+      "build_recommend": {
+        "items": [
+          "Giày Kiên Cường",
+          "Thương Xuyên Phá",
+          "Phức Hợp Kiếm",
+          "Nanh Fenrir",
+          "Huân Chương Troy",
+          "Giáp Hộ Mệnh"
+        ],
+        "spell": "Tốc Biến",
+        "emblem": "Vực Hỗn Loạn"
+      },
+      "counters": [],
+      "synergies": [],
+      "tier": "B",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "hot": false,
+      "hot_count": 0,
+      "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/d/d3/Ishar_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125044459",
+      "related_videos": []
+    },
+    {
+      "id": "kahlii",
+      "name": "Kahlii",
+      "role": [
+        "Mage"
+      ],
+      "lane": [
+        "mid"
+      ],
+      "difficulty": "easy",
+      "description": "Nữ thần cấu rỉa với chiêu cuối xả hàng trăm luồng đạn ma thuật tầm cực xa đẩy lùi mọi kẻ địch.",
+      "skills": {
+        "passive": "Đang cập nhật: Kỹ năng nội tại của vị tướng này.",
+        "skill1": "Đang cập nhật: Kỹ năng chiêu 1 của vị tướng này.",
+        "skill2": "Đang cập nhật: Kỹ năng chiêu 2 của vị tướng này.",
+        "skill3": "Đang cập nhật: Kỹ năng chiêu cuối của vị tướng này."
+      },
+      "build_recommend": {
+        "items": [
+          "Giày Kiên Cường",
+          "Thương Xuyên Phá",
+          "Phức Hợp Kiếm",
+          "Nanh Fenrir",
+          "Huân Chương Troy",
+          "Giáp Hộ Mệnh"
+        ],
+        "spell": "Tốc Biến",
+        "emblem": "Vực Hỗn Loạn"
+      },
+      "counters": [],
+      "synergies": [],
+      "tier": "B",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "hot": false,
+      "hot_count": 0,
+      "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/8/81/Kahlii_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125083310",
+      "related_videos": []
+    },
+    {
+      "id": "kaine",
+      "name": "Kaine",
+      "role": [
+        "Assassin"
+      ],
+      "lane": [
+        "jungle",
+        "slayer"
+      ],
+      "difficulty": "medium",
+      "description": "Sát thủ tàng hình vô hạn cực kỳ đáng sợ với khả năng ám sát xạ thủ địch trong chớp mắt.",
+      "skills": {
+        "passive": "Đang cập nhật: Kỹ năng nội tại của vị tướng này.",
+        "skill1": "Đang cập nhật: Kỹ năng chiêu 1 của vị tướng này.",
+        "skill2": "Đang cập nhật: Kỹ năng chiêu 2 của vị tướng này.",
+        "skill3": "Đang cập nhật: Kỹ năng chiêu cuối của vị tướng này."
+      },
+      "build_recommend": {
+        "items": [
+          "Giày Kiên Cường",
+          "Thương Xuyên Phá",
+          "Phức Hợp Kiếm",
+          "Nanh Fenrir",
+          "Huân Chương Troy",
+          "Giáp Hộ Mệnh"
+        ],
+        "spell": "Trừng Phạt",
+        "emblem": "Vực Hỗn Loạn"
+      },
+      "counters": [],
+      "synergies": [],
+      "tier": "B",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "hot": false,
+      "hot_count": 0,
+      "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/2/20/Kaine_s1.png/revision/latest?cb=20240414065850",
+      "related_videos": []
+    },
+    {
+      "id": "kilgroth",
+      "name": "Kil'Groth",
+      "role": [
+        "Warrior"
+      ],
+      "lane": [
+        "slayer",
+        "jungle"
+      ],
+      "difficulty": "easy",
+      "description": "Đấu sĩ cuồng chiến chém nhanh như chớp, miễn nhiễm hoàn toàn mọi khống chế khi bật chiêu cuối.",
+      "skills": {
+        "passive": "Đang cập nhật: Kỹ năng nội tại của vị tướng này.",
+        "skill1": "Đang cập nhật: Kỹ năng chiêu 1 của vị tướng này.",
+        "skill2": "Đang cập nhật: Kỹ năng chiêu 2 của vị tướng này.",
+        "skill3": "Đang cập nhật: Kỹ năng chiêu cuối của vị tướng này."
+      },
+      "build_recommend": {
+        "items": [
+          "Giày Kiên Cường",
+          "Thương Xuyên Phá",
+          "Phức Hợp Kiếm",
+          "Nanh Fenrir",
+          "Huân Chương Troy",
+          "Giáp Hộ Mệnh"
+        ],
+        "spell": "Trừng Phạt",
+        "emblem": "Vực Hỗn Loạn"
+      },
+      "counters": [],
+      "synergies": [],
+      "tier": "B",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "hot": false,
+      "hot_count": 0,
+      "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/8/8f/Kil%27Groth_Splash.jpg/revision/latest/scale-to-width-down/500?cb=20171129175330",
+      "related_videos": []
+    },
+    {
+      "id": "kriknak",
+      "name": "Kriknak",
+      "role": [
+        "Assassin"
+      ],
+      "lane": [
+        "jungle"
+      ],
+      "difficulty": "easy",
+      "description": "Sát thủ bọ cánh cứng dồn sát thương sốc chết xạ thủ địch nhanh bậc nhất game.",
+      "skills": {
+        "passive": "Đang cập nhật: Kỹ năng nội tại của vị tướng này.",
+        "skill1": "Đang cập nhật: Kỹ năng chiêu 1 của vị tướng này.",
+        "skill2": "Đang cập nhật: Kỹ năng chiêu 2 của vị tướng này.",
+        "skill3": "Đang cập nhật: Kỹ năng chiêu cuối của vị tướng này."
+      },
+      "build_recommend": {
+        "items": [
+          "Giày Kiên Cường",
+          "Thương Xuyên Phá",
+          "Phức Hợp Kiếm",
+          "Nanh Fenrir",
+          "Huân Chương Troy",
+          "Giáp Hộ Mệnh"
+        ],
+        "spell": "Trừng Phạt",
+        "emblem": "Vực Hỗn Loạn"
+      },
+      "counters": [],
+      "synergies": [],
+      "tier": "B",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "hot": false,
+      "hot_count": 0,
+      "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/f/fd/Kriknak_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125054238",
+      "related_videos": []
+    },
+    {
+      "id": "krizzix",
+      "name": "Krizzix",
+      "role": [
+        "Support"
+      ],
+      "lane": [
+        "dragon"
+      ],
+      "difficulty": "medium",
+      "description": "Trợ thủ tắc kè hoa có khả năng tàng hình cả đội và gom kẻ địch lại cấu rỉa khống chế.",
+      "skills": {
+        "passive": "Đang cập nhật: Kỹ năng nội tại của vị tướng này.",
+        "skill1": "Đang cập nhật: Kỹ năng chiêu 1 của vị tướng này.",
+        "skill2": "Đang cập nhật: Kỹ năng chiêu 2 của vị tướng này.",
+        "skill3": "Đang cập nhật: Kỹ năng chiêu cuối của vị tướng này."
+      },
+      "build_recommend": {
+        "items": [
+          "Giày Kiên Cường",
+          "Thương Xuyên Phá",
+          "Phức Hợp Kiếm",
+          "Nanh Fenrir",
+          "Huân Chương Troy",
+          "Giáp Hộ Mệnh"
+        ],
+        "spell": "Tốc Biến",
+        "emblem": "Vực Hỗn Loạn"
+      },
+      "counters": [],
+      "synergies": [],
+      "tier": "B",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "hot": false,
+      "hot_count": 0,
+      "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/b/bc/Krizzix_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125044854",
+      "related_videos": []
+    },
+    {
+      "id": "lumburr",
+      "name": "Lumburr",
+      "role": [
+        "Tank",
+        "Support"
+      ],
+      "lane": [
+        "dragon"
+      ],
+      "difficulty": "easy",
+      "description": "Khổng lồ đá đỡ đòn có khả năng tạo giáp ảo cho đồng đội và hất tung kẻ địch diện rộng.",
+      "skills": {
+        "passive": "Đang cập nhật: Kỹ năng nội tại của vị tướng này.",
+        "skill1": "Đang cập nhật: Kỹ năng chiêu 1 của vị tướng này.",
+        "skill2": "Đang cập nhật: Kỹ năng chiêu 2 của vị tướng này.",
+        "skill3": "Đang cập nhật: Kỹ năng chiêu cuối của vị tướng này."
+      },
+      "build_recommend": {
+        "items": [
+          "Giày Kiên Cường",
+          "Thương Xuyên Phá",
+          "Phức Hợp Kiếm",
+          "Nanh Fenrir",
+          "Huân Chương Troy",
+          "Giáp Hộ Mệnh"
+        ],
+        "spell": "Tốc Biến",
+        "emblem": "Vực Hỗn Loạn"
+      },
+      "counters": [],
+      "synergies": [],
+      "tier": "B",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "hot": false,
+      "hot_count": 0,
+      "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/c/c1/Lumburr_Splash.jpg/revision/latest/scale-to-width-down/500?cb=20260125085554",
+      "related_videos": []
+    },
+    {
+      "id": "lindis",
+      "name": "Lindis",
+      "role": [
+        "Archer"
+      ],
+      "lane": [
+        "jungle"
+      ],
+      "difficulty": "medium",
+      "description": "Xạ thủ đi rừng có tầm nhìn rộng, tăng tốc chạy cực lớn khi đi qua các bụi cỏ bản đồ.",
+      "skills": {
+        "passive": "Đang cập nhật: Kỹ năng nội tại của vị tướng này.",
+        "skill1": "Đang cập nhật: Kỹ năng chiêu 1 của vị tướng này.",
+        "skill2": "Đang cập nhật: Kỹ năng chiêu 2 của vị tướng này.",
+        "skill3": "Đang cập nhật: Kỹ năng chiêu cuối của vị tướng này."
+      },
+      "build_recommend": {
+        "items": [
+          "Giày Kiên Cường",
+          "Thương Xuyên Phá",
+          "Phức Hợp Kiếm",
+          "Nanh Fenrir",
+          "Huân Chương Troy",
+          "Giáp Hộ Mệnh"
+        ],
+        "spell": "Trừng Phạt",
+        "emblem": "Vực Hỗn Loạn"
+      },
+      "counters": [],
+      "synergies": [],
+      "tier": "B",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "hot": false,
+      "hot_count": 0,
+      "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/d/d1/Lindis_Default.png/revision/latest/scale-to-width-down/500?cb=20180309094525",
+      "related_videos": []
+    },
+    {
+      "id": "max",
+      "name": "Max",
+      "role": [
+        "Tank",
+        "Warrior"
+      ],
+      "lane": [
+        "slayer"
+      ],
+      "difficulty": "medium",
+      "description": "Đấu sĩ đỡ đòn với chiêu cuối bay thẳng đến bất kì mục tiêu nào trên toàn bản đồ.",
+      "skills": {
+        "passive": "Đang cập nhật: Kỹ năng nội tại của vị tướng này.",
+        "skill1": "Đang cập nhật: Kỹ năng chiêu 1 của vị tướng này.",
+        "skill2": "Đang cập nhật: Kỹ năng chiêu 2 của vị tướng này.",
+        "skill3": "Đang cập nhật: Kỹ năng chiêu cuối của vị tướng này."
+      },
+      "build_recommend": {
+        "items": [
+          "Giày Kiên Cường",
+          "Thương Xuyên Phá",
+          "Phức Hợp Kiếm",
+          "Nanh Fenrir",
+          "Huân Chương Troy",
+          "Giáp Hộ Mệnh"
+        ],
+        "spell": "Tốc Biến",
+        "emblem": "Vực Hỗn Loạn"
+      },
+      "counters": [],
+      "synergies": [],
+      "tier": "B",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "hot": false,
+      "hot_count": 0,
+      "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/1/1e/Max_Default.png/revision/latest/scale-to-width-down/500?cb=20180313094835",
+      "related_videos": [
+        "5wxmOEa-504"
+      ]
+    },
+    {
+      "id": "ming",
+      "name": "Ming",
+      "role": [
+        "Support",
+        "Mage"
+      ],
+      "lane": [
+        "dragon"
+      ],
+      "difficulty": "easy",
+      "description": "Trợ thủ kết nối linh hồn tăng công và thủ cực lớn hoặc hồi máu siêu khủng cho đồng đội.",
+      "skills": {
+        "passive": "Đang cập nhật: Kỹ năng nội tại của vị tướng này.",
+        "skill1": "Đang cập nhật: Kỹ năng chiêu 1 của vị tướng này.",
+        "skill2": "Đang cập nhật: Kỹ năng chiêu 2 của vị tướng này.",
+        "skill3": "Đang cập nhật: Kỹ năng chiêu cuối của vị tướng này."
+      },
+      "build_recommend": {
+        "items": [
+          "Giày Kiên Cường",
+          "Thương Xuyên Phá",
+          "Phức Hợp Kiếm",
+          "Nanh Fenrir",
+          "Huân Chương Troy",
+          "Giáp Hộ Mệnh"
+        ],
+        "spell": "Tốc Biến",
+        "emblem": "Vực Hỗn Loạn"
+      },
+      "counters": [],
+      "synergies": [],
+      "tier": "B",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "hot": false,
+      "hot_count": 0,
+      "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/9/90/Ming_physiognomist.jpg/revision/latest/scale-to-width-down/500?cb=20250113164018",
+      "related_videos": [
+        "q8L1ARDmO30"
+      ]
+    },
+    {
+      "id": "moren",
+      "name": "Moren",
+      "role": [
+        "Archer"
+      ],
+      "lane": [
+        "dragon"
+      ],
+      "difficulty": "medium",
+      "description": "Xạ thủ trâu bò bậc nhất Liên Quân nhờ nội tại cộng dồn giáp vật lý và giáp phép.",
+      "skills": {
+        "passive": "Đang cập nhật: Kỹ năng nội tại của vị tướng này.",
+        "skill1": "Đang cập nhật: Kỹ năng chiêu 1 của vị tướng này.",
+        "skill2": "Đang cập nhật: Kỹ năng chiêu 2 của vị tướng này.",
+        "skill3": "Đang cập nhật: Kỹ năng chiêu cuối của vị tướng này."
+      },
+      "build_recommend": {
+        "items": [
+          "Giày Kiên Cường",
+          "Thương Xuyên Phá",
+          "Phức Hợp Kiếm",
+          "Nanh Fenrir",
+          "Huân Chương Troy",
+          "Giáp Hộ Mệnh"
+        ],
+        "spell": "Tốc Biến",
+        "emblem": "Vực Hỗn Loạn"
+      },
+      "counters": [],
+      "synergies": [],
+      "tier": "B",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "hot": false,
+      "hot_count": 0,
+      "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/3/34/Moren_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125052805",
+      "related_videos": [
+        "Vc6HDzMCYdc"
+      ]
+    },
+    {
+      "id": "paine",
+      "name": "Paine",
+      "role": [
+        "Assassin",
+        "Mage"
+      ],
+      "lane": [
+        "jungle"
+      ],
+      "difficulty": "hard",
+      "description": "Sát thủ ma pháp di chuyển siêu nhanh ám sát cực đỉnh chỉ với 1 nốt nhạc.",
+      "skills": {
+        "passive": "Đang cập nhật: Kỹ năng nội tại của vị tướng này.",
+        "skill1": "Đang cập nhật: Kỹ năng chiêu 1 của vị tướng này.",
+        "skill2": "Đang cập nhật: Kỹ năng chiêu 2 của vị tướng này.",
+        "skill3": "Đang cập nhật: Kỹ năng chiêu cuối của vị tướng này."
+      },
+      "build_recommend": {
+        "items": [
+          "Giày Kiên Cường",
+          "Thương Xuyên Phá",
+          "Phức Hợp Kiếm",
+          "Nanh Fenrir",
+          "Huân Chương Troy",
+          "Giáp Hộ Mệnh"
+        ],
+        "spell": "Trừng Phạt",
+        "emblem": "Vực Hỗn Loạn"
+      },
+      "counters": [],
+      "synergies": [],
+      "tier": "B",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "hot": false,
+      "hot_count": 0,
+      "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/b/b4/Paine_Soul_Elegy.png/revision/latest/scale-to-width-down/500?cb=20220328044802",
+      "related_videos": [
+        "q__zHhTBD-8",
+        "IqU-cSpP8FQ"
+      ]
+    },
+    {
+      "id": "preyta",
+      "name": "Preyta",
+      "role": [
+        "Mage"
+      ],
+      "lane": [
+        "mid"
+      ],
+      "difficulty": "medium",
+      "description": "Pháp sư cưỡi rồng bay nhảy với khả năng cấu rỉa ma pháp tầm xa dọn lính siêu tốc.",
+      "skills": {
+        "passive": "Đang cập nhật: Kỹ năng nội tại của vị tướng này.",
+        "skill1": "Đang cập nhật: Kỹ năng chiêu 1 của vị tướng này.",
+        "skill2": "Đang cập nhật: Kỹ năng chiêu 2 của vị tướng này.",
+        "skill3": "Đang cập nhật: Kỹ năng chiêu cuối của vị tướng này."
+      },
+      "build_recommend": {
+        "items": [
+          "Giày Kiên Cường",
+          "Thương Xuyên Phá",
+          "Phức Hợp Kiếm",
+          "Nanh Fenrir",
+          "Huân Chương Troy",
+          "Giáp Hộ Mệnh"
+        ],
+        "spell": "Tốc Biến",
+        "emblem": "Vực Hỗn Loạn"
+      },
+      "counters": [],
+      "synergies": [],
+      "tier": "B",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "hot": false,
+      "hot_count": 0,
+      "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/2/28/Preyta_Splash.png/revision/latest/scale-to-width-down/500?cb=20171204210816",
+      "related_videos": []
+    },
+    {
+      "id": "quillen",
+      "name": "Quillen",
+      "role": [
+        "Assassin"
+      ],
+      "lane": [
+        "jungle"
+      ],
+      "difficulty": "medium",
+      "description": "Sát thủ ám sát đâm lén từ phía sau chắc chắn chí mạng 100% cực kỳ đáng sợ.",
+      "skills": {
+        "passive": "Đang cập nhật: Kỹ năng nội tại của vị tướng này.",
+        "skill1": "Đang cập nhật: Kỹ năng chiêu 1 của vị tướng này.",
+        "skill2": "Đang cập nhật: Kỹ năng chiêu 2 của vị tướng này.",
+        "skill3": "Đang cập nhật: Kỹ năng chiêu cuối của vị tướng này."
+      },
+      "build_recommend": {
+        "items": [
+          "Giày Kiên Cường",
+          "Thương Xuyên Phá",
+          "Phức Hợp Kiếm",
+          "Nanh Fenrir",
+          "Huân Chương Troy",
+          "Giáp Hộ Mệnh"
+        ],
+        "spell": "Trừng Phạt",
+        "emblem": "Vực Hỗn Loạn"
+      },
+      "counters": [],
+      "synergies": [],
+      "tier": "B",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "hot": false,
+      "hot_count": 0,
+      "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/8/87/Quillen_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125051218",
+      "related_videos": []
+    },
+    {
+      "id": "rouie",
+      "name": "Rouie",
+      "role": [
+        "Support"
+      ],
+      "lane": [
+        "dragon"
+      ],
+      "difficulty": "hard",
+      "description": "Trợ thủ dịch chuyển đồng minh biến về tế đàn hồi máu rồi quay lại giao tranh lập tức.",
+      "skills": {
+        "passive": "Đang cập nhật: Kỹ năng nội tại của vị tướng này.",
+        "skill1": "Đang cập nhật: Kỹ năng chiêu 1 của vị tướng này.",
+        "skill2": "Đang cập nhật: Kỹ năng chiêu 2 của vị tướng này.",
+        "skill3": "Đang cập nhật: Kỹ năng chiêu cuối của vị tướng này."
+      },
+      "build_recommend": {
+        "items": [
+          "Giày Kiên Cường",
+          "Thương Xuyên Phá",
+          "Phức Hợp Kiếm",
+          "Nanh Fenrir",
+          "Huân Chương Troy",
+          "Giáp Hộ Mệnh"
+        ],
+        "spell": "Tốc Biến",
+        "emblem": "Vực Hỗn Loạn"
+      },
+      "counters": [],
+      "synergies": [],
+      "tier": "B",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "hot": false,
+      "hot_count": 0,
+      "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/b/bd/Rouie_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125043435",
+      "related_videos": []
+    },
+    {
+      "id": "rourke",
+      "name": "Rourke",
+      "role": [
+        "Warrior"
+      ],
+      "lane": [
+        "jungle"
+      ],
+      "difficulty": "easy",
+      "description": "Đấu sĩ bắn nỏ tầm gần siêu trâu bò nhờ khiên bảo hộ miễn khống chế cực đỉnh.",
+      "skills": {
+        "passive": "Đang cập nhật: Kỹ năng nội tại của vị tướng này.",
+        "skill1": "Đang cập nhật: Kỹ năng chiêu 1 của vị tướng này.",
+        "skill2": "Đang cập nhật: Kỹ năng chiêu 2 của vị tướng này.",
+        "skill3": "Đang cập nhật: Kỹ năng chiêu cuối của vị tướng này."
+      },
+      "build_recommend": {
+        "items": [
+          "Giày Kiên Cường",
+          "Thương Xuyên Phá",
+          "Phức Hợp Kiếm",
+          "Nanh Fenrir",
+          "Huân Chương Troy",
+          "Giáp Hộ Mệnh"
+        ],
+        "spell": "Trừng Phạt",
+        "emblem": "Vực Hỗn Loạn"
+      },
+      "counters": [],
+      "synergies": [],
+      "tier": "B",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "hot": false,
+      "hot_count": 0,
+      "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/9/9a/Rourke_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125052355",
+      "related_videos": []
+    },
+    {
+      "id": "roxie",
+      "name": "Roxie",
+      "role": [
+        "Tank",
+        "Warrior"
+      ],
+      "lane": [
+        "slayer"
+      ],
+      "difficulty": "easy",
+      "description": "Đấu sĩ lửa kéo lê kẻ địch đi khắp nơi bằng xích rực lửa vô cùng khó chịu.",
+      "skills": {
+        "passive": "Đang cập nhật: Kỹ năng nội tại của vị tướng này.",
+        "skill1": "Đang cập nhật: Kỹ năng chiêu 1 của vị tướng này.",
+        "skill2": "Đang cập nhật: Kỹ năng chiêu 2 của vị tướng này.",
+        "skill3": "Đang cập nhật: Kỹ năng chiêu cuối của vị tướng này."
+      },
+      "build_recommend": {
+        "items": [
+          "Giày Kiên Cường",
+          "Thương Xuyên Phá",
+          "Phức Hợp Kiếm",
+          "Nanh Fenrir",
+          "Huân Chương Troy",
+          "Giáp Hộ Mệnh"
+        ],
+        "spell": "Tốc Biến",
+        "emblem": "Vực Hỗn Loạn"
+      },
+      "counters": [],
+      "synergies": [],
+      "tier": "B",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "hot": false,
+      "hot_count": 0,
+      "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/c/c8/Roxie_avatar.jpg/revision/latest/scale-to-width-down/500?cb=20250112095728",
+      "related_videos": []
+    },
+    {
+      "id": "ryoma",
+      "name": "Ryoma",
+      "role": [
+        "Warrior",
+        "Assassin"
+      ],
+      "lane": [
+        "slayer",
+        "jungle"
+      ],
+      "difficulty": "medium",
+      "description": "Đấu sĩ samurai cấu rỉa tầm xa cực đau với kiếm thế cơ động đâm chọc liên tục.",
+      "skills": {
+        "passive": "Đang cập nhật: Kỹ năng nội tại của vị tướng này.",
+        "skill1": "Đang cập nhật: Kỹ năng chiêu 1 của vị tướng này.",
+        "skill2": "Đang cập nhật: Kỹ năng chiêu 2 của vị tướng này.",
+        "skill3": "Đang cập nhật: Kỹ năng chiêu cuối của vị tướng này."
+      },
+      "build_recommend": {
+        "items": [
+          "Giày Kiên Cường",
+          "Thương Xuyên Phá",
+          "Phức Hợp Kiếm",
+          "Nanh Fenrir",
+          "Huân Chương Troy",
+          "Giáp Hộ Mệnh"
+        ],
+        "spell": "Trừng Phạt",
+        "emblem": "Vực Hỗn Loạn"
+      },
+      "counters": [],
+      "synergies": [],
+      "tier": "B",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "hot": false,
+      "hot_count": 0,
+      "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/f/f2/Ryoma_Gunslinger.png/revision/latest/scale-to-width-down/500?cb=20180313083407",
+      "related_videos": []
+    },
+    {
+      "id": "sephera",
+      "name": "Sephera",
+      "role": [
+        "Mage",
+        "Support"
+      ],
+      "lane": [
+        "dragon",
+        "mid"
+      ],
+      "difficulty": "medium",
+      "description": "Pháp sư trợ thủ hồi máu cấu rỉa liên tục, bất tử không thể chọn làm mục tiêu khi dùng chiêu cuối.",
+      "skills": {
+        "passive": "Đang cập nhật: Kỹ năng nội tại của vị tướng này.",
+        "skill1": "Đang cập nhật: Kỹ năng chiêu 1 của vị tướng này.",
+        "skill2": "Đang cập nhật: Kỹ năng chiêu 2 của vị tướng này.",
+        "skill3": "Đang cập nhật: Kỹ năng chiêu cuối của vị tướng này."
+      },
+      "build_recommend": {
+        "items": [
+          "Giày Kiên Cường",
+          "Thương Xuyên Phá",
+          "Phức Hợp Kiếm",
+          "Nanh Fenrir",
+          "Huân Chương Troy",
+          "Giáp Hộ Mệnh"
+        ],
+        "spell": "Tốc Biến",
+        "emblem": "Vực Hỗn Loạn"
+      },
+      "counters": [],
+      "synergies": [],
+      "tier": "B",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "hot": false,
+      "hot_count": 0,
+      "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/5/59/Sephera_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125045857",
+      "related_videos": []
+    },
+    {
+      "id": "sinestrea",
+      "name": "Sinestrea",
+      "role": [
+        "Assassin"
+      ],
+      "lane": [
+        "jungle",
+        "slayer"
+      ],
+      "difficulty": "hard",
+      "description": "Sát thủ đổi máu ảo diệu bậc nhất game, có khả năng tự sát gây sát thương khổng lồ.",
+      "skills": {
+        "passive": "Đang cập nhật: Kỹ năng nội tại của vị tướng này.",
+        "skill1": "Đang cập nhật: Kỹ năng chiêu 1 của vị tướng này.",
+        "skill2": "Đang cập nhật: Kỹ năng chiêu 2 của vị tướng này.",
+        "skill3": "Đang cập nhật: Kỹ năng chiêu cuối của vị tướng này."
+      },
+      "build_recommend": {
+        "items": [
+          "Giày Kiên Cường",
+          "Thương Xuyên Phá",
+          "Phức Hợp Kiếm",
+          "Nanh Fenrir",
+          "Huân Chương Troy",
+          "Giáp Hộ Mệnh"
+        ],
+        "spell": "Trừng Phạt",
+        "emblem": "Vực Hỗn Loạn"
+      },
+      "counters": [],
+      "synergies": [],
+      "tier": "S",
+      "tier_reason": "Được gán từ dữ liệu hạt giống (Seed S-Tier) do ít video mới (Hot Count: 0)",
+      "hot": false,
+      "hot_count": 0,
+      "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/6/60/Sinestrea_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20220702032816",
+      "related_videos": []
+    },
+    {
+      "id": "skud",
+      "name": "Skud",
+      "role": [
+        "Tank",
+        "Warrior"
+      ],
+      "lane": [
+        "jungle",
+        "slayer"
+      ],
+      "difficulty": "easy",
+      "description": "Đỡ đòn khổng lồ đấm phát chết luôn và có lượng máu tối đa lớn nhất game.",
+      "skills": {
+        "passive": "Đang cập nhật: Kỹ năng nội tại của vị tướng này.",
+        "skill1": "Đang cập nhật: Kỹ năng chiêu 1 của vị tướng này.",
+        "skill2": "Đang cập nhật: Kỹ năng chiêu 2 của vị tướng này.",
+        "skill3": "Đang cập nhật: Kỹ năng chiêu cuối của vị tướng này."
+      },
+      "build_recommend": {
+        "items": [
+          "Giày Kiên Cường",
+          "Thương Xuyên Phá",
+          "Phức Hợp Kiếm",
+          "Nanh Fenrir",
+          "Huân Chương Troy",
+          "Giáp Hộ Mệnh"
+        ],
+        "spell": "Trừng Phạt",
+        "emblem": "Vực Hỗn Loạn"
+      },
+      "counters": [],
+      "synergies": [],
+      "tier": "B",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "hot": false,
+      "hot_count": 0,
+      "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/e/e8/Skud_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125053755",
+      "related_videos": []
+    },
+    {
+      "id": "slimz",
+      "name": "Slimz",
+      "role": [
+        "Archer"
+      ],
+      "lane": [
+        "jungle",
+        "dragon"
+      ],
+      "difficulty": "medium",
+      "description": "Chú thỏ ném lao cơ động làm choáng kẻ địch từ cực xa hỗ trợ combat rất mạnh.",
+      "skills": {
+        "passive": "Đang cập nhật: Kỹ năng nội tại của vị tướng này.",
+        "skill1": "Đang cập nhật: Kỹ năng chiêu 1 của vị tướng này.",
+        "skill2": "Đang cập nhật: Kỹ năng chiêu 2 của vị tướng này.",
+        "skill3": "Đang cập nhật: Kỹ năng chiêu cuối của vị tướng này."
+      },
+      "build_recommend": {
+        "items": [
+          "Giày Kiên Cường",
+          "Thương Xuyên Phá",
+          "Phức Hợp Kiếm",
+          "Nanh Fenrir",
+          "Huân Chương Troy",
+          "Giáp Hộ Mệnh"
+        ],
+        "spell": "Trừng Phạt",
+        "emblem": "Vực Hỗn Loạn"
+      },
+      "counters": [],
+      "synergies": [],
+      "tier": "B",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "hot": false,
+      "hot_count": 0,
+      "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/9/93/Slimz_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125053904",
+      "related_videos": []
+    },
+    {
+      "id": "stuart",
+      "name": "Stuart",
+      "role": [
+        "Archer"
+      ],
+      "lane": [
+        "dragon"
+      ],
+      "difficulty": "medium",
+      "description": "Xạ thủ cuồng loạn cấu rỉa dồn sát thương vật lý tầm xa siêu đau và miễn thương vật lý.",
+      "skills": {
+        "passive": "Đang cập nhật: Kỹ năng nội tại của vị tướng này.",
+        "skill1": "Đang cập nhật: Kỹ năng chiêu 1 của vị tướng này.",
+        "skill2": "Đang cập nhật: Kỹ năng chiêu 2 của vị tướng này.",
+        "skill3": "Đang cập nhật: Kỹ năng chiêu cuối của vị tướng này."
+      },
+      "build_recommend": {
+        "items": [
+          "Giày Kiên Cường",
+          "Thương Xuyên Phá",
+          "Phức Hợp Kiếm",
+          "Nanh Fenrir",
+          "Huân Chương Troy",
+          "Giáp Hộ Mệnh"
+        ],
+        "spell": "Tốc Biến",
+        "emblem": "Vực Hỗn Loạn"
+      },
+      "counters": [],
+      "synergies": [],
+      "tier": "B",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "hot": false,
+      "hot_count": 0,
+      "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/b/b0/Stuart.webp/revision/latest?cb=20240109043636",
+      "related_videos": []
+    },
+    {
+      "id": "tachi",
+      "name": "Tachi",
+      "role": [
+        "Warrior"
+      ],
+      "lane": [
+        "slayer",
+        "dragon"
+      ],
+      "difficulty": "medium",
+      "description": "Đấu sĩ samurai gây sát thương chuẩn khổng lồ sau khi mở phong ấn bốn phương.",
+      "skills": {
+        "passive": "Đang cập nhật: Kỹ năng nội tại của vị tướng này.",
+        "skill1": "Đang cập nhật: Kỹ năng chiêu 1 của vị tướng này.",
+        "skill2": "Đang cập nhật: Kỹ năng chiêu 2 của vị tướng này.",
+        "skill3": "Đang cập nhật: Kỹ năng chiêu cuối của vị tướng này."
+      },
+      "build_recommend": {
+        "items": [
+          "Giày Kiên Cường",
+          "Thương Xuyên Phá",
+          "Phức Hợp Kiếm",
+          "Nanh Fenrir",
+          "Huân Chương Troy",
+          "Giáp Hộ Mệnh"
+        ],
+        "spell": "Tốc Biến",
+        "emblem": "Vực Hỗn Loạn"
+      },
+      "counters": [],
+      "synergies": [],
+      "tier": "B",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "hot": false,
+      "hot_count": 0,
+      "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/b/b1/Tachi_Splash_Art.jpeg/revision/latest/scale-to-width-down/500?cb=20211002035107",
+      "related_videos": []
+    },
+    {
+      "id": "teemee",
+      "name": "TeeMee",
+      "role": [
+        "Support",
+        "Tank"
+      ],
+      "lane": [
+        "dragon"
+      ],
+      "difficulty": "medium",
+      "description": "Trợ thủ hack vàng cho đồng đội và có khả năng hồi sinh hồi máu lật kèo combat cực mạnh.",
+      "skills": {
+        "passive": "Đang cập nhật: Kỹ năng nội tại của vị tướng này.",
+        "skill1": "Đang cập nhật: Kỹ năng chiêu 1 của vị tướng này.",
+        "skill2": "Đang cập nhật: Kỹ năng chiêu 2 của vị tướng này.",
+        "skill3": "Đang cập nhật: Kỹ năng chiêu cuối của vị tướng này."
+      },
+      "build_recommend": {
+        "items": [
+          "Giày Kiên Cường",
+          "Thương Xuyên Phá",
+          "Phức Hợp Kiếm",
+          "Nanh Fenrir",
+          "Huân Chương Troy",
+          "Giáp Hộ Mệnh"
+        ],
+        "spell": "Tốc Biến",
+        "emblem": "Vực Hỗn Loạn"
+      },
+      "counters": [],
+      "synergies": [],
+      "tier": "B",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "hot": false,
+      "hot_count": 0,
+      "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/a/ac/TeeMee_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125092600",
+      "related_videos": []
+    },
+    {
+      "id": "teeri",
+      "name": "Teeri",
+      "role": [
+        "Archer"
+      ],
+      "lane": [
+        "dragon"
+      ],
+      "difficulty": "easy",
+      "description": "Xạ thủ bắn rìu song phi nảy qua lại nhiều kẻ địch dọn lính và gây sát thương cực nhanh.",
+      "skills": {
+        "passive": "Đang cập nhật: Kỹ năng nội tại của vị tướng này.",
+        "skill1": "Đang cập nhật: Kỹ năng chiêu 1 của vị tướng này.",
+        "skill2": "Đang cập nhật: Kỹ năng chiêu 2 của vị tướng này.",
+        "skill3": "Đang cập nhật: Kỹ năng chiêu cuối của vị tướng này."
+      },
+      "build_recommend": {
+        "items": [
+          "Giày Kiên Cường",
+          "Thương Xuyên Phá",
+          "Phức Hợp Kiếm",
+          "Nanh Fenrir",
+          "Huân Chương Troy",
+          "Giáp Hộ Mệnh"
+        ],
+        "spell": "Tốc Biến",
+        "emblem": "Vực Hỗn Loạn"
+      },
+      "counters": [],
+      "synergies": [],
+      "tier": "B",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "hot": false,
+      "hot_count": 0,
+      "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/2/2b/Teeri_Splashart.jpeg/revision/latest/scale-to-width-down/500?cb=20221012202156",
+      "related_videos": []
+    },
+    {
+      "id": "thorne",
+      "name": "Thorne",
+      "role": [
+        "Archer"
+      ],
+      "lane": [
+        "dragon"
+      ],
+      "difficulty": "hard",
+      "description": "Xạ thủ nạp đạn ma pháp (đỏ, vàng, xanh) bắn đa dạng hiệu ứng vô cùng biến hóa.",
+      "skills": {
+        "passive": "Đang cập nhật: Kỹ năng nội tại của vị tướng này.",
+        "skill1": "Đang cập nhật: Kỹ năng chiêu 1 của vị tướng này.",
+        "skill2": "Đang cập nhật: Kỹ năng chiêu 2 của vị tướng này.",
+        "skill3": "Đang cập nhật: Kỹ năng chiêu cuối của vị tướng này."
+      },
+      "build_recommend": {
+        "items": [
+          "Giày Kiên Cường",
+          "Thương Xuyên Phá",
+          "Phức Hợp Kiếm",
+          "Nanh Fenrir",
+          "Huân Chương Troy",
+          "Giáp Hộ Mệnh"
+        ],
+        "spell": "Tốc Biến",
+        "emblem": "Vực Hỗn Loạn"
+      },
+      "counters": [],
+      "synergies": [],
+      "tier": "B",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "hot": false,
+      "hot_count": 0,
+      "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/d/d1/Thorne_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20210106150404",
+      "related_videos": [
+        "5b8uM9TqSw8"
+      ]
+    },
+    {
+      "id": "veera",
+      "name": "Veera",
+      "role": [
+        "Mage"
+      ],
+      "lane": [
+        "mid"
+      ],
+      "difficulty": "easy",
+      "description": "Nữ hoàng bóng đêm dồn combo làm choáng sốc chết bất kỳ kẻ địch máu giấy nào.",
+      "skills": {
+        "passive": "Đang cập nhật: Kỹ năng nội tại của vị tướng này.",
+        "skill1": "Đang cập nhật: Kỹ năng chiêu 1 của vị tướng này.",
+        "skill2": "Đang cập nhật: Kỹ năng chiêu 2 của vị tướng này.",
+        "skill3": "Đang cập nhật: Kỹ năng chiêu cuối của vị tướng này."
+      },
+      "build_recommend": {
+        "items": [
+          "Giày Kiên Cường",
+          "Thương Xuyên Phá",
+          "Phức Hợp Kiếm",
+          "Nanh Fenrir",
+          "Huân Chương Troy",
+          "Giáp Hộ Mệnh"
+        ],
+        "spell": "Tốc Biến",
+        "emblem": "Vực Hỗn Loạn"
+      },
+      "counters": [],
+      "synergies": [],
+      "tier": "B",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "hot": false,
+      "hot_count": 0,
+      "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/3/35/Veera_profile.png/revision/latest/scale-to-width-down/500?cb=20170525133701",
+      "related_videos": []
+    },
+    {
+      "id": "wiro",
+      "name": "Wiro",
+      "role": [
+        "Tank",
+        "Warrior"
+      ],
+      "lane": [
+        "slayer",
+        "dragon"
+      ],
+      "difficulty": "easy",
+      "description": "Đỡ đòn dũng mãnh sở hữu mạng thứ hai nhờ nội tại hồi sinh cực trâu bò.",
+      "skills": {
+        "passive": "Đang cập nhật: Kỹ năng nội tại của vị tướng này.",
+        "skill1": "Đang cập nhật: Kỹ năng chiêu 1 của vị tướng này.",
+        "skill2": "Đang cập nhật: Kỹ năng chiêu 2 của vị tướng này.",
+        "skill3": "Đang cập nhật: Kỹ năng chiêu cuối của vị tướng này."
+      },
+      "build_recommend": {
+        "items": [
+          "Giày Kiên Cường",
+          "Thương Xuyên Phá",
+          "Phức Hợp Kiếm",
+          "Nanh Fenrir",
+          "Huân Chương Troy",
+          "Giáp Hộ Mệnh"
+        ],
+        "spell": "Tốc Biến",
+        "emblem": "Vực Hỗn Loạn"
+      },
+      "counters": [],
+      "synergies": [],
+      "tier": "B",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "hot": false,
+      "hot_count": 0,
+      "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/6/60/Wiro_profile.png/revision/latest/scale-to-width-down/500?cb=20200603121419",
+      "related_videos": []
+    },
+    {
+      "id": "wisp",
+      "name": "Wisp",
+      "role": [
+        "Archer"
+      ],
+      "lane": [
+        "dragon"
+      ],
+      "difficulty": "medium",
+      "description": "Xạ thủ nhí nhảnh xả đạn đại pháo diện rộng hủy diệt combat tổng cực mạnh.",
+      "skills": {
+        "passive": "Đang cập nhật: Kỹ năng nội tại của vị tướng này.",
+        "skill1": "Đang cập nhật: Kỹ năng chiêu 1 của vị tướng này.",
+        "skill2": "Đang cập nhật: Kỹ năng chiêu 2 của vị tướng này.",
+        "skill3": "Đang cập nhật: Kỹ năng chiêu cuối của vị tướng này."
+      },
+      "build_recommend": {
+        "items": [
+          "Giày Kiên Cường",
+          "Thương Xuyên Phá",
+          "Phức Hợp Kiếm",
+          "Nanh Fenrir",
+          "Huân Chương Troy",
+          "Giáp Hộ Mệnh"
+        ],
+        "spell": "Tốc Biến",
+        "emblem": "Vực Hỗn Loạn"
+      },
+      "counters": [],
+      "synergies": [],
+      "tier": "B",
+      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "hot": false,
+      "hot_count": 1,
+      "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/9/94/Wisp_Default.jpg/revision/latest/scale-to-width-down/500?cb=20180419063145",
+      "related_videos": [
+        "KFWuue_-8PE"
+      ]
+    },
+    {
+      "id": "wonderwoman",
+      "name": "Wonder Woman",
+      "role": [
+        "Warrior",
+        "Tank"
+      ],
+      "lane": [
+        "slayer",
+        "jungle"
+      ],
+      "difficulty": "medium",
+      "description": "Đấu sĩ chiến binh sở hữu khả năng chống chịu giáp ảo và làm choáng diện rộng cực đỉnh.",
+      "skills": {
+        "passive": "Đang cập nhật: Kỹ năng nội tại của vị tướng này.",
+        "skill1": "Đang cập nhật: Kỹ năng chiêu 1 của vị tướng này.",
+        "skill2": "Đang cập nhật: Kỹ năng chiêu 2 của vị tướng này.",
+        "skill3": "Đang cập nhật: Kỹ năng chiêu cuối của vị tướng này."
+      },
+      "build_recommend": {
+        "items": [
+          "Giày Kiên Cường",
+          "Thương Xuyên Phá",
+          "Phức Hợp Kiếm",
+          "Nanh Fenrir",
+          "Huân Chương Troy",
+          "Giáp Hộ Mệnh"
+        ],
+        "spell": "Trừng Phạt",
+        "emblem": "Vực Hỗn Loạn"
+      },
+      "counters": [],
+      "synergies": [],
+      "tier": "B",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "hot": false,
+      "hot_count": 0,
+      "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/a/aa/Wonder_Woman_Bombshell.png/revision/latest/scale-to-width-down/500?cb=20180307141119",
+      "related_videos": []
+    },
+    {
+      "id": "yan",
+      "name": "Yan",
+      "role": [
+        "Warrior",
+        "Assassin"
+      ],
+      "lane": [
+        "jungle",
+        "slayer"
+      ],
+      "difficulty": "hard",
+      "description": "Kiếm sĩ cọ vẽ combat liên tục cực ảo diệu khi kích hoạt chiêu cuối cấp độ cao.",
+      "skills": {
+        "passive": "Đang cập nhật: Kỹ năng nội tại của vị tướng này.",
+        "skill1": "Đang cập nhật: Kỹ năng chiêu 1 của vị tướng này.",
+        "skill2": "Đang cập nhật: Kỹ năng chiêu 2 của vị tướng này.",
+        "skill3": "Đang cập nhật: Kỹ năng chiêu cuối của vị tướng này."
+      },
+      "build_recommend": {
+        "items": [
+          "Giày Kiên Cường",
+          "Thương Xuyên Phá",
+          "Phức Hợp Kiếm",
+          "Nanh Fenrir",
+          "Huân Chương Troy",
+          "Giáp Hộ Mệnh"
+        ],
+        "spell": "Trừng Phạt",
+        "emblem": "Vực Hỗn Loạn"
+      },
+      "counters": [],
+      "synergies": [],
+      "tier": "B",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "hot": false,
+      "hot_count": 0,
+      "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/3/34/Yan_Splash_Art.jpeg/revision/latest/scale-to-width-down/500?cb=20220507030356",
+      "related_videos": []
+    },
+    {
+      "id": "ybneth",
+      "name": "Y'bneth",
+      "role": [
+        "Tank"
+      ],
+      "lane": [
+        "slayer",
+        "dragon"
+      ],
+      "difficulty": "easy",
+      "description": "Người cây đỡ đòn khống chế cứng liên tục và khả năng hồi phục không giới hạn trong bụi.",
+      "skills": {
+        "passive": "Đang cập nhật: Kỹ năng nội tại của vị tướng này.",
+        "skill1": "Đang cập nhật: Kỹ năng chiêu 1 của vị tướng này.",
+        "skill2": "Đang cập nhật: Kỹ năng chiêu 2 của vị tướng này.",
+        "skill3": "Đang cập nhật: Kỹ năng chiêu cuối của vị tướng này."
+      },
+      "build_recommend": {
+        "items": [
+          "Giày Kiên Cường",
+          "Thương Xuyên Phá",
+          "Phức Hợp Kiếm",
+          "Nanh Fenrir",
+          "Huân Chương Troy",
+          "Giáp Hộ Mệnh"
+        ],
+        "spell": "Tốc Biến",
+        "emblem": "Vực Hỗn Loạn"
+      },
+      "counters": [],
+      "synergies": [],
+      "tier": "B",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "hot": false,
+      "hot_count": 0,
+      "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/4/48/Y%27bneth_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125051920",
+      "related_videos": [
+        "xSe3zxatjmQ"
+      ]
+    },
+    {
+      "id": "yorn",
+      "name": "Yorn",
+      "role": [
+        "Archer"
+      ],
+      "lane": [
+        "dragon"
+      ],
+      "difficulty": "easy",
+      "description": "Xạ thủ sấy mũi tên thần liên hoàn hủy diệt mọi mục tiêu kể cả xe tăng địch.",
+      "skills": {
+        "passive": "Đang cập nhật: Kỹ năng nội tại của vị tướng này.",
+        "skill1": "Đang cập nhật: Kỹ năng chiêu 1 của vị tướng này.",
+        "skill2": "Đang cập nhật: Kỹ năng chiêu 2 của vị tướng này.",
+        "skill3": "Đang cập nhật: Kỹ năng chiêu cuối của vị tướng này."
+      },
+      "build_recommend": {
+        "items": [
+          "Giày Kiên Cường",
+          "Thương Xuyên Phá",
+          "Phức Hợp Kiếm",
+          "Nanh Fenrir",
+          "Huân Chương Troy",
+          "Giáp Hộ Mệnh"
+        ],
+        "spell": "Tốc Biến",
+        "emblem": "Vực Hỗn Loạn"
+      },
+      "counters": [],
+      "synergies": [],
+      "tier": "B",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "hot": false,
+      "hot_count": 0,
+      "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/5/5c/Yorn_1.jpg/revision/latest/scale-to-width-down/500?cb=20171102213743",
+      "related_videos": []
+    },
+    {
+      "id": "zanis",
+      "name": "Triệu Vân",
+      "role": [
+        "Warrior",
+        "Assassin"
+      ],
+      "lane": [
+        "jungle"
+      ],
+      "difficulty": "easy",
+      "description": "Đấu sĩ chiến thần càn quét cự ly gần gây sát thương chuẩn cực khủng và tăng tốc độ đánh.",
+      "skills": {
+        "passive": "Đang cập nhật: Kỹ năng nội tại của vị tướng này.",
+        "skill1": "Đang cập nhật: Kỹ năng chiêu 1 của vị tướng này.",
+        "skill2": "Đang cập nhật: Kỹ năng chiêu 2 của vị tướng này.",
+        "skill3": "Đang cập nhật: Kỹ năng chiêu cuối của vị tướng này."
+      },
+      "build_recommend": {
+        "items": [
+          "Giày Kiên Cường",
+          "Thương Xuyên Phá",
+          "Phức Hợp Kiếm",
+          "Nanh Fenrir",
+          "Huân Chương Troy",
+          "Giáp Hộ Mệnh"
+        ],
+        "spell": "Trừng Phạt",
+        "emblem": "Vực Hỗn Loạn"
+      },
+      "counters": [],
+      "synergies": [],
+      "tier": "B",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "hot": false,
+      "hot_count": 0,
+      "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/7/75/Zanis_profile.png/revision/latest/scale-to-width-down/500?cb=20170525133445",
+      "related_videos": []
+    },
+    {
+      "id": "zuka",
+      "name": "Zuka",
+      "role": [
+        "Warrior",
+        "Assassin"
+      ],
+      "lane": [
+        "slayer",
+        "jungle"
+      ],
+      "difficulty": "medium",
+      "description": "Gấu béo bay nhảy đập gậy dồn sát thương sốc chết mục tiêu chỉ trong nháy mắt.",
+      "skills": {
+        "passive": "Đang cập nhật: Kỹ năng nội tại của vị tướng này.",
+        "skill1": "Đang cập nhật: Kỹ năng chiêu 1 của vị tướng này.",
+        "skill2": "Đang cập nhật: Kỹ năng chiêu 2 của vị tướng này.",
+        "skill3": "Đang cập nhật: Kỹ năng chiêu cuối của vị tướng này."
+      },
+      "build_recommend": {
+        "items": [
+          "Giày Kiên Cường",
+          "Thương Xuyên Phá",
+          "Phức Hợp Kiếm",
+          "Nanh Fenrir",
+          "Huân Chương Troy",
+          "Giáp Hộ Mệnh"
+        ],
+        "spell": "Trừng Phạt",
+        "emblem": "Vực Hỗn Loạn"
+      },
+      "counters": [],
+      "synergies": [],
+      "tier": "B",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "hot": false,
+      "hot_count": 0,
+      "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/9/9e/Zuka_Splash.png/revision/latest/scale-to-width-down/500?cb=20171204210621",
+      "related_videos": []
     }
   ],
-  "updated_at": "2026-05-18T15:54:31Z"
+  "updated_at": "2026-05-18T16:02:29Z"
 }

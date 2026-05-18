@@ -1,7 +1,13 @@
 import json
 import os
 import re
+import sys
 from datetime import datetime, timedelta, timezone
+
+try:
+    sys.stdout.reconfigure(encoding='utf-8')
+except AttributeError:
+    pass
 
 # Paths
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
