@@ -90,13 +90,12 @@
         "Alice",
         "Gildur"
       ],
-      "tier": "A",
-      "tier_reason": "Xuất hiện 2 lần trong video/tin tức 14 ngày qua (Score: 2)",
+      "tier": "B",
+      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 1)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 0,
       "thumbnail": "https://lienquan.garena.vn/wp-content/themes/aov/images/heroes/murad.jpg",
       "related_videos": [
-        "7iRHVGEUZTM",
         "ISbKnVIhnio"
       ]
     },
@@ -795,14 +794,11 @@
         "Krixi"
       ],
       "tier": "B",
-      "tier_reason": "Xuất hiện 2 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
-      "hot_count": 2,
+      "hot_count": 0,
       "thumbnail": "https://lienquan.garena.vn/wp-content/themes/aov/images/heroes/toro.jpg",
-      "related_videos": [
-        "3Hzg585TZ-E",
-        "OBL2n0Kk2IY"
-      ]
+      "related_videos": []
     },
     {
       "id": "gildur",
@@ -845,13 +841,11 @@
         "Yorn"
       ],
       "tier": "B",
-      "tier_reason": "Xuất hiện 3 lần trong video/tin tức 14 ngày qua (Score: 1)",
-      "hot": true,
-      "hot_count": 3,
+      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 1)",
+      "hot": false,
+      "hot_count": 1,
       "thumbnail": "https://lienquan.garena.vn/wp-content/themes/aov/images/heroes/gildur.jpg",
       "related_videos": [
-        "3Hzg585TZ-E",
-        "OBL2n0Kk2IY",
         "vJjgXXR-Xdk"
       ]
     },
@@ -894,13 +888,11 @@
         "Wukong"
       ],
       "tier": "B",
-      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 0,
       "thumbnail": "https://lienquan.garena.vn/wp-content/themes/aov/images/heroes/alice.jpg",
-      "related_videos": [
-        "OBL2n0Kk2IY"
-      ]
+      "related_videos": []
     },
     {
       "id": "jinna",
@@ -941,13 +933,11 @@
         "Toro"
       ],
       "tier": "B",
-      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 0,
       "thumbnail": "https://lienquan.garena.vn/wp-content/themes/aov/images/heroes/jinna.jpg",
-      "related_videos": [
-        "3Hzg585TZ-E"
-      ]
+      "related_videos": []
     },
     {
       "id": "volkath",
@@ -990,13 +980,11 @@
         "Alice"
       ],
       "tier": "B",
-      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 0,
       "thumbnail": "https://lienquan.garena.vn/wp-content/themes/aov/images/heroes/volkath.jpg",
-      "related_videos": [
-        "OBL2n0Kk2IY"
-      ]
+      "related_videos": []
     },
     {
       "id": "maloch",
@@ -1039,13 +1027,11 @@
         "Toro"
       ],
       "tier": "B",
-      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 1)",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 0,
       "thumbnail": "https://lienquan.garena.vn/wp-content/themes/aov/images/heroes/maloch.jpg",
-      "related_videos": [
-        "73IgO3zq5ZY"
-      ]
+      "related_videos": []
     },
     {
       "id": "krixi",
@@ -1133,13 +1119,11 @@
         "Alice"
       ],
       "tier": "B",
-      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 0,
       "thumbnail": "https://lienquan.garena.vn/wp-content/themes/aov/images/heroes/tulen.jpg",
-      "related_videos": [
-        "kKJBIrinXyo"
-      ]
+      "related_videos": []
     },
     {
       "id": "ignis",
@@ -2158,12 +2142,11 @@
         "Krixi"
       ],
       "tier": "B",
-      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 1)",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 0,
       "thumbnail": "https://lienquan.garena.vn/wp-content/themes/aov/images/heroes/zephys.jpg",
       "related_videos": [
-        "2r2yrlBQ28s",
         "7lgmybfTwBI"
       ]
     },
@@ -2208,13 +2191,11 @@
         "Krixi"
       ],
       "tier": "B",
-      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 1)",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 0,
       "thumbnail": "https://lienquan.garena.vn/wp-content/themes/aov/images/heroes/arthur.jpg",
-      "related_videos": [
-        "L7jxBwj_SCY"
-      ]
+      "related_videos": []
     },
     {
       "id": "keera",
@@ -2356,5 +2337,5 @@
       "related_videos": []
     }
   ],
-  "updated_at": "2026-05-18T14:43:45Z"
+  "updated_at": "2026-05-18T14:51:47Z"
 }
