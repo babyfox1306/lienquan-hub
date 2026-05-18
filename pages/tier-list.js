@@ -112,6 +112,7 @@ export default function TierList({ heroes, updatedAt, recentVideosCount, recentN
                                     src={hero.thumbnail}
                                     alt={hero.name}
                                     loading="lazy"
+                                    referrerPolicy="no-referrer"
                                     className="w-full h-full object-cover object-top"
                                     onError={(e) => {
                                       e.target.src = '/no-image.png';

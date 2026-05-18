@@ -88,6 +88,7 @@ export default function HeroDetail({ hero, relatedVideoObjects, allHeroIds }) {
                     <img
                       src={hero.thumbnail}
                       alt={hero.name}
+                      referrerPolicy="no-referrer"
                       className="w-full h-full object-cover object-center"
                       onError={() => setImgError(true)}
                     />

@@ -177,6 +177,7 @@ export default function HeroesHub({ heroes, updatedAt }) {
                         src={hero.thumbnail}
                         alt={hero.name}
                         loading="lazy"
+                        referrerPolicy="no-referrer"
                         className="w-full h-full object-cover object-center group-hover:scale-105 transition-transform duration-500"
                         onError={() => handleImgError(hero.id)}
                       />
