@@ -5,8 +5,8 @@ export default function About() {
   return (
     <div className="min-h-screen bg-base-200">
       <Head>
-        <title>Giới thiệu - Liên Quân Hub</title>
-        <meta name="description" content="Liên Quân Hub là cộng đồng chia sẻ guide, tip chơi Liên Quân Mobile miễn phí cho game thủ Việt Nam" />
+        <title>Giới thiệu | Liên Quân Hub</title>
+        <meta name="description" content="Liên Quân Hub - Cộng đồng chia sẻ highlight, guide và tin tức AoV/RoV hàng đầu Việt Nam." />
         <meta name="keywords" content="Liên Quân Mobile, Arena of Valor, guide, tip, cộng đồng game thủ Việt" />
         <link rel="canonical" href="https://www.lienquanhub.xyz/about" />
       </Head>

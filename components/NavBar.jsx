@@ -2,9 +2,9 @@ import Link from 'next/link';
 import { useEffect, useState } from 'react';
 
 export default function NavBar() {
-  const [theme, setTheme] = useState('light');
+  const [theme, setTheme] = useState('dark');
   useEffect(() => {
-    const t = localStorage.getItem('theme') || 'light';
+    const t = localStorage.getItem('theme') || 'dark';
     setTheme(t);
     document.documentElement.setAttribute('data-theme', t);
   }, []);
@@ -35,11 +35,8 @@ export default function NavBar() {
             localStorage.setItem('theme', val);
           }}
         >
-          <option value="lqhub">LQ Hub</option>
           <option value="light">Light</option>
           <option value="dark">Dark</option>
-          <option value="retro">Retro</option>
-          <option value="dracula">Dracula</option>
         </select>
         <button className="btn btn-xs sm:btn-sm" onClick={toggleTheme}>{theme === 'light' ? 'Dark' : 'Light'}</button>
       </div>

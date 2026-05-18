@@ -40,6 +40,8 @@ export async function getStaticProps() {
 export default function Home({ videos }) {
   const router = useRouter();
   const [currentPage, setCurrentPage] = useState(1);
+  const [selectedCategory, setSelectedCategory] = useState('all');
+  const [searchTerm, setSearchTerm] = useState('');
   
   // Lấy page từ URL query
   useEffect(() => {
@@ -47,12 +49,43 @@ export default function Home({ videos }) {
     setCurrentPage(page);
   }, [router.query.page]);
 
+  const handleSearchChange = (e) => {
+    setSearchTerm(e.target.value);
+    setCurrentPage(1);
+    router.push({ pathname: '/', query: { ...router.query, page: 1 } }, undefined, { shallow: true });
+  };
+
+  const handleCategoryChange = (catId) => {
+    setSelectedCategory(catId);
+    setCurrentPage(1);
+    router.push({ pathname: '/', query: { ...router.query, page: 1 } }, undefined, { shallow: true });
+  };
+
+  // Lọc video theo search term và category
+  const filteredVideos = videos.filter(v => {
+    const titleLower = v.title.toLowerCase();
+    const matchesSearch = searchTerm === '' || titleLower.includes(searchTerm.toLowerCase());
+    
+    if (selectedCategory === 'all') return matchesSearch;
+    
+    if (selectedCategory === 'highlight') {
+      return matchesSearch && (titleLower.includes('highlight') || titleLower.includes('thi đấu') || titleLower.includes('giải đấu') || titleLower.includes('tournament') || titleLower.includes('esports'));
+    }
+    if (selectedCategory === 'guide') {
+      return matchesSearch && (titleLower.includes('guide') || titleLower.includes('hướng dẫn') || titleLower.includes('combo') || titleLower.includes('build') || titleLower.includes('cách chơi') || titleLower.includes('bảng ngọc') || titleLower.includes('trang bị') || titleLower.includes('tướng'));
+    }
+    if (selectedCategory === 'news') {
+      return matchesSearch && (titleLower.includes('cập nhật') || titleLower.includes('patch') || titleLower.includes('update') || titleLower.includes('tướng mới') || titleLower.includes('skin') || titleLower.includes('leaks') || titleLower.includes('news') || titleLower.includes('tin tức'));
+    }
+    return matchesSearch;
+  });
+
   const videosPerPage = 20;
-  const totalVideos = videos.length;
+  const totalVideos = filteredVideos.length;
   const totalPages = Math.ceil(totalVideos / videosPerPage);
   const startIndex = (currentPage - 1) * videosPerPage;
   const endIndex = startIndex + videosPerPage;
-  const currentVideos = videos.slice(startIndex, endIndex);
+  const currentVideos = filteredVideos.slice(startIndex, endIndex);
 
   const canonical = currentPage === 1 ? 'https://www.lienquanhub.xyz/' : `https://www.lienquanhub.xyz/?page=${currentPage}`;
   const itemList = {
@@ -85,20 +118,30 @@ export default function Home({ videos }) {
             <h1 className="text-2xl sm:text-3xl md:text-4xl font-bold mb-3 sm:mb-4">Liên Quân Hub</h1>
             <p className="text-sm sm:text-base text-base-content/70 mb-4 sm:mb-6 px-4">Tổng hợp highlight, guide, news — cập nhật tự động từ YouTube/RSS</p>
             <div className="join w-full max-w-sm sm:max-w-md md:max-w-xl mb-4 px-4">
-              <input className="input input-bordered join-item w-full text-sm sm:text-base" placeholder="Tìm video..." onChange={() => {}} />
+              <input 
+                className="input input-bordered join-item w-full text-sm sm:text-base" 
+                placeholder="Tìm video..." 
+                value={searchTerm}
+                onChange={handleSearchChange} 
+              />
               <button className="btn btn-primary join-item text-sm sm:text-base">Search</button>
             </div>
             <div className="tabs tabs-boxed inline-flex flex-wrap justify-center gap-1 sm:gap-2">
-              <a className="tab tab-active text-xs sm:text-sm">All</a>
-              <a className="tab text-xs sm:text-sm">Highlight</a>
-              <a className="tab text-xs sm:text-sm">Guide</a>
-              <a className="tab text-xs sm:text-sm">News</a>
+              {['all', 'highlight', 'guide', 'news'].map(cat => (
+                <button
+                  key={cat}
+                  className={`tab text-xs sm:text-sm ${selectedCategory === cat ? 'tab-active' : ''}`}
+                  onClick={() => handleCategoryChange(cat)}
+                >
+                  {cat === 'all' ? 'All' : cat.charAt(0).toUpperCase() + cat.slice(1)}
+                </button>
+              ))}
             </div>
           </div>
         </section>
         <section className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-3 sm:gap-4 md:gap-6">
           {currentVideos.map((v, idx) => (
-            <VideoCard key={v.videoId} videoId={v.videoId} title={v.title} priority={idx === 0} />
+            <VideoCard key={v.videoId} video={v} priority={idx === 0} />
           ))}
         </section>
         

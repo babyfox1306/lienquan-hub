@@ -65,8 +65,8 @@ export default function Blog() {
   return (
     <div className="min-h-screen bg-base-200">
       <Head>
-        <title>Blog & Hướng dẫn - Liên Quân Hub</title>
-        <meta name="description" content="Tổng hợp các bài viết hướng dẫn, tips và phân tích chuyên sâu về Liên Quân Mobile" />
+        <title>Blog & Hướng dẫn Liên Quân Mobile | Liên Quân Hub</title>
+        <meta name="description" content="Hướng dẫn build đồ, tips leo rank, phân tích meta từ các cao thủ Liên Quân Mobile." />
         <meta name="keywords" content="Liên Quân Mobile, blog, hướng dẫn, tips, guide, meta game, esports" />
         <link rel="canonical" href="https://www.lienquanhub.xyz/blog" />
       </Head>

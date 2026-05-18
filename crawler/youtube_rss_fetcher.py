@@ -1,4 +1,4 @@
-import feedparser, json, re, os, time, sys
+import feedparser, json, re, os, time, sys, requests
 try:
     from ftfy import fix_text  # Robustly fixes mojibake
 except Exception:
@@ -25,15 +25,129 @@ def video_id_from_link(link):
     return None
 
 
+def clean_and_fix_title(title):
+    if not title:
+        return title
+    original = title
+    
+    # 1. Try ftfy if available
+    if fix_text:
+        try:
+            title = fix_text(title)
+        except Exception:
+            pass
+            
+    # 2. Try common encoding fixes for mojibake
+    encodings = ['latin1', 'cp1252']
+    for enc in encodings:
+        if any(bad in title for bad in ('Ã', 'â', '€', '™', 'œ', 'áº', 'á»', 'Â', 'æ', 'ë', 'ì', 'í')):
+            try:
+                title = title.encode(enc, errors='ignore').decode('utf-8', errors='ignore')
+                break
+            except Exception:
+                pass
+                
+    # 3. Log warning if title still contains known broken patterns
+    broken_patterns = ['Cm ', 'Bng ', 'LN U', 'ma bay mu']
+    if any(p in title for p in broken_patterns):
+        print(f"⚠️ WARNING: Title might still have encoding issues: '{title}' (Original: '{original}')")
+        
+    return title
+
+
+def translate_title(title, source_lang):
+    if not title:
+        return title
+        
+    # Check if title is purely ASCII (ignoring punctuation/numbers)
+    is_ascii = all(ord(c) < 128 for c in title)
+    if source_lang == 'vi' or is_ascii:
+        return title
+        
+    # Detect language based on charsets
+    lang = source_lang
+    if any('\u0e00' <= c <= '\u0e7f' for c in title):
+        lang = 'th'
+    elif any('\u4e00' <= c <= '\u9fff' for c in title):
+        lang = 'zh'
+        
+    print(f"Translating: '{title}' ({lang} -> vi)")
+    
+    # LibreTranslate instances fallback list
+    instances = [
+        "https://libretranslate.de/translate",
+        "https://translate.argosopentech.com/translate",
+        "https://translate.terraprint.co/translate"
+    ]
+    
+    payload = {
+        "q": title,
+        "source": lang,
+        "target": "vi",
+        "format": "text"
+    }
+    
+    headers = {
+        "Content-Type": "application/json"
+    }
+    
+    for instance in instances:
+        try:
+            res = requests.post(instance, json=payload, headers=headers, timeout=5)
+            if res.status_code == 200:
+                data = res.json()
+                translated_text = data.get('translatedText')
+                if translated_text:
+                    time.sleep(0.3)
+                    print(f"-> Translated to: '{translated_text}'")
+                    return translated_text
+        except Exception as e:
+            print(f"LibreTranslate error at {instance}: {e}")
+            
+    # If all fail, return original
+    time.sleep(0.3)
+    return title
+
+
+def test_encoding_fixes():
+    print("=== RUNNING TITLE ENCODING TESTS ===")
+    test_cases = [
+        "Cm Nakroth ma bay mu Tiu Lai Bng",
+        "LAI BNG QUAY RA SKIN NAKROTH LEVI NGAY T LN U",
+        "Ãnh SÃ¡ng vÃ  BÃ³ng TÃ³i"
+    ]
+    for tc in test_cases:
+        fixed = clean_and_fix_title(tc)
+        print(f"Original: '{tc}' -> Fixed: '{fixed}'")
+    print("====================================")
+
+
 def fetch():
+    # Run tests on start
+    test_encoding_fixes()
+
     # Read feeds.json with utf-8-sig to handle BOM if present
     with open(FEEDS_PATH, 'r', encoding='utf-8-sig') as f:
         feeds = json.load(f)
+
+    # Load existing videos for cache
+    existing_videos_map = {}
+    if os.path.exists(OUT_PATH):
+        try:
+            with open(OUT_PATH, 'r', encoding='utf-8') as f:
+                existing_data = json.load(f)
+                for v in existing_data.get('videos', []):
+                    existing_videos_map[v['videoId']] = v
+        except Exception as e:
+            print(f"Error loading existing videos for cache: {e}")
 
     videos = feeds.get('manual_videos', []).copy()
     print(f'Starting with {len(videos)} manual videos')
 
     for ch in feeds.get('channels', []):
+        country = ch.get('country', 'VN')
+        lang = ch.get('lang', 'vi')
+        
         if ch['type'] == 'channel':
             rss = f"https://www.youtube.com/feeds/videos.xml?channel_id={ch['id']}"
         elif ch['type'] == 'playlist':
@@ -42,78 +156,68 @@ def fetch():
             continue
 
         print('Fetching', rss)
-        d = feedparser.parse(rss)
+        try:
+            headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'}
+            res = requests.get(rss, headers=headers, timeout=10)
+            res.encoding = 'utf-8'
+            d = feedparser.parse(res.text)
+        except Exception as e:
+            print(f"Failed to fetch RSS via requests: {e}. Falling back to feedparser.parse(rss)")
+            d = feedparser.parse(rss)
+
         for entry in d.entries[:50]:
             link = entry.link
             vid = video_id_from_link(link)
             if not vid:
                 continue
-            title = entry.title
-            # Normalize/fix potential mojibake from various mis-decodings
-            try:
-                if fix_text:
-                    title = fix_text(title)
-                else:
-                    # Fallback heuristics
-                    if any(bad in title for bad in ('Ã', 'â', '€', '™', 'œ', 'áº', 'á»', 'Â')):
-                        try:
-                            title = title.encode('latin1', errors='ignore').decode('utf-8', errors='ignore')
-                        except Exception:
-                            pass
-            except Exception:
-                pass
+
+            # Check cache
+            cached_video = existing_videos_map.get(vid)
+            if cached_video and cached_video.get('translated') is not None:
+                # Use cache directly to save translation API limits
+                if not any(v['videoId'] == vid for v in videos):
+                    # Ensure metadata is updated
+                    cached_video['country'] = country
+                    cached_video['lang_original'] = lang
+                    videos.append(cached_video)
+                continue
+
+            # Title processing
+            raw_title = clean_and_fix_title(entry.title)
             
-            # STRICT FILTERING - Only allow Liên Quân Mobile content
-            title_lower = title.lower()
+            # Translate if international channel
+            title_translated = raw_title
+            is_translated = False
+            if lang != 'vi':
+                title_translated = translate_title(raw_title, lang)
+                is_translated = (title_translated != raw_title)
+
+            # STRICT FILTERING - Only allow AoV/RoV content
+            title_for_filtering = title_translated.lower()
+            title_original_lower = raw_title.lower()
             
-            # Must contain Liên Quân keywords
             lienquan_keywords = [
                 'liên quân', 'lien quan', 'arena of valor', 'aov', 'rov',
                 'garena', 'mobile moba', 'moba mobile', 'tướng', 'champion',
                 'rank', 'leo rank', 'esports', 'tournament', 'thi đấu',
                 'highlight', 'combo', 'build', 'guide', 'hướng dẫn',
-                'meta', 'patch', 'cập nhật', 'skin', 'tướng mới'
+                'meta', 'patch', 'cập nhật', 'skin', 'tướng mới', 'hero'
             ]
             
-            # Check if contains Liên Quân keywords
-            has_lienquan_content = any(keyword in title_lower for keyword in lienquan_keywords)
+            has_lienquan_content = any(keyword in title_for_filtering or keyword in title_original_lower for keyword in lienquan_keywords)
             
-            # Strict exclude keywords
-            exclude_keywords = [
-                # Non-gaming content
-                'vật cổ truyền', 'hội làng', 'hội xuân', 'đô long', 'bắc ninh',
-                'cooking', 'nấu ăn', 'ẩm thực', 'du lịch', 'travel', 'vlog',
-                'âm nhạc', 'music', 'ca nhạc', 'karaoke', 'nhạc', 'bài hát',
-                'thể thao', 'sport', 'bóng đá', 'football', 'bóng chuyền',
-                'phim', 'movie', 'cinema', 'drama', 'truyện', 'story',
-                # Other games
-                'pubg', 'free fire', 'lol', 'league of legends', 'dota',
-                'valorant', 'csgo', 'counter strike', 'fifa', 'pes',
-                'minecraft', 'roblox', 'among us', 'fall guys',
-                # Low quality content
-                'reaction', 'phản ứng', 'review', 'đánh giá', 'unboxing',
-                'mở hộp', 'giveaway', 'tặng', 'quà', 'event', 'sự kiện',
-                'livestream', 'stream', 'live', 'trực tiếp'
-            ]
-            
-            # Skip if contains exclude keywords
-            if any(keyword in title_lower for keyword in exclude_keywords):
-                print(f'❌ Skipping excluded content: {title[:60]}...')
-                continue
-                
-            # Skip if doesn't contain Liên Quân content
             if not has_lienquan_content:
-                print(f'❌ Skipping non-Liên Quân content: {title[:60]}...')
+                # Skip non-AoV content
+                continue
+
+            if len(title_translated) < 10:  # Too short
+                print(f'❌ Skipping too short title: {title_translated}')
                 continue
                 
-            # Additional quality checks
-            if len(title) < 10:  # Too short
-                print(f'❌ Skipping too short title: {title}')
+            if len(title_translated) > 200:  # Too long
+                print(f'❌ Skipping too long title: {title_translated[:60]}...')
                 continue
-                
-            if len(title) > 200:  # Too long (likely spam)
-                print(f'❌ Skipping too long title: {title[:60]}...')
-                continue
+
             # Try to extract publish date in ISO8601
             published_iso = None
             try:
@@ -123,19 +227,23 @@ def fetch():
                     published_iso = time.strftime('%Y-%m-%dT%H:%M:%SZ', entry.updated_parsed)
             except Exception:
                 published_iso = None
-            # Extract thumbnail URL
+
             thumbnail_url = f"https://i.ytimg.com/vi/{vid}/maxresdefault.jpg"
             
             item = {
                 "videoId": vid, 
-                "title": title, 
+                "title": title_translated, 
+                "title_original": raw_title,
+                "translated": is_translated,
+                "country": country,
+                "lang_original": lang,
                 "source": "youtube", 
                 "publishedAt": published_iso,
                 "thumbnailUrl": thumbnail_url
             }
             if not any(v['videoId'] == vid for v in videos):
                 videos.append(item)
-                print(f'Added new video: {title[:50]}... - {published_iso}')
+                print(f'Added video: {title_translated[:50]}... - {published_iso}')
 
     with open(OUT_PATH, 'w', encoding='utf8', newline='') as f:
         json.dump({"videos": videos}, f, ensure_ascii=False, indent=2)
@@ -144,5 +252,3 @@ def fetch():
 
 if __name__ == '__main__':
     fetch()
-
-

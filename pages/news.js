@@ -73,8 +73,8 @@ export default function News({ news }) {
   return (
     <div className="min-h-screen bg-base-200">
       <Head>
-        <title>Tin tức Liên Quân Mobile - Liên Quân Hub</title>
-        <meta name="description" content="Tin tức mới nhất về Liên Quân Mobile: tướng mới, skin, cập nhật, esports và meta game" />
+        <title>Tin tức Liên Quân Mobile mới nhất | Liên Quân Hub</title>
+        <meta name="description" content="Cập nhật tin tức mới nhất về tướng, skin, esports và meta game Liên Quân Mobile hàng ngày." />
         <link rel="canonical" href="https://www.lienquanhub.xyz/news" />
       </Head>
       
@@ -132,7 +132,7 @@ export default function News({ news }) {
                     <div key={item.link} className="card bg-base-100 shadow-xl">
                       <figure>
                         <img 
-                          src={item.image_url || `https://picsum.photos/seed/${item.link}/400/225`} 
+                          src={item.image_url || '/no-image.png'} 
                           alt={item.title}
                           className="w-full h-40 sm:h-48 object-cover"
                         />

@@ -166,36 +166,47 @@ class NewsCrawler:
         # Try different ways to get image
         image_url = None
         
-        # Method 1: Check media:content
-        if hasattr(entry, 'media_content'):
+        # Method 1: Try to fetch og:image from the article URL
+        link = entry.get('link', '')
+        if link and not link.includes('example.com') if hasattr(link, 'includes') else (link and 'example.com' not in link):
+            try:
+                headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'}
+                # Use a fast timeout (3 seconds) to avoid blocking the crawler
+                res = requests.get(link, headers=headers, timeout=3)
+                if res.status_code == 200:
+                    from bs4 import BeautifulSoup
+                    soup = BeautifulSoup(res.text, 'html.parser')
+                    meta_og_image = soup.find('meta', property='og:image') or soup.find('meta', attrs={'name': 'og:image'})
+                    if meta_og_image and meta_og_image.get('content'):
+                        image_url = meta_og_image.get('content')
+                        print(f"-> Successfully extracted og:image from HTML: {image_url}")
+            except Exception as e:
+                print(f"Error fetching og:image from HTML {link}: {e}")
+
+        # Method 2: Check media:content
+        if not image_url and hasattr(entry, 'media_content'):
             for media in entry.media_content:
                 if media.get('type', '').startswith('image/'):
                     image_url = media.get('url')
                     break
         
-        # Method 2: Check media:thumbnail
+        # Method 3: Check media:thumbnail
         if not image_url and hasattr(entry, 'media_thumbnail'):
             image_url = entry.media_thumbnail[0].get('url')
         
-        # Method 3: Check enclosures
+        # Method 4: Check enclosures
         if not image_url and hasattr(entry, 'enclosures'):
             for enclosure in entry.enclosures:
                 if enclosure.get('type', '').startswith('image/'):
                     image_url = enclosure.get('href')
                     break
         
-        # Method 4: Extract from summary HTML
+        # Method 5: Extract from summary HTML
         if not image_url:
             summary = entry.get('summary', '')
             img_match = re.search(r'<img[^>]+src=["\']([^"\']+)["\']', summary)
             if img_match:
                 image_url = img_match.group(1)
-        
-        # Method 5: Use placeholder image based on content
-        if not image_url:
-            title = entry.get('title', '').lower()
-            if 'liên quân' in title or 'aov' in title:
-                image_url = f"https://picsum.photos/seed/{entry.get('link', '')}/400/225"
         
         return image_url
     
