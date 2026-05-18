@@ -37,10 +37,10 @@ def clean_and_fix_title(title):
         except Exception:
             pass
             
-    # 2. Try common encoding fixes for mojibake
+    # 2. Try common encoding fixes for mojibake (bỏ 'â' và 'Â' để tránh làm hỏng tiếng Việt chuẩn)
     encodings = ['latin1', 'cp1252']
     for enc in encodings:
-        if any(bad in title for bad in ('Ã', 'â', '€', '™', 'œ', 'áº', 'á»', 'Â', 'æ', 'ë', 'ì', 'í')):
+        if any(bad in title for bad in ('Ã', 'â‚¬', 'â„¢', 'œ', 'áº', 'á»', 'æ', 'ë', 'ì', 'í')):
             try:
                 title = title.encode(enc, errors='ignore').decode('utf-8', errors='ignore')
                 break
@@ -173,24 +173,25 @@ def fetch():
 
             # Check cache
             cached_video = existing_videos_map.get(vid)
-            if cached_video and cached_video.get('translated') is not None:
-                # Use cache directly to save translation API limits
-                if not any(v['videoId'] == vid for v in videos):
-                    # Ensure metadata is updated
-                    cached_video['country'] = country
-                    cached_video['lang_original'] = lang
-                    videos.append(cached_video)
-                continue
-
-            # Title processing
+            
+            # Title processing - Luôn lấy tiêu đề sạch từ RSS mới
             raw_title = clean_and_fix_title(entry.title)
             
-            # Translate if international channel
             title_translated = raw_title
             is_translated = False
+            
             if lang != 'vi':
-                title_translated = translate_title(raw_title, lang)
-                is_translated = (title_translated != raw_title)
+                # Nếu là kênh nước ngoài và đã có cache dịch, ta dùng lại bản dịch để tiết kiệm API
+                if cached_video and cached_video.get('translated') is True and cached_video.get('title'):
+                    title_translated = cached_video.get('title')
+                    is_translated = True
+                else:
+                    title_translated = translate_title(raw_title, lang)
+                    is_translated = (title_translated != raw_title)
+            else:
+                # Nếu là kênh tiếng Việt, ta luôn dùng tiêu đề sạch mới từ RSS
+                title_translated = raw_title
+                is_translated = False
 
             # STRICT FILTERING - Only allow AoV/RoV content
             title_for_filtering = title_translated.lower()
