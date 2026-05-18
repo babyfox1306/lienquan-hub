@@ -38,6 +38,12 @@ export default function HeroesHub({ heroes, updatedAt }) {
   const [selectedTier, setSelectedTier] = useState('All');
   const [onlyHot, setOnlyHot] = useState(false);
 
+  const [imgErrors, setImgErrors] = useState({});
+
+  const handleImgError = (heroId) => {
+    setImgErrors(prev => ({ ...prev, [heroId]: true }));
+  };
+
   // Filtered heroes list
   const filteredHeroes = useMemo(() => {
     return heroes.filter(hero => {
@@ -164,17 +170,27 @@ export default function HeroesHub({ heroes, updatedAt }) {
               <Link key={hero.id} href={`/tuong/${hero.id}`} className="group">
                 <div className="card bg-slate-900/40 backdrop-blur-sm border border-slate-800 hover:border-red-500/50 hover:shadow-2xl hover:shadow-red-500/5 transition-all duration-300 overflow-hidden h-full rounded-2xl">
                   {/* Thumbnail area */}
-                  <div className="relative aspect-[4/3] w-full bg-slate-950 overflow-hidden">
-                    {/* eslint-disable-next-line @next/next/no-img-element */}
-                    <img
-                      src={hero.thumbnail}
-                      alt={hero.name}
-                      loading="lazy"
-                      className="w-full h-full object-cover object-top group-hover:scale-105 transition-transform duration-500"
-                      onError={(e) => {
-                        e.target.src = '/no-image.png';
-                      }}
-                    />
+                  <div className="relative aspect-[4/3] w-full bg-slate-950 overflow-hidden border-b border-slate-800">
+                    {hero.thumbnail && !imgErrors[hero.id] ? (
+                      /* eslint-disable-next-line @next/next/no-img-element */
+                      <img
+                        src={hero.thumbnail}
+                        alt={hero.name}
+                        loading="lazy"
+                        className="w-full h-full object-cover object-center group-hover:scale-105 transition-transform duration-500"
+                        onError={() => handleImgError(hero.id)}
+                      />
+                    ) : (
+                      <div className="absolute inset-0 flex flex-col items-center justify-center p-4 bg-gradient-to-br from-slate-900 via-red-950/40 to-slate-900">
+                        <span className="text-2xl mb-1 filter drop-shadow">⚔️</span>
+                        <span className="text-sm sm:text-base font-black tracking-wider text-slate-100 uppercase group-hover:text-red-500 transition-colors">
+                          {hero.name}
+                        </span>
+                        <span className="text-[10px] text-slate-500 uppercase tracking-widest mt-1">
+                          Liên Quân Hub
+                        </span>
+                      </div>
+                    )}
                     
                     {/* Top right badges overlay */}
                     <div className="absolute top-2 right-2 flex flex-col gap-1 items-end">

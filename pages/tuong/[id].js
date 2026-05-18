@@ -1,5 +1,6 @@
 import Head from 'next/head';
 import Link from 'next/link';
+import { useState } from 'react';
 import fs from 'fs';
 import path from 'path';
 import NavBar from '../../components/NavBar';
@@ -32,6 +33,8 @@ const TIER_COLORS = {
 };
 
 export default function HeroDetail({ hero, relatedVideoObjects, allHeroIds }) {
+  const [imgError, setImgError] = useState(false);
+
   if (!hero) return null;
 
   // Check if a counter/synergy hero is in our 50-hero list
@@ -79,16 +82,23 @@ export default function HeroDetail({ hero, relatedVideoObjects, allHeroIds }) {
               <div className="absolute top-0 right-0 w-32 h-32 bg-red-500/10 rounded-full blur-2xl -mr-10 -mt-10"></div>
               
               <div className="flex flex-col sm:flex-row gap-6 items-center sm:items-start relative z-10">
-                <div className="relative w-36 h-36 sm:w-28 sm:h-28 rounded-2xl overflow-hidden border-2 border-slate-700 bg-slate-950 flex-shrink-0">
-                  {/* eslint-disable-next-line @next/next/no-img-element */}
-                  <img
-                    src={hero.thumbnail}
-                    alt={hero.name}
-                    className="w-full h-full object-cover object-top"
-                    onError={(e) => {
-                      e.target.src = '/no-image.png';
-                    }}
-                  />
+                <div className="relative w-36 h-36 sm:w-28 sm:h-28 rounded-2xl overflow-hidden border-2 border-slate-700 bg-slate-950 flex-shrink-0 flex items-center justify-center">
+                  {hero.thumbnail && !imgError ? (
+                    /* eslint-disable-next-line @next/next/no-img-element */
+                    <img
+                      src={hero.thumbnail}
+                      alt={hero.name}
+                      className="w-full h-full object-cover object-center"
+                      onError={() => setImgError(true)}
+                    />
+                  ) : (
+                    <div className="absolute inset-0 flex flex-col items-center justify-center p-3 bg-gradient-to-br from-slate-900 via-red-950/40 to-slate-900 text-center">
+                      <span className="text-xl mb-1 filter drop-shadow">⚔️</span>
+                      <span className="text-xs sm:text-sm font-black tracking-wider text-slate-100 uppercase">
+                        {hero.name}
+                      </span>
+                    </div>
+                  )}
                 </div>
                 
                 <div className="text-center sm:text-left space-y-2">

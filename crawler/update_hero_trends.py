@@ -162,6 +162,12 @@ def update_trends():
                     break
         hero["related_videos"] = related_videos
         
+        # D. Update Dynamic Thumbnail from first video
+        if len(related_videos) > 0:
+            hero["thumbnail"] = f"https://img.youtube.com/vi/{related_videos[0]}/maxresdefault.jpg"
+        else:
+            hero["thumbnail"] = None
+        
         if hot_count > 0 or tier != "A":
             print(f"Updated {hero_name}: Hot Count={hot_count}, Hot={hero['hot']}, Tier={tier} (was {old_tier}), Related Videos={len(related_videos)}")
 

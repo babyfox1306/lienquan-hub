@@ -860,7 +860,7 @@ for hero in heroes_data:
     hero["tier_reason"] = "Tướng đa năng, phù hợp với nhiều đội hình."
     hero["hot"] = False
     hero["hot_count"] = 0
-    hero["thumbnail"] = f"https://lienquan.garena.vn/wp-content/themes/aov/images/heroes/{hero['id']}.jpg"
+    hero["thumbnail"] = None
     hero["related_videos"] = []
 
 # Ensure public dir exists
