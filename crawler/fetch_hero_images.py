@@ -2,7 +2,9 @@ import json
 import os
 import re
 import sys
+import time
 import requests
+from bs4 import BeautifulSoup
 
 # Configure stdout to use UTF-8 to prevent console encode errors
 try:
@@ -35,7 +37,7 @@ WIKI_MAPPING = {
   "toro": "Toro",
   "gildur": "Gildur",
   "alice": "Alice",
-  "jinna": "Jinna",
+  "jinna": "Jinnar",
   "volkath": "Volkath",
   "maloch": "Maloch",
   "krixi": "Krixi",
@@ -46,7 +48,8 @@ WIKI_MAPPING = {
   "dirak": "Dirak",
   "elsu": "Elsu",
   "valhein": "Valhein",
-  "lubu": "Lu Bu",       # Fixed ID mapping from lubu -> Lu Bu
+  "lu-bu": "Lu Bu",
+  "lubu": "Lu Bu",  # Map both forms of lubu
   "veres": "Veres",
   "omen": "Omen",
   "ilumia": "Ilumia",
@@ -65,52 +68,127 @@ WIKI_MAPPING = {
   "arthur": "Arthur",
   "keera": "Keera",
   "tel-annas": "Tel'Annas",
-  "raz": "Raz"           # Fixed ID mapping from raz -> Raz
+  "raz": "Raz"      # Raz included for completeness
 }
 
+def clean_image_url(url):
+    if not url:
+        return None
+    if url.startswith("//"):
+        url = "https:" + url
+    
+    # If the URL is a transparent spacer/placeholder GIF, ignore it
+    if "data:image" in url or "placeholder" in url:
+        return None
+        
+    # Replace scaling parameter with standard 500px width for high quality
+    if "scale-to-width-down/" in url:
+        url = re.sub(r'scale-to-width-down/\d+', 'scale-to-width-down/500', url)
+        
+    return url
+
 def fetch_hero_image_url(hero_name):
-    # Formulate MediaWiki Action API URL (Bypasses Cloudflare block completely!)
-    url = "https://arenaofvalor.fandom.com/api.php"
-    params = {
-        "action": "query",
-        "titles": hero_name,
-        "prop": "pageimages",
-        "format": "json",
-        "pithumbsize": 500
-    }
+    # Formulate URL (replace spaces with underscores)
+    hero_name_url = hero_name.replace(" ", "_")
+    url = f"https://aov.fandom.com/wiki/{hero_name_url}"
     
     headers = {
-        "User-Agent": "LienQuanHubBot/1.0 (https://www.lienquanhub.xyz; contact@lienquanhub.xyz) requests/2.31.0"
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+        "Accept-Language": "en-US,en;q=0.9",
+        "Connection": "keep-alive"
     }
     
+    print(f"  [HTML] Fetching HTML from {url}...")
     try:
-        response = requests.get(url, params=params, headers=headers, timeout=10)
-        if response.status_code != 200:
-            print(f"  [Error] API returned status {response.status_code} for {hero_name}")
-            return None
-            
-        data = response.json()
-        pages = data.get("query", {}).get("pages", {})
+        response = requests.get(url, headers=headers, timeout=10)
         
-        for page_id, page_data in pages.items():
-            if page_id == "-1":
-                print(f"  [Warning] Page '{hero_name}' not found on Wiki.")
-                return None
+        if response.status_code == 200:
+            soup = BeautifulSoup(response.text, "html.parser")
             
-            thumbnail = page_data.get("thumbnail", {})
-            source_url = thumbnail.get("source")
-            if source_url:
-                return source_url
-                
-        print(f"  [Warning] No thumbnail found in API response for {hero_name}")
-        return None
-        
+            # Step 1: Parse HTML finding <img> with class "pi-image-thumbnail"
+            img_tag = soup.find("img", class_="pi-image-thumbnail")
+            if img_tag:
+                img_url = img_tag.get("data-src") or img_tag.get("src")
+                cleaned = clean_image_url(img_url)
+                if cleaned:
+                    print(f"    [Found] pi-image-thumbnail: {cleaned[:80]}...")
+                    return cleaned
+            
+            # Step 2: Parse HTML finding og:image meta tag
+            og_tag = soup.find("meta", property="og:image")
+            if og_tag:
+                og_url = og_tag.get("content")
+                cleaned = clean_image_url(og_url)
+                if cleaned:
+                    print(f"    [Found] og:image: {cleaned[:80]}...")
+                    return cleaned
+                    
+            print("    [Warning] No image found in standard HTML tags.")
+            
+        else:
+            print(f"    [Blocked/Error] HTML page returned status code: {response.status_code}")
+            
     except Exception as e:
-        print(f"  [Exception] Failed to fetch image via API for {hero_name}: {str(e)}")
-        return None
+        print(f"    [Exception] Failed to fetch HTML directly: {str(e)}")
+        
+    # FALLBACK: MediaWiki Action API (whitelisted, bypassing Cloudflare WAF completely)
+    print("  [API] Falling back to MediaWiki API...")
+    api_url = "https://arenaofvalor.fandom.com/api.php"
+    api_headers = {
+        "User-Agent": "LienQuanHubBot/1.0 (https://www.lienquanhub.xyz) requests/2.32.5"
+    }
+    
+    # Method A: action=query & prop=pageimages
+    try:
+        params = {
+            "action": "query",
+            "titles": hero_name,
+            "prop": "pageimages",
+            "format": "json",
+            "pithumbsize": 500
+        }
+        res = requests.get(api_url, params=params, headers=api_headers, timeout=10)
+        if res.status_code == 200:
+            data = res.json()
+            pages = data.get("query", {}).get("pages", {})
+            for page_id, page_data in pages.items():
+                if page_id != "-1" and "thumbnail" in page_data:
+                    source_url = page_data["thumbnail"].get("source")
+                    cleaned = clean_image_url(source_url)
+                    if cleaned:
+                        print(f"    [API SUCCESS] Pageimages: {cleaned[:80]}...")
+                        return cleaned
+    except Exception as e:
+        print(f"    [API Warning] Method A (pageimages) failed: {str(e)}")
+        
+    # Method B: action=parse (get wikitext parsed HTML)
+    try:
+        params = {
+            "action": "parse",
+            "page": hero_name,
+            "format": "json",
+            "prop": "text"
+        }
+        res = requests.get(api_url, params=params, headers=api_headers, timeout=10)
+        if res.status_code == 200:
+            html_content = res.json().get("parse", {}).get("text", {}).get("*", "")
+            if html_content:
+                soup = BeautifulSoup(html_content, "html.parser")
+                # Search for the first valid mw-file-element image
+                for img in soup.find_all("img", class_="mw-file-element"):
+                    img_url = img.get("data-src") or img.get("src")
+                    cleaned = clean_image_url(img_url)
+                    if cleaned:
+                        print(f"    [API SUCCESS] Parsed mw-file-element: {cleaned[:80]}...")
+                        return cleaned
+    except Exception as e:
+        print(f"    [API Error] Method B (parse HTML) failed: {str(e)}")
+        
+    return None
 
 def main():
-    print("=== STARTING HERO WIKI IMAGE CRAWLER (API BASED) ===")
+    print("=== STARTING HERO WIKI IMAGE CRAWLER (HTML & API WORKFLOW) ===")
     
     if not os.path.exists(HEROES_PATH):
         print(f"Error: {HEROES_PATH} does not exist.")
@@ -152,6 +230,12 @@ def main():
                 hero["thumbnail"] = None
                 print("  [NULL] No Wiki Image and No YouTube Video. Set thumbnail to NULL (Gradient Fallback)")
                 placeholder_count += 1
+                
+        # Add a polite delay of 0.5s between requests
+        time.sleep(0.5)
+                
+    # Update timestamp
+    heroes_data["updated_at"] = time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime())
                 
     # Save back
     with open(HEROES_PATH, "w", encoding="utf-8") as f:
