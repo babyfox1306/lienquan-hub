@@ -3,17 +3,13 @@ import NavBar from '../../components/NavBar';
 import Footer from '../../components/Footer';
 import Link from 'next/link';
 
-export default function MetaAnalysis() {
+export default function JungleGuide() {
   return (
     <div className="min-h-screen bg-slate-950 text-white flex flex-col">
       <Head>
-        <title>Phân tích Meta mùa 4 2025 - Liên Quân Hub</title>
-        <meta name="description" content="Phân tích chi tiết Meta mùa 4 2025, top các vị tướng thống trị và chiến thuật hiệu quả nhất trong Liên Quân Mobile." />
-        <meta name="keywords" content="Meta game, Liên Quân Mobile, mùa 4 2025, giải đấu, top tướng" />
-        <meta property="og:title" content="Phân tích Meta mùa 4 2025" />
-        <meta property="og:description" content="Phân tích chi tiết xu hướng chiến thuật và những tướng mạnh nhất meta" />
-        <meta property="og:type" content="article" />
-        <link rel="canonical" href="https://www.lienquanhub.xyz/blog/meta-analysis-season-4" />
+        <title>Hướng dẫn đi rừng mùa 4 2025 - Liên Quân Hub</title>
+        <meta name="description" content="Chi tiết cách đi rừng, timing gank và kiểm soát bản đồ hiệu quả nhất mùa 4 2025." />
+        <link rel="canonical" href="https://www.lienquanhub.xyz/blog/jungle-guide-season-4" />
       </Head>
       
       <NavBar />
@@ -26,66 +22,60 @@ export default function MetaAnalysis() {
             <li>/</li>
             <li><Link href="/blog" className="hover:text-white transition-colors">Blog</Link></li>
             <li>/</li>
-            <li className="text-slate-200 font-semibold">Phân tích Meta</li>
+            <li className="text-slate-200 font-semibold">Hướng dẫn đi rừng</li>
           </ul>
         </nav>
 
         {/* Article Header */}
         <div className="space-y-4">
           <span className="badge badge-error text-white font-bold px-2.5 py-1 text-xs uppercase">
-            Meta Game
+            Guide Position
           </span>
           <h1 className="text-3xl sm:text-5xl font-black tracking-tight text-white leading-tight">
-            Phân tích Meta mùa 4 2025 - Top tướng và chiến thuật hiệu quả
+            Hướng dẫn đi rừng mùa 4 - Từ Bronze đến Master cực dễ
           </h1>
           <p className="text-lg sm:text-xl text-slate-400">
-            Làm chủ meta giải đấu chuyên nghiệp và áp dụng cực kì hiệu quả cho leo rank đơn/đôi!
+            Trở thành linh hồn của đội hình, gánh team bằng tư duy di chuyển và timing chuẩn xác!
           </p>
           <div className="flex flex-wrap items-center gap-4 text-xs font-semibold text-slate-500 pt-2">
-            <span>📅 24 tháng 10, 2025</span>
+            <span>📅 22 tháng 10, 2025</span>
             <span>⏱️ 15 phút đọc</span>
-            <span>👁️ 3,120 lượt xem</span>
+            <span>👁️ 3,982 lượt xem</span>
           </div>
         </div>
 
         {/* Featured Image */}
         <div className="overflow-hidden rounded-3xl border border-slate-800/80 bg-slate-950 aspect-[16/9] relative">
           <img 
-            src="https://i.ytimg.com/vi/Ksvv3l9Bikg/maxresdefault.jpg" 
-            alt="Meta Liên Quân Mobile"
+            src="https://i.ytimg.com/vi/dQw4w9WgXcQ/maxresdefault.jpg" 
+            alt="Đi rừng Liên Quân Mobile"
             className="w-full h-full object-cover"
           />
         </div>
 
-        {/* Article Content */}
+        {/* Content */}
         <div className="space-y-8">
-          {/* Overview */}
           <div className="card bg-slate-900/40 border border-slate-800/80 backdrop-blur-sm rounded-2xl">
             <div className="card-body p-6 sm:p-8">
               <h2 className="text-2xl font-black text-white tracking-tight border-l-4 border-red-500 pl-3 mb-4">
-                🎯 Xu hướng meta mùa mới
+                🎯 Tư duy đi rừng hiện đại
               </h2>
               <p className="text-slate-300 leading-relaxed">
-                Mùa 4 mang đến hàng loạt tinh chỉnh sức mạnh trang bị và cơ chế bản đồ cực kì quan trọng. Sự trở lại mạnh mẽ của lối chơi xoay quanh các xạ thủ mạnh về cuối game (Hyper Carry) đang là tâm điểm. Bên cạnh đó, các đấu sĩ đi rừng có độ chống chịu cao cũng đang tỏ ra vượt trội so với sát thủ truyền thống.
+                Người đi rừng thông minh không chỉ cắm đầu farm quái rừng. Hãy luôn chú ý đường rồng và đường tà thần, lên kế hoạch gank từ trước dựa trên hướng di chuyển của rừng đối phương và luôn ưu tiên dọn rừng nhanh để kiểm soát rồng đầu trận.
               </p>
             </div>
           </div>
         </div>
 
-        {/* Social Share */}
+        {/* Share */}
         <div className="card bg-slate-900/40 border border-slate-800 backdrop-blur-sm rounded-2xl">
           <div className="card-body p-6 sm:p-8 text-center space-y-4">
-            <h3 className="text-lg font-bold text-white">📤 Chia sẻ cẩm nang cho đồng đội</h3>
+            <h3 className="text-lg font-bold text-white">📤 Chia sẻ cẩm nang</h3>
             <div className="flex justify-center flex-wrap gap-3">
-              <a href={`https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent('https://www.lienquanhub.xyz/blog/meta-analysis-season-4')}`} 
+              <a href={`https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent('https://www.lienquanhub.xyz/blog/jungle-guide-season-4')}`} 
                  target="_blank" rel="noopener noreferrer" 
                  className="btn btn-sm btn-error text-white font-bold rounded-xl px-5">
                 📘 Facebook
-              </a>
-              <a href={`https://t.me/share/url?url=${encodeURIComponent('https://www.lienquanhub.xyz/blog/meta-analysis-season-4')}&text=${encodeURIComponent('Phân tích Meta mùa 4 2025')}`} 
-                 target="_blank" rel="noopener noreferrer" 
-                 className="btn btn-sm btn-info text-white font-bold rounded-xl px-5">
-                📱 Telegram
               </a>
             </div>
           </div>

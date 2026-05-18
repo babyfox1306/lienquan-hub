@@ -1,10 +1,11 @@
 import Head from 'next/head';
 import NavBar from '../../components/NavBar';
+import Footer from '../../components/Footer';
 import Link from 'next/link';
 
 export default function VioletGuide() {
   return (
-    <div className="min-h-screen bg-base-200">
+    <div className="min-h-screen bg-slate-950 text-white flex flex-col">
       <Head>
         <title>Hướng dẫn build Violet mùa 4 2025 - Liên Quân Hub</title>
         <meta name="description" content="Hướng dẫn chi tiết cách build đồ, combo skill và chiến thuật sử dụng Violet hiệu quả nhất trong Liên Quân Mobile mùa 4 2025" />
@@ -13,300 +14,190 @@ export default function VioletGuide() {
         <meta property="og:description" content="Hướng dẫn chi tiết cách build đồ và sử dụng Violet hiệu quả nhất" />
         <meta property="og:type" content="article" />
         <link rel="canonical" href="https://www.lienquanhub.xyz/blog/violet-build-guide-2025" />
-        
-        {/* Structured Data */}
-        <script type="application/ld+json" dangerouslySetInnerHTML={{
-          __html: JSON.stringify({
-            "@context": "https://schema.org",
-            "@type": "Article",
-            "headline": "Hướng dẫn build Violet mùa 4 2025",
-            "description": "Hướng dẫn chi tiết cách build đồ, combo skill và chiến thuật sử dụng Violet hiệu quả nhất",
-            "author": {
-              "@type": "Organization",
-              "name": "Liên Quân Hub"
-            },
-            "publisher": {
-              "@type": "Organization",
-              "name": "Liên Quân Hub",
-              "logo": {
-                "@type": "ImageObject",
-                "url": "https://www.lienquanhub.xyz/logo.png"
-              }
-            },
-            "datePublished": "2025-10-24",
-            "dateModified": "2025-10-24",
-            "mainEntityOfPage": {
-              "@type": "WebPage",
-              "@id": "https://www.lienquanhub.xyz/blog/violet-build-guide-2025"
-            }
-          })
-        }} />
       </Head>
       
       <NavBar />
       
-      <main className="max-w-4xl mx-auto p-6">
+      <main className="max-w-4xl mx-auto p-4 sm:p-6 lg:p-8 flex-grow w-full space-y-8">
         {/* Breadcrumb */}
-        <nav className="text-sm breadcrumbs mb-6">
-          <ul>
-            <li><Link href="/">Trang chủ</Link></li>
-            <li><Link href="/blog">Blog</Link></li>
-            <li>Hướng dẫn Violet</li>
+        <nav className="text-sm text-slate-400 mb-2">
+          <ul className="flex items-center gap-2">
+            <li><Link href="/" className="hover:text-white transition-colors">Trang chủ</Link></li>
+            <li>/</li>
+            <li><Link href="/blog" className="hover:text-white transition-colors">Blog</Link></li>
+            <li>/</li>
+            <li className="text-slate-200 font-semibold">Hướng dẫn Violet</li>
           </ul>
         </nav>
 
         {/* Article Header */}
-        <div className="mb-8">
-          <div className="badge badge-primary mb-4">Guide Hero</div>
-          <h1 className="text-4xl font-bold mb-4">Hướng dẫn build Violet mùa 4 2025</h1>
-          <p className="text-xl text-base-content/70 mb-6">
-            Từ cơ bản đến cao thủ - Cách sử dụng Violet hiệu quả nhất
+        <div className="space-y-4">
+          <span className="badge badge-error text-white font-bold px-2.5 py-1 text-xs uppercase">
+            Guide Hero
+          </span>
+          <h1 className="text-3xl sm:text-5xl font-black tracking-tight text-white leading-tight">
+            Hướng dẫn build Violet mùa 4 2025
+          </h1>
+          <p className="text-lg sm:text-xl text-slate-400">
+            Từ cơ bản đến cao thủ - Cách sử dụng Violet hiệu quả nhất gánh team cực mạnh!
           </p>
-          <div className="flex items-center gap-4 text-sm text-base-content/60">
+          <div className="flex flex-wrap items-center gap-4 text-xs font-semibold text-slate-500 pt-2">
             <span>📅 24 tháng 10, 2025</span>
-            <span>📖 8 phút đọc</span>
+            <span>⏱️ 8 phút đọc</span>
             <span>👁️ 1,234 lượt xem</span>
           </div>
         </div>
 
         {/* Featured Image */}
-        <div className="mb-8">
+        <div className="overflow-hidden rounded-3xl border border-slate-800/80 bg-slate-950 aspect-[16/9] relative">
           <img 
             src="https://i.ytimg.com/vi/dQw4w9WgXcQ/maxresdefault.jpg" 
             alt="Violet Liên Quân Mobile"
-            className="w-full h-64 md:h-96 object-cover rounded-xl"
+            className="w-full h-full object-cover"
           />
         </div>
 
         {/* Article Content */}
-        <div className="prose max-w-none">
-          <div className="card bg-base-100 shadow-lg mb-8">
-            <div className="card-body">
-              <h2 className="text-2xl font-bold mb-4">🎯 Tổng quan về Violet</h2>
-              <p className="text-base-content/80 leading-relaxed mb-4">
-                Violet là một trong những ADC mạnh nhất hiện tại trong Liên Quân Mobile với khả năng gây sát thương cực cao và khả năng kiting xuất sắc. Với bộ kỹ năng đa dạng và linh hoạt, Violet có thể đảm nhận vai trò carry team một cách hiệu quả.
+        <div className="space-y-8">
+          {/* Overview */}
+          <div className="card bg-slate-900/40 border border-slate-800/80 backdrop-blur-sm rounded-2xl">
+            <div className="card-body p-6 sm:p-8">
+              <h2 className="text-2xl font-black text-white tracking-tight border-l-4 border-red-500 pl-3 mb-4">
+                🎯 Tổng quan về Violet
+              </h2>
+              <p className="text-slate-300 leading-relaxed">
+                Violet là một trong những xạ thủ (ADC) mạnh nhất hiện tại trong Liên Quân Mobile với khả năng gây sát thương vật lý cực cao và khả năng kiting (thả diều) xuất sắc. Với bộ kỹ năng linh hoạt, Violet có thể dễ dàng gánh đội nếu được bảo kê tốt ở giai đoạn đầu game.
               </p>
-              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 mt-6">
-                <div className="stat bg-primary/10 rounded-lg p-4">
-                  <div className="stat-title text-primary">Độ khó</div>
-                  <div className="stat-value text-primary text-2xl">Trung bình</div>
+              <div className="grid grid-cols-1 sm:grid-cols-3 gap-4 mt-6">
+                <div className="bg-slate-950/60 p-4 rounded-xl border border-slate-800 text-center">
+                  <div className="text-xs text-slate-500 font-bold uppercase tracking-wider">Độ khó</div>
+                  <div className="text-xl font-bold text-red-500 mt-1">Trung bình</div>
                 </div>
-                <div className="stat bg-secondary/10 rounded-lg p-4">
-                  <div className="stat-title text-secondary">Vị trí</div>
-                  <div className="stat-value text-secondary text-2xl">ADC</div>
+                <div className="bg-slate-950/60 p-4 rounded-xl border border-slate-800 text-center">
+                  <div className="text-xs text-slate-500 font-bold uppercase tracking-wider">Vị trí</div>
+                  <div className="text-xl font-bold text-orange-500 mt-1">ADC (Đi Rồng)</div>
                 </div>
-                <div className="stat bg-accent/10 rounded-lg p-4">
-                  <div className="stat-title text-accent">Tier</div>
-                  <div className="stat-value text-accent text-2xl">S</div>
+                <div className="bg-slate-950/60 p-4 rounded-xl border border-slate-800 text-center">
+                  <div className="text-xs text-slate-500 font-bold uppercase tracking-wider">Độ HOT / Meta</div>
+                  <div className="text-xl font-bold text-yellow-500 mt-1">Tier S</div>
                 </div>
               </div>
             </div>
           </div>
 
-          <div className="card bg-base-100 shadow-lg mb-8">
-            <div className="card-body">
-              <h2 className="text-2xl font-bold mb-4">⚔️ Build đồ tối ưu</h2>
+          {/* Build Gear */}
+          <div className="card bg-slate-900/40 border border-slate-800/80 backdrop-blur-sm rounded-2xl">
+            <div className="card-body p-6 sm:p-8">
+              <h2 className="text-2xl font-black text-white tracking-tight border-l-4 border-red-500 pl-3 mb-4">
+                ⚔️ Build đồ tối ưu mùa 4 2025
+              </h2>
               
-              <h3 className="text-xl font-semibold mb-3">Build chính (Core Build)</h3>
-              <div className="overflow-x-auto mb-6">
-                <table className="table table-zebra w-full">
+              <h3 className="text-lg font-bold text-slate-200 mb-3">Lối lên đồ chính (Core Build):</h3>
+              <div className="overflow-x-auto rounded-xl border border-slate-800 bg-slate-950/60 mb-6">
+                <table className="table table-zebra w-full text-slate-300">
                   <thead>
-                    <tr>
+                    <tr className="border-b border-slate-800 text-white font-bold bg-slate-900/40">
                       <th>Thứ tự</th>
-                      <th>Tên trang bị</th>
-                      <th>Lý do chọn</th>
+                      <th>Trang bị</th>
+                      <th>Lý do lựa chọn</th>
                     </tr>
                   </thead>
                   <tbody>
-                    <tr>
-                      <td>1</td>
-                      <td>Warrior Boots</td>
-                      <td>Tăng tốc độ di chuyển và khả năng sống sót</td>
+                    <tr className="border-b border-slate-800">
+                      <td className="font-bold text-slate-500">1</td>
+                      <td className="font-bold text-red-400">Giày Du Mục</td>
+                      <td>Tăng tốc đánh và khả năng di chuyển linh hoạt đầu trận</td>
                     </tr>
-                    <tr>
-                      <td>2</td>
-                      <td>Claves Sancti</td>
-                      <td>Tăng sát thương và tốc độ đánh</td>
+                    <tr className="border-b border-slate-800">
+                      <td className="font-bold text-slate-500">2</td>
+                      <td className="font-bold text-orange-400">Thần Cung</td>
+                      <td>Trang bị chấn phái tăng tỉ lệ chí mạng và sát thương cực khủng</td>
                     </tr>
-                    <tr>
-                      <td>3</td>
-                      <td>Bow of Slaughter</td>
-                      <td>Tăng sát thương và khả năng hồi máu</td>
+                    <tr className="border-b border-slate-800">
+                      <td className="font-bold text-slate-500">3</td>
+                      <td className="font-bold text-yellow-400">Song Đao Bão Táp</td>
+                      <td>Tăng tối đa tốc độ đánh và kháng hiệu ứng khống chế</td>
                     </tr>
-                    <tr>
-                      <td>4</td>
-                      <td>Blade of Eternity</td>
-                      <td>Tăng sát thương và khả năng sống sót</td>
+                    <tr className="border-b border-slate-800">
+                      <td className="font-bold text-slate-500">4</td>
+                      <td className="font-bold text-green-400">Cung Tà Ma</td>
+                      <td>Giúp Violet hồi máu tức thì trong giao tranh (All-in lật kèo)</td>
                     </tr>
-                    <tr>
-                      <td>5</td>
-                      <td>Fafnir's Talon</td>
-                      <td>Tăng sát thương và khả năng xuyên giáp</td>
+                    <tr className="border-b border-slate-800">
+                      <td className="font-bold text-slate-500">5</td>
+                      <td className="font-bold text-blue-400">Kiếm Muramasa</td>
+                      <td>Xuyên giáp cực mạnh để trị các đấu sĩ và đỡ đòn địch</td>
                     </tr>
-                    <tr>
-                      <td>6</td>
-                      <td>Fenrir's Tooth</td>
-                      <td>Tăng sát thương và khả năng hạ gục</td>
+                    <tr className="border-b border-slate-800">
+                      <td className="font-bold text-slate-500">6</td>
+                      <td className="font-bold text-purple-400">Giáp Hộ Mệnh</td>
+                      <td>Mạng thứ hai quý giá trong giai đoạn cuối game căng thẳng</td>
                     </tr>
                   </tbody>
                 </table>
               </div>
 
-              <h3 className="text-xl font-semibold mb-3">Build thay thế</h3>
-              <div className="alert alert-info">
-                <div>
-                  <h4 className="font-bold">Build chống pháp sư:</h4>
-                  <p className="text-sm">Thay Blade of Eternity bằng Aegis để tăng khả năng chống phép</p>
-                </div>
+              <div className="p-4 bg-yellow-500/10 border border-yellow-500/20 rounded-xl">
+                <h4 className="font-bold text-yellow-500 mb-1">💡 Mẹo đổi đồ nhanh cuối game:</h4>
+                <p className="text-sm text-slate-400 leading-relaxed">
+                  Khi Giáp Hộ Mệnh đang trong thời gian hồi chiêu, hãy nhanh tay bán đi và thay thế bằng <strong>Liềm Đoạt Mệnh</strong> hoặc <strong>Nham Thuẫn</strong> để gia tăng tối đa khả năng sống sót trong giao tranh quyết định.
+                </p>
               </div>
             </div>
           </div>
 
-          <div className="card bg-base-100 shadow-lg mb-8">
-            <div className="card-body">
-              <h2 className="text-2xl font-bold mb-4">🎮 Combo kỹ năng</h2>
-              
-              <h3 className="text-xl font-semibold mb-3">Combo cơ bản</h3>
-              <div className="space-y-4">
-                <div className="p-4 bg-primary/10 rounded-lg">
-                  <h4 className="font-bold text-primary mb-2">Combo 1: Poke từ xa</h4>
-                  <p className="text-sm text-base-content/80">
-                    <strong>Skill 1 → Auto Attack → Skill 2</strong><br/>
-                    Sử dụng để poke đối thủ từ xa, gây sát thương mà không bị phản công
-                  </p>
-                </div>
-                <div className="p-4 bg-secondary/10 rounded-lg">
-                  <h4 className="font-bold text-secondary mb-2">Combo 2: All-in</h4>
-                  <p className="text-sm text-base-content/80">
-                    <strong>Ultimate → Skill 1 → Auto Attack → Skill 2</strong><br/>
-                    Combo toàn lực khi đối thủ đã bị hạ máu, đảm bảo hạ gục
-                  </p>
-                </div>
-                <div className="p-4 bg-accent/10 rounded-lg">
-                  <h4 className="font-bold text-accent mb-2">Combo 3: Kiting</h4>
-                  <p className="text-sm text-base-content/80">
-                    <strong>Auto Attack → Di chuyển → Skill 1 → Di chuyển</strong><br/>
-                    Kỹ thuật kiting để duy trì khoảng cách và gây sát thương liên tục
-                  </p>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div className="card bg-base-100 shadow-lg mb-8">
-            <div className="card-body">
-              <h2 className="text-2xl font-bold mb-4">💡 Tips và chiến thuật</h2>
-              
-              <div className="space-y-6">
-                <div>
-                  <h3 className="text-xl font-semibold mb-3">Giai đoạn đầu game</h3>
-                  <ul className="list-disc list-inside space-y-2 text-base-content/80">
-                    <li>Tập trung farm minion để có gold và kinh nghiệm</li>
-                    <li>Sử dụng Skill 1 để poke đối thủ và clear wave</li>
-                    <li>Luôn giữ khoảng cách an toàn với đối thủ</li>
-                    <li>Ưu tiên mua Warrior Boots đầu tiên</li>
-                  </ul>
-                </div>
-
-                <div>
-                  <h3 className="text-xl font-semibold mb-3">Giai đoạn giữa game</h3>
-                  <ul className="list-disc list-inside space-y-2 text-base-content/80">
-                    <li>Tham gia các team fight với vị trí an toàn</li>
-                    <li>Sử dụng Ultimate để hạ gục đối thủ quan trọng</li>
-                    <li>Luôn có vision control để tránh bị gank</li>
-                    <li>Ưu tiên mua Claves Sancti và Bow of Slaughter</li>
-                  </ul>
-                </div>
-
-                <div>
-                  <h3 className="text-xl font-semibold mb-3">Giai đoạn cuối game</h3>
-                  <ul className="list-disc list-inside space-y-2 text-base-content/80">
-                    <li>Luôn ở phía sau team trong team fight</li>
-                    <li>Sử dụng kỹ thuật kiting để duy trì khoảng cách</li>
-                    <li>Ưu tiên hạ gục ADC và mage của đối thủ</li>
-                    <li>Tham gia push tower và Baron/Dragon</li>
-                  </ul>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div className="card bg-base-100 shadow-lg mb-8">
-            <div className="card-body">
-              <h2 className="text-2xl font-bold mb-4">⚠️ Lưu ý quan trọng</h2>
+          {/* Combos */}
+          <div className="card bg-slate-900/40 border border-slate-800/80 backdrop-blur-sm rounded-2xl">
+            <div className="card-body p-6 sm:p-8">
+              <h2 className="text-2xl font-black text-white tracking-tight border-l-4 border-red-500 pl-3 mb-4">
+                🎮 Combo kỹ năng chuẩn cao thủ
+              </h2>
               
               <div className="space-y-4">
-                <div className="alert alert-warning">
-                  <div>
-                    <h4 className="font-bold">Điểm yếu của Violet:</h4>
-                    <ul className="text-sm mt-2">
-                      <li>• Không có khả năng escape tốt</li>
-                      <li>• Dễ bị gank nếu không có vision</li>
-                      <li>• Cần thời gian để scale</li>
-                    </ul>
-                  </div>
+                <div className="p-4 bg-red-500/5 border border-red-500/10 rounded-xl space-y-2">
+                  <h4 className="font-bold text-red-500">🔥 Combo 1: Cấu rỉa tầm xa</h4>
+                  <p className="text-sm text-slate-300">
+                    <strong>Chiêu 1 (Lộn bắn) ➔ Đánh thường ➔ Chiêu 2 (Lựu đạn) để làm chậm</strong>
+                  </p>
+                  <p className="text-xs text-slate-400 leading-relaxed">
+                    Sử dụng liên tục trong giai đoạn đi đường để cấu rỉa máu xạ thủ địch từ ngoài tầm đánh thường của chúng.
+                  </p>
                 </div>
-                
-                <div className="alert alert-error">
-                  <div>
-                    <h4 className="font-bold">Tướng counter Violet:</h4>
-                    <ul className="text-sm mt-2">
-                      <li>• Nakroth (khả năng gap close)</li>
-                      <li>• Zuka (burst damage cao)</li>
-                      <li>• Murad (khả năng assassinate)</li>
-                    </ul>
-                  </div>
+                <div className="p-4 bg-orange-500/5 border border-orange-500/10 rounded-xl space-y-2">
+                  <h4 className="font-bold text-orange-500">⚡ Combo 2: Dứt điểm nhanh (Burst Damage)</h4>
+                  <p className="text-sm text-slate-300">
+                    <strong>Chiêu 1 ➔ Đánh thường ➔ Chiêu 3 (Pháo Đại) ➔ Đánh thường</strong>
+                  </p>
+                  <p className="text-xs text-slate-400 leading-relaxed">
+                    Khi kẻ địch còn khoảng dưới 40% máu, combo này sẽ dồn một lượng sát thương chí mạng cực lớn khiến đối phương không kịp trở tay.
+                  </p>
                 </div>
               </div>
-            </div>
-          </div>
-        </div>
-
-        {/* Related Articles */}
-        <div className="card bg-base-100 shadow-lg mb-8">
-          <div className="card-body">
-            <h2 className="card-title text-2xl mb-4">📚 Bài viết liên quan</h2>
-            <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-              <Link href="/blog/meta-analysis-season-4" className="card bg-base-200 hover:bg-base-300 transition-colors">
-                <div className="card-body p-4">
-                  <h3 className="font-bold">Phân tích Meta mùa 4 2025</h3>
-                  <p className="text-sm text-base-content/70">Top tướng và chiến thuật hiện tại</p>
-                </div>
-              </Link>
-              <Link href="/blog/rank-up-tips-diamond" className="card bg-base-200 hover:bg-base-300 transition-colors">
-                <div className="card-body p-4">
-                  <h3 className="font-bold">Bí quyết leo rank từ Vàng lên Kim Cương</h3>
-                  <p className="text-sm text-base-content/70">Chiến thuật thực chiến từ cao thủ</p>
-                </div>
-              </Link>
             </div>
           </div>
         </div>
 
         {/* Social Share */}
-        <div className="card bg-base-100 shadow-lg">
-          <div className="card-body text-center">
-            <h3 className="card-title text-xl justify-center mb-4">📤 Chia sẻ bài viết</h3>
-            <div className="flex justify-center gap-4">
+        <div className="card bg-slate-900/40 border border-slate-800 backdrop-blur-sm rounded-2xl">
+          <div className="card-body p-6 sm:p-8 text-center space-y-4">
+            <h3 className="text-lg font-bold text-white">📤 Chia sẻ cẩm nang này cho đồng đội</h3>
+            <div className="flex justify-center flex-wrap gap-3">
               <a href={`https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent('https://www.lienquanhub.xyz/blog/violet-build-guide-2025')}`} 
                  target="_blank" rel="noopener noreferrer" 
-                 className="btn btn-primary">
+                 className="btn btn-sm btn-error text-white font-bold rounded-xl px-5">
                 📘 Facebook
               </a>
               <a href={`https://t.me/share/url?url=${encodeURIComponent('https://www.lienquanhub.xyz/blog/violet-build-guide-2025')}&text=${encodeURIComponent('Hướng dẫn build Violet mùa 4 2025')}`} 
                  target="_blank" rel="noopener noreferrer" 
-                 className="btn btn-info">
+                 className="btn btn-sm btn-info text-white font-bold rounded-xl px-5">
                 📱 Telegram
-              </a>
-              <a href={`https://twitter.com/intent/tweet?url=${encodeURIComponent('https://www.lienquanhub.xyz/blog/violet-build-guide-2025')}&text=${encodeURIComponent('Hướng dẫn build Violet mùa 4 2025')}`} 
-                 target="_blank" rel="noopener noreferrer" 
-                 className="btn btn-success">
-                🐦 Twitter
               </a>
             </div>
           </div>
         </div>
       </main>
+
+      <Footer />
     </div>
   );
 }
