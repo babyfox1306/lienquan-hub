@@ -9,6 +9,141 @@ export default function Blog() {
 
   const articles = [
     {
+      id: 'tier-list-s2-2026',
+      title: "Tier List Liên Quân S2 2026 - Bảng Xếp Hạng Tướng Mạnh Nhất Hiện Tại",
+      excerpt: "Chi tiết bảng xếp hạng Tier List Liên Quân Mobile mùa giải S2 2026. Phân tích sức mạnh các vị tướng SS Tier, S Tier thống trị meta để leo rank hiệu quả.",
+      category: 'Meta Game',
+      readTime: '12 phút',
+      date: '2026-05-18',
+      image: 'https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/3/3f/Nakroth_Splash_Art.jpg/revision/latest/scale-to-width-down/500'
+    },
+    {
+      id: 'top-tuong-di-rung-s2-2026',
+      title: "Top 5 Tướng Đi Rừng Mạnh Nhất S2 2026",
+      excerpt: "Danh sách 5 vị tướng đi rừng (Jungle) mạnh nhất Liên Quân Mobile mùa giải S2 2026 giúp bạn gánh team và hủy diệt đội hình đối phương dễ dàng.",
+      category: 'Guide Position',
+      readTime: '10 phút',
+      date: '2026-05-18',
+      image: 'https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/3/3f/Nakroth_Splash_Art.jpg/revision/latest/scale-to-width-down/500'
+    },
+    {
+      id: 'nakroth-build-s2-2026',
+      title: "Build Nakroth S2 2026 - Lên Đồ Mạnh Nhất Theo Meta Hiện Tại",
+      excerpt: "Hướng dẫn chi tiết cách chơi, trang bị, phù hiệu và bảng ngọc cực chuẩn cho Nakroth mùa giải S2 2026. Giáo án gánh team từ cao thủ Liên Quân.",
+      category: 'Guide Hero',
+      readTime: '11 phút',
+      date: '2026-05-18',
+      image: 'https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/3/3f/Nakroth_Splash_Art.jpg/revision/latest/scale-to-width-down/500'
+    },
+    {
+      id: 'murad-build-s2-2026',
+      title: "Build Murad S2 2026 - Cách Chơi Và Lên Đồ Chuẩn",
+      excerpt: "Chi tiết cách lên đồ, bảng ngọc, phù hiệu và cách mở khóa phong ấn chiêu cuối ảo diệu cho Murad mùa S2 2026. Giáo án hủy diệt meta từ cao thủ.",
+      category: 'Guide Hero',
+      readTime: '9 phút',
+      date: '2026-05-18',
+      image: 'https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/5/5e/Murad_Outlaw.png/revision/latest/scale-to-width-down/500'
+    },
+    {
+      id: 'counter-nakroth',
+      title: "Cách Counter Nakroth Hiệu Quả - Tướng Khắc Chế Nakroth S2 2026",
+      excerpt: "Chia sẻ bí kíp khắc chế cứng Nakroth mùa giải S2 2026. Danh sách tướng khống chế cứng và trang bị làm suy yếu thần rừng Nakroth.",
+      category: 'Tips Rank',
+      readTime: '8 phút',
+      date: '2026-05-18',
+      image: 'https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/3/3f/Nakroth_Splash_Art.jpg/revision/latest/scale-to-width-down/500'
+    },
+    {
+      id: 'tuong-manh-nhat-lien-quan-2026',
+      title: "Top 10 Tướng Mạnh Nhất Liên Quân Mobile 2026",
+      excerpt: "Bảng vinh danh 10 vị tướng mạnh mẽ nhất Liên Quân Mobile năm 2026. Thống trị meta các vị trí để gánh team và leo rank thần tốc.",
+      category: 'Meta Game',
+      readTime: '14 phút',
+      date: '2026-05-18',
+      image: 'https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/3/3f/Nakroth_Splash_Art.jpg/revision/latest/scale-to-width-down/500'
+    },
+    {
+      id: 'marja-build-s2-2026',
+      title: "Build Marja S2 2026 - Tướng SS Meta Mạnh Nhất",
+      excerpt: "Hướng dẫn chi tiết lối lên đồ pháp sư Marja mùa giải S2 2026. Phù hiệu hút máu bá đạo và cẩm nang đè bẹp đường giữa đối thủ.",
+      category: 'Guide Hero',
+      readTime: '10 phút',
+      date: '2026-05-18',
+      image: 'https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/c/c9/Marja_Splash_Art.jpg/revision/latest/scale-to-width-down/500'
+    },
+    {
+      id: 'hayate-build-s2-2026',
+      title: "Build Hayate S2 2026 - Xạ Thủ Bá Nhất Meta",
+      excerpt: "Khám phá bộ trang bị sát thương chuẩn chí mạng cực đỉnh cho Hayate mùa giải S2 2026. Giáo án gánh team từ cao thủ Liên Quân.",
+      category: 'Guide Hero',
+      readTime: '11 phút',
+      date: '2026-05-18',
+      image: 'https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/4/41/Hayate_Splash_Art.jpg/revision/latest/scale-to-width-down/500'
+    },
+    {
+      id: 'violet-build-s2-2026',
+      title: "Build Violet S2 2026 - Cách Lên Đồ Chuẩn Meta",
+      excerpt: "Hướng dẫn chi tiết lối lên đồ xạ thủ quốc dân Violet mùa giải S2 2026. Bảng ngọc chí mạng một bắn tiễn kẻ địch lên bảng đếm số.",
+      category: 'Guide Hero',
+      readTime: '10 phút',
+      date: '2026-05-18',
+      image: 'https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/d/df/Violet_Splash_Art.jpg/revision/latest/scale-to-width-down/500'
+    },
+    {
+      id: 'top-tuong-ta-than-s2-2026',
+      title: "Top 5 Tướng Tả Thần Mạnh Nhất S2 2026",
+      excerpt: "Danh sách 5 quân bài đấu sĩ solo đường Tà Thần Caesar mạnh mẽ nhất Liên Quân Mobile mùa giải S2 2026 gánh team cực lực.",
+      category: 'Guide Position',
+      readTime: '10 phút',
+      date: '2026-05-18',
+      image: 'https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/3/3f/Nakroth_Splash_Art.jpg/revision/latest/scale-to-width-down/500'
+    },
+    {
+      id: 'gildur-build-s2-2026',
+      title: "Build Gildur S2 2026 - Đỡ Đòn Cho Team Cực Tốt",
+      excerpt: "Hướng dẫn chi tiết lối lên đồ trợ thủ Gildur mùa giải S2 2026. Cách bắn vàng khống chế cấu rỉa tầm xa cực khó chịu gánh team.",
+      category: 'Guide Hero',
+      readTime: '9 phút',
+      date: '2026-05-18',
+      image: 'https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/7/71/Gildur_Splash_Art.jpg/revision/latest/scale-to-width-down/500'
+    },
+    {
+      id: 'yena-build-s2-2026',
+      title: "Build Yena S2 2026 - Combo Skill Đỉnh Cao",
+      excerpt: "Hướng dẫn chi tiết cách chơi, bộ trang bị và combo 7 chiêu thức ảo diệu cho đấu sĩ Yena solo đường Tà Thần mùa S2 2026.",
+      category: 'Guide Hero',
+      readTime: '11 phút',
+      date: '2026-05-18',
+      image: 'https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/d/d3/Yena_Splash_Art.jpg/revision/latest/scale-to-width-down/500'
+    },
+    {
+      id: 'leo-rank-nhanh-lien-quan-2026',
+      title: "Cách Leo Rank Nhanh Liên Quân Mobile 2026 - Bí Kíp Từ Vàng Lên Kim Cương",
+      excerpt: "Chia sẻ bí kíp và chiến thuật leo rank nhanh chóng trong Liên Quân Mobile năm 2026. Lựa chọn tướng thông minh đè bẹp đối thủ dễ dàng.",
+      category: 'Tips Rank',
+      readTime: '13 phút',
+      date: '2026-05-18',
+      image: 'https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/3/3f/Nakroth_Splash_Art.jpg/revision/latest/scale-to-width-down/500'
+    },
+    {
+      id: 'meta-s2-2026-lien-quan',
+      title: "Meta S2 2026 Liên Quân Mobile - Phân Tích Xu Hướng Tướng Mạnh",
+      excerpt: "Phân tích chi tiết xu hướng chiến thuật và những biến động tướng mạnh nhất trong meta mùa giải S2 2026 Liên Quân Mobile.",
+      category: 'Meta Game',
+      readTime: '12 phút',
+      date: '2026-05-18',
+      image: 'https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/3/3f/Nakroth_Splash_Art.jpg/revision/latest/scale-to-width-down/500'
+    },
+    {
+      id: 'tuong-ho-tro-manh-nhat-2026',
+      title: "Top 5 Tướng Hỗ Trợ Mạnh Nhất S2 2026 Liên Quân Mobile",
+      excerpt: "Bảng xếp hạng 5 vị tướng trợ thủ (Support) bảo kê xạ thủ tốt nhất Liên Quân Mobile mùa giải S2 2026 gánh team cực mạnh.",
+      category: 'Guide Position',
+      readTime: '10 phút',
+      date: '2026-05-18',
+      image: 'https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/7/71/Gildur_Splash_Art.jpg/revision/latest/scale-to-width-down/500'
+    },
+    {
       id: 'azzenka-guide-2025',
       title: "Hướng dẫn Azzen'ka mùa 4 2025 - Tướng mới mạnh nhất hiện tại",
       excerpt: "Azzen'ka là tướng mới được ra mắt trong phiên bản Quang Minh & Hắc Ám với khả năng khống chế cực mạnh và sát thương phép thuật cao. Bài viết này sẽ hướng dẫn chi tiết cách build đồ, combo skill và chiến thuật sử dụng Azzen'ka hiệu quả nhất.",

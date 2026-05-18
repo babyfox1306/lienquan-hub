@@ -37,7 +37,7 @@ export default function HeroDetail({ hero, relatedVideoObjects, allHeroIds }) {
 
   if (!hero) return null;
 
-  // Check if a counter/synergy hero is in our 50-hero list
+  // Check if a counter/synergy hero is in our list
   const getHeroLink = (name) => {
     const slug = name.toLowerCase().replace("'", "").replace("-", " ").trim().replace(/\s+/g, "-");
     const foundId = allHeroIds.find(id => id === slug || id === name.toLowerCase());
@@ -47,15 +47,49 @@ export default function HeroDetail({ hero, relatedVideoObjects, allHeroIds }) {
     return null;
   };
 
+  const faqSchema = {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": `${hero.name} Liên Quân có mạnh trong meta S2 2026 không?`,
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": `${hero.name} hiện tại xếp hạng Tier ${hero.tier}. Đánh giá chi tiết: ${hero.tier_reason}`
+        }
+      },
+      {
+        "@type": "Question",
+        "name": `Cách lên đồ, trang bị mạnh nhất cho ${hero.name} là gì?`,
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": `Bộ trang bị khuyên dùng cho ${hero.name} bao gồm: ${hero.build_recommend.items.join(', ')}. Phép bổ trợ: ${hero.build_recommend.spell}. Phù hiệu: ${hero.build_recommend.emblem}.`
+        }
+      },
+      {
+        "@type": "Question",
+        "name": `Các tướng khắc chế ${hero.name} hiệu quả nhất?`,
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": `Tướng khắc chế ${hero.name} tốt nhất trong trận đấu là: ${hero.counters.join(', ')}.`
+        }
+      }
+    ]
+  };
+
   return (
-    <div className="flex flex-col min-h-screen bg-slate-950">
+    <div className="flex flex-col min-h-screen bg-slate-950 text-white">
       <Head>
-        <title>{`${hero.name} Liên Quân Mobile - Build, Khắc Chế & Guide S2 2026 | Liên Quân Hub`}</title>
-        <meta name="description" content={`Hướng dẫn chơi ${hero.name}: bộ trang bị khuyên dùng, phép bổ trợ, phù hiệu cực mạnh chuẩn meta S2 2026. Xem video hướng dẫn và các tướng khắc chế.`} />
-        <meta property="og:title" content={`${hero.name} Liên Quân Mobile - Build, Khắc Chế & Guide S2 2026 | Liên Quân Hub`} />
-        <meta property="og:description" content={`Hướng dẫn chơi ${hero.name}: bộ trang bị khuyên dùng, phép bổ trợ, phù hiệu cực mạnh chuẩn meta S2 2026. Xem video hướng dẫn và các tướng khắc chế.`} />
+        <title>{`${hero.name} Liên Quân - Build, Counter, Hướng dẫn S2 2026`}</title>
+        <meta name="description" content={`Hướng dẫn chơi ${hero.name} mùa S2 2026: build đồ [${hero.build_recommend.items.slice(0, 2).join(', ')}], khắc chế [${hero.counters.slice(0, 2).join(', ')}]. Cập nhật meta mới nhất.`} />
+        <meta name="keywords" content={`${hero.name.toLowerCase()}, build ${hero.name.toLowerCase()}, counter ${hero.name.toLowerCase()}, hướng dẫn ${hero.name.toLowerCase()} liên quân`} />
+        
+        <meta property="og:title" content={`${hero.name} Liên Quân - Build, Counter, Hướng dẫn S2 2026`} />
+        <meta property="og:description" content={`Hướng dẫn chơi ${hero.name} mùa S2 2026: build đồ [${hero.build_recommend.items.slice(0, 2).join(', ')}], khắc chế [${hero.counters.slice(0, 2).join(', ')}]. Cập nhật meta mới nhất.`} />
         <meta property="og:image" content={hero.thumbnail} />
         <meta property="og:type" content="article" />
+        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }} />
       </Head>
 
       <NavBar />
@@ -66,14 +100,14 @@ export default function HeroDetail({ hero, relatedVideoObjects, allHeroIds }) {
           <ul>
             <li><Link href="/">Trang chủ</Link></li>
             <li><Link href="/tuong">Danh sách Tướng</Link></li>
-            <li className="text-white font-semibold">{hero.name}</li>
+            <li className="text-white font-bold">{hero.name}</li>
           </ul>
         </div>
 
         {/* Two columns layout */}
         <div className="grid grid-cols-1 lg:grid-cols-12 gap-8 items-start">
           
-          {/* LEFT COLUMN: Hero Info, Build, Counters (40%) */}
+          {/* LEFT COLUMN: Hero Info, Build, Counters, Guide (5 cols) */}
           <div className="lg:col-span-5 space-y-6">
             
             {/* Hero Profile Card */}
@@ -117,7 +151,7 @@ export default function HeroDetail({ hero, relatedVideoObjects, allHeroIds }) {
                       </span>
                     ))}
                     {hero.lane.map((l, idx) => (
-                      <span key={idx} className="badge badge-outline border-red-905/50 text-red-400 font-medium">
+                      <span key={idx} className="badge badge-outline border-red-950/50 text-red-400 font-medium">
                         📍 {LANE_MAP[l] || l}
                       </span>
                     ))}
@@ -158,7 +192,7 @@ export default function HeroDetail({ hero, relatedVideoObjects, allHeroIds }) {
                   <h4 className="text-xs font-bold text-slate-400 uppercase mb-2 tracking-wider">Bộ trang bị chính</h4>
                   <div className="flex flex-wrap gap-2">
                     {hero.build_recommend.items.map((item, idx) => (
-                      <span key={idx} className="bg-slate-950 border border-slate-805 text-slate-200 px-3 py-1.5 rounded-lg text-xs font-semibold shadow-inner">
+                      <span key={idx} className="bg-slate-950 border border-slate-800 text-slate-200 px-3 py-1.5 rounded-lg text-xs font-semibold shadow-inner">
                         {item}
                       </span>
                     ))}
@@ -185,59 +219,95 @@ export default function HeroDetail({ hero, relatedVideoObjects, allHeroIds }) {
               </div>
             </div>
 
-            {/* Counters and Synergies Section */}
-            <div className="bg-slate-900/60 backdrop-blur-md border border-slate-800 rounded-2xl p-6 shadow-xl">
-              <h3 className="text-lg font-bold text-white mb-4 flex items-center gap-2">
-                🔄 Tương Khắc & Phối Hợp
+            {/* Guide Playing Section (SEO Enhancements) */}
+            <div className="bg-slate-900/60 backdrop-blur-md border border-slate-800 rounded-2xl p-6 shadow-xl space-y-6">
+              <h3 className="text-lg font-black text-white flex items-center gap-2 border-b border-slate-800/80 pb-3">
+                📖 Hướng dẫn chơi {hero.name}
               </h3>
-              
-              <div className="grid grid-cols-1 sm:grid-cols-2 gap-6">
-                {/* Counters list */}
-                <div>
-                  <h4 className="text-xs font-bold text-red-400 uppercase mb-2 tracking-wider flex items-center gap-1">
-                    🚫 Bị khắc chế bởi
-                  </h4>
-                  <div className="flex flex-col gap-1.5">
-                    {hero.counters.map((c, idx) => {
-                      const link = getHeroLink(c);
-                      return link ? (
-                        <Link key={idx} href={link} className="text-xs font-semibold text-slate-300 hover:text-red-400 transition-colors bg-slate-950/80 border border-slate-850 px-3 py-2 rounded-lg block">
-                          ⚡ {c} (Xem chi tiết)
-                        </Link>
-                      ) : (
-                        <span key={idx} className="text-xs font-semibold text-slate-400 bg-slate-950/40 border border-slate-855/50 px-3 py-2 rounded-lg block">
-                          🛡️ {c}
-                        </span>
-                      );
-                    })}
+
+              {/* Point S & W */}
+              <div className="space-y-3">
+                <h4 className="text-sm font-extrabold text-white">Điểm mạnh & yếu của {hero.name}</h4>
+                <div className="grid grid-cols-1 gap-3">
+                  <div className="bg-slate-950/60 p-4 rounded-xl border border-slate-800/80">
+                    <span className="text-xs font-black text-emerald-400 uppercase tracking-widest block mb-2">🟢 Điểm Mạnh</span>
+                    <ul className="list-disc pl-4 space-y-1.5 text-xs text-slate-300 font-medium">
+                      <li>Sở hữu vị trí sở trường <span className="text-white font-bold">{LANE_MAP[hero.lane[0]] || hero.lane[0]}</span> tối ưu hiệu quả bản đồ.</li>
+                      <li>Phát huy vai trò <span className="text-white font-bold">{hero.role.map(r => ROLE_MAP[r] || r).join(' & ')}</span> gánh team cực lực.</li>
+                      <li>Sức mạnh vượt trội: {hero.description}</li>
+                    </ul>
+                  </div>
+                  <div className="bg-slate-950/60 p-4 rounded-xl border border-slate-800/80">
+                    <span className="text-xs font-black text-red-400 uppercase tracking-widest block mb-2">🔴 Điểm Yếu</span>
+                    <ul className="list-disc pl-4 space-y-1.5 text-xs text-slate-300 font-medium">
+                      <li>Độ khó ở mức <span className="text-white font-bold capitalize">{hero.difficulty === 'hard' ? 'Khó' : hero.difficulty === 'medium' ? 'Trung bình' : 'Dễ'}</span> đòi hỏi kỹ năng xử lý tay cao.</li>
+                      <li>Dễ bị khắc chế hoặc thả diều bởi các đấu sĩ khống chế cứng như {hero.counters.join(', ')}.</li>
+                      <li>Cần có sự phối hợp hoặc bảo kê tốt của đồng đội như {hero.synergies.join(', ')} để phát huy tối đa sát thương.</li>
+                    </ul>
                   </div>
                 </div>
+              </div>
 
-                {/* Synergies list */}
-                <div>
-                  <h4 className="text-xs font-bold text-emerald-400 uppercase mb-2 tracking-wider flex items-center gap-1">
-                    🤝 Phối hợp tốt với
-                  </h4>
-                  <div className="flex flex-col gap-1.5">
-                    {hero.synergies.map((s, idx) => {
-                      const link = getHeroLink(s);
-                      return link ? (
-                        <Link key={idx} href={link} className="text-xs font-semibold text-slate-300 hover:text-emerald-400 transition-colors bg-slate-950/80 border border-slate-850 px-3 py-2 rounded-lg block">
-                          🔥 {s} (Xem chi tiết)
-                        </Link>
-                      ) : (
-                        <span key={idx} className="text-xs font-semibold text-slate-400 bg-slate-950/40 border border-slate-850/50 px-3 py-2 rounded-lg block">
-                          ⭐ {s}
-                        </span>
-                      );
-                    })}
+              {/* Combo Skill */}
+              <div className="space-y-3 pt-3 border-t border-slate-800/80">
+                <h4 className="text-sm font-extrabold text-white">Combo {hero.name} cơ bản</h4>
+                <div className="bg-slate-950/60 p-4 rounded-xl border border-slate-800/80 space-y-3">
+                  <div className="flex flex-wrap items-center gap-1.5 text-xs font-bold text-red-400 bg-red-500/10 border border-red-500/20 px-3 py-2 rounded-lg justify-center sm:justify-start">
+                    <span>Chiêu 1</span>
+                    <span>➡️</span>
+                    <span>Đánh thường</span>
+                    <span>➡️</span>
+                    <span>Chiêu 2</span>
+                    <span>➡️</span>
+                    <span>Chiêu Cuối (Ulti)</span>
                   </div>
+                  <div className="space-y-2 text-xs text-slate-300 font-medium">
+                    <p><strong>Bước 1:</strong> Sử dụng <strong>{hero.skills.skill1.split(':')[0]}</strong> để tiếp cận nhanh, khống chế hoặc thu hẹp khoảng cách với đối phương.</p>
+                    <p><strong>Bước 2:</strong> Bồi thêm các đòn đánh thường nhằm tích lũy và kích hoạt sát thương nội tại <strong>{hero.skills.passive.split(':')[0]}</strong>.</p>
+                    <p><strong>Bước 3:</strong> Dùng <strong>{hero.skills.skill2.split(':')[0]}</strong> để lướt né chiêu, hồi máu hoặc tối đa hóa tính cơ động.</p>
+                    <p><strong>Bước 4:</strong> Tung chiêu cuối <strong>{hero.skills.skill3.split(':')[0]}</strong> dứt điểm mục tiêu chớp nhoáng.</p>
+                  </div>
+                </div>
+              </div>
+
+              {/* Counter and synergy */}
+              <div className="space-y-3 pt-3 border-t border-slate-800/80">
+                <h4 className="text-sm font-extrabold text-white">Tướng khắc chế {hero.name}</h4>
+                <div className="flex flex-wrap gap-2">
+                  {hero.counters.map((c, idx) => {
+                    const link = getHeroLink(c);
+                    return link ? (
+                      <Link key={idx} href={link} className="text-xs font-bold text-slate-300 hover:text-red-400 bg-slate-950/80 border border-slate-800 px-3 py-1.5 rounded-lg">
+                        ⚡ Khắc chế {c}
+                      </Link>
+                    ) : (
+                      <span key={idx} className="text-xs font-bold text-slate-400 bg-slate-950/40 border border-slate-800/50 px-3 py-1.5 rounded-lg">
+                        🛡️ {c}
+                      </span>
+                    );
+                  })}
+                </div>
+
+                <h4 className="text-sm font-extrabold text-white pt-2">Đồng đội phù hợp</h4>
+                <div className="flex flex-wrap gap-2">
+                  {hero.synergies.map((s, idx) => {
+                    const link = getHeroLink(s);
+                    return link ? (
+                      <Link key={idx} href={link} className="text-xs font-bold text-slate-300 hover:text-emerald-400 bg-slate-950/80 border border-slate-800 px-3 py-1.5 rounded-lg">
+                        🤝 Đồng đội {s}
+                      </Link>
+                    ) : (
+                      <span key={idx} className="text-xs font-bold text-slate-400 bg-slate-950/40 border border-slate-800/50 px-3 py-1.5 rounded-lg">
+                        ⭐ {s}
+                      </span>
+                    );
+                  })}
                 </div>
               </div>
             </div>
           </div>
 
-          {/* RIGHT COLUMN: Skills & Related Videos (60%) */}
+          {/* RIGHT COLUMN: Skills & Related Videos (7 cols) */}
           <div className="lg:col-span-7 space-y-6">
             
             {/* Hero Skills Section */}
@@ -295,7 +365,7 @@ export default function HeroDetail({ hero, relatedVideoObjects, allHeroIds }) {
                   ))}
                 </div>
               ) : (
-                <div className="text-center py-10 bg-slate-950/40 rounded-xl border border-slate-850/80">
+                <div className="text-center py-10 bg-slate-950/40 rounded-xl border border-slate-800">
                   <span className="text-2xl">📭</span>
                   <p className="text-slate-400 text-sm mt-2">Chưa có video thực tế của tướng này trong 14 ngày qua.</p>
                 </div>
