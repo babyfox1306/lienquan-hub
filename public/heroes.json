@@ -43,10 +43,7 @@
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/3/3f/Nakroth_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20201224121203",
-      "related_videos": [
-        "kznVrHWOVHY",
-        "GpGeETKdxeU"
-      ]
+      "related_videos": []
     },
     {
       "id": "murad",
@@ -91,7 +88,9 @@
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/5/5e/Murad_Outlaw.png/revision/latest/scale-to-width-down/500?cb=20180317082415",
-      "related_videos": []
+      "related_videos": [
+        "ISbKnVIhnio"
+      ]
     },
     {
       "id": "zata",
@@ -594,9 +593,7 @@
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/a/a5/Arum_Full.jpg/revision/latest/scale-to-width-down/500?cb=20231220025612",
-      "related_videos": [
-        "7lgmybfTwBI"
-      ]
+      "related_videos": []
     },
     {
       "id": "xeniel",
@@ -1194,7 +1191,9 @@
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/d/d7/Lauriel_Splash.jpg/revision/latest/scale-to-width-down/500?cb=20171113161316",
-      "related_videos": []
+      "related_videos": [
+        "3S_ZW1koj90"
+      ]
     },
     {
       "id": "liliana",
@@ -1886,9 +1885,7 @@
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/e/e8/Qi_profile.jpg/revision/latest/scale-to-width-down/500?cb=20200531224545",
-      "related_videos": [
-        "BD0nljD6SKw"
-      ]
+      "related_videos": []
     },
     {
       "id": "mina",
@@ -2115,9 +2112,7 @@
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/6/60/Zephys_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125082336",
-      "related_videos": [
-        "7lgmybfTwBI"
-      ]
+      "related_videos": []
     },
     {
       "id": "arthur",
@@ -2494,10 +2489,7 @@
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/c/c7/Aoi_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20210213111102",
-      "related_videos": [
-        "hXdnexN6kDs",
-        "h5VkvTQIigU"
-      ]
+      "related_videos": []
     },
     {
       "id": "ata",
@@ -2955,14 +2947,11 @@
       "counters": [],
       "synergies": [],
       "tier": "B",
-      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/b/ba/Cresht_Default.jpg/revision/latest/scale-to-width-down/500?cb=20180309111454",
-      "related_videos": [
-        "FVsXOkE4Qbw",
-        "36Jo7Hx0SJA"
-      ]
+      "related_videos": []
     },
     {
       "id": "darcy",
@@ -3309,9 +3298,7 @@
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/8/86/Errol_profile.jpg/revision/latest/scale-to-width-down/500?cb=20200531224447",
-      "related_videos": [
-        "Pimz8WqNNuk"
-      ]
+      "related_videos": []
     },
     {
       "id": "fennik",
@@ -3814,7 +3801,9 @@
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/1/1e/Max_Default.png/revision/latest/scale-to-width-down/500?cb=20180313094835",
-      "related_videos": []
+      "related_videos": [
+        "5wxmOEa-504"
+      ]
     },
     {
       "id": "ming",
@@ -4866,5 +4855,5 @@
       "related_videos": []
     }
   ],
-  "updated_at": "2026-05-19T00:28:19Z"
+  "updated_at": "2026-05-19T01:41:11Z"
 }
