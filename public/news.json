@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-05-19T06:26:18.222244",
+  "last_updated": "2026-05-19T08:12:11.552517",
   "total_news": 100,
   "news": [
+    {
+      "id": "145f34e9babe",
+      "title": "ĐIỀU CHỈNH GIỮA MÙA PB LỄ HỘI 5v5 – 21.05.2026",
+      "link": "https://lienquan.garena.vn/dieu-chinh-giua-mua-pb-le-hoi-5v5-21-05-2026/",
+      "summary": "<p>Xin chào các Kiện Tướng, Liên Quân Mobile sẽ tiến hành cập nhật không gián đoạn cho máy chủ chính thức vào ngày 21/05/2026. Trong thời gian quy định, các Kiện tướng có thể tự chọn thời điểm [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/dieu-chinh-giua-mua-pb-le-hoi-5v5-21-05-2026/\">ĐIỀU CHỈNH GIỮA MÙA PB LỄ HỘI 5v5 – 21.05.2026</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2026/05/SeaTalk_IMG_20260519_104955.png",
+      "source": "Liên Quân Mobile Official",
+      "source_url": "https://lienquan.garena.vn/rss",
+      "published_at": "2026-05-19T07:45:16Z",
+      "crawled_at": "2026-05-19T08:07:15.015903",
+      "category": "tướng",
+      "priority": 1
+    },
     {
       "id": "68a12f90e68a",
       "title": "PHÁT ĐỘNG GIẢI ĐẤU COMMUNITY LEADER TOÀN QUỐC 2026",
@@ -1287,19 +1300,6 @@
       "published_at": "2025-11-14T15:38:22Z",
       "crawled_at": "2025-11-14T16:01:47.335781",
       "category": "tướng",
-      "priority": 1
-    },
-    {
-      "id": "d084d2aa6a42",
-      "title": "PHÁT ĐỘNG CUỘC THI SÁNG TẠO TRANG PHỤC SINH NHẬT LIÊN QUÂN 10 TUỔI",
-      "link": "https://lienquan.garena.vn/phat-dong-cuoc-thi-sang-tao-trang-phuc-sinh-nhat-lien-quan-10-tuoi/",
-      "summary": "<p>👉 Nộp bài dự thi tại đây. LỊCH TRÌNH SỰ KIỆN Mở cổng nhận bài dự thi: 12:00 12/11/2025 (thứ Tư) – 23:59 18/12/2025 (thứ Năm) Xét duyệt sơ bộ: 19/12/2025 (thứ Sáu) – 22/12/2025 [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/phat-dong-cuoc-thi-sang-tao-trang-phuc-sinh-nhat-lien-quan-10-tuoi/\">PHÁT ĐỘNG CUỘC THI SÁNG TẠO TRANG PHỤC SINH NHẬT LIÊN QUÂN 10 TUỔI</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
-      "image_url": "https://picsum.photos/seed/https://lienquan.garena.vn/phat-dong-cuoc-thi-sang-tao-trang-phuc-sinh-nhat-lien-quan-10-tuoi//400/225",
-      "source": "Liên Quân Mobile Official",
-      "source_url": "https://lienquan.garena.vn/rss",
-      "published_at": "2025-11-12T10:17:22Z",
-      "crawled_at": "2025-11-12T12:01:47.033678",
-      "category": "skin",
       "priority": 1
     }
   ]
