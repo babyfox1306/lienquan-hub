@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-05-19T10:18:55.255124",
+  "last_updated": "2026-05-19T12:04:39.627770",
   "total_news": 100,
   "news": [
+    {
+      "id": "96974d4cf200",
+      "title": "GÀ CHIẾN KFC X LIÊN QUÂN MOBILE – MỞ RA MỘT KỶ NGUYÊN CỰC CHIẾN!",
+      "link": "https://lienquan.garena.vn/ga-chien-kfc-x-lien-quan-mobile-mo-ra-mot-ky-nguyen-cuc-chien/",
+      "summary": "<p>Sự bắt tay chiến lược giữa KFC Việt Nam và Đấu Trường Danh Vọng (ĐTDV) mùa Xuân 2026 đã chính thức đánh dấu một cột mốc mới trong việc kết nối giữa hai đại diện [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/ga-chien-kfc-x-lien-quan-mobile-mo-ra-mot-ky-nguyen-cuc-chien/\">GÀ CHIẾN KFC X LIÊN QUÂN MOBILE &#8211; MỞ RA MỘT KỶ NGUYÊN CỰC CHIẾN!</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2026/05/860x400-1.jpg",
+      "source": "Liên Quân Mobile Official",
+      "source_url": "https://lienquan.garena.vn/rss",
+      "published_at": "2026-05-19T10:25:47Z",
+      "crawled_at": "2026-05-19T11:59:47.038506",
+      "category": "tin tức",
+      "priority": 1
+    },
     {
       "id": "145f34e9babe",
       "title": "ĐIỀU CHỈNH GIỮA MÙA PB LỄ HỘI 5v5 – 21.05.2026",
@@ -1286,19 +1299,6 @@
       "source_url": "https://lienquan.garena.vn/rss",
       "published_at": "2025-11-19T04:56:02Z",
       "crawled_at": "2025-11-19T05:01:34.487729",
-      "category": "tướng",
-      "priority": 1
-    },
-    {
-      "id": "a585f0177fac",
-      "title": "CÔNG BỐ GIẢI ĐẤU SIÊU SAO TOÀN NĂNG 5.0 – SÂN CHƠI DÀNH CHO CÁC CREATOR ĐÀO TẠO SIÊU SAO",
-      "link": "https://lienquan.garena.vn/cong-bo-giai-dau-sieu-sao-toan-nang-5/",
-      "summary": "<p>Xin chào các Kiện Tướng, Sau hành trình ấn tượng qua 4 mùa, Siêu Sao Toàn Năng đã trở lại với mùa thứ 5 bùng nổ hơn bao giờ hết, quy tụ 70 Content Creators [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/cong-bo-giai-dau-sieu-sao-toan-nang-5/\">CÔNG BỐ GIẢI ĐẤU SIÊU SAO TOÀN NĂNG 5.0 &#8211; SÂN CHƠI DÀNH CHO CÁC CREATOR ĐÀO TẠO SIÊU SAO</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
-      "image_url": null,
-      "source": "Liên Quân Mobile Official",
-      "source_url": "https://lienquan.garena.vn/rss",
-      "published_at": "2025-11-14T15:38:22Z",
-      "crawled_at": "2025-11-14T16:01:47.335781",
       "category": "tướng",
       "priority": 1
     }
