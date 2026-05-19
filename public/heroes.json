@@ -88,9 +88,7 @@
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/5/5e/Murad_Outlaw.png/revision/latest/scale-to-width-down/500?cb=20180317082415",
-      "related_videos": [
-        "ISbKnVIhnio"
-      ]
+      "related_videos": []
     },
     {
       "id": "zata",
@@ -1191,9 +1189,7 @@
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/d/d7/Lauriel_Splash.jpg/revision/latest/scale-to-width-down/500?cb=20171113161316",
-      "related_videos": [
-        "3S_ZW1koj90"
-      ]
+      "related_videos": []
     },
     {
       "id": "liliana",
@@ -3801,9 +3797,7 @@
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/1/1e/Max_Default.png/revision/latest/scale-to-width-down/500?cb=20180313094835",
-      "related_videos": [
-        "5wxmOEa-504"
-      ]
+      "related_videos": []
     },
     {
       "id": "ming",
@@ -4855,5 +4849,5 @@
       "related_videos": []
     }
   ],
-  "updated_at": "2026-05-19T01:41:11Z"
+  "updated_at": "2026-05-19T03:04:39Z"
 }
