@@ -363,7 +363,9 @@
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/1/1f/Hayate_profile.jpg/revision/latest/scale-to-width-down/500?cb=20200531224525",
-      "related_videos": []
+      "related_videos": [
+        "EBOBpmtl70Q"
+      ]
     },
     {
       "id": "florentino",
@@ -683,7 +685,9 @@
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/e/eb/Grakk_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125085118",
-      "related_videos": []
+      "related_videos": [
+        "ZBr56We1JPM"
+      ]
     },
     {
       "id": "wukong",
@@ -1373,7 +1377,9 @@
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/f/f0/Valhein_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260124103241",
-      "related_videos": []
+      "related_videos": [
+        "jvyoJMgCH7w"
+      ]
     },
     {
       "id": "lubu",
@@ -3836,7 +3842,9 @@
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/9/90/Ming_physiognomist.jpg/revision/latest/scale-to-width-down/500?cb=20250113164018",
-      "related_videos": []
+      "related_videos": [
+        "q8L1ARDmO30"
+      ]
     },
     {
       "id": "moren",
@@ -4729,7 +4737,9 @@
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/4/48/Y%27bneth_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125051920",
-      "related_videos": []
+      "related_videos": [
+        "xSe3zxatjmQ"
+      ]
     },
     {
       "id": "yorn",
@@ -4849,5 +4859,5 @@
       "related_videos": []
     }
   ],
-  "updated_at": "2026-05-20T23:29:51Z"
+  "updated_at": "2026-05-21T00:28:46Z"
 }
