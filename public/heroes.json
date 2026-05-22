@@ -4768,14 +4768,12 @@
       },
       "counters": [],
       "synergies": [],
-      "tier": "A",
-      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 1)",
+      "tier": "B",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/3/34/Yan_Splash_Art.jpeg/revision/latest/scale-to-width-down/500?cb=20220507030356",
-      "related_videos": [
-        "AqsIp26Cpg0"
-      ]
+      "related_videos": []
     },
     {
       "id": "ybneth",
@@ -4936,5 +4934,5 @@
       "related_videos": []
     }
   ],
-  "updated_at": "2026-05-22T16:46:19Z"
+  "updated_at": "2026-05-22T17:36:11Z"
 }
