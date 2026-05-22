@@ -4458,13 +4458,11 @@
       "counters": [],
       "synergies": [],
       "tier": "B",
-      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/b/b1/Tachi_Splash_Art.jpeg/revision/latest/scale-to-width-down/500?cb=20211002035107",
-      "related_videos": [
-        "sf-Roq6HTDE"
-      ]
+      "related_videos": []
     },
     {
       "id": "teemee",
@@ -4938,5 +4936,5 @@
       "related_videos": []
     }
   ],
-  "updated_at": "2026-05-22T13:48:56Z"
+  "updated_at": "2026-05-22T15:02:42Z"
 }
