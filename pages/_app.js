@@ -2,7 +2,7 @@ import '../styles/globals.css';
 import { Inter } from 'next/font/google';
 import { useEffect, useRef } from 'react';
 import { useRouter } from 'next/router';
-import { Analytics } from '@vercel/analytics/next';
+import { Analytics } from '@vercel/analytics/react';
 
 // Include Vietnamese glyphs to prevent missing accents on production
 const inter = Inter({ subsets: ['latin', 'latin-ext', 'vietnamese'], weight: ['400','600','700'] });
