@@ -3,6 +3,7 @@ import { Inter } from 'next/font/google';
 import { useEffect, useRef } from 'react';
 import { useRouter } from 'next/router';
 import { Analytics } from '@vercel/analytics/react';
+import { SpeedInsights } from '@vercel/speed-insights/react';
 import { LocaleProvider } from '../contexts/LocaleContext';
 
 // Include Vietnamese glyphs to prevent missing accents on production
@@ -77,6 +78,7 @@ export default function App({ Component, pageProps }) {
         <div id="nprogress-bar" ref={progressBarRef} />
         <Component {...pageProps} />
         <Analytics />
+        <SpeedInsights />
       </div>
     </LocaleProvider>
   );
