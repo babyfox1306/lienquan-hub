@@ -803,8 +803,7 @@
       "related_videos": [
         "3bjl1LP5o2s",
         "3Hzg585TZ-E",
-        "OBL2n0Kk2IY",
-        "-VxrPYZ9xGY"
+        "OBL2n0Kk2IY"
       ]
     },
     {
@@ -2135,9 +2134,7 @@
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/3/3d/Mganga_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125084158",
-      "related_videos": [
-        "3jYoRoCS1LU"
-      ]
+      "related_videos": []
     },
     {
       "id": "zephys",
@@ -4982,5 +4979,5 @@
       ]
     }
   ],
-  "updated_at": "2026-05-23T07:50:49Z"
+  "updated_at": "2026-05-23T08:42:49Z"
 }
