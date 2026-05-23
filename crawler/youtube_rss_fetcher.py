@@ -11,6 +11,7 @@ sys.stdout.reconfigure(encoding='utf-8')
 ROOT = os.path.join(os.path.dirname(__file__), '..')
 FEEDS_PATH = os.path.join(ROOT, 'public', 'feeds.json')
 OUT_PATH = os.path.join(ROOT, 'public', 'videos.json')
+MAX_VIDEOS = 200
 
 
 def video_id_from_link(link):
@@ -219,23 +220,7 @@ def fetch():
                 title_translated = raw_title
                 is_translated = False
 
-            # STRICT FILTERING - Only allow AoV/RoV content
-            title_for_filtering = title_translated.lower()
-            title_original_lower = raw_title.lower()
-            
-            lienquan_keywords = [
-                'liên quân', 'lien quan', 'arena of valor', 'aov', 'rov',
-                'garena', 'mobile moba', 'moba mobile', 'tướng', 'champion',
-                'rank', 'leo rank', 'esports', 'tournament', 'thi đấu',
-                'highlight', 'combo', 'build', 'guide', 'hướng dẫn',
-                'meta', 'patch', 'cập nhật', 'skin', 'tướng mới', 'hero'
-            ]
-            
-            has_lienquan_content = any(keyword in title_for_filtering or keyword in title_original_lower for keyword in lienquan_keywords)
-            
-            if not has_lienquan_content:
-                # Skip non-AoV content
-                continue
+            # Kênh trong feeds.json đã được chọn sẵn — bỏ lọc keyword (tránh mất video esports/APL)
 
             if len(title_translated) < 10:  # Too short
                 print(f'❌ Skipping too short title: {title_translated}')
@@ -278,6 +263,24 @@ def fetch():
             else:
                 videos.append(item)
                 print(f'Added video: {title_translated[:50]}... - {published_iso}')
+
+    # Giữ video cũ nếu lần crawl này RSS lỗi hoặc lọc quá ít
+    seen_ids = {v['videoId'] for v in videos if v.get('videoId')}
+    preserved = 0
+    for vid, cached in existing_videos_map.items():
+        if vid not in seen_ids:
+            videos.append(cached)
+            seen_ids.add(vid)
+            preserved += 1
+    if preserved:
+        print(f'Preserved {preserved} existing videos from previous runs')
+
+    videos.sort(key=lambda v: v.get('publishedAt') or '', reverse=True)
+    if len(videos) > MAX_VIDEOS:
+        videos = videos[:MAX_VIDEOS]
+        print(f'Trimmed to {MAX_VIDEOS} most recent videos')
+
+    print(f'Total videos: {len(videos)}')
 
     with open(OUT_PATH, 'w', encoding='utf8', newline='') as f:
         json.dump({"videos": videos}, f, ensure_ascii=False, indent=2)
