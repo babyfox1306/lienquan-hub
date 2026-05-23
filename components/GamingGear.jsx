@@ -4,35 +4,35 @@ const GAMING_GEAR = [
   {
     name: 'Bao tay chơi game BlueWow',
     desc: 'Chống trượt, chống mồ hôi tay',
-    price: 'từ 25.000đ',
+    price: '31.900đ',
     image: '/affiliate/gloves.jpg',
     url: 'https://s.shopee.vn/AKXdascA3u',
   },
   {
     name: 'Quạt tản nhiệt T2',
     desc: 'Chống lag, chống giật khi rank',
-    price: 'từ 89.000đ',
+    price: '120.000đ',
     image: '/affiliate/fan.jpg',
     url: 'https://s.shopee.vn/AUr3nBbWix',
   },
   {
     name: 'Tai nghe SALAR A566',
     desc: 'HiFi, có mic, chơi game cực đã',
-    price: 'từ 120.000đ',
+    price: '241.252đ',
     image: '/affiliate/headphone.jpg',
     url: 'https://s.shopee.vn/9Kf6P2fy5k',
   },
   {
     name: 'Pin dự phòng 20000mAh Vention',
     desc: 'Sạc nhanh 22.5W, rank cả ngày',
-    price: 'từ 299.000đ',
+    price: '255.000đ',
     image: '/affiliate/powerbank.jpg',
     url: 'https://s.shopee.vn/9UyWbLfKkn',
   },
   {
     name: 'Giá đỡ tay cầm PS5 Dobe',
     desc: 'Chơi mobile như console',
-    price: 'từ 45.000đ',
+    price: '110.000đ',
     image: '/affiliate/holder.jpg',
     url: 'https://s.shopee.vn/9fHwneehPq',
   },
@@ -85,7 +85,7 @@ export default function GamingGear({ title = '⚡ Gear Gaming Hot' }) {
         </div>
 
         <p className="mt-5 text-xs text-slate-500 text-center sm:text-left">
-          * Liên kết có hoa hồng. Giá hiển thị chỉ mang tính tham khảo. Ảnh từ Shopee.
+          * Liên kết có hoa hồng. Giá có thể thay đổi trên Shopee — bấm vào sản phẩm để xem giá chính xác.
         </p>
       </div>
     </section>

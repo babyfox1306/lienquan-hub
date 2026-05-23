@@ -1,5 +1,5 @@
 /**
- * Fetch Shopee product og:image (Facebook crawler UA) and save to public/affiliate/
+ * Fetch Shopee product og:image + price, save images to public/affiliate/
  * Run: node scripts/fetch-shopee-images.js
  */
 const fs = require('fs');
@@ -17,16 +17,48 @@ const OUT_DIR = path.join(__dirname, '..', 'public', 'affiliate');
 const UA =
   'facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)';
 
-async function getOgImage(shortUrl) {
+function formatVnd(amount) {
+  const n = Number(amount);
+  if (!Number.isFinite(n) || n <= 0) return null;
+  return `₫${Math.round(n).toLocaleString('vi-VN')}`;
+}
+
+function extractPrice(html) {
+  const patterns = [
+    /property="product:price:amount"\s+content="([^"]+)"/i,
+    /content="([^"]+)"\s+property="product:price:amount"/i,
+    /"price":\s*(\d+)/,
+    /"price_min":\s*(\d+)/,
+    /"price_before_discount":\s*(\d+)/,
+  ];
+  for (const re of patterns) {
+    const m = html.match(re);
+    if (m && m[1]) {
+      const formatted = formatVnd(m[1]);
+      if (formatted) return formatted;
+    }
+  }
+  return null;
+}
+
+async function getOgData(shortUrl) {
   const r = await fetch(shortUrl, {
     redirect: 'follow',
     headers: { 'User-Agent': UA, 'Accept-Language': 'vi-VN,vi;q=0.9' },
   });
   const html = await r.text();
-  const m =
+  const imageMatch =
     html.match(/property="og:image"\s+content="([^"]+)"/i) ||
     html.match(/content="([^"]+)"\s+property="og:image"/i);
-  return m ? m[1] : null;
+  const titleMatch =
+    html.match(/property="og:title"\s+content="([^"]+)"/i) ||
+    html.match(/content="([^"]+)"\s+property="og:title"/i);
+  return {
+    imageUrl: imageMatch && !imageMatch[1].includes('favicon') ? imageMatch[1] : null,
+    title: titleMatch ? titleMatch[1] : null,
+    price: extractPrice(html),
+    finalUrl: r.url,
+  };
 }
 
 async function downloadImage(imageUrl, destPath) {
@@ -48,8 +80,8 @@ async function downloadImage(imageUrl, destPath) {
 
   for (const p of products) {
     try {
-      const imageUrl = await getOgImage(p.url);
-      if (!imageUrl || imageUrl.includes('favicon')) {
+      const { imageUrl, price, title, finalUrl } = await getOgData(p.url);
+      if (!imageUrl) {
         console.error(p.id, 'no image');
         continue;
       }
@@ -57,9 +89,18 @@ async function downloadImage(imageUrl, destPath) {
       const filename = `${p.id}.${ext}`;
       const dest = path.join(OUT_DIR, filename);
       const size = await downloadImage(imageUrl, dest);
-      const publicPath = `/affiliate/${filename}`;
-      manifest.push({ id: p.id, image: publicPath, imageUrl, bytes: size });
-      console.log(p.id, 'OK', publicPath, size, 'bytes');
+      const entry = {
+        id: p.id,
+        name: title || p.id,
+        image: `/affiliate/${filename}`,
+        imageUrl,
+        price: price || null,
+        url: p.url,
+        productUrl: finalUrl,
+        bytes: size,
+      };
+      manifest.push(entry);
+      console.log(p.id, 'OK', entry.price || 'NO PRICE', entry.image);
     } catch (e) {
       console.error(p.id, e.message);
     }
