@@ -375,7 +375,7 @@ export default function HeroDetail({ hero, relatedVideoObjects, allHeroIds }) {
           </div>
         </div>
 
-        <GamingGear title="Gear Gaming Phù Hợp" />
+        <GamingGear titleKey="gear.titleHero" />
       </main>
 
       <Footer />

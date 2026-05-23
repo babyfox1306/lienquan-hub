@@ -10,6 +10,7 @@ import { BannerAd, InContentAd } from '../components/DualAds';
 import { useRouter } from 'next/router';
 import { useState, useEffect } from 'react';
 import Link from 'next/link';
+import { useLocale } from '../contexts/LocaleContext';
 
 export async function getStaticProps() {
   const publicDir = path.join(process.cwd(), 'public');
@@ -55,6 +56,7 @@ export async function getStaticProps() {
 }
 
 export default function Home({ videos, hotHeroes = [] }) {
+  const { t } = useLocale();
   const router = useRouter();
   const [currentPage, setCurrentPage] = useState(1);
   const [selectedCategory, setSelectedCategory] = useState('all');
@@ -150,7 +152,7 @@ export default function Home({ videos, hotHeroes = [] }) {
           {/* Live status badge */}
           <span className="inline-flex items-center gap-1.5 px-3 py-1.5 text-xs font-black text-red-500 rounded-full border border-red-500/30 bg-red-500/10 backdrop-blur-sm animate-pulse uppercase tracking-wider">
             <span className="w-1.5 h-1.5 rounded-full bg-red-500"></span>
-            🔴 LIVE · Cập nhật tự động mỗi giờ
+            🔴 {t('home.liveBadge')}
           </span>
 
           {/* Title */}
@@ -165,7 +167,7 @@ export default function Home({ videos, hotHeroes = [] }) {
 
           {/* Description */}
           <p className="text-slate-300 text-sm sm:text-base md:text-lg max-w-2xl font-bold tracking-wide drop-shadow-md">
-            Tổng hợp video · Tin tức · Tier List · Bảng tướng
+            {t('home.tagline')}
           </p>
 
           {/* Premium Search Bar */}
@@ -173,12 +175,12 @@ export default function Home({ videos, hotHeroes = [] }) {
             <input 
               type="text" 
               className="w-full bg-transparent outline-none px-4 py-2 text-white placeholder-slate-500 text-sm sm:text-base font-semibold"
-              placeholder="Tìm video, tướng, tin tức..."
+              placeholder={t('home.searchPlaceholder')}
               value={searchTerm}
               onChange={handleSearchChange}
             />
             <button className="bg-red-500 hover:bg-red-600 active:scale-95 text-white font-black text-sm sm:text-base px-6 py-2.5 rounded-xl transition-all duration-300 shadow-lg shadow-red-500/20">
-              Tìm kiếm
+              {t('home.search')}
             </button>
           </div>
         </div>
@@ -195,8 +197,8 @@ export default function Home({ videos, hotHeroes = [] }) {
           <section className="space-y-4">
             <div className="flex items-center gap-3">
               <div className="w-1 h-6 bg-red-500 rounded" />
-              <h2 className="text-xl font-extrabold text-white tracking-tight">🔥 Tướng hot tuần này</h2>
-              <span className="text-slate-500 text-sm font-semibold">· {hotHeroes.length} tướng</span>
+              <h2 className="text-xl font-extrabold text-white tracking-tight">🔥 {t('home.hotHeroes')}</h2>
+              <span className="text-slate-500 text-sm font-semibold">· {hotHeroes.length} {t('home.heroesUnit')}</span>
             </div>
             
             <div className="flex overflow-x-auto gap-5 pb-4 no-scrollbar scroll-smooth" style={{
@@ -245,17 +247,17 @@ export default function Home({ videos, hotHeroes = [] }) {
           <div className="flex flex-col md:flex-row md:items-center justify-between gap-4 border-b border-slate-900 pb-4">
             <div className="flex items-center gap-3">
               <div className="w-1 h-6 bg-red-500 rounded" />
-              <h2 className="text-xl font-extrabold text-white tracking-tight">Video mới nhất</h2>
+              <h2 className="text-xl font-extrabold text-white tracking-tight">{t('home.latestVideos')}</h2>
               <span className="text-slate-500 text-sm font-semibold">· {totalVideos} video</span>
             </div>
             
             {/* Category tabs */}
             <div className="tabs tabs-boxed bg-slate-900 border border-slate-800/80 p-1 flex gap-1 rounded-xl self-start md:self-auto">
               {[
-                { id: 'all', label: 'Tất cả' },
-                { id: 'highlight', label: 'Highlight' },
-                { id: 'guide', label: 'Cẩm nang' },
-                { id: 'news', label: 'Tin tức' }
+                { id: 'all', labelKey: 'home.catAll' },
+                { id: 'highlight', labelKey: 'home.catHighlight' },
+                { id: 'guide', labelKey: 'home.catGuide' },
+                { id: 'news', labelKey: 'home.catNews' },
               ].map(cat => (
                 <button
                   key={cat.id}
@@ -266,7 +268,7 @@ export default function Home({ videos, hotHeroes = [] }) {
                   }`}
                   onClick={() => handleCategoryChange(cat.id)}
                 >
-                  {cat.label}
+                  {t(cat.labelKey)}
                 </button>
               ))}
             </div>
@@ -282,7 +284,7 @@ export default function Home({ videos, hotHeroes = [] }) {
           ) : (
             <div className="text-center py-12 bg-slate-900/40 border border-slate-900 rounded-3xl">
               <span className="text-4xl">🔍</span>
-              <p className="mt-4 text-slate-400 font-bold">Không tìm thấy video nào phù hợp</p>
+              <p className="mt-4 text-slate-400 font-bold">{t('home.noVideos')}</p>
             </div>
           )}
         </section>
@@ -298,7 +300,7 @@ export default function Home({ videos, hotHeroes = [] }) {
         />
       </main>
 
-      <GamingGear title="⚡ Gear Gaming Hot" />
+      <GamingGear titleKey="gear.titleHot" />
       <Footer />
     </div>
   );
