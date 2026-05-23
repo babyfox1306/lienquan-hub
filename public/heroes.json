@@ -4414,9 +4414,7 @@
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/9/93/Slimz_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125053904",
-      "related_videos": [
-        "-vb76rpRsMs"
-      ]
+      "related_videos": []
     },
     {
       "id": "stuart",
@@ -4972,5 +4970,5 @@
       ]
     }
   ],
-  "updated_at": "2026-05-23T20:19:33Z"
+  "updated_at": "2026-05-23T21:20:11Z"
 }
