@@ -9,13 +9,13 @@
     "sitemap": "node scripts/generate-sitemap.js"
   },
   "dependencies": {
+    "@vercel/analytics": "^2.0.1",
     "next": "14.0.0",
     "node-fetch": "2.6.12",
     "react": "18.2.0",
     "react-dom": "18.2.0"
   },
   "devDependencies": {
-    
     "autoprefixer": "10.4.19",
     "daisyui": "4.12.10",
     "postcss": "8.4.38",

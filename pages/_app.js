@@ -2,6 +2,7 @@ import '../styles/globals.css';
 import { Inter } from 'next/font/google';
 import { useEffect, useRef } from 'react';
 import { useRouter } from 'next/router';
+import { Analytics } from '@vercel/analytics/next';
 
 // Include Vietnamese glyphs to prevent missing accents on production
 const inter = Inter({ subsets: ['latin', 'latin-ext', 'vietnamese'], weight: ['400','600','700'] });
@@ -73,6 +74,7 @@ export default function App({ Component, pageProps }) {
     <div className={inter.className}>
       <div id="nprogress-bar" ref={progressBarRef} />
       <Component {...pageProps} />
+      <Analytics />
     </div>
   );
 }
