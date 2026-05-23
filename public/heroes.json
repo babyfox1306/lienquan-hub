@@ -39,17 +39,17 @@
         "Krixi"
       ],
       "tier": "B",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 0)",
-      "hot": false,
-      "hot_count": 2,
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 3, Score: 0)",
+      "hot": true,
+      "hot_count": 3,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/3/3f/Nakroth_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20201224121203",
       "related_videos": [
         "fDSfiJ3AIUk",
+        "Qo3JQefG0dc",
         "05mw0O98-EE",
         "zPTIuj7RqHE",
         "sFYALgwjqjE",
-        "u40KFORMCJg",
-        "GpGeETKdxeU"
+        "u40KFORMCJg"
       ]
     },
     {
@@ -706,8 +706,7 @@
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/e/eb/Grakk_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125085118",
       "related_videos": [
-        "Xca_Wb7LoFM",
-        "ZBr56We1JPM"
+        "Xca_Wb7LoFM"
       ]
     },
     {
@@ -945,17 +944,17 @@
         "Toro"
       ],
       "tier": "S",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 8, Score: 4)",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 10, Score: 4)",
       "hot": true,
-      "hot_count": 8,
+      "hot_count": 10,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/8/8e/Jinnar_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125090346",
       "related_videos": [
+        "5deePTS6bG4",
         "AJZW834eEIY",
         "5SukuECQYdA",
+        "vtpg2j14oQQ",
         "1S71H3QPn1M",
-        "VMBWLixWPe8",
-        "ll3y-pgizxw",
-        "lXzH6jltEWI"
+        "VMBWLixWPe8"
       ]
     },
     {
@@ -1437,9 +1436,7 @@
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/f/f0/Valhein_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260124103241",
       "related_videos": [
-        "4qDUYjeRaq8",
-        "jvyoJMgCH7w",
-        "LT7ZTfYw2LA"
+        "4qDUYjeRaq8"
       ]
     },
     {
@@ -2231,8 +2228,7 @@
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/f/f9/Arthur_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20221110122653",
       "related_videos": [
         "Ae5niC91XCU",
-        "L7jxBwj_SCY",
-        "pMqPZ7sv4Z0"
+        "L7jxBwj_SCY"
       ]
     },
     {
@@ -2645,11 +2641,13 @@
       "counters": [],
       "synergies": [],
       "tier": "B",
-      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
-      "hot_count": 0,
+      "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/f/f6/Aya_Splashart.png/revision/latest/scale-to-width-down/500?cb=20220104210403",
-      "related_videos": []
+      "related_videos": [
+        "5deePTS6bG4"
+      ]
     },
     {
       "id": "azzenka",
@@ -3034,12 +3032,13 @@
       "counters": [],
       "synergies": [],
       "tier": "B",
-      "tier_reason": "Xuất hiện 3 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 0)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 2,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/b/ba/Cresht_Default.jpg/revision/latest/scale-to-width-down/500?cb=20180309111454",
       "related_videos": [
         "-ZsB1IgVg64",
+        "uVJEteeJQ60",
         "FVsXOkE4Qbw",
         "HRD8Hc60JUA",
         "36Jo7Hx0SJA"
@@ -3192,11 +3191,14 @@
       "counters": [],
       "synergies": [],
       "tier": "B",
-      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 0)",
       "hot": false,
-      "hot_count": 0,
+      "hot_count": 2,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/e/e6/Dolia_Splash_Art.jpeg/revision/latest/scale-to-width-down/500?cb=20240710174030",
-      "related_videos": []
+      "related_videos": [
+        "0bsgKASkK0g",
+        "5deePTS6bG4"
+      ]
     },
     {
       "id": "dyadia",
@@ -3940,9 +3942,7 @@
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/9/90/Ming_physiognomist.jpg/revision/latest/scale-to-width-down/500?cb=20250113164018",
-      "related_videos": [
-        "q8L1ARDmO30"
-      ]
+      "related_videos": []
     },
     {
       "id": "moren",
@@ -4022,8 +4022,7 @@
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/b/b4/Paine_Soul_Elegy.png/revision/latest/scale-to-width-down/500?cb=20220328044802",
       "related_videos": [
-        "q__zHhTBD-8",
-        "IqU-cSpP8FQ"
+        "q__zHhTBD-8"
       ]
     },
     {
@@ -4100,9 +4099,7 @@
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/8/87/Quillen_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125051218",
-      "related_videos": [
-        "LT7ZTfYw2LA"
-      ]
+      "related_videos": []
     },
     {
       "id": "rouie",
@@ -4259,9 +4256,7 @@
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/f/f2/Ryoma_Gunslinger.png/revision/latest/scale-to-width-down/500?cb=20180313083407",
-      "related_videos": [
-        "_sqflzJlXYU"
-      ]
+      "related_videos": []
     },
     {
       "id": "sephera",
@@ -4336,11 +4331,13 @@
       "counters": [],
       "synergies": [],
       "tier": "S",
-      "tier_reason": "Được gán từ dữ liệu hạt giống (Seed S-Tier) do ít video mới (Hot Count: 0)",
+      "tier_reason": "Được gán từ dữ liệu hạt giống (Seed S-Tier) do ít video mới (Hot Count: 1)",
       "hot": false,
-      "hot_count": 0,
+      "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/6/60/Sinestrea_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20220702032816",
-      "related_videos": []
+      "related_videos": [
+        "1lSpjoTFBjc"
+      ]
     },
     {
       "id": "skud",
@@ -4653,9 +4650,7 @@
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/3/35/Veera_profile.png/revision/latest/scale-to-width-down/500?cb=20170525133701",
-      "related_videos": [
-        "_sqflzJlXYU"
-      ]
+      "related_videos": []
     },
     {
       "id": "wiro",
@@ -4810,12 +4805,15 @@
       },
       "counters": [],
       "synergies": [],
-      "tier": "B",
-      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier": "A",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 1)",
       "hot": false,
-      "hot_count": 0,
+      "hot_count": 2,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/3/34/Yan_Splash_Art.jpeg/revision/latest/scale-to-width-down/500?cb=20220507030356",
-      "related_videos": []
+      "related_videos": [
+        "HasNiaolnNE",
+        "AqsIp26Cpg0"
+      ]
     },
     {
       "id": "ybneth",
@@ -4854,9 +4852,7 @@
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/4/48/Y%27bneth_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125051920",
-      "related_videos": [
-        "xSe3zxatjmQ"
-      ]
+      "related_videos": []
     },
     {
       "id": "yorn",
@@ -4978,5 +4974,5 @@
       ]
     }
   ],
-  "updated_at": "2026-05-23T10:33:20Z"
+  "updated_at": "2026-05-23T11:29:17Z"
 }
