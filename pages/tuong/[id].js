@@ -5,6 +5,7 @@ import fs from 'fs';
 import path from 'path';
 import NavBar from '../../components/NavBar';
 import Footer from '../../components/Footer';
+import GamingGear from '../../components/GamingGear';
 import VideoCard from '../../components/VideoCard';
 
 // Role and lane mappings
@@ -373,6 +374,8 @@ export default function HeroDetail({ hero, relatedVideoObjects, allHeroIds }) {
             </div>
           </div>
         </div>
+
+        <GamingGear title="Gear Gaming Phù Hợp" />
       </main>
 
       <Footer />

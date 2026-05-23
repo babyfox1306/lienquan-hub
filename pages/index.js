@@ -2,6 +2,7 @@ import fs from 'fs';
 import path from 'path';
 import NavBar from '../components/NavBar';
 import Footer from '../components/Footer';
+import GamingGear from '../components/GamingGear';
 import Head from 'next/head';
 import VideoCard from '../components/VideoCard';
 import Pagination from '../components/Pagination';
@@ -297,6 +298,7 @@ export default function Home({ videos, hotHeroes = [] }) {
         />
       </main>
 
+      <GamingGear title="⚡ Gear Gaming Hot" />
       <Footer />
     </div>
   );
