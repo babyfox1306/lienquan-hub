@@ -1,60 +1,55 @@
 import Head from 'next/head';
-import fs from 'fs';
-import path from 'path';
 import LiteYoutube from '../../components/LiteYoutube';
 import VideoCard from '../../components/VideoCard';
+import { loadVideos } from '../../lib/videos';
 
-export async function getServerSideProps(ctx) {
-  const { id } = ctx.params || {};
-  // Load videos list once to determine latest and recommendations
-  const publicDir = path.join(process.cwd(), 'public');
-  const videosPath = path.join(publicDir, 'videos.json');
-  let all = [];
-  if (fs.existsSync(videosPath)) {
-    try {
-      const data = JSON.parse(fs.readFileSync(videosPath, 'utf8'));
-      all = data.videos || [];
-    } catch (_) {}
-  }
-  // Sort newest first if publishedAt exists
-  if (all.length && all[0]?.publishedAt) {
-    all.sort((a, b) => (b.publishedAt || '').localeCompare(a.publishedAt || ''));
-  }
+export async function getStaticPaths() {
+  const videos = loadVideos();
+  return {
+    paths: videos.map((v) => ({ params: { id: v.videoId } })),
+    fallback: 'blocking',
+  };
+}
+
+export async function getStaticProps({ params }) {
+  const id = params?.id;
+  const all = loadVideos();
+  const video = all.find((v) => v.videoId === id);
   const latestId = all[0]?.videoId || null;
-  // If no id provided or id not found, redirect to latest video when available
-  if (!id || (all.length && !all.find(v => v.videoId === id))) {
-    if (latestId) {
+
+  if (!video) {
+    if (latestId && latestId !== id) {
       return {
-        redirect: { destination: `/watch/${latestId}`, permanent: false }
+        redirect: { destination: `/watch/${latestId}`, permanent: false },
       };
     }
+    return { notFound: true };
   }
+
+  const title = video.title || `Liên Quân — ${id}`;
   const videoUrl = `https://www.youtube.com/watch?v=${id}`;
-  let oembed = null;
-  try {
-    const res = await fetch(`https://www.youtube.com/oembed?url=${encodeURIComponent(videoUrl)}&format=json`, { headers: { 'User-Agent': 'Mozilla/5.0' } });
-    if (res.ok) oembed = await res.json();
-  } catch (_) {}
-  const title = oembed?.title || `Liên Quân — ${id}`;
   const schema = {
-    "@context": "https://schema.org",
-    "@type": "VideoObject",
+    '@context': 'https://schema.org',
+    '@type': 'VideoObject',
     name: title,
-    description: oembed?.description || "Video Liên Quân Mobile",
-    thumbnailUrl: `https://i.ytimg.com/vi/${id}/hqdefault.jpg`,
-    uploadDate: (all.find(v => v.videoId === id)?.publishedAt) || new Date().toISOString(),
+    description: 'Video Liên Quân Mobile',
+    thumbnailUrl: video.thumbnailUrl || `https://i.ytimg.com/vi/${id}/hqdefault.jpg`,
+    uploadDate: video.publishedAt || new Date().toISOString(),
     contentUrl: videoUrl,
-    embedUrl: `https://www.youtube.com/embed/${id}`
+    embedUrl: `https://www.youtube.com/embed/${id}`,
   };
-  // Build recommendations from the loaded list
-  let recommended = [];
-  if (all.length) {
-    recommended = all
-      .filter(v => v.videoId !== id)
-      .sort((a, b) => (b.publishedAt || '').localeCompare(a.publishedAt || ''))
-      .slice(0, 12);
-  }
-  return { props: { id, title, schema, author: oembed?.author_name || 'YouTube', recommended } };
+  const recommended = all.filter((v) => v.videoId !== id).slice(0, 12);
+
+  return {
+    props: {
+      id,
+      title,
+      schema,
+      author: 'YouTube',
+      recommended,
+    },
+    revalidate: 300,
+  };
 }
 
 export default function Watch({ id, title, schema, author, recommended }) {
@@ -75,8 +70,7 @@ export default function Watch({ id, title, schema, author, recommended }) {
         <link rel="canonical" href={`https://www.lienquanhub.xyz/watch/${id}`} />
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }} />
       </Head>
-      
-      {/* Breadcrumb Navigation */}
+
       <nav className="bg-base-100 border-b">
         <div className="max-w-6xl mx-auto px-4 py-2">
           <div className="flex items-center space-x-2 text-sm">
@@ -89,13 +83,11 @@ export default function Watch({ id, title, schema, author, recommended }) {
 
       <div className="max-w-6xl mx-auto p-2 sm:p-4 grid grid-cols-1 lg:grid-cols-3 gap-3 sm:gap-4 md:gap-6">
         <div className="lg:col-span-2">
-          {/* Video Player Section */}
           <div className="bg-base-100 rounded-xl shadow-lg overflow-hidden">
             <div className="aspect-video bg-black">
               <LiteYoutube key={id} videoId={id} title={title} />
             </div>
-            
-            {/* Video Info */}
+
             <div className="p-3 sm:p-4 md:p-6">
               <h1 className="text-lg sm:text-xl md:text-2xl font-bold mb-2 sm:mb-3 line-clamp-2">{title}</h1>
               <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between mb-3 sm:mb-4 gap-2 sm:gap-0">
@@ -109,8 +101,7 @@ export default function Watch({ id, title, schema, author, recommended }) {
                   </a>
                 </div>
               </div>
-              
-              {/* Social Share */}
+
               <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between pt-3 sm:pt-4 border-t border-base-300 gap-2 sm:gap-0">
                 <div className="flex flex-wrap gap-1 sm:gap-2">
                   <a className="btn btn-xs sm:btn-sm btn-primary" target="_blank" rel="noopener noreferrer" href={`https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(`https://www.lienquanhub.xyz/watch/${id}`)}`}>
@@ -130,7 +121,6 @@ export default function Watch({ id, title, schema, author, recommended }) {
             </div>
           </div>
 
-          {/* Recommended Videos */}
           {recommended?.length > 0 && (
             <div className="mt-4 sm:mt-6 md:mt-8">
               <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between mb-3 sm:mb-4 gap-2 sm:gap-0">
@@ -138,17 +128,15 @@ export default function Watch({ id, title, schema, author, recommended }) {
                 <span className="badge badge-primary text-xs sm:text-sm">{recommended.length} video</span>
               </div>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 sm:gap-4">
-                {recommended.slice(0,6).map(v => (
+                {recommended.slice(0, 6).map((v) => (
                   <VideoCard key={v.videoId} video={v} />
                 ))}
               </div>
             </div>
           )}
         </div>
-        
-        {/* Sidebar */}
+
         <aside className="lg:col-span-1 space-y-3 sm:space-y-4 md:space-y-6">
-          {/* Newsletter CTA */}
           <div className="card bg-gradient-to-br from-primary to-secondary text-primary-content shadow-xl">
             <div className="card-body text-center p-3 sm:p-4 md:p-6">
               <h3 className="card-title justify-center text-white text-sm sm:text-base md:text-lg">🔥 Nhận highlight nóng</h3>
@@ -160,8 +148,7 @@ export default function Watch({ id, title, schema, author, recommended }) {
               </div>
             </div>
           </div>
-          
-          {/* Quick Stats */}
+
           <div className="card bg-base-100 shadow-lg">
             <div className="card-body p-3 sm:p-4 md:p-6">
               <h3 className="card-title text-sm sm:text-base md:text-lg">📊 Thống kê</h3>
@@ -179,8 +166,7 @@ export default function Watch({ id, title, schema, author, recommended }) {
               </div>
             </div>
           </div>
-          
-          {/* Quick News */}
+
           <div className="card bg-base-100 shadow-lg">
             <div className="card-body">
               <h3 className="card-title text-lg">📰 Tin nhanh</h3>
@@ -206,8 +192,7 @@ export default function Watch({ id, title, schema, author, recommended }) {
               </div>
             </div>
           </div>
-          
-          {/* Back to Home */}
+
           <div className="card bg-base-100 shadow-lg">
             <div className="card-body text-center">
               <a href="/" className="btn btn-outline btn-block">
@@ -220,5 +205,3 @@ export default function Watch({ id, title, schema, author, recommended }) {
     </div>
   );
 }
-
-

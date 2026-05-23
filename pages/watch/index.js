@@ -1,21 +1,20 @@
-import fs from 'fs';
-import path from 'path';
+import { useEffect } from 'react';
+import { useRouter } from 'next/router';
+import { loadVideos } from '../../lib/videos';
 
-export async function getServerSideProps() {
-  const videosPath = path.join(process.cwd(), 'public', 'videos.json');
-  let latestId = null;
-  if (fs.existsSync(videosPath)) {
-    try {
-      const data = JSON.parse(fs.readFileSync(videosPath, 'utf8'));
-      latestId = data?.videos?.[0]?.videoId || null;
-    } catch (_) {}
-  }
-  if (latestId) {
-    return { redirect: { destination: `/watch/${latestId}`, permanent: false } };
-  }
-  return { notFound: true };
+export async function getStaticProps() {
+  const all = loadVideos();
+  return {
+    props: { latestId: all[0]?.videoId || null },
+    revalidate: 60,
+  };
 }
 
-export default function WatchIndex() { return null; }
-
-
+export default function WatchIndex({ latestId }) {
+  const router = useRouter();
+  useEffect(() => {
+    if (latestId) router.replace(`/watch/${latestId}`);
+    else router.replace('/404');
+  }, [latestId, router]);
+  return null;
+}
