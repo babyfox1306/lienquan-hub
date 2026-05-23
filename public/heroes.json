@@ -3801,9 +3801,7 @@
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/1/1e/Max_Default.png/revision/latest/scale-to-width-down/500?cb=20180313094835",
-      "related_videos": [
-        "5wxmOEa-504"
-      ]
+      "related_videos": []
     },
     {
       "id": "ming",
@@ -4857,5 +4855,5 @@
       "related_videos": []
     }
   ],
-  "updated_at": "2026-05-23T04:04:47Z"
+  "updated_at": "2026-05-23T04:11:09Z"
 }
