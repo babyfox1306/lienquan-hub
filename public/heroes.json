@@ -326,11 +326,12 @@
         "Arthur"
       ],
       "tier": "S",
-      "tier_reason": "Được gán từ dữ liệu hạt giống (Seed S-Tier) do ít video mới (Hot Count: 0)",
+      "tier_reason": "Được gán từ dữ liệu hạt giống (Seed S-Tier) do ít video mới (Hot Count: 1)",
       "hot": false,
-      "hot_count": 0,
+      "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/a/a6/Marja_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125052236",
       "related_videos": [
+        "-N1OtWwY2wI",
         "qjhOO8HNges"
       ]
     },
@@ -428,8 +429,7 @@
       "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/3/3f/The_Diminisher.png/revision/latest/scale-to-width-down/500?cb=20230721030441",
       "related_videos": [
-        "97L9drlSpew",
-        "DdqZ6JxibOo"
+        "97L9drlSpew"
       ]
     },
     {
@@ -1003,8 +1003,7 @@
       "related_videos": [
         "YlkLuDAZHi4",
         "ObeMGyig1aI",
-        "OBL2n0Kk2IY",
-        "rR2VCRFXV8M"
+        "OBL2n0Kk2IY"
       ]
     },
     {
@@ -1292,8 +1291,7 @@
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/d/d4/Liliana_Default.jpg/revision/latest/scale-to-width-down/500?cb=20180331134150",
       "related_videos": [
         "s6OzGcE-jgI",
-        "322ML_j85ec",
-        "DdqZ6JxibOo"
+        "322ML_j85ec"
       ]
     },
     {
@@ -2407,9 +2405,7 @@
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/d/d9/Airi_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20210809013024",
-      "related_videos": [
-        "n0Gl60NsieA"
-      ]
+      "related_videos": []
     },
     {
       "id": "aleister",
@@ -4970,5 +4966,5 @@
       ]
     }
   ],
-  "updated_at": "2026-05-23T21:20:11Z"
+  "updated_at": "2026-05-23T22:19:32Z"
 }
