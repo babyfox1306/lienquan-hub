@@ -1,0 +1,32 @@
+[
+  {
+    "id": "gloves",
+    "image": "/affiliate/gloves.jpg",
+    "imageUrl": "https://down-vn.img.susercontent.com/file/promo-dim-0100a339220337cf2ff3bb851f2faefdb8d2",
+    "bytes": 438365
+  },
+  {
+    "id": "fan",
+    "image": "/affiliate/fan.jpg",
+    "imageUrl": "https://down-vn.img.susercontent.com/file/promo-dim-01008443d7ba83ebb1b1eb748241b3165f1d",
+    "bytes": 552141
+  },
+  {
+    "id": "headphone",
+    "image": "/affiliate/headphone.jpg",
+    "imageUrl": "https://down-vn.img.susercontent.com/file/promo-dim-0100c4f3712109c02f16a2bbfa30b0a0f22e",
+    "bytes": 377534
+  },
+  {
+    "id": "powerbank",
+    "image": "/affiliate/powerbank.jpg",
+    "imageUrl": "https://down-vn.img.susercontent.com/file/promo-dim-0100583132614d3131f9993fd19ce6869d5b",
+    "bytes": 336204
+  },
+  {
+    "id": "holder",
+    "image": "/affiliate/holder.jpg",
+    "imageUrl": "https://down-vn.img.susercontent.com/file/promo-dim-0100cb5a7d0c5f710b729759f04a4b40363a",
+    "bytes": 274706
+  }
+]
