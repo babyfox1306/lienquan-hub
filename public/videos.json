@@ -1,6 +1,28 @@
 {
   "videos": [
     {
+      "videoId": "LiaHC_sWjA8",
+      "title": "🔴 KHÔNG ĐỦ CHỈ TIÊU KHÔNG TẮT LIVE - NGÀY THỨ 3",
+      "title_original": "🔴 KHÔNG ĐỦ CHỈ TIÊU KHÔNG TẮT LIVE - NGÀY THỨ 3",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-05-24T14:27:39Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/LiaHC_sWjA8/maxresdefault.jpg"
+    },
+    {
+      "videoId": "aI2SPvEoWsM",
+      "title": "Sc Mnh ng S Ca Slimz Ma Mi: Bn Nt i Hnh ch, Cht H 3 Sao Cc Gt!",
+      "title_original": "Sc Mnh ng S Ca Slimz Ma Mi: Bn Nt i Hnh ch, Cht H 3 Sao Cc Gt!",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-05-24T14:24:55Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/aI2SPvEoWsM/maxresdefault.jpg"
+    },
+    {
       "videoId": "CYqTkcdTDeY",
       "title": "🌳 HIỆU ỨNG CHIÊU THỨC | Y'BNETH ĐẠI THỤ ÂM NHẠC 🌳 - Garena Liên Quân Mobile",
       "title_original": "🌳 HIỆU ỨNG CHIÊU THỨC | Y'BNETH ĐẠI THỤ ÂM NHẠC 🌳 - Garena Liên Quân Mobile",
@@ -255,8 +277,8 @@
     },
     {
       "videoId": "EY6-RpIuqmc",
-      "title": "🔴 LIVE:TEN 🆚 BAC| APL 2026 外卡賽D4-2026/05/24《Garena傳說對決》",
-      "title_original": "🔴 LIVE:TEN 🆚 BAC| APL 2026 外卡賽D4-2026/05/24《Garena傳說對決》",
+      "title": "APL 2026 外卡賽D4-2026/05/24《Garena傳說對決》",
+      "title_original": "APL 2026 外卡賽D4-2026/05/24《Garena傳說對決》",
       "translated": false,
       "country": "VN",
       "lang_original": "vi",
@@ -2177,28 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-04-30T12:04:07Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/h5VkvTQIigU/maxresdefault.jpg"
-    },
-    {
-      "videoId": "36Jo7Hx0SJA",
-      "title": "VUX LEO RANK CAO THỦ VỚI SKIN CRESHT EREN YEAGER COMBO TITAN LỰC NHẤT LIÊN QUÂN MOBILE",
-      "title_original": "VUX LEO RANK CAO THỦ VỚI SKIN CRESHT EREN YEAGER COMBO TITAN LỰC NHẤT LIÊN QUÂN MOBILE",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-04-30T09:19:44Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/36Jo7Hx0SJA/maxresdefault.jpg"
-    },
-    {
-      "videoId": "FKK-ku52Nwo",
-      "title": "VUX LEO RANK CAO TH VI SKIN WISH HNH TRNH K O D ON LY 3 SAO MN NHN",
-      "title_original": "VUX LEO RANK CAO TH VI SKIN WISH HNH TRNH K O D ON LY 3 SAO MN NHN",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-04-29T09:49:29Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/FKK-ku52Nwo/maxresdefault.jpg"
     }
   ]
 }
