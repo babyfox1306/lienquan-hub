@@ -1,6 +1,28 @@
 {
   "videos": [
     {
+      "videoId": "zBgywWtZqFQ",
+      "title": "Nerf Vậy, Thả Gildur Được Chưa?",
+      "title_original": "Nerf Vậy, Thả Gildur Được Chưa?",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-05-24T09:30:09Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/zBgywWtZqFQ/maxresdefault.jpg"
+    },
+    {
+      "videoId": "wTHSsJu8b7I",
+      "title": "🔴LIVE Leo Top 1 Thách Đấu Hôm nay lên 185 Sao | Garena AOV Gameplay",
+      "title_original": "🔴LIVE Leo Top 1 Thách Đấu Hôm nay lên 185 Sao | Garena AOV Gameplay",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-05-24T09:21:12Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/wTHSsJu8b7I/maxresdefault.jpg"
+    },
+    {
       "videoId": "Yweyq415vE0",
       "title": "🔴 TRỰC TIẾP: HONG KONG ATTITUDE vs BOX GAMING | WILDCARD | APL 2026",
       "title_original": "🔴 TRỰC TIẾP: HONG KONG ATTITUDE vs BOX GAMING | WILDCARD | APL 2026",
@@ -32,17 +54,6 @@
       "source": "youtube",
       "publishedAt": "2026-05-24T05:00:29Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/i-TqD5BmCQA/maxresdefault.jpg"
-    },
-    {
-      "videoId": "wTHSsJu8b7I",
-      "title": "🔴LIVE Leo Top 1 Thách Đấu Hôm nay lên 185 Sao | Garena AOV Gameplay",
-      "title_original": "🔴LIVE Leo Top 1 Thách Đấu Hôm nay lên 185 Sao | Garena AOV Gameplay",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-05-24T04:48:22Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/wTHSsJu8b7I/maxresdefault.jpg"
     },
     {
       "videoId": "-MWyn3yU6pA",
@@ -2188,17 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-04-23T12:53:47Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/6PA7hPZuLM0/maxresdefault.jpg"
-    },
-    {
-      "videoId": "UCJHKqjrrZk",
-      "title": "Liên Quân Free 3 Skin Attack On Titan Và Quà Toàn Sever Trong Chuỗi Sự Kiện Mới Lễ Hội 5v5",
-      "title_original": "Liên Quân Free 3 Skin Attack On Titan Và Quà Toàn Sever Trong Chuỗi Sự Kiện Mới Lễ Hội 5v5",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-04-23T04:30:21Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/UCJHKqjrrZk/maxresdefault.jpg"
     }
   ]
 }

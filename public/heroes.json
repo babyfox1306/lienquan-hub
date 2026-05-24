@@ -841,12 +841,13 @@
         "Elsu",
         "Yorn"
       ],
-      "tier": "A",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 1)",
-      "hot": false,
-      "hot_count": 2,
+      "tier": "B",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 3, Score: 0)",
+      "hot": true,
+      "hot_count": 3,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/7/71/Gildur_Default.jpg/revision/latest/scale-to-width-down/500?cb=20180327112635",
       "related_videos": [
+        "zBgywWtZqFQ",
         "DTKFEZrtQgc",
         "3Hzg585TZ-E",
         "OBL2n0Kk2IY"
@@ -4963,5 +4964,5 @@
       ]
     }
   ],
-  "updated_at": "2026-05-24T08:51:56Z"
+  "updated_at": "2026-05-24T09:38:52Z"
 }
