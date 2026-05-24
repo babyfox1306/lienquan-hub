@@ -1,9 +1,20 @@
 {
   "videos": [
     {
+      "videoId": "CYqTkcdTDeY",
+      "title": "🌳 HIỆU ỨNG CHIÊU THỨC | Y'BNETH ĐẠI THỤ ÂM NHẠC 🌳 - Garena Liên Quân Mobile",
+      "title_original": "🌳 HIỆU ỨNG CHIÊU THỨC | Y'BNETH ĐẠI THỤ ÂM NHẠC 🌳 - Garena Liên Quân Mobile",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-05-24T13:00:15Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/CYqTkcdTDeY/maxresdefault.jpg"
+    },
+    {
       "videoId": "J-YZkoNq8BI",
-      "title": "Cresh Eren Full Giáp Ảo Là Một Giáo Án BẤT TỬ ?",
-      "title_original": "Cresh Eren Full Giáp Ảo Là Một Giáo Án BẤT TỬ ?",
+      "title": "Cresht Eren Full Giáp Ảo Là Một Giáo Án BẤT TỬ ?",
+      "title_original": "Cresht Eren Full Giáp Ảo Là Một Giáo Án BẤT TỬ ?",
       "translated": false,
       "country": "VN",
       "lang_original": "vi",
@@ -211,8 +222,8 @@
     },
     {
       "videoId": "JtyHPqfXUR0",
-      "title": "🔴𝐋𝐈𝐕𝐄 ไทยเจอไทย! 🇹🇭 Bacon Time vs Tenacity | การแข่งขัน RoV นานาชาติ APL 2026 Wildcard",
-      "title_original": "🔴𝐋𝐈𝐕𝐄 ไทยเจอไทย! 🇹🇭 Bacon Time vs Tenacity | การแข่งขัน RoV นานาชาติ APL 2026 Wildcard",
+      "title": "🔴𝐋𝐈𝐕𝐄 ชนะเข้ารอบ แพ้ตกรอบ Bacon Time vs Tenacity | การแข่งขัน RoV นานาชาติ APL 2026 Wildcard",
+      "title_original": "🔴𝐋𝐈𝐕𝐄 ชนะเข้ารอบ แพ้ตกรอบ Bacon Time vs Tenacity | การแข่งขัน RoV นานาชาติ APL 2026 Wildcard",
       "translated": false,
       "country": "VN",
       "lang_original": "vi",
@@ -2188,17 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-04-29T09:49:29Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/FKK-ku52Nwo/maxresdefault.jpg"
-    },
-    {
-      "videoId": "q__zHhTBD-8",
-      "title": "Cch best Paine gank team bn nght th v combo qu mnh",
-      "title_original": "Cch best Paine gank team bn nght th v combo qu mnh",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-04-29T06:04:00Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/q__zHhTBD-8/maxresdefault.jpg"
     }
   ]
 }
