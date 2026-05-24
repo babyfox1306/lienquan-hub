@@ -1,6 +1,39 @@
 {
   "videos": [
     {
+      "videoId": "VMh_vrItZHk",
+      "title": "[TRẬN QUYẾT ĐỊNH] Slimz Gánh Trận Cuối Lên Cao Thủ: Phóng Lao Mù Mắt Ngộ Không!",
+      "title_original": "[TRẬN QUYẾT ĐỊNH] Slimz Gánh Trận Cuối Lên Cao Thủ: Phóng Lao Mù Mắt Ngộ Không!",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-05-24T10:28:40Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/VMh_vrItZHk/maxresdefault.jpg"
+    },
+    {
+      "videoId": "Gaw9ZaiBtjM",
+      "title": "Vĩnh Đất Chạm Mặt One Kill: 25 Phút Cân Não Rank Cận Thách Đấu",
+      "title_original": "Vĩnh Đất Chạm Mặt One Kill: 25 Phút Cân Não Rank Cận Thách Đấu",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-05-24T10:22:08Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/Gaw9ZaiBtjM/maxresdefault.jpg"
+    },
+    {
+      "videoId": "v22Z9GPMaW4",
+      "title": " C Gh Vo  Li Nt Like B Th Ch Knh Nha Bro",
+      "title_original": " C Gh Vo  Li Nt Like B Th Ch Knh Nha Bro",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-05-24T09:58:01Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/v22Z9GPMaW4/maxresdefault.jpg"
+    },
+    {
       "videoId": "zBgywWtZqFQ",
       "title": "Nerf Vậy, Thả Gildur Được Chưa?",
       "title_original": "Nerf Vậy, Thả Gildur Được Chưa?",
@@ -277,8 +310,8 @@
     },
     {
       "videoId": "MBuPm0PR1pE",
-      "title": "Nerf Vậy, Thả Volkaht Được Chưa?",
-      "title_original": "Nerf Vậy, Thả Volkaht Được Chưa?",
+      "title": "Nerf Vậy, Thả Volkath Được Chưa?",
+      "title_original": "Nerf Vậy, Thả Volkath Được Chưa?",
       "translated": false,
       "country": "VN",
       "lang_original": "vi",
@@ -2166,39 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-04-25T09:22:21Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/kq_M0QAB9fU/maxresdefault.jpg"
-    },
-    {
-      "videoId": "4U43TkxzBOw",
-      "title": "Khi Thủy Quái Hóa Thân Thành Eren Jaeger! Sức Mạnh Hủy Diệt Của Titan Là Đây!",
-      "title_original": "Khi Thủy Quái Hóa Thân Thành Eren Jaeger! Sức Mạnh Hủy Diệt Của Titan Là Đây!",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-04-24T11:32:33Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/4U43TkxzBOw/maxresdefault.jpg"
-    },
-    {
-      "videoId": "NQtm4KbQM_U",
-      "title": "Liên Quân | Cách Nhận Free 3 Rương Skin Và Skin SSS Sự Kiện Bước Nhảy Chung Sức Nhận Quà",
-      "title_original": "Liên Quân | Cách Nhận Free 3 Rương Skin Và Skin SSS Sự Kiện Bước Nhảy Chung Sức Nhận Quà",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-04-24T04:09:16Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/NQtm4KbQM_U/maxresdefault.jpg"
-    },
-    {
-      "videoId": "6PA7hPZuLM0",
-      "title": "Tng mi Flowborn h php s combo mi c tay vn thua! v sao",
-      "title_original": "Tng mi Flowborn h php s combo mi c tay vn thua! v sao",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-04-23T12:53:47Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/6PA7hPZuLM0/maxresdefault.jpg"
     }
   ]
 }
