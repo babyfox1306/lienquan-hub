@@ -39,9 +39,9 @@
         "Krixi"
       ],
       "tier": "B",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 3, Score: 0)",
-      "hot": true,
-      "hot_count": 3,
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 0)",
+      "hot": false,
+      "hot_count": 2,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/3/3f/Nakroth_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20201224121203",
       "related_videos": [
         "fDSfiJ3AIUk",
@@ -2439,11 +2439,13 @@
       "counters": [],
       "synergies": [],
       "tier": "B",
-      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
-      "hot_count": 0,
+      "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/6/64/Aleister_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20241210090540",
-      "related_videos": []
+      "related_videos": [
+        "KofV0VZoH6w"
+      ]
     },
     {
       "id": "amily",
@@ -4967,5 +4969,5 @@
       ]
     }
   ],
-  "updated_at": "2026-05-24T10:34:39Z"
+  "updated_at": "2026-05-24T11:30:39Z"
 }
