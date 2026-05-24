@@ -1888,11 +1888,12 @@
         "Liliana"
       ],
       "tier": "S",
-      "tier_reason": "Được gán từ dữ liệu hạt giống (Seed S-Tier) do ít video mới (Hot Count: 0)",
+      "tier_reason": "Được gán từ dữ liệu hạt giống (Seed S-Tier) do ít video mới (Hot Count: 1)",
       "hot": false,
-      "hot_count": 0,
+      "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/3/36/Taara_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20231220020807",
       "related_videos": [
+        "-MWyn3yU6pA",
         "ftIA3L1z52Y"
       ]
     },
@@ -3386,9 +3387,7 @@
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/8/86/Errol_profile.jpg/revision/latest/scale-to-width-down/500?cb=20200531224447",
-      "related_videos": [
-        "JuWTLeM0ceQ"
-      ]
+      "related_videos": []
     },
     {
       "id": "fennik",
@@ -4964,5 +4963,5 @@
       ]
     }
   ],
-  "updated_at": "2026-05-24T03:04:26Z"
+  "updated_at": "2026-05-24T04:39:27Z"
 }
