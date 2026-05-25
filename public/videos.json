@@ -1,6 +1,28 @@
 {
   "videos": [
     {
+      "videoId": "yqSjQAUSt7A",
+      "title": "🌈 HIỆU ỨNG CHIÊU THỨC | ERIN NHẠC CÔNG PHIÊU DU 🌈 - Garena Liên Quân Mobile",
+      "title_original": "🌈 HIỆU ỨNG CHIÊU THỨC | ERIN NHẠC CÔNG PHIÊU DU 🌈 - Garena Liên Quân Mobile",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-05-25T12:01:08Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/yqSjQAUSt7A/maxresdefault.jpg"
+    },
+    {
+      "videoId": "iYtQ9I07WYs",
+      "title": "☁️ PHIM KỸ XẢO | SỔ SỨ MỆNH 90 - KHÚC NHẠC BIỂN MÂY ☁️ - Garena Liên Quân Mobile",
+      "title_original": "☁️ PHIM KỸ XẢO | SỔ SỨ MỆNH 90 - KHÚC NHẠC BIỂN MÂY ☁️ - Garena Liên Quân Mobile",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-05-25T11:00:53Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/iYtQ9I07WYs/maxresdefault.jpg"
+    },
+    {
       "videoId": "iedjYh_oQyg",
       "title": "NAKROTH LEVI trong tay Vĩnh Đất: Khi \"Thần Kiếm\" thực sự gánh team!",
       "title_original": "NAKROTH LEVI trong tay Vĩnh Đất: Khi \"Thần Kiếm\" thực sự gánh team!",
@@ -2177,28 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-05-02T10:26:20Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/5DlZ0IUOq7E/maxresdefault.jpg"
-    },
-    {
-      "videoId": "YSyNIyX9aEQ",
-      "title": "VUX HÓA THÂN TITAN QUÁI THÚ HỦY DIỆT TEAM BẠN TRONG HỖN CHIẾN PHÙ HIỆU MỚI",
-      "title_original": "VUX HÓA THÂN TITAN QUÁI THÚ HỦY DIỆT TEAM BẠN TRONG HỖN CHIẾN PHÙ HIỆU MỚI",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-05-02T09:28:35Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/YSyNIyX9aEQ/maxresdefault.jpg"
-    },
-    {
-      "videoId": "Y-CR7UH3fns",
-      "title": "LIN QUN : Chnh Thc Nakroth Levi Xut Hin Trong Game - Siu Phm i Lane Rng Gold",
-      "title_original": "LIN QUN : Chnh Thc Nakroth Levi Xut Hin Trong Game - Siu Phm i Lane Rng Gold",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-05-01T13:15:05Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/Y-CR7UH3fns/maxresdefault.jpg"
     }
   ]
 }
