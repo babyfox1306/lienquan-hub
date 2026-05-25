@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-25T08:32:44.562082",
+  "last_updated": "2026-05-25T10:32:39.497638",
   "total_news": 100,
   "news": [
     {
@@ -13,6 +13,19 @@
       "published_at": "2026-05-22T11:35:07Z",
       "crawled_at": "2026-05-22T11:53:40.451213",
       "category": "tướng",
+      "priority": 1
+    },
+    {
+      "id": "25dab1b374e6",
+      "title": "realme – Nhà Tài Trợ Chính ĐTDV Mùa Xuân 2026: Khép lại mùa giải bùng nổ và đêm chung kết siêu mãn nhãn",
+      "link": "https://lienquan.garena.vn/realme-nha-tai-tro-chinh-dtdv-mua-xuan-2026-khep-lai-mua-giai-bung-no-va-dem-chung-ket-sieu-man-nhan/",
+      "summary": "<p>Với vai trò Nhà tài trợ chính Đấu Trường Danh Vọng Mùa Xuân 2026, realme đã tiếp tục đồng hành cùng giải đấu để mở ra hành trình mới với tinh thần “Sức Mạnh Real, [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/realme-nha-tai-tro-chinh-dtdv-mua-xuan-2026-khep-lai-mua-giai-bung-no-va-dem-chung-ket-sieu-man-nhan/\">realme &#8211; Nhà Tài Trợ Chính ĐTDV Mùa Xuân 2026: Khép lại mùa giải bùng nổ và đêm chung kết siêu mãn nhãn</a> appeared first on <a href=\"https://lienquan.garena.vn\">",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2026/05/Thumbnails-Ban-sao-cua-AOG26.170234-scaled.jpg",
+      "source": "Liên Quân Mobile Official",
+      "source_url": "https://lienquan.garena.vn/rss",
+      "published_at": "2026-05-20T09:57:45Z",
+      "crawled_at": "2026-05-25T10:27:47.775902",
+      "category": "esports",
       "priority": 1
     },
     {
@@ -1286,19 +1299,6 @@
       "source_url": "https://lienquan.garena.vn/rss",
       "published_at": "2025-11-25T10:44:38Z",
       "crawled_at": "2025-11-25T11:01:34.362673",
-      "category": "tướng",
-      "priority": 1
-    },
-    {
-      "id": "8429d4bc7a53",
-      "title": "ĐỘI TUYỂN TP. HỒ CHÍ MINH BẢO VỆ THÀNH CÔNG MŨ VINH QUANG | TỨ PHƯƠNG ĐẠI CHIẾN MÙA ĐÔNG 2025 THÀNH CÔNG RỰC RỠ",
-      "link": "https://lienquan.garena.vn/doi-tuyen-tp-ho-chi-minh-bao-ve-thanh-cong-mu-vinh-quang-tu-phuong-dai-chien-mua-dong-2025-thanh-cong-ruc-ro/",
-      "summary": "<p>Xin chào các Kiện tướng, Hành trình Tứ Phương Đại Chiến Mùa Đông 2025 đã chính thức khép lại và đội tuyển TP. Hồ Chí Minh đã bảo vệ thành công ngôi vương đánh dấu [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/doi-tuyen-tp-ho-chi-minh-bao-ve-thanh-cong-mu-vinh-quang-tu-phuong-dai-chien-mua-dong-2025-thanh-cong-ruc-ro/\">ĐỘI TUYỂN TP. HỒ CHÍ MINH BẢO VỆ THÀNH CÔNG MŨ VINH QUANG | TỨ PHƯƠNG ĐẠI CHIẾN MÙA ĐÔNG 2025 THÀNH CÔNG RỰC RỠ</a> appeared first on <a href=\"https://lienquan.g",
-      "image_url": null,
-      "source": "Liên Quân Mobile Official",
-      "source_url": "https://lienquan.garena.vn/rss",
-      "published_at": "2025-11-19T05:05:23Z",
-      "crawled_at": "2025-11-19T06:01:33.808182",
       "category": "tướng",
       "priority": 1
     }
