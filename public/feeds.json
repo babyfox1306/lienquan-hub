@@ -81,11 +81,6 @@
       "type": "channel"
     },
     {
-      "id": "UCWXXFvwmcOHxEk6IlhW1BhA",
-      "name": "Phuc Ram",
-      "type": "channel"
-    },
-    {
       "id": "UCfoEdZzeGa3VW-N_TYYe86Q",
       "name": "Vĩnh Đất",
       "type": "channel"
@@ -96,8 +91,13 @@
       "type": "channel"
     },
     {
-      "id": "UCVBE4ZK00c4BKU8_NUCPTbQ",
-      "name": "Đạt Feed",
+      "id": "UCdSGpiTIGwzlQQ9VP1IJXgg",
+      "name": "Bốp Bốp Top1 Liên Quân",
+      "type": "channel"
+    },
+    {
+      "id": "UC1Gvx0tvS1_WyFmEH-G_2TA",
+      "name": "Team Flash Liên Quân Mobile",
       "type": "channel"
     }
   ],

@@ -1432,9 +1432,7 @@
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/f/f0/Valhein_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260124103241",
-      "related_videos": [
-        "4qDUYjeRaq8"
-      ]
+      "related_videos": []
     },
     {
       "id": "lubu",
@@ -1946,8 +1944,7 @@
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/e/e8/Qi_profile.jpg/revision/latest/scale-to-width-down/500?cb=20200531224545",
       "related_videos": [
-        "yMIfSh6qO4k",
-        "BD0nljD6SKw"
+        "yMIfSh6qO4k"
       ]
     },
     {
@@ -2175,9 +2172,7 @@
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/6/60/Zephys_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125082336",
-      "related_videos": [
-        "8BvssxLsIco"
-      ]
+      "related_videos": []
     },
     {
       "id": "arthur",
@@ -3898,9 +3893,7 @@
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/1/1e/Max_Default.png/revision/latest/scale-to-width-down/500?cb=20180313094835",
-      "related_videos": [
-        "8BvssxLsIco"
-      ]
+      "related_videos": []
     },
     {
       "id": "ming",
@@ -4973,5 +4966,5 @@
       ]
     }
   ],
-  "updated_at": "2026-05-25T12:12:28Z"
+  "updated_at": "2026-05-25T14:04:49Z"
 }
