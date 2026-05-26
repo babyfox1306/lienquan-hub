@@ -792,11 +792,12 @@
         "Krixi"
       ],
       "tier": "A",
-      "tier_reason": "Được gán từ dữ liệu hạt giống (Seed A-Tier) do ít video mới (Hot Count: 0)",
+      "tier_reason": "Được gán từ dữ liệu hạt giống (Seed A-Tier) do ít video mới (Hot Count: 1)",
       "hot": false,
-      "hot_count": 0,
+      "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/7/7c/Toro_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125082122",
       "related_videos": [
+        "90WAhBAEpFg",
         "3bjl1LP5o2s",
         "3Hzg585TZ-E",
         "OBL2n0Kk2IY"
@@ -842,12 +843,13 @@
         "Elsu",
         "Yorn"
       ],
-      "tier": "B",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 0)",
+      "tier": "C",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: -1)",
       "hot": false,
       "hot_count": 2,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/7/71/Gildur_Default.jpg/revision/latest/scale-to-width-down/500?cb=20180327112635",
       "related_videos": [
+        "90WAhBAEpFg",
         "zBgywWtZqFQ",
         "DTKFEZrtQgc",
         "3Hzg585TZ-E",
@@ -941,17 +943,17 @@
         "Toro"
       ],
       "tier": "S",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 9, Score: 4)",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 10, Score: 4)",
       "hot": true,
-      "hot_count": 9,
+      "hot_count": 10,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/8/8e/Jinnar_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125090346",
       "related_videos": [
+        "aw47SfLfgU8",
         "5deePTS6bG4",
         "AJZW834eEIY",
         "5SukuECQYdA",
         "vtpg2j14oQQ",
-        "1S71H3QPn1M",
-        "VMBWLixWPe8"
+        "1S71H3QPn1M"
       ]
     },
     {
@@ -995,11 +997,12 @@
         "Alice"
       ],
       "tier": "C",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 3, Score: -1)",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 4, Score: -2)",
       "hot": true,
-      "hot_count": 3,
+      "hot_count": 4,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/a/ab/Volkath_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20200531224601",
       "related_videos": [
+        "90WAhBAEpFg",
         "MBuPm0PR1pE",
         "YlkLuDAZHi4",
         "ObeMGyig1aI",
@@ -1942,9 +1945,7 @@
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/e/e8/Qi_profile.jpg/revision/latest/scale-to-width-down/500?cb=20200531224545",
-      "related_videos": [
-        "yMIfSh6qO4k"
-      ]
+      "related_videos": []
     },
     {
       "id": "mina",
@@ -4967,5 +4968,5 @@
       ]
     }
   ],
-  "updated_at": "2026-05-26T08:14:16Z"
+  "updated_at": "2026-05-26T10:25:32Z"
 }
