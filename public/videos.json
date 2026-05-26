@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "unB9iptFNrs",
+      "title": "【傳說新造型】傳說聖典第90篇章 故事影片|雲穹之境《Garena傳說對決》",
+      "title_original": "【傳說新造型】傳說聖典第90篇章 故事影片|雲穹之境《Garena傳說對決》",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-05-26T14:00:39Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/unB9iptFNrs/maxresdefault.jpg"
+    },
+    {
       "videoId": "2To2tnR-gvA",
       "title": "Tắt Live Cho Anh HungDuog Tao Live !!!",
       "title_original": "Tắt Live Cho Anh HungDuog Tao Live !!!",
@@ -2188,17 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-05-12T07:49:13Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/sVjZ-huKw6E/maxresdefault.jpg"
-    },
-    {
-      "videoId": "NQRr61TUw5Q",
-      "title": "🔴 TRỰC TIẾP: ĐL vs CT | HN vs GL | SWISS STAGE 11/05 | TỨ PHƯƠNG ĐẠI CHIẾN MÙA XUÂN 2026",
-      "title_original": "🔴 TRỰC TIẾP: ĐL vs CT | HN vs GL | SWISS STAGE 11/05 | TỨ PHƯƠNG ĐẠI CHIẾN MÙA XUÂN 2026",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-05-11T15:12:44Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/NQRr61TUw5Q/maxresdefault.jpg"
     }
   ]
 }
