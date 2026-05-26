@@ -39,17 +39,17 @@
         "Krixi"
       ],
       "tier": "A",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 1)",
-      "hot": false,
-      "hot_count": 2,
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 4, Score: 1)",
+      "hot": true,
+      "hot_count": 4,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/3/3f/Nakroth_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20201224121203",
       "related_videos": [
+        "YZkVDKR7dKA",
+        "lna7fuhVq1E",
         "iedjYh_oQyg",
         "fDSfiJ3AIUk",
         "Qo3JQefG0dc",
-        "05mw0O98-EE",
-        "zPTIuj7RqHE",
-        "sFYALgwjqjE"
+        "05mw0O98-EE"
       ]
     },
     {
@@ -941,17 +941,17 @@
         "Toro"
       ],
       "tier": "S",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 11, Score: 4)",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 12, Score: 4)",
       "hot": true,
-      "hot_count": 11,
+      "hot_count": 12,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/8/8e/Jinnar_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125090346",
       "related_videos": [
         "KbciBVLVgoY",
         "aw47SfLfgU8",
+        "lna7fuhVq1E",
         "5deePTS6bG4",
         "AJZW834eEIY",
-        "5SukuECQYdA",
-        "vtpg2j14oQQ"
+        "5SukuECQYdA"
       ]
     },
     {
@@ -3030,8 +3030,7 @@
         "J-YZkoNq8BI",
         "-ZsB1IgVg64",
         "uVJEteeJQ60",
-        "FVsXOkE4Qbw",
-        "HRD8Hc60JUA"
+        "FVsXOkE4Qbw"
       ]
     },
     {
@@ -4966,5 +4965,5 @@
       ]
     }
   ],
-  "updated_at": "2026-05-26T18:58:50Z"
+  "updated_at": "2026-05-26T19:42:41Z"
 }
