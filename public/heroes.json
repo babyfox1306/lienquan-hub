@@ -941,17 +941,17 @@
         "Toro"
       ],
       "tier": "S",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 11, Score: 4)",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 12, Score: 4)",
       "hot": true,
-      "hot_count": 11,
+      "hot_count": 12,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/8/8e/Jinnar_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125090346",
       "related_videos": [
+        "qvtyqmFfGGk",
         "KbciBVLVgoY",
         "aw47SfLfgU8",
         "lna7fuhVq1E",
         "5deePTS6bG4",
-        "AJZW834eEIY",
-        "5SukuECQYdA"
+        "AJZW834eEIY"
       ]
     },
     {
@@ -2749,11 +2749,12 @@
       "counters": [],
       "synergies": [],
       "tier": "B",
-      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện 2 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
-      "hot_count": 0,
+      "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/7/7f/Biron_itadori.jpg/revision/latest/scale-to-width-down/500?cb=20250109145933",
       "related_videos": [
+        "qvtyqmFfGGk",
         "ObeMGyig1aI"
       ]
     },
@@ -4968,5 +4969,5 @@
       ]
     }
   ],
-  "updated_at": "2026-05-27T08:20:34Z"
+  "updated_at": "2026-05-27T10:26:08Z"
 }
