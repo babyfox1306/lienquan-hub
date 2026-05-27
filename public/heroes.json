@@ -1236,13 +1236,11 @@
         "Baldum"
       ],
       "tier": "B",
-      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/d/d7/Lauriel_Splash.jpg/revision/latest/scale-to-width-down/500?cb=20171113161316",
-      "related_videos": [
-        "x2T43AUYVEw"
-      ]
+      "related_videos": []
     },
     {
       "id": "liliana",
@@ -4967,5 +4965,5 @@
       ]
     }
   ],
-  "updated_at": "2026-05-27T14:10:24Z"
+  "updated_at": "2026-05-27T16:20:41Z"
 }
