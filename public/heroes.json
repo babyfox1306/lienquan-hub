@@ -39,17 +39,17 @@
         "Krixi"
       ],
       "tier": "A",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 3, Score: 1)",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 4, Score: 1)",
       "hot": true,
-      "hot_count": 3,
+      "hot_count": 4,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/3/3f/Nakroth_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20201224121203",
       "related_videos": [
+        "W7kF7FR2Tsc",
         "YZkVDKR7dKA",
         "lna7fuhVq1E",
         "iedjYh_oQyg",
         "fDSfiJ3AIUk",
-        "Qo3JQefG0dc",
-        "05mw0O98-EE"
+        "Qo3JQefG0dc"
       ]
     },
     {
@@ -1891,8 +1891,7 @@
       "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/3/36/Taara_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20231220020807",
       "related_videos": [
-        "-MWyn3yU6pA",
-        "ftIA3L1z52Y"
+        "-MWyn3yU6pA"
       ]
     },
     {
@@ -4157,14 +4156,12 @@
       },
       "counters": [],
       "synergies": [],
-      "tier": "A",
-      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 1)",
+      "tier": "B",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/9/9a/Rourke_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125052355",
-      "related_videos": [
-        "ftIA3L1z52Y"
-      ]
+      "related_videos": []
     },
     {
       "id": "roxie",
@@ -4965,5 +4962,5 @@
       ]
     }
   ],
-  "updated_at": "2026-05-27T18:04:25Z"
+  "updated_at": "2026-05-27T19:04:37Z"
 }
