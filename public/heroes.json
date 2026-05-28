@@ -282,8 +282,7 @@
       "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/5/5a/Yena_profile.jpg/revision/latest/scale-to-width-down/500?cb=20200531224619",
       "related_videos": [
-        "mcBfEcRE9o4",
-        "qjhOO8HNges"
+        "mcBfEcRE9o4"
       ]
     },
     {
@@ -327,13 +326,12 @@
         "Arthur"
       ],
       "tier": "S",
-      "tier_reason": "Được gán từ dữ liệu hạt giống (Seed S-Tier) do ít video mới (Hot Count: 1)",
+      "tier_reason": "Được gán từ dữ liệu hạt giống (Seed S-Tier) do ít video mới (Hot Count: 0)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/a/a6/Marja_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125052236",
       "related_videos": [
-        "-N1OtWwY2wI",
-        "qjhOO8HNges"
+        "-N1OtWwY2wI"
       ]
     },
     {
@@ -1047,14 +1045,12 @@
         "Grakk",
         "Toro"
       ],
-      "tier": "A",
-      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 1)",
+      "tier": "B",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/e/e7/Maloch_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125090603",
-      "related_videos": [
-        "73IgO3zq5ZY"
-      ]
+      "related_videos": []
     },
     {
       "id": "krixi",
@@ -4965,5 +4961,5 @@
       ]
     }
   ],
-  "updated_at": "2026-05-28T14:16:49Z"
+  "updated_at": "2026-05-28T16:29:24Z"
 }
