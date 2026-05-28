@@ -2299,14 +2299,13 @@
         "Baldum"
       ],
       "tier": "B",
-      "tier_reason": "Xuất hiện 3 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện 2 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/a/a1/Tel%27Annas_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20171106200421",
       "related_videos": [
         "z4d6G4OKFZU",
-        "zPTIuj7RqHE",
-        "Unc96afkkQ8"
+        "zPTIuj7RqHE"
       ]
     },
     {
@@ -3023,8 +3022,7 @@
       "related_videos": [
         "J-YZkoNq8BI",
         "-ZsB1IgVg64",
-        "uVJEteeJQ60",
-        "FVsXOkE4Qbw"
+        "uVJEteeJQ60"
       ]
     },
     {
@@ -4961,5 +4959,5 @@
       ]
     }
   ],
-  "updated_at": "2026-05-28T16:29:24Z"
+  "updated_at": "2026-05-28T18:05:18Z"
 }
