@@ -95,9 +95,7 @@
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/5/5e/Murad_Outlaw.png/revision/latest/scale-to-width-down/500?cb=20180317082415",
-      "related_videos": [
-        "7iRHVGEUZTM"
-      ]
+      "related_videos": []
     },
     {
       "id": "zata",
@@ -2299,13 +2297,12 @@
         "Baldum"
       ],
       "tier": "B",
-      "tier_reason": "Xuất hiện 2 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/a/a1/Tel%27Annas_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20171106200421",
       "related_videos": [
-        "z4d6G4OKFZU",
-        "zPTIuj7RqHE"
+        "z4d6G4OKFZU"
       ]
     },
     {
@@ -4959,5 +4956,5 @@
       ]
     }
   ],
-  "updated_at": "2026-05-28T20:49:14Z"
+  "updated_at": "2026-05-28T21:40:29Z"
 }
