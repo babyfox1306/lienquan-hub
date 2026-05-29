@@ -39,17 +39,17 @@
         "Krixi"
       ],
       "tier": "A",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 7, Score: 1)",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 8, Score: 1)",
       "hot": true,
-      "hot_count": 7,
+      "hot_count": 8,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/3/3f/Nakroth_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20201224121203",
       "related_videos": [
         "5Wgx2ClUnnU",
+        "mVM-LggWPvA",
         "6f_WAWkBhCE",
         "W7kF7FR2Tsc",
         "2Pw33xXMhGc",
-        "YZkVDKR7dKA",
-        "lna7fuhVq1E"
+        "YZkVDKR7dKA"
       ]
     },
     {
@@ -3327,8 +3327,7 @@
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/5/54/Erin_noi_tai.png/revision/latest?cb=20240411130433",
       "related_videos": [
         "85gw9r_xhXY",
-        "yqSjQAUSt7A",
-        "XHTCo-ZDoIs"
+        "yqSjQAUSt7A"
       ]
     },
     {
@@ -4822,13 +4821,12 @@
       "counters": [],
       "synergies": [],
       "tier": "B",
-      "tier_reason": "Xuất hiện 2 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
       "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/4/48/Y%27bneth_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125051920",
       "related_videos": [
-        "CYqTkcdTDeY",
-        "uV79-xT65Bc"
+        "CYqTkcdTDeY"
       ]
     },
     {
@@ -4951,5 +4949,5 @@
       ]
     }
   ],
-  "updated_at": "2026-05-29T14:04:37Z"
+  "updated_at": "2026-05-29T15:23:45Z"
 }
