@@ -1458,7 +1458,7 @@
       "tier": "B",
       "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/c/c2/Lu_Bu_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125062847",
       "related_videos": [
         "v2xw7kOcAN0"
@@ -4948,14 +4948,12 @@
       "counters": [],
       "synergies": [],
       "tier": "B",
-      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/9/9e/Zuka_Splash.png/revision/latest/scale-to-width-down/500?cb=20171204210621",
-      "related_videos": [
-        "fDSfiJ3AIUk"
-      ]
+      "related_videos": []
     }
   ],
-  "updated_at": "2026-05-29T17:09:50Z"
+  "updated_at": "2026-05-29T18:51:28Z"
 }
