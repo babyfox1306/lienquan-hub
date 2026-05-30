@@ -934,7 +934,7 @@
         "Toro"
       ],
       "tier": "S",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 5, Score: 5)",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 5, Score: 4)",
       "hot": true,
       "hot_count": 5,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/8/8e/Jinnar_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125090346",
@@ -4956,5 +4956,5 @@
       "related_videos": []
     }
   ],
-  "updated_at": "2026-05-30T13:33:57Z"
+  "updated_at": "2026-05-30T14:33:44Z"
 }

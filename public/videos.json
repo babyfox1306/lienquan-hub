@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "qh64uAP1tMU",
+      "title": "【傳說新造型】古木「雲端牧歌」|造型展示影片《Garena傳說對決》",
+      "title_original": "【傳說新造型】古木「雲端牧歌」|造型展示影片《Garena傳說對決》",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-05-30T14:00:05Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/qh64uAP1tMU/maxresdefault.jpg"
+    },
+    {
       "videoId": "zqFV1kTktuk",
       "title": "🔴 TRỰC TIẾP:TP. HÀ NỘI  VS ĐH NGUYỄN TẤT THÀNH | CK TỨ PHƯƠNG ĐẠI CHIẾN MÙA XUÂN 2026 | 30/05",
       "title_original": "🔴 TRỰC TIẾP:TP. HÀ NỘI  VS ĐH NGUYỄN TẤT THÀNH | CK TỨ PHƯƠNG ĐẠI CHIẾN MÙA XUÂN 2026 | 30/05",
@@ -57,8 +68,8 @@
     },
     {
       "videoId": "rGFpJ01ZPqc",
-      "title": "Nakroth Ma Ch Ch Mng L Mt Combo Hy Dit ?",
-      "title_original": "Nakroth Ma Ch Ch Mng L Mt Combo Hy Dit ?",
+      "title": "Nakroth Ma Ch Ch Mng L Mt Gio n Hy Dit ?",
+      "title_original": "Nakroth Ma Ch Ch Mng L Mt Gio n Hy Dit ?",
       "translated": false,
       "country": "VN",
       "lang_original": "vi",
@@ -2188,17 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-05-21T09:21:12Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/HasNiaolnNE/maxresdefault.jpg"
-    },
-    {
-      "videoId": "lXzH6jltEWI",
-      "title": "Jinna Trở Lại Meta: Mạnh Gấp 2 Bản Gốc Cao Tiệm Ly?",
-      "title_original": "Jinna Trở Lại Meta: Mạnh Gấp 2 Bản Gốc Cao Tiệm Ly?",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-05-21T09:17:45Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/lXzH6jltEWI/maxresdefault.jpg"
     }
   ]
 }
