@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "nYdgyovyDqg",
+      "title": "🔴 Sắp nổi tiếng - Ngày 1",
+      "title_original": "🔴 Sắp nổi tiếng - Ngày 1",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-05-30T18:01:54Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/nYdgyovyDqg/maxresdefault.jpg"
+    },
+    {
       "videoId": "EPu3hjxmeHw",
       "title": "🔴 TRỰC TIẾP:TP. HÀ NỘI  VS ĐH NGUYỄN TẤT THÀNH | CK TỨ PHƯƠNG ĐẠI CHIẾN MÙA XUÂN 2026 | 30/05",
       "title_original": "🔴 TRỰC TIẾP:TP. HÀ NỘI  VS ĐH NGUYỄN TẤT THÀNH | CK TỨ PHƯƠNG ĐẠI CHIẾN MÙA XUÂN 2026 | 30/05",
@@ -56,17 +67,6 @@
       "thumbnailUrl": "https://i.ytimg.com/vi/zMMXoIa2CHE/maxresdefault.jpg"
     },
     {
-      "videoId": "nYdgyovyDqg",
-      "title": "🔴 Sắp nổi tiếng - Ngày 1",
-      "title_original": "🔴 Sắp nổi tiếng - Ngày 1",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-05-30T12:36:09Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/nYdgyovyDqg/maxresdefault.jpg"
-    },
-    {
       "videoId": "Ybx4vUhW3G4",
       "title": "🔴 TRỰC TIẾP: TP. HÀ NỘI  VS ĐH NGUYỄN TẤT THÀNH | CK TỨ PHƯƠNG ĐẠI CHIẾN MÙA XUÂN 2026 | 30/05",
       "title_original": "🔴 TRỰC TIẾP: TP. HÀ NỘI  VS ĐH NGUYỄN TẤT THÀNH | CK TỨ PHƯƠNG ĐẠI CHIẾN MÙA XUÂN 2026 | 30/05",
@@ -90,8 +90,8 @@
     },
     {
       "videoId": "QUTif8EztrE",
-      "title": "Xạ Thủ Trận Này Gọi Tên RAZ !",
-      "title_original": "Xạ Thủ Trận Này Gọi Tên RAZ !",
+      "title": "Trn Ny Ai Lm X Th? RAZ Ln Gi Kiu Ny Th Ai Chi Na!",
+      "title_original": "Trn Ny Ai Lm X Th? RAZ Ln Gi Kiu Ny Th Ai Chi Na!",
       "translated": false,
       "country": "VN",
       "lang_original": "vi",
