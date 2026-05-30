@@ -39,17 +39,17 @@
         "Krixi"
       ],
       "tier": "A",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 10, Score: 1)",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 11, Score: 1)",
       "hot": true,
-      "hot_count": 10,
+      "hot_count": 11,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/3/3f/Nakroth_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20201224121203",
       "related_videos": [
+        "rGFpJ01ZPqc",
         "5Wgx2ClUnnU",
         "mVM-LggWPvA",
         "aRaYnH4sZcw",
         "6f_WAWkBhCE",
-        "W7kF7FR2Tsc",
-        "2Pw33xXMhGc"
+        "W7kF7FR2Tsc"
       ]
     },
     {
@@ -1084,13 +1084,11 @@
         "Grakk"
       ],
       "tier": "B",
-      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/c/c4/Krixi_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260124103537",
-      "related_videos": [
-        "z4d6G4OKFZU"
-      ]
+      "related_videos": []
     },
     {
       "id": "tulen",
@@ -2296,13 +2294,12 @@
         "Baldum"
       ],
       "tier": "B",
-      "tier_reason": "Xuất hiện 2 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
       "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/a/a1/Tel%27Annas_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20171106200421",
       "related_videos": [
-        "ebXKvLSGtic",
-        "z4d6G4OKFZU"
+        "ebXKvLSGtic"
       ]
     },
     {
@@ -2345,11 +2342,13 @@
         "Nakroth"
       ],
       "tier": "B",
-      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
-      "hot_count": 0,
+      "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/a/a3/Raz_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125091551",
-      "related_videos": []
+      "related_videos": [
+        "QUTif8EztrE"
+      ]
     },
     {
       "id": "airi",
@@ -3172,9 +3171,9 @@
       "counters": [],
       "synergies": [],
       "tier": "B",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 0)",
+      "tier_reason": "Xuất hiện 3 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
-      "hot_count": 2,
+      "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/e/e6/Dolia_Splash_Art.jpeg/revision/latest/scale-to-width-down/500?cb=20240710174030",
       "related_videos": [
         "i-TqD5BmCQA",
@@ -4957,5 +4956,5 @@
       "related_videos": []
     }
   ],
-  "updated_at": "2026-05-30T11:32:34Z"
+  "updated_at": "2026-05-30T12:23:26Z"
 }
