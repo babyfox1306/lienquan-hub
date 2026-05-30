@@ -374,11 +374,13 @@
         "Alice"
       ],
       "tier": "S",
-      "tier_reason": "Được gán từ dữ liệu hạt giống (Seed S-Tier) do ít video mới (Hot Count: 0)",
+      "tier_reason": "Được gán từ dữ liệu hạt giống (Seed S-Tier) do ít video mới (Hot Count: 1)",
       "hot": false,
-      "hot_count": 0,
+      "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/1/1f/Hayate_profile.jpg/revision/latest/scale-to-width-down/500?cb=20200531224525",
-      "related_videos": []
+      "related_videos": [
+        "yCWQD_9k5pE"
+      ]
     },
     {
       "id": "florentino",
@@ -1131,13 +1133,11 @@
         "Alice"
       ],
       "tier": "B",
-      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/2/2c/Tulen_Splash.jpeg/revision/latest/scale-to-width-down/500?cb=20180102103714",
-      "related_videos": [
-        "_b4QbgiyBlg"
-      ]
+      "related_videos": []
     },
     {
       "id": "ignis",
@@ -4956,5 +4956,5 @@
       "related_videos": []
     }
   ],
-  "updated_at": "2026-05-30T04:33:20Z"
+  "updated_at": "2026-05-30T06:09:35Z"
 }
