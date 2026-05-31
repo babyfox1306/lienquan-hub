@@ -39,17 +39,17 @@
         "Krixi"
       ],
       "tier": "A",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 10, Score: 1)",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 11, Score: 1)",
       "hot": true,
-      "hot_count": 10,
+      "hot_count": 11,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/3/3f/Nakroth_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20201224121203",
       "related_videos": [
+        "G94btFpaAdo",
         "rGFpJ01ZPqc",
         "5Wgx2ClUnnU",
         "mVM-LggWPvA",
         "aRaYnH4sZcw",
-        "6f_WAWkBhCE",
-        "W7kF7FR2Tsc"
+        "6f_WAWkBhCE"
       ]
     },
     {
@@ -137,11 +137,12 @@
         "Grakk"
       ],
       "tier": "A",
-      "tier_reason": "Được gán từ dữ liệu hạt giống (Seed A-Tier) do ít video mới (Hot Count: 1)",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 1)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 2,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/2/2a/Zata_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20200617141406",
       "related_videos": [
+        "sFjrKSSlvs8",
         "OAl27cFGNPo"
       ]
     },
@@ -4392,9 +4393,9 @@
       "counters": [],
       "synergies": [],
       "tier": "A",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 3, Score: 1)",
-      "hot": true,
-      "hot_count": 3,
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 1)",
+      "hot": false,
+      "hot_count": 2,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/9/93/Slimz_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125053904",
       "related_videos": [
         "5Wgx2ClUnnU",
@@ -4958,5 +4959,5 @@
       "related_videos": []
     }
   ],
-  "updated_at": "2026-05-31T10:41:06Z"
+  "updated_at": "2026-05-31T11:34:59Z"
 }
