@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "z4VnldIUaMM",
+      "title": "🔴 Sắp nổi tiếng - Ngày 3",
+      "title_original": "🔴 Sắp nổi tiếng - Ngày 3",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-05-31T17:16:49Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/z4VnldIUaMM/maxresdefault.jpg"
+    },
+    {
       "videoId": "JeATses74Ss",
       "title": "🔴𝐋𝐈𝐕𝐄 งานออฟไลน์ RoV Valor City 2026 🏆 ชิงแชมป์ประเทศไทย @เดอะมอลล์โคราช",
       "title_original": "🔴𝐋𝐈𝐕𝐄 งานออฟไลน์ RoV Valor City 2026 🏆 ชิงแชมป์ประเทศไทย @เดอะมอลล์โคราช",
@@ -21,17 +32,6 @@
       "source": "youtube",
       "publishedAt": "2026-05-31T14:00:24Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/gvw_0DDuXVw/maxresdefault.jpg"
-    },
-    {
-      "videoId": "z4VnldIUaMM",
-      "title": "🔴 Sắp nổi tiếng - Ngày 3",
-      "title_original": "🔴 Sắp nổi tiếng - Ngày 3",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-05-31T13:06:27Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/z4VnldIUaMM/maxresdefault.jpg"
     },
     {
       "videoId": "G94btFpaAdo",
