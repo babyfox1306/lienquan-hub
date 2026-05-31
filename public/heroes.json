@@ -331,9 +331,7 @@
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/a/a6/Marja_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125052236",
-      "related_videos": [
-        "-N1OtWwY2wI"
-      ]
+      "related_videos": []
     },
     {
       "id": "hayate",
@@ -4959,5 +4957,5 @@
       "related_videos": []
     }
   ],
-  "updated_at": "2026-05-31T11:34:59Z"
+  "updated_at": "2026-05-31T12:26:34Z"
 }
