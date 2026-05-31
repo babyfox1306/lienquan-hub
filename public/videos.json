@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "8LykgdJWKZs",
+      "title": "ACS 2026 夏季季後賽 DAY3 - 2026/05/31《Garena 傳說對決》",
+      "title_original": "ACS 2026 夏季季後賽 DAY3 - 2026/05/31《Garena 傳說對決》",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-05-31T10:24:43Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/8LykgdJWKZs/maxresdefault.jpg"
+    },
+    {
       "videoId": "c2q3i955YA0",
       "title": "🔴 Sắp nổi tiếng - Ngày 2",
       "title_original": "🔴 Sắp nổi tiếng - Ngày 2",
@@ -208,17 +219,6 @@
       "source": "youtube",
       "publishedAt": "2026-05-30T10:02:57Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/9flQaee6Bc4/maxresdefault.jpg"
-    },
-    {
-      "videoId": "8LykgdJWKZs",
-      "title": "ACS 2026 夏季季後賽 DAY3 - 2026/05/31《Garena 傳說對決》",
-      "title_original": "ACS 2026 夏季季後賽 DAY3 - 2026/05/31《Garena 傳說對決》",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-05-30T10:00:37Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/8LykgdJWKZs/maxresdefault.jpg"
     },
     {
       "videoId": "1jCVXtw_sbc",
