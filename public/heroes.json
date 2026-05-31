@@ -2539,13 +2539,12 @@
       "counters": [],
       "synergies": [],
       "tier": "A",
-      "tier_reason": "Xuất hiện 2 lần trong video/tin tức 14 ngày qua (Score: 1)",
+      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 1)",
       "hot": false,
       "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/c/c7/Aoi_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20210213111102",
       "related_videos": [
-        "eWRitZBLxpM",
-        "dIESVbYwoh0"
+        "eWRitZBLxpM"
       ]
     },
     {
@@ -3172,11 +3171,12 @@
       "counters": [],
       "synergies": [],
       "tier": "B",
-      "tier_reason": "Xuất hiện 3 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện 4 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
       "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/e/e6/Dolia_Splash_Art.jpeg/revision/latest/scale-to-width-down/500?cb=20240710174030",
       "related_videos": [
+        "D_FOfb47Hfg",
         "i-TqD5BmCQA",
         "0bsgKASkK0g",
         "5deePTS6bG4"
@@ -4958,5 +4958,5 @@
       "related_videos": []
     }
   ],
-  "updated_at": "2026-05-31T05:31:25Z"
+  "updated_at": "2026-05-31T07:16:36Z"
 }
