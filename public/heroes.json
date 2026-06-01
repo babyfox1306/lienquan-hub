@@ -932,8 +932,8 @@
         "Thane",
         "Toro"
       ],
-      "tier": "S",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 6, Score: 3)",
+      "tier": "A",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 6, Score: 2)",
       "hot": true,
       "hot_count": 6,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/8/8e/Jinnar_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125090346",
@@ -4959,5 +4959,5 @@
       "related_videos": []
     }
   ],
-  "updated_at": "2026-06-01T05:37:13Z"
+  "updated_at": "2026-06-01T07:39:06Z"
 }
