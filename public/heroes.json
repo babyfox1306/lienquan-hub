@@ -933,7 +933,7 @@
         "Toro"
       ],
       "tier": "A",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 6, Score: 2)",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 6, Score: 1)",
       "hot": true,
       "hot_count": 6,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/8/8e/Jinnar_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125090346",
@@ -4792,13 +4792,11 @@
       "counters": [],
       "synergies": [],
       "tier": "B",
-      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/3/34/Yan_Splash_Art.jpeg/revision/latest/scale-to-width-down/500?cb=20220507030356",
-      "related_videos": [
-        "g62_8HA97O4"
-      ]
+      "related_videos": []
     },
     {
       "id": "ybneth",
@@ -4959,5 +4957,5 @@
       "related_videos": []
     }
   ],
-  "updated_at": "2026-06-01T07:39:06Z"
+  "updated_at": "2026-06-01T09:47:30Z"
 }
