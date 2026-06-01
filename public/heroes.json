@@ -1505,11 +1505,13 @@
         "Krixi"
       ],
       "tier": "B",
-      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
-      "hot_count": 0,
+      "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/8/84/Veres_profile.jpg/revision/latest/scale-to-width-down/500?cb=20200603115909",
-      "related_videos": []
+      "related_videos": [
+        "jx7fkIjwfrU"
+      ]
     },
     {
       "id": "omen",
@@ -4957,5 +4959,5 @@
       "related_videos": []
     }
   ],
-  "updated_at": "2026-06-01T03:05:37Z"
+  "updated_at": "2026-06-01T05:37:13Z"
 }
