@@ -6,18 +6,8 @@
       "type": "channel"
     },
     {
-      "id": "UCpd1Gf-SZjc_5ce5vVq5FTg",
-      "name": "Mobile MOBA Việt",
-      "type": "channel"
-    },
-    {
       "id": "UCy19QXxbCHh8qVVCbuGk-ig",
       "name": "Garena RoV Thailand",
-      "type": "channel"
-    },
-    {
-      "id": "UCAml1Hqu4LW36B3yEtQg8Fw",
-      "name": "FUNNY GAMING TV",
       "type": "channel"
     },
     {
@@ -61,11 +51,6 @@
       "type": "channel"
     },
     {
-      "id": "UCpQ52533EsOa5k-dQSmD1jw",
-      "name": "Ha Le Quyen",
-      "type": "channel"
-    },
-    {
       "id": "UC1ysb__ddApp3PlDva5NAVw",
       "name": "Top 1 Liliana",
       "type": "channel"
@@ -86,6 +71,11 @@
       "type": "channel"
     },
     {
+      "id": "UCdRY5czHAF_Ms15oJpfUM7A",
+      "name": "Yue Bán Fans",
+      "type": "channel"
+    },
+    {
       "id": "UCVBE4ZK00c4BKU8_NUCPTbQ",
       "name": "Đạt Feed",
       "type": "channel"
@@ -98,6 +88,16 @@
     {
       "id": "UC1Gvx0tvS1_WyFmEH-G_2TA",
       "name": "Team Flash Liên Quân Mobile",
+      "type": "channel"
+    },
+    {
+      "id": "UCgbMglNu16CgtxKRg3LrpjQ",
+      "name": "CBNN Liên Quân Mobile",
+      "type": "channel"
+    },
+    {
+      "id": "UCxRmGuMCF-xhlL4ex5gnAlg",
+      "name": "Soon Nata",
       "type": "channel"
     }
   ],
