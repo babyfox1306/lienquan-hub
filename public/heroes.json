@@ -39,9 +39,9 @@
         "Krixi"
       ],
       "tier": "A",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 10, Score: 1)",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 9, Score: 1)",
       "hot": true,
-      "hot_count": 10,
+      "hot_count": 9,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/3/3f/Nakroth_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20201224121203",
       "related_videos": [
         "niKwy9yY7D0",
@@ -4968,5 +4968,5 @@
       ]
     }
   ],
-  "updated_at": "2026-06-02T11:30:03Z"
+  "updated_at": "2026-06-02T13:08:53Z"
 }
