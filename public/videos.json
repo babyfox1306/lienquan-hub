@@ -1,6 +1,28 @@
 {
   "videos": [
     {
+      "videoId": "0TuSapI9blg",
+      "title": "🔴 Giờ ''HÀNH'' Đã Tới",
+      "title_original": "🔴 Giờ ''HÀNH'' Đã Tới",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-02T14:30:03Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/0TuSapI9blg/maxresdefault.jpg"
+    },
+    {
+      "videoId": "Z1bsA_Ypa-A",
+      "title": "【英雄平衡性調整】擎天之柱 伯頓 | 技能展示影片《Garena傳說對決》",
+      "title_original": "【英雄平衡性調整】擎天之柱 伯頓 | 技能展示影片《Garena傳說對決》",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-02T14:00:32Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/Z1bsA_Ypa-A/maxresdefault.jpg"
+    },
+    {
       "videoId": "Gp1TcTYt3k4",
       "title": "Kỹ Sư IT Dạo Chơi Rank Cỏ !!!",
       "title_original": "Kỹ Sư IT Dạo Chơi Rank Cỏ !!!",
@@ -2177,28 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-05-22T18:14:25Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/IMqLktj2zFU/maxresdefault.jpg"
-    },
-    {
-      "videoId": "56UkuqAPAFI",
-      "title": "Team 5 Giai Tri",
-      "title_original": "Team 5 Giai Tri",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-05-22T17:52:45Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/56UkuqAPAFI/maxresdefault.jpg"
-    },
-    {
-      "videoId": "oVaHWlMX3AY",
-      "title": "🔴 KHÔNG ĐỦ CHỈ TIÊU KHÔNG TẮT LIVE - NGÀY ĐẦU TIÊN",
-      "title_original": "🔴 KHÔNG ĐỦ CHỈ TIÊU KHÔNG TẮT LIVE - NGÀY ĐẦU TIÊN",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-05-22T17:42:59Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/oVaHWlMX3AY/maxresdefault.jpg"
     }
   ]
 }
