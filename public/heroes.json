@@ -514,12 +514,14 @@
         "Violet",
         "Zata"
       ],
-      "tier": "B",
-      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier": "A",
+      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 1)",
       "hot": false,
-      "hot_count": 0,
+      "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/e/ec/Thane_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125055815",
-      "related_videos": []
+      "related_videos": [
+        "rqZd2y2R_pc"
+      ]
     },
     {
       "id": "baldum",
@@ -559,12 +561,14 @@
         "Violet",
         "Krixi"
       ],
-      "tier": "B",
-      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier": "A",
+      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 1)",
       "hot": false,
-      "hot_count": 0,
+      "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/d/da/Baldum_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20200603161240",
-      "related_videos": []
+      "related_videos": [
+        "rqZd2y2R_pc"
+      ]
     },
     {
       "id": "arum",
@@ -992,8 +996,7 @@
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/a/ab/Volkath_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20200531224601",
       "related_videos": [
         "90WAhBAEpFg",
-        "MBuPm0PR1pE",
-        "YlkLuDAZHi4"
+        "MBuPm0PR1pE"
       ]
     },
     {
@@ -2012,12 +2015,14 @@
         "Alice",
         "Krixi"
       ],
-      "tier": "B",
-      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier": "A",
+      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 1)",
       "hot": false,
-      "hot_count": 0,
+      "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/5/59/Zill_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125053417",
-      "related_videos": []
+      "related_videos": [
+        "rqZd2y2R_pc"
+      ]
     },
     {
       "id": "natalya",
@@ -2660,7 +2665,7 @@
       "tier": "A",
       "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 1)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/a/ad/Azzen%27Ka_profile.png/revision/latest/scale-to-width-down/500?cb=20220327081848",
       "related_videos": [
         "Kr1i9C4Ys4c"
@@ -3130,11 +3135,12 @@
       "counters": [],
       "synergies": [],
       "tier": "A",
-      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 1)",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 1)",
       "hot": false,
-      "hot_count": 1,
-      "thumbnail": "https://img.youtube.com/vi/BeVN-uptqhE/maxresdefault.jpg",
+      "hot_count": 2,
+      "thumbnail": "https://img.youtube.com/vi/gX4Y4pC8hWw/maxresdefault.jpg",
       "related_videos": [
+        "gX4Y4pC8hWw",
         "BeVN-uptqhE"
       ]
     },
@@ -4956,5 +4962,5 @@
       "related_videos": []
     }
   ],
-  "updated_at": "2026-06-02T05:34:29Z"
+  "updated_at": "2026-06-02T07:33:42Z"
 }
