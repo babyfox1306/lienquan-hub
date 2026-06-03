@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "NVKUWcdEvug",
+      "title": "🔴 Giờ ''HÀNH'' Đã Đến",
+      "title_original": "🔴 Giờ ''HÀNH'' Đã Đến",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-03T19:34:04Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/NVKUWcdEvug/maxresdefault.jpg"
+    },
+    {
       "videoId": "hJZIa6hz-QE",
       "title": "Tối nay var đồng đội cũ phi không ngáo dirak jungle",
       "title_original": "Tối nay var đồng đội cũ phi không ngáo dirak jungle",
@@ -21,17 +32,6 @@
       "source": "youtube",
       "publishedAt": "2026-06-03T15:49:10Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/wEFus9vwtaQ/maxresdefault.jpg"
-    },
-    {
-      "videoId": "NVKUWcdEvug",
-      "title": "🔴 Giờ ''HÀNH'' Đã Đến",
-      "title_original": "🔴 Giờ ''HÀNH'' Đã Đến",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-06-03T14:05:18Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/NVKUWcdEvug/maxresdefault.jpg"
     },
     {
       "videoId": "sa-P0k3yvXg",
