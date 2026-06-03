@@ -1000,8 +1000,7 @@
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/a/ab/Volkath_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20200531224601",
       "related_videos": [
-        "90WAhBAEpFg",
-        "MBuPm0PR1pE"
+        "90WAhBAEpFg"
       ]
     },
     {
@@ -1322,11 +1321,13 @@
         "Arthur"
       ],
       "tier": "B",
-      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
-      "hot_count": 0,
+      "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/0/0f/Dirak_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125044153",
-      "related_videos": []
+      "related_videos": [
+        "hJZIa6hz-QE"
+      ]
     },
     {
       "id": "elsu",
@@ -4331,8 +4332,7 @@
       "related_videos": [
         "mJyiO5rPsiU",
         "TsiEH2le2uw",
-        "OAl27cFGNPo",
-        "1lSpjoTFBjc"
+        "OAl27cFGNPo"
       ]
     },
     {
@@ -4493,13 +4493,12 @@
       "counters": [],
       "synergies": [],
       "tier": "B",
-      "tier_reason": "Xuất hiện 2 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/b/b1/Tachi_Splash_Art.jpeg/revision/latest/scale-to-width-down/500?cb=20211002035107",
       "related_videos": [
-        "iHtNwI9xJDo",
-        "aQjD45_nrJQ"
+        "iHtNwI9xJDo"
       ]
     },
     {
@@ -4847,12 +4846,13 @@
       },
       "counters": [],
       "synergies": [],
-      "tier": "B",
-      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier": "A",
+      "tier_reason": "Xuất hiện 2 lần trong video/tin tức 14 ngày qua (Score: 1)",
       "hot": false,
-      "hot_count": 0,
+      "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/4/48/Y%27bneth_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125051920",
       "related_videos": [
+        "sa-P0k3yvXg",
         "CYqTkcdTDeY"
       ]
     },
@@ -4976,5 +4976,5 @@
       ]
     }
   ],
-  "updated_at": "2026-06-03T11:37:15Z"
+  "updated_at": "2026-06-03T13:30:00Z"
 }
