@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-06-03T03:05:52.960013",
+  "last_updated": "2026-06-03T05:38:27.435454",
   "total_news": 100,
   "news": [
+    {
+      "id": "fdcaa740f6df",
+      "title": "ĐIỀU CHỈNH GIỮA MÙA PB LỄ HỘI 5v5 – 04.06.2026",
+      "link": "https://lienquan.garena.vn/dieu-chinh-giua-mua-pb-le-hoi-5v5-04-06-2026/",
+      "summary": "<p>Xin chào các Kiện Tướng, Liên Quân Mobile sẽ tiến hành cập nhật không gián đoạn cho máy chủ chính thức vào ngày 04/06/2026. Trong thời gian quy định, các Kiện tướng có thể tự chọn thời điểm [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/dieu-chinh-giua-mua-pb-le-hoi-5v5-04-06-2026/\">ĐIỀU CHỈNH GIỮA MÙA PB LỄ HỘI 5v5 – 04.06.2026</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2026/06/IMG-HOR-0860x0400-088671-2.jpg",
+      "source": "Liên Quân Mobile Official",
+      "source_url": "https://lienquan.garena.vn/rss",
+      "published_at": "2026-06-03T04:22:23Z",
+      "crawled_at": "2026-06-03T05:33:27.456151",
+      "category": "tướng",
+      "priority": 1
+    },
     {
       "id": "c697e462e3bd",
       "title": "⭐ CÔNG BỐ SIÊU SAO TOÀN NĂNG 6.0 – ĐẤU TRƯỜNG DÀNH RIÊNG CHO CREATOR SIÊU SAO LIÊN QUÂN ⭐",
@@ -1287,19 +1300,6 @@
       "published_at": "2025-12-07T19:16:55Z",
       "crawled_at": "2025-12-07T20:01:21.683679",
       "category": "tin tức",
-      "priority": 1
-    },
-    {
-      "id": "d67adc1af216",
-      "title": "ĐỀN BÙ CHO SỰ KIỆN GIEO LÚA GẶT SKIN",
-      "link": "https://lienquan.garena.vn/den-bu-cho-su-kien-gieo-lua-gat-skin/",
-      "summary": "<p>Xin chào các Kiện Tướng, Hội đồng xin đưa thông tin về hoạt động đền bù cho sự kiện Gieo Lúa Gặt Skin Như đã thông báo trước đó, với những người chơi đã tham [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/den-bu-cho-su-kien-gieo-lua-gat-skin/\">ĐỀN BÙ CHO SỰ KIỆN GIEO LÚA GẶT SKIN</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
-      "image_url": null,
-      "source": "Liên Quân Mobile Official",
-      "source_url": "https://lienquan.garena.vn/rss",
-      "published_at": "2025-12-05T09:11:31Z",
-      "crawled_at": "2025-12-05T10:01:36.502514",
-      "category": "tướng",
       "priority": 1
     }
   ]
