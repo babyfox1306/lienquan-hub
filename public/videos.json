@@ -100,6 +100,17 @@
       "thumbnailUrl": "https://i.ytimg.com/vi/i6-ZcXE8Mgg/maxresdefault.jpg"
     },
     {
+      "videoId": "3m0mq-XwZzo",
+      "title": "Team 5 Giai Tri",
+      "title_original": "Team 5 Giai Tri",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-03T07:02:17Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/3m0mq-XwZzo/maxresdefault.jpg"
+    },
+    {
       "videoId": "Wu-WFETv_Jg",
       "title": "ปรับสมดุลฮีโร่ RoV 4 มิ.ย. 2569",
       "title_original": "ปรับสมดุลฮีโร่ RoV 4 มิ.ย. 2569",
@@ -142,6 +153,17 @@
       "source": "youtube",
       "publishedAt": "2026-06-03T03:00:28Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/mJyiO5rPsiU/maxresdefault.jpg"
+    },
+    {
+      "videoId": "GruZB01_xCg",
+      "title": "Bnh Lun Vin Bp Bp Showmath SSTN",
+      "title_original": "Bnh Lun Vin Bp Bp Showmath SSTN",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-02T19:32:24Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/GruZB01_xCg/maxresdefault.jpg"
     },
     {
       "videoId": "0TuSapI9blg",
@@ -285,17 +307,6 @@
       "source": "youtube",
       "publishedAt": "2026-06-01T18:10:52Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/uvRlMdtlQF4/maxresdefault.jpg"
-    },
-    {
-      "videoId": "GruZB01_xCg",
-      "title": "Chấp 1000 Mạng cuối Tuần",
-      "title_original": "Chấp 1000 Mạng cuối Tuần",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-06-01T16:31:37Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/GruZB01_xCg/maxresdefault.jpg"
     },
     {
       "videoId": "2NnBls2rKps",
@@ -2188,17 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-05-23T11:20:29Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/zBgY8XyHSvo/maxresdefault.jpg"
-    },
-    {
-      "videoId": "0bsgKASkK0g",
-      "title": "Mystical Beast: Siren Dolia เจ้าหญิงเงือกตะลุยแดนสัตว์วิเศษ",
-      "title_original": "Mystical Beast: Siren Dolia เจ้าหญิงเงือกตะลุยแดนสัตว์วิเศษ",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-05-23T11:00:22Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/0bsgKASkK0g/maxresdefault.jpg"
     }
   ]
 }
