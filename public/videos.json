@@ -1,6 +1,39 @@
 {
   "videos": [
     {
+      "videoId": "KRWMKHTzGdc",
+      "title": "ตำนานบทใหม่ Baldum ปรับใหม่เว้ยเฮ้ย! @daoyimstudio",
+      "title_original": "ตำนานบทใหม่ Baldum ปรับใหม่เว้ยเฮ้ย! @daoyimstudio",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-04T07:00:03Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/KRWMKHTzGdc/maxresdefault.jpg"
+    },
+    {
+      "videoId": "PcZA6iZwxjk",
+      "title": "Điêu Thuyền quá xinh làm sư thầy Jinna ăn đóng băng khắc chế hiệu quả | Icyfoxx",
+      "title_original": "Điêu Thuyền quá xinh làm sư thầy Jinna ăn đóng băng khắc chế hiệu quả | Icyfoxx",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-04T03:10:00Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/PcZA6iZwxjk/maxresdefault.jpg"
+    },
+    {
+      "videoId": "mUdBcuibRsg",
+      "title": "TOP 5 Tướng Xứng Đáng Bị Nerf, Game Thủ Đang Chờ Timu Cân Bằng Sức Mạnh, TNG",
+      "title_original": "TOP 5 Tướng Xứng Đáng Bị Nerf, Game Thủ Đang Chờ Timu Cân Bằng Sức Mạnh, TNG",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-04T03:00:32Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/mUdBcuibRsg/maxresdefault.jpg"
+    },
+    {
       "videoId": "NVKUWcdEvug",
       "title": "🔴 Giờ ''HÀNH'' Đã Đến",
       "title_original": "🔴 Giờ ''HÀNH'' Đã Đến",
@@ -2166,39 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-05-23T15:00:00Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/0gGFl3qtOaI/maxresdefault.jpg"
-    },
-    {
-      "videoId": "k49CQHAx0kY",
-      "title": "APL Wildcard 2026 Day 3 | Garena AOV Indonesia",
-      "title_original": "APL Wildcard 2026 Day 3 | Garena AOV Indonesia",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-05-23T13:36:19Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/k49CQHAx0kY/maxresdefault.jpg"
-    },
-    {
-      "videoId": "z05EcEb6fH8",
-      "title": "BOX vs 1S | ONE vs BAC | WILDCARD | APL 2026 (NGÀY 23/05)",
-      "title_original": "BOX vs 1S | ONE vs BAC | WILDCARD | APL 2026 (NGÀY 23/05)",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-05-23T13:33:59Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/z05EcEb6fH8/maxresdefault.jpg"
-    },
-    {
-      "videoId": "D0m93PrUj0Q",
-      "title": "🔴 TRỰC TIẾP: CATHAY ONE TEAM vs BACON TIME | WILDCARD | APL 2026",
-      "title_original": "🔴 TRỰC TIẾP: CATHAY ONE TEAM vs BACON TIME | WILDCARD | APL 2026",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-05-23T13:33:15Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/D0m93PrUj0Q/maxresdefault.jpg"
     }
   ]
 }

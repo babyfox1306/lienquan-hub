@@ -280,9 +280,9 @@
         "Tulen"
       ],
       "tier": "A",
-      "tier_reason": "Được gán từ dữ liệu hạt giống (Seed A-Tier) do ít video mới (Hot Count: 1)",
+      "tier_reason": "Được gán từ dữ liệu hạt giống (Seed A-Tier) do ít video mới (Hot Count: 0)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/5/5a/Yena_profile.jpg/revision/latest/scale-to-width-down/500?cb=20200531224619",
       "related_videos": [
         "mcBfEcRE9o4"
@@ -565,11 +565,12 @@
         "Krixi"
       ],
       "tier": "A",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 3, Score: 2)",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 4, Score: 2)",
       "hot": true,
-      "hot_count": 3,
+      "hot_count": 4,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/d/da/Baldum_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20200603161240",
       "related_videos": [
+        "KRWMKHTzGdc",
         "iJywLtw_JPI",
         "mJyiO5rPsiU",
         "rqZd2y2R_pc"
@@ -941,17 +942,17 @@
         "Toro"
       ],
       "tier": "A",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 1)",
-      "hot": false,
-      "hot_count": 2,
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 3, Score: 1)",
+      "hot": true,
+      "hot_count": 3,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/8/8e/Jinnar_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125090346",
       "related_videos": [
+        "PcZA6iZwxjk",
         "RGDnmQuZpY0",
         "S1Emg6-x4sU",
         "qvtyqmFfGGk",
         "KbciBVLVgoY",
-        "aw47SfLfgU8",
-        "lna7fuhVq1E"
+        "aw47SfLfgU8"
       ]
     },
     {
@@ -3145,11 +3146,12 @@
       "counters": [],
       "synergies": [],
       "tier": "A",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 1)",
-      "hot": false,
-      "hot_count": 2,
-      "thumbnail": "https://img.youtube.com/vi/zXHGEsnYmKM/maxresdefault.jpg",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 3, Score: 1)",
+      "hot": true,
+      "hot_count": 3,
+      "thumbnail": "https://img.youtube.com/vi/PcZA6iZwxjk/maxresdefault.jpg",
       "related_videos": [
+        "PcZA6iZwxjk",
         "zXHGEsnYmKM",
         "gX4Y4pC8hWw",
         "BeVN-uptqhE"
@@ -4371,7 +4373,7 @@
       "tier": "A",
       "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 1)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/e/e8/Skud_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125053755",
       "related_videos": [
         "QBXzpx-1swo"
@@ -4976,5 +4978,5 @@
       ]
     }
   ],
-  "updated_at": "2026-06-04T05:36:39Z"
+  "updated_at": "2026-06-04T07:33:37Z"
 }
