@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-06-04T09:18:08.506982",
+  "last_updated": "2026-06-04T11:05:00.907181",
   "total_news": 100,
   "news": [
+    {
+      "id": "b86aa13e4273",
+      "title": "THỦ ĐÔ HÀ NỘI LÊN NGÔI VÔ ĐỊCH TỨ PHƯƠNG ĐẠI CHIẾN MÙA XUÂN 2026 | KHÉP LẠI MỘT MÙA GIẢI BÙNG NỔ CẢM XÚC",
+      "link": "https://lienquan.garena.vn/thu-do-ha-noi-len-ngoi-vo-dich-tu-phuong-dai-chien-mua-xuan-2026-khep-lai-mot-mua-giai-bung-no-cam-xuc/",
+      "summary": "<p>Xin chào các Kiện tướng, Vượt qua những đối thủ xuất sắc nhất của mùa giải, đội tuyển Hà Nội đã xuất sắc đăng quang ngôi vô địch, chính thức trở thành chủ nhân mới [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/thu-do-ha-noi-len-ngoi-vo-dich-tu-phuong-dai-chien-mua-xuan-2026-khep-lai-mot-mua-giai-bung-no-cam-xuc/\">THỦ ĐÔ HÀ NỘI LÊN NGÔI VÔ ĐỊCH TỨ PHƯƠNG ĐẠI CHIẾN MÙA XUÂN 2026 | KHÉP LẠI MỘT MÙA GIẢI BÙNG NỔ CẢM XÚC</a> appeared first on <a href=\"https://lienquan.garena.vn\">Li",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2026/06/Banner-champion-ngang-HNa.jpg",
+      "source": "Liên Quân Mobile Official",
+      "source_url": "https://lienquan.garena.vn/rss",
+      "published_at": "2026-06-04T10:01:56Z",
+      "crawled_at": "2026-06-04T11:00:03.064417",
+      "category": "tướng",
+      "priority": 1
+    },
     {
       "id": "fdcaa740f6df",
       "title": "ĐIỀU CHỈNH GIỮA MÙA PB LỄ HỘI 5v5 – 04.06.2026",
@@ -1287,19 +1300,6 @@
       "published_at": "2025-12-10T04:00:41Z",
       "crawled_at": "2025-12-10T04:09:15.928962",
       "category": "esports",
-      "priority": 1
-    },
-    {
-      "id": "ee84aa878a5c",
-      "title": "SỰ KIỆN SĂN QUÀ LIÊN QUÂN TRÊN ỨNG DỤNG SHOPEE ĐÃ TRỞ LẠI THÁNG 12/2025",
-      "link": "https://lienquan.garena.vn/su-kien-san-qua-lien-quan-tren-ung-dung-shopee-da-tro-lai-thang-12-2025/",
-      "summary": "<p>Tiếp nối thành công của chương trình trước, Shopee cùng Liên Quân Mobile mang đến bạn ưu đãi tháng 12/2025 &#8220;Shopee x Liên Quân &#8211; Săn ngay &#8211; Siêu quà vào tay&#8221;. Chương trình đặc [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/su-kien-san-qua-lien-quan-tren-ung-dung-shopee-da-tro-lai-thang-12-2025/\">SỰ KIỆN SĂN QUÀ LIÊN QUÂN TRÊN ỨNG DỤNG SHOPEE ĐÃ TRỞ LẠI THÁNG 12/2025</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
-      "image_url": "https://picsum.photos/seed/https://lienquan.garena.vn/su-kien-san-qua-lien-quan-tren-ung-dung-shopee-da-tro-lai-thang-12-2025//400/225",
-      "source": "Liên Quân Mobile Official",
-      "source_url": "https://lienquan.garena.vn/rss",
-      "published_at": "2025-12-07T19:16:55Z",
-      "crawled_at": "2025-12-07T20:01:21.683679",
-      "category": "tin tức",
       "priority": 1
     }
   ]
