@@ -12,6 +12,17 @@
       "thumbnailUrl": "https://i.ytimg.com/vi/NVKUWcdEvug/maxresdefault.jpg"
     },
     {
+      "videoId": "QkI9uPHbUwU",
+      "title": "Team 5 Giai Tri",
+      "title_original": "Team 5 Giai Tri",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-03T18:06:52Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/QkI9uPHbUwU/maxresdefault.jpg"
+    },
+    {
       "videoId": "hJZIa6hz-QE",
       "title": "Tối nay var đồng đội cũ phi không ngáo dirak jungle",
       "title_original": "Tối nay var đồng đội cũ phi không ngáo dirak jungle",
@@ -2188,17 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-05-23T13:33:15Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/D0m93PrUj0Q/maxresdefault.jpg"
-    },
-    {
-      "videoId": "-obL3GkCo8Q",
-      "title": "APL 2026 外卡賽D3-2026/05/23《Garena傳說對決》",
-      "title_original": "APL 2026 外卡賽D3-2026/05/23《Garena傳說對決》",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-05-23T13:32:13Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/-obL3GkCo8Q/maxresdefault.jpg"
     }
   ]
 }
