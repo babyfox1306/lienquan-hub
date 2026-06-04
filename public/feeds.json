@@ -61,8 +61,18 @@
       "type": "channel"
     },
     {
+      "id": "UCpQ52533EsOa5k-dQSmD1jw",
+      "name": "Ha Le Quyen",
+      "type": "channel"
+    },
+    {
       "id": "UC1ysb__ddApp3PlDva5NAVw",
       "name": "Top 1 Liliana",
+      "type": "channel"
+    },
+    {
+      "id": "UC_Kfu-XiwH0WKTRSMD9st_Q",
+      "name": "Bạn Cay Tôi À?",
       "type": "channel"
     },
     {
@@ -76,8 +86,8 @@
       "type": "channel"
     },
     {
-      "id": "UCpkUzNC-PTa_Ju-xfT-CiDQ",
-      "name": "Ly Chuột Bạch",
+      "id": "UCdRY5czHAF_Ms15oJpfUM7A",
+      "name": "Yue Bán Fans",
       "type": "channel"
     },
     {
@@ -88,16 +98,6 @@
     {
       "id": "UCYfv7UcC1KOsvMD3BVVwoLg",
       "name": "Esports - Garena Liên Quân Mobile",
-      "type": "channel"
-    },
-    {
-      "id": "UCdSGpiTIGwzlQQ9VP1IJXgg",
-      "name": "Bốp Bốp Top1 Liên Quân",
-      "type": "channel"
-    },
-    {
-      "id": "UC1Gvx0tvS1_WyFmEH-G_2TA",
-      "name": "Team Flash Liên Quân Mobile",
       "type": "channel"
     }
   ],
