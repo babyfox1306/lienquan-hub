@@ -1,6 +1,28 @@
 {
   "videos": [
     {
+      "videoId": "kLeDbovuDWA",
+      "title": "บรรยากาศงานออฟไลน์ RoV Valor City 2026🏆 ชิงแชมป์ประเทศไทย",
+      "title_original": "บรรยากาศงานออฟไลน์ RoV Valor City 2026🏆 ชิงแชมป์ประเทศไทย",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-04T08:00:28Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/kLeDbovuDWA/maxresdefault.jpg"
+    },
+    {
+      "videoId": "TQw_Tde-ZIY",
+      "title": "[OFFICIAL TRAILER] SIÊU SAO TOÀN NĂNG 6.0",
+      "title_original": "[OFFICIAL TRAILER] SIÊU SAO TOÀN NĂNG 6.0",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-04T08:00:03Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/TQw_Tde-ZIY/maxresdefault.jpg"
+    },
+    {
       "videoId": "KRWMKHTzGdc",
       "title": "ตำนานบทใหม่ Baldum ปรับใหม่เว้ยเฮ้ย! @daoyimstudio",
       "title_original": "ตำนานบทใหม่ Baldum ปรับใหม่เว้ยเฮ้ย! @daoyimstudio",
@@ -2177,28 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-05-23T17:41:21Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/Blh5j36iP2Q/maxresdefault.jpg"
-    },
-    {
-      "videoId": "CIqBRPYQtuE",
-      "title": "YEEEE Mai được gỡ ban rui",
-      "title_original": "YEEEE Mai được gỡ ban rui",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-05-23T15:33:44Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/CIqBRPYQtuE/maxresdefault.jpg"
-    },
-    {
-      "videoId": "0gGFl3qtOaI",
-      "title": "AOV : ELSU GAMEPLAY | IN ABYSSAL LANE - ARENA OF VALOR LIENQUANMOBILE",
-      "title_original": "AOV : ELSU GAMEPLAY | IN ABYSSAL LANE - ARENA OF VALOR LIENQUANMOBILE",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-05-23T15:00:00Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/0gGFl3qtOaI/maxresdefault.jpg"
     }
   ]
 }
