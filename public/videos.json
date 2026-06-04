@@ -1,6 +1,28 @@
 {
   "videos": [
     {
+      "videoId": "k0qB-3H6xEQ",
+      "title": "SGP Khoa, FPT Yutan, BRU Deawwy, FW WeiZ | Những người kiến thiết lối chơi | PLAYER TO WATCH #2",
+      "title_original": "SGP Khoa, FPT Yutan, BRU Deawwy, FW WeiZ | Những người kiến thiết lối chơi | PLAYER TO WATCH #2",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-04T11:59:31Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/k0qB-3H6xEQ/maxresdefault.jpg"
+    },
+    {
+      "videoId": "kBHtvlN0kvg",
+      "title": "Lên Đồ 2 Xuyên Giáp Có Thực Sự Hiệu Quả ?",
+      "title_original": "Lên Đồ 2 Xuyên Giáp Có Thực Sự Hiệu Quả ?",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-04T11:05:01Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/kBHtvlN0kvg/maxresdefault.jpg"
+    },
+    {
       "videoId": "S0451UAvdrs",
       "title": "[1 CHM MU] 5 Ngi D X Th Flowborn Bt Lc: Pha Outplay Khc Tht!",
       "title_original": "[1 CHM MU] 5 Ngi D X Th Flowborn Bt Lc: Pha Outplay Khc Tht!",
@@ -189,8 +211,8 @@
     },
     {
       "videoId": "4eQJuFjzykI",
-      "title": "5 สุดยอดเมจผู้กุมชะตาสมรภูมิ ในการแข่งขัน RoV นานาชาติ APL 2026🏆 | Player to Watch EP.1",
-      "title_original": "5 สุดยอดเมจผู้กุมชะตาสมรภูมิ ในการแข่งขัน RoV นานาชาติ APL 2026🏆 | Player to Watch EP.1",
+      "title": "4 สุดยอดเมจผู้กุมชะตาสมรภูมิ ในการแข่งขัน RoV นานาชาติ APL 2026🏆 | Player to Watch EP.1",
+      "title_original": "4 สุดยอดเมจผู้กุมชะตาสมรภูมิ ในการแข่งขัน RoV นานาชาติ APL 2026🏆 | Player to Watch EP.1",
       "translated": false,
       "country": "VN",
       "lang_original": "vi",
@@ -2177,28 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-05-24T11:26:44Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/FCZ9Vz8LLcU/maxresdefault.jpg"
-    },
-    {
-      "videoId": "iHtNwI9xJDo",
-      "title": "AOV : NEW SKIN TACHI AQUEOS VERSE - ARENA OF VALOR LIENQUANMOBILE ROV",
-      "title_original": "AOV : NEW SKIN TACHI AQUEOS VERSE - ARENA OF VALOR LIENQUANMOBILE ROV",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-05-24T11:06:49Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/iHtNwI9xJDo/maxresdefault.jpg"
-    },
-    {
-      "videoId": "owYGci3c9u0",
-      "title": "แจกคูปอง RoV รับเปิดเทอม @daoyimstudio",
-      "title_original": "แจกคูปอง RoV รับเปิดเทอม @daoyimstudio",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-05-24T11:00:00Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/owYGci3c9u0/maxresdefault.jpg"
     }
   ]
 }
