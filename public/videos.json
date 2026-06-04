@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "Ango-yzDSS0",
+      "title": "Blv ShowMath Team Trn Bnh",
+      "title_original": "Blv ShowMath Team Trn Bnh",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-04T17:27:25Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/Ango-yzDSS0/maxresdefault.jpg"
+    },
+    {
       "videoId": "wEFus9vwtaQ",
       "title": "ĐỐI ĐẦU NHÀ ĐƯƠNG KIM VÔ ĐỊCH ĐỨC BABE",
       "title_original": "ĐỐI ĐẦU NHÀ ĐƯƠNG KIM VÔ ĐỊCH ĐỨC BABE",
@@ -76,6 +87,17 @@
       "source": "youtube",
       "publishedAt": "2026-06-04T12:01:11Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/aMcJriAcoDg/maxresdefault.jpg"
+    },
+    {
+      "videoId": "3jyEhhxQAoM",
+      "title": "MID LANE APL 2026 TIER LIST: AGETSIVE - NUNU - MARIS Tier S!!! | BLV HẢI PHONG",
+      "title_original": "MID LANE APL 2026 TIER LIST: AGETSIVE - NUNU - MARIS Tier S!!! | BLV HẢI PHONG",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-04T12:00:18Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/3jyEhhxQAoM/maxresdefault.jpg"
     },
     {
       "videoId": "k0qB-3H6xEQ",
@@ -199,17 +221,6 @@
       "thumbnailUrl": "https://i.ytimg.com/vi/KRWMKHTzGdc/maxresdefault.jpg"
     },
     {
-      "videoId": "Ango-yzDSS0",
-      "title": "Blv ShowMath Team Trn Bnh",
-      "title_original": "Blv ShowMath Team Trn Bnh",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-06-04T05:21:30Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/Ango-yzDSS0/maxresdefault.jpg"
-    },
-    {
       "videoId": "PcZA6iZwxjk",
       "title": "Điêu Thuyền quá xinh làm sư thầy Jinna ăn đóng băng khắc chế hiệu quả | Icyfoxx",
       "title_original": "Điêu Thuyền quá xinh làm sư thầy Jinna ăn đóng băng khắc chế hiệu quả | Icyfoxx",
@@ -255,8 +266,8 @@
     },
     {
       "videoId": "YOrxQS1vi0M",
-      "title": "BÌNH CHỌN MID LANE APL 2026 | Hải Phong 03.06.26",
-      "title_original": "BÌNH CHỌN MID LANE APL 2026 | Hải Phong 03.06.26",
+      "title": "BÌNH CHỌN SUPPORT APL 2026 | Hải Phong 04.06.26",
+      "title_original": "BÌNH CHỌN SUPPORT APL 2026 | Hải Phong 04.06.26",
       "translated": false,
       "country": "VN",
       "lang_original": "vi",
@@ -2188,17 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-05-24T15:58:22Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/JtyHPqfXUR0/maxresdefault.jpg"
-    },
-    {
-      "videoId": "Yweyq415vE0",
-      "title": "HKA vs BOX | TEN vs BAC | WILDCARD | APL 2026 (NGÀY 24/05)",
-      "title_original": "HKA vs BOX | TEN vs BAC | WILDCARD | APL 2026 (NGÀY 24/05)",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-05-24T15:49:42Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/Yweyq415vE0/maxresdefault.jpg"
     }
   ]
 }
