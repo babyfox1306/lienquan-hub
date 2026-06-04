@@ -4405,13 +4405,12 @@
       "counters": [],
       "synergies": [],
       "tier": "B",
-      "tier_reason": "Xuất hiện 2 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
       "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/9/93/Slimz_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125053904",
       "related_videos": [
-        "5Wgx2ClUnnU",
-        "aI2SPvEoWsM"
+        "5Wgx2ClUnnU"
       ]
     },
     {
@@ -4968,5 +4967,5 @@
       ]
     }
   ],
-  "updated_at": "2026-06-04T14:03:27Z"
+  "updated_at": "2026-06-04T15:13:04Z"
 }
