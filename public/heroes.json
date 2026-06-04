@@ -191,9 +191,7 @@
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/4/40/Violet_Default.jpg/revision/latest/scale-to-width-down/500?cb=20180325101918",
-      "related_videos": [
-        "IyG1MBZhUFY"
-      ]
+      "related_videos": []
     },
     {
       "id": "laville",
@@ -1323,14 +1321,13 @@
         "Arthur"
       ],
       "tier": "B",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 3, Score: 0)",
-      "hot": true,
-      "hot_count": 3,
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 0)",
+      "hot": false,
+      "hot_count": 2,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/0/0f/Dirak_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125044153",
       "related_videos": [
         "dMBoYo1QxZs",
-        "hJZIa6hz-QE",
-        "wEFus9vwtaQ"
+        "hJZIa6hz-QE"
       ]
     },
     {
@@ -2261,11 +2258,12 @@
         "Xeniel"
       ],
       "tier": "A",
-      "tier_reason": "Được gán từ dữ liệu hạt giống (Seed A-Tier) do ít video mới (Hot Count: 0)",
+      "tier_reason": "Được gán từ dữ liệu hạt giống (Seed A-Tier) do ít video mới (Hot Count: 1)",
       "hot": false,
-      "hot_count": 0,
+      "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/e/e7/Keera_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20200603115848",
       "related_videos": [
+        "NFlena_7DpY",
         "9yEfK8vHFSs"
       ]
     },
@@ -3027,13 +3025,11 @@
       "counters": [],
       "synergies": [],
       "tier": "B",
-      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/b/ba/Cresht_Default.jpg/revision/latest/scale-to-width-down/500?cb=20180309111454",
-      "related_videos": [
-        "J-YZkoNq8BI"
-      ]
+      "related_videos": []
     },
     {
       "id": "darcy",
@@ -4849,8 +4845,7 @@
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/4/48/Y%27bneth_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125051920",
       "related_videos": [
         "tOAvlP5gMwo",
-        "sa-P0k3yvXg",
-        "CYqTkcdTDeY"
+        "sa-P0k3yvXg"
       ]
     },
     {
@@ -4973,5 +4968,5 @@
       ]
     }
   ],
-  "updated_at": "2026-06-04T12:10:21Z"
+  "updated_at": "2026-06-04T14:03:27Z"
 }
