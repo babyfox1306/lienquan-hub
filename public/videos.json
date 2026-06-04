@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "-B8XQZTVZzQ",
+      "title": " Lp Team Sn Nhm (con b 7) Anh Em!",
+      "title_original": " Lp Team Sn Nhm (con b 7) Anh Em!",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-04T17:51:38Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/-B8XQZTVZzQ/maxresdefault.jpg"
+    },
+    {
       "videoId": "Ango-yzDSS0",
       "title": "Blv ShowMath Team Trn Bnh",
       "title_original": "Blv ShowMath Team Trn Bnh",
@@ -32,17 +43,6 @@
       "source": "youtube",
       "publishedAt": "2026-06-04T15:59:41Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/pMefVMDDxB4/maxresdefault.jpg"
-    },
-    {
-      "videoId": "-B8XQZTVZzQ",
-      "title": " Lp Team Sn Nhm (con b 7) Anh Em!",
-      "title_original": " Lp Team Sn Nhm (con b 7) Anh Em!",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-06-04T14:01:13Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/-B8XQZTVZzQ/maxresdefault.jpg"
     },
     {
       "videoId": "UG_tR3ovHvo",
