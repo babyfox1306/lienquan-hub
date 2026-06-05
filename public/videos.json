@@ -1,6 +1,28 @@
 {
   "videos": [
     {
+      "videoId": "vJcT2J-5MDQ",
+      "title": "Solokill Chien Tuong",
+      "title_original": "Solokill Chien Tuong",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-05T15:34:29Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/vJcT2J-5MDQ/maxresdefault.jpg"
+    },
+    {
+      "videoId": "24_pcGnVsoU",
+      "title": "APL 2026 1v1 & 瑞士輪抽籤-2026/06/09《Garena傳說對決》",
+      "title_original": "APL 2026 1v1 & 瑞士輪抽籤-2026/06/09《Garena傳說對決》",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-05T15:18:47Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/24_pcGnVsoU/maxresdefault.jpg"
+    },
+    {
       "videoId": "6jcBK7qKocw",
       "title": "FPT GRAY, DCG XCEN, BRU ALMONDP, FW ZHAN - KẺ SĂN TÌM KHOẢNG TRỐNG | PLAYER TO WATCH #3: ĐƯỜNG RỪNG",
       "title_original": "FPT GRAY, DCG XCEN, BRU ALMONDP, FW ZHAN - KẺ SĂN TÌM KHOẢNG TRỐNG | PLAYER TO WATCH #3: ĐƯỜNG RỪNG",
@@ -2177,28 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-05-25T17:26:33Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/cuP0LX8uOkQ/maxresdefault.jpg"
-    },
-    {
-      "videoId": "tiAb576uYtg",
-      "title": "AOV : RYOMA GAMEPLAY | IN JUNGLE - ARENA OF VALOR",
-      "title_original": "AOV : RYOMA GAMEPLAY | IN JUNGLE - ARENA OF VALOR",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-05-25T15:00:57Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/tiAb576uYtg/maxresdefault.jpg"
-    },
-    {
-      "videoId": "Aergq50hhb0",
-      "title": "Soon Nata: Trở lại đỉnh cao mà thấy rạo rực quá",
-      "title_original": "Soon Nata: Trở lại đỉnh cao mà thấy rạo rực quá",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-05-25T12:51:53Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/Aergq50hhb0/maxresdefault.jpg"
     }
   ]
 }

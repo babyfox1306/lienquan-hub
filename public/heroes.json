@@ -4239,13 +4239,11 @@
       "counters": [],
       "synergies": [],
       "tier": "B",
-      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/f/f2/Ryoma_Gunslinger.png/revision/latest/scale-to-width-down/500?cb=20180313083407",
-      "related_videos": [
-        "tiAb576uYtg"
-      ]
+      "related_videos": []
     },
     {
       "id": "sephera",
@@ -4967,5 +4965,5 @@
       ]
     }
   ],
-  "updated_at": "2026-06-05T15:03:36Z"
+  "updated_at": "2026-06-05T16:07:57Z"
 }
