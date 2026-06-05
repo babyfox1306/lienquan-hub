@@ -4323,12 +4323,13 @@
       },
       "counters": [],
       "synergies": [],
-      "tier": "B",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 0)",
-      "hot": false,
-      "hot_count": 2,
+      "tier": "C",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 3, Score: -1)",
+      "hot": true,
+      "hot_count": 3,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/6/60/Sinestrea_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20220702032816",
       "related_videos": [
+        "S2nbKkcscr0",
         "mJyiO5rPsiU",
         "TsiEH2le2uw",
         "OAl27cFGNPo"
@@ -4971,5 +4972,5 @@
       ]
     }
   ],
-  "updated_at": "2026-06-05T08:23:44Z"
+  "updated_at": "2026-06-05T10:24:01Z"
 }
