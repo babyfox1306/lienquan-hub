@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "lyLeZrWCJPw",
+      "title": "😻 HIỆU ỨNG CHIÊU THỨC | KEERA YÊU THẦN NEKOMATA 😻 - Garena Liên Quân Mobile",
+      "title_original": "😻 HIỆU ỨNG CHIÊU THỨC | KEERA YÊU THẦN NEKOMATA 😻 - Garena Liên Quân Mobile",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-05T07:07:16Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/lyLeZrWCJPw/maxresdefault.jpg"
+    },
+    {
       "videoId": "0DfzGfp0Zuk",
       "title": "เรื่องราวของผู้พิทักษ์พฤกษา Baldum",
       "title_original": "เรื่องราวของผู้พิทักษ์พฤกษา Baldum",
@@ -2188,17 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-05-25T03:00:19Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/iJ3llGNAWJQ/maxresdefault.jpg"
-    },
-    {
-      "videoId": "STubIcuXbq4",
-      "title": "Chap 10000",
-      "title_original": "Chap 10000",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-05-24T18:27:37Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/STubIcuXbq4/maxresdefault.jpg"
     }
   ]
 }

@@ -2258,12 +2258,13 @@
         "Alice",
         "Xeniel"
       ],
-      "tier": "A",
-      "tier_reason": "Được gán từ dữ liệu hạt giống (Seed A-Tier) do ít video mới (Hot Count: 1)",
+      "tier": "B",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 0)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 2,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/e/e7/Keera_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20200603115848",
       "related_videos": [
+        "lyLeZrWCJPw",
         "NFlena_7DpY",
         "9yEfK8vHFSs"
       ]
@@ -4970,5 +4971,5 @@
       ]
     }
   ],
-  "updated_at": "2026-06-05T06:33:19Z"
+  "updated_at": "2026-06-05T08:23:44Z"
 }
