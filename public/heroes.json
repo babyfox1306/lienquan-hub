@@ -562,17 +562,17 @@
         "Krixi"
       ],
       "tier": "A",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 8, Score: 2)",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 9, Score: 2)",
       "hot": true,
-      "hot_count": 8,
+      "hot_count": 9,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/d/da/Baldum_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20200603161240",
       "related_videos": [
+        "2_xJRWAMRI8",
         "XOkEX7ut62w",
         "vNGG06yuRws",
         "0DfzGfp0Zuk",
         "2twK7CTPIXg",
-        "KRWMKHTzGdc",
-        "iJywLtw_JPI"
+        "KRWMKHTzGdc"
       ]
     },
     {
@@ -804,8 +804,7 @@
       "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/7/7c/Toro_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125082122",
       "related_videos": [
-        "GT8z24S0eDo",
-        "90WAhBAEpFg"
+        "GT8z24S0eDo"
       ]
     },
     {
@@ -853,9 +852,7 @@
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/7/71/Gildur_Default.jpg/revision/latest/scale-to-width-down/500?cb=20180327112635",
-      "related_videos": [
-        "90WAhBAEpFg"
-      ]
+      "related_videos": []
     },
     {
       "id": "alice",
@@ -999,9 +996,7 @@
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/a/ab/Volkath_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20200531224601",
-      "related_videos": [
-        "90WAhBAEpFg"
-      ]
+      "related_videos": []
     },
     {
       "id": "maloch",
@@ -1372,11 +1367,12 @@
         "Mina"
       ],
       "tier": "B",
-      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 0)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 2,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/0/06/Elsu_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125051727",
       "related_videos": [
+        "2_xJRWAMRI8",
         "i6-ZcXE8Mgg"
       ]
     },
@@ -2558,7 +2554,7 @@
       "tier": "A",
       "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 1)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/c/c7/Aoi_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20210213111102",
       "related_videos": [
         "eWRitZBLxpM"
@@ -4967,5 +4963,5 @@
       ]
     }
   ],
-  "updated_at": "2026-06-06T10:40:07Z"
+  "updated_at": "2026-06-06T11:33:44Z"
 }
