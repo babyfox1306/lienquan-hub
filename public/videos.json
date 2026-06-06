@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "3QXNo6TRNpY",
+      "title": "Team 5 Giai Tri",
+      "title_original": "Team 5 Giai Tri",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-06T14:38:32Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/3QXNo6TRNpY/maxresdefault.jpg"
+    },
+    {
       "videoId": "NvhVtlz9Zdw",
       "title": "FPT BETROC, BRU LIGKY, FS SHARKZ, DCG YOULUN - KẺ DỨT ĐIỂM TRẬN ĐẤU | PLAYER TO WATCH #4: ĐƯỜNG RỒNG",
       "title_original": "FPT BETROC, BRU LIGKY, FS SHARKZ, DCG YOULUN - KẺ DỨT ĐIỂM TRẬN ĐẤU | PLAYER TO WATCH #4: ĐƯỜNG RỒNG",
@@ -101,8 +112,8 @@
     },
     {
       "videoId": "XOkEX7ut62w",
-      "title": "y l Tnh Nng Mi Baldum Hay li game ? Timu cook Baldum cc phm.",
-      "title_original": "y l Tnh Nng Mi Baldum Hay li game ? Timu cook Baldum cc phm.",
+      "title": "Baldum li game Qu, Timu cook Baldum thnh ci g th ny!",
+      "title_original": "Baldum li game Qu, Timu cook Baldum thnh ci g th ny!",
       "translated": false,
       "country": "VN",
       "lang_original": "vi",
@@ -2188,17 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-05-26T11:00:30Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/lRXFD01qC6I/maxresdefault.jpg"
-    },
-    {
-      "videoId": "wfjM9MSRW1o",
-      "title": "Vĩnh Đất cùng \"Bộ Tứ Tấu Hài\" Cân 4 Cực Khét: Lật Kèo Đỉnh Cao Khiến Team Bạn \"Khóc Thét\"!",
-      "title_original": "Vĩnh Đất cùng \"Bộ Tứ Tấu Hài\" Cân 4 Cực Khét: Lật Kèo Đỉnh Cao Khiến Team Bạn \"Khóc Thét\"!",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-05-26T10:32:34Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/wfjM9MSRW1o/maxresdefault.jpg"
     }
   ]
 }
