@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "x3_W98xeF2Y",
+      "title": "Tulen Đi Rừng Trở Lại! Bón Hành Nakroth, Cả Game Không Được Ăn Bùa",
+      "title_original": "Tulen Đi Rừng Trở Lại! Bón Hành Nakroth, Cả Game Không Được Ăn Bùa",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-06T02:35:05Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/x3_W98xeF2Y/maxresdefault.jpg"
+    },
+    {
       "videoId": "sDXdPUTIh0c",
       "title": " Ti nay khng ln chin tng th THI !",
       "title_original": " Ti nay khng ln chin tng th THI !",
@@ -2188,17 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-05-26T03:00:25Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/Kr1i9C4Ys4c/maxresdefault.jpg"
-    },
-    {
-      "videoId": "V_dV128ebz4",
-      "title": "Team 5 Giai Tri",
-      "title_original": "Team 5 Giai Tri",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-05-25T18:08:08Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/V_dV128ebz4/maxresdefault.jpg"
     }
   ]
 }

@@ -39,17 +39,17 @@
         "Krixi"
       ],
       "tier": "B",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 3, Score: 0)",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 4, Score: 0)",
       "hot": true,
-      "hot_count": 3,
+      "hot_count": 4,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/3/3f/Nakroth_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20201224121203",
       "related_videos": [
+        "x3_W98xeF2Y",
         "niKwy9yY7D0",
         "G94btFpaAdo",
         "rGFpJ01ZPqc",
         "5Wgx2ClUnnU",
-        "mVM-LggWPvA",
-        "aRaYnH4sZcw"
+        "mVM-LggWPvA"
       ]
     },
     {
@@ -1136,11 +1136,13 @@
         "Alice"
       ],
       "tier": "B",
-      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
-      "hot_count": 0,
+      "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/2/2c/Tulen_Splash.jpeg/revision/latest/scale-to-width-down/500?cb=20180102103714",
-      "related_videos": []
+      "related_videos": [
+        "x3_W98xeF2Y"
+      ]
     },
     {
       "id": "ignis",
@@ -4965,5 +4967,5 @@
       ]
     }
   ],
-  "updated_at": "2026-06-06T01:40:30Z"
+  "updated_at": "2026-06-06T03:04:31Z"
 }
