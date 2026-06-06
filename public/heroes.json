@@ -39,9 +39,9 @@
         "Krixi"
       ],
       "tier": "B",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 4, Score: 0)",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 3, Score: 0)",
       "hot": true,
-      "hot_count": 4,
+      "hot_count": 3,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/3/3f/Nakroth_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20201224121203",
       "related_videos": [
         "x3_W98xeF2Y",
@@ -947,8 +947,7 @@
         "RGDnmQuZpY0",
         "S1Emg6-x4sU",
         "qvtyqmFfGGk",
-        "KbciBVLVgoY",
-        "aw47SfLfgU8"
+        "KbciBVLVgoY"
       ]
     },
     {
@@ -2354,9 +2353,9 @@
         "Nakroth"
       ],
       "tier": "B",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 0)",
+      "tier_reason": "Xuất hiện 2 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
-      "hot_count": 2,
+      "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/a/a3/Raz_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125091551",
       "related_videos": [
         "i6-ZcXE8Mgg",
@@ -3140,16 +3139,15 @@
       },
       "counters": [],
       "synergies": [],
-      "tier": "A",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 3, Score: 1)",
+      "tier": "B",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 3, Score: 0)",
       "hot": true,
       "hot_count": 3,
       "thumbnail": "https://img.youtube.com/vi/PcZA6iZwxjk/maxresdefault.jpg",
       "related_videos": [
         "PcZA6iZwxjk",
         "zXHGEsnYmKM",
-        "gX4Y4pC8hWw",
-        "BeVN-uptqhE"
+        "gX4Y4pC8hWw"
       ]
     },
     {
@@ -4963,5 +4961,5 @@
       ]
     }
   ],
-  "updated_at": "2026-06-06T11:33:44Z"
+  "updated_at": "2026-06-06T12:25:52Z"
 }
