@@ -186,11 +186,13 @@
         "Baldum"
       ],
       "tier": "S",
-      "tier_reason": "Được gán từ dữ liệu hạt giống (Seed S-Tier) do ít video mới (Hot Count: 0)",
+      "tier_reason": "Được gán từ dữ liệu hạt giống (Seed S-Tier) do ít video mới (Hot Count: 1)",
       "hot": false,
-      "hot_count": 0,
+      "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/4/40/Violet_Default.jpg/revision/latest/scale-to-width-down/500?cb=20180325101918",
-      "related_videos": []
+      "related_videos": [
+        "T3WemXxEafY"
+      ]
     },
     {
       "id": "laville",
@@ -424,8 +426,7 @@
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/3/3f/The_Diminisher.png/revision/latest/scale-to-width-down/500?cb=20230721030441",
       "related_videos": [
-        "GZTtjnqIMwo",
-        "KbciBVLVgoY"
+        "GZTtjnqIMwo"
       ]
     },
     {
@@ -946,8 +947,7 @@
         "PcZA6iZwxjk",
         "RGDnmQuZpY0",
         "S1Emg6-x4sU",
-        "qvtyqmFfGGk",
-        "KbciBVLVgoY"
+        "qvtyqmFfGGk"
       ]
     },
     {
@@ -4961,5 +4961,5 @@
       ]
     }
   ],
-  "updated_at": "2026-06-06T12:25:52Z"
+  "updated_at": "2026-06-06T13:34:01Z"
 }
