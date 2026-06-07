@@ -39,17 +39,17 @@
         "Krixi"
       ],
       "tier": "B",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 4, Score: 0)",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 5, Score: 0)",
       "hot": true,
-      "hot_count": 4,
+      "hot_count": 5,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/3/3f/Nakroth_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20201224121203",
       "related_videos": [
+        "m-6woivJRcI",
         "YXuZxlyYRwI",
         "x3_W98xeF2Y",
         "niKwy9yY7D0",
         "G94btFpaAdo",
-        "rGFpJ01ZPqc",
-        "5Wgx2ClUnnU"
+        "rGFpJ01ZPqc"
       ]
     },
     {
@@ -140,9 +140,9 @@
         "Grakk"
       ],
       "tier": "A",
-      "tier_reason": "Được gán từ dữ liệu hạt giống (Seed A-Tier) do ít video mới (Hot Count: 1)",
+      "tier_reason": "Được gán từ dữ liệu hạt giống (Seed A-Tier) do ít video mới (Hot Count: 0)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/2/2a/Zata_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20200617141406",
       "related_videos": [
         "sFjrKSSlvs8"
@@ -948,15 +948,14 @@
         "Toro"
       ],
       "tier": "A",
-      "tier_reason": "Xuất hiện 4 lần trong video/tin tức 14 ngày qua (Score: 1)",
+      "tier_reason": "Xuất hiện 3 lần trong video/tin tức 14 ngày qua (Score: 1)",
       "hot": false,
       "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/8/8e/Jinnar_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125090346",
       "related_videos": [
         "PcZA6iZwxjk",
         "RGDnmQuZpY0",
-        "S1Emg6-x4sU",
-        "qvtyqmFfGGk"
+        "S1Emg6-x4sU"
       ]
     },
     {
@@ -2760,13 +2759,12 @@
       "counters": [],
       "synergies": [],
       "tier": "B",
-      "tier_reason": "Xuất hiện 2 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/7/7f/Biron_itadori.jpg/revision/latest/scale-to-width-down/500?cb=20250109145933",
       "related_videos": [
-        "RGDnmQuZpY0",
-        "qvtyqmFfGGk"
+        "RGDnmQuZpY0"
       ]
     },
     {
@@ -4973,5 +4971,5 @@
       ]
     }
   ],
-  "updated_at": "2026-06-07T10:04:00Z"
+  "updated_at": "2026-06-07T10:57:01Z"
 }

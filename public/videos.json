@@ -1,6 +1,28 @@
 {
   "videos": [
     {
+      "videoId": "wU2k9X-A_Tg",
+      "title": "GCS 2026 夏季 席位挑戰賽 - 2026/06/07《Garena 傳說對決》",
+      "title_original": "GCS 2026 夏季 席位挑戰賽 - 2026/06/07《Garena 傳說對決》",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-07T10:45:38Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/wU2k9X-A_Tg/maxresdefault.jpg"
+    },
+    {
+      "videoId": "m-6woivJRcI",
+      "title": "VUX HÀNH TRÌNH NAKROTH LEVI TỪ ĐỒNG LÊN CHIẾN TƯỚNG LIÊN QUÂN MOBILE",
+      "title_original": "VUX HÀNH TRÌNH NAKROTH LEVI TỪ ĐỒNG LÊN CHIẾN TƯỚNG LIÊN QUÂN MOBILE",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-07T10:10:01Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/m-6woivJRcI/maxresdefault.jpg"
+    },
+    {
       "videoId": "YXuZxlyYRwI",
       "title": "Zill Sa Ulti Siu Dnh, Khin Ti Nakroth, Murad, Eland'orr, Paine khc tht!",
       "title_original": "Zill Sa Ulti Siu Dnh, Khin Ti Nakroth, Murad, Eland'orr, Paine khc tht!",
@@ -153,17 +175,6 @@
       "source": "youtube",
       "publishedAt": "2026-06-06T10:57:18Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/Ki3ZjRYYQP0/maxresdefault.jpg"
-    },
-    {
-      "videoId": "wU2k9X-A_Tg",
-      "title": "GCS 2026 夏季 席位挑戰賽 - 2026/06/07《Garena 傳說對決》",
-      "title_original": "GCS 2026 夏季 席位挑戰賽 - 2026/06/07《Garena 傳說對決》",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-06-06T10:52:14Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/wU2k9X-A_Tg/maxresdefault.jpg"
     },
     {
       "videoId": "2_xJRWAMRI8",
@@ -2188,17 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-05-27T09:55:16Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/W7kF7FR2Tsc/maxresdefault.jpg"
-    },
-    {
-      "videoId": "qvtyqmFfGGk",
-      "title": "Timu lại thiên vị, Biron khó Rực Rỡ Như Jinna Được!",
-      "title_original": "Timu lại thiên vị, Biron khó Rực Rỡ Như Jinna Được!",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-05-27T09:30:09Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/qvtyqmFfGGk/maxresdefault.jpg"
     }
   ]
 }
