@@ -1,6 +1,39 @@
 {
   "videos": [
     {
+      "videoId": "bbECpP1CTTI",
+      "title": "Bop Bop Danh Giai Tai Enzo Hago",
+      "title_original": "Bop Bop Danh Giai Tai Enzo Hago",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-07T15:14:57Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/bbECpP1CTTI/maxresdefault.jpg"
+    },
+    {
+      "videoId": "PLIREGhfF9E",
+      "title": "【S14 傳說對決城市賽 x 六都電競】 台中 四強暨總決賽- 2026/06/07 《Garena 傳說對決》",
+      "title_original": "【S14 傳說對決城市賽 x 六都電競】 台中 四強暨總決賽- 2026/06/07 《Garena 傳說對決》",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-07T14:56:06Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/PLIREGhfF9E/maxresdefault.jpg"
+    },
+    {
+      "videoId": "lEemuM2TNvY",
+      "title": "🔴 Ngủ mới dậy",
+      "title_original": "🔴 Ngủ mới dậy",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-07T13:32:33Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/lEemuM2TNvY/maxresdefault.jpg"
+    },
+    {
       "videoId": "v_frXrScy_w",
       "title": "【亮點選手】APL 2026 凱撒亮點選手介紹!固守邊線的死神,四大頂尖凱撒傳奇一次看完🔥《Garena傳說對決》",
       "title_original": "【亮點選手】APL 2026 凱撒亮點選手介紹!固守邊線的死神,四大頂尖凱撒傳奇一次看完🔥《Garena傳說對決》",
@@ -197,17 +230,6 @@
       "source": "youtube",
       "publishedAt": "2026-06-06T11:00:49Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/T3WemXxEafY/maxresdefault.jpg"
-    },
-    {
-      "videoId": "PLIREGhfF9E",
-      "title": "【S14 傳說對決城市賽 x 六都電競】 台中 四強暨總決賽- 2026/06/07 《Garena 傳說對決》",
-      "title_original": "【S14 傳說對決城市賽 x 六都電競】 台中 四強暨總決賽- 2026/06/07 《Garena 傳說對決》",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-06-06T10:58:19Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/PLIREGhfF9E/maxresdefault.jpg"
     },
     {
       "videoId": "Ki3ZjRYYQP0",
@@ -2177,28 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-05-27T14:00:17Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/c5Zu-zJgPw0/maxresdefault.jpg"
-    },
-    {
-      "videoId": "tT77uw6bmVI",
-      "title": "【選手視角】HKA DWEI 盡顯刺客本色,納克羅斯把 BOX 後排全當成菜切了🔥",
-      "title_original": "【選手視角】HKA DWEI 盡顯刺客本色,納克羅斯把 BOX 後排全當成菜切了🔥",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-05-27T12:10:57Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/tT77uw6bmVI/maxresdefault.jpg"
-    },
-    {
-      "videoId": "47T11GRhzjo",
-      "title": "\"ไปเวียดนามเว้ย!!\" | ช็อตเด็ด ไมค์เช็กทีมไทย การแข่งขัน RoV นานาชาติ APL 2026 รอบ Wildcard",
-      "title_original": "\"ไปเวียดนามเว้ย!!\" | ช็อตเด็ด ไมค์เช็กทีมไทย การแข่งขัน RoV นานาชาติ APL 2026 รอบ Wildcard",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-05-27T12:01:34Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/47T11GRhzjo/maxresdefault.jpg"
     }
   ]
 }
