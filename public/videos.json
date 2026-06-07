@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "lEemuM2TNvY",
+      "title": "🔴 Ngủ mới dậy",
+      "title_original": "🔴 Ngủ mới dậy",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-07T18:15:58Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/lEemuM2TNvY/maxresdefault.jpg"
+    },
+    {
       "videoId": "bbECpP1CTTI",
       "title": "Bop Bop Danh Giai Tai Enzo Hago",
       "title_original": "Bop Bop Danh Giai Tai Enzo Hago",
@@ -21,17 +32,6 @@
       "source": "youtube",
       "publishedAt": "2026-06-07T14:56:06Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/PLIREGhfF9E/maxresdefault.jpg"
-    },
-    {
-      "videoId": "lEemuM2TNvY",
-      "title": "🔴 Ngủ mới dậy",
-      "title_original": "🔴 Ngủ mới dậy",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-06-07T13:32:33Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/lEemuM2TNvY/maxresdefault.jpg"
     },
     {
       "videoId": "v_frXrScy_w",
