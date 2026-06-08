@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "BT72p0FKN7U",
+      "title": "TRẬN GIAO LƯU SSTN 6 CĂNG ĐÉT CỦA ICYFOXX VÀ TEAM GIANG CUTE | LIÊN QUÂN",
+      "title_original": "TRẬN GIAO LƯU SSTN 6 CĂNG ĐÉT CỦA ICYFOXX VÀ TEAM GIANG CUTE | LIÊN QUÂN",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-08T02:56:45Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/BT72p0FKN7U/maxresdefault.jpg"
+    },
+    {
       "videoId": "bbECpP1CTTI",
       "title": "Bop Bop Danh Giai Tai Enzo Hago",
       "title_original": "Bop Bop Danh Giai Tai Enzo Hago",
@@ -2188,17 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-05-27T15:00:22Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/ebXKvLSGtic/maxresdefault.jpg"
-    },
-    {
-      "videoId": "c5Zu-zJgPw0",
-      "title": "☁️ INGAME TRAILER | SỔ SỨ MỆNH 90 - KHÚC NHẠC BIỂN MÂY ☁️ - Garena Liên Quân Mobile",
-      "title_original": "☁️ INGAME TRAILER | SỔ SỨ MỆNH 90 - KHÚC NHẠC BIỂN MÂY ☁️ - Garena Liên Quân Mobile",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-05-27T14:00:17Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/c5Zu-zJgPw0/maxresdefault.jpg"
     }
   ]
 }
