@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "I9kYL9vwFGs",
+      "title": "TOP 5 Tướng Khắc Chế Gildur, Đừng Cấm Nữa Meta S2 2026, TNG",
+      "title_original": "TOP 5 Tướng Khắc Chế Gildur, Đừng Cấm Nữa Meta S2 2026, TNG",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-08T03:12:52Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/I9kYL9vwFGs/maxresdefault.jpg"
+    },
+    {
       "videoId": "BT72p0FKN7U",
       "title": "TRẬN GIAO LƯU SSTN 6 CĂNG ĐÉT CỦA ICYFOXX VÀ TEAM GIANG CUTE | LIÊN QUÂN",
       "title_original": "TRẬN GIAO LƯU SSTN 6 CĂNG ĐÉT CỦA ICYFOXX VÀ TEAM GIANG CUTE | LIÊN QUÂN",
@@ -2188,17 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-05-27T16:00:02Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/FmSHdQ8Nzy4/maxresdefault.jpg"
-    },
-    {
-      "videoId": "ebXKvLSGtic",
-      "title": "AOV : TEL'ANNAS GAMEPLAY IN ABYYSAL LANE",
-      "title_original": "AOV : TEL'ANNAS GAMEPLAY IN ABYYSAL LANE",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-05-27T15:00:22Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/ebXKvLSGtic/maxresdefault.jpg"
     }
   ]
 }
