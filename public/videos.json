@@ -1,6 +1,28 @@
 {
   "videos": [
     {
+      "videoId": "Rmrddvv9g9I",
+      "title": "🔴 TRỰC TIẾP: LỄ BỐC THĂM 1V1 - SWISS STAGE  | APL 2026 (NGÀY 09/06)",
+      "title_original": "🔴 TRỰC TIẾP: LỄ BỐC THĂM 1V1 - SWISS STAGE  | APL 2026 (NGÀY 09/06)",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-09T12:10:58Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/Rmrddvv9g9I/maxresdefault.jpg"
+    },
+    {
+      "videoId": "n6CrShnx7EE",
+      "title": "cHưA lÊn cHiẾn tƯớNg vÀo đÊ",
+      "title_original": "cHưA lÊn cHiẾn tƯớNg vÀo đÊ",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-09T12:05:51Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/n6CrShnx7EE/maxresdefault.jpg"
+    },
+    {
       "videoId": "wT3Icz-4w84",
       "title": "🔴 TRỰC TIẾP: LỄ BỐC THĂM 1V1 - SWISS STAGE  | APL 2026 (NGÀY 09/06)",
       "title_original": "🔴 TRỰC TIẾP: LỄ BỐC THĂM 1V1 - SWISS STAGE  | APL 2026 (NGÀY 09/06)",
@@ -34,6 +56,17 @@
       "thumbnailUrl": "https://i.ytimg.com/vi/24_pcGnVsoU/maxresdefault.jpg"
     },
     {
+      "videoId": "-Ujja_-PFG8",
+      "title": "Tại Sao Chiêu Cuối Này Là Thứ Rác Nhất Liên Quân",
+      "title_original": "Tại Sao Chiêu Cuối Này Là Thứ Rác Nhất Liên Quân",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-09T11:30:28Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/-Ujja_-PFG8/maxresdefault.jpg"
+    },
+    {
       "videoId": "EQCf9FAs_ts",
       "title": "Elsu 1 Viên Nửa Cây Máu – Team Địch Chỉ Biết Chạy!",
       "title_original": "Elsu 1 Viên Nửa Cây Máu – Team Địch Chỉ Biết Chạy!",
@@ -65,17 +98,6 @@
       "source": "youtube",
       "publishedAt": "2026-06-09T10:47:44Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/i8Y5PuwQaZo/maxresdefault.jpg"
-    },
-    {
-      "videoId": "Rmrddvv9g9I",
-      "title": "🔴 TRỰC TIẾP: LỄ BỐC THĂM 1V1 - SWISS STAGE  | APL 2026 (NGÀY 09/06)",
-      "title_original": "🔴 TRỰC TIẾP: LỄ BỐC THĂM 1V1 - SWISS STAGE  | APL 2026 (NGÀY 09/06)",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-06-09T10:26:45Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/Rmrddvv9g9I/maxresdefault.jpg"
     },
     {
       "videoId": "KWczms_TA2A",
@@ -2177,28 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-05-28T16:28:02Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/FEL_YM-Fasw/maxresdefault.jpg"
-    },
-    {
-      "videoId": "IYx5tMPp1SY",
-      "title": "Rank Cỏ Đêm Muộn !!!",
-      "title_original": "Rank Cỏ Đêm Muộn !!!",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-05-28T16:22:22Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/IYx5tMPp1SY/maxresdefault.jpg"
-    },
-    {
-      "videoId": "J45nHne8OdM",
-      "title": "AOV : ARTHUR GAMEPLAY | HARD GAME - ARENA OF VALOR LIENQUANMOBILE ROV",
-      "title_original": "AOV : ARTHUR GAMEPLAY | HARD GAME - ARENA OF VALOR LIENQUANMOBILE ROV",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-05-28T15:00:05Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/J45nHne8OdM/maxresdefault.jpg"
     }
   ]
 }
