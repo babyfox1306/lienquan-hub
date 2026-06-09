@@ -1,6 +1,28 @@
 {
   "videos": [
     {
+      "videoId": "pMefVMDDxB4",
+      "title": "ĐỐI ĐẦU TUYỂN THỦ SGP",
+      "title_original": "ĐỐI ĐẦU TUYỂN THỦ SGP",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-09T15:36:44Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/pMefVMDDxB4/maxresdefault.jpg"
+    },
+    {
+      "videoId": "C2oCfAhslPI",
+      "title": "ĐỐI ĐẦU TUYỂN THỦ SGP",
+      "title_original": "ĐỐI ĐẦU TUYỂN THỦ SGP",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-09T15:28:06Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/C2oCfAhslPI/maxresdefault.jpg"
+    },
+    {
       "videoId": "Rmrddvv9g9I",
       "title": "🔴 TRỰC TIẾP: LỄ BỐC THĂM 1V1 - SWISS STAGE  | APL 2026 (NGÀY 09/06)",
       "title_original": "🔴 TRỰC TIẾP: LỄ BỐC THĂM 1V1 - SWISS STAGE  | APL 2026 (NGÀY 09/06)",
@@ -769,17 +791,6 @@
       "source": "youtube",
       "publishedAt": "2026-06-04T16:10:20Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/wEFus9vwtaQ/maxresdefault.jpg"
-    },
-    {
-      "videoId": "pMefVMDDxB4",
-      "title": "ĐỐI ĐẦU TUYỂN THỦ SGP",
-      "title_original": "ĐỐI ĐẦU TUYỂN THỦ SGP",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-06-04T15:59:41Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/pMefVMDDxB4/maxresdefault.jpg"
     },
     {
       "videoId": "UG_tR3ovHvo",
@@ -2188,17 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-05-28T18:11:32Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/ZCpn3ulsyRs/maxresdefault.jpg"
-    },
-    {
-      "videoId": "FEL_YM-Fasw",
-      "title": "AOV : NEW HERO TAMYN GAMEPLAY - ARENA OF VALOR LIENQUANMOBILE ROV",
-      "title_original": "AOV : NEW HERO TAMYN GAMEPLAY - ARENA OF VALOR LIENQUANMOBILE ROV",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-05-28T16:28:02Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/FEL_YM-Fasw/maxresdefault.jpg"
     }
   ]
 }
