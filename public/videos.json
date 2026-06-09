@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "rwvpb_FTnns",
+      "title": "Phiên Bản Mới: Sửa Rừng Quá Dễ, Timu Đang Nuông Chiều Newbie!",
+      "title_original": "Phiên Bản Mới: Sửa Rừng Quá Dễ, Timu Đang Nuông Chiều Newbie!",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-09T03:00:19Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/rwvpb_FTnns/maxresdefault.jpg"
+    },
+    {
       "videoId": "6h8bDHqT-mc",
       "title": "🔴 Tối nay sao",
       "title_original": "🔴 Tối nay sao",
@@ -89,6 +100,17 @@
       "thumbnailUrl": "https://i.ytimg.com/vi/tTETnwZ6y0Y/maxresdefault.jpg"
     },
     {
+      "videoId": "b9tjXNYAkLk",
+      "title": "🔴 [LIVE] FPT BEAR x realme | ĐẠI TIỆC RA MẮT REALME 16T 5G: Pin Siêu Sao - Săn Deal Siêu Quao",
+      "title_original": "🔴 [LIVE] FPT BEAR x realme | ĐẠI TIỆC RA MẮT REALME 16T 5G: Pin Siêu Sao - Săn Deal Siêu Quao",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-08T04:19:55Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/b9tjXNYAkLk/maxresdefault.jpg"
+    },
+    {
       "videoId": "I9kYL9vwFGs",
       "title": "TOP 5 Tướng Khắc Chế Gildur, Đừng Cấm Nữa Meta S2 2026, TNG",
       "title_original": "TOP 5 Tướng Khắc Chế Gildur, Đừng Cấm Nữa Meta S2 2026, TNG",
@@ -142,6 +164,17 @@
       "source": "youtube",
       "publishedAt": "2026-06-07T14:56:06Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/PLIREGhfF9E/maxresdefault.jpg"
+    },
+    {
+      "videoId": "iEEmghs9HFo",
+      "title": "🔴 [LIVE] FPT BEAR x realme | ĐẠI TIỆC RA MẮT REALME 16T 5G: Pin Siêu Sao - Săn Deal Siêu Quao",
+      "title_original": "🔴 [LIVE] FPT BEAR x realme | ĐẠI TIỆC RA MẮT REALME 16T 5G: Pin Siêu Sao - Săn Deal Siêu Quao",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-07T14:02:09Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/iEEmghs9HFo/maxresdefault.jpg"
     },
     {
       "videoId": "v_frXrScy_w",
@@ -2166,39 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-05-28T09:18:26Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/VxeKFI0LPTc/maxresdefault.jpg"
-    },
-    {
-      "videoId": "6f_WAWkBhCE",
-      "title": "Gặp Phải NGỘ KHÔNG Có Phép Tùm Lum - Nakroth Suýt Phải Bỏ Cuộc",
-      "title_original": "Gặp Phải NGỘ KHÔNG Có Phép Tùm Lum - Nakroth Suýt Phải Bỏ Cuộc",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-05-28T08:55:50Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/6f_WAWkBhCE/maxresdefault.jpg"
-    },
-    {
-      "videoId": "K-wzWWhovKc",
-      "title": "Solokill Ti",
-      "title_original": "Solokill Ti",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-05-28T07:24:06Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/K-wzWWhovKc/maxresdefault.jpg"
-    },
-    {
-      "videoId": "4g188TAk1aI",
-      "title": "DEMO: New Hero AoV - Tamyn ©️AOVNEWS",
-      "title_original": "DEMO: New Hero AoV - Tamyn ©️AOVNEWS",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-05-28T05:54:46Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/4g188TAk1aI/maxresdefault.jpg"
     }
   ]
 }
