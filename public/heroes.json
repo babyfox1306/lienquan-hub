@@ -1325,9 +1325,9 @@
         "Arthur"
       ],
       "tier": "B",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 0)",
+      "tier_reason": "Xuất hiện 2 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
-      "hot_count": 2,
+      "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/0/0f/Dirak_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125044153",
       "related_videos": [
         "dMBoYo1QxZs",
@@ -4967,5 +4967,5 @@
       ]
     }
   ],
-  "updated_at": "2026-06-10T16:19:41Z"
+  "updated_at": "2026-06-10T18:03:54Z"
 }
