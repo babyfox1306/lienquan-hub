@@ -954,8 +954,7 @@
       "related_videos": [
         "ra5UwnbPUbA",
         "UgGal-QdBEc",
-        "PcZA6iZwxjk",
-        "RGDnmQuZpY0"
+        "PcZA6iZwxjk"
       ]
     },
     {
@@ -2757,13 +2756,11 @@
       "counters": [],
       "synergies": [],
       "tier": "B",
-      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/7/7f/Biron_itadori.jpg/revision/latest/scale-to-width-down/500?cb=20250109145933",
-      "related_videos": [
-        "RGDnmQuZpY0"
-      ]
+      "related_videos": []
     },
     {
       "id": "bonnie",
@@ -3185,13 +3182,12 @@
       "counters": [],
       "synergies": [],
       "tier": "B",
-      "tier_reason": "Xuất hiện 2 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/e/e6/Dolia_Splash_Art.jpeg/revision/latest/scale-to-width-down/500?cb=20240710174030",
       "related_videos": [
-        "230HUBUiZMk",
-        "D_FOfb47Hfg"
+        "230HUBUiZMk"
       ]
     },
     {
@@ -3306,17 +3302,17 @@
       "counters": [],
       "synergies": [],
       "tier": "A",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 7, Score: 1)",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 8, Score: 1)",
       "hot": true,
-      "hot_count": 7,
+      "hot_count": 8,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/e/e6/Enzo_profile.jpg/revision/latest/scale-to-width-down/500?cb=20200531224410",
       "related_videos": [
+        "a1T4XF5ldUQ",
         "nd6-LujZ-30",
         "b1K52IkoSKY",
         "G9QxSWMOWMM",
         "lZEvgYnNRzo",
-        "CqjHg7-4U1M",
-        "ygRUWbyA3h0"
+        "CqjHg7-4U1M"
       ]
     },
     {
@@ -4248,13 +4244,12 @@
       "counters": [],
       "synergies": [],
       "tier": "B",
-      "tier_reason": "Xuất hiện 2 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
       "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/f/f2/Ryoma_Gunslinger.png/revision/latest/scale-to-width-down/500?cb=20180313083407",
       "related_videos": [
-        "VG612ImEohA",
-        "_udkOhgu7Mc"
+        "VG612ImEohA"
       ]
     },
     {
@@ -4685,13 +4680,11 @@
       "counters": [],
       "synergies": [],
       "tier": "B",
-      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/6/60/Wiro_profile.png/revision/latest/scale-to-width-down/500?cb=20200603121419",
-      "related_videos": [
-        "RGDnmQuZpY0"
-      ]
+      "related_videos": []
     },
     {
       "id": "wisp",
@@ -4973,5 +4966,5 @@
       ]
     }
   ],
-  "updated_at": "2026-06-11T11:32:09Z"
+  "updated_at": "2026-06-11T13:12:08Z"
 }
