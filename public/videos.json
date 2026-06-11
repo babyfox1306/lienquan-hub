@@ -1,6 +1,28 @@
 {
   "videos": [
     {
+      "videoId": "C2oCfAhslPI",
+      "title": "TỐI NAY GIAO LƯU TEAM NAM MŨ TRẮNG",
+      "title_original": "TỐI NAY GIAO LƯU TEAM NAM MŨ TRẮNG",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-11T15:26:11Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/C2oCfAhslPI/maxresdefault.jpg"
+    },
+    {
+      "videoId": "a3qTUlYr2ZE",
+      "title": "TỐI NAY GIAO LƯU TEAM NAM MŨ TRẮNG",
+      "title_original": "TỐI NAY GIAO LƯU TEAM NAM MŨ TRẮNG",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-11T15:18:50Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/a3qTUlYr2ZE/maxresdefault.jpg"
+    },
+    {
       "videoId": "B2hxUNGp86A",
       "title": "TRỰC TIẾP: CHUNG KẾT TỔNG GIẢI ĐẤU LIÊN CÂU LẠC BỘ MÙA XUÂN 2026",
       "title_original": "TRỰC TIẾP: CHUNG KẾT TỔNG GIẢI ĐẤU LIÊN CÂU LẠC BỘ MÙA XUÂN 2026",
@@ -450,17 +472,6 @@
       "source": "youtube",
       "publishedAt": "2026-06-09T15:36:44Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/pMefVMDDxB4/maxresdefault.jpg"
-    },
-    {
-      "videoId": "C2oCfAhslPI",
-      "title": "TỐI NAY GIAO LƯU TEAM NAM MŨ TRẮNG",
-      "title_original": "TỐI NAY GIAO LƯU TEAM NAM MŨ TRẮNG",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-06-09T15:28:06Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/C2oCfAhslPI/maxresdefault.jpg"
     },
     {
       "videoId": "i8Y5PuwQaZo",
@@ -2188,17 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-05-31T11:00:38Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/BlUtvdqiFzs/maxresdefault.jpg"
-    },
-    {
-      "videoId": "sFjrKSSlvs8",
-      "title": "Vĩnh Đất Hướng Dẫn Chơi Lorion & Zata | Combo Hủy Diệt Rank Thách Đấu",
-      "title_original": "Vĩnh Đất Hướng Dẫn Chơi Lorion & Zata | Combo Hủy Diệt Rank Thách Đấu",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-05-31T10:36:37Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/sFjrKSSlvs8/maxresdefault.jpg"
     }
   ]
 }
