@@ -2264,9 +2264,9 @@
         "Xeniel"
       ],
       "tier": "B",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 4, Score: 0)",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 3, Score: 0)",
       "hot": true,
-      "hot_count": 4,
+      "hot_count": 3,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/e/e7/Keera_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20200603115848",
       "related_videos": [
         "NqaPnWgojl0",
@@ -4966,5 +4966,5 @@
       ]
     }
   ],
-  "updated_at": "2026-06-11T13:12:08Z"
+  "updated_at": "2026-06-11T15:10:42Z"
 }
