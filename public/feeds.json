@@ -21,6 +21,11 @@
       "type": "channel"
     },
     {
+      "id": "UCAml1Hqu4LW36B3yEtQg8Fw",
+      "name": "FUNNY GAMING TV",
+      "type": "channel"
+    },
+    {
       "id": "UC3QLI0FHwACCaa91Xdpam2A",
       "name": "Trải Nghiệm Game",
       "type": "channel"
@@ -36,6 +41,11 @@
       "type": "channel"
     },
     {
+      "id": "UC9gbpSZsxLTsVgiPyUsU8sg",
+      "name": "Trưởng Star",
+      "type": "channel"
+    },
+    {
       "id": "UCeMjhoCCvujpObnt6yeZeNg",
       "name": "Garena 傳說對決",
       "type": "channel"
@@ -43,6 +53,11 @@
     {
       "id": "UCwrzeq94NPsz1EHap9r_9NA",
       "name": "Lai Bâng",
+      "type": "channel"
+    },
+    {
+      "id": "UC55ad8jzcIWCMU-o2CXMEAw",
+      "name": "Thầy Giáo Liên Quân",
       "type": "channel"
     },
     {
@@ -76,28 +91,13 @@
       "type": "channel"
     },
     {
-      "id": "UCdSGpiTIGwzlQQ9VP1IJXgg",
-      "name": "Bốp Bốp Top1 Liên Quân",
+      "id": "UCVBE4ZK00c4BKU8_NUCPTbQ",
+      "name": "Đạt Feed",
       "type": "channel"
     },
     {
-      "id": "UC1Gvx0tvS1_WyFmEH-G_2TA",
-      "name": "Team Flash Liên Quân Mobile",
-      "type": "channel"
-    },
-    {
-      "id": "UC-r1vXyPiJSo2r29U3PgoNg",
-      "name": "HẢI PHONG - HỎNG FILE",
-      "type": "channel"
-    },
-    {
-      "id": "UCgbMglNu16CgtxKRg3LrpjQ",
-      "name": "CBNN Liên Quân Mobile",
-      "type": "channel"
-    },
-    {
-      "id": "UCxRmGuMCF-xhlL4ex5gnAlg",
-      "name": "Soon Nata",
+      "id": "UCYfv7UcC1KOsvMD3BVVwoLg",
+      "name": "Esports - Garena Liên Quân Mobile",
       "type": "channel"
     }
   ],
