@@ -568,9 +568,9 @@
         "Krixi"
       ],
       "tier": "S",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 7, Score: 3)",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 6, Score: 3)",
       "hot": true,
-      "hot_count": 7,
+      "hot_count": 6,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/d/da/Baldum_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20200603161240",
       "related_videos": [
         "GcE1pKe8wl8",
@@ -805,9 +805,9 @@
         "Krixi"
       ],
       "tier": "A",
-      "tier_reason": "Được gán từ dữ liệu hạt giống (Seed A-Tier) do ít video mới (Hot Count: 1)",
+      "tier_reason": "Được gán từ dữ liệu hạt giống (Seed A-Tier) do ít video mới (Hot Count: 0)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/7/7c/Toro_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125082122",
       "related_videos": [
         "GT8z24S0eDo"
@@ -1332,7 +1332,7 @@
       "tier": "B",
       "tier_reason": "Xuất hiện 2 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/0/0f/Dirak_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125044153",
       "related_videos": [
         "dMBoYo1QxZs",
@@ -3306,12 +3306,17 @@
       "counters": [],
       "synergies": [],
       "tier": "A",
-      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 1)",
-      "hot": false,
-      "hot_count": 1,
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 7, Score: 1)",
+      "hot": true,
+      "hot_count": 7,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/e/e6/Enzo_profile.jpg/revision/latest/scale-to-width-down/500?cb=20200531224410",
       "related_videos": [
-        "bbECpP1CTTI"
+        "nd6-LujZ-30",
+        "b1K52IkoSKY",
+        "G9QxSWMOWMM",
+        "lZEvgYnNRzo",
+        "CqjHg7-4U1M",
+        "ygRUWbyA3h0"
       ]
     },
     {
@@ -4841,7 +4846,7 @@
       "tier": "A",
       "tier_reason": "Xuất hiện 2 lần trong video/tin tức 14 ngày qua (Score: 1)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/4/48/Y%27bneth_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125051920",
       "related_videos": [
         "tOAvlP5gMwo",
@@ -4968,5 +4973,5 @@
       ]
     }
   ],
-  "updated_at": "2026-06-11T09:26:59Z"
+  "updated_at": "2026-06-11T11:32:09Z"
 }
