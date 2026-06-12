@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "aheNAgTaIU4",
+      "title": "2026 傳說超神盃 四強雙敗淘汰賽 W3 - 2026/06/13 《Garena傳說對決》",
+      "title_original": "2026 傳說超神盃 四強雙敗淘汰賽 W3 - 2026/06/13 《Garena傳說對決》",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-12T06:28:31Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/aheNAgTaIU4/maxresdefault.jpg"
+    },
+    {
       "videoId": "HiF_GwN5pzY",
       "title": "TOP 6 Tướng Đi Rừng Mạnh Nhất Meta S2 2026, Được Thần Rừng Chia Sẻ và Gợi Ý, TNG",
       "title_original": "TOP 6 Tướng Đi Rừng Mạnh Nhất Meta S2 2026, Được Thần Rừng Chia Sẻ và Gợi Ý, TNG",
@@ -101,8 +112,8 @@
     },
     {
       "videoId": "R8HcV0eVphs",
-      "title": "2026 傳說超神盃 四強雙敗淘汰賽 - 2026/06/12 《Garena傳說對決》",
-      "title_original": "2026 傳說超神盃 四強雙敗淘汰賽 - 2026/06/12 《Garena傳說對決》",
+      "title": "2026 傳說超神盃 四強雙敗淘汰賽 W2 - 2026/06/12 《Garena傳說對決》",
+      "title_original": "2026 傳說超神盃 四強雙敗淘汰賽 W2 - 2026/06/12 《Garena傳說對決》",
       "translated": false,
       "country": "VN",
       "lang_original": "vi",
@@ -2188,17 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-05-31T20:00:19Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/wleIKrDv7ds/maxresdefault.jpg"
-    },
-    {
-      "videoId": "acstXOGrmuY",
-      "title": "7/6 live lại nhé",
-      "title_original": "7/6 live lại nhé",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-05-31T19:26:25Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/acstXOGrmuY/maxresdefault.jpg"
     }
   ]
 }
