@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "j-iMWSta8mU",
+      "title": "Trận giao lưu BO3 căng đét của ICYFOXX và TRẦN BÌNH - team khứa đầu vàng quá mạnh | Liên quân",
+      "title_original": "Trận giao lưu BO3 căng đét của ICYFOXX và TRẦN BÌNH - team khứa đầu vàng quá mạnh | Liên quân",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-12T07:26:35Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/j-iMWSta8mU/maxresdefault.jpg"
+    },
+    {
       "videoId": "aheNAgTaIU4",
       "title": "2026 傳說超神盃 四強雙敗淘汰賽 W3 - 2026/06/13 《Garena傳說對決》",
       "title_original": "2026 傳說超神盃 四強雙敗淘汰賽 W3 - 2026/06/13 《Garena傳說對決》",
@@ -123,8 +134,8 @@
     },
     {
       "videoId": "oBVVvhkTt5U",
-      "title": "2026 傳說超神盃 四強雙敗淘汰賽 - 2026/06/11 《Garena傳說對決》",
-      "title_original": "2026 傳說超神盃 四強雙敗淘汰賽 - 2026/06/11 《Garena傳說對決》",
+      "title": "2026 傳說超神盃 四強雙敗淘汰賽 W1 - 2026/06/11 《Garena傳說對決》",
+      "title_original": "2026 傳說超神盃 四強雙敗淘汰賽 W1 - 2026/06/11 《Garena傳說對決》",
       "translated": false,
       "country": "VN",
       "lang_original": "vi",
@@ -2188,17 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-05-31T22:22:26Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/q75ywFso5wQ/maxresdefault.jpg"
-    },
-    {
-      "videoId": "wleIKrDv7ds",
-      "title": "🔴LIVE tryhard 1Garena AOV Gameplay",
-      "title_original": "🔴LIVE tryhard 1Garena AOV Gameplay",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-05-31T20:00:19Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/wleIKrDv7ds/maxresdefault.jpg"
     }
   ]
 }
