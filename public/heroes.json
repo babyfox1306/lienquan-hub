@@ -563,17 +563,17 @@
         "Krixi"
       ],
       "tier": "A",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 3, Score: 2)",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 4, Score: 2)",
       "hot": true,
-      "hot_count": 3,
+      "hot_count": 4,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/d/da/Baldum_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20200603161240",
       "related_videos": [
+        "SX1Bat_yOwA",
         "GcE1pKe8wl8",
         "tTETnwZ6y0Y",
         "2_xJRWAMRI8",
         "XOkEX7ut62w",
-        "vNGG06yuRws",
-        "0DfzGfp0Zuk"
+        "vNGG06yuRws"
       ]
     },
     {
@@ -4957,5 +4957,5 @@
       ]
     }
   ],
-  "updated_at": "2026-06-13T09:59:38Z"
+  "updated_at": "2026-06-13T10:58:14Z"
 }
