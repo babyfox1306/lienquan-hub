@@ -1,6 +1,39 @@
 {
   "videos": [
     {
+      "videoId": "0gZyS8Tw-Bc",
+      "title": "Danh Giai Cang That Roi",
+      "title_original": "Danh Giai Cang That Roi",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-13T17:07:29Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/0gZyS8Tw-Bc/maxresdefault.jpg"
+    },
+    {
+      "videoId": "Dbcpi_LrQtY",
+      "title": "TỐI NAY GIAO LƯU TEAM THÁCH ĐẤU SỞ THÚ AOV",
+      "title_original": "TỐI NAY GIAO LƯU TEAM THÁCH ĐẤU SỞ THÚ AOV",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-13T16:53:19Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/Dbcpi_LrQtY/maxresdefault.jpg"
+    },
+    {
+      "videoId": "mlP5ih0RDrI",
+      "title": "TỐI NAY GIAO LƯU TEAM THÁCH ĐẤU SỞ THÚ AOV",
+      "title_original": "TỐI NAY GIAO LƯU TEAM THÁCH ĐẤU SỞ THÚ AOV",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-13T16:42:18Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/mlP5ih0RDrI/maxresdefault.jpg"
+    },
+    {
       "videoId": "aheNAgTaIU4",
       "title": "2026 傳說超神盃 四強雙敗淘汰賽 W3 - 2026/06/13 《Garena傳說對決》",
       "title_original": "2026 傳說超神盃 四強雙敗淘汰賽 W3 - 2026/06/13 《Garena傳說對決》",
@@ -87,28 +120,6 @@
       "source": "youtube",
       "publishedAt": "2026-06-13T13:39:20Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/jFl24LQrTkM/maxresdefault.jpg"
-    },
-    {
-      "videoId": "0gZyS8Tw-Bc",
-      "title": "Danh Giai Cang That Roi",
-      "title_original": "Danh Giai Cang That Roi",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-06-13T13:12:24Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/0gZyS8Tw-Bc/maxresdefault.jpg"
-    },
-    {
-      "videoId": "Dbcpi_LrQtY",
-      "title": "TỐI NAY GIAO LƯU TEAM THÁCH ĐẤU SỞ THÚ AOV",
-      "title_original": "TỐI NAY GIAO LƯU TEAM THÁCH ĐẤU SỞ THÚ AOV",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-06-13T12:36:10Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/Dbcpi_LrQtY/maxresdefault.jpg"
     },
     {
       "videoId": "GGA0QGk5vjU",
@@ -2188,17 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-06-02T19:32:24Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/GruZB01_xCg/maxresdefault.jpg"
-    },
-    {
-      "videoId": "0TuSapI9blg",
-      "title": "🔴 Giờ ''HÀNH'' Đã Tới",
-      "title_original": "🔴 Giờ ''HÀNH'' Đã Tới",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-06-02T17:58:35Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/0TuSapI9blg/maxresdefault.jpg"
     }
   ]
 }
