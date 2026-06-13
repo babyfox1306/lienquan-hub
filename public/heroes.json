@@ -517,14 +517,13 @@
         "Violet",
         "Zata"
       ],
-      "tier": "A",
-      "tier_reason": "Xuất hiện 2 lần trong video/tin tức 14 ngày qua (Score: 1)",
+      "tier": "B",
+      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/e/ec/Thane_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125055815",
       "related_videos": [
-        "mJyiO5rPsiU",
-        "rqZd2y2R_pc"
+        "mJyiO5rPsiU"
       ]
     },
     {
@@ -565,8 +564,8 @@
         "Violet",
         "Krixi"
       ],
-      "tier": "S",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 4, Score: 3)",
+      "tier": "A",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 4, Score: 2)",
       "hot": true,
       "hot_count": 4,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/d/da/Baldum_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20200603161240",
@@ -2026,15 +2025,14 @@
         "Alice",
         "Krixi"
       ],
-      "tier": "A",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 1)",
+      "tier": "B",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 0)",
       "hot": false,
       "hot_count": 2,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/5/59/Zill_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125053417",
       "related_videos": [
         "ZX0S3XQWrR8",
-        "YXuZxlyYRwI",
-        "rqZd2y2R_pc"
+        "YXuZxlyYRwI"
       ]
     },
     {
@@ -4962,5 +4960,5 @@
       ]
     }
   ],
-  "updated_at": "2026-06-13T04:41:40Z"
+  "updated_at": "2026-06-13T06:30:36Z"
 }
