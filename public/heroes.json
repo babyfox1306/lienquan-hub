@@ -334,9 +334,7 @@
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/a/a6/Marja_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125052236",
-      "related_videos": [
-        "RpTTok6ypBc"
-      ]
+      "related_videos": []
     },
     {
       "id": "hayate",
@@ -1279,11 +1277,12 @@
         "Nakroth"
       ],
       "tier": "A",
-      "tier_reason": "Xuất hiện 2 lần trong video/tin tức 14 ngày qua (Score: 1)",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 1)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 2,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/d/d4/Liliana_Default.jpg/revision/latest/scale-to-width-down/500?cb=20180331134150",
       "related_videos": [
+        "atz2wFhJ3wA",
         "dsHTCXwRg5c",
         "-0NFfoT8YEw"
       ]
@@ -4960,5 +4959,5 @@
       ]
     }
   ],
-  "updated_at": "2026-06-13T06:30:36Z"
+  "updated_at": "2026-06-13T08:10:39Z"
 }

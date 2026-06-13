@@ -1,6 +1,28 @@
 {
   "videos": [
     {
+      "videoId": "9eRJA4waaDQ",
+      "title": " Tra nay khng ln 40 sao th cng mc k",
+      "title_original": " Tra nay khng ln 40 sao th cng mc k",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-13T06:59:12Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/9eRJA4waaDQ/maxresdefault.jpg"
+    },
+    {
+      "videoId": "atz2wFhJ3wA",
+      "title": "Trận đấu cầm Liliana call team di chuyển combat cực hiệu quả chuẩn bị giải SSTN 6 của Icyfoxx",
+      "title_original": "Trận đấu cầm Liliana call team di chuyển combat cực hiệu quả chuẩn bị giải SSTN 6 của Icyfoxx",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-13T06:53:28Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/atz2wFhJ3wA/maxresdefault.jpg"
+    },
+    {
       "videoId": "em2ntMllhzQ",
       "title": "🔴 TRỰC TIẾP: 1V1 CHAMPIONSHIP - APL 2026 (NGÀY 13/06)",
       "title_original": "🔴 TRỰC TIẾP: 1V1 CHAMPIONSHIP - APL 2026 (NGÀY 13/06)",
@@ -156,8 +178,8 @@
     },
     {
       "videoId": "WGTgZmFOCoc",
-      "title": "APL 2026 1v1單挑賽D1-2026/06/13《Garena傳說對決》",
-      "title_original": "APL 2026 1v1單挑賽D1-2026/06/13《Garena傳說對決》",
+      "title": "🔴 LIVE:APL 2026 1v1單挑賽D1-2026/06/13《Garena傳說對決》",
+      "title_original": "🔴 LIVE:APL 2026 1v1單挑賽D1-2026/06/13《Garena傳說對決》",
       "translated": false,
       "country": "VN",
       "lang_original": "vi",
@@ -2177,28 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-06-02T06:23:50Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/gX4Y4pC8hWw/maxresdefault.jpg"
-    },
-    {
-      "videoId": "RpTTok6ypBc",
-      "title": "Nailiu Cầm Marja \"Smurf\" Trên Rank Thách Đấu Đài Cùng Với Pika Và 2 Người Chơi Việt Nam Và Đó Là...",
-      "title_original": "Nailiu Cầm Marja \"Smurf\" Trên Rank Thách Đấu Đài Cùng Với Pika Và 2 Người Chơi Việt Nam Và Đó Là...",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-06-02T04:00:02Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/RpTTok6ypBc/maxresdefault.jpg"
-    },
-    {
-      "videoId": "C6xFDQsF468",
-      "title": "Tôi Xếp Hạng Các Trang Phục Hợp Tác Anime Liên Quân P2",
-      "title_original": "Tôi Xếp Hạng Các Trang Phục Hợp Tác Anime Liên Quân P2",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-06-02T03:30:19Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/C6xFDQsF468/maxresdefault.jpg"
     }
   ]
 }
