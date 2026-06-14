@@ -808,8 +808,7 @@
       "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/7/7c/Toro_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125082122",
       "related_videos": [
-        "VVu4JB4qDPY",
-        "GT8z24S0eDo"
+        "VVu4JB4qDPY"
       ]
     },
     {
@@ -1331,13 +1330,11 @@
         "Arthur"
       ],
       "tier": "B",
-      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/0/0f/Dirak_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125044153",
-      "related_videos": [
-        "dMBoYo1QxZs"
-      ]
+      "related_videos": []
     },
     {
       "id": "elsu",
@@ -2270,8 +2267,7 @@
       "related_videos": [
         "NqaPnWgojl0",
         "ytGowbnb-do",
-        "lyLeZrWCJPw",
-        "NFlena_7DpY"
+        "lyLeZrWCJPw"
       ]
     },
     {
@@ -3572,11 +3568,12 @@
       "counters": [],
       "synergies": [],
       "tier": "A",
-      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 1)",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 1)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 2,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/d/d3/Ishar_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125044459",
       "related_videos": [
+        "Gq_tdjJ7AE0",
         "bkcezup5JZs"
       ]
     },
@@ -4825,13 +4822,11 @@
       "counters": [],
       "synergies": [],
       "tier": "B",
-      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/4/48/Y%27bneth_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125051920",
-      "related_videos": [
-        "tOAvlP5gMwo"
-      ]
+      "related_videos": []
     },
     {
       "id": "yorn",
@@ -4951,5 +4946,5 @@
       "related_videos": []
     }
   ],
-  "updated_at": "2026-06-14T15:36:32Z"
+  "updated_at": "2026-06-14T16:33:02Z"
 }
