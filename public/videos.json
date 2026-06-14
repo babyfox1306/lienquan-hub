@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "tAhBnS-G2yY",
+      "title": "🔥TỔNG HỢP SỰ KIỆN HÈ CHÁY LIÊN QUÂN🔥 - Garena Liên Quân Mobile",
+      "title_original": "🔥TỔNG HỢP SỰ KIỆN HÈ CHÁY LIÊN QUÂN🔥 - Garena Liên Quân Mobile",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-14T13:00:15Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/tAhBnS-G2yY/maxresdefault.jpg"
+    },
+    {
       "videoId": "u-jw8Db91dg",
       "title": "Đừng Xem Thường! Alice Không Phế Như Bạn Nghĩ",
       "title_original": "Đừng Xem Thường! Alice Không Phế Như Bạn Nghĩ",
@@ -277,8 +288,8 @@
     },
     {
       "videoId": "jFl24LQrTkM",
-      "title": "🔴 LIVE:APL 2026 1v1單挑賽D2-2026/06/14《Garena傳說對決》",
-      "title_original": "🔴 LIVE:APL 2026 1v1單挑賽D2-2026/06/14《Garena傳說對決》",
+      "title": "APL 2026 1v1單挑賽D2-2026/06/14《Garena傳說對決》",
+      "title_original": "APL 2026 1v1單挑賽D2-2026/06/14《Garena傳說對決》",
       "translated": false,
       "country": "VN",
       "lang_original": "vi",
@@ -2188,17 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-06-04T08:00:03Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/TQw_Tde-ZIY/maxresdefault.jpg"
-    },
-    {
-      "videoId": "KRWMKHTzGdc",
-      "title": "ตำนานบทใหม่ Baldum ปรับใหม่เว้ยเฮ้ย! @daoyimstudio",
-      "title_original": "ตำนานบทใหม่ Baldum ปรับใหม่เว้ยเฮ้ย! @daoyimstudio",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-06-04T07:00:03Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/KRWMKHTzGdc/maxresdefault.jpg"
     }
   ]
 }
