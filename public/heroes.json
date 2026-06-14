@@ -2211,13 +2211,11 @@
         "Krixi"
       ],
       "tier": "B",
-      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/f/f9/Arthur_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20221110122653",
-      "related_videos": [
-        "zTWEVaMDUTU"
-      ]
+      "related_videos": []
     },
     {
       "id": "keera",
@@ -3130,13 +3128,12 @@
       "counters": [],
       "synergies": [],
       "tier": "B",
-      "tier_reason": "Xuất hiện 2 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://img.youtube.com/vi/PcZA6iZwxjk/maxresdefault.jpg",
       "related_videos": [
-        "PcZA6iZwxjk",
-        "zXHGEsnYmKM"
+        "PcZA6iZwxjk"
       ]
     },
     {
@@ -4947,5 +4944,5 @@
       "related_videos": []
     }
   ],
-  "updated_at": "2026-06-14T07:33:04Z"
+  "updated_at": "2026-06-14T09:06:00Z"
 }

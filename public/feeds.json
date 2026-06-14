@@ -16,11 +16,6 @@
       "type": "channel"
     },
     {
-      "id": "UCykFSnImGNa-5DABblw7K-w",
-      "name": "Gcaothu CHANNEL",
-      "type": "channel"
-    },
-    {
       "id": "UCAml1Hqu4LW36B3yEtQg8Fw",
       "name": "FUNNY GAMING TV",
       "type": "channel"
@@ -41,11 +36,6 @@
       "type": "channel"
     },
     {
-      "id": "UC9gbpSZsxLTsVgiPyUsU8sg",
-      "name": "Trưởng Star",
-      "type": "channel"
-    },
-    {
       "id": "UCeMjhoCCvujpObnt6yeZeNg",
       "name": "Garena 傳說對決",
       "type": "channel"
@@ -63,6 +53,11 @@
     {
       "id": "UCyqjmx1kcZknycssiIhFQKw",
       "name": "VuxGaming",
+      "type": "channel"
+    },
+    {
+      "id": "UCpQ52533EsOa5k-dQSmD1jw",
+      "name": "Ha Le Quyen",
       "type": "channel"
     },
     {
@@ -98,6 +93,11 @@
     {
       "id": "UCYfv7UcC1KOsvMD3BVVwoLg",
       "name": "Esports - Garena Liên Quân Mobile",
+      "type": "channel"
+    },
+    {
+      "id": "UCdSGpiTIGwzlQQ9VP1IJXgg",
+      "name": "Bốp Bốp Top1 Liên Quân",
       "type": "channel"
     }
   ],
