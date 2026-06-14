@@ -94,8 +94,7 @@
       "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/5/5e/Murad_Outlaw.png/revision/latest/scale-to-width-down/500?cb=20180317082415",
       "related_videos": [
-        "YXuZxlyYRwI",
-        "4hHJ2NS_2n0"
+        "YXuZxlyYRwI"
       ]
     },
     {
@@ -230,11 +229,12 @@
         "Zip"
       ],
       "tier": "B",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 4, Score: 0)",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 5, Score: 0)",
       "hot": true,
-      "hot_count": 4,
+      "hot_count": 5,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/2/2d/Laville_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20211128202736",
       "related_videos": [
+        "wJaA9KXVY9o",
         "GGA0QGk5vjU",
         "fDEjTrcAJd4",
         "N5ZubwrIprk",
@@ -561,17 +561,17 @@
         "Krixi"
       ],
       "tier": "A",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 3, Score: 2)",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 4, Score: 2)",
       "hot": true,
-      "hot_count": 3,
+      "hot_count": 4,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/d/da/Baldum_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20200603161240",
       "related_videos": [
+        "3rTwBIb6ZzI",
         "SX1Bat_yOwA",
         "GcE1pKe8wl8",
         "tTETnwZ6y0Y",
         "2_xJRWAMRI8",
-        "XOkEX7ut62w",
-        "vNGG06yuRws"
+        "XOkEX7ut62w"
       ]
     },
     {
@@ -1136,11 +1136,12 @@
         "Alice"
       ],
       "tier": "B",
-      "tier_reason": "Xuất hiện 2 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 0)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 2,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/2/2c/Tulen_Splash.jpeg/revision/latest/scale-to-width-down/500?cb=20180102103714",
       "related_videos": [
+        "3rTwBIb6ZzI",
         "dsHTCXwRg5c",
         "x3_W98xeF2Y"
       ]
@@ -1381,8 +1382,7 @@
       "related_videos": [
         "EQCf9FAs_ts",
         "bkcezup5JZs",
-        "2_xJRWAMRI8",
-        "i6-ZcXE8Mgg"
+        "2_xJRWAMRI8"
       ]
     },
     {
@@ -2024,11 +2024,12 @@
         "Krixi"
       ],
       "tier": "B",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 0)",
-      "hot": false,
-      "hot_count": 2,
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 3, Score: 0)",
+      "hot": true,
+      "hot_count": 3,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/5/59/Zill_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125053417",
       "related_videos": [
+        "3rTwBIb6ZzI",
         "ZX0S3XQWrR8",
         "YXuZxlyYRwI"
       ]
@@ -2354,13 +2355,11 @@
         "Nakroth"
       ],
       "tier": "B",
-      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/a/a3/Raz_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125091551",
-      "related_videos": [
-        "i6-ZcXE8Mgg"
-      ]
+      "related_videos": []
     },
     {
       "id": "airi",
@@ -4394,13 +4393,11 @@
       "counters": [],
       "synergies": [],
       "tier": "B",
-      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/9/93/Slimz_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125053904",
-      "related_videos": [
-        "1jLKDkeUohs"
-      ]
+      "related_videos": []
     },
     {
       "id": "stuart",
@@ -4950,5 +4947,5 @@
       "related_videos": []
     }
   ],
-  "updated_at": "2026-06-14T03:05:43Z"
+  "updated_at": "2026-06-14T05:34:34Z"
 }
