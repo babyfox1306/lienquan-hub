@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "nrhGomGZv9Y",
+      "title": "🔴 Team bên kia để tui gánh",
+      "title_original": "🔴 Team bên kia để tui gánh",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-14T18:14:27Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/nrhGomGZv9Y/maxresdefault.jpg"
+    },
+    {
       "videoId": "QFy__pumxRs",
       "title": "Phải Biết Chơi",
       "title_original": "Phải Biết Chơi",
@@ -32,17 +43,6 @@
       "source": "youtube",
       "publishedAt": "2026-06-14T14:30:25Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/UerCXwA32aY/maxresdefault.jpg"
-    },
-    {
-      "videoId": "nrhGomGZv9Y",
-      "title": "🔴 Team bên kia để tui gánh",
-      "title_original": "🔴 Team bên kia để tui gánh",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-06-14T14:05:58Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/nrhGomGZv9Y/maxresdefault.jpg"
     },
     {
       "videoId": "_A1DlekPSso",
