@@ -38,10 +38,10 @@
         "Thane",
         "Krixi"
       ],
-      "tier": "B",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 0)",
+      "tier": "A",
+      "tier_reason": "Được gán từ dữ liệu hạt giống (Seed A-Tier) do ít video mới (Hot Count: 1)",
       "hot": false,
-      "hot_count": 2,
+      "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/3/3f/Nakroth_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20201224121203",
       "related_videos": [
         "uRIoQjF8NJA",
@@ -229,11 +229,12 @@
         "Zip"
       ],
       "tier": "B",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 5, Score: 0)",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 6, Score: 0)",
       "hot": true,
-      "hot_count": 5,
+      "hot_count": 6,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/2/2d/Laville_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20211128202736",
       "related_videos": [
+        "GRfN6LWCll8",
         "wJaA9KXVY9o",
         "GGA0QGk5vjU",
         "fDEjTrcAJd4",
@@ -896,12 +897,14 @@
         "Valhein",
         "Wukong"
       ],
-      "tier": "B",
-      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier": "C",
+      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: -1)",
       "hot": false,
-      "hot_count": 0,
+      "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/3/3b/Alice_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125083007",
-      "related_videos": []
+      "related_videos": [
+        "u-jw8Db91dg"
+      ]
     },
     {
       "id": "jinna",
@@ -4944,5 +4947,5 @@
       "related_videos": []
     }
   ],
-  "updated_at": "2026-06-14T10:59:51Z"
+  "updated_at": "2026-06-14T11:45:26Z"
 }

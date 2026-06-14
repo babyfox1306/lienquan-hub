@@ -1,6 +1,28 @@
 {
   "videos": [
     {
+      "videoId": "u-jw8Db91dg",
+      "title": "Đừng Xem Thường! Alice Không Phế Như Bạn Nghĩ",
+      "title_original": "Đừng Xem Thường! Alice Không Phế Như Bạn Nghĩ",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-14T11:37:42Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/u-jw8Db91dg/maxresdefault.jpg"
+    },
+    {
+      "videoId": "GRfN6LWCll8",
+      "title": "✨ HIỆU ỨNG CHIÊU THỨC | LAVILLE CƠN LỐC ĐƯỜNG BIÊN ✨ - Garena Liên Quân Mobile",
+      "title_original": "✨ HIỆU ỨNG CHIÊU THỨC | LAVILLE CƠN LỐC ĐƯỜNG BIÊN ✨ - Garena Liên Quân Mobile",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-14T11:00:21Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/GRfN6LWCll8/maxresdefault.jpg"
+    },
+    {
       "videoId": "-vaki2BA0_I",
       "title": "🔴 Chill vài trận gồi off tối chiến tiếp",
       "title_original": "🔴 Chill vài trận gồi off tối chiến tiếp",
@@ -2177,28 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-06-03T12:01:24Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/4eQJuFjzykI/maxresdefault.jpg"
-    },
-    {
-      "videoId": "jAcn2mIPhbI",
-      "title": "PLAYER TO WATCH #1: ĐƯỜNG GIỮA - NHỮNG NGƯỜI NGHỆ SĨ KIẾN TẠO TRẬN ĐẤU | APL 2026",
-      "title_original": "PLAYER TO WATCH #1: ĐƯỜNG GIỮA - NHỮNG NGƯỜI NGHỆ SĨ KIẾN TẠO TRẬN ĐẤU | APL 2026",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-06-03T12:00:46Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/jAcn2mIPhbI/maxresdefault.jpg"
-    },
-    {
-      "videoId": "DfQWqlUA7qw",
-      "title": "【亮點選手】APL 2026 中路亮點選手介紹!戰場的致命動脈,四大頂尖中路傳奇一次看完🔥《Garena傳說對決》",
-      "title_original": "【亮點選手】APL 2026 中路亮點選手介紹!戰場的致命動脈,四大頂尖中路傳奇一次看完🔥《Garena傳說對決》",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-06-03T12:00:03Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/DfQWqlUA7qw/maxresdefault.jpg"
     }
   ]
 }
