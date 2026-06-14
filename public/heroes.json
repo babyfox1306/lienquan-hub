@@ -516,13 +516,11 @@
         "Zata"
       ],
       "tier": "B",
-      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/e/ec/Thane_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125055815",
-      "related_videos": [
-        "mJyiO5rPsiU"
-      ]
+      "related_videos": []
     },
     {
       "id": "baldum",
@@ -1278,15 +1276,14 @@
         "Thane",
         "Nakroth"
       ],
-      "tier": "A",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 1)",
+      "tier": "B",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 0)",
       "hot": false,
       "hot_count": 2,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/d/d4/Liliana_Default.jpg/revision/latest/scale-to-width-down/500?cb=20180331134150",
       "related_videos": [
         "atz2wFhJ3wA",
-        "dsHTCXwRg5c",
-        "-0NFfoT8YEw"
+        "dsHTCXwRg5c"
       ]
     },
     {
@@ -4321,8 +4318,7 @@
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/6/60/Sinestrea_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20220702032816",
       "related_videos": [
-        "S2nbKkcscr0",
-        "mJyiO5rPsiU"
+        "S2nbKkcscr0"
       ]
     },
     {
@@ -4954,5 +4950,5 @@
       "related_videos": []
     }
   ],
-  "updated_at": "2026-06-13T23:26:31Z"
+  "updated_at": "2026-06-14T00:30:52Z"
 }
