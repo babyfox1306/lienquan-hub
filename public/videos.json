@@ -1,6 +1,50 @@
 {
   "videos": [
     {
+      "videoId": "nrhGomGZv9Y",
+      "title": "🔴 Team bên kia để tui gánh",
+      "title_original": "🔴 Team bên kia để tui gánh",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-14T14:05:58Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/nrhGomGZv9Y/maxresdefault.jpg"
+    },
+    {
+      "videoId": "5Sc-LBPXTlo",
+      "title": "🔴 TRỰC TIẾP: 1V1 CHAMPIONSHIP - APL 2026 (NGÀY 14/06)",
+      "title_original": "🔴 TRỰC TIẾP: 1V1 CHAMPIONSHIP - APL 2026 (NGÀY 14/06)",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-14T13:43:25Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/5Sc-LBPXTlo/maxresdefault.jpg"
+    },
+    {
+      "videoId": "lx2PdfWJyfY",
+      "title": "🔴 TRỰC TIẾP: 1V1 CHAMPIONSHIP - APL 2026 (NGÀY 14/06)",
+      "title_original": "🔴 TRỰC TIẾP: 1V1 CHAMPIONSHIP - APL 2026 (NGÀY 14/06)",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-14T13:38:26Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/lx2PdfWJyfY/maxresdefault.jpg"
+    },
+    {
+      "videoId": "QFy__pumxRs",
+      "title": "Phải Biết Chơi",
+      "title_original": "Phải Biết Chơi",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-14T13:12:36Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/QFy__pumxRs/maxresdefault.jpg"
+    },
+    {
       "videoId": "tAhBnS-G2yY",
       "title": "🔥TỔNG HỢP SỰ KIỆN HÈ CHÁY LIÊN QUÂN🔥 - Garena Liên Quân Mobile",
       "title_original": "🔥TỔNG HỢP SỰ KIỆN HÈ CHÁY LIÊN QUÂN🔥 - Garena Liên Quân Mobile",
@@ -76,28 +120,6 @@
       "source": "youtube",
       "publishedAt": "2026-06-14T05:35:54Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/WXc8q1_vnaQ/maxresdefault.jpg"
-    },
-    {
-      "videoId": "lx2PdfWJyfY",
-      "title": "🔴 TRỰC TIẾP: 1V1 CHAMPIONSHIP - APL 2026 (NGÀY 14/06)",
-      "title_original": "🔴 TRỰC TIẾP: 1V1 CHAMPIONSHIP - APL 2026 (NGÀY 14/06)",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-06-14T05:06:10Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/lx2PdfWJyfY/maxresdefault.jpg"
-    },
-    {
-      "videoId": "5Sc-LBPXTlo",
-      "title": "🔴 TRỰC TIẾP: 1V1 CHAMPIONSHIP - APL 2026 (NGÀY 14/06)",
-      "title_original": "🔴 TRỰC TIẾP: 1V1 CHAMPIONSHIP - APL 2026 (NGÀY 14/06)",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-06-14T05:03:49Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/5Sc-LBPXTlo/maxresdefault.jpg"
     },
     {
       "videoId": "wJaA9KXVY9o",
@@ -2177,28 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-06-04T09:14:09Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/GT8z24S0eDo/maxresdefault.jpg"
-    },
-    {
-      "videoId": "kLeDbovuDWA",
-      "title": "บรรยากาศงานออฟไลน์ RoV Valor City 2026🏆 ชิงแชมป์ประเทศไทย",
-      "title_original": "บรรยากาศงานออฟไลน์ RoV Valor City 2026🏆 ชิงแชมป์ประเทศไทย",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-06-04T08:00:28Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/kLeDbovuDWA/maxresdefault.jpg"
-    },
-    {
-      "videoId": "TQw_Tde-ZIY",
-      "title": "[OFFICIAL TRAILER] SIÊU SAO TOÀN NĂNG 6.0",
-      "title_original": "[OFFICIAL TRAILER] SIÊU SAO TOÀN NĂNG 6.0",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-06-04T08:00:03Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/TQw_Tde-ZIY/maxresdefault.jpg"
     }
   ]
 }
