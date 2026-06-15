@@ -851,10 +851,10 @@
         "Elsu",
         "Yorn"
       ],
-      "tier": "A",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 1)",
+      "tier": "S",
+      "tier_reason": "Được gán từ dữ liệu hạt giống (Seed S-Tier) do ít video mới (Hot Count: 1)",
       "hot": false,
-      "hot_count": 2,
+      "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/7/71/Gildur_Default.jpg/revision/latest/scale-to-width-down/500?cb=20180327112635",
       "related_videos": [
         "dsHTCXwRg5c",
@@ -2431,14 +2431,13 @@
       },
       "counters": [],
       "synergies": [],
-      "tier": "A",
-      "tier_reason": "Xuất hiện 2 lần trong video/tin tức 14 ngày qua (Score: 1)",
+      "tier": "B",
+      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
       "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/6/64/Aleister_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20241210090540",
       "related_videos": [
-        "i8Y5PuwQaZo",
-        "57MWQAEbP_g"
+        "i8Y5PuwQaZo"
       ]
     },
     {
@@ -3608,12 +3607,14 @@
       },
       "counters": [],
       "synergies": [],
-      "tier": "B",
-      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier": "A",
+      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 1)",
       "hot": false,
-      "hot_count": 0,
+      "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/8/81/Kahlii_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125083310",
-      "related_videos": []
+      "related_videos": [
+        "8XiYnhSTpRU"
+      ]
     },
     {
       "id": "kaine",
@@ -4946,5 +4947,5 @@
       "related_videos": []
     }
   ],
-  "updated_at": "2026-06-15T03:06:01Z"
+  "updated_at": "2026-06-15T05:46:31Z"
 }

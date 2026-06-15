@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-06-15T03:06:01.622350",
+  "last_updated": "2026-06-15T05:46:31.600747",
   "total_news": 100,
   "news": [
+    {
+      "id": "19c59a4f388e",
+      "title": "BẢO TRÌ MÁY CHỦ MẶT TRỜI NGÀY 16/6/2026",
+      "link": "https://lienquan.garena.vn/bao-tri-may-chu-mat-troi-ngay-16-6-2026/",
+      "summary": "<p>Các Kiện Tướng thân mến,​ Nhằm đảm bảo trải nghiệm của người chơi, Liên Quân Mobile sẽ tiến hành tạm đóng máy chủ mặt trời để bảo trì hệ thống. Thời gian dự kiến: 03:00 [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/bao-tri-may-chu-mat-troi-ngay-16-6-2026/\">BẢO TRÌ MÁY CHỦ MẶT TRỜI NGÀY 16/6/2026</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2026/06/SeaTalk_IMG_20260615_105253.jpeg",
+      "source": "Liên Quân Mobile Official",
+      "source_url": "https://lienquan.garena.vn/rss",
+      "published_at": "2026-06-15T03:58:42Z",
+      "crawled_at": "2026-06-15T05:41:30.812284",
+      "category": "tướng",
+      "priority": 1
+    },
     {
       "id": "9f26c2de5988",
       "title": "THI XONG RỒI – QUẨY THÔI! | CHÍNH THỨC CÔNG BỐ ĐỊA ĐIỂM OFFLINE CHÚC MỪNG SĨ TỬ 2026",
@@ -1287,19 +1300,6 @@
       "published_at": "2025-12-23T12:00:13Z",
       "crawled_at": "2025-12-23T13:13:00.806638",
       "category": "tin tức",
-      "priority": 1
-    },
-    {
-      "id": "8b3fbf39bbb7",
-      "title": "VINH DANH COMMUNITY LEADER XUẤT SẮC NHẤT THÁNG 11 NĂM 2025",
-      "link": "https://lienquan.garena.vn/vinh-danh-community-leader-xuat-sac-nhat-thang-11-nam-2025/",
-      "summary": "<p>Xin chào các Kiện Tướng, Tháng 11 – dấu mốc chuyển mình sang mùa cuối năm – cũng là lúc cộng đồng Liên Quân Mobile trên khắp cả nước trở nên rộn ràng hơn bao [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/vinh-danh-community-leader-xuat-sac-nhat-thang-11-nam-2025/\">VINH DANH COMMUNITY LEADER XUẤT SẮC NHẤT THÁNG 11 NĂM 2025</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
-      "image_url": null,
-      "source": "Liên Quân Mobile Official",
-      "source_url": "https://lienquan.garena.vn/rss",
-      "published_at": "2025-12-17T07:23:12Z",
-      "crawled_at": "2025-12-17T08:01:29.304096",
-      "category": "tướng",
       "priority": 1
     }
   ]
