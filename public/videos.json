@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "6zI4gLWVSaI",
+      "title": "TOP 5 Quái Vật Từng Được Timu Cook Ra Khiến Game Thủ Khóc Thét, TNG",
+      "title_original": "TOP 5 Quái Vật Từng Được Timu Cook Ra Khiến Game Thủ Khóc Thét, TNG",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-15T03:00:09Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/6zI4gLWVSaI/maxresdefault.jpg"
+    },
+    {
       "videoId": "nrhGomGZv9Y",
       "title": "🔴 Team bên kia để tui gánh",
       "title_original": "🔴 Team bên kia để tui gánh",
@@ -2188,17 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-06-04T17:51:38Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/-B8XQZTVZzQ/maxresdefault.jpg"
-    },
-    {
-      "videoId": "Ango-yzDSS0",
-      "title": "Blv ShowMath Team Trn Bnh",
-      "title_original": "Blv ShowMath Team Trn Bnh",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-06-04T17:27:25Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/Ango-yzDSS0/maxresdefault.jpg"
     }
   ]
 }

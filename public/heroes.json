@@ -3288,9 +3288,9 @@
       "counters": [],
       "synergies": [],
       "tier": "A",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 8, Score: 1)",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 7, Score: 1)",
       "hot": true,
-      "hot_count": 8,
+      "hot_count": 7,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/e/e6/Enzo_profile.jpg/revision/latest/scale-to-width-down/500?cb=20200531224410",
       "related_videos": [
         "a1T4XF5ldUQ",
@@ -4946,5 +4946,5 @@
       "related_videos": []
     }
   ],
-  "updated_at": "2026-06-15T01:50:29Z"
+  "updated_at": "2026-06-15T03:06:01Z"
 }
