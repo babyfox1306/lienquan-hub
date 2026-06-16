@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "ZVu6x0Si6jg",
+      "title": "🔴 Thử thách 60 điểm hạ gục trong tối nay",
+      "title_original": "🔴 Thử thách 60 điểm hạ gục trong tối nay",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-16T17:46:21Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/ZVu6x0Si6jg/maxresdefault.jpg"
+    },
+    {
       "videoId": "iYYhhub2J4A",
       "title": "Phải Biết Chơi",
       "title_original": "Phải Biết Chơi",
@@ -54,17 +65,6 @@
       "source": "youtube",
       "publishedAt": "2026-06-16T15:10:58Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/3MooladsMEk/maxresdefault.jpg"
-    },
-    {
-      "videoId": "ZVu6x0Si6jg",
-      "title": "🔴 Thử thách 60 điểm hạ gục trong tối nay",
-      "title_original": "🔴 Thử thách 60 điểm hạ gục trong tối nay",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-06-16T15:09:17Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/ZVu6x0Si6jg/maxresdefault.jpg"
     },
     {
       "videoId": "PQQXHRjgEG0",
