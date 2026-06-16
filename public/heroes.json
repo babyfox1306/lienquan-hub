@@ -572,8 +572,7 @@
         "SX1Bat_yOwA",
         "GcE1pKe8wl8",
         "tTETnwZ6y0Y",
-        "2_xJRWAMRI8",
-        "XOkEX7ut62w"
+        "2_xJRWAMRI8"
       ]
     },
     {
@@ -2433,7 +2432,7 @@
       "tier": "B",
       "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/6/64/Aleister_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20241210090540",
       "related_videos": [
         "i8Y5PuwQaZo"
@@ -4954,5 +4953,5 @@
       "related_videos": []
     }
   ],
-  "updated_at": "2026-06-16T13:34:46Z"
+  "updated_at": "2026-06-16T15:40:08Z"
 }
