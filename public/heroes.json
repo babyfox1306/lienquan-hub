@@ -1141,12 +1141,13 @@
         "Grakk",
         "Alice"
       ],
-      "tier": "B",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 3, Score: 0)",
+      "tier": "A",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 4, Score: 1)",
       "hot": true,
-      "hot_count": 3,
+      "hot_count": 4,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/2/2c/Tulen_Splash.jpeg/revision/latest/scale-to-width-down/500?cb=20180102103714",
       "related_videos": [
+        "MsTVAahur2o",
         "-I0i0MK_FIc",
         "3rTwBIb6ZzI",
         "dsHTCXwRg5c",
@@ -4954,5 +4955,5 @@
       "related_videos": []
     }
   ],
-  "updated_at": "2026-06-16T07:52:23Z"
+  "updated_at": "2026-06-16T09:46:10Z"
 }
