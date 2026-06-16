@@ -1,6 +1,28 @@
 {
   "videos": [
     {
+      "videoId": "3MooladsMEk",
+      "title": "🔴 Thử thách 60 điểm hạ gục trong tối nay",
+      "title_original": "🔴 Thử thách 60 điểm hạ gục trong tối nay",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-16T13:21:39Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/3MooladsMEk/maxresdefault.jpg"
+    },
+    {
+      "videoId": "PQQXHRjgEG0",
+      "title": "🎙️ INGAME TRAILER | LAVILLE CƠN LỐC ĐƯỜNG BIÊN 🎙️ - Garena Liên Quân Mobile",
+      "title_original": "🎙️ INGAME TRAILER | LAVILLE CƠN LỐC ĐƯỜNG BIÊN 🎙️ - Garena Liên Quân Mobile",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-16T13:00:00Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/PQQXHRjgEG0/maxresdefault.jpg"
+    },
+    {
       "videoId": "BctrYzLdsnI",
       "title": "▎衛冕王座,無法避免的踏平路上的每一位挑戰者 FW NAILIU#APL2026 #ValorRisesBattlesCollide #傳說對決 #1v1interview #REG",
       "title_original": "▎衛冕王座,無法避免的踏平路上的每一位挑戰者 FW NAILIU#APL2026 #ValorRisesBattlesCollide #傳說對決 #1v1interview #REG",
@@ -662,8 +684,8 @@
     },
     {
       "videoId": "mlP5ih0RDrI",
-      "title": "TỐI NAY GIAO LƯU TEAM THÁCH ĐẤU SỞ THÚ AOV",
-      "title_original": "TỐI NAY GIAO LƯU TEAM THÁCH ĐẤU SỞ THÚ AOV",
+      "title": "SIÊU SAO TOÀN NĂNG 6 NGÀY 1: HẮC LONG VS BDG",
+      "title_original": "SIÊU SAO TOÀN NĂNG 6 NGÀY 1: HẮC LONG VS BDG",
       "translated": false,
       "country": "VN",
       "lang_original": "vi",
@@ -2177,28 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-06-06T09:30:38Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/XOkEX7ut62w/maxresdefault.jpg"
-    },
-    {
-      "videoId": "7M76EOy3eCA",
-      "title": " Tra nay khng ln 30 sao th CNG K",
-      "title_original": " Tra nay khng ln 30 sao th CNG K",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-06-06T07:57:09Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/7M76EOy3eCA/maxresdefault.jpg"
-    },
-    {
-      "videoId": "jUxFuiH_hQg",
-      "title": "\"HẾT HỒN\" Với Kết Quả Của 3 Cặp Trận Nailiu Solo Florentino Với ANK Long, Top 1 Flo Đài Và ANK WeiT",
-      "title_original": "\"HẾT HỒN\" Với Kết Quả Của 3 Cặp Trận Nailiu Solo Florentino Với ANK Long, Top 1 Flo Đài Và ANK WeiT",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-06-06T04:04:59Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/jUxFuiH_hQg/maxresdefault.jpg"
     }
   ]
 }

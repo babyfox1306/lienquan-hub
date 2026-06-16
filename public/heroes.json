@@ -233,17 +233,17 @@
         "Zip"
       ],
       "tier": "A",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 6, Score: 1)",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 7, Score: 1)",
       "hot": true,
-      "hot_count": 6,
+      "hot_count": 7,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/2/2d/Laville_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20211128202736",
       "related_videos": [
+        "PQQXHRjgEG0",
         "GRfN6LWCll8",
         "wJaA9KXVY9o",
         "GGA0QGk5vjU",
         "fDEjTrcAJd4",
-        "N5ZubwrIprk",
-        "q7J-Lz--Zm0"
+        "N5ZubwrIprk"
       ]
     },
     {
@@ -429,8 +429,7 @@
       "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/3/3f/The_Diminisher.png/revision/latest/scale-to-width-down/500?cb=20230721030441",
       "related_videos": [
-        "16_oGUnEuSU",
-        "jUxFuiH_hQg"
+        "16_oGUnEuSU"
       ]
     },
     {
@@ -1382,7 +1381,7 @@
       "tier": "A",
       "tier_reason": "Xuất hiện 4 lần trong video/tin tức 14 ngày qua (Score: 1)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/0/06/Elsu_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125051727",
       "related_videos": [
         "EQCf9FAs_ts",
@@ -4955,5 +4954,5 @@
       "related_videos": []
     }
   ],
-  "updated_at": "2026-06-16T11:47:46Z"
+  "updated_at": "2026-06-16T13:34:46Z"
 }
