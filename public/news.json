@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-06-17T09:34:39.797648",
+  "last_updated": "2026-06-17T11:35:34.160919",
   "total_news": 100,
   "news": [
+    {
+      "id": "b615fc1a293a",
+      "title": "Mở bán Tulen Thiên Cơ Bạch Trạch",
+      "link": "https://lienquan.garena.vn/mo-ban-tulen-thien-co-bach-trach/",
+      "summary": "<p>&#160; 1. Thời gian: 19.06.2026-05.07.2026 2. Bạn có thể tìm 1 lần với 18 QH hoặc 10 lần với 180 QH để săn huy hiệu thần chủ. Ngoài ra, bạn sẽ nhận 1 lượt chơi [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/mo-ban-tulen-thien-co-bach-trach/\">Mở bán Tulen Thiên Cơ Bạch Trạch</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2026/06/IMG-HOR-0860x0400-091567-.jpg",
+      "source": "Liên Quân Mobile Official",
+      "source_url": "https://lienquan.garena.vn/rss",
+      "published_at": "2026-06-17T10:54:05Z",
+      "crawled_at": "2026-06-17T11:30:27.970112",
+      "category": "tin tức",
+      "priority": 1
+    },
     {
       "id": "7f807356a557",
       "title": "QUẬN BÌNH THẠNH – TP HỒ CHÍ MINH & ĐẠI HỌC FPT TP. HỒ CHÍ MINH CHÍNH THỨC TRỞ THÀNH TÂN VƯƠNG CỦA GIẢI ĐẤU LIÊN CÂU LẠC BỘ MÙA XUÂN 2026",
@@ -1287,19 +1300,6 @@
       "published_at": "2025-12-25T08:51:20Z",
       "crawled_at": "2025-12-25T09:02:56.640675",
       "category": "tướng",
-      "priority": 1
-    },
-    {
-      "id": "6726f6ad9e20",
-      "title": "VUI MÙA LỄ HỘI, SĂN QUÀ GẤP BỘI CÙNG ĐẠI LÝ SHOPEE",
-      "link": "https://lienquan.garena.vn/vui-mua-le-hoi-san-qua-gap-boi-cung-dai-ly-shopee/",
-      "summary": "<p>Cùng Đại lý Shopee khui hàng ngàn secret, đón năm mới cực nhiệt. Với mỗi thẻ Garena từ 20.000Đ mua tại Đại lý Shopee trên toàn quốc, cơ hội đập hộp tất tần tật quà [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/vui-mua-le-hoi-san-qua-gap-boi-cung-dai-ly-shopee/\">VUI MÙA LỄ HỘI, SĂN QUÀ GẤP BỘI CÙNG ĐẠI LÝ SHOPEE</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
-      "image_url": null,
-      "source": "Liên Quân Mobile Official",
-      "source_url": "https://lienquan.garena.vn/rss",
-      "published_at": "2025-12-23T14:00:15Z",
-      "crawled_at": "2025-12-23T15:01:39.460759",
-      "category": "tin tức",
       "priority": 1
     }
   ]
