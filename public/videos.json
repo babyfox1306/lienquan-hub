@@ -1,6 +1,28 @@
 {
   "videos": [
     {
+      "videoId": "5dNkDq_RuRw",
+      "title": "FPT HUY HOÀNG | RUNNER UP -  1vs1 TOURNAMENT",
+      "title_original": "FPT HUY HOÀNG | RUNNER UP -  1vs1 TOURNAMENT",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-17T08:52:07Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/5dNkDq_RuRw/maxresdefault.jpg"
+    },
+    {
+      "videoId": "HDf0w2i9IOo",
+      "title": "Phải Biết Chơi",
+      "title_original": "Phải Biết Chơi",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-17T07:14:13Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/HDf0w2i9IOo/maxresdefault.jpg"
+    },
+    {
       "videoId": "OG0dwSRA08g",
       "title": "RoV ตีป้อมวิทยา บุกโรงเรียน Esports ตอนที่ 1",
       "title_original": "RoV ตีป้อมวิทยา บุกโรงเรียน Esports ตอนที่ 1",
@@ -2177,28 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-06-06T17:08:20Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/-PrPJPll5oU/maxresdefault.jpg"
-    },
-    {
-      "videoId": "3QXNo6TRNpY",
-      "title": "Team 5 Giai Tri",
-      "title_original": "Team 5 Giai Tri",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-06-06T16:13:55Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/3QXNo6TRNpY/maxresdefault.jpg"
-    },
-    {
-      "videoId": "NvhVtlz9Zdw",
-      "title": "FPT BETROC, BRU LIGKY, FS SHARKZ, DCG YOULUN - KẺ DỨT ĐIỂM TRẬN ĐẤU | PLAYER TO WATCH #4: ĐƯỜNG RỒNG",
-      "title_original": "FPT BETROC, BRU LIGKY, FS SHARKZ, DCG YOULUN - KẺ DỨT ĐIỂM TRẬN ĐẤU | PLAYER TO WATCH #4: ĐƯỜNG RỒNG",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-06-06T12:37:28Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/NvhVtlz9Zdw/maxresdefault.jpg"
     }
   ]
 }
