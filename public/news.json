@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-06-17T05:37:27.311545",
+  "last_updated": "2026-06-17T07:44:01.542953",
   "total_news": 100,
   "news": [
+    {
+      "id": "7f807356a557",
+      "title": "QUẬN BÌNH THẠNH – TP HỒ CHÍ MINH & ĐẠI HỌC FPT TP. HỒ CHÍ MINH CHÍNH THỨC TRỞ THÀNH TÂN VƯƠNG CỦA GIẢI ĐẤU LIÊN CÂU LẠC BỘ MÙA XUÂN 2026",
+      "link": "https://lienquan.garena.vn/quan-binh-thanh-tp-ho-chi-minh-dai-hoc-fpt-tp-ho-chi-minh-chinh-thuc-tro-thanh-tan-vuong-cua-giai-dau-lien-cau-lac-bo-mua-xuan-2026/",
+      "summary": "<p>Xin chào các Kiện tướng,  Sau thời gian tranh tài đầy cam go với sự góp mặt của hàng trăm đội tuyển trên toàn quốc, giải đấu Liên Câu Lạc Bộ Mùa Xuân 2026 đã [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/quan-binh-thanh-tp-ho-chi-minh-dai-hoc-fpt-tp-ho-chi-minh-chinh-thuc-tro-thanh-tan-vuong-cua-giai-dau-lien-cau-lac-bo-mua-xuan-2026/\">QUẬN BÌNH THẠNH &#8211; TP HỒ CHÍ MINH &#038; ĐẠI HỌC FPT TP. HỒ CHÍ MINH CHÍNH THỨC TRỞ THÀNH TÂN VƯƠNG CỦA GIẢI ĐẤU LIÊN CÂU LẠC BỘ MÙA XUÂN ",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2026/06/SeaTalk_IMG_20260616_102939.png",
+      "source": "Liên Quân Mobile Official",
+      "source_url": "https://lienquan.garena.vn/rss",
+      "published_at": "2026-06-17T05:52:42Z",
+      "crawled_at": "2026-06-17T07:39:00.817095",
+      "category": "tướng",
+      "priority": 1
+    },
     {
       "id": "19c59a4f388e",
       "title": "BẢO TRÌ MÁY CHỦ MẶT TRỜI NGÀY 16/6/2026",
@@ -1286,19 +1299,6 @@
       "source_url": "https://lienquan.garena.vn/rss",
       "published_at": "2025-12-23T14:00:15Z",
       "crawled_at": "2025-12-23T15:01:39.460759",
-      "category": "tin tức",
-      "priority": 1
-    },
-    {
-      "id": "aa500ee1920b",
-      "title": "SỰ KIỆN SĂN QUÀ LIÊN QUÂN TRÊN ỨNG DỤNG SHOPEE TIẾP TỤC THÁNG 12/2025",
-      "link": "https://lienquan.garena.vn/su-kien-san-qua-lien-quan-tren-ung-dung-shopee-tiep-tuc-thang-12-2025/",
-      "summary": "<p>Tiếp nối thành công của chương trình trước, Shopee cùng Liên Quân Mobile tiếp tục mang đến bạn ưu đãi &#8220;Shopee x Liên Quân &#8211; Săn ngay &#8211; Siêu quà vào tay&#8221;. Chương trình đặc [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/su-kien-san-qua-lien-quan-tren-ung-dung-shopee-tiep-tuc-thang-12-2025/\">SỰ KIỆN SĂN QUÀ LIÊN QUÂN TRÊN ỨNG DỤNG SHOPEE TIẾP TỤC THÁNG 12/2025</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
-      "image_url": "https://picsum.photos/seed/https://lienquan.garena.vn/su-kien-san-qua-lien-quan-tren-ung-dung-shopee-tiep-tuc-thang-12-2025//400/225",
-      "source": "Liên Quân Mobile Official",
-      "source_url": "https://lienquan.garena.vn/rss",
-      "published_at": "2025-12-23T12:00:13Z",
-      "crawled_at": "2025-12-23T13:13:00.806638",
       "category": "tin tức",
       "priority": 1
     }
