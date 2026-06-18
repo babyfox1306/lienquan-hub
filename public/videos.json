@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "KdK6ERMZv6s",
+      "title": "TRỰC TIẾP: SWISS STAGE - FPT VS 1S | ROUND 0-0 | ARENA OF VALOR PREMIER LEAGUE 2026 (NGÀY 18/06)",
+      "title_original": "TRỰC TIẾP: SWISS STAGE - FPT VS 1S | ROUND 0-0 | ARENA OF VALOR PREMIER LEAGUE 2026 (NGÀY 18/06)",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-18T10:31:26Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/KdK6ERMZv6s/maxresdefault.jpg"
+    },
+    {
       "videoId": "Ii9XI9__YJw",
       "title": "[APL 2026] FPT FLASH: MI MNH GHP  HON TT  SN SNG CHINH PHC NH CAO!",
       "title_original": "[APL 2026] FPT FLASH: MI MNH GHP  HON TT  SN SNG CHINH PHC NH CAO!",
@@ -112,8 +123,8 @@
     },
     {
       "videoId": "y9C4wcpOZ14",
-      "title": "🔴𝐋𝐈𝐕𝐄 เชียร์ไทยด่วน! 🇹🇭 Buriram United 🆚 ONE Team | การแข่งขัน RoV นานาชาติ APL 2026 รอบ Swiss Stage",
-      "title_original": "🔴𝐋𝐈𝐕𝐄 เชียร์ไทยด่วน! 🇹🇭 Buriram United 🆚 ONE Team | การแข่งขัน RoV นานาชาติ APL 2026 รอบ Swiss Stage",
+      "title": "🔴𝐋𝐈𝐕𝐄 การแข่งขัน RoV นานาชาติ APL 2026 รอบ Swiss Stage วันที่ 1",
+      "title_original": "🔴𝐋𝐈𝐕𝐄 การแข่งขัน RoV นานาชาติ APL 2026 รอบ Swiss Stage วันที่ 1",
       "translated": false,
       "country": "VN",
       "lang_original": "vi",
@@ -2188,17 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-06-08T12:00:00Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/eecnQ8et9Yg/maxresdefault.jpg"
-    },
-    {
-      "videoId": "kG-7qKBbGZg",
-      "title": "เปิดห้องเรียน RoV ตีป้อมวิทยา กับคุณครูตุ๊กกี้",
-      "title_original": "เปิดห้องเรียน RoV ตีป้อมวิทยา กับคุณครูตุ๊กกี้",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-06-08T11:00:11Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/kG-7qKBbGZg/maxresdefault.jpg"
     }
   ]
 }
