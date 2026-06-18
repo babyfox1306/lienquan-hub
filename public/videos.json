@@ -1,6 +1,28 @@
 {
   "videos": [
     {
+      "videoId": "5rmXaufakpQ",
+      "title": "Bắt Đầu Lại Từ Con Số 0 Chưa Bao Giờ Là Dễ Dàng!",
+      "title_original": "Bắt Đầu Lại Từ Con Số 0 Chưa Bao Giờ Là Dễ Dàng!",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-18T13:44:27Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/5rmXaufakpQ/maxresdefault.jpg"
+    },
+    {
+      "videoId": "Au_psR9IK3A",
+      "title": "Tôi Try Hard Rank Chiến Thần Cùng Pond Gaming",
+      "title_original": "Tôi Try Hard Rank Chiến Thần Cùng Pond Gaming",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-18T12:43:20Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/Au_psR9IK3A/maxresdefault.jpg"
+    },
+    {
       "videoId": "KdK6ERMZv6s",
       "title": "TRỰC TIẾP: SWISS STAGE - FPT VS 1S | ROUND 0-0 | ARENA OF VALOR PREMIER LEAGUE 2026 (NGÀY 18/06)",
       "title_original": "TRỰC TIẾP: SWISS STAGE - FPT VS 1S | ROUND 0-0 | ARENA OF VALOR PREMIER LEAGUE 2026 (NGÀY 18/06)",
@@ -90,8 +112,8 @@
     },
     {
       "videoId": "leRrhaG_cBA",
-      "title": "🔴 TRỰC TIẾP: BURIRAM UNITED ESPORTS vs CATHAY ONE TEAM | SWISS STAGE - APL 2026 (NGÀY 18/06)",
-      "title_original": "🔴 TRỰC TIẾP: BURIRAM UNITED ESPORTS vs CATHAY ONE TEAM | SWISS STAGE - APL 2026 (NGÀY 18/06)",
+      "title": "🔴 TRỰC TIẾP: FPT x FLASH vs ONE STAR ESPORTS | SWISS STAGE - APL 2026 (NGÀY 18/06)",
+      "title_original": "🔴 TRỰC TIẾP: FPT x FLASH vs ONE STAR ESPORTS | SWISS STAGE - APL 2026 (NGÀY 18/06)",
       "translated": false,
       "country": "VN",
       "lang_original": "vi",
@@ -101,8 +123,8 @@
     },
     {
       "videoId": "hmbfdgqm63A",
-      "title": "🔴 TRỰC TIẾP: BURIRAM UNITED ESPORTS vs CATHAY ONE TEAM | SWISS STAGE - APL 2026 (NGÀY 18/06)",
-      "title_original": "🔴 TRỰC TIẾP: BURIRAM UNITED ESPORTS vs CATHAY ONE TEAM | SWISS STAGE - APL 2026 (NGÀY 18/06)",
+      "title": "🔴 TRỰC TIẾP: FPT x FLASH vs ONE STAR ESPORTS | SWISS STAGE - APL 2026 (NGÀY 18/06)",
+      "title_original": "🔴 TRỰC TIẾP: FPT x FLASH vs ONE STAR ESPORTS | SWISS STAGE - APL 2026 (NGÀY 18/06)",
       "translated": false,
       "country": "VN",
       "lang_original": "vi",
@@ -2177,28 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-06-08T13:30:24Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/ektbNSRPWVs/maxresdefault.jpg"
-    },
-    {
-      "videoId": "uRIoQjF8NJA",
-      "title": "Chi NAKROTH Phi Bit Lia Map Th Mi Pro?",
-      "title_original": "Chi NAKROTH Phi Bit Lia Map Th Mi Pro?",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-06-08T12:06:36Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/uRIoQjF8NJA/maxresdefault.jpg"
-    },
-    {
-      "videoId": "eecnQ8et9Yg",
-      "title": "Xếp hạng TOP LANE Đáng Xem Nhất APL 2026: ASHEARTH NAILIU HUYHOANG TIER S | BLV HẢI PHONG",
-      "title_original": "Xếp hạng TOP LANE Đáng Xem Nhất APL 2026: ASHEARTH NAILIU HUYHOANG TIER S | BLV HẢI PHONG",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-06-08T12:00:00Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/eecnQ8et9Yg/maxresdefault.jpg"
     }
   ]
 }
