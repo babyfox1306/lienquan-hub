@@ -570,8 +570,7 @@
       "related_videos": [
         "kiqUK21M3Sc",
         "3rTwBIb6ZzI",
-        "SX1Bat_yOwA",
-        "GcE1pKe8wl8"
+        "SX1Bat_yOwA"
       ]
     },
     {
@@ -897,12 +896,13 @@
         "Valhein",
         "Wukong"
       ],
-      "tier": "C",
-      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: -1)",
+      "tier": "B",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 0)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 2,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/3/3b/Alice_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125083007",
       "related_videos": [
+        "eCzfK-GZKLw",
         "u-jw8Db91dg"
       ]
     },
@@ -1376,15 +1376,14 @@
         "Gildur",
         "Mina"
       ],
-      "tier": "A",
-      "tier_reason": "Xuất hiện 3 lần trong video/tin tức 14 ngày qua (Score: 1)",
+      "tier": "B",
+      "tier_reason": "Xuất hiện 2 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/0/06/Elsu_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125051727",
       "related_videos": [
         "EQCf9FAs_ts",
-        "7WbF_ztuHyo",
-        "bkcezup5JZs"
+        "7WbF_ztuHyo"
       ]
     },
     {
@@ -3569,14 +3568,13 @@
       },
       "counters": [],
       "synergies": [],
-      "tier": "A",
-      "tier_reason": "Xuất hiện 2 lần trong video/tin tức 14 ngày qua (Score: 1)",
+      "tier": "B",
+      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
       "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/d/d3/Ishar_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125044459",
       "related_videos": [
-        "Gq_tdjJ7AE0",
-        "bkcezup5JZs"
+        "Gq_tdjJ7AE0"
       ]
     },
     {
@@ -3694,7 +3692,7 @@
       "tier": "A",
       "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 1)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/8/8f/Kil%27Groth_Splash.jpg/revision/latest/scale-to-width-down/500?cb=20171129175330",
       "related_videos": [
         "k1bYwkX-LRE"
@@ -4954,5 +4952,5 @@
       "related_videos": []
     }
   ],
-  "updated_at": "2026-06-18T08:36:11Z"
+  "updated_at": "2026-06-18T10:33:19Z"
 }
