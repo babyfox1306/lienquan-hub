@@ -2694,13 +2694,11 @@
       "counters": [],
       "synergies": [],
       "tier": "B",
-      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/0/0c/Bijan.jpg/revision/latest?cb=20230718044752",
-      "related_videos": [
-        "N5ZubwrIprk"
-      ]
+      "related_videos": []
     },
     {
       "id": "biron",
@@ -4945,5 +4943,5 @@
       "related_videos": []
     }
   ],
-  "updated_at": "2026-06-19T11:32:39Z"
+  "updated_at": "2026-06-19T13:08:09Z"
 }
