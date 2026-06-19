@@ -1,6 +1,50 @@
 {
   "videos": [
     {
+      "videoId": "rmDRJy719gE",
+      "title": "Full Highlight BRU vs ONE - Swiss Stage APL 2026 | BLV HẢI PHONG",
+      "title_original": "Full Highlight BRU vs ONE - Swiss Stage APL 2026 | BLV HẢI PHONG",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-19T02:30:39Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/rmDRJy719gE/maxresdefault.jpg"
+    },
+    {
+      "videoId": "G41qifQBotM",
+      "title": "FPT X FLASH VS ONE STAR ESPORTS | SWISS STAGE APL 2026 | NGÀY 18/06",
+      "title_original": "FPT X FLASH VS ONE STAR ESPORTS | SWISS STAGE APL 2026 | NGÀY 18/06",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-19T02:30:36Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/G41qifQBotM/maxresdefault.jpg"
+    },
+    {
+      "videoId": "0NWSQpXqjus",
+      "title": "Full Highlight FS vs SLX - Swiss Stage APL 2026 | BLV HẢI PHONG",
+      "title_original": "Full Highlight FS vs SLX - Swiss Stage APL 2026 | BLV HẢI PHONG",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-19T02:00:35Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/0NWSQpXqjus/maxresdefault.jpg"
+    },
+    {
+      "videoId": "W-PCnh-MK6c",
+      "title": "BURIRAM UNITED ESPORTS VS CATHAY ONE TEAM | SWISS STAGE APL 2026 | NGÀY 18/06",
+      "title_original": "BURIRAM UNITED ESPORTS VS CATHAY ONE TEAM | SWISS STAGE APL 2026 | NGÀY 18/06",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-19T02:00:07Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/W-PCnh-MK6c/maxresdefault.jpg"
+    },
+    {
       "videoId": "sh-7USKFr3o",
       "title": "FULL SENSE VS SOLYX ESPORTS | SWISS STAGE APL 2026 | NGÀY 18/06",
       "title_original": "FULL SENSE VS SOLYX ESPORTS | SWISS STAGE APL 2026 | NGÀY 18/06",
@@ -2155,50 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-06-09T12:01:46Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/ZOrY5m7Qkc0/maxresdefault.jpg"
-    },
-    {
-      "videoId": "wT3Icz-4w84",
-      "title": "🔴 TRỰC TIẾP: LỄ BỐC THĂM 1V1 - SWISS STAGE  | APL 2026 (NGÀY 09/06)",
-      "title_original": "🔴 TRỰC TIẾP: LỄ BỐC THĂM 1V1 - SWISS STAGE  | APL 2026 (NGÀY 09/06)",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-06-09T11:42:49Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/wT3Icz-4w84/maxresdefault.jpg"
-    },
-    {
-      "videoId": "3OY2h-E4Oew",
-      "title": "[🔴𝐋𝐈𝐕𝐄] จับสลากสายการแข่งขัน RoV นานาชาติ APL 2026 รอบ 1V1 และ Swiss Stage",
-      "title_original": "[🔴𝐋𝐈𝐕𝐄] จับสลากสายการแข่งขัน RoV นานาชาติ APL 2026 รอบ 1V1 และ Swiss Stage",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-06-09T11:41:50Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/3OY2h-E4Oew/maxresdefault.jpg"
-    },
-    {
-      "videoId": "24_pcGnVsoU",
-      "title": "APL 2026 1v1 & 瑞士輪抽籤-2026/06/09《Garena傳說對決》",
-      "title_original": "APL 2026 1v1 & 瑞士輪抽籤-2026/06/09《Garena傳說對決》",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-06-09T11:38:25Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/24_pcGnVsoU/maxresdefault.jpg"
-    },
-    {
-      "videoId": "-Ujja_-PFG8",
-      "title": "Tại Sao Chiêu Cuối Này Là Thứ Rác Nhất Liên Quân",
-      "title_original": "Tại Sao Chiêu Cuối Này Là Thứ Rác Nhất Liên Quân",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-06-09T11:30:28Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/-Ujja_-PFG8/maxresdefault.jpg"
     }
   ]
 }
