@@ -1134,17 +1134,17 @@
         "Alice"
       ],
       "tier": "A",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 6, Score: 1)",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 7, Score: 1)",
       "hot": true,
-      "hot_count": 6,
+      "hot_count": 7,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/2/2c/Tulen_Splash.jpeg/revision/latest/scale-to-width-down/500?cb=20180102103714",
       "related_videos": [
+        "Ny06e_A6-hk",
         "3-Re1Jn4kDw",
         "GFrrfUqOVlE",
         "isMT3ojKtRg",
         "MsTVAahur2o",
-        "-I0i0MK_FIc",
-        "3rTwBIb6ZzI"
+        "-I0i0MK_FIc"
       ]
     },
     {
@@ -4944,5 +4944,5 @@
       "related_videos": []
     }
   ],
-  "updated_at": "2026-06-19T07:47:26Z"
+  "updated_at": "2026-06-19T09:34:13Z"
 }

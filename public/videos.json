@@ -1,6 +1,28 @@
 {
   "videos": [
     {
+      "videoId": "Ny06e_A6-hk",
+      "title": "Tulen Skin Mới Thiên Cơ Bạch Trạch Vừa Ra Mắt Hôm Nay",
+      "title_original": "Tulen Skin Mới Thiên Cơ Bạch Trạch Vừa Ra Mắt Hôm Nay",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-19T09:01:16Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/Ny06e_A6-hk/maxresdefault.jpg"
+    },
+    {
+      "videoId": "WhEogjGnNPw",
+      "title": "HIGHLIGHTS FPT FLASH VS 1S | SWISS STAGE - MATCH 1 | ROUND 0-0 | APL2026",
+      "title_original": "HIGHLIGHTS FPT FLASH VS 1S | SWISS STAGE - MATCH 1 | ROUND 0-0 | APL2026",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-19T08:17:24Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/WhEogjGnNPw/maxresdefault.jpg"
+    },
+    {
       "videoId": "cdUkrJkMT_U",
       "title": "KHOA THỪA NHẬN SGP KHÔNG CÒN LÀ MỘT ĐỘI TUYỂN MẠNH | ĐẤU XONG - THẤY SAO? | HỌP BÁO SAU TRẬN ĐẤU",
       "title_original": "KHOA THỪA NHẬN SGP KHÔNG CÒN LÀ MỘT ĐỘI TUYỂN MẠNH | ĐẤU XONG - THẤY SAO? | HỌP BÁO SAU TRẬN ĐẤU",
@@ -24,8 +46,8 @@
     },
     {
       "videoId": "_20ODkGBSiw",
-      "title": "🔴 TRỰC TIẾP: RELOVE DEEP CROSS GAMING vs KING OF GAMERS CLUB | SWISS STAGE - APL 2026 (NGÀY 18/06)",
-      "title_original": "🔴 TRỰC TIẾP: RELOVE DEEP CROSS GAMING vs KING OF GAMERS CLUB | SWISS STAGE - APL 2026 (NGÀY 18/06)",
+      "title": "🔴 TRỰC TIẾP: WANIN FLASH WOLVES vs ANK GAMING | SWISS STAGE - APL 2026 (NGÀY 18/06)",
+      "title_original": "🔴 TRỰC TIẾP: WANIN FLASH WOLVES vs ANK GAMING | SWISS STAGE - APL 2026 (NGÀY 18/06)",
       "translated": false,
       "country": "VN",
       "lang_original": "vi",
@@ -90,8 +112,8 @@
     },
     {
       "videoId": "gN-ZyuRICyY",
-      "title": "🔴𝐋𝐈𝐕𝐄 การแข่งขัน RoV นานาชาติ APL 2026 รอบ Swiss Stage วันที่ 2",
-      "title_original": "🔴𝐋𝐈𝐕𝐄 การแข่งขัน RoV นานาชาติ APL 2026 รอบ Swiss Stage วันที่ 2",
+      "title": "🔴𝐋𝐈𝐕𝐄 เชียร์ไทยด่วน! 🇹🇭 King of Gamers 1 🆚 1 Deep Cross Gaming | การแข่งขัน RoV นานาชาติ APL 2026",
+      "title_original": "🔴𝐋𝐈𝐕𝐄 เชียร์ไทยด่วน! 🇹🇭 King of Gamers 1 🆚 1 Deep Cross Gaming | การแข่งขัน RoV นานาชาติ APL 2026",
       "translated": false,
       "country": "VN",
       "lang_original": "vi",
@@ -2177,28 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-06-10T09:29:28Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/mRAoQCosT3Y/maxresdefault.jpg"
-    },
-    {
-      "videoId": "GLTeuASlV3w",
-      "title": "《Garena 傳說對決》拉維爾「爆裂龍射」造型故事影片",
-      "title_original": "《Garena 傳說對決》拉維爾「爆裂龍射」造型故事影片",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-06-10T06:07:04Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/GLTeuASlV3w/maxresdefault.jpg"
-    },
-    {
-      "videoId": "abH4wBf82hw",
-      "title": "HUYHOÀNG đối đầu NAILIU ở chung kết SOLO 1VS1? CƠ HỘI AOG ĐẠI THẮNG ROUND 1? | BLV HẢI PHONG",
-      "title_original": "HUYHOÀNG đối đầu NAILIU ở chung kết SOLO 1VS1? CƠ HỘI AOG ĐẠI THẮNG ROUND 1? | BLV HẢI PHONG",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-06-10T04:00:36Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/abH4wBf82hw/maxresdefault.jpg"
     }
   ]
 }
