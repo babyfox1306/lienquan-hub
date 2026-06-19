@@ -1,6 +1,28 @@
 {
   "videos": [
     {
+      "videoId": "VchJP6faDKs",
+      "title": "🔴 Kênh thông báo VIDEO & LIVESTREAM đã tạo xong",
+      "title_original": "🔴 Kênh thông báo VIDEO & LIVESTREAM đã tạo xong",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-19T13:50:36Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/VchJP6faDKs/maxresdefault.jpg"
+    },
+    {
+      "videoId": "EXBIcK6wB1g",
+      "title": "Vị Tướng Mới Này Có Độ Khó Gấp Đôi Florentino ?",
+      "title_original": "Vị Tướng Mới Này Có Độ Khó Gấp Đôi Florentino ?",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-19T11:46:19Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/EXBIcK6wB1g/maxresdefault.jpg"
+    },
+    {
       "videoId": "kqfh-MYg07Y",
       "title": "ANK GAMING - CỖ MÁY GIAO TRANH CỦA GCS | BIẾT ĐỊCH BIẾT TA #4 | APL 2026",
       "title_original": "ANK GAMING - CỖ MÁY GIAO TRANH CỦA GCS | BIẾT ĐỊCH BIẾT TA #4 | APL 2026",
@@ -167,8 +189,8 @@
     },
     {
       "videoId": "gN-ZyuRICyY",
-      "title": "🔴𝐋𝐈𝐕𝐄 การแข่งขัน RoV นานาชาติ APL 2026 รอบ Swiss Stage วันที่ 2",
-      "title_original": "🔴𝐋𝐈𝐕𝐄 การแข่งขัน RoV นานาชาติ APL 2026 รอบ Swiss Stage วันที่ 2",
+      "title": "🔴𝐋𝐈𝐕𝐄 เชียร์ไทยด่วน! 🇹🇭 Bacon Time 🆚 GAM Esports | การแข่งขัน RoV นานาชาติ APL 2026 รอบ Swiss Stage",
+      "title_original": "🔴𝐋𝐈𝐕𝐄 เชียร์ไทยด่วน! 🇹🇭 Bacon Time 🆚 GAM Esports | การแข่งขัน RoV นานาชาติ APL 2026 รอบ Swiss Stage",
       "translated": false,
       "country": "VN",
       "lang_original": "vi",
@@ -343,8 +365,8 @@
     },
     {
       "videoId": "Ju1Q0JRFgrM",
-      "title": "BRU vs ONE | FPT vs 1S - APL 2026 | Hải Phong CO-STREAM 18.06.26",
-      "title_original": "BRU vs ONE | FPT vs 1S - APL 2026 | Hải Phong CO-STREAM 18.06.26",
+      "title": "BAC vs GAM - APL 2026 | Hải Phong CO-STREAM 19.06.26",
+      "title_original": "BAC vs GAM - APL 2026 | Hải Phong CO-STREAM 19.06.26",
       "translated": false,
       "country": "VN",
       "lang_original": "vi",
@@ -2177,28 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-06-10T15:35:22Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/Pdqac6ZMRDk/maxresdefault.jpg"
-    },
-    {
-      "videoId": "DkV3s7B2frQ",
-      "title": "🔴TRỰC TIẾP: CHUNG KẾT TỔNG GIẢI ĐẤU COMMUNITY LEADER TOÀN QUỐC 2026",
-      "title_original": "🔴TRỰC TIẾP: CHUNG KẾT TỔNG GIẢI ĐẤU COMMUNITY LEADER TOÀN QUỐC 2026",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-06-10T15:20:11Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/DkV3s7B2frQ/maxresdefault.jpg"
-    },
-    {
-      "videoId": "VG612ImEohA",
-      "title": "Giáo Án Kriknak Trở Lại: Ép Ryoma Không Dám Lú Đầu, Băng Tế Đàn Xử Tử Flowborn!",
-      "title_original": "Giáo Án Kriknak Trở Lại: Ép Ryoma Không Dám Lú Đầu, Băng Tế Đàn Xử Tử Flowborn!",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-06-10T11:35:35Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/VG612ImEohA/maxresdefault.jpg"
     }
   ]
 }
