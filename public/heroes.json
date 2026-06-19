@@ -427,9 +427,7 @@
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/3/3f/The_Diminisher.png/revision/latest/scale-to-width-down/500?cb=20230721030441",
-      "related_videos": [
-        "16_oGUnEuSU"
-      ]
+      "related_videos": []
     },
     {
       "id": "riktor",
@@ -944,14 +942,13 @@
         "Toro"
       ],
       "tier": "A",
-      "tier_reason": "Xuất hiện 3 lần trong video/tin tức 14 ngày qua (Score: 1)",
+      "tier_reason": "Xuất hiện 2 lần trong video/tin tức 14 ngày qua (Score: 2)",
       "hot": false,
       "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/8/8e/Jinnar_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125090346",
       "related_videos": [
         "BxFsv4iIWU0",
-        "ra5UwnbPUbA",
-        "UgGal-QdBEc"
+        "ra5UwnbPUbA"
       ]
     },
     {
@@ -1137,17 +1134,17 @@
         "Alice"
       ],
       "tier": "A",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 5, Score: 1)",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 6, Score: 1)",
       "hot": true,
-      "hot_count": 5,
+      "hot_count": 6,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/2/2c/Tulen_Splash.jpeg/revision/latest/scale-to-width-down/500?cb=20180102103714",
       "related_videos": [
+        "3-Re1Jn4kDw",
         "GFrrfUqOVlE",
         "isMT3ojKtRg",
         "MsTVAahur2o",
         "-I0i0MK_FIc",
-        "3rTwBIb6ZzI",
-        "dsHTCXwRg5c"
+        "3rTwBIb6ZzI"
       ]
     },
     {
@@ -2021,11 +2018,12 @@
         "Krixi"
       ],
       "tier": "A",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 3, Score: 1)",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 4, Score: 2)",
       "hot": true,
-      "hot_count": 3,
+      "hot_count": 4,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/5/59/Zill_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125053417",
       "related_videos": [
+        "cvaJhSPfm1Q",
         "S0Mh2Jo9OhE",
         "3rTwBIb6ZzI",
         "ZX0S3XQWrR8"
@@ -2422,13 +2420,11 @@
       "counters": [],
       "synergies": [],
       "tier": "B",
-      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/6/64/Aleister_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20241210090540",
-      "related_videos": [
-        "i8Y5PuwQaZo"
-      ]
+      "related_videos": []
     },
     {
       "id": "amily",
@@ -4948,5 +4944,5 @@
       "related_videos": []
     }
   ],
-  "updated_at": "2026-06-19T03:06:21Z"
+  "updated_at": "2026-06-19T05:43:32Z"
 }
