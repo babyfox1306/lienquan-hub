@@ -1039,13 +1039,12 @@
         "Toro"
       ],
       "tier": "A",
-      "tier_reason": "Xuất hiện 2 lần trong video/tin tức 14 ngày qua (Score: 2)",
+      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 1)",
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/e/e7/Maloch_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125090603",
       "related_videos": [
-        "ra5UwnbPUbA",
-        "QfVGn-Z2QDU"
+        "ra5UwnbPUbA"
       ]
     },
     {
@@ -1372,12 +1371,14 @@
         "Gildur",
         "Mina"
       ],
-      "tier": "B",
-      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier": "A",
+      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 1)",
       "hot": false,
-      "hot_count": 0,
+      "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/0/06/Elsu_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125051727",
-      "related_videos": []
+      "related_videos": [
+        "lt1Cg_2XgPI"
+      ]
     },
     {
       "id": "valhein",
@@ -2018,9 +2019,9 @@
         "Krixi"
       ],
       "tier": "A",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 4, Score: 2)",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 3, Score: 2)",
       "hot": true,
-      "hot_count": 4,
+      "hot_count": 3,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/5/59/Zill_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125053417",
       "related_videos": [
         "cvaJhSPfm1Q",
@@ -4944,5 +4945,5 @@
       "related_videos": []
     }
   ],
-  "updated_at": "2026-06-19T09:34:13Z"
+  "updated_at": "2026-06-19T11:32:39Z"
 }
