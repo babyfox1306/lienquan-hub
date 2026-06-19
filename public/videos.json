@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "VchJP6faDKs",
+      "title": "🔴 Kênh thông báo VIDEO & LIVESTREAM đã tạo xong",
+      "title_original": "🔴 Kênh thông báo VIDEO & LIVESTREAM đã tạo xong",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-19T17:41:13Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/VchJP6faDKs/maxresdefault.jpg"
+    },
+    {
       "videoId": "u0WrMvfkgG0",
       "title": "🔴 TRỰC TIẾP: BACON TIME vs GAM ESPORTS | SWISS STAGE - APL 2026 (NGÀY 19/06)",
       "title_original": "🔴 TRỰC TIẾP: BACON TIME vs GAM ESPORTS | SWISS STAGE - APL 2026 (NGÀY 19/06)",
@@ -65,17 +76,6 @@
       "source": "youtube",
       "publishedAt": "2026-06-19T15:27:49Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/9XC3wj6oLSI/maxresdefault.jpg"
-    },
-    {
-      "videoId": "VchJP6faDKs",
-      "title": "🔴 Kênh thông báo VIDEO & LIVESTREAM đã tạo xong",
-      "title_original": "🔴 Kênh thông báo VIDEO & LIVESTREAM đã tạo xong",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-06-19T13:50:36Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/VchJP6faDKs/maxresdefault.jpg"
     },
     {
       "videoId": "EXBIcK6wB1g",
