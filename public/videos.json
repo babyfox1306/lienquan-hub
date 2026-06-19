@@ -1,6 +1,50 @@
 {
   "videos": [
     {
+      "videoId": "sh-7USKFr3o",
+      "title": "FULL SENSE VS SOLYX ESPORTS | SWISS STAGE APL 2026 | NGÀY 18/06",
+      "title_original": "FULL SENSE VS SOLYX ESPORTS | SWISS STAGE APL 2026 | NGÀY 18/06",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-19T01:30:14Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/sh-7USKFr3o/maxresdefault.jpg"
+    },
+    {
+      "videoId": "V4L2gs67qiI",
+      "title": "Full Highlight FPT vs 1S - Swiss Stage APL 2026 | BLV HẢI PHONG",
+      "title_original": "Full Highlight FPT vs 1S - Swiss Stage APL 2026 | BLV HẢI PHONG",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-19T01:30:07Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/V4L2gs67qiI/maxresdefault.jpg"
+    },
+    {
+      "videoId": "Sn5voFGPZQ0",
+      "title": "SAIGON PHANTOM VS HONG KONG ATTITUDE | SWISS STAGE APL 2026 | NGÀY 18/06",
+      "title_original": "SAIGON PHANTOM VS HONG KONG ATTITUDE | SWISS STAGE APL 2026 | NGÀY 18/06",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-19T01:00:16Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/Sn5voFGPZQ0/maxresdefault.jpg"
+    },
+    {
+      "videoId": "nB7JnV7jxoc",
+      "title": "Full Highlight SGP vs HKA- Swiss Stage APL 2026 | BLV HẢI PHONG",
+      "title_original": "Full Highlight SGP vs HKA- Swiss Stage APL 2026 | BLV HẢI PHONG",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-19T01:00:12Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/nB7JnV7jxoc/maxresdefault.jpg"
+    },
+    {
       "videoId": "Au_psR9IK3A",
       "title": "Tôi Try Hard Rank Chiến Thần Cùng Pond Gaming",
       "title_original": "Tôi Try Hard Rank Chiến Thần Cùng Pond Gaming",
@@ -2155,50 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-06-09T11:30:28Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/-Ujja_-PFG8/maxresdefault.jpg"
-    },
-    {
-      "videoId": "EQCf9FAs_ts",
-      "title": "Elsu 1 Viên Nửa Cây Máu – Team Địch Chỉ Biết Chạy!",
-      "title_original": "Elsu 1 Viên Nửa Cây Máu – Team Địch Chỉ Biết Chạy!",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-06-09T11:10:00Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/EQCf9FAs_ts/maxresdefault.jpg"
-    },
-    {
-      "videoId": "ge2CeBl9a-s",
-      "title": "ต้อนรับฟุตบอลโลก! โหมดฟุตบอล กลับมาแล้ววว! @daoyimstudio",
-      "title_original": "ต้อนรับฟุตบอลโลก! โหมดฟุตบอล กลับมาแล้ววว! @daoyimstudio",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-06-09T11:00:06Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/ge2CeBl9a-s/maxresdefault.jpg"
-    },
-    {
-      "videoId": "KWczms_TA2A",
-      "title": "Không Thể Flop, Astrid Bị Nerf Vẫn Top 1 Đấu Sĩ",
-      "title_original": "Không Thể Flop, Astrid Bị Nerf Vẫn Top 1 Đấu Sĩ",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-06-09T09:30:34Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/KWczms_TA2A/maxresdefault.jpg"
-    },
-    {
-      "videoId": "eFIecMQ6ipQ",
-      "title": "VUX CNG HC LONG I U TEAM BN NNG V CC TN 3 LT LT KO MN NHN",
-      "title_original": "VUX CNG HC LONG I U TEAM BN NNG V CC TN 3 LT LT KO MN NHN",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-06-09T09:01:06Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/eFIecMQ6ipQ/maxresdefault.jpg"
     }
   ]
 }
