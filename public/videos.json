@@ -1,6 +1,28 @@
 {
   "videos": [
     {
+      "videoId": "Ju1Q0JRFgrM",
+      "title": "BAC vs GAM - APL 2026 | Hải Phong CO-STREAM 19.06.26",
+      "title_original": "BAC vs GAM - APL 2026 | Hải Phong CO-STREAM 19.06.26",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-19T15:35:07Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/Ju1Q0JRFgrM/maxresdefault.jpg"
+    },
+    {
+      "videoId": "9XC3wj6oLSI",
+      "title": "BAC vs GAM - APL 2026 | Hải Phong CO-STREAM 19.06.26",
+      "title_original": "BAC vs GAM - APL 2026 | Hải Phong CO-STREAM 19.06.26",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-19T15:27:49Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/9XC3wj6oLSI/maxresdefault.jpg"
+    },
+    {
       "videoId": "VchJP6faDKs",
       "title": "🔴 Kênh thông báo VIDEO & LIVESTREAM đã tạo xong",
       "title_original": "🔴 Kênh thông báo VIDEO & LIVESTREAM đã tạo xong",
@@ -362,17 +384,6 @@
       "source": "youtube",
       "publishedAt": "2026-06-18T14:31:56Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/_yMoAc9Gh_s/maxresdefault.jpg"
-    },
-    {
-      "videoId": "Ju1Q0JRFgrM",
-      "title": "BAC vs GAM - APL 2026 | Hải Phong CO-STREAM 19.06.26",
-      "title_original": "BAC vs GAM - APL 2026 | Hải Phong CO-STREAM 19.06.26",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-06-18T14:16:06Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/Ju1Q0JRFgrM/maxresdefault.jpg"
     },
     {
       "videoId": "5rmXaufakpQ",
@@ -2188,17 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-06-10T17:18:31Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/UzpiYv4qR1o/maxresdefault.jpg"
-    },
-    {
-      "videoId": "Pdqac6ZMRDk",
-      "title": "🔴 TRỰC TIẾP: CHUNG KẾT TỔNG GIẢI ĐẤU COMMUNITY LEADER TOÀN QUỐC 2026",
-      "title_original": "🔴 TRỰC TIẾP: CHUNG KẾT TỔNG GIẢI ĐẤU COMMUNITY LEADER TOÀN QUỐC 2026",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-06-10T15:35:22Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/Pdqac6ZMRDk/maxresdefault.jpg"
     }
   ]
 }
