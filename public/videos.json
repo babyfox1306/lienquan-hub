@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "9XC3wj6oLSI",
+      "title": "FS vs SGP - APL 2026 | Hải Phong CO-STREAM 20.06.26",
+      "title_original": "FS vs SGP - APL 2026 | Hải Phong CO-STREAM 20.06.26",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-20T19:35:49Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/9XC3wj6oLSI/maxresdefault.jpg"
+    },
+    {
       "videoId": "niwnc1xYjy8",
       "title": "🔴 Khum Đủ Chỉ Tiêu Khum Tắt Live",
       "title_original": "🔴 Khum Đủ Chỉ Tiêu Khum Tắt Live",
@@ -384,17 +395,6 @@
       "source": "youtube",
       "publishedAt": "2026-06-19T15:35:07Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/Ju1Q0JRFgrM/maxresdefault.jpg"
-    },
-    {
-      "videoId": "9XC3wj6oLSI",
-      "title": "FS vs SGP - APL 2026 | Hải Phong CO-STREAM 20.06.26",
-      "title_original": "FS vs SGP - APL 2026 | Hải Phong CO-STREAM 20.06.26",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-06-19T15:27:49Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/9XC3wj6oLSI/maxresdefault.jpg"
     },
     {
       "videoId": "EXBIcK6wB1g",
