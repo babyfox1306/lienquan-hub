@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "blcAofGAPDs",
+      "title": "FS vs SGP - APL 2026 | Hải Phong CO-STREAM 20.06.26",
+      "title_original": "FS vs SGP - APL 2026 | Hải Phong CO-STREAM 20.06.26",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-20T07:21:10Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/blcAofGAPDs/maxresdefault.jpg"
+    },
+    {
       "videoId": "eefePSLGocY",
       "title": "[20-6] MOD SKIN RYOMA MAPLE FROST | BTĐMODSKIN | LIÊN QUÂN MOBILE.",
       "title_original": "[20-6] MOD SKIN RYOMA MAPLE FROST | BTĐMODSKIN | LIÊN QUÂN MOBILE.",
@@ -35,8 +46,8 @@
     },
     {
       "videoId": "2J6eyOVJPSY",
-      "title": "🔴 TRỰC TIẾP: FULL SENSE vs SAIGON PHANTOM | SWISS STAGE - APL 2026 (NGÀY 20/06)",
-      "title_original": "🔴 TRỰC TIẾP: FULL SENSE vs SAIGON PHANTOM | SWISS STAGE - APL 2026 (NGÀY 20/06)",
+      "title": "🔴 TRỰC TIẾP: BACON TIME vs FPT POLYTECHNIC | SWISS STAGE - APL 2026 (NGÀY 20/06)",
+      "title_original": "🔴 TRỰC TIẾP: BACON TIME vs FPT POLYTECHNIC | SWISS STAGE - APL 2026 (NGÀY 20/06)",
       "translated": false,
       "country": "VN",
       "lang_original": "vi",
@@ -46,8 +57,8 @@
     },
     {
       "videoId": "NEipR46Q7Xs",
-      "title": "🔴 TRỰC TIẾP: FULL SENSE vs SAIGON PHANTOM | SWISS STAGE - APL 2026 (NGÀY 20/06)",
-      "title_original": "🔴 TRỰC TIẾP: FULL SENSE vs SAIGON PHANTOM | SWISS STAGE - APL 2026 (NGÀY 20/06)",
+      "title": "🔴 TRỰC TIẾP: BACON TIME vs FPT POLYTECHNIC | SWISS STAGE - APL 2026 (NGÀY 20/06)",
+      "title_original": "🔴 TRỰC TIẾP: BACON TIME vs FPT POLYTECHNIC | SWISS STAGE - APL 2026 (NGÀY 20/06)",
       "translated": false,
       "country": "VN",
       "lang_original": "vi",
@@ -266,8 +277,8 @@
     },
     {
       "videoId": "9XC3wj6oLSI",
-      "title": "BAC vs GAM - APL 2026 | Hải Phong CO-STREAM 19.06.26",
-      "title_original": "BAC vs GAM - APL 2026 | Hải Phong CO-STREAM 19.06.26",
+      "title": "FS vs SGP - APL 2026 | Hải Phong CO-STREAM 20.06.26",
+      "title_original": "FS vs SGP - APL 2026 | Hải Phong CO-STREAM 20.06.26",
       "translated": false,
       "country": "VN",
       "lang_original": "vi",
@@ -2188,17 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-06-12T03:00:06Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/HiF_GwN5pzY/maxresdefault.jpg"
-    },
-    {
-      "videoId": "Ulos6PGQVZ8",
-      "title": "End Game cực nhanh 8p trên Rank bằng tướng tủ Nakroth Lôi Quang Sứ  ⚡️⚡️⚡️",
-      "title_original": "End Game cực nhanh 8p trên Rank bằng tướng tủ Nakroth Lôi Quang Sứ  ⚡️⚡️⚡️",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-06-12T01:51:22Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/Ulos6PGQVZ8/maxresdefault.jpg"
     }
   ]
 }

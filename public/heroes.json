@@ -47,8 +47,7 @@
         "vG9V1cjdba4",
         "mgB53QKquiA",
         "yriaQkThYjI",
-        "VEggVbYvAo8",
-        "Ulos6PGQVZ8"
+        "VEggVbYvAo8"
       ]
     },
     {
@@ -1279,7 +1278,7 @@
       "tier": "B",
       "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/d/d4/Liliana_Default.jpg/revision/latest/scale-to-width-down/500?cb=20180331134150",
       "related_videos": [
         "atz2wFhJ3wA"
@@ -4936,5 +4935,5 @@
       "related_videos": []
     }
   ],
-  "updated_at": "2026-06-20T06:33:13Z"
+  "updated_at": "2026-06-20T08:11:52Z"
 }
