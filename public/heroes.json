@@ -853,9 +853,7 @@
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/7/71/Gildur_Default.jpg/revision/latest/scale-to-width-down/500?cb=20180327112635",
-      "related_videos": [
-        "dsHTCXwRg5c"
-      ]
+      "related_videos": []
     },
     {
       "id": "alice",
@@ -944,13 +942,12 @@
         "Toro"
       ],
       "tier": "A",
-      "tier_reason": "Xuất hiện 2 lần trong video/tin tức 14 ngày qua (Score: 2)",
+      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 1)",
       "hot": false,
       "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/8/8e/Jinnar_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125090346",
       "related_videos": [
-        "BxFsv4iIWU0",
-        "ra5UwnbPUbA"
+        "BxFsv4iIWU0"
       ]
     },
     {
@@ -1040,14 +1037,12 @@
         "Grakk",
         "Toro"
       ],
-      "tier": "A",
-      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 1)",
+      "tier": "B",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/e/e7/Maloch_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125090603",
-      "related_videos": [
-        "ra5UwnbPUbA"
-      ]
+      "related_videos": []
     },
     {
       "id": "krixi",
@@ -1280,13 +1275,12 @@
         "Nakroth"
       ],
       "tier": "B",
-      "tier_reason": "Xuất hiện 2 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
       "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/d/d4/Liliana_Default.jpg/revision/latest/scale-to-width-down/500?cb=20180331134150",
       "related_videos": [
-        "atz2wFhJ3wA",
-        "dsHTCXwRg5c"
+        "atz2wFhJ3wA"
       ]
     },
     {
@@ -4941,5 +4935,5 @@
       "related_videos": []
     }
   ],
-  "updated_at": "2026-06-20T01:43:41Z"
+  "updated_at": "2026-06-20T03:05:09Z"
 }
