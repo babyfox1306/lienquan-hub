@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "Z4TwciMhEvM",
+      "title": "SIÊU SAO TOÀN NĂNG 6 NGÀY 3: HẮC LONG VS BẢN NĂNG VÔ CỰC",
+      "title_original": "SIÊU SAO TOÀN NĂNG 6 NGÀY 3: HẮC LONG VS BẢN NĂNG VÔ CỰC",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-20T12:11:54Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/Z4TwciMhEvM/maxresdefault.jpg"
+    },
+    {
       "videoId": "XtGlQu-XPhg",
       "title": "Tôi giả làm Khối Nghỉ Hè TROLL em gái trên Lita và cái kết! -Đạt Feed",
       "title_original": "Tôi giả làm Khối Nghỉ Hè TROLL em gái trên Lita và cái kết! -Đạt Feed",
@@ -90,8 +101,8 @@
     },
     {
       "videoId": "2J6eyOVJPSY",
-      "title": "🔴 TRỰC TIẾP: FPT x FLASH vs ANK GAMING | SWISS STAGE - APL 2026 (NGÀY 20/06)",
-      "title_original": "🔴 TRỰC TIẾP: FPT x FLASH vs ANK GAMING | SWISS STAGE - APL 2026 (NGÀY 20/06)",
+      "title": "🔴 TRỰC TIẾP: CATHAY ONE TEAM vs KING OF GAMERS CLUB | SWISS STAGE - APL 2026 (NGÀY 20/06)",
+      "title_original": "🔴 TRỰC TIẾP: CATHAY ONE TEAM vs KING OF GAMERS CLUB | SWISS STAGE - APL 2026 (NGÀY 20/06)",
       "translated": false,
       "country": "VN",
       "lang_original": "vi",
@@ -101,8 +112,8 @@
     },
     {
       "videoId": "NEipR46Q7Xs",
-      "title": "🔴 TRỰC TIẾP: FPT x FLASH vs ANK GAMING | SWISS STAGE - APL 2026 (NGÀY 20/06)",
-      "title_original": "🔴 TRỰC TIẾP: FPT x FLASH vs ANK GAMING | SWISS STAGE - APL 2026 (NGÀY 20/06)",
+      "title": "🔴 TRỰC TIẾP: CATHAY ONE TEAM vs KING OF GAMERS CLUB | SWISS STAGE - APL 2026 (NGÀY 20/06)",
+      "title_original": "🔴 TRỰC TIẾP: CATHAY ONE TEAM vs KING OF GAMERS CLUB | SWISS STAGE - APL 2026 (NGÀY 20/06)",
       "translated": false,
       "country": "VN",
       "lang_original": "vi",
@@ -2188,17 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-06-12T12:00:13Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/VpyRViMwqmI/maxresdefault.jpg"
-    },
-    {
-      "videoId": "ZX0S3XQWrR8",
-      "title": "ch Tc in V Zill Mi: Bay Sang Rng Cn 5, Ph Nt Dn Tr Trong Chp Mt!",
-      "title_original": "ch Tc in V Zill Mi: Bay Sang Rng Cn 5, Ph Nt Dn Tr Trong Chp Mt!",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-06-12T10:13:38Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/ZX0S3XQWrR8/maxresdefault.jpg"
     }
   ]
 }
