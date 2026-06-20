@@ -1,6 +1,39 @@
 {
   "videos": [
     {
+      "videoId": "NEipR46Q7Xs",
+      "title": "🔴 TRỰC TIẾP: CATHAY ONE TEAM vs KING OF GAMERS CLUB | SWISS STAGE - APL 2026 (NGÀY 20/06)",
+      "title_original": "🔴 TRỰC TIẾP: CATHAY ONE TEAM vs KING OF GAMERS CLUB | SWISS STAGE - APL 2026 (NGÀY 20/06)",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-20T15:03:11Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/NEipR46Q7Xs/maxresdefault.jpg"
+    },
+    {
+      "videoId": "2J6eyOVJPSY",
+      "title": "FS VS SGP | BAC VS FPL | ANK VS FPT | ONE VS KOG | SWISS STAGE - APL 2026 (NGÀY 20/06)",
+      "title_original": "FS VS SGP | BAC VS FPL | ANK VS FPT | ONE VS KOG | SWISS STAGE - APL 2026 (NGÀY 20/06)",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-20T14:59:00Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/2J6eyOVJPSY/maxresdefault.jpg"
+    },
+    {
+      "videoId": "o4J0BRo2KdI",
+      "title": "LAI BÂNG COSTREAM 🔴 TRỰC TIẾP: FULL SENSE vs SAIGON PHANTOM | SWISS STAGE - APL 2026 (NGÀY 20/06)",
+      "title_original": "LAI BÂNG COSTREAM 🔴 TRỰC TIẾP: FULL SENSE vs SAIGON PHANTOM | SWISS STAGE - APL 2026 (NGÀY 20/06)",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-20T14:54:58Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/o4J0BRo2KdI/maxresdefault.jpg"
+    },
+    {
       "videoId": "9i1eUnGykFM",
       "title": "SIÊU SAO TOÀN NĂNG 6 NGÀY 3: HẮC LONG VS BẢN NĂNG VÔ CỰC",
       "title_original": "SIÊU SAO TOÀN NĂNG 6 NGÀY 3: HẮC LONG VS BẢN NĂNG VÔ CỰC",
@@ -120,28 +153,6 @@
       "source": "youtube",
       "publishedAt": "2026-06-20T05:46:00Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/ETKJHpZ5smU/maxresdefault.jpg"
-    },
-    {
-      "videoId": "2J6eyOVJPSY",
-      "title": "🔴 TRỰC TIẾP: CATHAY ONE TEAM vs KING OF GAMERS CLUB | SWISS STAGE - APL 2026 (NGÀY 20/06)",
-      "title_original": "🔴 TRỰC TIẾP: CATHAY ONE TEAM vs KING OF GAMERS CLUB | SWISS STAGE - APL 2026 (NGÀY 20/06)",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-06-20T05:07:00Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/2J6eyOVJPSY/maxresdefault.jpg"
-    },
-    {
-      "videoId": "NEipR46Q7Xs",
-      "title": "🔴 TRỰC TIẾP: CATHAY ONE TEAM vs KING OF GAMERS CLUB | SWISS STAGE - APL 2026 (NGÀY 20/06)",
-      "title_original": "🔴 TRỰC TIẾP: CATHAY ONE TEAM vs KING OF GAMERS CLUB | SWISS STAGE - APL 2026 (NGÀY 20/06)",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-06-20T05:05:40Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/NEipR46Q7Xs/maxresdefault.jpg"
     },
     {
       "videoId": "ANydGS3cJp4",
@@ -2188,17 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-06-12T13:30:06Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/Qnz1a2zDCcM/maxresdefault.jpg"
-    },
-    {
-      "videoId": "fDEjTrcAJd4",
-      "title": "🎬⚽ COMIC VIDEO | LAVILLE CƠN LỐC ĐƯỜNG BIÊN ⚽🔥",
-      "title_original": "🎬⚽ COMIC VIDEO | LAVILLE CƠN LỐC ĐƯỜNG BIÊN ⚽🔥",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-06-12T13:00:22Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/fDEjTrcAJd4/maxresdefault.jpg"
     }
   ]
 }
