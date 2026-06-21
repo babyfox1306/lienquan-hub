@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "9xOwVZrhEkE",
+      "title": "VUX THỬ THÁCH LEO LÊN CHIẾN TƯỚNG VỚI BIỆT ĐỘI ANIME BLEACH ĐẦY BÙNG NỔ",
+      "title_original": "VUX THỬ THÁCH LEO LÊN CHIẾN TƯỚNG VỚI BIỆT ĐỘI ANIME BLEACH ĐẦY BÙNG NỔ",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-21T08:55:34Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/9xOwVZrhEkE/maxresdefault.jpg"
+    },
+    {
       "videoId": "G4MsjnVKHoM",
       "title": "LAI BÂNG COSTREAM APL 2026 |  Ngày 21/6",
       "title_original": "LAI BÂNG COSTREAM APL 2026 |  Ngày 21/6",
@@ -13,8 +24,8 @@
     },
     {
       "videoId": "t-DoHsEKsJc",
-      "title": "🔴 TRỰC TIẾP: BURIRAM UNITED ESPORTS vs BANMEI GAMING | SWISS STAGE - APL 2026 (NGÀY 21/06)",
-      "title_original": "🔴 TRỰC TIẾP: BURIRAM UNITED ESPORTS vs BANMEI GAMING | SWISS STAGE - APL 2026 (NGÀY 21/06)",
+      "title": "🔴 TRỰC TIẾP: HONG KONG ATTITUDE vs WANIN FLASH WOLVES | SWISS STAGE - APL 2026 (NGÀY 21/06)",
+      "title_original": "🔴 TRỰC TIẾP: HONG KONG ATTITUDE vs WANIN FLASH WOLVES | SWISS STAGE - APL 2026 (NGÀY 21/06)",
       "translated": false,
       "country": "VN",
       "lang_original": "vi",
@@ -24,8 +35,8 @@
     },
     {
       "videoId": "UsHLVcYj62A",
-      "title": "🔴 TRỰC TIẾP: BURIRAM UNITED ESPORTS vs BANMEI GAMING | SWISS STAGE - APL 2026 (NGÀY 21/06)",
-      "title_original": "🔴 TRỰC TIẾP: BURIRAM UNITED ESPORTS vs BANMEI GAMING | SWISS STAGE - APL 2026 (NGÀY 21/06)",
+      "title": "🔴 TRỰC TIẾP: HONG KONG ATTITUDE vs WANIN FLASH WOLVES | SWISS STAGE - APL 2026 (NGÀY 21/06)",
+      "title_original": "🔴 TRỰC TIẾP: HONG KONG ATTITUDE vs WANIN FLASH WOLVES | SWISS STAGE - APL 2026 (NGÀY 21/06)",
       "translated": false,
       "country": "VN",
       "lang_original": "vi",
@@ -2188,17 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-06-13T14:17:55Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/WGTgZmFOCoc/maxresdefault.jpg"
-    },
-    {
-      "videoId": "GGA0QGk5vjU",
-      "title": "เสน่ห์รัก พ่อหนุ่มนักบอล Laville @daoyimstudio",
-      "title_original": "เสน่ห์รัก พ่อหนุ่มนักบอล Laville @daoyimstudio",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-06-13T11:00:31Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/GGA0QGk5vjU/maxresdefault.jpg"
     }
   ]
 }
