@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "PjQ0HteIEAI",
+      "title": "🔴 Stream sớm nghỉ muộn",
+      "title_original": "🔴 Stream sớm nghỉ muộn",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-21T17:59:24Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/PjQ0HteIEAI/maxresdefault.jpg"
+    },
+    {
       "videoId": "Ol-u24fOYN0",
       "title": "1S vs SLX | DCG vs GAM - APL 2026 | Hải Phong CO-STREAM 21.06.26",
       "title_original": "1S vs SLX | DCG vs GAM - APL 2026 | Hải Phong CO-STREAM 21.06.26",
@@ -76,17 +87,6 @@
       "source": "youtube",
       "publishedAt": "2026-06-21T14:48:50Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/p_h5DLPQMZ8/maxresdefault.jpg"
-    },
-    {
-      "videoId": "PjQ0HteIEAI",
-      "title": "🔴 Stream sớm nghỉ muộn",
-      "title_original": "🔴 Stream sớm nghỉ muộn",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-06-21T13:11:14Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/PjQ0HteIEAI/maxresdefault.jpg"
     },
     {
       "videoId": "OQrRCh4v5Bg",
