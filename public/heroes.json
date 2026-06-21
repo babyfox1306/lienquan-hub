@@ -3542,7 +3542,7 @@
       "tier": "B",
       "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/d/d3/Ishar_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125044459",
       "related_videos": [
         "Gq_tdjJ7AE0"
@@ -4925,5 +4925,5 @@
       "related_videos": []
     }
   ],
-  "updated_at": "2026-06-21T09:15:41Z"
+  "updated_at": "2026-06-21T11:05:22Z"
 }
