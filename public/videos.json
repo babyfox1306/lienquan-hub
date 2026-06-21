@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "PjQ0HteIEAI",
+      "title": "🔴 Stream sớm nghỉ muộn",
+      "title_original": "🔴 Stream sớm nghỉ muộn",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-21T13:11:14Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/PjQ0HteIEAI/maxresdefault.jpg"
+    },
+    {
       "videoId": "Ol-u24fOYN0",
       "title": "1S vs SLX | DCG vs GAM - APL 2026 | Hải Phong CO-STREAM 21.06.26",
       "title_original": "1S vs SLX | DCG vs GAM - APL 2026 | Hải Phong CO-STREAM 21.06.26",
@@ -46,8 +57,8 @@
     },
     {
       "videoId": "t-DoHsEKsJc",
-      "title": "🔴 TRỰC TIẾP: ONE STAR ESPORTS vs SOLYX ESPORTS | SWISS STAGE - APL 2026 (NGÀY 21/06)",
-      "title_original": "🔴 TRỰC TIẾP: ONE STAR ESPORTS vs SOLYX ESPORTS | SWISS STAGE - APL 2026 (NGÀY 21/06)",
+      "title": "🔴 TRỰC TIẾP: RELOVE DEEP CROSS GAMING vs GAM ESPORTS | SWISS STAGE - APL 2026 (NGÀY 21/06)",
+      "title_original": "🔴 TRỰC TIẾP: RELOVE DEEP CROSS GAMING vs GAM ESPORTS | SWISS STAGE - APL 2026 (NGÀY 21/06)",
       "translated": false,
       "country": "VN",
       "lang_original": "vi",
@@ -57,8 +68,8 @@
     },
     {
       "videoId": "UsHLVcYj62A",
-      "title": "🔴 TRỰC TIẾP: ONE STAR ESPORTS vs SOLYX ESPORTS | SWISS STAGE - APL 2026 (NGÀY 21/06)",
-      "title_original": "🔴 TRỰC TIẾP: ONE STAR ESPORTS vs SOLYX ESPORTS | SWISS STAGE - APL 2026 (NGÀY 21/06)",
+      "title": "🔴 TRỰC TIẾP: RELOVE DEEP CROSS GAMING vs GAM ESPORTS | SWISS STAGE - APL 2026 (NGÀY 21/06)",
+      "title_original": "🔴 TRỰC TIẾP: RELOVE DEEP CROSS GAMING vs GAM ESPORTS | SWISS STAGE - APL 2026 (NGÀY 21/06)",
       "translated": false,
       "country": "VN",
       "lang_original": "vi",
@@ -2188,17 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-06-13T14:42:22Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/R5yQYy3Ybh8/maxresdefault.jpg"
-    },
-    {
-      "videoId": "em2ntMllhzQ",
-      "title": "1V1 CHAMPIONSHIP - APL 2026 (NGÀY 13/06)",
-      "title_original": "1V1 CHAMPIONSHIP - APL 2026 (NGÀY 13/06)",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-06-13T14:34:37Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/em2ntMllhzQ/maxresdefault.jpg"
     }
   ]
 }
