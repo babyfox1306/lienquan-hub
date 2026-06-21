@@ -754,13 +754,11 @@
         "Krixi"
       ],
       "tier": "B",
-      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/8/88/Wukong_Splash.png/revision/latest/scale-to-width-down/500?cb=20171113154844",
-      "related_videos": [
-        "tQObNtHy9B0"
-      ]
+      "related_videos": []
     },
     {
       "id": "toro",
@@ -4928,5 +4926,5 @@
       "related_videos": []
     }
   ],
-  "updated_at": "2026-06-21T05:37:09Z"
+  "updated_at": "2026-06-21T07:35:14Z"
 }
