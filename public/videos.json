@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "G4MsjnVKHoM",
+      "title": "LAI BÂNG COSTREAM APL 2026 |  Ngày 21/6",
+      "title_original": "LAI BÂNG COSTREAM APL 2026 |  Ngày 21/6",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-21T15:54:07Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/G4MsjnVKHoM/maxresdefault.jpg"
+    },
+    {
       "videoId": "9i1eUnGykFM",
       "title": "SIÊU SAO TOÀN NĂNG 6 NGÀY 4: HẮC LONG VS HỦY DIỆT AOV",
       "title_original": "SIÊU SAO TOÀN NĂNG 6 NGÀY 4: HẮC LONG VS HỦY DIỆT AOV",
@@ -65,17 +76,6 @@
       "source": "youtube",
       "publishedAt": "2026-06-21T08:55:34Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/9xOwVZrhEkE/maxresdefault.jpg"
-    },
-    {
-      "videoId": "G4MsjnVKHoM",
-      "title": "LAI BÂNG COSTREAM APL 2026 |  Ngày 21/6",
-      "title_original": "LAI BÂNG COSTREAM APL 2026 |  Ngày 21/6",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-06-21T05:40:40Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/G4MsjnVKHoM/maxresdefault.jpg"
     },
     {
       "videoId": "t-DoHsEKsJc",
