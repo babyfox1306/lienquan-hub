@@ -56,11 +56,6 @@
       "type": "channel"
     },
     {
-      "id": "UCpQ52533EsOa5k-dQSmD1jw",
-      "name": "Ha Le Quyen",
-      "type": "channel"
-    },
-    {
       "id": "UC1ysb__ddApp3PlDva5NAVw",
       "name": "Top 1 Liliana",
       "type": "channel"
@@ -98,6 +93,11 @@
     {
       "id": "UC1Gvx0tvS1_WyFmEH-G_2TA",
       "name": "Team Flash Liên Quân Mobile",
+      "type": "channel"
+    },
+    {
+      "id": "UC-r1vXyPiJSo2r29U3PgoNg",
+      "name": "HẢI PHONG - HỎNG FILE",
       "type": "channel"
     }
   ],

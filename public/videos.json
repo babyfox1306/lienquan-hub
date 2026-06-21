@@ -1,6 +1,50 @@
 {
   "videos": [
     {
+      "videoId": "cI1aChDqd0c",
+      "title": "Full Highlight BAC vs FPL - Swiss Stage APL 2026 | BLV HẢI PHONG",
+      "title_original": "Full Highlight BAC vs FPL - Swiss Stage APL 2026 | BLV HẢI PHONG",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-21T01:30:26Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/cI1aChDqd0c/maxresdefault.jpg"
+    },
+    {
+      "videoId": "3N9y0VvwxbU",
+      "title": "FPT X FLASH VS ANK GAMING | SWISS STAGE APL 2026 | NGÀY 20/06",
+      "title_original": "FPT X FLASH VS ANK GAMING | SWISS STAGE APL 2026 | NGÀY 20/06",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-21T01:30:12Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/3N9y0VvwxbU/maxresdefault.jpg"
+    },
+    {
+      "videoId": "K5WHtiQumyQ",
+      "title": "BACON TIME VS FPT POLYTECHNIC | SWISS STAGE APL 2026 | NGÀY 20/06",
+      "title_original": "BACON TIME VS FPT POLYTECHNIC | SWISS STAGE APL 2026 | NGÀY 20/06",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-21T01:00:28Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/K5WHtiQumyQ/maxresdefault.jpg"
+    },
+    {
+      "videoId": "W4TvLRD1518",
+      "title": "Full Highlight FS vs SGP - Swiss Stage APL 2026 | BLV HẢI PHONG",
+      "title_original": "Full Highlight FS vs SGP - Swiss Stage APL 2026 | BLV HẢI PHONG",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-21T01:00:27Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/W4TvLRD1518/maxresdefault.jpg"
+    },
+    {
       "videoId": "58qFr5cmjZU",
       "title": "APL 2026 | SWISS STAGE FPT - ANK",
       "title_original": "APL 2026 | SWISS STAGE FPT - ANK",
@@ -10,6 +54,17 @@
       "source": "youtube",
       "publishedAt": "2026-06-21T00:12:43Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/58qFr5cmjZU/maxresdefault.jpg"
+    },
+    {
+      "videoId": "blcAofGAPDs",
+      "title": "FPT Flash vs ANK Gaming - APL 2026 | Hải Phong CO-STREAM 20.06.26",
+      "title_original": "FPT Flash vs ANK Gaming - APL 2026 | Hải Phong CO-STREAM 20.06.26",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-20T23:33:08Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/blcAofGAPDs/maxresdefault.jpg"
     },
     {
       "videoId": "9XC3wj6oLSI",
@@ -144,17 +199,6 @@
       "thumbnailUrl": "https://i.ytimg.com/vi/3WwfLT6EHOI/maxresdefault.jpg"
     },
     {
-      "videoId": "blcAofGAPDs",
-      "title": "FPT Flash vs ANK Gaming - APL 2026 | Hải Phong CO-STREAM 20.06.26",
-      "title_original": "FPT Flash vs ANK Gaming - APL 2026 | Hải Phong CO-STREAM 20.06.26",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-06-20T07:21:10Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/blcAofGAPDs/maxresdefault.jpg"
-    },
-    {
       "videoId": "eefePSLGocY",
       "title": "[20-6] MOD SKIN RYOMA MAPLE FROST | BTĐMODSKIN | LIÊN QUÂN MOBILE.",
       "title_original": "[20-6] MOD SKIN RYOMA MAPLE FROST | BTĐMODSKIN | LIÊN QUÂN MOBILE.",
@@ -232,17 +276,6 @@
       "thumbnailUrl": "https://i.ytimg.com/vi/lh0NS_PD61k/maxresdefault.jpg"
     },
     {
-      "videoId": "QMb8gc1vhyw",
-      "title": "BACON TIME VS GAM ESPORTS | SWISS STAGE APL 2026 | NGÀY 19/06",
-      "title_original": "BACON TIME VS GAM ESPORTS | SWISS STAGE APL 2026 | NGÀY 19/06",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-06-20T02:30:07Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/QMb8gc1vhyw/maxresdefault.jpg"
-    },
-    {
       "videoId": "301uc9xWChE",
       "title": "Full Highlight GAM vs BAC - Swiss Stage APL 2026 | BLV HẢI PHONG",
       "title_original": "Full Highlight GAM vs BAC - Swiss Stage APL 2026 | BLV HẢI PHONG",
@@ -252,6 +285,17 @@
       "source": "youtube",
       "publishedAt": "2026-06-20T02:30:07Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/301uc9xWChE/maxresdefault.jpg"
+    },
+    {
+      "videoId": "QMb8gc1vhyw",
+      "title": "BACON TIME VS GAM ESPORTS | SWISS STAGE APL 2026 | NGÀY 19/06",
+      "title_original": "BACON TIME VS GAM ESPORTS | SWISS STAGE APL 2026 | NGÀY 19/06",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-20T02:30:07Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/QMb8gc1vhyw/maxresdefault.jpg"
     },
     {
       "videoId": "n9aZe2tqMaw",
@@ -2155,50 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-06-13T03:00:28Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/BxFsv4iIWU0/maxresdefault.jpg"
-    },
-    {
-      "videoId": "VVu4JB4qDPY",
-      "title": "Giáo án Toro Trâu Siêu Tốc cầm tốc biến đi Top cực mạnh ăn chục kill ⚡️⚡️⚡️",
-      "title_original": "Giáo án Toro Trâu Siêu Tốc cầm tốc biến đi Top cực mạnh ăn chục kill ⚡️⚡️⚡️",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-06-13T02:52:09Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/VVu4JB4qDPY/maxresdefault.jpg"
-    },
-    {
-      "videoId": "mziOVJ-IDWU",
-      "title": " Tnh hnh l...",
-      "title_original": " Tnh hnh l...",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-06-12T19:15:19Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/mziOVJ-IDWU/maxresdefault.jpg"
-    },
-    {
-      "videoId": "a3qTUlYr2ZE",
-      "title": "CỐ GẮNG TRỞ THÀNH AD MẠNH NHẤT SSTN 6",
-      "title_original": "CỐ GẮNG TRỞ THÀNH AD MẠNH NHẤT SSTN 6",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-06-12T15:36:44Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/a3qTUlYr2ZE/maxresdefault.jpg"
-    },
-    {
-      "videoId": "R8HcV0eVphs",
-      "title": "2026 傳說超神盃 四強雙敗淘汰賽 W2 - 2026/06/12 《Garena傳說對決》",
-      "title_original": "2026 傳說超神盃 四強雙敗淘汰賽 W2 - 2026/06/12 《Garena傳說對決》",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-06-12T14:08:08Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/R8HcV0eVphs/maxresdefault.jpg"
     }
   ]
 }
