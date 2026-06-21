@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "58qFr5cmjZU",
+      "title": "APL 2026 | SWISS STAGE FPT - ANK",
+      "title_original": "APL 2026 | SWISS STAGE FPT - ANK",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-21T00:12:43Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/58qFr5cmjZU/maxresdefault.jpg"
+    },
+    {
       "videoId": "9XC3wj6oLSI",
       "title": "FS vs SGP - APL 2026 | Hải Phong CO-STREAM 20.06.26",
       "title_original": "FS vs SGP - APL 2026 | Hải Phong CO-STREAM 20.06.26",
@@ -131,17 +142,6 @@
       "source": "youtube",
       "publishedAt": "2026-06-20T09:37:20Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/3WwfLT6EHOI/maxresdefault.jpg"
-    },
-    {
-      "videoId": "58qFr5cmjZU",
-      "title": "APL 2026 | SWISS STAGE FPT - ANK",
-      "title_original": "APL 2026 | SWISS STAGE FPT - ANK",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-06-20T09:24:50Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/58qFr5cmjZU/maxresdefault.jpg"
     },
     {
       "videoId": "blcAofGAPDs",
