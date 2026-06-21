@@ -229,9 +229,9 @@
         "Zip"
       ],
       "tier": "B",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 3, Score: 0)",
-      "hot": true,
-      "hot_count": 3,
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 0)",
+      "hot": false,
+      "hot_count": 2,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/2/2d/Laville_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20211128202736",
       "related_videos": [
         "-jquCA6GjYg",
@@ -4925,5 +4925,5 @@
       "related_videos": []
     }
   ],
-  "updated_at": "2026-06-21T11:05:22Z"
+  "updated_at": "2026-06-21T12:02:10Z"
 }
