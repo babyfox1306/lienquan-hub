@@ -3028,14 +3028,12 @@
       },
       "counters": [],
       "synergies": [],
-      "tier": "A",
-      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 1)",
+      "tier": "B",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/c/c9/D%27Arcy_profile.jpg/revision/latest/scale-to-width-down/500?cb=20200531224258",
-      "related_videos": [
-        "r4zMb8WpZGA"
-      ]
+      "related_videos": []
     },
     {
       "id": "dextra",
@@ -4925,5 +4923,5 @@
       "related_videos": []
     }
   ],
-  "updated_at": "2026-06-22T01:50:49Z"
+  "updated_at": "2026-06-22T03:06:05Z"
 }
