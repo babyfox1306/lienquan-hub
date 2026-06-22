@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "FCTBPLlhxAU",
+      "title": "Var Căng Aov",
+      "title_original": "Var Căng Aov",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-22T17:56:18Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/FCTBPLlhxAU/maxresdefault.jpg"
+    },
+    {
       "videoId": "XVHUwFXzXkU",
       "title": "Train cho SGP FISH VS SGP KHOA Đánh Vs FW",
       "title_original": "Train cho SGP FISH VS SGP KHOA Đánh Vs FW",
@@ -21,17 +32,6 @@
       "source": "youtube",
       "publishedAt": "2026-06-22T15:47:19Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/p_h5DLPQMZ8/maxresdefault.jpg"
-    },
-    {
-      "videoId": "FCTBPLlhxAU",
-      "title": "Var Căng Aov",
-      "title_original": "Var Căng Aov",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-06-22T14:00:48Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/FCTBPLlhxAU/maxresdefault.jpg"
     },
     {
       "videoId": "XNxBPe3mVfw",
