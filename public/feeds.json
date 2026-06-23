@@ -11,11 +11,6 @@
       "type": "channel"
     },
     {
-      "id": "UCykFSnImGNa-5DABblw7K-w",
-      "name": "Gcaothu CHANNEL",
-      "type": "channel"
-    },
-    {
       "id": "UC3QLI0FHwACCaa91Xdpam2A",
       "name": "Trải Nghiệm Game",
       "type": "channel"
@@ -71,11 +66,6 @@
       "type": "channel"
     },
     {
-      "id": "UCYfv7UcC1KOsvMD3BVVwoLg",
-      "name": "Esports - Garena Liên Quân Mobile",
-      "type": "channel"
-    },
-    {
       "id": "UCdSGpiTIGwzlQQ9VP1IJXgg",
       "name": "Bốp Bốp Top1 Liên Quân",
       "type": "channel"
@@ -93,6 +83,16 @@
     {
       "id": "UCgbMglNu16CgtxKRg3LrpjQ",
       "name": "CBNN Liên Quân Mobile",
+      "type": "channel"
+    },
+    {
+      "id": "UCjYcRjFtw2ImlKnJMqURx8Q",
+      "name": "Di No Liên Quân Mobile",
+      "type": "channel"
+    },
+    {
+      "id": "UCjSYhg9GTdhLc-SXw7N49Og",
+      "name": "Liên Quân Mobile",
       "type": "channel"
     },
     {
