@@ -1,6 +1,28 @@
 {
   "videos": [
     {
+      "videoId": "Dujt3fZ49Lc",
+      "title": "Giai Tri Solokill",
+      "title_original": "Giai Tri Solokill",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-23T07:02:12Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/Dujt3fZ49Lc/maxresdefault.jpg"
+    },
+    {
+      "videoId": "_H8U_YL3AOU",
+      "title": "TOP 5 Tướng SOLO LANE Gánh Team Cuối Mùa S2 2026, Tryhard Chuẩn Bị Meta Mới!",
+      "title_original": "TOP 5 Tướng SOLO LANE Gánh Team Cuối Mùa S2 2026, Tryhard Chuẩn Bị Meta Mới!",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-23T03:00:35Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/_H8U_YL3AOU/maxresdefault.jpg"
+    },
+    {
       "videoId": "XNxBPe3mVfw",
       "title": "Th thch ti nay l g",
       "title_original": "Th thch ti nay l g",
@@ -2177,28 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-06-14T09:30:01Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/Gq_tdjJ7AE0/maxresdefault.jpg"
-    },
-    {
-      "videoId": "nFanQetnxQA",
-      "title": "BRU NUNU vs FS ASHEARTH - Solo 1v1 APL 2026  | BLV HẢI PHONG",
-      "title_original": "BRU NUNU vs FS ASHEARTH - Solo 1v1 APL 2026  | BLV HẢI PHONG",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-06-14T09:08:57Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/nFanQetnxQA/maxresdefault.jpg"
-    },
-    {
-      "videoId": "l2W-x1PkBvs",
-      "title": "Phải Biết Chơi",
-      "title_original": "Phải Biết Chơi",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-06-14T07:05:32Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/l2W-x1PkBvs/maxresdefault.jpg"
     }
   ]
 }
