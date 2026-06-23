@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "vjOqCbv8uRg",
+      "title": "🔴THẤT NGHIỆP GAMING...",
+      "title_original": "🔴THẤT NGHIỆP GAMING...",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-23T13:09:43Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/vjOqCbv8uRg/maxresdefault.jpg"
+    },
+    {
       "videoId": "HcdTcVA4YDM",
       "title": "ADC เติมไฟให้นักแข่งกับ  APL 2026 Valor Pass!",
       "title_original": "ADC เติมไฟให้นักแข่งกับ  APL 2026 Valor Pass!",
@@ -2188,17 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-06-14T13:43:04Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/jFl24LQrTkM/maxresdefault.jpg"
-    },
-    {
-      "videoId": "6gh4ZV9TIAw",
-      "title": "ศึกชิงแชมป์ทัวร์นาเมนต์ 1v1 การแข่งขัน RoV นานาชาติ APL 2026",
-      "title_original": "ศึกชิงแชมป์ทัวร์นาเมนต์ 1v1 การแข่งขัน RoV นานาชาติ APL 2026",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-06-14T13:39:09Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/6gh4ZV9TIAw/maxresdefault.jpg"
     }
   ]
 }
