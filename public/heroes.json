@@ -90,11 +90,13 @@
         "Gildur"
       ],
       "tier": "A",
-      "tier_reason": "Được gán từ dữ liệu hạt giống (Seed A-Tier) do ít video mới (Hot Count: 0)",
+      "tier_reason": "Được gán từ dữ liệu hạt giống (Seed A-Tier) do ít video mới (Hot Count: 1)",
       "hot": false,
-      "hot_count": 0,
+      "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/5/5e/Murad_Outlaw.png/revision/latest/scale-to-width-down/500?cb=20180317082415",
-      "related_videos": []
+      "related_videos": [
+        "nB1JIKraRoM"
+      ]
     },
     {
       "id": "zata",
@@ -1125,9 +1127,9 @@
         "Alice"
       ],
       "tier": "A",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 8, Score: 1)",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 5, Score: 1)",
       "hot": true,
-      "hot_count": 8,
+      "hot_count": 5,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/2/2c/Tulen_Splash.jpeg/revision/latest/scale-to-width-down/500?cb=20180102103714",
       "related_videos": [
         "7dvmt7HyGc0",
@@ -3538,13 +3540,11 @@
       "counters": [],
       "synergies": [],
       "tier": "B",
-      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/d/d3/Ishar_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125044459",
-      "related_videos": [
-        "Gq_tdjJ7AE0"
-      ]
+      "related_videos": []
     },
     {
       "id": "kahlii",
@@ -4923,5 +4923,5 @@
       "related_videos": []
     }
   ],
-  "updated_at": "2026-06-23T08:14:00Z"
+  "updated_at": "2026-06-23T10:17:48Z"
 }
