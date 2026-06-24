@@ -231,13 +231,12 @@
         "Zip"
       ],
       "tier": "B",
-      "tier_reason": "Xuất hiện 2 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/2/2d/Laville_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20211128202736",
       "related_videos": [
-        "-jquCA6GjYg",
-        "PQQXHRjgEG0"
+        "-jquCA6GjYg"
       ]
     },
     {
@@ -374,12 +373,13 @@
         "Baldum",
         "Alice"
       ],
-      "tier": "B",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 0)",
-      "hot": false,
-      "hot_count": 2,
+      "tier": "A",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 3, Score: 1)",
+      "hot": true,
+      "hot_count": 3,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/1/1f/Hayate_profile.jpg/revision/latest/scale-to-width-down/500?cb=20200531224525",
       "related_videos": [
+        "cjQpkNtk9eA",
         "3WwfLT6EHOI",
         "n_lasS1U3jg",
         "-jquCA6GjYg"
@@ -4936,5 +4936,5 @@
       ]
     }
   ],
-  "updated_at": "2026-06-24T16:44:16Z"
+  "updated_at": "2026-06-24T17:38:51Z"
 }
