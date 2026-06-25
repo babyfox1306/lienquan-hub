@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "gKEWRwi9Ckw",
+      "title": "\"CÁC ĐỘI TUYỂN AOG CHƯA BAO GIỜ YẾU...\" | ĐẤU XONG THẤY SAO?",
+      "title_original": "\"CÁC ĐỘI TUYỂN AOG CHƯA BAO GIỜ YẾU...\" | ĐẤU XONG THẤY SAO?",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-25T15:17:34Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/gKEWRwi9Ckw/maxresdefault.jpg"
+    },
+    {
       "videoId": "8tczv7MbmLc",
       "title": "BÂY GIỜ TRẬN NÀO CŨNG LÀ CHUNG KẾT",
       "title_original": "BÂY GIỜ TRẬN NÀO CŨNG LÀ CHUNG KẾT",
@@ -8,7 +19,7 @@
       "country": "VN",
       "lang_original": "vi",
       "source": "youtube",
-      "publishedAt": "2026-06-25T13:29:23Z",
+      "publishedAt": "2026-06-25T15:07:39Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/8tczv7MbmLc/maxresdefault.jpg"
     },
     {
@@ -68,8 +79,8 @@
     },
     {
       "videoId": "eDHfaDGCos0",
-      "title": "🔴 TRỰC TIẾP: GAM ESPORTS vs HONG KONG ATTITUDE | SWISS STAGE - APL 2026 (NGÀY 25/06)",
-      "title_original": "🔴 TRỰC TIẾP: GAM ESPORTS vs HONG KONG ATTITUDE | SWISS STAGE - APL 2026 (NGÀY 25/06)",
+      "title": "🔴 TRỰC TIẾP: LỄ BỐC THĂM | SWISS STAGE - APL 2026 (NGÀY 25/06)",
+      "title_original": "🔴 TRỰC TIẾP: LỄ BỐC THĂM | SWISS STAGE - APL 2026 (NGÀY 25/06)",
       "translated": false,
       "country": "VN",
       "lang_original": "vi",
@@ -266,8 +277,8 @@
     },
     {
       "videoId": "gZomH6BpX_k",
-      "title": "🔴 LIVE: GAM  🆚 HKA |APL 2026 瑞士輪W2D2-2026/06/25《Garena傳說對決》",
-      "title_original": "🔴 LIVE: GAM  🆚 HKA |APL 2026 瑞士輪W2D2-2026/06/25《Garena傳說對決》",
+      "title": "APL 2026 瑞士輪W2D2-2026/06/25《Garena傳說對決》",
+      "title_original": "APL 2026 瑞士輪W2D2-2026/06/25《Garena傳說對決》",
       "translated": false,
       "country": "VN",
       "lang_original": "vi",
@@ -2188,17 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-06-17T12:00:15Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/w7gn4_vptFU/maxresdefault.jpg"
-    },
-    {
-      "videoId": "kIN2nwjEOhs",
-      "title": "Chớp Hỏi Chớp Trả Lời - Tập 3 Full | Khách mời: Bear, Vĩnh Đất, Hiếu Đức | Team Flash 2026",
-      "title_original": "Chớp Hỏi Chớp Trả Lời - Tập 3 Full | Khách mời: Bear, Vĩnh Đất, Hiếu Đức | Team Flash 2026",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-06-17T12:00:07Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/kIN2nwjEOhs/maxresdefault.jpg"
     }
   ]
 }
