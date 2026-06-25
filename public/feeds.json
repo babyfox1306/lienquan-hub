@@ -51,13 +51,13 @@
       "type": "channel"
     },
     {
-      "id": "UC55ad8jzcIWCMU-o2CXMEAw",
-      "name": "Thầy Giáo Liên Quân",
+      "id": "UCyqjmx1kcZknycssiIhFQKw",
+      "name": "VuxGaming",
       "type": "channel"
     },
     {
-      "id": "UCyqjmx1kcZknycssiIhFQKw",
-      "name": "VuxGaming",
+      "id": "UCpQ52533EsOa5k-dQSmD1jw",
+      "name": "Ha Le Quyen",
       "type": "channel"
     },
     {
@@ -81,11 +81,6 @@
       "type": "channel"
     },
     {
-      "id": "UCVBE4ZK00c4BKU8_NUCPTbQ",
-      "name": "Đạt Feed",
-      "type": "channel"
-    },
-    {
       "id": "UCdSGpiTIGwzlQQ9VP1IJXgg",
       "name": "Bốp Bốp Top1 Liên Quân",
       "type": "channel"
@@ -98,6 +93,11 @@
     {
       "id": "UC1Gvx0tvS1_WyFmEH-G_2TA",
       "name": "Team Flash Liên Quân Mobile",
+      "type": "channel"
+    },
+    {
+      "id": "UC-r1vXyPiJSo2r29U3PgoNg",
+      "name": "HẢI PHONG - HỎNG FILE",
       "type": "channel"
     }
   ],

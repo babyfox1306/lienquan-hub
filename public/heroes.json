@@ -1131,8 +1131,7 @@
         "7dvmt7HyGc0",
         "aC52AXsAceQ",
         "Ny06e_A6-hk",
-        "3-Re1Jn4kDw",
-        "GFrrfUqOVlE"
+        "3-Re1Jn4kDw"
       ]
     },
     {
@@ -4876,9 +4875,9 @@
       "counters": [],
       "synergies": [],
       "tier": "B",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 0)",
+      "tier_reason": "Xuất hiện 2 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
-      "hot_count": 2,
+      "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/7/75/Zanis_profile.png/revision/latest/scale-to-width-down/500?cb=20170525133445",
       "related_videos": [
         "fuPMzufrUBA",
@@ -4926,5 +4925,5 @@
       "related_videos": []
     }
   ],
-  "updated_at": "2026-06-25T16:47:00Z"
+  "updated_at": "2026-06-25T17:40:33Z"
 }

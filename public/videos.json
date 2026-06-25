@@ -1,6 +1,28 @@
 {
   "videos": [
     {
+      "videoId": "Pso8Hank6mI",
+      "title": "APL 2026 瑞士輪W2D3-2026/06/26《Garena傳說對決》",
+      "title_original": "APL 2026 瑞士輪W2D3-2026/06/26《Garena傳說對決》",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-25T16:46:32Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/Pso8Hank6mI/maxresdefault.jpg"
+    },
+    {
+      "videoId": "eDHfaDGCos0",
+      "title": "🔴 TRỰC TIẾP: LỄ BỐC THĂM | SWISS STAGE - APL 2026 (NGÀY 25/06)",
+      "title_original": "🔴 TRỰC TIẾP: LỄ BỐC THĂM | SWISS STAGE - APL 2026 (NGÀY 25/06)",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-25T16:42:32Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/eDHfaDGCos0/maxresdefault.jpg"
+    },
+    {
       "videoId": "Q36W939AqR4",
       "title": "🔴 TRỰC TIẾP: GAM ESPORTS vs HONG KONG ATTITUDE | SWISS STAGE - APL 2026 (NGÀY 25/06)",
       "title_original": "🔴 TRỰC TIẾP: GAM ESPORTS vs HONG KONG ATTITUDE | SWISS STAGE - APL 2026 (NGÀY 25/06)",
@@ -10,6 +32,28 @@
       "source": "youtube",
       "publishedAt": "2026-06-25T16:27:12Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/Q36W939AqR4/maxresdefault.jpg"
+    },
+    {
+      "videoId": "cWD13c3qu5Q",
+      "title": "BỐC THĂM ROUND 3 APL 2026 | Hải Phong CO-STREAM 25.06.26",
+      "title_original": "BỐC THĂM ROUND 3 APL 2026 | Hải Phong CO-STREAM 25.06.26",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-25T16:23:07Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/cWD13c3qu5Q/maxresdefault.jpg"
+    },
+    {
+      "videoId": "08F9Zfqibb0",
+      "title": "BỐC THĂM ROUND 3 APL 2026 | Hải Phong CO-STREAM 25.06.26",
+      "title_original": "BỐC THĂM ROUND 3 APL 2026 | Hải Phong CO-STREAM 25.06.26",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-25T16:11:29Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/08F9Zfqibb0/maxresdefault.jpg"
     },
     {
       "videoId": "7Wezr6ZQWSI",
@@ -32,6 +76,17 @@
       "source": "youtube",
       "publishedAt": "2026-06-25T16:06:29Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/gZomH6BpX_k/maxresdefault.jpg"
+    },
+    {
+      "videoId": "sfBTCgs4ErU",
+      "title": "FPT vs KOG | DCG vs 1S | SLX vs BMG | GAM vs HKA APL 2026 | Hải Phong CO-STREAM 25.06.26",
+      "title_original": "FPT vs KOG | DCG vs 1S | SLX vs BMG | GAM vs HKA APL 2026 | Hải Phong CO-STREAM 25.06.26",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-25T15:58:38Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/sfBTCgs4ErU/maxresdefault.jpg"
     },
     {
       "videoId": "gKEWRwi9Ckw",
@@ -98,17 +153,6 @@
       "source": "youtube",
       "publishedAt": "2026-06-25T06:00:06Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/eELQhL3bHO8/maxresdefault.jpg"
-    },
-    {
-      "videoId": "eDHfaDGCos0",
-      "title": "🔴 TRỰC TIẾP: LỄ BỐC THĂM | SWISS STAGE - APL 2026 (NGÀY 25/06)",
-      "title_original": "🔴 TRỰC TIẾP: LỄ BỐC THĂM | SWISS STAGE - APL 2026 (NGÀY 25/06)",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-06-25T04:38:41Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/eDHfaDGCos0/maxresdefault.jpg"
     },
     {
       "videoId": "TYckqr3vK7s",
@@ -285,17 +329,6 @@
       "source": "youtube",
       "publishedAt": "2026-06-24T16:34:30Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/HNJFZ-EVrMk/maxresdefault.jpg"
-    },
-    {
-      "videoId": "sfBTCgs4ErU",
-      "title": "FPT vs KOG | DCG vs 1S | SLX vs BMG | GAM vs HKA APL 2026 | Hải Phong CO-STREAM 25.06.26",
-      "title_original": "FPT vs KOG | DCG vs 1S | SLX vs BMG | GAM vs HKA APL 2026 | Hải Phong CO-STREAM 25.06.26",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-06-24T16:10:38Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/sfBTCgs4ErU/maxresdefault.jpg"
     },
     {
       "videoId": "cjQpkNtk9eA",
@@ -2166,39 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-06-17T12:01:22Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/x_Zsl86dADQ/maxresdefault.jpg"
-    },
-    {
-      "videoId": "GFrrfUqOVlE",
-      "title": "Tôi đánh giá Skin Tulen Thiên Cơ Bạch Trạch",
-      "title_original": "Tôi đánh giá Skin Tulen Thiên Cơ Bạch Trạch",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-06-17T12:00:30Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/GFrrfUqOVlE/maxresdefault.jpg"
-    },
-    {
-      "videoId": "vkSoQAL-O6E",
-      "title": "TRỖI DẬY ĐI NHỮNG CHIẾN BINH AOG | SWISS STAGE | APL 2026",
-      "title_original": "TRỖI DẬY ĐI NHỮNG CHIẾN BINH AOG | SWISS STAGE | APL 2026",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-06-17T12:00:27Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/vkSoQAL-O6E/maxresdefault.jpg"
-    },
-    {
-      "videoId": "w7gn4_vptFU",
-      "title": "【傳說新造型】莫托斯「夜都神機」| 造型展示影片《Garena 傳說對決》",
-      "title_original": "【傳說新造型】莫托斯「夜都神機」| 造型展示影片《Garena 傳說對決》",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-06-17T12:00:15Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/w7gn4_vptFU/maxresdefault.jpg"
     }
   ]
 }
