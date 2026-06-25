@@ -1,6 +1,39 @@
 {
   "videos": [
     {
+      "videoId": "la0fXcGAiPM",
+      "title": "BURIRAM UNITED ESPORTS VS FPT POLYTECHNIC | SWISS STAGE APL 2026 | NGÀY 24/06",
+      "title_original": "BURIRAM UNITED ESPORTS VS FPT POLYTECHNIC | SWISS STAGE APL 2026 | NGÀY 24/06",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-25T01:00:15Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/la0fXcGAiPM/maxresdefault.jpg"
+    },
+    {
+      "videoId": "efr4PtxuBlo",
+      "title": "Full Highlight SGP vs FW - Swiss Stage APL 2026 | BLV HẢI PHONG",
+      "title_original": "Full Highlight SGP vs FW - Swiss Stage APL 2026 | BLV HẢI PHONG",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-25T01:00:07Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/efr4PtxuBlo/maxresdefault.jpg"
+    },
+    {
+      "videoId": "pmiwUyFm7bQ",
+      "title": "WANIN FLASH WOLVES VS SAIGON PHANTOM | SWISS STAGE APL 2026 | NGÀY 24/06",
+      "title_original": "WANIN FLASH WOLVES VS SAIGON PHANTOM | SWISS STAGE APL 2026 | NGÀY 24/06",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-25T00:30:02Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/pmiwUyFm7bQ/maxresdefault.jpg"
+    },
+    {
       "videoId": "qildEn-FdFs",
       "title": "CATHAY ONE TEAM VS BACON TIME | SWISS STAGE APL 2026 | NGÀY 24/06",
       "title_original": "CATHAY ONE TEAM VS BACON TIME | SWISS STAGE APL 2026 | NGÀY 24/06",
@@ -2166,39 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-06-16T17:46:21Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/ZVu6x0Si6jg/maxresdefault.jpg"
-    },
-    {
-      "videoId": "iYYhhub2J4A",
-      "title": "Phải Biết Chơi",
-      "title_original": "Phải Biết Chơi",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-06-16T17:32:56Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/iYYhhub2J4A/maxresdefault.jpg"
-    },
-    {
-      "videoId": "zW0OHVRBz3k",
-      "title": "TraiDep Đối Đầu Khối Nghỉ Hè",
-      "title_original": "TraiDep Đối Đầu Khối Nghỉ Hè",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-06-16T15:54:14Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/zW0OHVRBz3k/maxresdefault.jpg"
-    },
-    {
-      "videoId": "mlP5ih0RDrI",
-      "title": "SIÊU SAO TOÀN NĂNG 6 NGÀY 1: HẮC LONG VS BDG",
-      "title_original": "SIÊU SAO TOÀN NĂNG 6 NGÀY 1: HẮC LONG VS BDG",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-06-16T15:36:07Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/mlP5ih0RDrI/maxresdefault.jpg"
     }
   ]
 }
