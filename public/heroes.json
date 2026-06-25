@@ -48,8 +48,7 @@
         "fxDQNTe9lPc",
         "pJ4jfAQISAI",
         "vG9V1cjdba4",
-        "mgB53QKquiA",
-        "yriaQkThYjI"
+        "mgB53QKquiA"
       ]
     },
     {
@@ -231,13 +230,11 @@
         "Zip"
       ],
       "tier": "B",
-      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/2/2d/Laville_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20211128202736",
-      "related_videos": [
-        "-jquCA6GjYg"
-      ]
+      "related_videos": []
     },
     {
       "id": "yena",
@@ -374,15 +371,14 @@
         "Alice"
       ],
       "tier": "A",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 3, Score: 1)",
-      "hot": true,
-      "hot_count": 3,
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 1)",
+      "hot": false,
+      "hot_count": 2,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/1/1f/Hayate_profile.jpg/revision/latest/scale-to-width-down/500?cb=20200531224525",
       "related_videos": [
         "cjQpkNtk9eA",
         "3WwfLT6EHOI",
-        "n_lasS1U3jg",
-        "-jquCA6GjYg"
+        "n_lasS1U3jg"
       ]
     },
     {
@@ -563,13 +559,12 @@
         "Krixi"
       ],
       "tier": "A",
-      "tier_reason": "Xuất hiện 2 lần trong video/tin tức 14 ngày qua (Score: 1)",
+      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 1)",
       "hot": false,
       "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/d/da/Baldum_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20200603161240",
       "related_videos": [
-        "Ct9uvcMyDuU",
-        "kiqUK21M3Sc"
+        "Ct9uvcMyDuU"
       ]
     },
     {
@@ -2383,7 +2378,7 @@
       "tier": "A",
       "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 1)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/d/d9/Airi_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20210809013024",
       "related_videos": [
         "PbFiCMhnZ1Y"
@@ -2884,13 +2879,11 @@
       "counters": [],
       "synergies": [],
       "tier": "B",
-      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/c/ca/Butterfly_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125083110",
-      "related_videos": [
-        "yriaQkThYjI"
-      ]
+      "related_videos": []
     },
     {
       "id": "capheny",
@@ -4933,5 +4926,5 @@
       "related_videos": []
     }
   ],
-  "updated_at": "2026-06-25T12:45:04Z"
+  "updated_at": "2026-06-25T13:44:17Z"
 }
