@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "qildEn-FdFs",
+      "title": "CATHAY ONE TEAM VS BACON TIME | SWISS STAGE APL 2026 | NGÀY 24/06",
+      "title_original": "CATHAY ONE TEAM VS BACON TIME | SWISS STAGE APL 2026 | NGÀY 24/06",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-25T00:00:35Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/qildEn-FdFs/maxresdefault.jpg"
+    },
+    {
       "videoId": "trGhvshvoMI",
       "title": "🔴Ước được 999 view",
       "title_original": "🔴Ước được 999 view",
@@ -2188,17 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-06-16T15:36:07Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/mlP5ih0RDrI/maxresdefault.jpg"
-    },
-    {
-      "videoId": "3MooladsMEk",
-      "title": "🔴 Cá dồ cắn cáp",
-      "title_original": "🔴 Cá dồ cắn cáp",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-06-16T15:10:58Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/3MooladsMEk/maxresdefault.jpg"
     }
   ]
 }
