@@ -1,6 +1,28 @@
 {
   "videos": [
     {
+      "videoId": "RAw9dVa8EMA",
+      "title": "Gii Ngh Gp Gii Nh TDV - SGP Sn Lai Bng",
+      "title_original": "Gii Ngh Gp Gii Nh TDV - SGP Sn Lai Bng",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-25T09:41:59Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/RAw9dVa8EMA/maxresdefault.jpg"
+    },
+    {
+      "videoId": "1IEfcisGyaU",
+      "title": "Chnh Thc Cm 10 Tng, Hin Th Bc Rank i Th Ti Phin Bn Mi S3 2026, TNG",
+      "title_original": "Chnh Thc Cm 10 Tng, Hin Th Bc Rank i Th Ti Phin Bn Mi S3 2026, TNG",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-25T09:30:09Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/1IEfcisGyaU/maxresdefault.jpg"
+    },
+    {
       "videoId": "zi6qTiO683k",
       "title": "FISH KHẲNG ĐỊNH AOG ĐANG MẠNH LÊN | ĐẤU XONG THẤY SAO?",
       "title_original": "FISH KHẲNG ĐỊNH AOG ĐANG MẠNH LÊN | ĐẤU XONG THẤY SAO?",
@@ -13,8 +35,8 @@
     },
     {
       "videoId": "7Wezr6ZQWSI",
-      "title": "🔴𝐋𝐈𝐕𝐄 การแข่งขัน RoV นานาชาติ APL 2026 รอบ Swiss Stage วันที่ 6",
-      "title_original": "🔴𝐋𝐈𝐕𝐄 การแข่งขัน RoV นานาชาติ APL 2026 รอบ Swiss Stage วันที่ 6",
+      "title": "🔴𝐋𝐈𝐕𝐄  เชียร์ไทยด่วน 🇹🇭 SOLYX Esports 🆚 BanMei Gaming | การแข่งขัน RoV นานาชาติ APL 2026",
+      "title_original": "🔴𝐋𝐈𝐕𝐄  เชียร์ไทยด่วน 🇹🇭 SOLYX Esports 🆚 BanMei Gaming | การแข่งขัน RoV นานาชาติ APL 2026",
       "translated": false,
       "country": "VN",
       "lang_original": "vi",
@@ -24,8 +46,8 @@
     },
     {
       "videoId": "eDHfaDGCos0",
-      "title": "🔴 TRỰC TIẾP: RELOVE DEEP CROSS GAMING vs ONE STAR ESPORTS | SWISS STAGE - APL 2026 (NGÀY 25/06)",
-      "title_original": "🔴 TRỰC TIẾP: RELOVE DEEP CROSS GAMING vs ONE STAR ESPORTS | SWISS STAGE - APL 2026 (NGÀY 25/06)",
+      "title": "🔴 TRỰC TIẾP: SOLYX ESPORTS vs BANMEI GAMING | SWISS STAGE - APL 2026 (NGÀY 25/06)",
+      "title_original": "🔴 TRỰC TIẾP: SOLYX ESPORTS vs BANMEI GAMING | SWISS STAGE - APL 2026 (NGÀY 25/06)",
       "translated": false,
       "country": "VN",
       "lang_original": "vi",
@@ -35,8 +57,8 @@
     },
     {
       "videoId": "Q36W939AqR4",
-      "title": "🔴 TRỰC TIẾP: RELOVE DEEP CROSS GAMING vs ONE STAR ESPORTS | SWISS STAGE - APL 2026 (NGÀY 25/06)",
-      "title_original": "🔴 TRỰC TIẾP: RELOVE DEEP CROSS GAMING vs ONE STAR ESPORTS | SWISS STAGE - APL 2026 (NGÀY 25/06)",
+      "title": "🔴 TRỰC TIẾP: SOLYX ESPORTS vs BANMEI GAMING | SWISS STAGE - APL 2026 (NGÀY 25/06)",
+      "title_original": "🔴 TRỰC TIẾP: SOLYX ESPORTS vs BANMEI GAMING | SWISS STAGE - APL 2026 (NGÀY 25/06)",
       "translated": false,
       "country": "VN",
       "lang_original": "vi",
@@ -2177,28 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-06-17T09:30:36Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/EK6udVTD66w/maxresdefault.jpg"
-    },
-    {
-      "videoId": "j1yrCK9xXYE",
-      "title": "Tulen Phù Thuỷ Kiến Tạo sau khi được tăng sức mạnh đi rừng liệu còn mạnh ⚡️⚡️⚡️",
-      "title_original": "Tulen Phù Thuỷ Kiến Tạo sau khi được tăng sức mạnh đi rừng liệu còn mạnh ⚡️⚡️⚡️",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-06-17T09:21:41Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/j1yrCK9xXYE/maxresdefault.jpg"
-    },
-    {
-      "videoId": "5dNkDq_RuRw",
-      "title": "FPT HUY HOÀNG | RUNNER UP -  1vs1 TOURNAMENT",
-      "title_original": "FPT HUY HOÀNG | RUNNER UP -  1vs1 TOURNAMENT",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-06-17T08:52:07Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/5dNkDq_RuRw/maxresdefault.jpg"
     }
   ]
 }
