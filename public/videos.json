@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "JpH3JVdQfPg",
+      "title": "ĐI TIẾP HAY BỊ LOẠI: HẮC LONG VS GHOST",
+      "title_original": "ĐI TIẾP HAY BỊ LOẠI: HẮC LONG VS GHOST",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-26T12:41:52Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/JpH3JVdQfPg/maxresdefault.jpg"
+    },
+    {
       "videoId": "gN0cr0EI5fE",
       "title": "VUX CÙNG HẮC LONG ĐẠI CHIẾN PHẢN DIỆN DIRAK JUNGLE PHI KHÔNG NGÁO TRONG SIÊU SAO TOÀN NĂNG 6",
       "title_original": "VUX CÙNG HẮC LONG ĐẠI CHIẾN PHẢN DIỆN DIRAK JUNGLE PHI KHÔNG NGÁO TRONG SIÊU SAO TOÀN NĂNG 6",
@@ -57,8 +68,8 @@
     },
     {
       "videoId": "lwIv9ByKpCE",
-      "title": "🔴 TRỰC TIẾP: BURIRAM UNITED ESPORTS vs CATHAY ONE TEAM | SWISS STAGE - APL 2026 (NGÀY 26/06)",
-      "title_original": "🔴 TRỰC TIẾP: BURIRAM UNITED ESPORTS vs CATHAY ONE TEAM | SWISS STAGE - APL 2026 (NGÀY 26/06)",
+      "title": "🔴 TRỰC TIẾP: ANK GAMING vs RELOVE DEEP CROSS GAMING | SWISS STAGE - APL 2026 (NGÀY 26/06)",
+      "title_original": "🔴 TRỰC TIẾP: ANK GAMING vs RELOVE DEEP CROSS GAMING | SWISS STAGE - APL 2026 (NGÀY 26/06)",
       "translated": false,
       "country": "VN",
       "lang_original": "vi",
@@ -68,8 +79,8 @@
     },
     {
       "videoId": "1nAhfAEk1qI",
-      "title": "🔴 TRỰC TIẾP: BURIRAM UNITED ESPORTS vs CATHAY ONE TEAM | SWISS STAGE - APL 2026 (NGÀY 26/06)",
-      "title_original": "🔴 TRỰC TIẾP: BURIRAM UNITED ESPORTS vs CATHAY ONE TEAM | SWISS STAGE - APL 2026 (NGÀY 26/06)",
+      "title": "🔴 TRỰC TIẾP: ANK GAMING vs RELOVE DEEP CROSS GAMING | SWISS STAGE - APL 2026 (NGÀY 26/06)",
+      "title_original": "🔴 TRỰC TIẾP: ANK GAMING vs RELOVE DEEP CROSS GAMING | SWISS STAGE - APL 2026 (NGÀY 26/06)",
       "translated": false,
       "country": "VN",
       "lang_original": "vi",
@@ -2188,17 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-06-18T10:00:11Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/Ii9XI9__YJw/maxresdefault.jpg"
-    },
-    {
-      "videoId": "eCzfK-GZKLw",
-      "title": "Alice Trở Lại Meta: Giáo Án Của Cao Thủ Hay Bài Đánh Khét Tiếng Của \"Sinh Viên\"?",
-      "title_original": "Alice Trở Lại Meta: Giáo Án Của Cao Thủ Hay Bài Đánh Khét Tiếng Của \"Sinh Viên\"?",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-06-18T09:36:15Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/eCzfK-GZKLw/maxresdefault.jpg"
     }
   ]
 }
