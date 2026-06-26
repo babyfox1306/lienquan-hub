@@ -1,6 +1,28 @@
 {
   "videos": [
     {
+      "videoId": "IiBw52PW7ss",
+      "title": "RELOVE DEEP CROSS GAMING VS ONE STAR ESPORTS | SWISS STAGE APL 2026 | NGÀY 25/06",
+      "title_original": "RELOVE DEEP CROSS GAMING VS ONE STAR ESPORTS | SWISS STAGE APL 2026 | NGÀY 25/06",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-26T00:00:05Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/IiBw52PW7ss/maxresdefault.jpg"
+    },
+    {
+      "videoId": "E8Aunisbyqo",
+      "title": "FULL SENSE VS ANK GAMING  | SWISS STAGE APL 2026 | NGÀY 24/06",
+      "title_original": "FULL SENSE VS ANK GAMING  | SWISS STAGE APL 2026 | NGÀY 24/06",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-25T23:30:15Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/E8Aunisbyqo/maxresdefault.jpg"
+    },
+    {
       "videoId": "b9tjXNYAkLk",
       "title": "TRỰC TIẾP: SWISS STAGE - FPT VS KOG | ROUND 1-1| ARENA OF VALOR PREMIER LEAGUE 2026 (NGÀY 25/06)",
       "title_original": "TRỰC TIẾP: SWISS STAGE - FPT VS KOG | ROUND 1-1| ARENA OF VALOR PREMIER LEAGUE 2026 (NGÀY 25/06)",
@@ -2177,28 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-06-17T13:14:18Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/-jMsIVbvxzs/maxresdefault.jpg"
-    },
-    {
-      "videoId": "9cZ2PWoc0gM",
-      "title": "APL 2026 瑞士輪W1D1-2026/06/18《Garena傳說對決》",
-      "title_original": "APL 2026 瑞士輪W1D1-2026/06/18《Garena傳說對決》",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-06-17T12:47:37Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/9cZ2PWoc0gM/maxresdefault.jpg"
-    },
-    {
-      "videoId": "mgB53QKquiA",
-      "title": "[17-6] MOD SKIN NAKROTH 7IN1 | BTĐMODSKIN | LIÊN QUÂN MOBILE.",
-      "title_original": "[17-6] MOD SKIN NAKROTH 7IN1 | BTĐMODSKIN | LIÊN QUÂN MOBILE.",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-06-17T12:47:04Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/mgB53QKquiA/maxresdefault.jpg"
     }
   ]
 }
