@@ -24,8 +24,8 @@
     },
     {
       "videoId": "ftZ20IrcIYQ",
-      "title": "🔴𝐋𝐈𝐕𝐄 การแข่งขัน RoV นานาชาติ APL 2026 รอบ Swiss Stage วันที่ 7",
-      "title_original": "🔴𝐋𝐈𝐕𝐄 การแข่งขัน RoV นานาชาติ APL 2026 รอบ Swiss Stage วันที่ 7",
+      "title": "การแข่งขัน RoV นานาชาติ APL 2026 รอบ Swiss Stage วันที่ 7",
+      "title_original": "การแข่งขัน RoV นานาชาติ APL 2026 รอบ Swiss Stage วันที่ 7",
       "translated": false,
       "country": "VN",
       "lang_original": "vi",
@@ -109,6 +109,28 @@
       "source": "youtube",
       "publishedAt": "2026-06-26T10:12:27Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/gN0cr0EI5fE/maxresdefault.jpg"
+    },
+    {
+      "videoId": "08F9Zfqibb0",
+      "title": "FPT Flash vs Saigon Phantom APL 2026 | Hải Phong CO-STREAM 26.06.26",
+      "title_original": "FPT Flash vs Saigon Phantom APL 2026 | Hải Phong CO-STREAM 26.06.26",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-26T10:06:51Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/08F9Zfqibb0/maxresdefault.jpg"
+    },
+    {
+      "videoId": "F7_CNpZtGvQ",
+      "title": "FPT Flash vs Saigon Phantom APL 2026 | Hải Phong CO-STREAM 26.06.26",
+      "title_original": "FPT Flash vs Saigon Phantom APL 2026 | Hải Phong CO-STREAM 26.06.26",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-26T09:51:59Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/F7_CNpZtGvQ/maxresdefault.jpg"
     },
     {
       "videoId": "olUKfaYZ5i4",
@@ -307,17 +329,6 @@
       "source": "youtube",
       "publishedAt": "2026-06-25T16:23:07Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/cWD13c3qu5Q/maxresdefault.jpg"
-    },
-    {
-      "videoId": "08F9Zfqibb0",
-      "title": "FPT Flash vs Saigon Phantom APL 2026 | Hải Phong CO-STREAM 26.06.26",
-      "title_original": "FPT Flash vs Saigon Phantom APL 2026 | Hải Phong CO-STREAM 26.06.26",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-06-25T16:11:29Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/08F9Zfqibb0/maxresdefault.jpg"
     },
     {
       "videoId": "7Wezr6ZQWSI",
@@ -2188,17 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-06-18T14:31:56Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/_yMoAc9Gh_s/maxresdefault.jpg"
-    },
-    {
-      "videoId": "5rmXaufakpQ",
-      "title": "Bắt Đầu Lại Từ Con Số 0 Chưa Bao Giờ Là Dễ Dàng!",
-      "title_original": "Bắt Đầu Lại Từ Con Số 0 Chưa Bao Giờ Là Dễ Dàng!",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-06-18T13:44:27Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/5rmXaufakpQ/maxresdefault.jpg"
     }
   ]
 }
