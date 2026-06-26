@@ -2373,14 +2373,12 @@
       },
       "counters": [],
       "synergies": [],
-      "tier": "A",
-      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 1)",
+      "tier": "B",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/d/d9/Airi_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20210809013024",
-      "related_videos": [
-        "PbFiCMhnZ1Y"
-      ]
+      "related_videos": []
     },
     {
       "id": "aleister",
@@ -4925,5 +4923,5 @@
       ]
     }
   ],
-  "updated_at": "2026-06-26T12:59:12Z"
+  "updated_at": "2026-06-26T13:51:37Z"
 }
