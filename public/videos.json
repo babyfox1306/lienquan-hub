@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "CarKaPFcF7Y",
+      "title": "TRỰC TIẾP: SWISS STAGE - FPT VS SGP | ROUND 2-1| ARENA OF VALOR PREMIER LEAGUE 2026 (NGÀY 26/06)",
+      "title_original": "TRỰC TIẾP: SWISS STAGE - FPT VS SGP | ROUND 2-1| ARENA OF VALOR PREMIER LEAGUE 2026 (NGÀY 26/06)",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-26T23:20:08Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/CarKaPFcF7Y/maxresdefault.jpg"
+    },
+    {
       "videoId": "EHfaX-j1kWY",
       "title": "🔴𝐋𝐈𝐕𝐄 การแข่งขัน RoV Thailand Esports Premier League (TEPL) 2026 | Regular Season Week 1 Day 1",
       "title_original": "🔴𝐋𝐈𝐕𝐄 การแข่งขัน RoV Thailand Esports Premier League (TEPL) 2026 | Regular Season Week 1 Day 1",
@@ -164,17 +175,6 @@
       "source": "youtube",
       "publishedAt": "2026-06-26T09:30:16Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/A6ToinzQFag/maxresdefault.jpg"
-    },
-    {
-      "videoId": "CarKaPFcF7Y",
-      "title": "TRỰC TIẾP: SWISS STAGE - FPT VS SGP | ROUND 2-1| ARENA OF VALOR PREMIER LEAGUE 2026 (NGÀY 26/06)",
-      "title_original": "TRỰC TIẾP: SWISS STAGE - FPT VS SGP | ROUND 2-1| ARENA OF VALOR PREMIER LEAGUE 2026 (NGÀY 26/06)",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-06-26T05:26:06Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/CarKaPFcF7Y/maxresdefault.jpg"
     },
     {
       "videoId": "pe_Ot-KuV5Q",
