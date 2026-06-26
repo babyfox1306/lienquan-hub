@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "EHfaX-j1kWY",
+      "title": "🔴𝐋𝐈𝐕𝐄 การแข่งขัน RoV Thailand Esports Premier League (TEPL) 2026 | Regular Season Week 1 Day 1",
+      "title_original": "🔴𝐋𝐈𝐕𝐄 การแข่งขัน RoV Thailand Esports Premier League (TEPL) 2026 | Regular Season Week 1 Day 1",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-26T17:45:38Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/EHfaX-j1kWY/maxresdefault.jpg"
+    },
+    {
       "videoId": "lwIv9ByKpCE",
       "title": "🔴 TRỰC TIẾP: ANK GAMING vs RELOVE DEEP CROSS GAMING | SWISS STAGE - APL 2026 (NGÀY 26/06)",
       "title_original": "🔴 TRỰC TIẾP: ANK GAMING vs RELOVE DEEP CROSS GAMING | SWISS STAGE - APL 2026 (NGÀY 26/06)",
@@ -2188,17 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-06-18T14:48:11Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/y9C4wcpOZ14/maxresdefault.jpg"
-    },
-    {
-      "videoId": "_yMoAc9Gh_s",
-      "title": "BRU vs ONE | FPT vs 1S - APL 2026 | Hải Phong CO-STREAM 18.06.26",
-      "title_original": "BRU vs ONE | FPT vs 1S - APL 2026 | Hải Phong CO-STREAM 18.06.26",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-06-18T14:31:56Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/_yMoAc9Gh_s/maxresdefault.jpg"
     }
   ]
 }
