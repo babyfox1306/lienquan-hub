@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "TjCEY6PPF2w",
+      "title": "SOLYX ESPORTS VS BANMEI GAMING  | SWISS STAGE APL 2026 | NGÀY 25/06",
+      "title_original": "SOLYX ESPORTS VS BANMEI GAMING  | SWISS STAGE APL 2026 | NGÀY 25/06",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-26T01:00:26Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/TjCEY6PPF2w/maxresdefault.jpg"
+    },
+    {
       "videoId": "IiBw52PW7ss",
       "title": "RELOVE DEEP CROSS GAMING VS ONE STAR ESPORTS | SWISS STAGE APL 2026 | NGÀY 25/06",
       "title_original": "RELOVE DEEP CROSS GAMING VS ONE STAR ESPORTS | SWISS STAGE APL 2026 | NGÀY 25/06",
@@ -2188,17 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-06-17T14:24:52Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/-wz0uxSfjeE/maxresdefault.jpg"
-    },
-    {
-      "videoId": "-jMsIVbvxzs",
-      "title": "[17-6] MOD SKIN BOLT BARON THIÊN PHỦ TƯ MỆNH SÁNG ĐẬM HD EFFECT | BTĐMODSKIN | LIÊN QUÂN MOBILE.",
-      "title_original": "[17-6] MOD SKIN BOLT BARON THIÊN PHỦ TƯ MỆNH SÁNG ĐẬM HD EFFECT | BTĐMODSKIN | LIÊN QUÂN MOBILE.",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-06-17T13:14:18Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/-jMsIVbvxzs/maxresdefault.jpg"
     }
   ]
 }
