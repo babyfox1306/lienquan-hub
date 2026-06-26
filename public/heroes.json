@@ -279,9 +279,7 @@
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/5/5a/Yena_profile.jpg/revision/latest/scale-to-width-down/500?cb=20200531224619",
-      "related_videos": [
-        "4uwxmif9GcA"
-      ]
+      "related_videos": []
     },
     {
       "id": "marja",
@@ -1122,9 +1120,9 @@
         "Alice"
       ],
       "tier": "B",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 4, Score: 0)",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 3, Score: 0)",
       "hot": true,
-      "hot_count": 4,
+      "hot_count": 3,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/2/2c/Tulen_Splash.jpeg/revision/latest/scale-to-width-down/500?cb=20180102103714",
       "related_videos": [
         "plRoSVYwKe0",
@@ -1311,11 +1309,13 @@
         "Arthur"
       ],
       "tier": "B",
-      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
-      "hot_count": 0,
+      "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/0/0f/Dirak_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125044153",
-      "related_videos": []
+      "related_videos": [
+        "gN0cr0EI5fE"
+      ]
     },
     {
       "id": "elsu",
@@ -4926,5 +4926,5 @@
       ]
     }
   ],
-  "updated_at": "2026-06-26T09:21:30Z"
+  "updated_at": "2026-06-26T11:13:00Z"
 }
