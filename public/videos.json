@@ -1,6 +1,28 @@
 {
   "videos": [
     {
+      "videoId": "F7_CNpZtGvQ",
+      "title": "GAM vs BMG APL 2026 | Hải Phong CO-STREAM 27.06.26",
+      "title_original": "GAM vs BMG APL 2026 | Hải Phong CO-STREAM 27.06.26",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-27T16:28:53Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/F7_CNpZtGvQ/maxresdefault.jpg"
+    },
+    {
+      "videoId": "mzFporHbV3M",
+      "title": "Bốc Thăm Round 4 FW vs ANK APL 2026 | Hải Phong CO-STREAM 27.06.26",
+      "title_original": "Bốc Thăm Round 4 FW vs ANK APL 2026 | Hải Phong CO-STREAM 27.06.26",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-27T15:54:09Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/mzFporHbV3M/maxresdefault.jpg"
+    },
+    {
       "videoId": "fjqFX-P-35c",
       "title": "การแข่งขัน RoV Thailand Esports Premier League (TEPL) 2026 | Week 1 Day 2",
       "title_original": "การแข่งขัน RoV Thailand Esports Premier League (TEPL) 2026 | Week 1 Day 2",
@@ -277,8 +299,8 @@
     },
     {
       "videoId": "Qb8U5K1HYZY",
-      "title": "🔴 LIVE:BMG  🆚 GAM|APL 2026 瑞士輪W2D4-2026/06/27《Garena傳說對決》",
-      "title_original": "🔴 LIVE:BMG  🆚 GAM|APL 2026 瑞士輪W2D4-2026/06/27《Garena傳說對決》",
+      "title": "APL 2026 瑞士輪W2D4-2026/06/27《Garena傳說對決》",
+      "title_original": "APL 2026 瑞士輪W2D4-2026/06/27《Garena傳說對決》",
       "translated": false,
       "country": "VN",
       "lang_original": "vi",
@@ -340,17 +362,6 @@
       "source": "youtube",
       "publishedAt": "2026-06-26T10:06:51Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/08F9Zfqibb0/maxresdefault.jpg"
-    },
-    {
-      "videoId": "F7_CNpZtGvQ",
-      "title": "GAM vs BMG APL 2026 | Hải Phong CO-STREAM 27.06.26",
-      "title_original": "GAM vs BMG APL 2026 | Hải Phong CO-STREAM 27.06.26",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-06-26T09:51:59Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/F7_CNpZtGvQ/maxresdefault.jpg"
     },
     {
       "videoId": "olUKfaYZ5i4",
@@ -2188,17 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-06-19T04:00:06Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/ZhK_ATynA3A/maxresdefault.jpg"
-    },
-    {
-      "videoId": "KdK6ERMZv6s",
-      "title": "TRỰC TIẾP: SWISS STAGE - FPT VS 1S | ROUND 0-0 | ARENA OF VALOR PREMIER LEAGUE 2026 (NGÀY 18/06)",
-      "title_original": "TRỰC TIẾP: SWISS STAGE - FPT VS 1S | ROUND 0-0 | ARENA OF VALOR PREMIER LEAGUE 2026 (NGÀY 18/06)",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-06-19T03:44:58Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/KdK6ERMZv6s/maxresdefault.jpg"
     }
   ]
 }
