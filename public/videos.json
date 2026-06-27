@@ -1,6 +1,28 @@
 {
   "videos": [
     {
+      "videoId": "Ot-XR5Aj0dk",
+      "title": "ĐI CẦU LORION NGHỆ CẢ CỤC",
+      "title_original": "ĐI CẦU LORION NGHỆ CẢ CỤC",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-27T11:06:23Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/Ot-XR5Aj0dk/maxresdefault.jpg"
+    },
+    {
+      "videoId": "PIC8FNaeYhs",
+      "title": "【新英雄】上古半神拓冥降世|日月雙槍.誅滅黑暗《Garena傳說對決》",
+      "title_original": "【新英雄】上古半神拓冥降世|日月雙槍.誅滅黑暗《Garena傳說對決》",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-27T11:00:27Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/PIC8FNaeYhs/maxresdefault.jpg"
+    },
+    {
       "videoId": "qqjzcT7zKs4",
       "title": "🔴Liên Quân Mobile - Defeat Tại ''.''",
       "title_original": "🔴Liên Quân Mobile - Defeat Tại ''.''",
@@ -68,8 +90,8 @@
     },
     {
       "videoId": "f2kocAWhzB4",
-      "title": "🔴𝐋𝐈𝐕𝐄 เชียร์ไทยด่วน! 🇹🇭 King of Gamers Club 🆚 FPT Polytechnic | การแข่งขัน RoV นานาชาติ APL 2026",
-      "title_original": "🔴𝐋𝐈𝐕𝐄 เชียร์ไทยด่วน! 🇹🇭 King of Gamers Club 🆚 FPT Polytechnic | การแข่งขัน RoV นานาชาติ APL 2026",
+      "title": "🔴𝐋𝐈𝐕𝐄 ไทยเจอเวียดนาม 🇹🇭 King of Gamers Club 1 🆚 2 FPT Polytechnic | การแข่งขัน RoV นานาชาติ APL 2026",
+      "title_original": "🔴𝐋𝐈𝐕𝐄 ไทยเจอเวียดนาม 🇹🇭 King of Gamers Club 1 🆚 2 FPT Polytechnic | การแข่งขัน RoV นานาชาติ APL 2026",
       "translated": false,
       "country": "VN",
       "lang_original": "vi",
@@ -299,8 +321,8 @@
     },
     {
       "videoId": "F7_CNpZtGvQ",
-      "title": "ONE STAR ESPORTS vs Wanin Flash Wolves APL 2026 | Hải Phong CO-STREAM 27.06.26",
-      "title_original": "ONE STAR ESPORTS vs Wanin Flash Wolves APL 2026 | Hải Phong CO-STREAM 27.06.26",
+      "title": "FPL vs KOG APL 2026 | Hải Phong CO-STREAM 27.06.26",
+      "title_original": "FPL vs KOG APL 2026 | Hải Phong CO-STREAM 27.06.26",
       "translated": false,
       "country": "VN",
       "lang_original": "vi",
@@ -2177,28 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-06-19T02:30:39Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/rmDRJy719gE/maxresdefault.jpg"
-    },
-    {
-      "videoId": "G41qifQBotM",
-      "title": "FPT X FLASH VS ONE STAR ESPORTS | SWISS STAGE APL 2026 | NGÀY 18/06",
-      "title_original": "FPT X FLASH VS ONE STAR ESPORTS | SWISS STAGE APL 2026 | NGÀY 18/06",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-06-19T02:30:36Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/G41qifQBotM/maxresdefault.jpg"
-    },
-    {
-      "videoId": "oGMpsNtBxRM",
-      "title": "Giáo Án Kaine Đi Sp: Lấy \"Công\" Bù \"Thủ\" Lấn Át Map - Kiểm Soát Rừng Team Bạn",
-      "title_original": "Giáo Án Kaine Đi Sp: Lấy \"Công\" Bù \"Thủ\" Lấn Át Map - Kiểm Soát Rừng Team Bạn",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-06-19T02:02:53Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/oGMpsNtBxRM/maxresdefault.jpg"
     }
   ]
 }

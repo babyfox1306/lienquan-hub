@@ -39,9 +39,9 @@
         "Krixi"
       ],
       "tier": "A",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 4, Score: 1)",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 3, Score: 1)",
       "hot": true,
-      "hot_count": 4,
+      "hot_count": 3,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/3/3f/Nakroth_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20201224121203",
       "related_videos": [
         "rSHVfoDTZWI",
@@ -3617,13 +3617,11 @@
       "counters": [],
       "synergies": [],
       "tier": "B",
-      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/2/20/Kaine_s1.png/revision/latest?cb=20240414065850",
-      "related_videos": [
-        "oGMpsNtBxRM"
-      ]
+      "related_videos": []
     },
     {
       "id": "kilgroth",
@@ -3970,7 +3968,7 @@
       "tier": "B",
       "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/b/b4/Paine_Soul_Elegy.png/revision/latest/scale-to-width-down/500?cb=20220328044802",
       "related_videos": [
         "pJ4jfAQISAI"
@@ -4926,5 +4924,5 @@
       ]
     }
   ],
-  "updated_at": "2026-06-27T10:50:21Z"
+  "updated_at": "2026-06-27T11:40:34Z"
 }
