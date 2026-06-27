@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "fjqFX-P-35c",
+      "title": "การแข่งขัน RoV Thailand Esports Premier League (TEPL) 2026 | Week 1 Day 2",
+      "title_original": "การแข่งขัน RoV Thailand Esports Premier League (TEPL) 2026 | Week 1 Day 2",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-27T14:52:51Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/fjqFX-P-35c/maxresdefault.jpg"
+    },
+    {
       "videoId": "NkY5d3MP8pI",
       "title": "🔴Liên Quân Mobile - Defeat Tại ''...''",
       "title_original": "🔴Liên Quân Mobile - Defeat Tại ''...''",
@@ -2188,17 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-06-19T03:44:58Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/KdK6ERMZv6s/maxresdefault.jpg"
-    },
-    {
-      "videoId": "PEPZiwJRNk4",
-      "title": "TOP 5 Tướng Trợ Thủ Mạnh Leo Rank Thần Tốc Cuối Mùa, Meta Sau Dự Là Vẫn Ngon!",
-      "title_original": "TOP 5 Tướng Trợ Thủ Mạnh Leo Rank Thần Tốc Cuối Mùa, Meta Sau Dự Là Vẫn Ngon!",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-06-19T03:12:56Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/PEPZiwJRNk4/maxresdefault.jpg"
     }
   ]
 }
