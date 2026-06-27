@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "g9s53Z6Bi3g",
+      "title": "BURIRAM UNITED ESPORTS VS CATHAY ONE TEAM | SWISS STAGE APL 2026 | NGÀY 26/06",
+      "title_original": "BURIRAM UNITED ESPORTS VS CATHAY ONE TEAM | SWISS STAGE APL 2026 | NGÀY 26/06",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-27T01:00:19Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/g9s53Z6Bi3g/maxresdefault.jpg"
+    },
+    {
       "videoId": "CarKaPFcF7Y",
       "title": "TRỰC TIẾP: SWISS STAGE - FPT VS SGP | ROUND 2-1| ARENA OF VALOR PREMIER LEAGUE 2026 (NGÀY 26/06)",
       "title_original": "TRỰC TIẾP: SWISS STAGE - FPT VS SGP | ROUND 2-1| ARENA OF VALOR PREMIER LEAGUE 2026 (NGÀY 26/06)",
@@ -2188,17 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-06-18T14:52:47Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/leRrhaG_cBA/maxresdefault.jpg"
-    },
-    {
-      "videoId": "y9C4wcpOZ14",
-      "title": "การแข่งขัน RoV นานาชาติ APL 2026 รอบ Swiss Stage วันที่ 1",
-      "title_original": "การแข่งขัน RoV นานาชาติ APL 2026 รอบ Swiss Stage วันที่ 1",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-06-18T14:48:11Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/y9C4wcpOZ14/maxresdefault.jpg"
     }
   ]
 }
