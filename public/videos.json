@@ -13,8 +13,8 @@
     },
     {
       "videoId": "qF2FwuVeaO8",
-      "title": "🔴 TRỰC TIẾP: ONE STAR ESPORTS vs WANIN FLASH WOLVES | SWISS STAGE - APL 2026 (NGÀY 27/06)",
-      "title_original": "🔴 TRỰC TIẾP: ONE STAR ESPORTS vs WANIN FLASH WOLVES | SWISS STAGE - APL 2026 (NGÀY 27/06)",
+      "title": "🔴 TRỰC TIẾP: FPT POLYTECHNIC vs KING OF GAMERS CLUB | SWISS STAGE - APL 2026 (NGÀY 27/06)",
+      "title_original": "🔴 TRỰC TIẾP: FPT POLYTECHNIC vs KING OF GAMERS CLUB | SWISS STAGE - APL 2026 (NGÀY 27/06)",
       "translated": false,
       "country": "VN",
       "lang_original": "vi",
@@ -24,8 +24,8 @@
     },
     {
       "videoId": "IpCRBJdCiP0",
-      "title": "🔴 TRỰC TIẾP: ONE STAR ESPORTS vs WANIN FLASH WOLVES | SWISS STAGE - APL 2026 (NGÀY 27/06)",
-      "title_original": "🔴 TRỰC TIẾP: ONE STAR ESPORTS vs WANIN FLASH WOLVES | SWISS STAGE - APL 2026 (NGÀY 27/06)",
+      "title": "🔴 TRỰC TIẾP: FPT POLYTECHNIC vs KING OF GAMERS CLUB | SWISS STAGE - APL 2026 (NGÀY 27/06)",
+      "title_original": "🔴 TRỰC TIẾP: FPT POLYTECHNIC vs KING OF GAMERS CLUB | SWISS STAGE - APL 2026 (NGÀY 27/06)",
       "translated": false,
       "country": "VN",
       "lang_original": "vi",
@@ -120,6 +120,17 @@
       "source": "youtube",
       "publishedAt": "2026-06-27T01:30:37Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/jUeYiZcHWdY/maxresdefault.jpg"
+    },
+    {
+      "videoId": "Syp2IQUvBjE",
+      "title": "Full Highlight FPT Flash vs Saigon Phantom - Swiss Stage APL 2026 | BLV HẢI PHONG",
+      "title_original": "Full Highlight FPT Flash vs Saigon Phantom - Swiss Stage APL 2026 | BLV HẢI PHONG",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-27T01:00:26Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/Syp2IQUvBjE/maxresdefault.jpg"
     },
     {
       "videoId": "g9s53Z6Bi3g",
@@ -277,8 +288,8 @@
     },
     {
       "videoId": "F7_CNpZtGvQ",
-      "title": "FPT Flash vs Saigon Phantom APL 2026 | Hải Phong CO-STREAM 26.06.26",
-      "title_original": "FPT Flash vs Saigon Phantom APL 2026 | Hải Phong CO-STREAM 26.06.26",
+      "title": "ONE STAR ESPORTS vs Wanin Flash Wolves APL 2026 | Hải Phong CO-STREAM 27.06.26",
+      "title_original": "ONE STAR ESPORTS vs Wanin Flash Wolves APL 2026 | Hải Phong CO-STREAM 27.06.26",
       "translated": false,
       "country": "VN",
       "lang_original": "vi",
@@ -2188,17 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-06-19T02:00:35Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/0NWSQpXqjus/maxresdefault.jpg"
-    },
-    {
-      "videoId": "W-PCnh-MK6c",
-      "title": "BURIRAM UNITED ESPORTS VS CATHAY ONE TEAM | SWISS STAGE APL 2026 | NGÀY 18/06",
-      "title_original": "BURIRAM UNITED ESPORTS VS CATHAY ONE TEAM | SWISS STAGE APL 2026 | NGÀY 18/06",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-06-19T02:00:07Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/W-PCnh-MK6c/maxresdefault.jpg"
     }
   ]
 }
