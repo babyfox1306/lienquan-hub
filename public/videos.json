@@ -1,6 +1,28 @@
 {
   "videos": [
     {
+      "videoId": "NkY5d3MP8pI",
+      "title": "🔴Liên Quân Mobile - Defeat Tại ''...''",
+      "title_original": "🔴Liên Quân Mobile - Defeat Tại ''...''",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-27T13:59:30Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/NkY5d3MP8pI/maxresdefault.jpg"
+    },
+    {
+      "videoId": "EHfaX-j1kWY",
+      "title": "การแข่งขัน RoV Thailand Esports Premier League (TEPL) 2026 | Week 1 Day 1",
+      "title_original": "การแข่งขัน RoV Thailand Esports Premier League (TEPL) 2026 | Week 1 Day 1",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-27T13:47:21Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/EHfaX-j1kWY/maxresdefault.jpg"
+    },
+    {
       "videoId": "Ot-XR5Aj0dk",
       "title": "ĐI CẦU LORION NGHỆ CẢ CỤC",
       "title_original": "ĐI CẦU LORION NGHỆ CẢ CỤC",
@@ -186,17 +208,6 @@
       "source": "youtube",
       "publishedAt": "2026-06-26T23:20:08Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/CarKaPFcF7Y/maxresdefault.jpg"
-    },
-    {
-      "videoId": "EHfaX-j1kWY",
-      "title": "การแข่งขัน RoV Thailand Esports Premier League (TEPL) 2026 | Week 1 Day 1",
-      "title_original": "การแข่งขัน RoV Thailand Esports Premier League (TEPL) 2026 | Week 1 Day 1",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-06-26T17:45:38Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/EHfaX-j1kWY/maxresdefault.jpg"
     },
     {
       "videoId": "lwIv9ByKpCE",
@@ -2188,17 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-06-19T03:12:56Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/PEPZiwJRNk4/maxresdefault.jpg"
-    },
-    {
-      "videoId": "rmDRJy719gE",
-      "title": "Full Highlight BRU vs ONE - Swiss Stage APL 2026 | BLV HẢI PHONG",
-      "title_original": "Full Highlight BRU vs ONE - Swiss Stage APL 2026 | BLV HẢI PHONG",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-06-19T02:30:39Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/rmDRJy719gE/maxresdefault.jpg"
     }
   ]
 }
