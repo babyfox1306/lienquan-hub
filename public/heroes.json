@@ -3802,12 +3802,14 @@
       },
       "counters": [],
       "synergies": [],
-      "tier": "B",
-      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier": "A",
+      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 1)",
       "hot": false,
-      "hot_count": 0,
+      "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/d/d1/Lindis_Default.png/revision/latest/scale-to-width-down/500?cb=20180309094525",
-      "related_videos": []
+      "related_videos": [
+        "lxI3KszyyBM"
+      ]
     },
     {
       "id": "max",
@@ -4918,5 +4920,5 @@
       ]
     }
   ],
-  "updated_at": "2026-06-28T09:16:42Z"
+  "updated_at": "2026-06-28T10:55:52Z"
 }
