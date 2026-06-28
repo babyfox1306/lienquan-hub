@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "jpmmCfPMQ5g",
+      "title": "《Garena傳說對決》2026 S3 賽季故事番外|深淵暗湧",
+      "title_original": "《Garena傳說對決》2026 S3 賽季故事番外|深淵暗湧",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-28T12:00:33Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/jpmmCfPMQ5g/maxresdefault.jpg"
+    },
+    {
       "videoId": "zG9V_SC3tpY",
       "title": "[GNH TEAM CC KHT] Song Kim Hp Bch Cng Hotgirl: p ch Khng Dm Ri Khi T n!",
       "title_original": "[GNH TEAM CC KHT] Song Kim Hp Bch Cng Hotgirl: p ch Khng Dm Ri Khi T n!",
@@ -2188,17 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-06-20T01:00:10Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/V86lTd9y2lc/maxresdefault.jpg"
-    },
-    {
-      "videoId": "VchJP6faDKs",
-      "title": "🔴 Kênh thông báo VIDEO & LIVESTREAM đã tạo xong",
-      "title_original": "🔴 Kênh thông báo VIDEO & LIVESTREAM đã tạo xong",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-06-19T17:41:13Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/VchJP6faDKs/maxresdefault.jpg"
     }
   ]
 }
