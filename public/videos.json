@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "gExGx8rIgXY",
+      "title": "Mưa Nên Nghỉ Ship",
+      "title_original": "Mưa Nên Nghỉ Ship",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-28T17:24:33Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/gExGx8rIgXY/maxresdefault.jpg"
+    },
+    {
       "videoId": "JtKToO7Loqg",
       "title": "APL 2026 瑞士輪W2D5-2026/06/28《Garena傳說對決》",
       "title_original": "APL 2026 瑞士輪W2D5-2026/06/28《Garena傳說對決》",
@@ -54,17 +65,6 @@
       "source": "youtube",
       "publishedAt": "2026-06-28T15:59:39Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/M0O6S4Av-BI/maxresdefault.jpg"
-    },
-    {
-      "videoId": "gExGx8rIgXY",
-      "title": "Mưa Nên Nghỉ Ship",
-      "title_original": "Mưa Nên Nghỉ Ship",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-06-28T15:02:01Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/gExGx8rIgXY/maxresdefault.jpg"
     },
     {
       "videoId": "iO_PdxxcLzI",
@@ -222,8 +222,8 @@
     },
     {
       "videoId": "a-dslIAxsRg",
-      "title": "🔴Liên Quân Mobile - Defeat Tại ''...''",
-      "title_original": "🔴Liên Quân Mobile - Defeat Tại ''...''",
+      "title": "Buổi stream vừa rồi buộc phải xóa nha anh em (khứa slot nói từ cấm)",
+      "title_original": "Buổi stream vừa rồi buộc phải xóa nha anh em (khứa slot nói từ cấm)",
       "translated": false,
       "country": "VN",
       "lang_original": "vi",

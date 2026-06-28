@@ -31,11 +31,6 @@
       "type": "channel"
     },
     {
-      "id": "UCen3q9LMBtFHYU3Us7aKD3w",
-      "name": "Anhhao",
-      "type": "channel"
-    },
-    {
       "id": "UCIzzawIg4eCPgZggwFzEQbQ",
       "name": "Garena Liên Quân Mobile",
       "type": "channel"
@@ -98,6 +93,11 @@
     {
       "id": "UCYfv7UcC1KOsvMD3BVVwoLg",
       "name": "Esports - Garena Liên Quân Mobile",
+      "type": "channel"
+    },
+    {
+      "id": "UC1Gvx0tvS1_WyFmEH-G_2TA",
+      "name": "Team Flash Liên Quân Mobile",
       "type": "channel"
     }
   ],
