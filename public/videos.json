@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "QiRceX3fZPU",
+      "title": "HIGHLIGHTS FPT FLASH VS SGP | SWISS STAGE - MATCH 1 | ROUND 1-2 | APL2026",
+      "title_original": "HIGHLIGHTS FPT FLASH VS SGP | SWISS STAGE - MATCH 1 | ROUND 1-2 | APL2026",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-28T12:15:36Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/QiRceX3fZPU/maxresdefault.jpg"
+    },
+    {
       "videoId": "jpmmCfPMQ5g",
       "title": "《Garena傳說對決》2026 S3 賽季故事番外|深淵暗湧",
       "title_original": "《Garena傳說對決》2026 S3 賽季故事番外|深淵暗湧",
@@ -89,6 +100,17 @@
       "thumbnailUrl": "https://i.ytimg.com/vi/p1HjhpfjYtc/maxresdefault.jpg"
     },
     {
+      "videoId": "TKwhezyyB6k",
+      "title": "HIGHLIGHTS FPT FLASH VS KOG | SWISS STAGE - MATCH 3 | ROUND 1-1 | APL2026",
+      "title_original": "HIGHLIGHTS FPT FLASH VS KOG | SWISS STAGE - MATCH 3 | ROUND 1-1 | APL2026",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-28T06:44:36Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/TKwhezyyB6k/maxresdefault.jpg"
+    },
+    {
       "videoId": "fSQ81zwpxIA",
       "title": "【傳說新造型】伊格「誰與爭鋒」| 造型展示影片《Garena 傳說對決》",
       "title_original": "【傳說新造型】伊格「誰與爭鋒」| 造型展示影片《Garena 傳說對決》",
@@ -123,8 +145,8 @@
     },
     {
       "videoId": "VszT9ojycBs",
-      "title": "🔴 TRỰC TIẾP: WANIN FLASH WOLVES vs FPT POLYTECHNIC | SWISS STAGE - APL 2026 (NGÀY 28/06)",
-      "title_original": "🔴 TRỰC TIẾP: WANIN FLASH WOLVES vs FPT POLYTECHNIC | SWISS STAGE - APL 2026 (NGÀY 28/06)",
+      "title": "🔴 TRỰC TIẾP: SAIGON PHANTOM vs BANMEI GAMING | SWISS STAGE - APL 2026 (NGÀY 28/06)",
+      "title_original": "🔴 TRỰC TIẾP: SAIGON PHANTOM vs BANMEI GAMING | SWISS STAGE - APL 2026 (NGÀY 28/06)",
       "translated": false,
       "country": "VN",
       "lang_original": "vi",
@@ -134,8 +156,8 @@
     },
     {
       "videoId": "ZYfMsJPBbms",
-      "title": "🔴 TRỰC TIẾP: WANIN FLASH WOLVES vs FPT POLYTECHNIC | SWISS STAGE - APL 2026 (NGÀY 28/06)",
-      "title_original": "🔴 TRỰC TIẾP: WANIN FLASH WOLVES vs FPT POLYTECHNIC | SWISS STAGE - APL 2026 (NGÀY 28/06)",
+      "title": "🔴 TRỰC TIẾP: SAIGON PHANTOM vs BANMEI GAMING | SWISS STAGE - APL 2026 (NGÀY 28/06)",
+      "title_original": "🔴 TRỰC TIẾP: SAIGON PHANTOM vs BANMEI GAMING | SWISS STAGE - APL 2026 (NGÀY 28/06)",
       "translated": false,
       "country": "VN",
       "lang_original": "vi",
@@ -2177,28 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-06-20T01:30:17Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/rtv7naK0H8I/maxresdefault.jpg"
-    },
-    {
-      "videoId": "NM4vy3oQKU0",
-      "title": "Full Highlight BMG vs FPL - Swiss Stage APL 2026 | BLV HẢI PHONG",
-      "title_original": "Full Highlight BMG vs FPL - Swiss Stage APL 2026 | BLV HẢI PHONG",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-06-20T01:00:40Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/NM4vy3oQKU0/maxresdefault.jpg"
-    },
-    {
-      "videoId": "V86lTd9y2lc",
-      "title": "WANIN FLASH WOLVES VS ANK GAMING | SWISS STAGE APL 2026 | NGÀY 19/06",
-      "title_original": "WANIN FLASH WOLVES VS ANK GAMING | SWISS STAGE APL 2026 | NGÀY 19/06",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-06-20T01:00:10Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/V86lTd9y2lc/maxresdefault.jpg"
     }
   ]
 }
