@@ -1,6 +1,50 @@
 {
   "videos": [
     {
+      "videoId": "fSQ81zwpxIA",
+      "title": "【傳說新造型】伊格「誰與爭鋒」| 造型展示影片《Garena 傳說對決》",
+      "title_original": "【傳說新造型】伊格「誰與爭鋒」| 造型展示影片《Garena 傳說對決》",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-28T06:00:06Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/fSQ81zwpxIA/maxresdefault.jpg"
+    },
+    {
+      "videoId": "xG8TuL-nzVM",
+      "title": "🔴Liên Quân Mobile - Defeat Tại (.)",
+      "title_original": "🔴Liên Quân Mobile - Defeat Tại (.)",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-28T05:56:25Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/xG8TuL-nzVM/maxresdefault.jpg"
+    },
+    {
+      "videoId": "a-dslIAxsRg",
+      "title": "🔴Liên Quân Mobile - Defeat Tại ''...''",
+      "title_original": "🔴Liên Quân Mobile - Defeat Tại ''...''",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-28T05:54:06Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/a-dslIAxsRg/maxresdefault.jpg"
+    },
+    {
+      "videoId": "lidj1D18JrM",
+      "title": "LAI BÂNG LIVE 🔴 TRỰC TIẾP: CỔ VŨ   SGP+FPL  APL 2026 (NGÀY 28/06)",
+      "title_original": "LAI BÂNG LIVE 🔴 TRỰC TIẾP: CỔ VŨ   SGP+FPL  APL 2026 (NGÀY 28/06)",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-28T05:45:55Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/lidj1D18JrM/maxresdefault.jpg"
+    },
+    {
       "videoId": "VszT9ojycBs",
       "title": "🔴 TRỰC TIẾP: ANK GAMING vs CATHAY ONE TEAM | SWISS STAGE - APL 2026 (NGÀY 28/06)",
       "title_original": "🔴 TRỰC TIẾP: ANK GAMING vs CATHAY ONE TEAM | SWISS STAGE - APL 2026 (NGÀY 28/06)",
@@ -428,17 +472,6 @@
       "source": "youtube",
       "publishedAt": "2026-06-26T12:07:02Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/qsxvmBQLCUM/maxresdefault.jpg"
-    },
-    {
-      "videoId": "fSQ81zwpxIA",
-      "title": "【傳說新造型】伊格「誰與爭鋒」| 造型展示影片《Garena 傳說對決》",
-      "title_original": "【傳說新造型】伊格「誰與爭鋒」| 造型展示影片《Garena 傳說對決》",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-06-26T11:57:07Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/fSQ81zwpxIA/maxresdefault.jpg"
     },
     {
       "videoId": "gN0cr0EI5fE",
@@ -2166,39 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-06-19T11:46:19Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/EXBIcK6wB1g/maxresdefault.jpg"
-    },
-    {
-      "videoId": "kqfh-MYg07Y",
-      "title": "ANK GAMING - CỖ MÁY GIAO TRANH CỦA GCS | BIẾT ĐỊCH BIẾT TA #4 | APL 2026",
-      "title_original": "ANK GAMING - CỖ MÁY GIAO TRANH CỦA GCS | BIẾT ĐỊCH BIẾT TA #4 | APL 2026",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-06-19T11:19:22Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/kqfh-MYg07Y/maxresdefault.jpg"
-    },
-    {
-      "videoId": "lt1Cg_2XgPI",
-      "title": "BỐP BỐP VÀ GIÁO ÁN ELSU ĐI RỪNG CỰC BÁ ĐẠO",
-      "title_original": "BỐP BỐP VÀ GIÁO ÁN ELSU ĐI RỪNG CỰC BÁ ĐẠO",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-06-19T10:30:14Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/lt1Cg_2XgPI/maxresdefault.jpg"
-    },
-    {
-      "videoId": "4DwOjYBLNko",
-      "title": "SKIN Spotlight | Perfect Holiday Goverra",
-      "title_original": "SKIN Spotlight | Perfect Holiday Goverra",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-06-19T10:00:16Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/4DwOjYBLNko/maxresdefault.jpg"
     }
   ]
 }

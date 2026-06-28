@@ -1353,13 +1353,12 @@
         "Mina"
       ],
       "tier": "A",
-      "tier_reason": "Xuất hiện 2 lần trong video/tin tức 14 ngày qua (Score: 2)",
+      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 1)",
       "hot": false,
       "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/0/06/Elsu_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125051727",
       "related_videos": [
-        "7PevTidk2vc",
-        "lt1Cg_2XgPI"
+        "7PevTidk2vc"
       ]
     },
     {
@@ -4920,5 +4919,5 @@
       ]
     }
   ],
-  "updated_at": "2026-06-28T05:43:33Z"
+  "updated_at": "2026-06-28T07:37:46Z"
 }
