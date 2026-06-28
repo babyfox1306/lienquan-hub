@@ -884,7 +884,7 @@
       "tier": "A",
       "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 1)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/3/3b/Alice_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125083007",
       "related_videos": [
         "zTxI1HqVDJY"
@@ -1126,8 +1126,7 @@
         "plRoSVYwKe0",
         "7dvmt7HyGc0",
         "aC52AXsAceQ",
-        "Ny06e_A6-hk",
-        "3-Re1Jn4kDw"
+        "Ny06e_A6-hk"
       ]
     },
     {
@@ -2004,14 +2003,12 @@
         "Alice",
         "Krixi"
       ],
-      "tier": "A",
-      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 1)",
+      "tier": "B",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/5/59/Zill_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125053417",
-      "related_videos": [
-        "cvaJhSPfm1Q"
-      ]
+      "related_videos": []
     },
     {
       "id": "natalya",
@@ -4924,5 +4921,5 @@
       ]
     }
   ],
-  "updated_at": "2026-06-28T01:16:11Z"
+  "updated_at": "2026-06-28T03:23:48Z"
 }
