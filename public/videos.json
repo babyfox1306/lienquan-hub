@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "alKbhfxnokg",
+      "title": "ONE STAR ESPORTS VS WANIN FLASH WOLVES | SWISS STAGE APL 2026 | NGÀY 27/06",
+      "title_original": "ONE STAR ESPORTS VS WANIN FLASH WOLVES | SWISS STAGE APL 2026 | NGÀY 27/06",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-28T01:00:12Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/alKbhfxnokg/maxresdefault.jpg"
+    },
+    {
       "videoId": "NkY5d3MP8pI",
       "title": "🔴Liên Quân Mobile - Defeat Tại ''...''",
       "title_original": "🔴Liên Quân Mobile - Defeat Tại ''...''",
@@ -2188,17 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-06-19T04:00:18Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/3-Re1Jn4kDw/maxresdefault.jpg"
-    },
-    {
-      "videoId": "ZhK_ATynA3A",
-      "title": "\"VALOR RISES\" - UPRIZE (prod. by Đào Tử A1J, Diiton) | BÀI HÁT CHỦ ĐỀ APL 2026",
-      "title_original": "\"VALOR RISES\" - UPRIZE (prod. by Đào Tử A1J, Diiton) | BÀI HÁT CHỦ ĐỀ APL 2026",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-06-19T04:00:06Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/ZhK_ATynA3A/maxresdefault.jpg"
     }
   ]
 }
