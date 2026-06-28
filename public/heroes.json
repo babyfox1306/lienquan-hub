@@ -787,12 +787,13 @@
         "Violet",
         "Krixi"
       ],
-      "tier": "A",
-      "tier_reason": "Được gán từ dữ liệu hạt giống (Seed A-Tier) do ít video mới (Hot Count: 1)",
+      "tier": "B",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 0)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 2,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/7/7c/Toro_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125082122",
       "related_videos": [
+        "WNB9-KEtqMU",
         "Y3aTpx3YGCI"
       ]
     },
@@ -4921,5 +4922,5 @@
       ]
     }
   ],
-  "updated_at": "2026-06-28T15:38:34Z"
+  "updated_at": "2026-06-28T16:38:07Z"
 }
