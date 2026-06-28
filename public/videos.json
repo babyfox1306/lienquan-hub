@@ -1,6 +1,39 @@
 {
   "videos": [
     {
+      "videoId": "iO_PdxxcLzI",
+      "title": "🔴Liên Quân Mobile - Defeat Tại (...)",
+      "title_original": "🔴Liên Quân Mobile - Defeat Tại (...)",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-28T14:02:24Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/iO_PdxxcLzI/maxresdefault.jpg"
+    },
+    {
+      "videoId": "AUv0Udvz3ak",
+      "title": "Thạc Sĩ Cũng Phải Săn Cup Vinh Quang Thôi",
+      "title_original": "Thạc Sĩ Cũng Phải Săn Cup Vinh Quang Thôi",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-28T13:06:35Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/AUv0Udvz3ak/maxresdefault.jpg"
+    },
+    {
+      "videoId": "fjqFX-P-35c",
+      "title": "🔴𝐋𝐈𝐕𝐄 การแข่งขัน RoV Thailand Esports Premier League (TEPL) 2026 | Week 1 Day 2",
+      "title_original": "🔴𝐋𝐈𝐕𝐄 การแข่งขัน RoV Thailand Esports Premier League (TEPL) 2026 | Week 1 Day 2",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-28T12:50:36Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/fjqFX-P-35c/maxresdefault.jpg"
+    },
+    {
       "videoId": "QiRceX3fZPU",
       "title": "HIGHLIGHTS FPT FLASH VS SGP | SWISS STAGE - MATCH 1 | ROUND 1-2 | APL2026",
       "title_original": "HIGHLIGHTS FPT FLASH VS SGP | SWISS STAGE - MATCH 1 | ROUND 1-2 | APL2026",
@@ -178,8 +211,8 @@
     },
     {
       "videoId": "JtKToO7Loqg",
-      "title": "🔴 LIVE:FW  🆚 FPL |APL 2026 瑞士輪W2D5-2026/06/28《Garena傳說對決》",
-      "title_original": "🔴 LIVE:FW  🆚 FPL |APL 2026 瑞士輪W2D5-2026/06/28《Garena傳說對決》",
+      "title": "🔴 LIVE:SGP  🆚  BMG |APL 2026 瑞士輪W2D5-2026/06/28《Garena傳說對決》",
+      "title_original": "🔴 LIVE:SGP  🆚  BMG |APL 2026 瑞士輪W2D5-2026/06/28《Garena傳說對決》",
       "translated": false,
       "country": "VN",
       "lang_original": "vi",
@@ -318,17 +351,6 @@
       "source": "youtube",
       "publishedAt": "2026-06-27T16:28:53Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/F7_CNpZtGvQ/maxresdefault.jpg"
-    },
-    {
-      "videoId": "fjqFX-P-35c",
-      "title": "🔴𝐋𝐈𝐕𝐄 การแข่งขัน RoV Thailand Esports Premier League (TEPL) 2026 | Week 1 Day 2",
-      "title_original": "🔴𝐋𝐈𝐕𝐄 การแข่งขัน RoV Thailand Esports Premier League (TEPL) 2026 | Week 1 Day 2",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-06-27T14:52:51Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/fjqFX-P-35c/maxresdefault.jpg"
     },
     {
       "videoId": "EHfaX-j1kWY",
@@ -2177,28 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-06-20T02:00:05Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/kfh80BBjmvA/maxresdefault.jpg"
-    },
-    {
-      "videoId": "Hbxmm1zXhdc",
-      "title": "Full Highlight DCG vs KOG - Swiss Stage APL 2026 | BLV HẢI PHONG",
-      "title_original": "Full Highlight DCG vs KOG - Swiss Stage APL 2026 | BLV HẢI PHONG",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-06-20T01:30:29Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/Hbxmm1zXhdc/maxresdefault.jpg"
-    },
-    {
-      "videoId": "rtv7naK0H8I",
-      "title": "RELOVE DEEP CROSS GAMING VS KING OF GAMERS CLUB | SWISS STAGE APL 2026 | NGÀY 19/06",
-      "title_original": "RELOVE DEEP CROSS GAMING VS KING OF GAMERS CLUB | SWISS STAGE APL 2026 | NGÀY 19/06",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-06-20T01:30:17Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/rtv7naK0H8I/maxresdefault.jpg"
     }
   ]
 }
