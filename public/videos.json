@@ -1,6 +1,28 @@
 {
   "videos": [
     {
+      "videoId": "3qd3K5ppUGk",
+      "title": "ANK GAMING VS CATHAY ONE TEAM | SWISS STAGE APL 2026 | NGÀY 28/06",
+      "title_original": "ANK GAMING VS CATHAY ONE TEAM | SWISS STAGE APL 2026 | NGÀY 28/06",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-29T01:00:32Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/3qd3K5ppUGk/maxresdefault.jpg"
+    },
+    {
+      "videoId": "v10-fIfORcA",
+      "title": "Full Highlight FPL vs FW - Swiss Stage APL 2026 | BLV HẢI PHONG",
+      "title_original": "Full Highlight FPL vs FW - Swiss Stage APL 2026 | BLV HẢI PHONG",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-29T01:00:32Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/v10-fIfORcA/maxresdefault.jpg"
+    },
+    {
       "videoId": "a-dslIAxsRg",
       "title": "Buổi stream vừa rồi buộc phải xóa nha anh em (khứa slot nói từ cấm)",
       "title_original": "Buổi stream vừa rồi buộc phải xóa nha anh em (khứa slot nói từ cấm)",
@@ -2177,28 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-06-20T03:00:24Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/lh0NS_PD61k/maxresdefault.jpg"
-    },
-    {
-      "videoId": "301uc9xWChE",
-      "title": "Full Highlight GAM vs BAC - Swiss Stage APL 2026 | BLV HẢI PHONG",
-      "title_original": "Full Highlight GAM vs BAC - Swiss Stage APL 2026 | BLV HẢI PHONG",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-06-20T02:30:07Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/301uc9xWChE/maxresdefault.jpg"
-    },
-    {
-      "videoId": "QMb8gc1vhyw",
-      "title": "BACON TIME VS GAM ESPORTS | SWISS STAGE APL 2026 | NGÀY 19/06",
-      "title_original": "BACON TIME VS GAM ESPORTS | SWISS STAGE APL 2026 | NGÀY 19/06",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-06-20T02:30:07Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/QMb8gc1vhyw/maxresdefault.jpg"
     }
   ]
 }
