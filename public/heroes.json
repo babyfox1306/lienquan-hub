@@ -1261,11 +1261,12 @@
         "Nakroth"
       ],
       "tier": "A",
-      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 1)",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 1)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 2,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/d/d4/Liliana_Default.jpg/revision/latest/scale-to-width-down/500?cb=20180331134150",
       "related_videos": [
+        "TcaA3rY1SUE",
         "ABiKd511JC8"
       ]
     },
@@ -4918,5 +4919,5 @@
       ]
     }
   ],
-  "updated_at": "2026-06-30T05:36:28Z"
+  "updated_at": "2026-06-30T07:36:00Z"
 }
