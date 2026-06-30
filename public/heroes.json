@@ -4873,7 +4873,7 @@
       "tier": "B",
       "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/7/75/Zanis_profile.png/revision/latest/scale-to-width-down/500?cb=20170525133445",
       "related_videos": [
         "fuPMzufrUBA"
@@ -4923,5 +4923,5 @@
       ]
     }
   ],
-  "updated_at": "2026-06-30T15:05:57Z"
+  "updated_at": "2026-06-30T16:53:59Z"
 }
