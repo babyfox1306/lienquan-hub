@@ -4710,7 +4710,7 @@
       "tier": "B",
       "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/a/aa/Wonder_Woman_Bombshell.png/revision/latest/scale-to-width-down/500?cb=20180307141119",
       "related_videos": [
         "fQjW569VKzo"
@@ -4918,5 +4918,5 @@
       ]
     }
   ],
-  "updated_at": "2026-06-30T01:11:46Z"
+  "updated_at": "2026-06-30T03:22:44Z"
 }

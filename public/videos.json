@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "YVZAI2CVd2s",
+      "title": "TOP 5 Tướng Xạ Thủ Sốc DMG, Liệt Nút Bắn Tay Vẫn Siêu Áp Lực, TNG",
+      "title_original": "TOP 5 Tướng Xạ Thủ Sốc DMG, Liệt Nút Bắn Tay Vẫn Siêu Áp Lực, TNG",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-30T03:00:09Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/YVZAI2CVd2s/maxresdefault.jpg"
+    },
+    {
       "videoId": "fwFlH9hv74s",
       "title": "Mưa Nên Nghỉ Ship",
       "title_original": "Mưa Nên Nghỉ Ship",
@@ -2188,17 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-06-21T01:00:27Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/W4TvLRD1518/maxresdefault.jpg"
-    },
-    {
-      "videoId": "58qFr5cmjZU",
-      "title": "APL 2026 | SWISS STAGE FPT - ANK",
-      "title_original": "APL 2026 | SWISS STAGE FPT - ANK",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-06-21T00:12:43Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/58qFr5cmjZU/maxresdefault.jpg"
     }
   ]
 }
