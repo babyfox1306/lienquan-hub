@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "3JrxId6vots",
+      "title": "40 Sao Nữa Chiến Thần !",
+      "title_original": "40 Sao Nữa Chiến Thần !",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-30T12:57:57Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/3JrxId6vots/maxresdefault.jpg"
+    },
+    {
       "videoId": "qrrp95QfN4g",
       "title": "🔴Vài tiếng nữa là 1/7/2026 !",
       "title_original": "🔴Vài tiếng nữa là 1/7/2026 !",
@@ -2188,17 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-06-21T04:00:25Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/rnUOzfkjt10/maxresdefault.jpg"
-    },
-    {
-      "videoId": "Z6h9OLSDq28",
-      "title": "TOP 5 Tướng Đường Giữa Mạnh Giúp Bạn Chạy KPI Cuối Mùa, Meta Sau Dự Vẫn Ngon!",
-      "title_original": "TOP 5 Tướng Đường Giữa Mạnh Giúp Bạn Chạy KPI Cuối Mùa, Meta Sau Dự Vẫn Ngon!",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-06-21T03:00:09Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/Z6h9OLSDq28/maxresdefault.jpg"
     }
   ]
 }
