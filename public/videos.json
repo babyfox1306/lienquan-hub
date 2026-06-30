@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "3JrxId6vots",
+      "title": "40 Sao Nữa Chiến Thần !",
+      "title_original": "40 Sao Nữa Chiến Thần !",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-06-30T17:18:25Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/3JrxId6vots/maxresdefault.jpg"
+    },
+    {
       "videoId": "Aee-WYl0nCM",
       "title": "🔥 DUY NHẤT TỐI NAY: HỘI NGỘ LEO RANK CỰC CHÁY CÙNG ANH BẰNG🔥",
       "title_original": "🔥 DUY NHẤT TỐI NAY: HỘI NGỘ LEO RANK CỰC CHÁY CÙNG ANH BẰNG🔥",
@@ -10,17 +21,6 @@
       "source": "youtube",
       "publishedAt": "2026-06-30T15:06:03Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/Aee-WYl0nCM/maxresdefault.jpg"
-    },
-    {
-      "videoId": "3JrxId6vots",
-      "title": "40 Sao Nữa Chiến Thần !",
-      "title_original": "40 Sao Nữa Chiến Thần !",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-06-30T12:57:57Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/3JrxId6vots/maxresdefault.jpg"
     },
     {
       "videoId": "qrrp95QfN4g",
