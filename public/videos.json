@@ -1,6 +1,39 @@
 {
   "videos": [
     {
+      "videoId": "fhuI3WpoiFc",
+      "title": "DAY 1  APL 2026 QUEEN SHOWDOWN Cổ Vũ SGP và 1S | Hải Phong CO-STREAM 01.07.26",
+      "title_original": "DAY 1  APL 2026 QUEEN SHOWDOWN Cổ Vũ SGP và 1S | Hải Phong CO-STREAM 01.07.26",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-07-01T16:11:05Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/fhuI3WpoiFc/maxresdefault.jpg"
+    },
+    {
+      "videoId": "2jfzON-3Z2I",
+      "title": "🔴 TRỰC TIẾP: ANK GAMING vs ONE STAR ESPORTS | GROUP STAGE - QUEENS SHOWDOWN 2026 (NGÀY 01/07)",
+      "title_original": "🔴 TRỰC TIẾP: ANK GAMING vs ONE STAR ESPORTS | GROUP STAGE - QUEENS SHOWDOWN 2026 (NGÀY 01/07)",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-07-01T16:03:47Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/2jfzON-3Z2I/maxresdefault.jpg"
+    },
+    {
+      "videoId": "ToFsAwQOqYw",
+      "title": "🔴 TRỰC TIẾP: ANK GAMING vs ONE STAR ESPORTS | GROUP STAGE - QUEENS SHOWDOWN 2026 (NGÀY 01/07)",
+      "title_original": "🔴 TRỰC TIẾP: ANK GAMING vs ONE STAR ESPORTS | GROUP STAGE - QUEENS SHOWDOWN 2026 (NGÀY 01/07)",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-07-01T15:58:04Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/ToFsAwQOqYw/maxresdefault.jpg"
+    },
+    {
       "videoId": "WpLwdQCPgPA",
       "title": "【策劃面對面】冥定王牌版本幕後直擊!《Garena 傳說對決》",
       "title_original": "【策劃面對面】冥定王牌版本幕後直擊!《Garena 傳說對決》",
@@ -109,28 +142,6 @@
       "source": "youtube",
       "publishedAt": "2026-07-01T04:44:14Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/pRsyjes4o5E/maxresdefault.jpg"
-    },
-    {
-      "videoId": "2jfzON-3Z2I",
-      "title": "🔴 TRỰC TIẾP: ANK GAMING vs ONE STAR ESPORTS | GROUP STAGE - QUEENS SHOWDOWN 2026 (NGÀY 01/07)",
-      "title_original": "🔴 TRỰC TIẾP: ANK GAMING vs ONE STAR ESPORTS | GROUP STAGE - QUEENS SHOWDOWN 2026 (NGÀY 01/07)",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-01T04:13:29Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/2jfzON-3Z2I/maxresdefault.jpg"
-    },
-    {
-      "videoId": "ToFsAwQOqYw",
-      "title": "🔴 TRỰC TIẾP: ANK GAMING vs ONE STAR ESPORTS | GROUP STAGE - QUEENS SHOWDOWN 2026 (NGÀY 01/07)",
-      "title_original": "🔴 TRỰC TIẾP: ANK GAMING vs ONE STAR ESPORTS | GROUP STAGE - QUEENS SHOWDOWN 2026 (NGÀY 01/07)",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-01T04:00:35Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/ToFsAwQOqYw/maxresdefault.jpg"
     },
     {
       "videoId": "QQKKDyt_VLY",
@@ -617,17 +628,6 @@
       "thumbnailUrl": "https://i.ytimg.com/vi/M0O6S4Av-BI/maxresdefault.jpg"
     },
     {
-      "videoId": "fhuI3WpoiFc",
-      "title": "Cổ Vũ SGP và FPL APL 2026 | Hải Phong CO-STREAM 28.06.26",
-      "title_original": "Cổ Vũ SGP và FPL APL 2026 | Hải Phong CO-STREAM 28.06.26",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-06-28T15:38:02Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/fhuI3WpoiFc/maxresdefault.jpg"
-    },
-    {
       "videoId": "iO_PdxxcLzI",
       "title": "🔴Liên Quân Mobile - Defeat Tại (...)",
       "title_original": "🔴Liên Quân Mobile - Defeat Tại (...)",
@@ -937,8 +937,8 @@
     },
     {
       "videoId": "F7_CNpZtGvQ",
-      "title": "GAM vs BMG APL 2026 | Hải Phong CO-STREAM 27.06.26",
-      "title_original": "GAM vs BMG APL 2026 | Hải Phong CO-STREAM 27.06.26",
+      "title": "1S vs FW | FPL vs KOG | GAM vs BMG APL 2026 | Hải Phong CO-STREAM 27.06.26",
+      "title_original": "1S vs FW | FPL vs KOG | GAM vs BMG APL 2026 | Hải Phong CO-STREAM 27.06.26",
       "translated": false,
       "country": "VN",
       "lang_original": "vi",
