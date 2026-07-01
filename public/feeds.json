@@ -76,6 +76,11 @@
       "type": "channel"
     },
     {
+      "id": "UCWXXFvwmcOHxEk6IlhW1BhA",
+      "name": "Phuc Ram",
+      "type": "channel"
+    },
+    {
       "id": "UCF-Vl0DkKpgrenyqSb1LSXw",
       "name": "Kary Florentino",
       "type": "channel"
@@ -93,11 +98,6 @@
     {
       "id": "UCYfv7UcC1KOsvMD3BVVwoLg",
       "name": "Esports - Garena Liên Quân Mobile",
-      "type": "channel"
-    },
-    {
-      "id": "UC-r1vXyPiJSo2r29U3PgoNg",
-      "name": "HẢI PHONG - HỎNG FILE",
       "type": "channel"
     }
   ],
