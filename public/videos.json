@@ -1,6 +1,28 @@
 {
   "videos": [
     {
+      "videoId": "T5vatXwmVUs",
+      "title": "22 Sao Nữa Chiến Thần !",
+      "title_original": "22 Sao Nữa Chiến Thần !",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-07-02T17:49:19Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/T5vatXwmVUs/maxresdefault.jpg"
+    },
+    {
+      "videoId": "Tg4lZDqnBRE",
+      "title": "EA VS MAZ | SGP VS ANK | DCG VS MAZ | 1S VS EA | ANK VS DCG | VB - QUEENS SHOWDOWN 2026 (NGÀY 02/07)",
+      "title_original": "EA VS MAZ | SGP VS ANK | DCG VS MAZ | 1S VS EA | ANK VS DCG | VB - QUEENS SHOWDOWN 2026 (NGÀY 02/07)",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-07-02T16:08:14Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/Tg4lZDqnBRE/maxresdefault.jpg"
+    },
+    {
       "videoId": "9h8TtTFwFa8",
       "title": "APL 2026 女子賽循環賽D2 -2026/07/02《Garena傳說對決》",
       "title_original": "APL 2026 女子賽循環賽D2 -2026/07/02《Garena傳說對決》",
@@ -197,17 +219,6 @@
       "source": "youtube",
       "publishedAt": "2026-07-02T04:25:22Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/JVbxOpIVGz0/maxresdefault.jpg"
-    },
-    {
-      "videoId": "Tg4lZDqnBRE",
-      "title": "🔴 TRỰC TIẾP: ANK GAMING vs RELOVE DEEP CROSS GAMING | GROUP STAGE - QUEENS SHOWDOWN 2026(NGÀY 02/07)",
-      "title_original": "🔴 TRỰC TIẾP: ANK GAMING vs RELOVE DEEP CROSS GAMING | GROUP STAGE - QUEENS SHOWDOWN 2026(NGÀY 02/07)",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-02T04:21:30Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/Tg4lZDqnBRE/maxresdefault.jpg"
     },
     {
       "videoId": "yxPZ8DiGkM0",
@@ -2188,17 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-06-24T04:30:18Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/y0tlqpNLb4M/maxresdefault.jpg"
-    },
-    {
-      "videoId": "OxEJuw104J4",
-      "title": "🔵 HIỆU ỨNG CHIÊU THỨC: IGGY \"ĐẠI CHIẾN BÙNG NỔ\" | SSM 91 - APL 2026",
-      "title_original": "🔵 HIỆU ỨNG CHIÊU THỨC: IGGY \"ĐẠI CHIẾN BÙNG NỔ\" | SSM 91 - APL 2026",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-06-24T03:30:30Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/OxEJuw104J4/maxresdefault.jpg"
     }
   ]
 }
