@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "4mEeWJucJD8",
+      "title": "Rank Thách Đấu",
+      "title_original": "Rank Thách Đấu",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-07-02T18:56:41Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/4mEeWJucJD8/maxresdefault.jpg"
+    },
+    {
       "videoId": "T5vatXwmVUs",
       "title": "22 Sao Nữa Chiến Thần !",
       "title_original": "22 Sao Nữa Chiến Thần !",
@@ -76,17 +87,6 @@
       "source": "youtube",
       "publishedAt": "2026-07-02T14:08:40Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/k3M45M7Ff1c/maxresdefault.jpg"
-    },
-    {
-      "videoId": "4mEeWJucJD8",
-      "title": "Rank Thách Đấu",
-      "title_original": "Rank Thách Đấu",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-02T13:36:36Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/4mEeWJucJD8/maxresdefault.jpg"
     },
     {
       "videoId": "-T_R4E5-oXs",
