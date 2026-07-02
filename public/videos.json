@@ -1,6 +1,28 @@
 {
   "videos": [
     {
+      "videoId": "I27uu4djKxM",
+      "title": "🩵PHIM KỸ XẢO | NHẬT KÝ TÌNH YÊU 💗",
+      "title_original": "🩵PHIM KỸ XẢO | NHẬT KÝ TÌNH YÊU 💗",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-07-02T12:00:38Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/I27uu4djKxM/maxresdefault.jpg"
+    },
+    {
+      "videoId": "6rtAqlXFPeY",
+      "title": "【APL訪談】來聽聽 ONE 成員們的真心話,失敗不是結束調整好心態重新出發🌟《Garena 傳說對決》",
+      "title_original": "【APL訪談】來聽聽 ONE 成員們的真心話,失敗不是結束調整好心態重新出發🌟《Garena 傳說對決》",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-07-02T11:00:27Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/6rtAqlXFPeY/maxresdefault.jpg"
+    },
+    {
       "videoId": "QkzeDgimiEg",
       "title": "NẾU BỐP BỐP SỞ HỮU SIÊU TỐC ĐỘ",
       "title_original": "NẾU BỐP BỐP SỞ HỮU SIÊU TỐC ĐỘ",
@@ -112,8 +134,8 @@
     },
     {
       "videoId": "Tg4lZDqnBRE",
-      "title": "🔴 TRỰC TIẾP: RELOVE DEEP CROSS GAMING vs TEAM MAZZ | GROUP STAGE - QUEENS SHOWDOWN 2026 (NGÀY 02/07)",
-      "title_original": "🔴 TRỰC TIẾP: RELOVE DEEP CROSS GAMING vs TEAM MAZZ | GROUP STAGE - QUEENS SHOWDOWN 2026 (NGÀY 02/07)",
+      "title": "🔴 TRỰC TIẾP: ONE STAR ESPORTS vs EARENA | GROUP STAGE - QUEENS SHOWDOWN 2026 (NGÀY 02/07)",
+      "title_original": "🔴 TRỰC TIẾP: ONE STAR ESPORTS vs EARENA | GROUP STAGE - QUEENS SHOWDOWN 2026 (NGÀY 02/07)",
       "translated": false,
       "country": "VN",
       "lang_original": "vi",
@@ -123,8 +145,8 @@
     },
     {
       "videoId": "ie87njygQ6I",
-      "title": "🔴 TRỰC TIẾP: RELOVE DEEP CROSS GAMING vs TEAM MAZZ | GROUP STAGE - QUEENS SHOWDOWN 2026 (NGÀY 02/07)",
-      "title_original": "🔴 TRỰC TIẾP: RELOVE DEEP CROSS GAMING vs TEAM MAZZ | GROUP STAGE - QUEENS SHOWDOWN 2026 (NGÀY 02/07)",
+      "title": "🔴 TRỰC TIẾP: ONE STAR ESPORTS vs EARENA | GROUP STAGE - QUEENS SHOWDOWN 2026 (NGÀY 02/07)",
+      "title_original": "🔴 TRỰC TIẾP: ONE STAR ESPORTS vs EARENA | GROUP STAGE - QUEENS SHOWDOWN 2026 (NGÀY 02/07)",
       "translated": false,
       "country": "VN",
       "lang_original": "vi",
@@ -167,8 +189,8 @@
     },
     {
       "videoId": "9h8TtTFwFa8",
-      "title": "🔴 LIVE:DCG 🆚 MAZ| APL 2026 女子賽循環賽D2 -2026/07/02《Garena傳說對決》",
-      "title_original": "🔴 LIVE:DCG 🆚 MAZ| APL 2026 女子賽循環賽D2 -2026/07/02《Garena傳說對決》",
+      "title": "🔴 LIVE:1S 🆚 EA| APL 2026 女子賽循環賽D2 -2026/07/02《Garena傳說對決》",
+      "title_original": "🔴 LIVE:1S 🆚 EA| APL 2026 女子賽循環賽D2 -2026/07/02《Garena傳說對決》",
       "translated": false,
       "country": "VN",
       "lang_original": "vi",
@@ -2177,28 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-06-24T03:00:30Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/7PevTidk2vc/maxresdefault.jpg"
-    },
-    {
-      "videoId": "8nBydJwyfdE",
-      "title": "Kinh Hoàng Trận Đấu Bị Ám Bởi Zephys: Kẻ Địch Hoảng Loạn Bỏ Chạy Khi Thấy Bóng Tử Thần Lướt Qua",
-      "title_original": "Kinh Hoàng Trận Đấu Bị Ám Bởi Zephys: Kẻ Địch Hoảng Loạn Bỏ Chạy Khi Thấy Bóng Tử Thần Lướt Qua",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-06-24T02:02:06Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/8nBydJwyfdE/maxresdefault.jpg"
-    },
-    {
-      "videoId": "vjOqCbv8uRg",
-      "title": "🔴THẤT NGHIỆP GAMING...",
-      "title_original": "🔴THẤT NGHIỆP GAMING...",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-06-23T17:45:20Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/vjOqCbv8uRg/maxresdefault.jpg"
     }
   ]
 }
