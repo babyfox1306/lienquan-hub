@@ -94,8 +94,7 @@
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/5/5e/Murad_Outlaw.png/revision/latest/scale-to-width-down/500?cb=20180317082415",
       "related_videos": [
         "taJf24O9wpA",
-        "zG9V_SC3tpY",
-        "nB1JIKraRoM"
+        "zG9V_SC3tpY"
       ]
     },
     {
@@ -976,9 +975,9 @@
         "Alice"
       ],
       "tier": "S",
-      "tier_reason": "Được gán từ dữ liệu hạt giống (Seed S-Tier) do ít video mới (Hot Count: 1)",
+      "tier_reason": "Được gán từ dữ liệu hạt giống (Seed S-Tier) do ít video mới (Hot Count: 0)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/a/ab/Volkath_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20200531224601",
       "related_videos": [
         "TYckqr3vK7s"
@@ -4715,13 +4714,11 @@
       "counters": [],
       "synergies": [],
       "tier": "B",
-      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/a/aa/Wonder_Woman_Bombshell.png/revision/latest/scale-to-width-down/500?cb=20180307141119",
-      "related_videos": [
-        "fQjW569VKzo"
-      ]
+      "related_videos": []
     },
     {
       "id": "yan",
@@ -4927,5 +4924,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T03:20:59Z"
+  "updated_at": "2026-07-02T07:42:19Z"
 }
