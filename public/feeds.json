@@ -31,11 +31,6 @@
       "type": "channel"
     },
     {
-      "id": "UCen3q9LMBtFHYU3Us7aKD3w",
-      "name": "Anhhao",
-      "type": "channel"
-    },
-    {
       "id": "UCIzzawIg4eCPgZggwFzEQbQ",
       "name": "Garena Liên Quân Mobile",
       "type": "channel"
@@ -81,11 +76,6 @@
       "type": "channel"
     },
     {
-      "id": "UCWXXFvwmcOHxEk6IlhW1BhA",
-      "name": "Phuc Ram",
-      "type": "channel"
-    },
-    {
       "id": "UCF-Vl0DkKpgrenyqSb1LSXw",
       "name": "Kary Florentino",
       "type": "channel"
@@ -98,6 +88,16 @@
     {
       "id": "UCdSGpiTIGwzlQQ9VP1IJXgg",
       "name": "Bốp Bốp Top1 Liên Quân",
+      "type": "channel"
+    },
+    {
+      "id": "UCYfv7UcC1KOsvMD3BVVwoLg",
+      "name": "Esports - Garena Liên Quân Mobile",
+      "type": "channel"
+    },
+    {
+      "id": "UC-r1vXyPiJSo2r29U3PgoNg",
+      "name": "HẢI PHONG - HỎNG FILE",
       "type": "channel"
     }
   ],

@@ -1119,13 +1119,11 @@
         "Alice"
       ],
       "tier": "B",
-      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/2/2c/Tulen_Splash.jpeg/revision/latest/scale-to-width-down/500?cb=20180102103714",
-      "related_videos": [
-        "plRoSVYwKe0"
-      ]
+      "related_videos": []
     },
     {
       "id": "ignis",
@@ -1356,14 +1354,12 @@
         "Gildur",
         "Mina"
       ],
-      "tier": "A",
-      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 1)",
+      "tier": "B",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/0/06/Elsu_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125051727",
-      "related_videos": [
-        "7PevTidk2vc"
-      ]
+      "related_videos": []
     },
     {
       "id": "valhein",
@@ -3507,8 +3503,7 @@
       "related_videos": [
         "Yy9NZ3ai-yA",
         "MZFFQ_L0ZaQ",
-        "OxEJuw104J4",
-        "Q0PouiF9tOc"
+        "OxEJuw104J4"
       ]
     },
     {
@@ -4923,5 +4918,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-02T13:06:26Z"
+  "updated_at": "2026-07-02T16:12:29Z"
 }
