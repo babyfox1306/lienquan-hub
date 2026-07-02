@@ -1119,13 +1119,12 @@
         "Alice"
       ],
       "tier": "B",
-      "tier_reason": "Xuất hiện 2 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/2/2c/Tulen_Splash.jpeg/revision/latest/scale-to-width-down/500?cb=20180102103714",
       "related_videos": [
-        "plRoSVYwKe0",
-        "7dvmt7HyGc0"
+        "plRoSVYwKe0"
       ]
     },
     {
@@ -4322,11 +4321,13 @@
       "counters": [],
       "synergies": [],
       "tier": "B",
-      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
-      "hot_count": 0,
+      "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/e/e8/Skud_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125053755",
-      "related_videos": []
+      "related_videos": [
+        "-4nGyug4wtk"
+      ]
     },
     {
       "id": "slimz",
@@ -4926,5 +4927,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-01T23:40:30Z"
+  "updated_at": "2026-07-02T01:12:18Z"
 }
