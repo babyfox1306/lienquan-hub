@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "F-ZIOzDtbeM",
+      "title": "EARENA VS TEAM MAZZ | GROUP STAGE APL QUEENS SHOWDOWN 2026 | NGÀY 02/07",
+      "title_original": "EARENA VS TEAM MAZZ | GROUP STAGE APL QUEENS SHOWDOWN 2026 | NGÀY 02/07",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-07-03T00:00:14Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/F-ZIOzDtbeM/maxresdefault.jpg"
+    },
+    {
       "videoId": "4mEeWJucJD8",
       "title": "Rank Thách Đấu",
       "title_original": "Rank Thách Đấu",
@@ -2188,17 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-06-24T05:05:27Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/a9LWSojZCok/maxresdefault.jpg"
-    },
-    {
-      "videoId": "y0tlqpNLb4M",
-      "title": "🔴 HIỆU ỨNG CHIÊU THỨC: RAZ \"ĐẠI CHIẾN BÙNG NỔ\" | SSM 91 - APL 2026",
-      "title_original": "🔴 HIỆU ỨNG CHIÊU THỨC: RAZ \"ĐẠI CHIẾN BÙNG NỔ\" | SSM 91 - APL 2026",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-06-24T04:30:18Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/y0tlqpNLb4M/maxresdefault.jpg"
     }
   ]
 }
