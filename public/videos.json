@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "TjUw1iQnaKY",
+      "title": "🔴Liên quân thôi",
+      "title_original": "🔴Liên quân thôi",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-07-03T17:34:37Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/TjUw1iQnaKY/maxresdefault.jpg"
+    },
+    {
       "videoId": "k3M45M7Ff1c",
       "title": "🔴 LIVE:SGP 🆚 1S|APL 2026 女子賽循環賽D3 -2026/07/03《Garena傳說對決》",
       "title_original": "🔴 LIVE:SGP 🆚 1S|APL 2026 女子賽循環賽D3 -2026/07/03《Garena傳說對決》",
@@ -54,17 +65,6 @@
       "source": "youtube",
       "publishedAt": "2026-07-03T15:06:55Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/wNmNsD2CgsM/maxresdefault.jpg"
-    },
-    {
-      "videoId": "TjUw1iQnaKY",
-      "title": "🔴Liên quân thôi",
-      "title_original": "🔴Liên quân thôi",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-03T13:15:23Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/TjUw1iQnaKY/maxresdefault.jpg"
     },
     {
       "videoId": "oWD38N_Jk98",
