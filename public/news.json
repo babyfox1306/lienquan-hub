@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-07-03T11:41:51.718772",
+  "last_updated": "2026-07-03T14:26:11.916635",
   "total_news": 100,
   "news": [
+    {
+      "id": "a5d69d858961",
+      "title": "CHUỖI SỰ KIỆN OFFLINE CỘNG ĐỒNG NGÀY HỘI LIÊN QUÂN – CHƠI SAO CŨNG TRÚNG",
+      "link": "https://lienquan.garena.vn/chuoi-su-kien-offline-cong-dong-ngay-hoi-lien-quan-choi-sao-cung-trung/",
+      "summary": "<p>Xin chào các Kiện Tướng, Mùa hè này, Ngày Hội Liên Quân 2026 &#124; Chơi sao cũng trúng chính thức khởi động với Chuỗi sự kiện cộng đồng quy mô lớn diễn ra trên toàn [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/chuoi-su-kien-offline-cong-dong-ngay-hoi-lien-quan-choi-sao-cung-trung/\">CHUỖI SỰ KIỆN OFFLINE CỘNG ĐỒNG NGÀY HỘI LIÊN QUÂN &#8211; CHƠI SAO CŨNG TRÚNG</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2026/07/IMG-HOR-0860x0400-094747-artboard-2.png",
+      "source": "Liên Quân Mobile Official",
+      "source_url": "https://lienquan.garena.vn/rss",
+      "published_at": "2026-07-03T13:17:27Z",
+      "crawled_at": "2026-07-03T14:21:16.296321",
+      "category": "tướng",
+      "priority": 1
+    },
     {
       "id": "beabb0860537",
       "title": "ĐẠI CHIẾN SÂN CỎ – NHẬN ÍT NHẤT 200 QUÂN HUY HỮU HẠN",
@@ -1287,19 +1300,6 @@
       "published_at": "2025-12-30T08:13:12Z",
       "crawled_at": "2025-12-30T09:03:14.172436",
       "category": "tin tức",
-      "priority": 1
-    },
-    {
-      "id": "cea74eb65d31",
-      "title": "MỞ BÁN SỔ SỨ MỆNH 85",
-      "link": "https://lienquan.garena.vn/mo-ban-so-su-menh-85/",
-      "summary": "<p>Xin chào các Kiện Tướng Chào mừng đến với Sổ Sứ Mệnh mùa 85 &#8211; Đại chiến Pixel SỔ SỨ MỆNH MÙA 85 Các Kiện Tướng có hai lựa chọn tham gia Sổ Sứ Mệnh [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/mo-ban-so-su-menh-85/\">MỞ BÁN SỔ SỨ MỆNH 85</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
-      "image_url": null,
-      "source": "Liên Quân Mobile Official",
-      "source_url": "https://lienquan.garena.vn/rss",
-      "published_at": "2025-12-26T07:54:25Z",
-      "crawled_at": "2025-12-26T08:01:21.600616",
-      "category": "tướng",
       "priority": 1
     }
   ]
