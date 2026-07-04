@@ -1,9 +1,20 @@
 {
   "videos": [
     {
+      "videoId": "AdsQ_fnrQPI",
+      "title": "(MECCHA CHAMELEON #1) V Xu Nhng Ci Ti Cao - Bng Cng Anh Em SGP Chi Game Trn Tm",
+      "title_original": "(MECCHA CHAMELEON #1) V Xu Nhng Ci Ti Cao - Bng Cng Anh Em SGP Chi Game Trn Tm",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-07-04T08:57:31Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/AdsQ_fnrQPI/maxresdefault.jpg"
+    },
+    {
       "videoId": "TlgPbh6vcMc",
-      "title": "🔴 TRỰC TIẾP: BACON TIME vs ANK GAMING | QUARTER FINALS - APL 2026 (NGÀY 04/07)",
-      "title_original": "🔴 TRỰC TIẾP: BACON TIME vs ANK GAMING | QUARTER FINALS - APL 2026 (NGÀY 04/07)",
+      "title": "🔴 TRỰC TIẾP: BURIRAM UNITED ESPORTS vs FPT x FLASH | QUARTER FINALS - APL 2026 (NGÀY 04/07)",
+      "title_original": "🔴 TRỰC TIẾP: BURIRAM UNITED ESPORTS vs FPT x FLASH | QUARTER FINALS - APL 2026 (NGÀY 04/07)",
       "translated": false,
       "country": "VN",
       "lang_original": "vi",
@@ -13,8 +24,8 @@
     },
     {
       "videoId": "3GlmEjnZVJ4",
-      "title": "🔴 TRỰC TIẾP: BACON TIME vs ANK GAMING | QUARTER FINALS - APL 2026 (NGÀY 04/07)",
-      "title_original": "🔴 TRỰC TIẾP: BACON TIME vs ANK GAMING | QUARTER FINALS - APL 2026 (NGÀY 04/07)",
+      "title": "🔴 TRỰC TIẾP: BURIRAM UNITED ESPORTS vs FPT x FLASH | QUARTER FINALS - APL 2026 (NGÀY 04/07)",
+      "title_original": "🔴 TRỰC TIẾP: BURIRAM UNITED ESPORTS vs FPT x FLASH | QUARTER FINALS - APL 2026 (NGÀY 04/07)",
       "translated": false,
       "country": "VN",
       "lang_original": "vi",
@@ -145,8 +156,8 @@
     },
     {
       "videoId": "NvXYgCBR88E",
-      "title": "🔴𝐋𝐈𝐕𝐄 เชียร์ไทยด่วน! 🇹🇭 Bacon Time 1 🆚 1 ANK Gaming | การแข่งขัน RoV นานาชาติ APL 2026",
-      "title_original": "🔴𝐋𝐈𝐕𝐄 เชียร์ไทยด่วน! 🇹🇭 Bacon Time 1 🆚 1 ANK Gaming | การแข่งขัน RoV นานาชาติ APL 2026",
+      "title": "🔴𝐋𝐈𝐕𝐄 แชมป์ไทยชนเวียดนาม! 🇹🇭 Buriram United Esports 🆚 FPT x Flash | การแข่งขัน RoV นานาชาติ APL 2026",
+      "title_original": "🔴𝐋𝐈𝐕𝐄 แชมป์ไทยชนเวียดนาม! 🇹🇭 Buriram United Esports 🆚 FPT x Flash | การแข่งขัน RoV นานาชาติ APL 2026",
       "translated": false,
       "country": "VN",
       "lang_original": "vi",
@@ -255,8 +266,8 @@
     },
     {
       "videoId": "HxywYSObzGM",
-      "title": "🔴 LIVE:BAC  🆚 ANK| APL 2026 八強賽D1-2026/07/04《Garena傳說對決》",
-      "title_original": "🔴 LIVE:BAC  🆚 ANK| APL 2026 八強賽D1-2026/07/04《Garena傳說對決》",
+      "title": "🔴 LIVE:BRU 🆚 FPT| APL 2026 八強賽D1-2026/07/04《Garena傳說對決》",
+      "title_original": "🔴 LIVE:BRU 🆚 FPT| APL 2026 八強賽D1-2026/07/04《Garena傳說對決》",
       "translated": false,
       "country": "VN",
       "lang_original": "vi",
@@ -2188,17 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-06-26T01:00:26Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/TjCEY6PPF2w/maxresdefault.jpg"
-    },
-    {
-      "videoId": "k2_k5jFqEnY",
-      "title": "Tổng Hợp Liên Quân | Những Trận Đấu Lật Kèo Đầy Cảm Xúc Của Thầy Giáo X | #lienquanmobile #aov",
-      "title_original": "Tổng Hợp Liên Quân | Những Trận Đấu Lật Kèo Đầy Cảm Xúc Của Thầy Giáo X | #lienquanmobile #aov",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-06-26T00:34:56Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/k2_k5jFqEnY/maxresdefault.jpg"
     }
   ]
 }

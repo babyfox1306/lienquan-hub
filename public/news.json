@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-04T07:55:33.349324",
+  "last_updated": "2026-07-04T10:21:35.616950",
   "total_news": 100,
   "news": [
     {
@@ -12,6 +12,19 @@
       "source_url": "https://lienquan.garena.vn/rss",
       "published_at": "2026-07-03T13:17:27Z",
       "crawled_at": "2026-07-03T14:21:16.296321",
+      "category": "tướng",
+      "priority": 1
+    },
+    {
+      "id": "971404570e7f",
+      "title": "HÀ NỘI NGÀY 11 – 12/07 | BIG OFFLINE LIÊN QUÂN MOBILE X MIXUE | NGÀY HỘI LIÊN QUÂN VỚI SỰ XUẤT HIỆN CỦA ANH TÀI CHENG, RẤT NHIỀU CREATOR VÀ HƠN 10.000 PHẦN QUÀ",
+      "link": "https://lienquan.garena.vn/bigoffline-ha-noi-ngay-11-12-07/",
+      "summary": "<p>Xin chào các Kiện Tướng, Hưởng ứng không khí sôi động của chuỗi sự kiện thường niên Ngày Hội Liên Quân, Hội đồng Liên Quân chính thức mang đến Big Offline Hà Nội Liên Quân [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/bigoffline-ha-noi-ngay-11-12-07/\">HÀ NỘI NGÀY 11 &#8211; 12/07 | BIG OFFLINE LIÊN QUÂN MOBILE X MIXUE | NGÀY HỘI LIÊN QUÂN VỚI SỰ XUẤT HIỆN CỦA ANH TÀI CHENG, RẤT NHIỀU CREATOR VÀ HƠN 10.000 PHẦN QUÀ</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2026/07/SeaTalk_IMG_20260704_161337.jpg",
+      "source": "Liên Quân Mobile Official",
+      "source_url": "https://lienquan.garena.vn/rss",
+      "published_at": "2026-07-03T12:59:36Z",
+      "crawled_at": "2026-07-04T10:16:46.523825",
       "category": "tướng",
       "priority": 1
     },
@@ -1287,19 +1300,6 @@
       "published_at": "2025-12-30T08:26:50Z",
       "crawled_at": "2025-12-30T09:03:14.172380",
       "category": "tướng",
-      "priority": 1
-    },
-    {
-      "id": "6465429fba4d",
-      "title": "ƯU ĐÃI NẠP QUÂN HUY CHÀO MỪNG NĂM MỚI 2026",
-      "link": "https://lienquan.garena.vn/uu-dai-nap-quan-huy-thang-1-2026/",
-      "summary": "<p>Thời gian: 00:00 01/01 &#8211; 07/01/2026 Người chơi khi Nạp Quân huy trong thời gian sự kiện sẽ nhận được ưu đãi như sau: Mốc nạp Phần thưởng 35 Quân huy 40 Quân huy hữu [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/uu-dai-nap-quan-huy-thang-1-2026/\">ƯU ĐÃI NẠP QUÂN HUY CHÀO MỪNG NĂM MỚI 2026</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
-      "image_url": null,
-      "source": "Liên Quân Mobile Official",
-      "source_url": "https://lienquan.garena.vn/rss",
-      "published_at": "2025-12-30T08:13:12Z",
-      "crawled_at": "2025-12-30T09:03:14.172436",
-      "category": "tin tức",
       "priority": 1
     }
   ]

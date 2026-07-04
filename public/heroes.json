@@ -2324,9 +2324,9 @@
         "Nakroth"
       ],
       "tier": "B",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 0)",
+      "tier_reason": "Xuất hiện 2 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
-      "hot_count": 2,
+      "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/a/a3/Raz_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125091551",
       "related_videos": [
         "Yy9NZ3ai-yA",
@@ -3494,9 +3494,9 @@
       "counters": [],
       "synergies": [],
       "tier": "B",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 0)",
+      "tier_reason": "Xuất hiện 2 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
-      "hot_count": 2,
+      "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/5/5a/Iggy_Splash_Art.png/revision/latest/scale-to-width-down/500?cb=20260124105617",
       "related_videos": [
         "Yy9NZ3ai-yA",
@@ -4918,5 +4918,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-04T07:55:33Z"
+  "updated_at": "2026-07-04T10:21:35Z"
 }
