@@ -16,11 +16,6 @@
       "type": "channel"
     },
     {
-      "id": "UCykFSnImGNa-5DABblw7K-w",
-      "name": "Gcaothu CHANNEL",
-      "type": "channel"
-    },
-    {
       "id": "UCAml1Hqu4LW36B3yEtQg8Fw",
       "name": "FUNNY GAMING TV",
       "type": "channel"
@@ -76,11 +71,6 @@
       "type": "channel"
     },
     {
-      "id": "UCTQVIBMJLkipI2Rc1qjTyDw",
-      "name": "Quân Fbz",
-      "type": "channel"
-    },
-    {
       "id": "UC1ysb__ddApp3PlDva5NAVw",
       "name": "Top 1 Liliana",
       "type": "channel"
@@ -96,8 +86,18 @@
       "type": "channel"
     },
     {
-      "id": "UCIAVu192aQxVUginIC4bZLw",
-      "name": "NTK Liên Quân",
+      "id": "UCMHSTFMGp-k4Z0kG-CfMSWg",
+      "name": "HTT GAMER LIÊN QUÂN MOBILE",
+      "type": "channel"
+    },
+    {
+      "id": "UCWXXFvwmcOHxEk6IlhW1BhA",
+      "name": "Phuc Ram",
+      "type": "channel"
+    },
+    {
+      "id": "UCF-Vl0DkKpgrenyqSb1LSXw",
+      "name": "Kary Florentino",
       "type": "channel"
     }
   ],
