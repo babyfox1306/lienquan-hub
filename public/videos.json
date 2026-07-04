@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "v5Y3jRaF-e0",
+      "title": "TỨ KẾT SIÊU SAO TOÀN NĂNG 6: HẮC LONG VS THE FATHERS",
+      "title_original": "TỨ KẾT SIÊU SAO TOÀN NĂNG 6: HẮC LONG VS THE FATHERS",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-07-04T14:58:32Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/v5Y3jRaF-e0/maxresdefault.jpg"
+    },
+    {
       "videoId": "FcD0QuVKphc",
       "title": "Reaction : Tainzo VS Tran Binh",
       "title_original": "Reaction : Tainzo VS Tran Binh",
@@ -222,8 +233,8 @@
     },
     {
       "videoId": "NvXYgCBR88E",
-      "title": "🔴𝐋𝐈𝐕𝐄 แพ้ตกรอบ! 🇹🇭 Buriram United Esports 🆚 ANK Gaming | การแข่งขัน RoV นานาชาติ APL 2026 รอบ 8 ทีม",
-      "title_original": "🔴𝐋𝐈𝐕𝐄 แพ้ตกรอบ! 🇹🇭 Buriram United Esports 🆚 ANK Gaming | การแข่งขัน RoV นานาชาติ APL 2026 รอบ 8 ทีม",
+      "title": "🔴𝐋𝐈𝐕𝐄 แพ้ตกรอบ! 🇹🇭 Buriram United Esports 1 🆚 2 ANK Gaming | การแข่งขัน RoV นานาชาติ APL 2026",
+      "title_original": "🔴𝐋𝐈𝐕𝐄 แพ้ตกรอบ! 🇹🇭 Buriram United Esports 1 🆚 2 ANK Gaming | การแข่งขัน RoV นานาชาติ APL 2026",
       "translated": false,
       "country": "VN",
       "lang_original": "vi",
@@ -2188,17 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-06-26T05:00:24Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/pe_Ot-KuV5Q/maxresdefault.jpg"
-    },
-    {
-      "videoId": "rSHVfoDTZWI",
-      "title": "ĐÂY LÀ LÝ DO TẠI SAO NAKROTH CỐ TÌNH LÀM RỚT 3 SAO",
-      "title_original": "ĐÂY LÀ LÝ DO TẠI SAO NAKROTH CỐ TÌNH LÀM RỚT 3 SAO",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-06-26T03:06:51Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/rSHVfoDTZWI/maxresdefault.jpg"
     }
   ]
 }
