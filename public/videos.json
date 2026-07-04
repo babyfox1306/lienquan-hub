@@ -1,6 +1,50 @@
 {
   "videos": [
     {
+      "videoId": "X8FQXTosTOU",
+      "title": "ĐI TIẾP HAY BỊ LOẠI: HẮC LONG VS GHOST",
+      "title_original": "ĐI TIẾP HAY BỊ LOẠI: HẮC LONG VS GHOST",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-07-04T12:05:40Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/X8FQXTosTOU/maxresdefault.jpg"
+    },
+    {
+      "videoId": "rR1uPPDTu9g",
+      "title": "XEM KỸ 8 PHÚT SẼ GIÚP BẠN CHƠI TỐT NAKROTH HƠN",
+      "title_original": "XEM KỸ 8 PHÚT SẼ GIÚP BẠN CHƠI TỐT NAKROTH HƠN",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-07-04T12:00:51Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/rR1uPPDTu9g/maxresdefault.jpg"
+    },
+    {
+      "videoId": "mbcHGPXwp20",
+      "title": "🔴𝐋𝐈𝐕𝐄 การแข่งขัน RoV Thailand Esports Premier League (TEPL) 2026 | Regular Season Week 2 Day 1",
+      "title_original": "🔴𝐋𝐈𝐕𝐄 การแข่งขัน RoV Thailand Esports Premier League (TEPL) 2026 | Regular Season Week 2 Day 1",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-07-04T12:00:40Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/mbcHGPXwp20/maxresdefault.jpg"
+    },
+    {
+      "videoId": "UgTR5vKk0OU",
+      "title": "【APL訪談】FW 不斷尋找版本答案,一步一步調整狀態放眼夏季賽⚡《Garena 傳說對決》",
+      "title_original": "【APL訪談】FW 不斷尋找版本答案,一步一步調整狀態放眼夏季賽⚡《Garena 傳說對決》",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-07-04T11:00:31Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/UgTR5vKk0OU/maxresdefault.jpg"
+    },
+    {
       "videoId": "AdsQ_fnrQPI",
       "title": "(MECCHA CHAMELEON #1) V Xu Nhng Ci Ti Cao - Bng Cng Anh Em SGP Chi Game Trn Tm",
       "title_original": "(MECCHA CHAMELEON #1) V Xu Nhng Ci Ti Cao - Bng Cng Anh Em SGP Chi Game Trn Tm",
@@ -144,20 +188,9 @@
       "thumbnailUrl": "https://i.ytimg.com/vi/c0vXHj8Z79o/maxresdefault.jpg"
     },
     {
-      "videoId": "mbcHGPXwp20",
-      "title": "🔴𝐋𝐈𝐕𝐄 การแข่งขัน RoV Thailand Esports Premier League (TEPL) 2026 | Regular Season Week 2 Day 1",
-      "title_original": "🔴𝐋𝐈𝐕𝐄 การแข่งขัน RoV Thailand Esports Premier League (TEPL) 2026 | Regular Season Week 2 Day 1",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-03T21:17:40Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/mbcHGPXwp20/maxresdefault.jpg"
-    },
-    {
       "videoId": "NvXYgCBR88E",
-      "title": "🔴𝐋𝐈𝐕𝐄 แชมป์ไทยชนเวียดนาม! 🇹🇭 Buriram United Esports 🆚 FPT x Flash | การแข่งขัน RoV นานาชาติ APL 2026",
-      "title_original": "🔴𝐋𝐈𝐕𝐄 แชมป์ไทยชนเวียดนาม! 🇹🇭 Buriram United Esports 🆚 FPT x Flash | การแข่งขัน RoV นานาชาติ APL 2026",
+      "title": "🔴𝐋𝐈𝐕𝐄 แชมป์ไทยชนเวียดนาม! 🇹🇭 Buriram United Esports 2 🆚 1 FPT x Flash | RoV นานาชาติ APL 2026",
+      "title_original": "🔴𝐋𝐈𝐕𝐄 แชมป์ไทยชนเวียดนาม! 🇹🇭 Buriram United Esports 2 🆚 1 FPT x Flash | RoV นานาชาติ APL 2026",
       "translated": false,
       "country": "VN",
       "lang_original": "vi",
@@ -2166,39 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-06-26T02:01:06Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/6f991asQpew/maxresdefault.jpg"
-    },
-    {
-      "videoId": "zc_29qvWik8",
-      "title": "[Official Trailer] การแข่งขัน RoV Thailand Esports Premier League (TEPL) 2026 ชิงตั๋วสู่โปรลีก",
-      "title_original": "[Official Trailer] การแข่งขัน RoV Thailand Esports Premier League (TEPL) 2026 ชิงตั๋วสู่โปรลีก",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-06-26T02:00:34Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/zc_29qvWik8/maxresdefault.jpg"
-    },
-    {
-      "videoId": "znDACAKpmLs",
-      "title": "KING OF GAMERS CLUB  VS FPT X FLASH  | SWISS STAGE APL 2026 | NGÀY 25/06",
-      "title_original": "KING OF GAMERS CLUB  VS FPT X FLASH  | SWISS STAGE APL 2026 | NGÀY 25/06",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-06-26T02:00:22Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/znDACAKpmLs/maxresdefault.jpg"
-    },
-    {
-      "videoId": "TjCEY6PPF2w",
-      "title": "SOLYX ESPORTS VS BANMEI GAMING  | SWISS STAGE APL 2026 | NGÀY 25/06",
-      "title_original": "SOLYX ESPORTS VS BANMEI GAMING  | SWISS STAGE APL 2026 | NGÀY 25/06",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-06-26T01:00:26Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/TjCEY6PPF2w/maxresdefault.jpg"
     }
   ]
 }
