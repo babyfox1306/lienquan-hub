@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "c0vXHj8Z79o",
+      "title": "ONE STAR ESPORTS VS SAIGON PHANTOM | GROUP STAGE APL QUEENS SHOWDOWN 2026 | NGÀY 03/07",
+      "title_original": "ONE STAR ESPORTS VS SAIGON PHANTOM | GROUP STAGE APL QUEENS SHOWDOWN 2026 | NGÀY 03/07",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-07-04T00:00:29Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/c0vXHj8Z79o/maxresdefault.jpg"
+    },
+    {
       "videoId": "mbcHGPXwp20",
       "title": "🔴𝐋𝐈𝐕𝐄 การแข่งขัน RoV Thailand Esports Premier League (TEPL) 2026 | Week 2 Day 1",
       "title_original": "🔴𝐋𝐈𝐕𝐄 การแข่งขัน RoV Thailand Esports Premier League (TEPL) 2026 | Week 2 Day 1",
@@ -2188,17 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-06-25T03:00:17Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/lJMSxD4CC8Y/maxresdefault.jpg"
-    },
-    {
-      "videoId": "LUZkTW2HNws",
-      "title": "Liên Quân | Cách Nhận FREE Tới 2500 Quân Huy Từ Sự Kiện Đại Chiến Sân Cỏ Toàn Sever Nha",
-      "title_original": "Liên Quân | Cách Nhận FREE Tới 2500 Quân Huy Từ Sự Kiện Đại Chiến Sân Cỏ Toàn Sever Nha",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-06-25T02:56:46Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/LUZkTW2HNws/maxresdefault.jpg"
     }
   ]
 }
