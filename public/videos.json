@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "DNRZ5ljDGK0",
+      "title": "ANK GAMING VS BURIRAM UNITED ESPORTS | QUARTER FINAL APL 2026 | NGÀY 04/07",
+      "title_original": "ANK GAMING VS BURIRAM UNITED ESPORTS | QUARTER FINAL APL 2026 | NGÀY 04/07",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-07-05T00:00:01Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/DNRZ5ljDGK0/maxresdefault.jpg"
+    },
+    {
       "videoId": "XbSrmLZZ580",
       "title": "🔴𝐋𝐈𝐕𝐄 การแข่งขัน RoV Thailand Esports Premier League (TEPL) 2026 | Regular Season Week 2 Day 2",
       "title_original": "🔴𝐋𝐈𝐕𝐄 การแข่งขัน RoV Thailand Esports Premier League (TEPL) 2026 | Regular Season Week 2 Day 2",
@@ -2188,17 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-06-26T11:13:45Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/qOv9eA-XUlQ/maxresdefault.jpg"
-    },
-    {
-      "videoId": "gN0cr0EI5fE",
-      "title": "VUX CÙNG HẮC LONG ĐẠI CHIẾN PHẢN DIỆN DIRAK JUNGLE PHI KHÔNG NGÁO TRONG SIÊU SAO TOÀN NĂNG 6",
-      "title_original": "VUX CÙNG HẮC LONG ĐẠI CHIẾN PHẢN DIỆN DIRAK JUNGLE PHI KHÔNG NGÁO TRONG SIÊU SAO TOÀN NĂNG 6",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-06-26T10:12:27Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/gN0cr0EI5fE/maxresdefault.jpg"
     }
   ]
 }
