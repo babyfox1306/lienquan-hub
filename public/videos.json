@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "ekt5LoGUJPo",
+      "title": "Sói Cô Độc Săn Cup Vinh Quang !",
+      "title_original": "Sói Cô Độc Săn Cup Vinh Quang !",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-07-05T13:00:02Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/ekt5LoGUJPo/maxresdefault.jpg"
+    },
+    {
       "videoId": "8bH7OwaJi1o",
       "title": "Cách Tôi Bắn Đạn Thần Quang Khiến Team Bạn Bất Lực",
       "title_original": "Cách Tôi Bắn Đạn Thần Quang Khiến Team Bạn Bất Lực",
@@ -266,8 +277,8 @@
     },
     {
       "videoId": "8_i6Xdqi_RE",
-      "title": "🔴 LIVE:DCG  🆚 SGP|APL 2026 八強賽D2-2026/07/05《Garena傳說對決》",
-      "title_original": "🔴 LIVE:DCG  🆚 SGP|APL 2026 八強賽D2-2026/07/05《Garena傳說對決》",
+      "title": "🔴 LIVE:FPL  🆚 SGP|APL 2026 八強賽D2-2026/07/05《Garena傳說對決》",
+      "title_original": "🔴 LIVE:FPL  🆚 SGP|APL 2026 八強賽D2-2026/07/05《Garena傳說對決》",
       "translated": false,
       "country": "VN",
       "lang_original": "vi",
@@ -1454,8 +1465,8 @@
     },
     {
       "videoId": "dlGs9Es_Ybk",
-      "title": "Buổi stream vừa rồi buộc phải xóa nha anh em (khứa slot nói từ cấm)",
-      "title_original": "Buổi stream vừa rồi buộc phải xóa nha anh em (khứa slot nói từ cấm)",
+      "title": "🔴Tập chơi liên quân (Ngày 2)",
+      "title_original": "🔴Tập chơi liên quân (Ngày 2)",
       "translated": false,
       "country": "VN",
       "lang_original": "vi",
@@ -2188,17 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-06-27T03:21:17Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/-fwmMqV5RB4/maxresdefault.jpg"
-    },
-    {
-      "videoId": "x_imrGAePF4",
-      "title": "Liên Quân 10 Tướng Chỉnh Sửa Tăng và Giảm: Zuka, Teemee, Lữ Bố... Chi Tiết Cập Nhật Mùa S3 2026",
-      "title_original": "Liên Quân 10 Tướng Chỉnh Sửa Tăng và Giảm: Zuka, Teemee, Lữ Bố... Chi Tiết Cập Nhật Mùa S3 2026",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-06-27T03:01:07Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/x_imrGAePF4/maxresdefault.jpg"
     }
   ]
 }

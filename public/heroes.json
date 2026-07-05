@@ -4471,13 +4471,12 @@
       "counters": [],
       "synergies": [],
       "tier": "B",
-      "tier_reason": "Xuất hiện 2 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
       "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/a/ac/TeeMee_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125092600",
       "related_videos": [
-        "2i3N0v-hjTI",
-        "x_imrGAePF4"
+        "2i3N0v-hjTI"
       ]
     },
     {
@@ -4906,14 +4905,12 @@
       "counters": [],
       "synergies": [],
       "tier": "B",
-      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/9/9e/Zuka_Splash.png/revision/latest/scale-to-width-down/500?cb=20171204210621",
-      "related_videos": [
-        "x_imrGAePF4"
-      ]
+      "related_videos": []
     }
   ],
-  "updated_at": "2026-07-05T11:43:26Z"
+  "updated_at": "2026-07-05T13:57:07Z"
 }
