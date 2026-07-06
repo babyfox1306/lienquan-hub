@@ -1,6 +1,39 @@
 {
   "videos": [
     {
+      "videoId": "G1Il7740nYU",
+      "title": "🩵HIỆU ỨNG CHIÊU THỨC | HEINO NHẬT KÝ TÌNH YÊU🩵",
+      "title_original": "🩵HIỆU ỨNG CHIÊU THỨC | HEINO NHẬT KÝ TÌNH YÊU🩵",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-07-06T08:30:02Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/G1Il7740nYU/maxresdefault.jpg"
+    },
+    {
+      "videoId": "4ixkD5WeVPk",
+      "title": "💕HIỆU ỨNG CHIÊU THỨC | DOLIA NHẬT KÝ TÌNH YÊU 💕",
+      "title_original": "💕HIỆU ỨNG CHIÊU THỨC | DOLIA NHẬT KÝ TÌNH YÊU 💕",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-07-06T07:30:17Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/4ixkD5WeVPk/maxresdefault.jpg"
+    },
+    {
+      "videoId": "dXiYXxbyX_I",
+      "title": "🔥 VALOR Q&A: TẤT TẦN TẬT VỀ BẢN CẬP NHẬT NGÀY HỘI LIÊN QUÂN 🔥- Garena Liên Quân Mobile",
+      "title_original": "🔥 VALOR Q&A: TẤT TẦN TẬT VỀ BẢN CẬP NHẬT NGÀY HỘI LIÊN QUÂN 🔥- Garena Liên Quân Mobile",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-07-06T06:30:03Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/dXiYXxbyX_I/maxresdefault.jpg"
+    },
+    {
       "videoId": "Qcn3yT96h0Y",
       "title": "TOP 5 Kỹ Năng Gây Khó Chịu Bậc Nhất, Timu Đã Cook Cho Liên Quân Đến Hiện Tại, TNG",
       "title_original": "TOP 5 Kỹ Năng Gây Khó Chịu Bậc Nhất, Timu Đã Cook Cho Liên Quân Đến Hiện Tại, TNG",
@@ -2166,39 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-06-27T11:06:23Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/Ot-XR5Aj0dk/maxresdefault.jpg"
-    },
-    {
-      "videoId": "PIC8FNaeYhs",
-      "title": "【新英雄】上古半神拓冥降世|日月雙槍.誅滅黑暗《Garena傳說對決》",
-      "title_original": "【新英雄】上古半神拓冥降世|日月雙槍.誅滅黑暗《Garena傳說對決》",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-06-27T11:00:27Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/PIC8FNaeYhs/maxresdefault.jpg"
-    },
-    {
-      "videoId": "qqjzcT7zKs4",
-      "title": "🔴Liên Quân Mobile - Defeat Tại ''.''",
-      "title_original": "🔴Liên Quân Mobile - Defeat Tại ''.''",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-06-27T09:42:54Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/qqjzcT7zKs4/maxresdefault.jpg"
-    },
-    {
-      "videoId": "MZFFQ_L0ZaQ",
-      "title": "SKIN Spotlight | Valor Pass 66 (APL 2026 Raz x Iggy)",
-      "title_original": "SKIN Spotlight | Valor Pass 66 (APL 2026 Raz x Iggy)",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-06-27T08:00:31Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/MZFFQ_L0ZaQ/maxresdefault.jpg"
     }
   ]
 }
