@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-07-05T23:11:16.622127",
+  "last_updated": "2026-07-06T04:09:52.062692",
   "total_news": 100,
   "news": [
+    {
+      "id": "232097a4f92b",
+      "title": "QUY TRÌNH CẬP NHẬT PHIÊN BẢN NGÀY HỘI LIÊN QUÂN – 08.07.2026",
+      "link": "https://lienquan.garena.vn/quy-trinh-cap-nhat-phien-ban-ngay-hoi-lien-quan-08-07-2026/",
+      "summary": "<p>Các Kiện Tướng thân mến, Hội đồng Liên Quân xin phép thông báo Quy trình cập nhật phiên bản mới NGÀY HỘI LIÊN QUÂN 08.07.2026 Phiên bản mới NGÀY HỘI LIÊN QUÂN sẽ được tiến hành cập [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/quy-trinh-cap-nhat-phien-ban-ngay-hoi-lien-quan-08-07-2026/\">QUY TRÌNH CẬP NHẬT PHIÊN BẢN NGÀY HỘI LIÊN QUÂN – 08.07.2026</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2026/07/IMG-HOR-0860x0400-094871-2.jpg",
+      "source": "Liên Quân Mobile Official",
+      "source_url": "https://lienquan.garena.vn/rss",
+      "published_at": "2026-07-06T03:03:56Z",
+      "crawled_at": "2026-07-06T04:04:52.591405",
+      "category": "tướng",
+      "priority": 1
+    },
     {
       "id": "a5d69d858961",
       "title": "CHUỖI SỰ KIỆN OFFLINE CỘNG ĐỒNG NGÀY HỘI LIÊN QUÂN – CHƠI SAO CŨNG TRÚNG",
@@ -1286,19 +1299,6 @@
       "source_url": "https://lienquan.garena.vn/rss",
       "published_at": "2025-12-31T10:25:19Z",
       "crawled_at": "2025-12-31T11:01:32.200696",
-      "category": "tướng",
-      "priority": 1
-    },
-    {
-      "id": "c23b7e371329",
-      "title": "PHÁT ĐỘNG CUỘC THI ĐUA TOP LEADER TỔ CHỨC SỰ KIỆN CỘNG ĐỒNG LIÊN QUÂN",
-      "link": "https://lienquan.garena.vn/phat-dong-cuoc-thi-dua-top-leader-to-chuc-su-kien-cong-dong-lien-quan/",
-      "summary": "<p>Xin chào các Kiện tướng,  Từ 01/01 đến 31/03/2026, cuộc thi “Đua Top Leader Tổ Chức Sự Kiện Cộng Đồng Liên Quân” chính thức khởi động, mở ra sân chơi dành cho những Community Leader [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/phat-dong-cuoc-thi-dua-top-leader-to-chuc-su-kien-cong-dong-lien-quan/\">PHÁT ĐỘNG CUỘC THI ĐUA TOP LEADER TỔ CHỨC SỰ KIỆN CỘNG ĐỒNG LIÊN QUÂN</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
-      "image_url": "https://picsum.photos/seed/https://lienquan.garena.vn/phat-dong-cuoc-thi-dua-top-leader-to-chuc-su-kien-cong-dong-lien-quan//400/225",
-      "source": "Liên Quân Mobile Official",
-      "source_url": "https://lienquan.garena.vn/rss",
-      "published_at": "2025-12-30T08:26:50Z",
-      "crawled_at": "2025-12-30T09:03:14.172380",
       "category": "tướng",
       "priority": 1
     }
