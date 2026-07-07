@@ -46,6 +46,11 @@
       "type": "channel"
     },
     {
+      "id": "UC9gbpSZsxLTsVgiPyUsU8sg",
+      "name": "Trưởng Star",
+      "type": "channel"
+    },
+    {
       "id": "UCeMjhoCCvujpObnt6yeZeNg",
       "name": "Garena 傳說對決",
       "type": "channel"
@@ -66,13 +71,13 @@
       "type": "channel"
     },
     {
-      "id": "UCpQ52533EsOa5k-dQSmD1jw",
-      "name": "Ha Le Quyen",
+      "id": "UC1ysb__ddApp3PlDva5NAVw",
+      "name": "Top 1 Liliana",
       "type": "channel"
     },
     {
-      "id": "UC1ysb__ddApp3PlDva5NAVw",
-      "name": "Top 1 Liliana",
+      "id": "UCLmVT2XmCej720HFtG7mwSQ",
+      "name": "NTD LQ",
       "type": "channel"
     },
     {
@@ -91,13 +96,8 @@
       "type": "channel"
     },
     {
-      "id": "UCWXXFvwmcOHxEk6IlhW1BhA",
-      "name": "Phuc Ram",
-      "type": "channel"
-    },
-    {
-      "id": "UCpkUzNC-PTa_Ju-xfT-CiDQ",
-      "name": "Ly Chuột Bạch",
+      "id": "UCF-Vl0DkKpgrenyqSb1LSXw",
+      "name": "Kary Florentino",
       "type": "channel"
     }
   ],
