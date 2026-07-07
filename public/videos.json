@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "YyNsjpYwD9E",
+      "title": "🔴6 tiếng nũa lên chiến tướng kịp không?",
+      "title_original": "🔴6 tiếng nũa lên chiến tướng kịp không?",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-07-07T17:29:39Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/YyNsjpYwD9E/maxresdefault.jpg"
+    },
+    {
       "videoId": "oqVcqSQOX0k",
       "title": "Giáo Án Chấp 1000 mạng",
       "title_original": "Giáo Án Chấp 1000 mạng",
@@ -21,17 +32,6 @@
       "source": "youtube",
       "publishedAt": "2026-07-07T13:35:06Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/EbICI_1Thmo/maxresdefault.jpg"
-    },
-    {
-      "videoId": "YyNsjpYwD9E",
-      "title": "🔴6 tiếng nũa lên chiến tướng kịp không?",
-      "title_original": "🔴6 tiếng nũa lên chiến tướng kịp không?",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-07T13:21:14Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/YyNsjpYwD9E/maxresdefault.jpg"
     },
     {
       "videoId": "GmyhczFyYPI",
@@ -274,6 +274,17 @@
       "source": "youtube",
       "publishedAt": "2026-07-06T06:30:03Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/dXiYXxbyX_I/maxresdefault.jpg"
+    },
+    {
+      "videoId": "bCWYqVLML7E",
+      "title": "Full Game | Lối Chơi - Di Chuyển | Dùng Arthur Đi Support Leo Rank | Liên Quân Mobile | M8.Arthur",
+      "title_original": "Full Game | Lối Chơi - Di Chuyển | Dùng Arthur Đi Support Leo Rank | Liên Quân Mobile | M8.Arthur",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-07-06T04:00:00Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/bCWYqVLML7E/maxresdefault.jpg"
     },
     {
       "videoId": "Qcn3yT96h0Y",
@@ -626,6 +637,17 @@
       "source": "youtube",
       "publishedAt": "2026-07-04T14:58:32Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/v5Y3jRaF-e0/maxresdefault.jpg"
+    },
+    {
+      "videoId": "3fFZcEBzoW0",
+      "title": "TRỰC TIẾP: QUATER FINALS - FPT VS BRU | ARENA OF VALOR PREMIER LEAGUE 2026 (NGÀY 04/07)",
+      "title_original": "TRỰC TIẾP: QUATER FINALS - FPT VS BRU | ARENA OF VALOR PREMIER LEAGUE 2026 (NGÀY 04/07)",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-07-04T13:59:24Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/3fFZcEBzoW0/maxresdefault.jpg"
     },
     {
       "videoId": "X8FQXTosTOU",
@@ -2177,28 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-06-28T10:30:34Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/NmJlEI73hQ8/maxresdefault.jpg"
-    },
-    {
-      "videoId": "3c8sCVPoWdc",
-      "title": "Chill rank cuối mùa #1",
-      "title_original": "Chill rank cuối mùa #1",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-06-28T10:11:17Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/3c8sCVPoWdc/maxresdefault.jpg"
-    },
-    {
-      "videoId": "lxI3KszyyBM",
-      "title": "Timi Lắng Nghe Game Thủ: Hủy Bỏ Buff Dmg, Sửa Lại Lindis ''Siêu Cơ Động''",
-      "title_original": "Timi Lắng Nghe Game Thủ: Hủy Bỏ Buff Dmg, Sửa Lại Lindis ''Siêu Cơ Động''",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-06-28T09:30:31Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/lxI3KszyyBM/maxresdefault.jpg"
     }
   ]
 }
