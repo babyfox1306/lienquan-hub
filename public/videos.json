@@ -1,6 +1,39 @@
 {
   "videos": [
     {
+      "videoId": "EbICI_1Thmo",
+      "title": "Anh 7 Cỏ Đi Rồi !",
+      "title_original": "Anh 7 Cỏ Đi Rồi !",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-07-07T13:35:06Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/EbICI_1Thmo/maxresdefault.jpg"
+    },
+    {
+      "videoId": "YyNsjpYwD9E",
+      "title": "🔴6 tiếng nũa lên chiến tướng kịp không?",
+      "title_original": "🔴6 tiếng nũa lên chiến tướng kịp không?",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-07-07T13:21:14Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/YyNsjpYwD9E/maxresdefault.jpg"
+    },
+    {
+      "videoId": "GmyhczFyYPI",
+      "title": "【第一視角】ANK LiTing 身騎白馬殺遍天下🔥不只騎進高地更騎進六強❗《Garena 傳說對決》",
+      "title_original": "【第一視角】ANK LiTing 身騎白馬殺遍天下🔥不只騎進高地更騎進六強❗《Garena 傳說對決》",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-07-07T12:30:18Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/GmyhczFyYPI/maxresdefault.jpg"
+    },
+    {
       "videoId": "unVw9cdVDsQ",
       "title": "(MECCHA CHAMELEON #2) Tuy Vẽ Xấu Nhưng Tôi Có Kỹ Năng Né Chiêu",
       "title_original": "(MECCHA CHAMELEON #2) Tuy Vẽ Xấu Nhưng Tôi Có Kỹ Năng Né Chiêu",
@@ -2166,39 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-06-28T06:00:06Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/fSQ81zwpxIA/maxresdefault.jpg"
-    },
-    {
-      "videoId": "5fczP3EUhLw",
-      "title": "TOP 5 Tướng Gây Ấn Tượng Mạnh Tại Meta APL 2026 ( Phần 1 )",
-      "title_original": "TOP 5 Tướng Gây Ấn Tượng Mạnh Tại Meta APL 2026 ( Phần 1 )",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-06-28T03:05:32Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/5fczP3EUhLw/maxresdefault.jpg"
-    },
-    {
-      "videoId": "IIqwyo5arr8",
-      "title": "nh t cup vinh quang farm t view *Ni dung c ti tr bi Sony Vietnam",
-      "title_original": "nh t cup vinh quang farm t view *Ni dung c ti tr bi Sony Vietnam",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-06-28T02:45:19Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/IIqwyo5arr8/maxresdefault.jpg"
-    },
-    {
-      "videoId": "4QfkNlp83M0",
-      "title": "MIC CHECK #2: SGP - FW: KHIÊU VŨ GIỮA BẦY SÓI | APL 2026",
-      "title_original": "MIC CHECK #2: SGP - FW: KHIÊU VŨ GIỮA BẦY SÓI | APL 2026",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-06-28T02:30:23Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/4QfkNlp83M0/maxresdefault.jpg"
     }
   ]
 }
