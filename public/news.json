@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-07-07T05:02:37.651414",
+  "last_updated": "2026-07-07T08:37:33.598916",
   "total_news": 100,
   "news": [
+    {
+      "id": "4902c0d08943",
+      "title": "CHI TIẾT BẢN CẬP NHẬT NGÀY HỘI LIÊN QUÂN 08.07.2026",
+      "link": "https://lienquan.garena.vn/chi-tiet-ban-cap-nhat-ngay-hoi-lien-quan-08-07-2026/",
+      "summary": "<p>Xin chào các Kiện Tướng, Liên Quân Mobile sẽ tiến hành cập nhật không gián đoạn vào ngày 08.07.2026. Người chơi có thể tự chọn thời điểm cập nhật trong thời gian cho phép. Không [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/chi-tiet-ban-cap-nhat-ngay-hoi-lien-quan-08-07-2026/\">CHI TIẾT BẢN CẬP NHẬT NGÀY HỘI LIÊN QUÂN 08.07.2026</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2026/07/IMG-HOR-0860x0400-094874-2.jpg",
+      "source": "Liên Quân Mobile Official",
+      "source_url": "https://lienquan.garena.vn/rss",
+      "published_at": "2026-07-07T07:54:17Z",
+      "crawled_at": "2026-07-07T08:32:31.436751",
+      "category": "tướng",
+      "priority": 1
+    },
     {
       "id": "232097a4f92b",
       "title": "QUY TRÌNH CẬP NHẬT PHIÊN BẢN NGÀY HỘI LIÊN QUÂN – 08.07.2026",
@@ -1286,19 +1299,6 @@
       "source_url": "https://lienquan.garena.vn/rss",
       "published_at": "2026-01-16T07:56:31Z",
       "crawled_at": "2026-01-16T08:01:23.862170",
-      "category": "tướng",
-      "priority": 1
-    },
-    {
-      "id": "8937fa5f21af",
-      "title": "CẬP NHẬT CÁC HÀNH VI BỊ XỬ PHẠT VÀ THỜI HẠN KHÓA TỪ 1/1/2026",
-      "link": "https://lienquan.garena.vn/cap-nhat-cac-hanh-vi-bi-xu-phat-va-thoi-han-khoa-tu-1-1-2026/",
-      "summary": "<p>Xin chào các Kiện Tướng, Hội Đồng Liên Quân cập nhật các hành vi bị xử phạt và thời hạn khóa đối với từng hành vi để phù hợp hơn với tình hình thực tế, [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/cap-nhat-cac-hanh-vi-bi-xu-phat-va-thoi-han-khoa-tu-1-1-2026/\">CẬP NHẬT CÁC HÀNH VI BỊ XỬ PHẠT VÀ THỜI HẠN KHÓA TỪ 1/1/2026</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
-      "image_url": null,
-      "source": "Liên Quân Mobile Official",
-      "source_url": "https://lienquan.garena.vn/rss",
-      "published_at": "2025-12-31T10:25:19Z",
-      "crawled_at": "2025-12-31T11:01:32.200696",
       "category": "tướng",
       "priority": 1
     }

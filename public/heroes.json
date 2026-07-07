@@ -1260,7 +1260,7 @@
       "tier": "A",
       "tier_reason": "Xuất hiện 2 lần trong video/tin tức 14 ngày qua (Score: 1)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/d/d4/Liliana_Default.jpg/revision/latest/scale-to-width-down/500?cb=20180331134150",
       "related_videos": [
         "TcaA3rY1SUE",
@@ -4915,5 +4915,5 @@
       "related_videos": []
     }
   ],
-  "updated_at": "2026-07-07T05:02:37Z"
+  "updated_at": "2026-07-07T08:37:33Z"
 }
