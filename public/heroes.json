@@ -92,9 +92,7 @@
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/5/5e/Murad_Outlaw.png/revision/latest/scale-to-width-down/500?cb=20180317082415",
-      "related_videos": [
-        "taJf24O9wpA"
-      ]
+      "related_videos": []
     },
     {
       "id": "zata",
@@ -1397,11 +1395,12 @@
         "Thane"
       ],
       "tier": "B",
-      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 0)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 2,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/f/f0/Valhein_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260124103241",
       "related_videos": [
+        "-Z19rWkxGs0",
         "oIHKem3E_Fs"
       ]
     },
@@ -3964,11 +3963,13 @@
       "counters": [],
       "synergies": [],
       "tier": "B",
-      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
-      "hot_count": 0,
+      "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/b/b4/Paine_Soul_Elegy.png/revision/latest/scale-to-width-down/500?cb=20220328044802",
-      "related_videos": []
+      "related_videos": [
+        "yMTzPJAGLIw"
+      ]
     },
     {
       "id": "preyta",
@@ -4316,7 +4317,7 @@
       "tier": "B",
       "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/e/e8/Skud_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125053755",
       "related_videos": [
         "-4nGyug4wtk"
@@ -4667,7 +4668,7 @@
       "tier": "A",
       "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 1)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/9/94/Wisp_Default.jpg/revision/latest/scale-to-width-down/500?cb=20180419063145",
       "related_videos": [
         "z3pEz8hw5V0"
@@ -4912,5 +4913,5 @@
       "related_videos": []
     }
   ],
-  "updated_at": "2026-07-08T04:23:24Z"
+  "updated_at": "2026-07-08T07:38:10Z"
 }
