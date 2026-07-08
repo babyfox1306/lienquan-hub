@@ -1,6 +1,28 @@
 {
   "videos": [
     {
+      "videoId": "VAGjs1RMPS4",
+      "title": "🎉LIVESTREAM NGÀY HỘI LIÊN QUÂN 2026🎉",
+      "title_original": "🎉LIVESTREAM NGÀY HỘI LIÊN QUÂN 2026🎉",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-07-08T16:12:28Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/VAGjs1RMPS4/maxresdefault.jpg"
+    },
+    {
+      "videoId": "_pBszGh9-WE",
+      "title": "Thử Thách Giao Lưu Rank 5 Mà Không Cọc",
+      "title_original": "Thử Thách Giao Lưu Rank 5 Mà Không Cọc",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-07-08T15:27:31Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/_pBszGh9-WE/maxresdefault.jpg"
+    },
+    {
       "videoId": "UQp3XW7ZGj8",
       "title": "\"ดูม้า GU เล่นดิ!\" | ไมค์เช็กทีมไทย การแข่งขัน RoV นานาชาติ APL 2026 รอบ Quarter Finals Week 1",
       "title_original": "\"ดูม้า GU เล่นดิ!\" | ไมค์เช็กทีมไทย การแข่งขัน RoV นานาชาติ APL 2026 รอบ Quarter Finals Week 1",
@@ -76,17 +98,6 @@
       "source": "youtube",
       "publishedAt": "2026-07-08T10:30:26Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/m0wks27blgc/maxresdefault.jpg"
-    },
-    {
-      "videoId": "VAGjs1RMPS4",
-      "title": "🎉LIVESTREAM NGÀY HỘI LIÊN QUÂN 2026🎉",
-      "title_original": "🎉LIVESTREAM NGÀY HỘI LIÊN QUÂN 2026🎉",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-08T10:16:35Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/VAGjs1RMPS4/maxresdefault.jpg"
     },
     {
       "videoId": "PF7ITM-3w_U",
@@ -2188,17 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-06-29T01:00:32Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/v10-fIfORcA/maxresdefault.jpg"
-    },
-    {
-      "videoId": "3qd3K5ppUGk",
-      "title": "ANK GAMING VS CATHAY ONE TEAM | SWISS STAGE APL 2026 | NGÀY 28/06",
-      "title_original": "ANK GAMING VS CATHAY ONE TEAM | SWISS STAGE APL 2026 | NGÀY 28/06",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-06-29T01:00:32Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/3qd3K5ppUGk/maxresdefault.jpg"
     }
   ]
 }
