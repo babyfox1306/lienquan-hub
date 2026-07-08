@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-07-08T10:29:28.846078",
+  "last_updated": "2026-07-08T12:29:40.227846",
   "total_news": 100,
   "news": [
+    {
+      "id": "1d09061ee009",
+      "title": "SƯU TẦM LÀ TRÚNG",
+      "link": "https://lienquan.garena.vn/suu-tam-la-trung/",
+      "summary": "<p>Hội đồng xin gửi tới người chơi sự kiện hoàn toàn mới: SƯU TẦM LÀ TRÚNG Thời gian sự kiện (VN): 8/7/2026 11:00 – 9/8/2026 23:59:59. Ngày đặc biệt: 18/7/2026. 1. Cấp độ thẻ bài [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/suu-tam-la-trung/\">SƯU TẦM LÀ TRÚNG</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2026/07/SeaTalk_IMG_20260708_181222.jpeg",
+      "source": "Liên Quân Mobile Official",
+      "source_url": "https://lienquan.garena.vn/rss",
+      "published_at": "2026-07-08T11:12:58Z",
+      "crawled_at": "2026-07-08T12:24:39.564740",
+      "category": "tin tức",
+      "priority": 1
+    },
     {
       "id": "4902c0d08943",
       "title": "CHI TIẾT BẢN CẬP NHẬT NGÀY HỘI LIÊN QUÂN 08.07.2026",
@@ -1286,19 +1299,6 @@
       "source_url": "https://lienquan.garena.vn/rss",
       "published_at": "2026-01-16T10:19:57Z",
       "crawled_at": "2026-01-16T11:01:22.673322",
-      "category": "tướng",
-      "priority": 1
-    },
-    {
-      "id": "bc228578ec69",
-      "title": "VINH DANH COMMUNITY LEADER XUẤT SẮC NHẤT THÁNG 12 NĂM 2025",
-      "link": "https://lienquan.garena.vn/vinh-danh-community-leader-xuat-sac-nhat-thang-12-nam-2025/",
-      "summary": "<p>Xin chào các Kiện Tướng, Một năm nữa lại sắp khép lại, giữa nhịp sống hối hả cuối năm, khi mọi người chuẩn bị gác lại công việc để trở về bên gia đình, cộng [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/vinh-danh-community-leader-xuat-sac-nhat-thang-12-nam-2025/\">VINH DANH COMMUNITY LEADER XUẤT SẮC NHẤT THÁNG 12 NĂM 2025</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
-      "image_url": null,
-      "source": "Liên Quân Mobile Official",
-      "source_url": "https://lienquan.garena.vn/rss",
-      "published_at": "2026-01-16T07:56:31Z",
-      "crawled_at": "2026-01-16T08:01:23.862170",
       "category": "tướng",
       "priority": 1
     }
