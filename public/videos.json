@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "Nm0xL_OWEP0",
+      "title": "Chi V T Xong Lin Qun Nha",
+      "title_original": "Chi V T Xong Lin Qun Nha",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-07-09T20:17:44Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/Nm0xL_OWEP0/maxresdefault.jpg"
+    },
+    {
       "videoId": "svdDauP2qQY",
       "title": "🔴Nghe đồn khứa chợ thủ này đang bá lắm",
       "title_original": "🔴Nghe đồn khứa chợ thủ này đang bá lắm",
@@ -76,17 +87,6 @@
       "source": "youtube",
       "publishedAt": "2026-07-09T13:56:26Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/VeIhIoheGJY/maxresdefault.jpg"
-    },
-    {
-      "videoId": "Nm0xL_OWEP0",
-      "title": "Chi V T Xong Lin Qun Nha",
-      "title_original": "Chi V T Xong Lin Qun Nha",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-09T13:52:48Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/Nm0xL_OWEP0/maxresdefault.jpg"
     },
     {
       "videoId": "NlFmyEOAsmw",
