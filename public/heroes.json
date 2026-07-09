@@ -781,9 +781,9 @@
         "Krixi"
       ],
       "tier": "S",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 3, Score: 3)",
-      "hot": true,
-      "hot_count": 3,
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 3)",
+      "hot": false,
+      "hot_count": 2,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/7/7c/Toro_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125082122",
       "related_videos": [
         "IOwVhzUCKz4",
@@ -1206,7 +1206,7 @@
       "tier": "B",
       "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/d/d7/Lauriel_Splash.jpg/revision/latest/scale-to-width-down/500?cb=20171113161316",
       "related_videos": [
         "PYR0kY9dNBA"
@@ -1252,16 +1252,15 @@
         "Thane",
         "Nakroth"
       ],
-      "tier": "A",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 1)",
+      "tier": "B",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 0)",
       "hot": false,
       "hot_count": 2,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/d/d4/Liliana_Default.jpg/revision/latest/scale-to-width-down/500?cb=20180331134150",
       "related_videos": [
         "cgeV_k2FmUw",
         "ooZE9mHrg-s",
-        "TcaA3rY1SUE",
-        "ABiKd511JC8"
+        "TcaA3rY1SUE"
       ]
     },
     {
@@ -1679,7 +1678,7 @@
       "tier": "A",
       "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 1)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/7/75/Ormarr_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125084100",
       "related_videos": [
         "rPTRGUG-COs"
@@ -3066,12 +3065,14 @@
       },
       "counters": [],
       "synergies": [],
-      "tier": "B",
-      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier": "C",
+      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: -1)",
       "hot": false,
-      "hot_count": 0,
+      "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/c/ce/Dextra_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260124110012",
-      "related_videos": []
+      "related_videos": [
+        "-YEtXNH5MX8"
+      ]
     },
     {
       "id": "diaochan",
@@ -4280,11 +4281,13 @@
       "counters": [],
       "synergies": [],
       "tier": "S",
-      "tier_reason": "Được gán từ dữ liệu hạt giống (Seed S-Tier) do ít video mới (Hot Count: 0)",
+      "tier_reason": "Được gán từ dữ liệu hạt giống (Seed S-Tier) do ít video mới (Hot Count: 1)",
       "hot": false,
-      "hot_count": 0,
+      "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/6/60/Sinestrea_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20220702032816",
-      "related_videos": []
+      "related_videos": [
+        "-YEtXNH5MX8"
+      ]
     },
     {
       "id": "skud",
@@ -4916,5 +4919,5 @@
       "related_videos": []
     }
   ],
-  "updated_at": "2026-07-09T07:47:38Z"
+  "updated_at": "2026-07-09T11:20:24Z"
 }
