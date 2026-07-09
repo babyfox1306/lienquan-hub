@@ -4833,11 +4833,13 @@
       "counters": [],
       "synergies": [],
       "tier": "B",
-      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
-      "hot_count": 0,
+      "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/5/5c/Yorn_1.jpg/revision/latest/scale-to-width-down/500?cb=20171102213743",
-      "related_videos": []
+      "related_videos": [
+        "NlFmyEOAsmw"
+      ]
     },
     {
       "id": "zanis",
@@ -4921,5 +4923,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-09T15:27:30Z"
+  "updated_at": "2026-07-09T18:06:33Z"
 }
