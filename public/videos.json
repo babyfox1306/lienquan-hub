@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "dgmiFUC7owI",
+      "title": "Oh nooooooooo",
+      "title_original": "Oh nooooooooo",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-07-10T21:01:53Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/dgmiFUC7owI/maxresdefault.jpg"
+    },
+    {
       "videoId": "zpBXDyDhB8A",
       "title": "🔴Luyện tập Tamyn tiếp",
       "title_original": "🔴Luyện tập Tamyn tiếp",
@@ -131,17 +142,6 @@
       "source": "youtube",
       "publishedAt": "2026-07-10T10:30:10Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/zVIcqiHVbzM/maxresdefault.jpg"
-    },
-    {
-      "videoId": "dgmiFUC7owI",
-      "title": "Oh nooooooooo",
-      "title_original": "Oh nooooooooo",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-10T10:22:13Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/dgmiFUC7owI/maxresdefault.jpg"
     },
     {
       "videoId": "s9Bxrenou6w",
