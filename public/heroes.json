@@ -410,12 +410,13 @@
         "Liliana"
       ],
       "tier": "A",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 1)",
-      "hot": false,
-      "hot_count": 2,
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 3, Score: 2)",
+      "hot": true,
+      "hot_count": 3,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/3/3f/The_Diminisher.png/revision/latest/scale-to-width-down/500?cb=20230721030441",
       "related_videos": [
         "tyPTucIKty8",
+        "CX91r4005dY",
         "L1GYfSIIT-A"
       ]
     },
@@ -4916,5 +4917,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-10T14:51:56Z"
+  "updated_at": "2026-07-10T17:06:30Z"
 }
