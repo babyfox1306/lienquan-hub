@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "zpBXDyDhB8A",
+      "title": "🔴Luyện tập Tamyn tiếp",
+      "title_original": "🔴Luyện tập Tamyn tiếp",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-07-10T17:14:06Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/zpBXDyDhB8A/maxresdefault.jpg"
+    },
+    {
       "videoId": "cRdm0rDhplo",
       "title": "🔴 TRỰC TIẾP: FULL SENSE vs ANK GAMING | QUARTER FINALS - APL 2026 (NGÀY 10/07)",
       "title_original": "🔴 TRỰC TIẾP: FULL SENSE vs ANK GAMING | QUARTER FINALS - APL 2026 (NGÀY 10/07)",
@@ -43,17 +54,6 @@
       "source": "youtube",
       "publishedAt": "2026-07-10T14:39:55Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/yR0HgNwMqTU/maxresdefault.jpg"
-    },
-    {
-      "videoId": "zpBXDyDhB8A",
-      "title": "🔴Luyện tập Tamyn tiếp",
-      "title_original": "🔴Luyện tập Tamyn tiếp",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-10T14:00:05Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/zpBXDyDhB8A/maxresdefault.jpg"
     },
     {
       "videoId": "iGTS19dydtk",
