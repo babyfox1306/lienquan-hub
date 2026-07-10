@@ -1,6 +1,28 @@
 {
   "videos": [
     {
+      "videoId": "iDS3cEM2fYo",
+      "title": "🔴𝐋𝐈𝐕𝐄 การแข่งขัน RoV นานาชาติ APL 2026 ประเภททีมหญิง Queens Showdown | รอบ Semi Finals",
+      "title_original": "🔴𝐋𝐈𝐕𝐄 การแข่งขัน RoV นานาชาติ APL 2026 ประเภททีมหญิง Queens Showdown | รอบ Semi Finals",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-07-10T22:03:27Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/iDS3cEM2fYo/maxresdefault.jpg"
+    },
+    {
+      "videoId": "OAvclPMjM-I",
+      "title": "🔴𝐋𝐈𝐕𝐄 การแข่งขัน RoV Thailand Esports Premier League (TEPL) 2026 | Regular Season Week 3 Day 1",
+      "title_original": "🔴𝐋𝐈𝐕𝐄 การแข่งขัน RoV Thailand Esports Premier League (TEPL) 2026 | Regular Season Week 3 Day 1",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-07-10T21:56:32Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/OAvclPMjM-I/maxresdefault.jpg"
+    },
+    {
       "videoId": "dgmiFUC7owI",
       "title": "Oh nooooooooo",
       "title_original": "Oh nooooooooo",
@@ -2177,28 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-07-02T03:00:23Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/azRW5D14zxo/maxresdefault.jpg"
-    },
-    {
-      "videoId": "YkS4qXanBsw",
-      "title": "ONE STAR ESPORTS VS ANK GAMING | GROUP STAGE APL QUEENS SHOWDOWN 2026 | NGÀY 01/07",
-      "title_original": "ONE STAR ESPORTS VS ANK GAMING | GROUP STAGE APL QUEENS SHOWDOWN 2026 | NGÀY 01/07",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-02T02:00:27Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/YkS4qXanBsw/maxresdefault.jpg"
-    },
-    {
-      "videoId": "AeHeJ9RIeo4",
-      "title": "\"ใจเย็นนะเว้ย อย่าหิวจบ!\" | ไมค์เช็กทีมไทย การแข่งขัน RoV นานาชาติ APL 2026 รอบ Swiss Stage Week 2",
-      "title_original": "\"ใจเย็นนะเว้ย อย่าหิวจบ!\" | ไมค์เช็กทีมไทย การแข่งขัน RoV นานาชาติ APL 2026 รอบ Swiss Stage Week 2",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-02T02:00:00Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/AeHeJ9RIeo4/maxresdefault.jpg"
     }
   ]
 }
