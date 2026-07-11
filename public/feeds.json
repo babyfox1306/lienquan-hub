@@ -11,11 +11,6 @@
       "type": "channel"
     },
     {
-      "id": "UCy19QXxbCHh8qVVCbuGk-ig",
-      "name": "Garena RoV Thailand",
-      "type": "channel"
-    },
-    {
       "id": "UCykFSnImGNa-5DABblw7K-w",
       "name": "Gcaothu CHANNEL",
       "type": "channel"
@@ -51,11 +46,6 @@
       "type": "channel"
     },
     {
-      "id": "UCeMjhoCCvujpObnt6yeZeNg",
-      "name": "Garena 傳說對決",
-      "type": "channel"
-    },
-    {
       "id": "UCwrzeq94NPsz1EHap9r_9NA",
       "name": "Lai Bâng",
       "type": "channel"
@@ -68,6 +58,11 @@
     {
       "id": "UCyqjmx1kcZknycssiIhFQKw",
       "name": "VuxGaming",
+      "type": "channel"
+    },
+    {
+      "id": "UCpQ52533EsOa5k-dQSmD1jw",
+      "name": "Ha Le Quyen",
       "type": "channel"
     },
     {
@@ -93,6 +88,11 @@
     {
       "id": "UCMHSTFMGp-k4Z0kG-CfMSWg",
       "name": "HTT GAMER LIÊN QUÂN MOBILE",
+      "type": "channel"
+    },
+    {
+      "id": "UCWXXFvwmcOHxEk6IlhW1BhA",
+      "name": "Phuc Ram",
       "type": "channel"
     },
     {

@@ -787,8 +787,7 @@
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/7/7c/Toro_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125082122",
       "related_videos": [
         "IOwVhzUCKz4",
-        "jNEtatejG4k",
-        "rPTRGUG-COs"
+        "jNEtatejG4k"
       ]
     },
     {
@@ -1019,12 +1018,13 @@
         "Grakk",
         "Toro"
       ],
-      "tier": "B",
-      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier": "A",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 1)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 2,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/e/e7/Maloch_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125090603",
       "related_videos": [
+        "LIDbnx58NUs",
         "Q4-w4LbaX7g"
       ]
     },
@@ -1207,13 +1207,11 @@
         "Baldum"
       ],
       "tier": "B",
-      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/d/d7/Lauriel_Splash.jpg/revision/latest/scale-to-width-down/500?cb=20171113161316",
-      "related_videos": [
-        "PYR0kY9dNBA"
-      ]
+      "related_videos": []
     },
     {
       "id": "liliana",
@@ -1677,14 +1675,12 @@
         "Violet",
         "Krixi"
       ],
-      "tier": "A",
-      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 1)",
+      "tier": "B",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/7/75/Ormarr_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125084100",
-      "related_videos": [
-        "rPTRGUG-COs"
-      ]
+      "related_videos": []
     },
     {
       "id": "arduin",
@@ -3970,11 +3966,12 @@
       "counters": [],
       "synergies": [],
       "tier": "B",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 0)",
-      "hot": false,
-      "hot_count": 2,
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 3, Score: 0)",
+      "hot": true,
+      "hot_count": 3,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/b/b4/Paine_Soul_Elegy.png/revision/latest/scale-to-width-down/500?cb=20220328044802",
       "related_videos": [
+        "fnbdVB6ziNs",
         "4QO-hTBpVVI",
         "yMTzPJAGLIw"
       ]
@@ -4920,5 +4917,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-11T08:56:08Z"
+  "updated_at": "2026-07-11T10:24:04Z"
 }
