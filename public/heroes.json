@@ -39,9 +39,9 @@
         "Krixi"
       ],
       "tier": "A",
-      "tier_reason": "Được gán từ dữ liệu hạt giống (Seed A-Tier) do ít video mới (Hot Count: 1)",
+      "tier_reason": "Được gán từ dữ liệu hạt giống (Seed A-Tier) do ít video mới (Hot Count: 0)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/3/3f/Nakroth_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20201224121203",
       "related_videos": [
         "rR1uPPDTu9g",
@@ -3655,11 +3655,13 @@
       "counters": [],
       "synergies": [],
       "tier": "B",
-      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
-      "hot_count": 0,
+      "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/8/8f/Kil%27Groth_Splash.jpg/revision/latest/scale-to-width-down/500?cb=20171129175330",
-      "related_videos": []
+      "related_videos": [
+        "Kaf4xV44DBE"
+      ]
     },
     {
       "id": "kriknak",
@@ -4919,5 +4921,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-11T12:01:23Z"
+  "updated_at": "2026-07-11T13:48:50Z"
 }
