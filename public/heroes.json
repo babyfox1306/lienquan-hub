@@ -4907,15 +4907,17 @@
       },
       "counters": [],
       "synergies": [],
-      "tier": "B",
-      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
-      "hot": false,
-      "hot_count": 1,
+      "tier": "A",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 3, Score: 1)",
+      "hot": true,
+      "hot_count": 3,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/9/9e/Zuka_Splash.png/revision/latest/scale-to-width-down/500?cb=20171204210621",
       "related_videos": [
+        "JLwpgPHk5kw",
+        "PW2mcOB5e-M",
         "VeIhIoheGJY"
       ]
     }
   ],
-  "updated_at": "2026-07-11T10:24:04Z"
+  "updated_at": "2026-07-11T12:01:23Z"
 }
