@@ -1862,11 +1862,13 @@
         "Liliana"
       ],
       "tier": "S",
-      "tier_reason": "Được gán từ dữ liệu hạt giống (Seed S-Tier) do ít video mới (Hot Count: 0)",
+      "tier_reason": "Được gán từ dữ liệu hạt giống (Seed S-Tier) do ít video mới (Hot Count: 1)",
       "hot": false,
-      "hot_count": 0,
+      "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/3/36/Taara_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20231220020807",
-      "related_videos": []
+      "related_videos": [
+        "VqMJBpbjUF8"
+      ]
     },
     {
       "id": "qi",
@@ -2594,11 +2596,12 @@
       "counters": [],
       "synergies": [],
       "tier": "A",
-      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 1)",
+      "tier_reason": "Xuất hiện 2 lần trong video/tin tức 14 ngày qua (Score: 2)",
       "hot": false,
-      "hot_count": 0,
+      "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/f/f6/Aya_Splashart.png/revision/latest/scale-to-width-down/500?cb=20220104210403",
       "related_videos": [
+        "VqMJBpbjUF8",
         "jNEtatejG4k"
       ]
     },
@@ -4921,5 +4924,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-11T15:04:46Z"
+  "updated_at": "2026-07-11T16:09:39Z"
 }

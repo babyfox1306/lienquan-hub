@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "EReip0Fi8u4",
+      "title": "10 Ngày leo TĐ Job (40 củi)",
+      "title_original": "10 Ngày leo TĐ Job (40 củi)",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-07-11T15:37:07Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/EReip0Fi8u4/maxresdefault.jpg"
+    },
+    {
       "videoId": "3HyLeqstHAs",
       "title": "TỔNG HỢP CHUỖI SỰ KIỆN 🕺🏻 NGÀY HỘI LIÊN QUÂN 2026: CHƠI SAO CŨNG TRÚNG! 🕺🏻 - Garena Liên Quân Mobile",
       "title_original": "TỔNG HỢP CHUỖI SỰ KIỆN 🕺🏻 NGÀY HỘI LIÊN QUÂN 2026: CHƠI SAO CŨNG TRÚNG! 🕺🏻 - Garena Liên Quân Mobile",
@@ -78,15 +89,15 @@
       "thumbnailUrl": "https://i.ytimg.com/vi/JLwpgPHk5kw/maxresdefault.jpg"
     },
     {
-      "videoId": "EReip0Fi8u4",
-      "title": "10 Ngày leo TĐ Job (40 củi)",
-      "title_original": "10 Ngày leo TĐ Job (40 củi)",
+      "videoId": "VqMJBpbjUF8",
+      "title": "Cận Cảnh Taara Aya Hồi Máu Siêu Nhiều Cân 5 Là Dễ Chấp Hết Phù Hiệu Với Combo Lõi Siêu Mạnh",
+      "title_original": "Cận Cảnh Taara Aya Hồi Máu Siêu Nhiều Cân 5 Là Dễ Chấp Hết Phù Hiệu Với Combo Lõi Siêu Mạnh",
       "translated": false,
       "country": "VN",
       "lang_original": "vi",
       "source": "youtube",
-      "publishedAt": "2026-07-11T10:51:23Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/EReip0Fi8u4/maxresdefault.jpg"
+      "publishedAt": "2026-07-11T10:54:49Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/VqMJBpbjUF8/maxresdefault.jpg"
     },
     {
       "videoId": "PW2mcOB5e-M",
@@ -2188,17 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-07-02T17:49:19Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/T5vatXwmVUs/maxresdefault.jpg"
-    },
-    {
-      "videoId": "asQTIDBTVZY",
-      "title": "Queens Showdown Group Stage Day 2 | Garena AOV Indonesia",
-      "title_original": "Queens Showdown Group Stage Day 2 | Garena AOV Indonesia",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-02T16:37:36Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/asQTIDBTVZY/maxresdefault.jpg"
     }
   ]
 }
