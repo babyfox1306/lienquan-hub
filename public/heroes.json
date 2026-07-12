@@ -2187,11 +2187,13 @@
         "Krixi"
       ],
       "tier": "B",
-      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
-      "hot": false,
-      "hot_count": 1,
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 3, Score: 0)",
+      "hot": true,
+      "hot_count": 3,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/f/f9/Arthur_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20221110122653",
       "related_videos": [
+        "w2f7pU1vbzo",
+        "1dbd3HXqIDs",
         "bCWYqVLML7E"
       ]
     },
@@ -4924,5 +4926,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-12T19:17:55Z"
+  "updated_at": "2026-07-12T21:02:01Z"
 }
