@@ -972,11 +972,13 @@
         "Alice"
       ],
       "tier": "S",
-      "tier_reason": "Được gán từ dữ liệu hạt giống (Seed S-Tier) do ít video mới (Hot Count: 0)",
+      "tier_reason": "Được gán từ dữ liệu hạt giống (Seed S-Tier) do ít video mới (Hot Count: 1)",
       "hot": false,
-      "hot_count": 0,
+      "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/a/ab/Volkath_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20200531224601",
-      "related_videos": []
+      "related_videos": [
+        "CuUwYx9VtQ4"
+      ]
     },
     {
       "id": "maloch",
@@ -3927,13 +3929,12 @@
       "counters": [],
       "synergies": [],
       "tier": "A",
-      "tier_reason": "Xuất hiện 2 lần trong video/tin tức 14 ngày qua (Score: 1)",
+      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 1)",
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/3/34/Moren_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125052805",
       "related_videos": [
-        "jNEtatejG4k",
-        "2DdDFF610iQ"
+        "jNEtatejG4k"
       ]
     },
     {
@@ -3969,11 +3970,12 @@
       "counters": [],
       "synergies": [],
       "tier": "B",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 3, Score: 0)",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 4, Score: 0)",
       "hot": true,
-      "hot_count": 3,
+      "hot_count": 4,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/b/b4/Paine_Soul_Elegy.png/revision/latest/scale-to-width-down/500?cb=20220328044802",
       "related_videos": [
+        "CuUwYx9VtQ4",
         "fnbdVB6ziNs",
         "4QO-hTBpVVI",
         "yMTzPJAGLIw"
@@ -4922,5 +4924,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-12T07:36:09Z"
+  "updated_at": "2026-07-12T10:01:23Z"
 }
