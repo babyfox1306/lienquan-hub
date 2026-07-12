@@ -1,6 +1,28 @@
 {
   "videos": [
     {
+      "videoId": "HXLvlz9aIeY",
+      "title": "LIÊN QUÂN : Biệt Đội Chú Thuật Hồi Chiến Bất Ngờ Xuất Hiện Khiến Đội Bạn Chỉ Biết Tháo Chạy",
+      "title_original": "LIÊN QUÂN : Biệt Đội Chú Thuật Hồi Chiến Bất Ngờ Xuất Hiện Khiến Đội Bạn Chỉ Biết Tháo Chạy",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-07-12T13:30:19Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/HXLvlz9aIeY/maxresdefault.jpg"
+    },
+    {
+      "videoId": "jeyezse2C50",
+      "title": "TRANG BỊ CHO YUE MÙA MỚI - TRẬN ĐẤU LÊN CAO THỦ CỦA ICYFOXX",
+      "title_original": "TRANG BỊ CHO YUE MÙA MỚI - TRẬN ĐẤU LÊN CAO THỦ CỦA ICYFOXX",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-07-12T11:32:24Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/jeyezse2C50/maxresdefault.jpg"
+    },
+    {
       "videoId": "j8jwvUt65VE",
       "title": "(Goose Goose Duck #1) CHÚ VỊT YẾU ỚT VÀ QUẢ BOOM",
       "title_original": "(Goose Goose Duck #1) CHÚ VỊT YẾU ỚT VÀ QUẢ BOOM",
@@ -2177,28 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-07-03T12:00:21Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/oWD38N_Jk98/maxresdefault.jpg"
-    },
-    {
-      "videoId": "eV0_wlcY-Qk",
-      "title": "HAYATE TU DI THÁNH ĐẾ BUFF DAME NGẦM THÌ PHẢI",
-      "title_original": "HAYATE TU DI THÁNH ĐẾ BUFF DAME NGẦM THÌ PHẢI",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-03T11:52:53Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/eV0_wlcY-Qk/maxresdefault.jpg"
-    },
-    {
-      "videoId": "YR29FLgLTfc",
-      "title": "Kary Thử Múa Flo Với Build Đồ Liềm Slot 2 Kết Hợp Thương Khung Liệu Có Mạnh",
-      "title_original": "Kary Thử Múa Flo Với Build Đồ Liềm Slot 2 Kết Hợp Thương Khung Liệu Có Mạnh",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-03T11:42:26Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/YR29FLgLTfc/maxresdefault.jpg"
     }
   ]
 }

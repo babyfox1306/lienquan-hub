@@ -366,8 +366,7 @@
       "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/1/1f/Hayate_profile.jpg/revision/latest/scale-to-width-down/500?cb=20200531224525",
       "related_videos": [
-        "iGTS19dydtk",
-        "eV0_wlcY-Qk"
+        "iGTS19dydtk"
       ]
     },
     {
@@ -1117,7 +1116,7 @@
       "tier": "B",
       "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/2/2c/Tulen_Splash.jpeg/revision/latest/scale-to-width-down/500?cb=20180102103714",
       "related_videos": [
         "RBC61fu_jkI"
@@ -4923,5 +4922,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-12T11:21:32Z"
+  "updated_at": "2026-07-12T13:44:14Z"
 }
