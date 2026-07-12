@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "j8jwvUt65VE",
+      "title": "(Goose Goose Duck #1) CHÚ VỊT YẾU ỚT VÀ QUẢ BOOM",
+      "title_original": "(Goose Goose Duck #1) CHÚ VỊT YẾU ỚT VÀ QUẢ BOOM",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-07-12T10:11:38Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/j8jwvUt65VE/maxresdefault.jpg"
+    },
+    {
       "videoId": "CuUwYx9VtQ4",
       "title": "CM VNH VIN - PAINE v VOLKATH Ti Ma S3 2026, iu G ang Xy Ra Ti APL 2026",
       "title_original": "CM VNH VIN - PAINE v VOLKATH Ti Ma S3 2026, iu G ang Xy Ra Ti APL 2026",
@@ -90,8 +101,8 @@
     },
     {
       "videoId": "3l7Tq4GFiiw",
-      "title": "🔴𝐋𝐈𝐕𝐄 [เริ่ม 17:00] 🇹🇭 Bacon Time 🆚 Relove Deep Cross Gaming | การแข่งขัน RoV นานาชาติ APL 2026",
-      "title_original": "🔴𝐋𝐈𝐕𝐄 [เริ่ม 17:00] 🇹🇭 Bacon Time 🆚 Relove Deep Cross Gaming | การแข่งขัน RoV นานาชาติ APL 2026",
+      "title": "🔴𝐋𝐈𝐕𝐄 เชียร์ไทยชิงตั๋วรอบชิง 🇹🇭Bacon Time 0 🆚 1 Deep Cross Gaming | การแข่งขัน RoV นานาชาติ APL 2026",
+      "title_original": "🔴𝐋𝐈𝐕𝐄 เชียร์ไทยชิงตั๋วรอบชิง 🇹🇭Bacon Time 0 🆚 1 Deep Cross Gaming | การแข่งขัน RoV นานาชาติ APL 2026",
       "translated": false,
       "country": "VN",
       "lang_original": "vi",
@@ -2188,17 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-07-03T11:42:26Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/YR29FLgLTfc/maxresdefault.jpg"
-    },
-    {
-      "videoId": "_Fl0HZqG79E",
-      "title": "🔴Múa vài trận Nakroth gồi off",
-      "title_original": "🔴Múa vài trận Nakroth gồi off",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-03T11:41:17Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/_Fl0HZqG79E/maxresdefault.jpg"
     }
   ]
 }
