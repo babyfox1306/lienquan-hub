@@ -408,9 +408,9 @@
         "Liliana"
       ],
       "tier": "A",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 4, Score: 2)",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 3, Score: 2)",
       "hot": true,
-      "hot_count": 4,
+      "hot_count": 3,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/3/3f/The_Diminisher.png/revision/latest/scale-to-width-down/500?cb=20230721030441",
       "related_videos": [
         "Fd9z-XZVSVY",
@@ -785,8 +785,7 @@
       "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/7/7c/Toro_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125082122",
       "related_videos": [
-        "IOwVhzUCKz4",
-        "jNEtatejG4k"
+        "IOwVhzUCKz4"
       ]
     },
     {
@@ -875,13 +874,11 @@
         "Wukong"
       ],
       "tier": "B",
-      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/3/3b/Alice_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125083007",
-      "related_videos": [
-        "hkz1iGzGVm0"
-      ]
+      "related_videos": []
     },
     {
       "id": "jinna",
@@ -2601,13 +2598,12 @@
       "counters": [],
       "synergies": [],
       "tier": "A",
-      "tier_reason": "Xuất hiện 2 lần trong video/tin tức 14 ngày qua (Score: 2)",
+      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 1)",
       "hot": false,
       "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/f/f6/Aya_Splashart.png/revision/latest/scale-to-width-down/500?cb=20220104210403",
       "related_videos": [
-        "VqMJBpbjUF8",
-        "jNEtatejG4k"
+        "VqMJBpbjUF8"
       ]
     },
     {
@@ -2681,14 +2677,12 @@
       },
       "counters": [],
       "synergies": [],
-      "tier": "A",
-      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 1)",
+      "tier": "B",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/0/0c/Bijan.jpg/revision/latest?cb=20230718044752",
-      "related_videos": [
-        "jNEtatejG4k"
-      ]
+      "related_videos": []
     },
     {
       "id": "biron",
@@ -3154,9 +3148,9 @@
       "counters": [],
       "synergies": [],
       "tier": "B",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 0)",
+      "tier_reason": "Xuất hiện 2 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
-      "hot_count": 2,
+      "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/e/e6/Dolia_Splash_Art.jpeg/revision/latest/scale-to-width-down/500?cb=20240710174030",
       "related_videos": [
         "C5US-x9tDQg",
@@ -3430,9 +3424,9 @@
       "counters": [],
       "synergies": [],
       "tier": "B",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 0)",
+      "tier_reason": "Xuất hiện 2 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
-      "hot_count": 2,
+      "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/8/86/Heino_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260124103942",
       "related_videos": [
         "2tSt1SYgKlE",
@@ -3935,14 +3929,12 @@
       },
       "counters": [],
       "synergies": [],
-      "tier": "A",
-      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 1)",
+      "tier": "B",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/3/34/Moren_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125052805",
-      "related_videos": [
-        "jNEtatejG4k"
-      ]
+      "related_videos": []
     },
     {
       "id": "paine",
@@ -4933,5 +4925,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-13T07:31:40Z"
+  "updated_at": "2026-07-13T11:24:04Z"
 }
