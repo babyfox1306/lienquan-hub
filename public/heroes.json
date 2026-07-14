@@ -1015,11 +1015,12 @@
         "Toro"
       ],
       "tier": "A",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 1)",
-      "hot": false,
-      "hot_count": 2,
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 3, Score: 1)",
+      "hot": true,
+      "hot_count": 3,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/e/e7/Maloch_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125090603",
       "related_videos": [
+        "d-w3y_U4JHM",
         "LIDbnx58NUs",
         "Q4-w4LbaX7g"
       ]
@@ -2872,8 +2873,8 @@
       },
       "counters": [],
       "synergies": [],
-      "tier": "A",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 4, Score: 1)",
+      "tier": "B",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 4, Score: 0)",
       "hot": true,
       "hot_count": 4,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/c/ca/Butterfly_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125083110",
@@ -2881,8 +2882,7 @@
         "Fd9z-XZVSVY",
         "t0cXaiMvNrU",
         "0dHWoDG3d_I",
-        "n0m-8bTd1O4",
-        "OyTzBGTFrDY"
+        "n0m-8bTd1O4"
       ]
     },
     {
@@ -4927,5 +4927,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-14T10:08:43Z"
+  "updated_at": "2026-07-14T12:23:30Z"
 }
