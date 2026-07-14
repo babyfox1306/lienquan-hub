@@ -39,11 +39,13 @@
         "Krixi"
       ],
       "tier": "A",
-      "tier_reason": "Được gán từ dữ liệu hạt giống (Seed A-Tier) do ít video mới (Hot Count: 0)",
+      "tier_reason": "Được gán từ dữ liệu hạt giống (Seed A-Tier) do ít video mới (Hot Count: 1)",
       "hot": false,
-      "hot_count": 0,
+      "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/3/3f/Nakroth_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20201224121203",
-      "related_videos": []
+      "related_videos": [
+        "Tx78okIbT2Q"
+      ]
     },
     {
       "id": "murad",
@@ -406,11 +408,12 @@
         "Liliana"
       ],
       "tier": "A",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 3, Score: 2)",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 4, Score: 2)",
       "hot": true,
-      "hot_count": 3,
+      "hot_count": 4,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/3/3f/The_Diminisher.png/revision/latest/scale-to-width-down/500?cb=20230721030441",
       "related_videos": [
+        "lwRbPZhXxmk",
         "Fd9z-XZVSVY",
         "tyPTucIKty8",
         "CX91r4005dY",
@@ -1111,13 +1114,11 @@
         "Alice"
       ],
       "tier": "B",
-      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/2/2c/Tulen_Splash.jpeg/revision/latest/scale-to-width-down/500?cb=20180102103714",
-      "related_videos": [
-        "RBC61fu_jkI"
-      ]
+      "related_videos": []
     },
     {
       "id": "ignis",
@@ -4927,5 +4928,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-14T12:23:30Z"
+  "updated_at": "2026-07-14T15:02:55Z"
 }
