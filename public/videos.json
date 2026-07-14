@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "Wp8zPLGa5N8",
+      "title": "BACON TIME VS RELOVE DEEP CROSS GAMING | SEMI FINALS APL 2026 | NGÀY 12/07",
+      "title_original": "BACON TIME VS RELOVE DEEP CROSS GAMING | SEMI FINALS APL 2026 | NGÀY 12/07",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-07-14T00:00:06Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/Wp8zPLGa5N8/maxresdefault.jpg"
+    },
+    {
       "videoId": "D0pyFh5iVBM",
       "title": "10 Ngày leo top 10 TD ( Ngay 4)",
       "title_original": "10 Ngày leo top 10 TD ( Ngay 4)",
@@ -2188,17 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-07-04T18:00:08Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/3GlmEjnZVJ4/maxresdefault.jpg"
-    },
-    {
-      "videoId": "NvXYgCBR88E",
-      "title": "การแข่งขัน RoV นานาชาติ APL 2026 รอบ 8 ทีมสุดท้าย (Quarter Finals) วันที่ 1",
-      "title_original": "การแข่งขัน RoV นานาชาติ APL 2026 รอบ 8 ทีมสุดท้าย (Quarter Finals) วันที่ 1",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-04T17:55:10Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/NvXYgCBR88E/maxresdefault.jpg"
     }
   ]
 }
