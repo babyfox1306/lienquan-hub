@@ -1,6 +1,28 @@
 {
   "videos": [
     {
+      "videoId": "fbQ1K7p15ME",
+      "title": "Chơi Game Vịt Với Mấy AE Liên Quân Nha",
+      "title_original": "Chơi Game Vịt Với Mấy AE Liên Quân Nha",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-07-15T13:47:44Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/fbQ1K7p15ME/maxresdefault.jpg"
+    },
+    {
+      "videoId": "4G436qrmYCM",
+      "title": "LIÊN QUÂN : Biệt Đội 5 Gã Khổng Lồ Lần Đầu Tiên Xuất Hiện - Lấy Thịt Đè Người Cũng Win",
+      "title_original": "LIÊN QUÂN : Biệt Đội 5 Gã Khổng Lồ Lần Đầu Tiên Xuất Hiện - Lấy Thịt Đè Người Cũng Win",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-07-15T13:30:30Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/4G436qrmYCM/maxresdefault.jpg"
+    },
+    {
       "videoId": "6zg50PLmP4g",
       "title": "⚔️ HIỆU ỨNG CHIÊU THỨC | MALOCH ĐẤU SĨ ĐOẠT THẺ ⚔️ - Garena Liên Quân Mobile",
       "title_original": "⚔️ HIỆU ỨNG CHIÊU THỨC | MALOCH ĐẤU SĨ ĐOẠT THẺ ⚔️ - Garena Liên Quân Mobile",
@@ -2177,28 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-07-06T01:00:26Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/BB0NcV412S0/maxresdefault.jpg"
-    },
-    {
-      "videoId": "ql8A71Eerk8",
-      "title": "SAIGON PHANTOM VS FPT POLYTECHNIC | QUARTER FINAL APL 2026 | NGÀY 05/07",
-      "title_original": "SAIGON PHANTOM VS FPT POLYTECHNIC | QUARTER FINAL APL 2026 | NGÀY 05/07",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-06T00:30:06Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/ql8A71Eerk8/maxresdefault.jpg"
-    },
-    {
-      "videoId": "tE0kpNTL65g",
-      "title": "FULL SENSE VS FPT POLYTECHNIC | QUARTER FINAL APL 2026 | NGÀY 05/07",
-      "title_original": "FULL SENSE VS FPT POLYTECHNIC | QUARTER FINAL APL 2026 | NGÀY 05/07",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-06T00:00:17Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/tE0kpNTL65g/maxresdefault.jpg"
     }
   ]
 }
