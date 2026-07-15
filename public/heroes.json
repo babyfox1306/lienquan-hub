@@ -1020,11 +1020,12 @@
         "Toro"
       ],
       "tier": "A",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 3, Score: 1)",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 4, Score: 1)",
       "hot": true,
-      "hot_count": 3,
+      "hot_count": 4,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/e/e7/Maloch_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125090603",
       "related_videos": [
+        "6zg50PLmP4g",
         "d-w3y_U4JHM",
         "LIDbnx58NUs",
         "Q4-w4LbaX7g"
@@ -1302,11 +1303,12 @@
         "Arthur"
       ],
       "tier": "B",
-      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện 2 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
       "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/0/0f/Dirak_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125044153",
       "related_videos": [
+        "PeLrz1AuG5c",
         "PF7ITM-3w_U"
       ]
     },
@@ -4930,5 +4932,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-15T09:17:38Z"
+  "updated_at": "2026-07-15T11:44:15Z"
 }
