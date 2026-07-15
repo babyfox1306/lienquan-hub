@@ -1,6 +1,50 @@
 {
   "videos": [
     {
+      "videoId": "xb_jJ01bhGg",
+      "title": "APL 2026 四強賽D2 -2026/07/18《Garena傳說對決》",
+      "title_original": "APL 2026 四強賽D2 -2026/07/18《Garena傳說對決》",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-07-15T08:08:48Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/xb_jJ01bhGg/maxresdefault.jpg"
+    },
+    {
+      "videoId": "8EIH2aIQoKQ",
+      "title": "《Garena 傳說對決》最強福利 7/18 王牌傳說日登場",
+      "title_original": "《Garena 傳說對決》最強福利 7/18 王牌傳說日登場",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-07-15T04:30:18Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/8EIH2aIQoKQ/maxresdefault.jpg"
+    },
+    {
+      "videoId": "NEs7duDRPvk",
+      "title": "TOP 5 Tướng Khắc Chế Alice, Kèo Mid Meta S3 2026, TNG",
+      "title_original": "TOP 5 Tướng Khắc Chế Alice, Kèo Mid Meta S3 2026, TNG",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-07-15T03:18:11Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/NEs7duDRPvk/maxresdefault.jpg"
+    },
+    {
+      "videoId": "ze06uDIwA7k",
+      "title": "Liên Quân | Mẹo Nhiều Bi Nhận FREE 1000 Quân Huy Và 3 Rương Skin Sự Kiện Bắn Bi Trúng Quà Chung Sức",
+      "title_original": "Liên Quân | Mẹo Nhiều Bi Nhận FREE 1000 Quân Huy Và 3 Rương Skin Sự Kiện Bắn Bi Trúng Quà Chung Sức",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-07-15T02:41:14Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/ze06uDIwA7k/maxresdefault.jpg"
+    },
+    {
       "videoId": "UUJpBz-bnbk",
       "title": "10 Ngày leo top 10 TD ( Ngay 5)",
       "title_original": "10 Ngày leo top 10 TD ( Ngay 5)",
@@ -2155,50 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-07-05T15:09:27Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/K-nAF5jr-6k/maxresdefault.jpg"
-    },
-    {
-      "videoId": "jWN-1qHJpa4",
-      "title": "Quarter Final APL 2026 Day 2 | Garena AOV Indonesia",
-      "title_original": "Quarter Final APL 2026 Day 2 | Garena AOV Indonesia",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-05T15:09:07Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/jWN-1qHJpa4/maxresdefault.jpg"
-    },
-    {
-      "videoId": "a3-oh0sKz_Q",
-      "title": "🔴 TRỰC TIẾP: FPT POLYTECHNIC vs SAIGON PHANTOM | QUARTER FINALS - APL 2026 (NGÀY 05/07)",
-      "title_original": "🔴 TRỰC TIẾP: FPT POLYTECHNIC vs SAIGON PHANTOM | QUARTER FINALS - APL 2026 (NGÀY 05/07)",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-05T15:07:07Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/a3-oh0sKz_Q/maxresdefault.jpg"
-    },
-    {
-      "videoId": "8_i6Xdqi_RE",
-      "title": "APL 2026 八強賽D2-2026/07/05《Garena傳說對決》",
-      "title_original": "APL 2026 八強賽D2-2026/07/05《Garena傳說對決》",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-05T15:05:37Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/8_i6Xdqi_RE/maxresdefault.jpg"
-    },
-    {
-      "videoId": "U5Wv8TxGDac",
-      "title": "การแข่งขัน RoV นานาชาติ APL 2026 รอบ 8 ทีมสุดท้าย (Quarter Finals) วันที่ 2",
-      "title_original": "การแข่งขัน RoV นานาชาติ APL 2026 รอบ 8 ทีมสุดท้าย (Quarter Finals) วันที่ 2",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-05T14:59:16Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/U5Wv8TxGDac/maxresdefault.jpg"
     }
   ]
 }
