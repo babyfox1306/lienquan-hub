@@ -418,8 +418,7 @@
         "lwRbPZhXxmk",
         "Fd9z-XZVSVY",
         "tyPTucIKty8",
-        "CX91r4005dY",
-        "L1GYfSIIT-A"
+        "CX91r4005dY"
       ]
     },
     {
@@ -2058,11 +2057,13 @@
         "Thane"
       ],
       "tier": "B",
-      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
-      "hot_count": 0,
+      "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/e/e1/Natalya.png/revision/latest?cb=20210109153000",
-      "related_videos": []
+      "related_videos": [
+        "qUU8_-5K_jw"
+      ]
     },
     {
       "id": "mganga",
@@ -3084,7 +3085,7 @@
       "tier": "C",
       "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: -1)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/c/ce/Dextra_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260124110012",
       "related_videos": [
         "-YEtXNH5MX8"
@@ -4298,9 +4299,9 @@
       "counters": [],
       "synergies": [],
       "tier": "S",
-      "tier_reason": "Được gán từ dữ liệu hạt giống (Seed S-Tier) do ít video mới (Hot Count: 1)",
+      "tier_reason": "Được gán từ dữ liệu hạt giống (Seed S-Tier) do ít video mới (Hot Count: 0)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/6/60/Sinestrea_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20220702032816",
       "related_videos": [
         "-YEtXNH5MX8"
@@ -4938,5 +4939,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-16T09:24:05Z"
+  "updated_at": "2026-07-16T11:49:18Z"
 }
