@@ -1,6 +1,28 @@
 {
   "videos": [
     {
+      "videoId": "v5Y3jRaF-e0",
+      "title": "BÁN KẾT SIÊU SAO TOÀN NĂNG 6: HẮC LONG VS TÔI LÀ GHẾ",
+      "title_original": "BÁN KẾT SIÊU SAO TOÀN NĂNG 6: HẮC LONG VS TÔI LÀ GHẾ",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-07-16T15:46:13Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/v5Y3jRaF-e0/maxresdefault.jpg"
+    },
+    {
+      "videoId": "aK5EOAqLpFk",
+      "title": "Ai gnh Tn Bo ti nay",
+      "title_original": "Ai gnh Tn Bo ti nay",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-07-16T14:31:47Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/aK5EOAqLpFk/maxresdefault.jpg"
+    },
+    {
       "videoId": "uwq-BltYrwE",
       "title": "20260716 王牌傳說日 環島幫來啦 feat. 廚佛Fred, 洋蔥, 班尼",
       "title_original": "20260716 王牌傳說日 環島幫來啦 feat. 廚佛Fred, 洋蔥, 班尼",
@@ -2177,28 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-07-07T10:30:28Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/nJzVKbNDbt0/maxresdefault.jpg"
-    },
-    {
-      "videoId": "oYHUPnMiRgo",
-      "title": "MIC CHECK QUEENS SHOWDOWN #1: 1S - SGP: NUỐT CHỬNG BÓNG MA | APL 2026",
-      "title_original": "MIC CHECK QUEENS SHOWDOWN #1: 1S - SGP: NUỐT CHỬNG BÓNG MA | APL 2026",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-07T10:00:23Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/oYHUPnMiRgo/maxresdefault.jpg"
-    },
-    {
-      "videoId": "oIHKem3E_Fs",
-      "title": "VUX HÀNH TRÌNH VALHEIN THỨ NGUYÊN VỆ THẦN TỪ ĐỒNG LÊN CHIẾN TƯỚNG LIÊN QUÂN MOBILE",
-      "title_original": "VUX HÀNH TRÌNH VALHEIN THỨ NGUYÊN VỆ THẦN TỪ ĐỒNG LÊN CHIẾN TƯỚNG LIÊN QUÂN MOBILE",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-07T08:35:30Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/oIHKem3E_Fs/maxresdefault.jpg"
     }
   ]
 }
