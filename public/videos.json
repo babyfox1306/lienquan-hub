@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "9LQL70yEP0c",
+      "title": "🔴Ai sẽ gánh tui tiếp tối nay",
+      "title_original": "🔴Ai sẽ gánh tui tiếp tối nay",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-07-17T17:41:21Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/9LQL70yEP0c/maxresdefault.jpg"
+    },
+    {
       "videoId": "moqOH8Zl8wI",
       "title": "🎬 INGAME TRAILER | NATALYA PHÙ THỦY BÓNG ĐÊM - Garena Liên Quân Mobile",
       "title_original": "🎬 INGAME TRAILER | NATALYA PHÙ THỦY BÓNG ĐÊM - Garena Liên Quân Mobile",
@@ -32,17 +43,6 @@
       "source": "youtube",
       "publishedAt": "2026-07-17T13:55:21Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/A-ioMeWmI5U/maxresdefault.jpg"
-    },
-    {
-      "videoId": "9LQL70yEP0c",
-      "title": "🔴Ai sẽ gánh tui tiếp tối nay",
-      "title_original": "🔴Ai sẽ gánh tui tiếp tối nay",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-17T13:33:47Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/9LQL70yEP0c/maxresdefault.jpg"
     },
     {
       "videoId": "8jFDO_iCyL8",
@@ -177,6 +177,17 @@
       "thumbnailUrl": "https://i.ytimg.com/vi/VB_jfzZJNhE/maxresdefault.jpg"
     },
     {
+      "videoId": "W39lJOBzEBw",
+      "title": "PHA BACKDOOR THỂ HIỆN TƯ DUY CỰC ĐỈNH CỦA BỐP BỐP",
+      "title_original": "PHA BACKDOOR THỂ HIỆN TƯ DUY CỰC ĐỈNH CỦA BỐP BỐP",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-07-17T10:30:06Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/W39lJOBzEBw/maxresdefault.jpg"
+    },
+    {
       "videoId": "KmkLXlboZnQ",
       "title": "TOẠ ĐỘ KHỞI NGUỒN CỦA KỶ NGUYÊN MỚI - THE KINGDOM OF VALOR |LIÊN QUÂN MOBILE X SUN WORLD BA NA HILLS",
       "title_original": "TOẠ ĐỘ KHỞI NGUỒN CỦA KỶ NGUYÊN MỚI - THE KINGDOM OF VALOR |LIÊN QUÂN MOBILE X SUN WORLD BA NA HILLS",
@@ -307,6 +318,17 @@
       "source": "youtube",
       "publishedAt": "2026-07-16T18:10:49Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/aK5EOAqLpFk/maxresdefault.jpg"
+    },
+    {
+      "videoId": "0K2KrCD7gV8",
+      "title": "Team 5 giai tri",
+      "title_original": "Team 5 giai tri",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-07-16T16:32:23Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/0K2KrCD7gV8/maxresdefault.jpg"
     },
     {
       "videoId": "v5Y3jRaF-e0",
@@ -604,6 +626,17 @@
       "source": "youtube",
       "publishedAt": "2026-07-14T21:23:59Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/UUJpBz-bnbk/maxresdefault.jpg"
+    },
+    {
+      "videoId": "OGgwu6C2DOI",
+      "title": "Team 5 giai tri",
+      "title_original": "Team 5 giai tri",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-07-14T18:05:28Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/OGgwu6C2DOI/maxresdefault.jpg"
     },
     {
       "videoId": "VKRREORLY0s",
@@ -925,6 +958,17 @@
       "thumbnailUrl": "https://i.ytimg.com/vi/UhFA57bCw74/maxresdefault.jpg"
     },
     {
+      "videoId": "FWxd8lep16E",
+      "title": "BỐP BỐP CẦM TƯỚNG TỦ RYOMA ĐI RANK ĐẦU MÙA VÀ CÁI KẾT ĐƯỢC FREE SKIN 3S",
+      "title_original": "BỐP BỐP CẦM TƯỚNG TỦ RYOMA ĐI RANK ĐẦU MÙA VÀ CÁI KẾT ĐƯỢC FREE SKIN 3S",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-07-13T10:30:03Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/FWxd8lep16E/maxresdefault.jpg"
+    },
+    {
       "videoId": "SyZgkA5ogVM",
       "title": "🔴Mới ngủ dậy",
       "title_original": "🔴Mới ngủ dậy",
@@ -1033,6 +1077,28 @@
       "source": "youtube",
       "publishedAt": "2026-07-13T03:33:06Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/Bfdm1T3GhBI/maxresdefault.jpg"
+    },
+    {
+      "videoId": "zDc1vrGleAM",
+      "title": "DCG vs BAC | QUARTER FINALS - APL 2026 | Hải Phong CO-STREAM 12.07.26",
+      "title_original": "DCG vs BAC | QUARTER FINALS - APL 2026 | Hải Phong CO-STREAM 12.07.26",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-07-13T01:21:01Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/zDc1vrGleAM/maxresdefault.jpg"
+    },
+    {
+      "videoId": "b6_rLe1CYjY",
+      "title": "DCG vs BAC | QUARTER FINALS - APL 2026 | Hải Phong CO-STREAM 12.07.26",
+      "title_original": "DCG vs BAC | QUARTER FINALS - APL 2026 | Hải Phong CO-STREAM 12.07.26",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-07-12T23:24:20Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/b6_rLe1CYjY/maxresdefault.jpg"
     },
     {
       "videoId": "iskYG2E3jn4",
@@ -1431,6 +1497,17 @@
       "thumbnailUrl": "https://i.ytimg.com/vi/OAvclPMjM-I/maxresdefault.jpg"
     },
     {
+      "videoId": "FC7qqlxx84A",
+      "title": "Luồng Cảm Xúc SGP - 1S | PLAYOFFS - QUEENS SHOWDOWN 2026 | Hải Phong CO-STREAM 11.07.26",
+      "title_original": "Luồng Cảm Xúc SGP - 1S | PLAYOFFS - QUEENS SHOWDOWN 2026 | Hải Phong CO-STREAM 11.07.26",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-07-11T12:19:23Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/FC7qqlxx84A/maxresdefault.jpg"
+    },
+    {
       "videoId": "acFxk7F9Qqs",
       "title": "Tamyn Là Con Tướng Phế Nhất Liên Quân ?",
       "title_original": "Tamyn Là Con Tướng Phế Nhất Liên Quân ?",
@@ -1750,6 +1827,17 @@
       "thumbnailUrl": "https://i.ytimg.com/vi/zVIcqiHVbzM/maxresdefault.jpg"
     },
     {
+      "videoId": "0o9kv-iF634",
+      "title": "Cổ vũ FPT vs FPL Bán Kết Nhánh Thua APL 2026 | Hải Phong CO-STREAM 10.07.26",
+      "title_original": "Cổ vũ FPT vs FPL Bán Kết Nhánh Thua APL 2026 | Hải Phong CO-STREAM 10.07.26",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-07-10T09:53:41Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/0o9kv-iF634/maxresdefault.jpg"
+    },
+    {
       "videoId": "s9Bxrenou6w",
       "title": "🔴Luyện tập Tamyn thôi nào",
       "title_original": "🔴Luyện tập Tamyn thôi nào",
@@ -2025,6 +2113,17 @@
       "thumbnailUrl": "https://i.ytimg.com/vi/klGNf1rBAR4/maxresdefault.jpg"
     },
     {
+      "videoId": "Q7j5hgtJE9M",
+      "title": "Cổ vũ FPT vs BAC Tứ Kết APL 2026 | Hải Phong CO-STREAM 09.07.26",
+      "title_original": "Cổ vũ FPT vs BAC Tứ Kết APL 2026 | Hải Phong CO-STREAM 09.07.26",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-07-09T11:23:04Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/Q7j5hgtJE9M/maxresdefault.jpg"
+    },
+    {
       "videoId": "8sFuzFA8S2M",
       "title": "TRỰC TIẾP: FPT X FLASH vs BACON TIME - TẤM VÉ ĐẦU TIÊN TỚI TIÊN SƠN | LUỒNG CẢM XÚC NAMSENSEI",
       "title_original": "TRỰC TIẾP: FPT X FLASH vs BACON TIME - TẤM VÉ ĐẦU TIÊN TỚI TIÊN SƠN | LUỒNG CẢM XÚC NAMSENSEI",
@@ -2100,105 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-07-09T08:00:24Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/9zuiysEEey8/maxresdefault.jpg"
-    },
-    {
-      "videoId": "H78KCClX8KE",
-      "title": "Rank Dau mua Team 5",
-      "title_original": "Rank Dau mua Team 5",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-09T07:25:50Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/H78KCClX8KE/maxresdefault.jpg"
-    },
-    {
-      "videoId": "RUt_x-2oMCE",
-      "title": "【傳說新造型】刀鋒寶貝「性感遊戲」|造型展示影片《Garena傳說對決》",
-      "title_original": "【傳說新造型】刀鋒寶貝「性感遊戲」|造型展示影片《Garena傳說對決》",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-09T06:00:23Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/RUt_x-2oMCE/maxresdefault.jpg"
-    },
-    {
-      "videoId": "cgeV_k2FmUw",
-      "title": "VIDEO CUỐI CÙNG CHƠI LILIANA - TẠM BIỆT NÀNG CÁO?",
-      "title_original": "VIDEO CUỐI CÙNG CHƠI LILIANA - TẠM BIỆT NÀNG CÁO?",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-09T05:21:59Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/cgeV_k2FmUw/maxresdefault.jpg"
-    },
-    {
-      "videoId": "ooZE9mHrg-s",
-      "title": "TRẢI NGHIỆM LILIANA Ở 120 FPS - LƯỚT CỰC MƯỢT | Liên quân mobile",
-      "title_original": "TRẢI NGHIỆM LILIANA Ở 120 FPS - LƯỚT CỰC MƯỢT | Liên quân mobile",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-09T05:00:34Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/ooZE9mHrg-s/maxresdefault.jpg"
-    },
-    {
-      "videoId": "ysAEeFSW1ZA",
-      "title": "MIC CHECK #4: FPT - BRU: KHOẢNH KHẮC CỦA THIÊN TÀI | APL 2026",
-      "title_original": "MIC CHECK #4: FPT - BRU: KHOẢNH KHẮC CỦA THIÊN TÀI | APL 2026",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-09T04:00:05Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/ysAEeFSW1ZA/maxresdefault.jpg"
-    },
-    {
-      "videoId": "4QO-hTBpVVI",
-      "title": "SKIN Spotlight | Mystical Beast : Serpent Paine",
-      "title_original": "SKIN Spotlight | Mystical Beast : Serpent Paine",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-09T03:00:22Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/4QO-hTBpVVI/maxresdefault.jpg"
-    },
-    {
-      "videoId": "IOwVhzUCKz4",
-      "title": "TOP 5 Tướng Khắc Chế TORO, 1Slot Cấm 10 Mùa S3 2026 Có Xứng Đáng, TNG",
-      "title_original": "TOP 5 Tướng Khắc Chế TORO, 1Slot Cấm 10 Mùa S3 2026 Có Xứng Đáng, TNG",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-09T03:00:16Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/IOwVhzUCKz4/maxresdefault.jpg"
-    },
-    {
-      "videoId": "1dbd3HXqIDs",
-      "title": "Full Game | Lối Chơi - Di Chuyển | Dùng Arthur Đi Support Leo Rank P2 | Liên Quân Mobile | M8.Arthur",
-      "title_original": "Full Game | Lối Chơi - Di Chuyển | Dùng Arthur Đi Support Leo Rank P2 | Liên Quân Mobile | M8.Arthur",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-08T23:00:27Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/1dbd3HXqIDs/maxresdefault.jpg"
-    },
-    {
-      "videoId": "_pBszGh9-WE",
-      "title": "Thử Thách Giao Lưu Rank 5 Mà Không Cọc",
-      "title_original": "Thử Thách Giao Lưu Rank 5 Mà Không Cọc",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-08T19:00:26Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/_pBszGh9-WE/maxresdefault.jpg"
     }
   ]
 }

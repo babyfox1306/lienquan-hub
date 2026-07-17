@@ -791,8 +791,7 @@
       "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/7/7c/Toro_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125082122",
       "related_videos": [
-        "zUL45CPdLpE",
-        "IOwVhzUCKz4"
+        "zUL45CPdLpE"
       ]
     },
     {
@@ -1261,14 +1260,12 @@
         "Nakroth"
       ],
       "tier": "A",
-      "tier_reason": "Xuất hiện 3 lần trong video/tin tức 14 ngày qua (Score: 1)",
+      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 1)",
       "hot": false,
       "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/d/d4/Liliana_Default.jpg/revision/latest/scale-to-width-down/500?cb=20180331134150",
       "related_videos": [
-        "aoQLrxdVYCE",
-        "cgeV_k2FmUw",
-        "ooZE9mHrg-s"
+        "aoQLrxdVYCE"
       ]
     },
     {
@@ -2201,13 +2198,12 @@
         "Krixi"
       ],
       "tier": "B",
-      "tier_reason": "Xuất hiện 2 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
       "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/f/f9/Arthur_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20221110122653",
       "related_videos": [
-        "w2f7pU1vbzo",
-        "1dbd3HXqIDs"
+        "w2f7pU1vbzo"
       ]
     },
     {
@@ -3991,8 +3987,7 @@
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/b/b4/Paine_Soul_Elegy.png/revision/latest/scale-to-width-down/500?cb=20220328044802",
       "related_videos": [
         "CuUwYx9VtQ4",
-        "fnbdVB6ziNs",
-        "4QO-hTBpVVI"
+        "fnbdVB6ziNs"
       ]
     },
     {
@@ -4220,11 +4215,13 @@
       "counters": [],
       "synergies": [],
       "tier": "B",
-      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
-      "hot_count": 0,
+      "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/f/f2/Ryoma_Gunslinger.png/revision/latest/scale-to-width-down/500?cb=20180313083407",
-      "related_videos": []
+      "related_videos": [
+        "FWxd8lep16E"
+      ]
     },
     {
       "id": "sephera",
@@ -4943,5 +4940,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-17T16:24:30Z"
+  "updated_at": "2026-07-17T18:15:14Z"
 }
