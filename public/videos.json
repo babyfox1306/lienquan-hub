@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "moqOH8Zl8wI",
+      "title": "🎬 INGAME TRAILER | NATALYA PHÙ THỦY BÓNG ĐÊM - Garena Liên Quân Mobile",
+      "title_original": "🎬 INGAME TRAILER | NATALYA PHÙ THỦY BÓNG ĐÊM - Garena Liên Quân Mobile",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-07-17T15:07:47Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/moqOH8Zl8wI/maxresdefault.jpg"
+    },
+    {
       "videoId": "YLxbD3eHSIw",
       "title": "❄ TRUYỆN TRANH TẬP 1 | HAYATE THỨ NGUYÊN VỆ THẦN ❄",
       "title_original": "❄ TRUYỆN TRANH TẬP 1 | HAYATE THỨ NGUYÊN VỆ THẦN ❄",
@@ -2188,17 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-07-08T19:00:26Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/_pBszGh9-WE/maxresdefault.jpg"
-    },
-    {
-      "videoId": "4b7Jx1uwsmw",
-      "title": "Chung Một Người (Ngày Hội Liên Quân 2026)",
-      "title_original": "Chung Một Người (Ngày Hội Liên Quân 2026)",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-08T17:02:43Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/4b7Jx1uwsmw/maxresdefault.jpg"
     }
   ]
 }
