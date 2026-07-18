@@ -2202,7 +2202,7 @@
       "tier": "B",
       "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/f/f9/Arthur_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20221110122653",
       "related_videos": [
         "w2f7pU1vbzo"
@@ -3677,7 +3677,7 @@
       "tier": "B",
       "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/8/8f/Kil%27Groth_Splash.jpg/revision/latest/scale-to-width-down/500?cb=20171129175330",
       "related_videos": [
         "Kaf4xV44DBE"
@@ -4945,5 +4945,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-18T13:45:28Z"
+  "updated_at": "2026-07-18T15:04:16Z"
 }
