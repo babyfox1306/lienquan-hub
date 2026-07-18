@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "Lhk84rK4grM",
+      "title": "《Garena 傳說對決》亥犽「次元突破」造型故事影片 EP02",
+      "title_original": "《Garena 傳說對決》亥犽「次元突破」造型故事影片 EP02",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-07-18T11:00:14Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/Lhk84rK4grM/maxresdefault.jpg"
+    },
+    {
       "videoId": "I1luJ9c-Two",
       "title": "VUX MỘT NGÀY LEO RANK VỚI SKIN NATALYA PHÙ THỦY BÓNG ĐÊM COMBO HẮC ÁM CỰC ĐẸP",
       "title_original": "VUX MỘT NGÀY LEO RANK VỚI SKIN NATALYA PHÙ THỦY BÓNG ĐÊM COMBO HẮC ÁM CỰC ĐẸP",
@@ -68,8 +79,8 @@
     },
     {
       "videoId": "36R6aD_U7bE",
-      "title": "🔴𝐋𝐈𝐕𝐄 [เริ่ม 16:40] ชิงตั๋วรอบชิง🇹🇭 Bacon Time 🆚 FPT Polytechnic | งานออฟไลน์ RoV นานาชาติ APL 2026🏆",
-      "title_original": "🔴𝐋𝐈𝐕𝐄 [เริ่ม 16:40] ชิงตั๋วรอบชิง🇹🇭 Bacon Time 🆚 FPT Polytechnic | งานออฟไลน์ RoV นานาชาติ APL 2026🏆",
+      "title": "🔴𝐋𝐈𝐕𝐄 ชิงตั๋ว Grand Final 🇹🇭Bacon Time 2 vs 1 FPT Polytechnic🇻🇳 | งานออฟไลน์ RoV นานาชาติ APL 2026",
+      "title_original": "🔴𝐋𝐈𝐕𝐄 ชิงตั๋ว Grand Final 🇹🇭Bacon Time 2 vs 1 FPT Polytechnic🇻🇳 | งานออฟไลน์ RoV นานาชาติ APL 2026",
       "translated": false,
       "country": "VN",
       "lang_original": "vi",
@@ -2188,17 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-07-09T15:57:27Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/5Hq5_GPeDFM/maxresdefault.jpg"
-    },
-    {
-      "videoId": "jo0tpG6DELM",
-      "title": "APL 2026 六強賽D1 -2026/07/09《Garena傳說對決》",
-      "title_original": "APL 2026 六強賽D1 -2026/07/09《Garena傳說對決》",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-09T15:54:31Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/jo0tpG6DELM/maxresdefault.jpg"
     }
   ]
 }
