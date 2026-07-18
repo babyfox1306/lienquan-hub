@@ -31,11 +31,6 @@
       "type": "channel"
     },
     {
-      "id": "UCen3q9LMBtFHYU3Us7aKD3w",
-      "name": "Anhhao",
-      "type": "channel"
-    },
-    {
       "id": "UCIzzawIg4eCPgZggwFzEQbQ",
       "name": "Garena Liên Quân Mobile",
       "type": "channel"
@@ -43,11 +38,6 @@
     {
       "id": "UCFgdNlUefoIqZm_IQssJkHw",
       "name": "ĐỆ TỨ Liên Quân Mobile",
-      "type": "channel"
-    },
-    {
-      "id": "UC9gbpSZsxLTsVgiPyUsU8sg",
-      "name": "Trưởng Star",
       "type": "channel"
     },
     {
@@ -81,23 +71,33 @@
       "type": "channel"
     },
     {
-      "id": "UCLmVT2XmCej720HFtG7mwSQ",
-      "name": "NTD LQ",
-      "type": "channel"
-    },
-    {
       "id": "UC_Kfu-XiwH0WKTRSMD9st_Q",
       "name": "Bạn Cay Tôi À?",
       "type": "channel"
     },
     {
-      "id": "UCIAVu192aQxVUginIC4bZLw",
-      "name": "NTK Liên Quân",
+      "id": "UCMHSTFMGp-k4Z0kG-CfMSWg",
+      "name": "HTT GAMER LIÊN QUÂN MOBILE",
       "type": "channel"
     },
     {
-      "id": "UCMHSTFMGp-k4Z0kG-CfMSWg",
-      "name": "HTT GAMER LIÊN QUÂN MOBILE",
+      "id": "UCF-Vl0DkKpgrenyqSb1LSXw",
+      "name": "Kary Florentino",
+      "type": "channel"
+    },
+    {
+      "id": "UCWXXFvwmcOHxEk6IlhW1BhA",
+      "name": "Phuc Ram",
+      "type": "channel"
+    },
+    {
+      "id": "UCVBE4ZK00c4BKU8_NUCPTbQ",
+      "name": "Đạt Feed",
+      "type": "channel"
+    },
+    {
+      "id": "UCdSGpiTIGwzlQQ9VP1IJXgg",
+      "name": "Bốp Bốp Top1 Liên Quân",
       "type": "channel"
     }
   ],
