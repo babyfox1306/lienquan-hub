@@ -1026,9 +1026,9 @@
         "Toro"
       ],
       "tier": "A",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 3, Score: 1)",
-      "hot": true,
-      "hot_count": 3,
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 1)",
+      "hot": false,
+      "hot_count": 2,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/e/e7/Maloch_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125090603",
       "related_videos": [
         "6zg50PLmP4g",
@@ -2055,11 +2055,12 @@
         "Thane"
       ],
       "tier": "B",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 3, Score: 0)",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 4, Score: 0)",
       "hot": true,
-      "hot_count": 3,
+      "hot_count": 4,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/e/e1/Natalya.png/revision/latest?cb=20210109153000",
       "related_videos": [
+        "I1luJ9c-Two",
         "moqOH8Zl8wI",
         "HgEAqfTtM-o",
         "qUU8_-5K_jw"
@@ -2893,8 +2894,7 @@
         "0y9BAGhZZYI",
         "Fd9z-XZVSVY",
         "t0cXaiMvNrU",
-        "0dHWoDG3d_I",
-        "n0m-8bTd1O4"
+        "0dHWoDG3d_I"
       ]
     },
     {
@@ -3123,11 +3123,13 @@
       "counters": [],
       "synergies": [],
       "tier": "B",
-      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
-      "hot_count": 0,
-      "thumbnail": null,
-      "related_videos": []
+      "hot_count": 1,
+      "thumbnail": "https://img.youtube.com/vi/sFne-wyC5hg/maxresdefault.jpg",
+      "related_videos": [
+        "sFne-wyC5hg"
+      ]
     },
     {
       "id": "dolia",
@@ -3983,9 +3985,9 @@
       "counters": [],
       "synergies": [],
       "tier": "B",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 0)",
+      "tier_reason": "Xuất hiện 2 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
-      "hot_count": 2,
+      "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/b/b4/Paine_Soul_Elegy.png/revision/latest/scale-to-width-down/500?cb=20220328044802",
       "related_videos": [
         "CuUwYx9VtQ4",
@@ -4850,14 +4852,13 @@
       "counters": [],
       "synergies": [],
       "tier": "A",
-      "tier_reason": "Xuất hiện 3 lần trong video/tin tức 14 ngày qua (Score: 1)",
+      "tier_reason": "Xuất hiện 2 lần trong video/tin tức 14 ngày qua (Score: 1)",
       "hot": false,
       "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/5/5c/Yorn_1.jpg/revision/latest/scale-to-width-down/500?cb=20171102213743",
       "related_videos": [
         "4tX74vfgNgM",
-        "iGTS19dydtk",
-        "NlFmyEOAsmw"
+        "iGTS19dydtk"
       ]
     },
     {
@@ -4940,10 +4941,9 @@
       "related_videos": [
         "buqGwlz4oP4",
         "JLwpgPHk5kw",
-        "PW2mcOB5e-M",
-        "VeIhIoheGJY"
+        "PW2mcOB5e-M"
       ]
     }
   ],
-  "updated_at": "2026-07-18T08:56:52Z"
+  "updated_at": "2026-07-18T10:27:31Z"
 }
