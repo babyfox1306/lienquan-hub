@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "e7Fg30_eq_0",
+      "title": "Giai tri Team 5",
+      "title_original": "Giai tri Team 5",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-07-18T18:12:33Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/e7Fg30_eq_0/maxresdefault.jpg"
+    },
+    {
       "videoId": "xb_jJ01bhGg",
       "title": "🔴 LIVE:BAC  🆚 FPL | APL 2026 四強賽 -2026/07/18《Garena傳說對決》",
       "title_original": "🔴 LIVE:BAC  🆚 FPL | APL 2026 四強賽 -2026/07/18《Garena傳說對決》",
@@ -21,17 +32,6 @@
       "source": "youtube",
       "publishedAt": "2026-07-18T15:48:35Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/yuQhS4ePIMU/maxresdefault.jpg"
-    },
-    {
-      "videoId": "e7Fg30_eq_0",
-      "title": "Giai tri Team 5",
-      "title_original": "Giai tri Team 5",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-18T15:34:33Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/e7Fg30_eq_0/maxresdefault.jpg"
     },
     {
       "videoId": "92MpshVcGWw",
