@@ -81,11 +81,6 @@
       "type": "channel"
     },
     {
-      "id": "UCpkUzNC-PTa_Ju-xfT-CiDQ",
-      "name": "Ly Chuột Bạch",
-      "type": "channel"
-    },
-    {
       "id": "UCVBE4ZK00c4BKU8_NUCPTbQ",
       "name": "Đạt Feed",
       "type": "channel"
@@ -98,6 +93,11 @@
     {
       "id": "UCYfv7UcC1KOsvMD3BVVwoLg",
       "name": "Esports - Garena Liên Quân Mobile",
+      "type": "channel"
+    },
+    {
+      "id": "UC-r1vXyPiJSo2r29U3PgoNg",
+      "name": "HẢI PHONG - HỎNG FILE",
       "type": "channel"
     }
   ],
