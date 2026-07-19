@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "q2ywQ94eOIQ",
+      "title": "FPT POLYTECHNIC VS BACON TIME | SEMI FINALS APL 2026 | NGÀY 18/07",
+      "title_original": "FPT POLYTECHNIC VS BACON TIME | SEMI FINALS APL 2026 | NGÀY 18/07",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-07-19T00:00:36Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/q2ywQ94eOIQ/maxresdefault.jpg"
+    },
+    {
       "videoId": "e7Fg30_eq_0",
       "title": "Giai tri Team 5",
       "title_original": "Giai tri Team 5",
@@ -2188,17 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-07-09T16:55:33Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/a1yFOW9zTH4/maxresdefault.jpg"
-    },
-    {
-      "videoId": "yYJ9TlDIcw0",
-      "title": "การแข่งขัน RoV นานาชาติ APL 2026 รอบ 8 ทีมสุดท้าย (Quarter Finals) วันที่ 3",
-      "title_original": "การแข่งขัน RoV นานาชาติ APL 2026 รอบ 8 ทีมสุดท้าย (Quarter Finals) วันที่ 3",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-09T16:06:41Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/yYJ9TlDIcw0/maxresdefault.jpg"
     }
   ]
 }
