@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "nf-RfPgzWmY",
+      "title": "Team 5 Nao",
+      "title_original": "Team 5 Nao",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-07-19T18:19:17Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/nf-RfPgzWmY/maxresdefault.jpg"
+    },
+    {
       "videoId": "8v7rHWkXQFQ",
       "title": "งานออฟไลน์ชิงแชมป์ RoV นานาชาติ APL 2026🏆",
       "title_original": "งานออฟไลน์ชิงแชมป์ RoV นานาชาติ APL 2026🏆",
@@ -24,8 +35,8 @@
     },
     {
       "videoId": "UpMxSjAOLhM",
-      "title": "🔴 TRỰC TIẾP: RELOVE DEEP CROSS GAMING vs BACON TIME | GRAND FINAL | APL 2026 (NGÀY 19/07)",
-      "title_original": "🔴 TRỰC TIẾP: RELOVE DEEP CROSS GAMING vs BACON TIME | GRAND FINAL | APL 2026 (NGÀY 19/07)",
+      "title": "RELOVE DEEP CROSS GAMING vs BACON TIME | GRAND FINAL | APL 2026 (NGÀY 19/07)",
+      "title_original": "RELOVE DEEP CROSS GAMING vs BACON TIME | GRAND FINAL | APL 2026 (NGÀY 19/07)",
       "translated": false,
       "country": "VN",
       "lang_original": "vi",
@@ -2188,17 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-07-10T14:39:55Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/yR0HgNwMqTU/maxresdefault.jpg"
-    },
-    {
-      "videoId": "B-3Is9_GVjE",
-      "title": "TRỰC TIẾP: FULL SENSE vs ANK GAMING - TẤM VÉ CUỐI CÙNG TỚI TIÊN SƠN | NAMSENSEI x TÙNG MÕM x SHOPEE",
-      "title_original": "TRỰC TIẾP: FULL SENSE vs ANK GAMING - TẤM VÉ CUỐI CÙNG TỚI TIÊN SƠN | NAMSENSEI x TÙNG MÕM x SHOPEE",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-10T14:31:12Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/B-3Is9_GVjE/maxresdefault.jpg"
     }
   ]
 }
