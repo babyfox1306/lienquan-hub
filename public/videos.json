@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "NN8jHUF_JY8",
+      "title": "🔴Stream sớm, nghỉ muộn",
+      "title_original": "🔴Stream sớm, nghỉ muộn",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-07-20T17:52:51Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/NN8jHUF_JY8/maxresdefault.jpg"
+    },
+    {
       "videoId": "fO_j07ztm8o",
       "title": "Team 5 Nao",
       "title_original": "Team 5 Nao",
@@ -8,7 +19,7 @@
       "country": "VN",
       "lang_original": "vi",
       "source": "youtube",
-      "publishedAt": "2026-07-20T15:26:00Z",
+      "publishedAt": "2026-07-20T17:33:21Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/fO_j07ztm8o/maxresdefault.jpg"
     },
     {
@@ -54,17 +65,6 @@
       "source": "youtube",
       "publishedAt": "2026-07-20T12:08:19Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/B325Zw6s2Hg/maxresdefault.jpg"
-    },
-    {
-      "videoId": "NN8jHUF_JY8",
-      "title": "🔴Stream sớm, nghỉ muộn",
-      "title_original": "🔴Stream sớm, nghỉ muộn",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-20T11:52:02Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/NN8jHUF_JY8/maxresdefault.jpg"
     },
     {
       "videoId": "kMfbsZtTPw4",
