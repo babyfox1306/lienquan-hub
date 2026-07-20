@@ -363,17 +363,17 @@
         "Alice"
       ],
       "tier": "B",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 7, Score: 0)",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 8, Score: 0)",
       "hot": true,
-      "hot_count": 7,
+      "hot_count": 8,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/1/1f/Hayate_profile.jpg/revision/latest/scale-to-width-down/500?cb=20200531224525",
       "related_videos": [
+        "SwiEmM_19GI",
         "I82OUfxeA7I",
         "heOOMkXnka8",
         "6iRLMpJQF0c",
         "YLxbD3eHSIw",
-        "gJg7Da7EjeE",
-        "l6chsZNPVjE"
+        "gJg7Da7EjeE"
       ]
     },
     {
@@ -1544,7 +1544,7 @@
       "tier": "B",
       "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/b/b4/Omen_profile.png/revision/latest/scale-to-width-down/500?cb=20180305143916",
       "related_videos": [
         "TU64_THiQLw"
@@ -4948,5 +4948,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-20T04:44:20Z"
+  "updated_at": "2026-07-20T08:14:52Z"
 }
