@@ -1,6 +1,28 @@
 {
   "videos": [
     {
+      "videoId": "kMfbsZtTPw4",
+      "title": "Cận Cảnh Jinna Siêu Tốc Độ Kết Hợp Hồi Chiêu Nhanh Với Combo Lõi Cực Khỏe",
+      "title_original": "Cận Cảnh Jinna Siêu Tốc Độ Kết Hợp Hồi Chiêu Nhanh Với Combo Lõi Cực Khỏe",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-07-20T11:47:25Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/kMfbsZtTPw4/maxresdefault.jpg"
+    },
+    {
+      "videoId": "Wo3gIyYSbB8",
+      "title": "Tướng mới EVITA, Preyta Làm Lại Bị Chê Giống Khương Tử Nha, Phiên Bản Kỷ Niệm 10 Năm Liên Quân.",
+      "title_original": "Tướng mới EVITA, Preyta Làm Lại Bị Chê Giống Khương Tử Nha, Phiên Bản Kỷ Niệm 10 Năm Liên Quân.",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-07-20T09:30:13Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/Wo3gIyYSbB8/maxresdefault.jpg"
+    },
+    {
       "videoId": "SwiEmM_19GI",
       "title": "Dimension Breaker Hayate | PV Teaser 2: กระแสน้ำวนในวันธรรมดา",
       "title_original": "Dimension Breaker Hayate | PV Teaser 2: กระแสน้ำวนในวันธรรมดา",
@@ -10,6 +32,17 @@
       "source": "youtube",
       "publishedAt": "2026-07-20T07:00:20Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/SwiEmM_19GI/maxresdefault.jpg"
+    },
+    {
+      "videoId": "6jGYoeWndBA",
+      "title": "Team 5 Nao",
+      "title_original": "Team 5 Nao",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-07-20T06:58:43Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/6jGYoeWndBA/maxresdefault.jpg"
     },
     {
       "videoId": "vN2ZKSi3tnE",
@@ -2166,39 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-07-10T22:03:27Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/iDS3cEM2fYo/maxresdefault.jpg"
-    },
-    {
-      "videoId": "dgmiFUC7owI",
-      "title": "Oh nooooooooo",
-      "title_original": "Oh nooooooooo",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-10T21:01:53Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/dgmiFUC7owI/maxresdefault.jpg"
-    },
-    {
-      "videoId": "zpBXDyDhB8A",
-      "title": "🔴Luyện tập Tamyn tiếp",
-      "title_original": "🔴Luyện tập Tamyn tiếp",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-10T17:14:06Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/zpBXDyDhB8A/maxresdefault.jpg"
-    },
-    {
-      "videoId": "cRdm0rDhplo",
-      "title": "🔴 TRỰC TIẾP: FULL SENSE vs ANK GAMING | QUARTER FINALS - APL 2026 (NGÀY 10/07)",
-      "title_original": "🔴 TRỰC TIẾP: FULL SENSE vs ANK GAMING | QUARTER FINALS - APL 2026 (NGÀY 10/07)",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-10T14:41:51Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/cRdm0rDhplo/maxresdefault.jpg"
     }
   ]
 }
