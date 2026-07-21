@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-07-21T07:40:04.054273",
+  "last_updated": "2026-07-21T10:34:07.525301",
   "total_news": 100,
   "news": [
+    {
+      "id": "16a6428cf303",
+      "title": "24K.RIGHT VÀ MASON NGUYỄN CÙNG 2.000 PHẦN QUÀ ĐANG CHỜ ĐÓN KIỆN TƯỚNG TẠI NGÀY HỘI LIÊN QUÂN THÀNH PHỐ HỒ CHÍ MINH VÀO NGÀY 26/07",
+      "link": "https://lienquan.garena.vn/24k-right-va-mason-nguyen-cung-2-000-phan-qua-dang-cho-don-kien-tuong-tai-ngay-hoi-lien-quan-thanh-pho-ho-chi-minh-vao-ngay-26-07/",
+      "summary": "<p>Xin chào các Kiện Tướng, Sau hành trình bùng nổ tại AEON Mall Hà Đông &#8211; Hà Nội và Cung Thể thao Tiên Sơn &#8211; Đà Nẵng, Ngày Hội Liên Quân 2026 sẽ chính thức [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/24k-right-va-mason-nguyen-cung-2-000-phan-qua-dang-cho-don-kien-tuong-tai-ngay-hoi-lien-quan-thanh-pho-ho-chi-minh-vao-ngay-26-07/\">24K.RIGHT VÀ MASON NGUYỄN CÙNG 2.000 PHẦN QUÀ ĐANG CHỜ ĐÓN KIỆN TƯỚNG TẠI NGÀY HỘI LIÊN QUÂN THÀNH PHỐ HỒ CHÍ MINH VÀO NGÀY 26/07</a> app",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2026/07/SeaTalk_IMG_20260721_152610.png",
+      "source": "Liên Quân Mobile Official",
+      "source_url": "https://lienquan.garena.vn/rss",
+      "published_at": "2026-07-21T09:25:52Z",
+      "crawled_at": "2026-07-21T10:29:11.373095",
+      "category": "tướng",
+      "priority": 1
+    },
     {
       "id": "9207465eebcb",
       "title": "Nhiệm vụ thêm Quân Huy AOV DAY 2026",
@@ -1287,19 +1300,6 @@
       "published_at": "2026-01-22T08:24:48Z",
       "crawled_at": "2026-01-22T09:06:05.357217",
       "category": "skin",
-      "priority": 1
-    },
-    {
-      "id": "21af74eac8a7",
-      "title": "CÔNG BỐ KẾT QUẢ CÁC HẠNG MỤC GIẢI THƯỞNG TẠI AOV CEREMONY 2025",
-      "link": "https://lienquan.garena.vn/cong-bo-ket-qua-cac-hang-muc-giai-thuong-tai-aov-ceremony-2025/",
-      "summary": "<p>Sau thời gian bình chọn và tổng hợp dữ liệu hoạt động, AOV Ceremony 2025 – sự kiện vinh danh cuối năm dành cho các Creator &#38; Artist của Liên Quân Mobile – chính thức [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/cong-bo-ket-qua-cac-hang-muc-giai-thuong-tai-aov-ceremony-2025/\">CÔNG BỐ KẾT QUẢ CÁC HẠNG MỤC GIẢI THƯỞNG TẠI AOV CEREMONY 2025</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
-      "image_url": "https://picsum.photos/seed/https://lienquan.garena.vn/cong-bo-ket-qua-cac-hang-muc-giai-thuong-tai-aov-ceremony-2025//400/225",
-      "source": "Liên Quân Mobile Official",
-      "source_url": "https://lienquan.garena.vn/rss",
-      "published_at": "2026-01-21T09:39:23Z",
-      "crawled_at": "2026-01-21T10:02:51.530838",
-      "category": "tin tức",
       "priority": 1
     }
   ]
