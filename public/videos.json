@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "MM520GaI5bU",
+      "title": "OPENING CEREMONY - CHUNG KẾT APL 2026 | VALOR RISES BATTLES COLLIDE",
+      "title_original": "OPENING CEREMONY - CHUNG KẾT APL 2026 | VALOR RISES BATTLES COLLIDE",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-07-21T11:00:13Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/MM520GaI5bU/maxresdefault.jpg"
+    },
+    {
       "videoId": "-8PWxmZbLjc",
       "title": "Timu Sửa Dirak Siêu Lỗi: Chẳng Cần Bờ Tường Để Spam 4-5 Cầu Nữa!",
       "title_original": "Timu Sửa Dirak Siêu Lỗi: Chẳng Cần Bờ Tường Để Spam 4-5 Cầu Nữa!",
@@ -10,6 +21,17 @@
       "source": "youtube",
       "publishedAt": "2026-07-21T09:30:01Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/-8PWxmZbLjc/maxresdefault.jpg"
+    },
+    {
+      "videoId": "uM7HZSg4SM4",
+      "title": "RoV x PHUTATCHAI ทะลุมิติไปกับ Dimension Breaker Hayate",
+      "title_original": "RoV x PHUTATCHAI ทะลุมิติไปกับ Dimension Breaker Hayate",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-07-21T09:00:17Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/uM7HZSg4SM4/maxresdefault.jpg"
     },
     {
       "videoId": "1ibbVeB0Buo",
@@ -2177,28 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-07-11T11:57:35Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/GWKg-uz3isE/maxresdefault.jpg"
-    },
-    {
-      "videoId": "JLwpgPHk5kw",
-      "title": "Lớp Giáp Bất Tử Của Zuka Sau Buff: Cân 3 Trong Trụ Máu Vẫn Còn Đầy!",
-      "title_original": "Lớp Giáp Bất Tử Của Zuka Sau Buff: Cân 3 Trong Trụ Máu Vẫn Còn Đầy!",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-11T11:52:41Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/JLwpgPHk5kw/maxresdefault.jpg"
-    },
-    {
-      "videoId": "VqMJBpbjUF8",
-      "title": "Cận Cảnh Taara Aya Hồi Máu Siêu Nhiều Cân 5 Là Dễ Chấp Hết Phù Hiệu Với Combo Lõi Siêu Mạnh",
-      "title_original": "Cận Cảnh Taara Aya Hồi Máu Siêu Nhiều Cân 5 Là Dễ Chấp Hết Phù Hiệu Với Combo Lõi Siêu Mạnh",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-11T10:54:49Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/VqMJBpbjUF8/maxresdefault.jpg"
     }
   ]
 }
