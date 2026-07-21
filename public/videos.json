@@ -1,9 +1,53 @@
 {
   "videos": [
     {
+      "videoId": "cq6jAdZVYUY",
+      "title": "【選手視角】這艘郵輪直接航向加冕的舞台🎉DCG YouLun 射下隊史第一座冠軍🏆",
+      "title_original": "【選手視角】這艘郵輪直接航向加冕的舞台🎉DCG YouLun 射下隊史第一座冠軍🏆",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-07-21T14:47:30Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/cq6jAdZVYUY/maxresdefault.jpg"
+    },
+    {
+      "videoId": "3bPAKTtXxOs",
+      "title": "Lâu rồi hông chơi game",
+      "title_original": "Lâu rồi hông chơi game",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-07-21T13:24:35Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/3bPAKTtXxOs/maxresdefault.jpg"
+    },
+    {
+      "videoId": "tcPTx6eMIHM",
+      "title": "🔴Chục cái MVP Nakroth đi",
+      "title_original": "🔴Chục cái MVP Nakroth đi",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-07-21T12:53:03Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/tcPTx6eMIHM/maxresdefault.jpg"
+    },
+    {
+      "videoId": "jcH-MW7fz5k",
+      "title": "LỮ BỐ Sau Buff Thách Đấu BEST TAMYN Và Cái Kết Muốn Xóa Game | Liên Quân",
+      "title_original": "LỮ BỐ Sau Buff Thách Đấu BEST TAMYN Và Cái Kết Muốn Xóa Game | Liên Quân",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-07-21T12:34:55Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/jcH-MW7fz5k/maxresdefault.jpg"
+    },
+    {
       "videoId": "MM520GaI5bU",
-      "title": "OPENING CEREMONY - CHUNG KẾT APL 2026 | VALOR RISES BATTLES COLLIDE",
-      "title_original": "OPENING CEREMONY - CHUNG KẾT APL 2026 | VALOR RISES BATTLES COLLIDE",
+      "title": "UPRIZE | OFFICIAL OPENING CEREMONY CHUNG KẾT APL 2026 | BẢN CHÍNH THỨC",
+      "title_original": "UPRIZE | OFFICIAL OPENING CEREMONY CHUNG KẾT APL 2026 | BẢN CHÍNH THỨC",
       "translated": false,
       "country": "VN",
       "lang_original": "vi",
@@ -2155,50 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-07-11T13:24:55Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/Dpmi8uyP53E/maxresdefault.jpg"
-    },
-    {
-      "videoId": "OAvclPMjM-I",
-      "title": "การแข่งขัน RoV Thailand Esports Premier League (TEPL) 2026 | Regular Season Week 3 Day 1",
-      "title_original": "การแข่งขัน RoV Thailand Esports Premier League (TEPL) 2026 | Regular Season Week 3 Day 1",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-11T13:13:49Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/OAvclPMjM-I/maxresdefault.jpg"
-    },
-    {
-      "videoId": "FC7qqlxx84A",
-      "title": "Luồng Cảm Xúc SGP - 1S | PLAYOFFS - QUEENS SHOWDOWN 2026 | Hải Phong CO-STREAM 11.07.26",
-      "title_original": "Luồng Cảm Xúc SGP - 1S | PLAYOFFS - QUEENS SHOWDOWN 2026 | Hải Phong CO-STREAM 11.07.26",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-11T12:19:23Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/FC7qqlxx84A/maxresdefault.jpg"
-    },
-    {
-      "videoId": "acFxk7F9Qqs",
-      "title": "Tamyn Là Con Tướng Phế Nhất Liên Quân ?",
-      "title_original": "Tamyn Là Con Tướng Phế Nhất Liên Quân ?",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-11T12:00:36Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/acFxk7F9Qqs/maxresdefault.jpg"
-    },
-    {
-      "videoId": "GWKg-uz3isE",
-      "title": "BÂNG QUYẾT TÂM THÀNH THẠO TƯỚNG MỚI TAMYN",
-      "title_original": "BÂNG QUYẾT TÂM THÀNH THẠO TƯỚNG MỚI TAMYN",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-11T11:57:35Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/GWKg-uz3isE/maxresdefault.jpg"
     }
   ]
 }

@@ -44,6 +44,7 @@
       "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/3/3f/Nakroth_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20201224121203",
       "related_videos": [
+        "tcPTx6eMIHM",
         "Tx78okIbT2Q"
       ]
     },
@@ -2416,7 +2417,7 @@
       "tier": "A",
       "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 1)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/6/64/Aleister_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20241210090540",
       "related_videos": [
         "tyN5919KJkU"
@@ -4945,5 +4946,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-21T12:30:38Z"
+  "updated_at": "2026-07-21T15:12:41Z"
 }
