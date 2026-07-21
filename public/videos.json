@@ -1,6 +1,28 @@
 {
   "videos": [
     {
+      "videoId": "zfnDUMpPItk",
+      "title": "Chào mấy em ruột | Hải Phong 21.07.26",
+      "title_original": "Chào mấy em ruột | Hải Phong 21.07.26",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-07-21T15:32:52Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/zfnDUMpPItk/maxresdefault.jpg"
+    },
+    {
+      "videoId": "TofkZNJkToY",
+      "title": "Chào mấy em ruột | Hải Phong 21.07.26",
+      "title_original": "Chào mấy em ruột | Hải Phong 21.07.26",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-07-21T15:04:30Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/TofkZNJkToY/maxresdefault.jpg"
+    },
+    {
       "videoId": "cq6jAdZVYUY",
       "title": "【選手視角】這艘郵輪直接航向加冕的舞台🎉DCG YouLun 射下隊史第一座冠軍🏆",
       "title_original": "【選手視角】這艘郵輪直接航向加冕的舞台🎉DCG YouLun 射下隊史第一座冠軍🏆",
@@ -43,6 +65,17 @@
       "source": "youtube",
       "publishedAt": "2026-07-21T12:34:55Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/jcH-MW7fz5k/maxresdefault.jpg"
+    },
+    {
+      "videoId": "i94YN4J33UY",
+      "title": "HNH TRNH APL2026 | CM N V  N CNG FPT FLASH",
+      "title_original": "HNH TRNH APL2026 | CM N V  N CNG FPT FLASH",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-07-21T12:00:39Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/i94YN4J33UY/maxresdefault.jpg"
     },
     {
       "videoId": "MM520GaI5bU",
@@ -2166,39 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-07-11T14:30:40Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/3HyLeqstHAs/maxresdefault.jpg"
-    },
-    {
-      "videoId": "w2f7pU1vbzo",
-      "title": "Full Game | Lối Chơi - Di Chuyển | Dùng Arthur Đi Support Leo Rank P3 | Liên Quân Mobile | M8.Arthur",
-      "title_original": "Full Game | Lối Chơi - Di Chuyển | Dùng Arthur Đi Support Leo Rank P3 | Liên Quân Mobile | M8.Arthur",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-11T13:30:16Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/w2f7pU1vbzo/maxresdefault.jpg"
-    },
-    {
-      "videoId": "Kaf4xV44DBE",
-      "title": "LIÊN QUÂN : Thần Cá Kil'groth Lên Full Đồ Vàng Quạt Như Hack - Hóa Quái Vật Đòi Lại Đại Dương",
-      "title_original": "LIÊN QUÂN : Thần Cá Kil'groth Lên Full Đồ Vàng Quạt Như Hack - Hóa Quái Vật Đòi Lại Đại Dương",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-11T13:30:09Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/Kaf4xV44DBE/maxresdefault.jpg"
-    },
-    {
-      "videoId": "Dpmi8uyP53E",
-      "title": "Đầu Mùa Vật Vã Cùng PondGaming !",
-      "title_original": "Đầu Mùa Vật Vã Cùng PondGaming !",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-11T13:24:55Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/Dpmi8uyP53E/maxresdefault.jpg"
     }
   ]
 }
