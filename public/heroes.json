@@ -364,17 +364,17 @@
         "Alice"
       ],
       "tier": "B",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 9, Score: 0)",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 10, Score: 0)",
       "hot": true,
-      "hot_count": 9,
+      "hot_count": 10,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/1/1f/Hayate_profile.jpg/revision/latest/scale-to-width-down/500?cb=20200531224525",
       "related_videos": [
         "uM7HZSg4SM4",
         "SwiEmM_19GI",
+        "1NhVUl3es7c",
         "I82OUfxeA7I",
         "heOOMkXnka8",
-        "6iRLMpJQF0c",
-        "YLxbD3eHSIw"
+        "6iRLMpJQF0c"
       ]
     },
     {
@@ -2056,14 +2056,15 @@
         "Thane"
       ],
       "tier": "B",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 4, Score: 0)",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 5, Score: 0)",
       "hot": true,
-      "hot_count": 4,
+      "hot_count": 5,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/e/e1/Natalya.png/revision/latest?cb=20210109153000",
       "related_videos": [
         "I1luJ9c-Two",
         "moqOH8Zl8wI",
         "HgEAqfTtM-o",
+        "3iAa6So5oy8",
         "qUU8_-5K_jw"
       ]
     },
@@ -4942,5 +4943,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-21T17:31:43Z"
+  "updated_at": "2026-07-21T19:44:06Z"
 }
