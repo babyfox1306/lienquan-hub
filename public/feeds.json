@@ -6,11 +6,6 @@
       "type": "channel"
     },
     {
-      "id": "UC3QLI0FHwACCaa91Xdpam2A",
-      "name": "Trải Nghiệm Game",
-      "type": "channel"
-    },
-    {
       "id": "UCIzzawIg4eCPgZggwFzEQbQ",
       "name": "Garena Liên Quân Mobile",
       "type": "channel"
@@ -86,7 +81,7 @@
       "type": "channel"
     },
     {
-      "id": "UCxswa3JieWlhP7G3RpgnvZA",
+      "id": "UClqYR4kT-LVdgxV3m8B1sTQ",
       "name": "Liên Quân Mobile",
       "type": "channel"
     },
@@ -98,6 +93,11 @@
     {
       "id": "UCA70x9kBv6Feaslh-k2QxVw",
       "name": "Liên quân mobile ",
+      "type": "channel"
+    },
+    {
+      "id": "UCUypu6HW1VvNuEkcdAgjOKQ",
+      "name": "Garena Liên Quân Mobile",
       "type": "channel"
     }
   ],
