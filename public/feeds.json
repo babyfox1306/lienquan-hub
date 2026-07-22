@@ -36,11 +36,6 @@
       "type": "channel"
     },
     {
-      "id": "UCpkUzNC-PTa_Ju-xfT-CiDQ",
-      "name": "Ly Chuột Bạch",
-      "type": "channel"
-    },
-    {
       "id": "UCVBE4ZK00c4BKU8_NUCPTbQ",
       "name": "Đạt Feed",
       "type": "channel"
@@ -98,6 +93,11 @@
     {
       "id": "UC6_-E6Lek7_1TMt6927ITOQ",
       "name": "NaKa Liên Quân Mobile",
+      "type": "channel"
+    },
+    {
+      "id": "UCA70x9kBv6Feaslh-k2QxVw",
+      "name": "Liên quân mobile ",
       "type": "channel"
     }
   ],
