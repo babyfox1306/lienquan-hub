@@ -3135,11 +3135,12 @@
       "counters": [],
       "synergies": [],
       "tier": "B",
-      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 0)",
       "hot": false,
-      "hot_count": 1,
-      "thumbnail": "https://img.youtube.com/vi/sFne-wyC5hg/maxresdefault.jpg",
+      "hot_count": 2,
+      "thumbnail": "https://img.youtube.com/vi/K4yFMUZvGws/maxresdefault.jpg",
       "related_videos": [
+        "K4yFMUZvGws",
         "sFne-wyC5hg"
       ]
     },
@@ -4277,13 +4278,11 @@
       "counters": [],
       "synergies": [],
       "tier": "B",
-      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/5/59/Sephera_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125045857",
-      "related_videos": [
-        "qDAJhFETBJQ"
-      ]
+      "related_videos": []
     },
     {
       "id": "sinestrea",
@@ -4962,5 +4961,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-22T18:17:02Z"
+  "updated_at": "2026-07-22T20:19:21Z"
 }
