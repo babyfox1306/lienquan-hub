@@ -363,18 +363,18 @@
         "Baldum",
         "Alice"
       ],
-      "tier": "B",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 10, Score: 0)",
+      "tier": "A",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 11, Score: 1)",
       "hot": true,
-      "hot_count": 10,
+      "hot_count": 11,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/1/1f/Hayate_profile.jpg/revision/latest/scale-to-width-down/500?cb=20200531224525",
       "related_videos": [
+        "LTh0mLUd6RI",
         "uM7HZSg4SM4",
         "SwiEmM_19GI",
         "1NhVUl3es7c",
         "I82OUfxeA7I",
-        "heOOMkXnka8",
-        "6iRLMpJQF0c"
+        "heOOMkXnka8"
       ]
     },
     {
@@ -648,11 +648,13 @@
         "Zuka"
       ],
       "tier": "B",
-      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/8/8e/Xeniel_Default.png/revision/latest/scale-to-width-down/500?cb=20180315073018",
-      "related_videos": []
+      "related_videos": [
+        "D1gup-mgYQA"
+      ]
     },
     {
       "id": "grakk",
@@ -881,11 +883,12 @@
         "Wukong"
       ],
       "tier": "A",
-      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 1)",
+      "tier_reason": "Xuất hiện 2 lần trong video/tin tức 14 ngày qua (Score: 1)",
       "hot": false,
-      "hot_count": 0,
+      "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/3/3b/Alice_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125083007",
       "related_videos": [
+        "0X-BDhtaPeA",
         "NEs7duDRPvk"
       ]
     },
@@ -981,9 +984,7 @@
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/a/ab/Volkath_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20200531224601",
-      "related_videos": [
-        "CuUwYx9VtQ4"
-      ]
+      "related_videos": []
     },
     {
       "id": "maloch",
@@ -1026,9 +1027,9 @@
         "Toro"
       ],
       "tier": "B",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 0)",
+      "tier_reason": "Xuất hiện 3 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
-      "hot_count": 2,
+      "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/e/e7/Maloch_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125090603",
       "related_videos": [
         "n_1utQuBl9Y",
@@ -1309,9 +1310,9 @@
         "Arthur"
       ],
       "tier": "B",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 0)",
+      "tier_reason": "Xuất hiện 2 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
-      "hot_count": 2,
+      "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/0/0f/Dirak_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125044153",
       "related_videos": [
         "-8PWxmZbLjc",
@@ -2155,11 +2156,13 @@
         "Krixi"
       ],
       "tier": "B",
-      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
-      "hot_count": 0,
+      "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/6/60/Zephys_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125082336",
-      "related_videos": []
+      "related_videos": [
+        "j1OZ437pqao"
+      ]
     },
     {
       "id": "arthur",
@@ -2202,12 +2205,17 @@
         "Krixi"
       ],
       "tier": "C",
-      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: -1)",
-      "hot": false,
-      "hot_count": 1,
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 6, Score: -1)",
+      "hot": true,
+      "hot_count": 6,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/f/f9/Arthur_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20221110122653",
       "related_videos": [
-        "wh_43ArbaDA"
+        "wh_43ArbaDA",
+        "g9_FawRK4ig",
+        "BtPx27rN60E",
+        "fDKWSAZUkEg",
+        "8qq55vczGNE",
+        "d-tbuI2tQtE"
       ]
     },
     {
@@ -2813,11 +2821,13 @@
       "counters": [],
       "synergies": [],
       "tier": "B",
-      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
-      "hot_count": 0,
+      "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/b/b4/Bright_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20210204185733",
-      "related_videos": []
+      "related_videos": [
+        "ptVnyDo7pU0"
+      ]
     },
     {
       "id": "celica",
@@ -3363,11 +3373,13 @@
       "counters": [],
       "synergies": [],
       "tier": "B",
-      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
-      "hot_count": 0,
+      "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/8/86/Errol_profile.jpg/revision/latest/scale-to-width-down/500?cb=20200531224447",
-      "related_videos": []
+      "related_videos": [
+        "QBT6uxQul50"
+      ]
     },
     {
       "id": "fennik",
@@ -3987,13 +3999,11 @@
       "counters": [],
       "synergies": [],
       "tier": "B",
-      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/b/b4/Paine_Soul_Elegy.png/revision/latest/scale-to-width-down/500?cb=20220328044802",
-      "related_videos": [
-        "CuUwYx9VtQ4"
-      ]
+      "related_videos": []
     },
     {
       "id": "preyta",
@@ -4224,11 +4234,12 @@
       "counters": [],
       "synergies": [],
       "tier": "B",
-      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện 2 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
-      "hot_count": 0,
+      "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/f/f2/Ryoma_Gunslinger.png/revision/latest/scale-to-width-down/500?cb=20180313083407",
       "related_videos": [
+        "VViZSliLQk4",
         "FWxd8lep16E"
       ]
     },
@@ -4314,7 +4325,8 @@
       "related_videos": [
         "lqbybuHRiis",
         "q-GepUi14KM",
-        "neg4_PVt1YM"
+        "neg4_PVt1YM",
+        "I5rarJUtC3o"
       ]
     },
     {
@@ -4698,11 +4710,13 @@
       "counters": [],
       "synergies": [],
       "tier": "B",
-      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/9/94/Wisp_Default.jpg/revision/latest/scale-to-width-down/500?cb=20180419063145",
-      "related_videos": []
+      "related_videos": [
+        "F8-IONSJCzQ"
+      ]
     },
     {
       "id": "wonderwoman",
@@ -4937,15 +4951,16 @@
       },
       "counters": [],
       "synergies": [],
-      "tier": "B",
-      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier": "A",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 1)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 2,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/9/9e/Zuka_Splash.png/revision/latest/scale-to-width-down/500?cb=20171204210621",
       "related_videos": [
+        "DClcoSIaNJY",
         "buqGwlz4oP4"
       ]
     }
   ],
-  "updated_at": "2026-07-22T09:35:43Z"
+  "updated_at": "2026-07-22T11:56:25Z"
 }
