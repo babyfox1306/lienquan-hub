@@ -2199,12 +2199,14 @@
         "Violet",
         "Krixi"
       ],
-      "tier": "B",
-      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier": "C",
+      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: -1)",
       "hot": false,
-      "hot_count": 0,
+      "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/f/f9/Arthur_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20221110122653",
-      "related_videos": []
+      "related_videos": [
+        "wh_43ArbaDA"
+      ]
     },
     {
       "id": "keera",
@@ -4943,5 +4945,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-21T23:06:46Z"
+  "updated_at": "2026-07-22T03:22:15Z"
 }

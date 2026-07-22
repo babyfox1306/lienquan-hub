@@ -1,6 +1,28 @@
 {
   "videos": [
     {
+      "videoId": "GEaVPAyyWKU",
+      "title": "LẦN ĐẦU TÔI CHƠI ARKNIGHTS: ENDFIELD",
+      "title_original": "LẦN ĐẦU TÔI CHƠI ARKNIGHTS: ENDFIELD",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-07-22T03:01:01Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/GEaVPAyyWKU/maxresdefault.jpg"
+    },
+    {
+      "videoId": "wh_43ArbaDA",
+      "title": "Chỉnh Sửa Arthur: Nerf Độ Trâu Cực Nặng Về Late, Xạ Thủ Liên Quân Sướng Điên",
+      "title_original": "Chỉnh Sửa Arthur: Nerf Độ Trâu Cực Nặng Về Late, Xạ Thủ Liên Quân Sướng Điên",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-07-22T03:00:10Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/wh_43ArbaDA/maxresdefault.jpg"
+    },
+    {
       "videoId": "zfnDUMpPItk",
       "title": "Chào mấy em ruột | Hải Phong 21.07.26",
       "title_original": "Chào mấy em ruột | Hải Phong 21.07.26",
@@ -2177,28 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-07-11T17:09:01Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/xfjF35b2uhc/maxresdefault.jpg"
-    },
-    {
-      "videoId": "XISuYhlsRSI",
-      "title": "1S vs EA | ANK vs SGP | 1S vs SGP | PLAYOFFS - QUEENS SHOWDOWN 2026 (NGÀY 11/07)",
-      "title_original": "1S vs EA | ANK vs SGP | 1S vs SGP | PLAYOFFS - QUEENS SHOWDOWN 2026 (NGÀY 11/07)",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-11T17:02:40Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/XISuYhlsRSI/maxresdefault.jpg"
-    },
-    {
-      "videoId": "3tzdpB_FQow",
-      "title": "🔴 TRỰC TIẾP: ONE STAR ESPORTS vs SAIGON PHANTOM | PLAYOFFS - QUEENS SHOWDOWN 2026 (NGÀY 11/07)",
-      "title_original": "🔴 TRỰC TIẾP: ONE STAR ESPORTS vs SAIGON PHANTOM | PLAYOFFS - QUEENS SHOWDOWN 2026 (NGÀY 11/07)",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-11T16:54:08Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/3tzdpB_FQow/maxresdefault.jpg"
     }
   ]
 }
