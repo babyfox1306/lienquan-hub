@@ -66,11 +66,6 @@
       "type": "channel"
     },
     {
-      "id": "UCn1vIM_0pyfwcFWsnpCZ7vQ",
-      "name": "M8 Arthur Liên Quân Mobile",
-      "type": "channel"
-    },
-    {
       "id": "UCWf2h2oDJUZ1NWAf-8Fcb9A",
       "name": "Liên Quân Mobile eSports - Garena",
       "type": "channel"
@@ -98,6 +93,11 @@
     {
       "id": "UCVQ0x-tX9TVjkq-a_E4mKvA",
       "name": "garena liên quân Mobile",
+      "type": "channel"
+    },
+    {
+      "id": "UCMbrDKjY4rPux25EtovG6Hg",
+      "name": "Liên quân mobile",
       "type": "channel"
     }
   ],
