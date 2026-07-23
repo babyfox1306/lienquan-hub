@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "kqmqFIzRL3w",
+      "title": "🔴Cũng lâu gồi chúng ta mới gặp lại",
+      "title_original": "🔴Cũng lâu gồi chúng ta mới gặp lại",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-07-23T17:09:04Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/kqmqFIzRL3w/maxresdefault.jpg"
+    },
+    {
       "videoId": "XRBupOmIv74",
       "title": "💥 PHIM KĨ XẢO | HAYATE THỨ NGUYÊN VỆ THẦN 💥",
       "title_original": "💥 PHIM KĨ XẢO | HAYATE THỨ NGUYÊN VỆ THẦN 💥",
@@ -23,6 +34,17 @@
       "thumbnailUrl": "https://i.ytimg.com/vi/hradfw1JInA/maxresdefault.jpg"
     },
     {
+      "videoId": "D5NfzlZjywI",
+      "title": "Chỉnh Sửa Tachi: Timu Buff Dmg Quá Lố?",
+      "title_original": "Chỉnh Sửa Tachi: Timu Buff Dmg Quá Lố?",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-07-23T09:30:08Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/D5NfzlZjywI/maxresdefault.jpg"
+    },
+    {
       "videoId": "qh3QApu9AnM",
       "title": "♨️ PHIM KỸ XẢO | SỔ SỨ MỆNH 92 - KHẾ ƯỚC HUYẾT TẾ ♨️",
       "title_original": "♨️ PHIM KỸ XẢO | SỔ SỨ MỆNH 92 - KHẾ ƯỚC HUYẾT TẾ ♨️",
@@ -32,6 +54,17 @@
       "source": "youtube",
       "publishedAt": "2026-07-23T05:00:35Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/qh3QApu9AnM/maxresdefault.jpg"
+    },
+    {
+      "videoId": "r7MZVk8_d0g",
+      "title": "Liên Quân 10 Chỉnh Sửa Tướng Phiên Bản Mới: Y'bneth, Bright, Aya, Capheny...Cập Nhật Bổ Sung S3 2026",
+      "title_original": "Liên Quân 10 Chỉnh Sửa Tướng Phiên Bản Mới: Y'bneth, Bright, Aya, Capheny...Cập Nhật Bổ Sung S3 2026",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-07-23T03:00:30Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/r7MZVk8_d0g/maxresdefault.jpg"
     },
     {
       "videoId": "K4yFMUZvGws",
@@ -2166,39 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-07-13T05:00:39Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/TU64_THiQLw/maxresdefault.jpg"
-    },
-    {
-      "videoId": "V9FRqHOas3M",
-      "title": "Liên Quân | Cách 100% Nhận Thẻ LSR Đặc Biệt Và 10 Thẻ Khác Nhau Ngay Đổi Skin Sự Kiện Sưu Tầm Thẻ",
-      "title_original": "Liên Quân | Cách 100% Nhận Thẻ LSR Đặc Biệt Và 10 Thẻ Khác Nhau Ngay Đổi Skin Sự Kiện Sưu Tầm Thẻ",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-13T04:58:49Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/V9FRqHOas3M/maxresdefault.jpg"
-    },
-    {
-      "videoId": "C5US-x9tDQg",
-      "title": "Trải nghiệm DOLIA - NHẬT KÝ TÌNH YÊU bậc SS bị cắt hiệu ứng lấp lánh | Liên quân",
-      "title_original": "Trải nghiệm DOLIA - NHẬT KÝ TÌNH YÊU bậc SS bị cắt hiệu ứng lấp lánh | Liên quân",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-13T03:53:50Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/C5US-x9tDQg/maxresdefault.jpg"
-    },
-    {
-      "videoId": "Bfdm1T3GhBI",
-      "title": "TOP 5 Tướng Khắc Chế Biron, Kèo Solo Cứng Meta S3 2026, TNG",
-      "title_original": "TOP 5 Tướng Khắc Chế Biron, Kèo Solo Cứng Meta S3 2026, TNG",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-13T03:33:06Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/Bfdm1T3GhBI/maxresdefault.jpg"
     }
   ]
 }

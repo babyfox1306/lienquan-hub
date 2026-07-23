@@ -6,6 +6,16 @@
       "type": "channel"
     },
     {
+      "id": "UCAml1Hqu4LW36B3yEtQg8Fw",
+      "name": "FUNNY GAMING TV",
+      "type": "channel"
+    },
+    {
+      "id": "UC3QLI0FHwACCaa91Xdpam2A",
+      "name": "Trải Nghiệm Game",
+      "type": "channel"
+    },
+    {
       "id": "UCIzzawIg4eCPgZggwFzEQbQ",
       "name": "Garena Liên Quân Mobile",
       "type": "channel"
@@ -86,18 +96,8 @@
       "type": "channel"
     },
     {
-      "id": "UCeGc74La_cxRDfIh9E6uEiA",
-      "name": "Liên quân mobile",
-      "type": "channel"
-    },
-    {
       "id": "UCA70x9kBv6Feaslh-k2QxVw",
       "name": "Liên quân mobile ",
-      "type": "channel"
-    },
-    {
-      "id": "UCUypu6HW1VvNuEkcdAgjOKQ",
-      "name": "Garena Liên Quân Mobile",
       "type": "channel"
     }
   ],
