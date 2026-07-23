@@ -364,17 +364,17 @@
         "Alice"
       ],
       "tier": "A",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 12, Score: 1)",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 13, Score: 1)",
       "hot": true,
-      "hot_count": 12,
+      "hot_count": 13,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/1/1f/Hayate_profile.jpg/revision/latest/scale-to-width-down/500?cb=20200531224525",
       "related_videos": [
+        "QiRUblKHPlI",
         "XRBupOmIv74",
         "LTh0mLUd6RI",
         "uM7HZSg4SM4",
         "SwiEmM_19GI",
-        "1NhVUl3es7c",
-        "I82OUfxeA7I"
+        "1NhVUl3es7c"
       ]
     },
     {
@@ -1548,13 +1548,11 @@
         "Liliana"
       ],
       "tier": "B",
-      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/b/b4/Omen_profile.png/revision/latest/scale-to-width-down/500?cb=20180305143916",
-      "related_videos": [
-        "TU64_THiQLw"
-      ]
+      "related_videos": []
     },
     {
       "id": "ilumia",
@@ -4967,5 +4965,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-23T21:15:24Z"
+  "updated_at": "2026-07-23T23:06:41Z"
 }
