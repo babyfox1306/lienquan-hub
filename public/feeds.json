@@ -36,6 +36,11 @@
       "type": "channel"
     },
     {
+      "id": "UCjSYhg9GTdhLc-SXw7N49Og",
+      "name": "Liên Quân Mobile",
+      "type": "channel"
+    },
+    {
       "id": "UC92yhXD5hj0xvDbUj3d9aJw",
       "name": "Liên Quân Mobile - Topic",
       "type": "channel"
@@ -51,53 +56,48 @@
       "type": "channel"
     },
     {
+      "id": "UCaaylrdGhBZov0HKJ8P6KsA",
+      "name": "Garena Liên Quân Mobile",
+      "type": "channel"
+    },
+    {
+      "id": "UCPNH9nM5OWV9h3q6A6o6fnw",
+      "name": "Liên Quân Mobile",
+      "type": "channel"
+    },
+    {
       "id": "UCn1vIM_0pyfwcFWsnpCZ7vQ",
       "name": "M8 Arthur Liên Quân Mobile",
       "type": "channel"
     },
     {
-      "id": "UC2pK4DNQGx8SbF5wq-MlCuA",
-      "name": "Harry Liên Quân Mobile",
-      "type": "channel"
-    },
-    {
-      "id": "UC6_-E6Lek7_1TMt6927ITOQ",
-      "name": "NaKa Liên Quân Mobile",
-      "type": "channel"
-    },
-    {
-      "id": "UCLbjaqgI7y_ZAzn1_frqyJA",
-      "name": "ZD Liên Quân Mobile",
-      "type": "channel"
-    },
-    {
-      "id": "UCeGc74La_cxRDfIh9E6uEiA",
-      "name": "Liên quân mobile",
-      "type": "channel"
-    },
-    {
-      "id": "UCA70x9kBv6Feaslh-k2QxVw",
-      "name": "Liên quân mobile ",
-      "type": "channel"
-    },
-    {
-      "id": "UCUypu6HW1VvNuEkcdAgjOKQ",
-      "name": "Garena Liên Quân Mobile",
-      "type": "channel"
-    },
-    {
-      "id": "UCVQ0x-tX9TVjkq-a_E4mKvA",
-      "name": "garena liên quân Mobile",
-      "type": "channel"
-    },
-    {
-      "id": "UCMbrDKjY4rPux25EtovG6Hg",
-      "name": "Liên quân mobile",
-      "type": "channel"
-    },
-    {
-      "id": "UCVDQa6qNS2xqCbKCPDGfQFw",
+      "id": "UCWf2h2oDJUZ1NWAf-8Fcb9A",
       "name": "Liên Quân Mobile eSports - Garena",
+      "type": "channel"
+    },
+    {
+      "id": "UCxswa3JieWlhP7G3RpgnvZA",
+      "name": "Liên Quân Mobile",
+      "type": "channel"
+    },
+    {
+      "id": "UC7HkTnm8KA6an_ikbdePWVw",
+      "name": "GAME TV. Liên Quân Mobile",
+      "type": "channel"
+    },
+    {
+      "id": "UClqYR4kT-LVdgxV3m8B1sTQ",
+      "name": "Liên Quân Mobile",
+      "type": "channel"
+    },
+    {
+      "id": "UCGodYxsde1ged_DzcdN45Ng",
+      "name": "Liên quân mobile Pro",
+      "type": "channel"
+    },
+    {
+      "id": "UC7c_ffV_b1TgTt5xyuBpqmw",
+      "name": "Garena Liên Quân Mobile",
       "type": "channel"
     }
   ],
