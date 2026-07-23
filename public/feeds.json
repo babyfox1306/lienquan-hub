@@ -21,6 +21,11 @@
       "type": "channel"
     },
     {
+      "id": "UCdSGpiTIGwzlQQ9VP1IJXgg",
+      "name": "Bốp Bốp Top1 Liên Quân",
+      "type": "channel"
+    },
+    {
       "id": "UCYfv7UcC1KOsvMD3BVVwoLg",
       "name": "Esports - Garena Liên Quân Mobile",
       "type": "channel"
@@ -33,11 +38,6 @@
     {
       "id": "UCgbMglNu16CgtxKRg3LrpjQ",
       "name": "CBNN Liên Quân Mobile",
-      "type": "channel"
-    },
-    {
-      "id": "UCjSYhg9GTdhLc-SXw7N49Og",
-      "name": "Liên Quân Mobile",
       "type": "channel"
     },
     {
@@ -61,11 +61,6 @@
       "type": "channel"
     },
     {
-      "id": "UCPNH9nM5OWV9h3q6A6o6fnw",
-      "name": "Liên Quân Mobile",
-      "type": "channel"
-    },
-    {
       "id": "UCn1vIM_0pyfwcFWsnpCZ7vQ",
       "name": "M8 Arthur Liên Quân Mobile",
       "type": "channel"
@@ -81,22 +76,27 @@
       "type": "channel"
     },
     {
-      "id": "UC7HkTnm8KA6an_ikbdePWVw",
-      "name": "GAME TV. Liên Quân Mobile",
-      "type": "channel"
-    },
-    {
       "id": "UClqYR4kT-LVdgxV3m8B1sTQ",
       "name": "Liên Quân Mobile",
       "type": "channel"
     },
     {
-      "id": "UCGodYxsde1ged_DzcdN45Ng",
-      "name": "Liên quân mobile Pro",
+      "id": "UC6_-E6Lek7_1TMt6927ITOQ",
+      "name": "NaKa Liên Quân Mobile",
       "type": "channel"
     },
     {
-      "id": "UC7c_ffV_b1TgTt5xyuBpqmw",
+      "id": "UCeGc74La_cxRDfIh9E6uEiA",
+      "name": "Liên quân mobile",
+      "type": "channel"
+    },
+    {
+      "id": "UCA70x9kBv6Feaslh-k2QxVw",
+      "name": "Liên quân mobile ",
+      "type": "channel"
+    },
+    {
+      "id": "UCUypu6HW1VvNuEkcdAgjOKQ",
       "name": "Garena Liên Quân Mobile",
       "type": "channel"
     }
