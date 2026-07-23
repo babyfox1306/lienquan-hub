@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "XRBupOmIv74",
+      "title": "💥 PHIM KĨ XẢO | HAYATE THỨ NGUYÊN VỆ THẦN 💥",
+      "title_original": "💥 PHIM KĨ XẢO | HAYATE THỨ NGUYÊN VỆ THẦN 💥",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-07-23T11:00:36Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/XRBupOmIv74/maxresdefault.jpg"
+    },
+    {
       "videoId": "hradfw1JInA",
       "title": "Tập múa thành thạo tướng Yan Tanjiro Kamado ⚡️⚡️⚡️",
       "title_original": "Tập múa thành thạo tướng Yan Tanjiro Kamado ⚡️⚡️⚡️",
@@ -2188,17 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-07-13T03:33:06Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/Bfdm1T3GhBI/maxresdefault.jpg"
-    },
-    {
-      "videoId": "zDc1vrGleAM",
-      "title": "DCG vs BAC | QUARTER FINALS - APL 2026 | Hải Phong CO-STREAM 12.07.26",
-      "title_original": "DCG vs BAC | QUARTER FINALS - APL 2026 | Hải Phong CO-STREAM 12.07.26",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-13T01:21:01Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/zDc1vrGleAM/maxresdefault.jpg"
     }
   ]
 }
