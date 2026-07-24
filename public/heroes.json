@@ -364,17 +364,17 @@
         "Alice"
       ],
       "tier": "A",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 13, Score: 1)",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 14, Score: 1)",
       "hot": true,
-      "hot_count": 13,
+      "hot_count": 14,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/1/1f/Hayate_profile.jpg/revision/latest/scale-to-width-down/500?cb=20200531224525",
       "related_videos": [
+        "dFwXJG940PY",
         "QiRUblKHPlI",
         "XRBupOmIv74",
         "LTh0mLUd6RI",
         "uM7HZSg4SM4",
-        "SwiEmM_19GI",
-        "1NhVUl3es7c"
+        "SwiEmM_19GI"
       ]
     },
     {
@@ -1260,11 +1260,12 @@
         "Nakroth"
       ],
       "tier": "A",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 1)",
-      "hot": false,
-      "hot_count": 2,
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 3, Score: 1)",
+      "hot": true,
+      "hot_count": 3,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/d/d4/Liliana_Default.jpg/revision/latest/scale-to-width-down/500?cb=20180331134150",
       "related_videos": [
+        "2FJTw8X7xpk",
         "3lvcc2p5JfE",
         "x_3KDS4Fb9Y",
         "aoQLrxdVYCE"
@@ -1404,11 +1405,12 @@
         "Thane"
       ],
       "tier": "B",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 0)",
-      "hot": false,
-      "hot_count": 2,
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 3, Score: 0)",
+      "hot": true,
+      "hot_count": 3,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/f/f0/Valhein_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260124103241",
       "related_videos": [
+        "2FJTw8X7xpk",
         "3lvcc2p5JfE",
         "x_3KDS4Fb9Y",
         "buqGwlz4oP4"
@@ -3132,12 +3134,14 @@
       },
       "counters": [],
       "synergies": [],
-      "tier": "B",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 0)",
-      "hot": false,
-      "hot_count": 2,
-      "thumbnail": "https://img.youtube.com/vi/K4yFMUZvGws/maxresdefault.jpg",
+      "tier": "A",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 4, Score: 1)",
+      "hot": true,
+      "hot_count": 4,
+      "thumbnail": "https://img.youtube.com/vi/ystWLilkBwQ/maxresdefault.jpg",
       "related_videos": [
+        "ystWLilkBwQ",
+        "iilfXirifE8",
         "K4yFMUZvGws",
         "sFne-wyC5hg"
       ]
@@ -3570,11 +3574,12 @@
       "counters": [],
       "synergies": [],
       "tier": "B",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 0)",
-      "hot": false,
-      "hot_count": 2,
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 3, Score: 0)",
+      "hot": true,
+      "hot_count": 3,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/d/d3/Ishar_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125044459",
       "related_videos": [
+        "DQQl13eCAQ8",
         "Mxvl3pXWvXo",
         "n_1utQuBl9Y"
       ]
@@ -4232,13 +4237,12 @@
       "counters": [],
       "synergies": [],
       "tier": "B",
-      "tier_reason": "Xuất hiện 2 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
       "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/f/f2/Ryoma_Gunslinger.png/revision/latest/scale-to-width-down/500?cb=20180313083407",
       "related_videos": [
-        "VViZSliLQk4",
-        "FWxd8lep16E"
+        "VViZSliLQk4"
       ]
     },
     {
@@ -4321,8 +4325,7 @@
       "related_videos": [
         "lqbybuHRiis",
         "q-GepUi14KM",
-        "neg4_PVt1YM",
-        "I5rarJUtC3o"
+        "neg4_PVt1YM"
       ]
     },
     {
@@ -4963,5 +4966,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-24T06:35:46Z"
+  "updated_at": "2026-07-24T09:29:38Z"
 }
