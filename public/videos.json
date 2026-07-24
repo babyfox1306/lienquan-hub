@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "RFxD__bdp-A",
+      "title": "🔴Mang hành tới đây",
+      "title_original": "🔴Mang hành tới đây",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-07-24T17:46:23Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/RFxD__bdp-A/maxresdefault.jpg"
+    },
+    {
       "videoId": "4xw9uWxPDPg",
       "title": "《Garena 傳說對決》亥犽「次元突破」造型故事影片 EP03",
       "title_original": "《Garena 傳說對決》亥犽「次元突破」造型故事影片 EP03",
@@ -10,17 +21,6 @@
       "source": "youtube",
       "publishedAt": "2026-07-24T14:00:39Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/4xw9uWxPDPg/maxresdefault.jpg"
-    },
-    {
-      "videoId": "RFxD__bdp-A",
-      "title": "🔴Mang hành tới đây",
-      "title_original": "🔴Mang hành tới đây",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-24T13:31:43Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/RFxD__bdp-A/maxresdefault.jpg"
     },
     {
       "videoId": "izHvKHJCdWQ",

@@ -2057,9 +2057,9 @@
         "Thane"
       ],
       "tier": "B",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 0)",
+      "tier_reason": "Xuất hiện 5 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
-      "hot_count": 2,
+      "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/e/e1/Natalya.png/revision/latest?cb=20210109153000",
       "related_videos": [
         "I1luJ9c-Two",
@@ -4965,5 +4965,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-24T17:47:18Z"
+  "updated_at": "2026-07-24T19:42:18Z"
 }
