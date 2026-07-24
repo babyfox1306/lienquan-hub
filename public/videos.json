@@ -1,6 +1,50 @@
 {
   "videos": [
     {
+      "videoId": "RFxD__bdp-A",
+      "title": "🔴Mang hành tới đây",
+      "title_original": "🔴Mang hành tới đây",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-07-24T13:31:43Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/RFxD__bdp-A/maxresdefault.jpg"
+    },
+    {
+      "videoId": "izHvKHJCdWQ",
+      "title": "【賽季回顧】APL 2026 線下賽回顧影片,見證屬於 GCS 的冠軍之路!《Garena 傳說對決》",
+      "title_original": "【賽季回顧】APL 2026 線下賽回顧影片,見證屬於 GCS 的冠軍之路!《Garena 傳說對決》",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-07-24T12:00:38Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/izHvKHJCdWQ/maxresdefault.jpg"
+    },
+    {
+      "videoId": "I1TkVFrEsn8",
+      "title": "บรรยากาศงานออฟไลน์ RoV นานาชาติ APL 2026 กับการคว้าแชมป์ของ EA ตัวแทนไทย และ DCG ตัวแทนลีก GCS",
+      "title_original": "บรรยากาศงานออฟไลน์ RoV นานาชาติ APL 2026 กับการคว้าแชมป์ของ EA ตัวแทนไทย และ DCG ตัวแทนลีก GCS",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-07-24T12:00:37Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/I1TkVFrEsn8/maxresdefault.jpg"
+    },
+    {
+      "videoId": "d8JMytrjQ2A",
+      "title": "NHÌN LẠI VÒNG CHUNG KẾT APL 2026: TIÊN SƠN CHƯA TRỌN VẸN",
+      "title_original": "NHÌN LẠI VÒNG CHUNG KẾT APL 2026: TIÊN SƠN CHƯA TRỌN VẸN",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-07-24T12:00:22Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/d8JMytrjQ2A/maxresdefault.jpg"
+    },
+    {
       "videoId": "o01pPShpgu4",
       "title": "Cách tôi dùng Nakroth FARM - CÚP BÙA - ÉP - LỤM 1 SAO trận này (phần 2)",
       "title_original": "Cách tôi dùng Nakroth FARM - CÚP BÙA - ÉP - LỤM 1 SAO trận này (phần 2)",
@@ -43,6 +87,17 @@
       "source": "youtube",
       "publishedAt": "2026-07-24T09:30:07Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/z-IlCWXNMWU/maxresdefault.jpg"
+    },
+    {
+      "videoId": "EGUqS0A1Ja0",
+      "title": "Tôi Đã Dành 67 Giờ Chỉ Để Tử Luyện TAMYN Và Cái Kết 🐧",
+      "title_original": "Tôi Đã Dành 67 Giờ Chỉ Để Tử Luyện TAMYN Và Cái Kết 🐧",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-07-24T09:12:38Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/EGUqS0A1Ja0/maxresdefault.jpg"
     },
     {
       "videoId": "ystWLilkBwQ",
@@ -208,6 +263,28 @@
       "source": "youtube",
       "publishedAt": "2026-07-23T03:00:30Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/r7MZVk8_d0g/maxresdefault.jpg"
+    },
+    {
+      "videoId": "ndZ8q580jBE",
+      "title": "Chào mấy em ruột | Hải Phong 22.07.26",
+      "title_original": "Chào mấy em ruột | Hải Phong 22.07.26",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-07-22T20:56:52Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/ndZ8q580jBE/maxresdefault.jpg"
+    },
+    {
+      "videoId": "qjcuFsh_UmI",
+      "title": "Chào mấy em ruột | Hải Phong 22.07.26",
+      "title_original": "Chào mấy em ruột | Hải Phong 22.07.26",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-07-22T20:41:46Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/qjcuFsh_UmI/maxresdefault.jpg"
     },
     {
       "videoId": "CiWu_l2YIiY",
@@ -395,17 +472,6 @@
       "source": "youtube",
       "publishedAt": "2026-07-21T20:45:51Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/zfnDUMpPItk/maxresdefault.jpg"
-    },
-    {
-      "videoId": "ndZ8q580jBE",
-      "title": "Chào mấy em ruột | Hải Phong 22.07.26",
-      "title_original": "Chào mấy em ruột | Hải Phong 22.07.26",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-21T20:29:31Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/ndZ8q580jBE/maxresdefault.jpg"
     },
     {
       "videoId": "tcPTx6eMIHM",
@@ -2133,72 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-07-14T03:00:33Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/vqDX0cIdrhg/maxresdefault.jpg"
-    },
-    {
-      "videoId": "Wp8zPLGa5N8",
-      "title": "BACON TIME VS RELOVE DEEP CROSS GAMING | SEMI FINALS APL 2026 | NGÀY 12/07",
-      "title_original": "BACON TIME VS RELOVE DEEP CROSS GAMING | SEMI FINALS APL 2026 | NGÀY 12/07",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-14T00:00:06Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/Wp8zPLGa5N8/maxresdefault.jpg"
-    },
-    {
-      "videoId": "D0pyFh5iVBM",
-      "title": "10 Ngày leo top 10 TD ( Ngay 4)",
-      "title_original": "10 Ngày leo top 10 TD ( Ngay 4)",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-13T22:40:22Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/D0pyFh5iVBM/maxresdefault.jpg"
-    },
-    {
-      "videoId": "wUTv98DWft8",
-      "title": "🔴Nong time no see",
-      "title_original": "🔴Nong time no see",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-13T18:21:02Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/wUTv98DWft8/maxresdefault.jpg"
-    },
-    {
-      "videoId": "6M0iO_X1A-k",
-      "title": "LIÊN QUÂN : 1 Đêm Troll Game Cùng Các Nhân Vật ATTACK ON TITAN - Siêu Phẩm Nào Ngầu Nhất ?",
-      "title_original": "LIÊN QUÂN : 1 Đêm Troll Game Cùng Các Nhân Vật ATTACK ON TITAN - Siêu Phẩm Nào Ngầu Nhất ?",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-13T13:35:42Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/6M0iO_X1A-k/maxresdefault.jpg"
-    },
-    {
-      "videoId": "-6j7MXts5qk",
-      "title": "💥 Lyrics Video CHUNG MỘT NGƯỜI -  Liên Quân Mobile x 24K.Right ft. Mason Nguyễn, Pháo Northside🎤",
-      "title_original": "💥 Lyrics Video CHUNG MỘT NGƯỜI -  Liên Quân Mobile x 24K.Right ft. Mason Nguyễn, Pháo Northside🎤",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-13T13:00:02Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/-6j7MXts5qk/maxresdefault.jpg"
-    },
-    {
-      "videoId": "0h5XnmOzrHE",
-      "title": "【第一視角】DCG Xcen 的刺客就是這麼不講理,頂尖操作讓敵方後排無處可躲!《Garena 傳說對決》",
-      "title_original": "【第一視角】DCG Xcen 的刺客就是這麼不講理,頂尖操作讓敵方後排無處可躲!《Garena 傳說對決》",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-13T12:30:20Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/0h5XnmOzrHE/maxresdefault.jpg"
     }
   ]
 }
