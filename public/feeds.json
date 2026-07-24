@@ -26,6 +26,11 @@
       "type": "channel"
     },
     {
+      "id": "UCeMjhoCCvujpObnt6yeZeNg",
+      "name": "Garena 傳說對決",
+      "type": "channel"
+    },
+    {
       "id": "UCyqjmx1kcZknycssiIhFQKw",
       "name": "VuxGaming",
       "type": "channel"
@@ -33,6 +38,11 @@
     {
       "id": "UCMHSTFMGp-k4Z0kG-CfMSWg",
       "name": "HTT GAMER LIÊN QUÂN MOBILE",
+      "type": "channel"
+    },
+    {
+      "id": "UCrROWQp9uPZUiTVHuWBwj9g",
+      "name": "Namsensei",
       "type": "channel"
     },
     {
@@ -56,6 +66,11 @@
       "type": "channel"
     },
     {
+      "id": "UCxRmGuMCF-xhlL4ex5gnAlg",
+      "name": "Soon Nata",
+      "type": "channel"
+    },
+    {
       "id": "UC92yhXD5hj0xvDbUj3d9aJw",
       "name": "Liên Quân Mobile - Topic",
       "type": "channel"
@@ -71,6 +86,11 @@
       "type": "channel"
     },
     {
+      "id": "UCtWAEFq-M1Z2bQKfuCHswDw",
+      "name": "Liên Quân Mobile Thử Thách",
+      "type": "channel"
+    },
+    {
       "id": "UCn1vIM_0pyfwcFWsnpCZ7vQ",
       "name": "M8 Arthur Liên Quân Mobile",
       "type": "channel"
@@ -78,26 +98,6 @@
     {
       "id": "UCWf2h2oDJUZ1NWAf-8Fcb9A",
       "name": "Liên Quân Mobile eSports - Garena",
-      "type": "channel"
-    },
-    {
-      "id": "UCxswa3JieWlhP7G3RpgnvZA",
-      "name": "Liên Quân Mobile",
-      "type": "channel"
-    },
-    {
-      "id": "UClqYR4kT-LVdgxV3m8B1sTQ",
-      "name": "Liên Quân Mobile",
-      "type": "channel"
-    },
-    {
-      "id": "UC6_-E6Lek7_1TMt6927ITOQ",
-      "name": "NaKa Liên Quân Mobile",
-      "type": "channel"
-    },
-    {
-      "id": "UCA70x9kBv6Feaslh-k2QxVw",
-      "name": "Liên quân mobile ",
       "type": "channel"
     }
   ],
