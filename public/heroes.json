@@ -319,11 +319,13 @@
         "Arthur"
       ],
       "tier": "S",
-      "tier_reason": "Được gán từ dữ liệu hạt giống (Seed S-Tier) do ít video mới (Hot Count: 0)",
+      "tier_reason": "Được gán từ dữ liệu hạt giống (Seed S-Tier) do ít video mới (Hot Count: 1)",
       "hot": false,
-      "hot_count": 0,
+      "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/a/a6/Marja_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125052236",
-      "related_videos": []
+      "related_videos": [
+        "OHB5QyuBiCE"
+      ]
     },
     {
       "id": "hayate",
@@ -365,17 +367,17 @@
         "Alice"
       ],
       "tier": "A",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 10, Score: 1)",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 11, Score: 1)",
       "hot": true,
-      "hot_count": 10,
+      "hot_count": 11,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/1/1f/Hayate_profile.jpg/revision/latest/scale-to-width-down/500?cb=20200531224525",
       "related_videos": [
+        "4WjFQVVie5s",
         "dFwXJG940PY",
         "QiRUblKHPlI",
         "XRBupOmIv74",
         "LTh0mLUd6RI",
-        "uM7HZSg4SM4",
-        "SwiEmM_19GI"
+        "uM7HZSg4SM4"
       ]
     },
     {
@@ -3455,13 +3457,11 @@
       "counters": [],
       "synergies": [],
       "tier": "B",
-      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/8/86/Heino_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260124103942",
-      "related_videos": [
-        "NBqKFhOocjQ"
-      ]
+      "related_videos": []
     },
     {
       "id": "helen",
@@ -4966,5 +4966,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-25T03:21:31Z"
+  "updated_at": "2026-07-25T06:27:31Z"
 }
