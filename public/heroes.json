@@ -366,17 +366,17 @@
         "Alice"
       ],
       "tier": "A",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 13, Score: 1)",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 14, Score: 1)",
       "hot": true,
-      "hot_count": 13,
+      "hot_count": 14,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/1/1f/Hayate_profile.jpg/revision/latest/scale-to-width-down/500?cb=20200531224525",
       "related_videos": [
+        "bxVHy5M0tiY",
         "y0FI9xe6IiY",
         "V9a4MwAKOio",
         "4NuxXfFKG1U",
         "4WjFQVVie5s",
-        "dFwXJG940PY",
-        "QiRUblKHPlI"
+        "dFwXJG940PY"
       ]
     },
     {
@@ -881,15 +881,14 @@
         "Valhein",
         "Wukong"
       ],
-      "tier": "A",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 1)",
+      "tier": "B",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 0)",
       "hot": false,
       "hot_count": 2,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/3/3b/Alice_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125083007",
       "related_videos": [
         "F4tFd6w2Ksw",
-        "0X-BDhtaPeA",
-        "NEs7duDRPvk"
+        "0X-BDhtaPeA"
       ]
     },
     {
@@ -4963,5 +4962,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-25T13:51:45Z"
+  "updated_at": "2026-07-25T15:13:32Z"
 }
