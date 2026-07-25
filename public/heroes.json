@@ -367,17 +367,17 @@
         "Alice"
       ],
       "tier": "A",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 11, Score: 1)",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 12, Score: 1)",
       "hot": true,
-      "hot_count": 11,
+      "hot_count": 12,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/1/1f/Hayate_profile.jpg/revision/latest/scale-to-width-down/500?cb=20200531224525",
       "related_videos": [
+        "V9a4MwAKOio",
+        "4NuxXfFKG1U",
         "4WjFQVVie5s",
         "dFwXJG940PY",
         "QiRUblKHPlI",
-        "XRBupOmIv74",
-        "LTh0mLUd6RI",
-        "uM7HZSg4SM4"
+        "XRBupOmIv74"
       ]
     },
     {
@@ -1028,14 +1028,13 @@
         "Toro"
       ],
       "tier": "B",
-      "tier_reason": "Xuất hiện 3 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện 2 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
       "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/e/e7/Maloch_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125090603",
       "related_videos": [
         "n_1utQuBl9Y",
-        "6zg50PLmP4g",
-        "d-w3y_U4JHM"
+        "6zg50PLmP4g"
       ]
     },
     {
@@ -4711,13 +4710,11 @@
       "counters": [],
       "synergies": [],
       "tier": "B",
-      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/9/94/Wisp_Default.jpg/revision/latest/scale-to-width-down/500?cb=20180419063145",
-      "related_videos": [
-        "F8-IONSJCzQ"
-      ]
+      "related_videos": []
     },
     {
       "id": "wonderwoman",
@@ -4966,5 +4963,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-25T06:27:31Z"
+  "updated_at": "2026-07-25T09:08:19Z"
 }
