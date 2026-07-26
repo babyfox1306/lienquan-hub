@@ -1,6 +1,39 @@
 {
   "videos": [
     {
+      "videoId": "zJCpB04sLWI",
+      "title": "White Angst - ผู้บุกรุกจู่โจม! Valor Pass 67",
+      "title_original": "White Angst - ผู้บุกรุกจู่โจม! Valor Pass 67",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-07-26T14:18:53Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/zJCpB04sLWI/maxresdefault.jpg"
+    },
+    {
+      "videoId": "UbQJkoHv2nI",
+      "title": "【S14 傳說對決城市賽 x 六都電競】 新北 四強暨總決賽- 2026/07/26 《Garena 傳說對決》",
+      "title_original": "【S14 傳說對決城市賽 x 六都電競】 新北 四強暨總決賽- 2026/07/26 《Garena 傳說對決》",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-07-26T13:53:15Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/UbQJkoHv2nI/maxresdefault.jpg"
+    },
+    {
+      "videoId": "8yXB9Z242qA",
+      "title": "🔴 Tiếp Tục Cùng Hayate Thứ Nguyên Vệ Thần",
+      "title_original": "🔴 Tiếp Tục Cùng Hayate Thứ Nguyên Vệ Thần",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-07-26T13:30:27Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/8yXB9Z242qA/maxresdefault.jpg"
+    },
+    {
       "videoId": "glj4F9HHMlo",
       "title": "Trận đấu lên TOP MIỀN BẮC ĐIÊU THUYỀN của Icyfoxx",
       "title_original": "Trận đấu lên TOP MIỀN BẮC ĐIÊU THUYỀN của Icyfoxx",
@@ -241,17 +274,6 @@
       "source": "youtube",
       "publishedAt": "2026-07-25T11:45:38Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/y0FI9xe6IiY/maxresdefault.jpg"
-    },
-    {
-      "videoId": "UbQJkoHv2nI",
-      "title": "【S14 傳說對決城市賽 x 六都電競】 新北 四強暨總決賽- 2026/07/26 《Garena 傳說對決》",
-      "title_original": "【S14 傳說對決城市賽 x 六都電競】 新北 四強暨總決賽- 2026/07/26 《Garena 傳說對決》",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-25T11:35:51Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/UbQJkoHv2nI/maxresdefault.jpg"
     },
     {
       "videoId": "crzIUrbhBsA",
@@ -2177,28 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-07-16T10:38:47Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/B2deCwniUmk/maxresdefault.jpg"
-    },
-    {
-      "videoId": "SilejkmrWT4",
-      "title": "Siêu Xạ Thủ Lai Bâng Đối Đầu Xạ Thủ Yiwei",
-      "title_original": "Siêu Xạ Thủ Lai Bâng Đối Đầu Xạ Thủ Yiwei",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-16T09:52:49Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/SilejkmrWT4/maxresdefault.jpg"
-    },
-    {
-      "videoId": "s02zX_CS6os",
-      "title": "🔴Gánh team hoặc Team gánh: CHỌN ĐÊ",
-      "title_original": "🔴Gánh team hoặc Team gánh: CHỌN ĐÊ",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-16T08:42:58Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/s02zX_CS6os/maxresdefault.jpg"
     }
   ]
 }
