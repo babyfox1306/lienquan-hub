@@ -137,9 +137,7 @@
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/2/2a/Zata_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20200617141406",
-      "related_videos": [
-        "0y9BAGhZZYI"
-      ]
+      "related_videos": []
     },
     {
       "id": "violet",
@@ -371,12 +369,12 @@
       "hot_count": 15,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/1/1f/Hayate_profile.jpg/revision/latest/scale-to-width-down/500?cb=20200531224525",
       "related_videos": [
+        "P8t2zbeBEqw",
         "6rmiqZBdkZA",
         "bxVHy5M0tiY",
         "y0FI9xe6IiY",
         "V9a4MwAKOio",
-        "4NuxXfFKG1U",
-        "4WjFQVVie5s"
+        "4NuxXfFKG1U"
       ]
     },
     {
@@ -836,12 +834,15 @@
         "Elsu",
         "Yorn"
       ],
-      "tier": "S",
-      "tier_reason": "Được gán từ dữ liệu hạt giống (Seed S-Tier) do ít video mới (Hot Count: 0)",
+      "tier": "B",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 0)",
       "hot": false,
-      "hot_count": 0,
+      "hot_count": 2,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/7/71/Gildur_Default.jpg/revision/latest/scale-to-width-down/500?cb=20180327112635",
-      "related_videos": []
+      "related_videos": [
+        "fQq3BPiGMuw",
+        "ZDHVWj0UXVA"
+      ]
     },
     {
       "id": "alice",
@@ -1028,7 +1029,7 @@
       "tier": "B",
       "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/e/e7/Maloch_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125090603",
       "related_videos": [
         "n_1utQuBl9Y"
@@ -1410,8 +1411,7 @@
         "6K5guZyfq8A",
         "2FJTw8X7xpk",
         "3lvcc2p5JfE",
-        "x_3KDS4Fb9Y",
-        "buqGwlz4oP4"
+        "x_3KDS4Fb9Y"
       ]
     },
     {
@@ -2892,13 +2892,12 @@
       "counters": [],
       "synergies": [],
       "tier": "B",
-      "tier_reason": "Xuất hiện 2 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
       "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/c/ca/Butterfly_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125083110",
       "related_videos": [
-        "F4tFd6w2Ksw",
-        "0y9BAGhZZYI"
+        "F4tFd6w2Ksw"
       ]
     },
     {
@@ -3130,11 +3129,12 @@
       "counters": [],
       "synergies": [],
       "tier": "A",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 3, Score: 1)",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 4, Score: 2)",
       "hot": true,
-      "hot_count": 3,
-      "thumbnail": "https://img.youtube.com/vi/ystWLilkBwQ/maxresdefault.jpg",
+      "hot_count": 4,
+      "thumbnail": "https://img.youtube.com/vi/glj4F9HHMlo/maxresdefault.jpg",
       "related_videos": [
+        "glj4F9HHMlo",
         "ystWLilkBwQ",
         "iilfXirifE8",
         "K4yFMUZvGws",
@@ -3173,13 +3173,12 @@
       "counters": [],
       "synergies": [],
       "tier": "A",
-      "tier_reason": "Xuất hiện 2 lần trong video/tin tức 14 ngày qua (Score: 1)",
+      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 1)",
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/e/e6/Dolia_Splash_Art.jpeg/revision/latest/scale-to-width-down/500?cb=20240710174030",
       "related_videos": [
-        "GEqCGFliMy8",
-        "0y9BAGhZZYI"
+        "GEqCGFliMy8"
       ]
     },
     {
@@ -3567,9 +3566,9 @@
       "counters": [],
       "synergies": [],
       "tier": "B",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 3, Score: 0)",
-      "hot": true,
-      "hot_count": 3,
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 0)",
+      "hot": false,
+      "hot_count": 2,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/d/d3/Ishar_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125044459",
       "related_videos": [
         "DQQl13eCAQ8",
@@ -4949,15 +4948,14 @@
       "counters": [],
       "synergies": [],
       "tier": "A",
-      "tier_reason": "Xuất hiện 2 lần trong video/tin tức 14 ngày qua (Score: 1)",
+      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 1)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/9/9e/Zuka_Splash.png/revision/latest/scale-to-width-down/500?cb=20171204210621",
       "related_videos": [
-        "DClcoSIaNJY",
-        "buqGwlz4oP4"
+        "DClcoSIaNJY"
       ]
     }
   ],
-  "updated_at": "2026-07-26T10:10:31Z"
+  "updated_at": "2026-07-26T12:13:22Z"
 }
