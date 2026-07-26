@@ -366,17 +366,17 @@
         "Alice"
       ],
       "tier": "A",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 14, Score: 1)",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 15, Score: 1)",
       "hot": true,
-      "hot_count": 14,
+      "hot_count": 15,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/1/1f/Hayate_profile.jpg/revision/latest/scale-to-width-down/500?cb=20200531224525",
       "related_videos": [
+        "6rmiqZBdkZA",
         "bxVHy5M0tiY",
         "y0FI9xe6IiY",
         "V9a4MwAKOio",
         "4NuxXfFKG1U",
-        "4WjFQVVie5s",
-        "dFwXJG940PY"
+        "4WjFQVVie5s"
       ]
     },
     {
@@ -510,11 +510,13 @@
         "Zata"
       ],
       "tier": "B",
-      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
-      "hot_count": 0,
+      "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/e/ec/Thane_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125055815",
-      "related_videos": []
+      "related_videos": [
+        "ViIISAx0Yd8"
+      ]
     },
     {
       "id": "baldum",
@@ -1255,8 +1257,8 @@
         "Thane",
         "Nakroth"
       ],
-      "tier": "A",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 3, Score: 1)",
+      "tier": "B",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 3, Score: 0)",
       "hot": true,
       "hot_count": 3,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/d/d4/Liliana_Default.jpg/revision/latest/scale-to-width-down/500?cb=20180331134150",
@@ -1264,8 +1266,7 @@
         "6K5guZyfq8A",
         "2FJTw8X7xpk",
         "3lvcc2p5JfE",
-        "x_3KDS4Fb9Y",
-        "aoQLrxdVYCE"
+        "x_3KDS4Fb9Y"
       ]
     },
     {
@@ -4958,5 +4959,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-26T07:43:55Z"
+  "updated_at": "2026-07-26T10:10:31Z"
 }
