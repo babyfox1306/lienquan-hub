@@ -2054,7 +2054,7 @@
         "Thane"
       ],
       "tier": "B",
-      "tier_reason": "Xuất hiện 5 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện 4 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/e/e1/Natalya.png/revision/latest?cb=20210109153000",
@@ -2062,8 +2062,7 @@
         "I1luJ9c-Two",
         "moqOH8Zl8wI",
         "HgEAqfTtM-o",
-        "3iAa6So5oy8",
-        "qUU8_-5K_jw"
+        "3iAa6So5oy8"
       ]
     },
     {
@@ -4311,9 +4310,9 @@
       "counters": [],
       "synergies": [],
       "tier": "S",
-      "tier_reason": "Được gán từ dữ liệu hạt giống (Seed S-Tier) do ít video mới (Hot Count: 1)",
+      "tier_reason": "Được gán từ dữ liệu hạt giống (Seed S-Tier) do ít video mới (Hot Count: 0)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/6/60/Sinestrea_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20220702032816",
       "related_videos": [
         "lqbybuHRiis",
@@ -4957,5 +4956,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-27T00:11:04Z"
+  "updated_at": "2026-07-27T04:45:38Z"
 }
