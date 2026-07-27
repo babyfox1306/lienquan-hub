@@ -66,8 +66,8 @@
       "type": "channel"
     },
     {
-      "id": "UC1ysb__ddApp3PlDva5NAVw",
-      "name": "Top 1 Liliana",
+      "id": "UC_Kfu-XiwH0WKTRSMD9st_Q",
+      "name": "Bạn Cay Tôi À?",
       "type": "channel"
     },
     {
@@ -86,11 +86,6 @@
       "type": "channel"
     },
     {
-      "id": "UCYfv7UcC1KOsvMD3BVVwoLg",
-      "name": "Esports - Garena Liên Quân Mobile",
-      "type": "channel"
-    },
-    {
       "id": "UC-r1vXyPiJSo2r29U3PgoNg",
       "name": "HẢI PHONG - HỎNG FILE",
       "type": "channel"
@@ -98,6 +93,11 @@
     {
       "id": "UC1Gvx0tvS1_WyFmEH-G_2TA",
       "name": "Team Flash Liên Quân Mobile",
+      "type": "channel"
+    },
+    {
+      "id": "UCgbMglNu16CgtxKRg3LrpjQ",
+      "name": "CBNN Liên Quân Mobile",
       "type": "channel"
     }
   ],

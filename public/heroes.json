@@ -364,17 +364,17 @@
         "Alice"
       ],
       "tier": "A",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 14, Score: 1)",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 15, Score: 2)",
       "hot": true,
-      "hot_count": 14,
+      "hot_count": 15,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/1/1f/Hayate_profile.jpg/revision/latest/scale-to-width-down/500?cb=20200531224525",
       "related_videos": [
+        "_DedmL09_nQ",
         "8yXB9Z242qA",
         "P8t2zbeBEqw",
         "6rmiqZBdkZA",
         "bxVHy5M0tiY",
-        "y0FI9xe6IiY",
-        "V9a4MwAKOio"
+        "y0FI9xe6IiY"
       ]
     },
     {
@@ -4626,11 +4626,14 @@
       "counters": [],
       "synergies": [],
       "tier": "B",
-      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 0)",
       "hot": false,
-      "hot_count": 0,
+      "hot_count": 2,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/3/35/Veera_profile.png/revision/latest/scale-to-width-down/500?cb=20170525133701",
-      "related_videos": []
+      "related_videos": [
+        "o_VqYOWpZNk",
+        "7AiTqHfvhF8"
+      ]
     },
     {
       "id": "wiro",
@@ -4956,5 +4959,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-27T04:45:38Z"
+  "updated_at": "2026-07-27T08:41:07Z"
 }
