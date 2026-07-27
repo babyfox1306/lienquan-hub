@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "lGjatWO1a_M",
+      "title": "🔴 Tối nay sao",
+      "title_original": "🔴 Tối nay sao",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-07-27T17:28:41Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/lGjatWO1a_M/maxresdefault.jpg"
+    },
+    {
       "videoId": "YCni5rmZlDc",
       "title": "cứ liên quân là nổ view",
       "title_original": "cứ liên quân là nổ view",
@@ -21,17 +32,6 @@
       "source": "youtube",
       "publishedAt": "2026-07-27T15:01:23Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/pR-KLTjoHxw/maxresdefault.jpg"
-    },
-    {
-      "videoId": "lGjatWO1a_M",
-      "title": "🔴 Tối nay sao",
-      "title_original": "🔴 Tối nay sao",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-27T14:16:21Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/lGjatWO1a_M/maxresdefault.jpg"
     },
     {
       "videoId": "ZkkHXx6Lm6k",
