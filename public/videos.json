@@ -1,6 +1,28 @@
 {
   "videos": [
     {
+      "videoId": "qjcuFsh_UmI",
+      "title": "Chào mấy em ruột | Hải Phong 27.07.26",
+      "title_original": "Chào mấy em ruột | Hải Phong 27.07.26",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-07-27T19:19:51Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/qjcuFsh_UmI/maxresdefault.jpg"
+    },
+    {
+      "videoId": "LQJfj95ftOg",
+      "title": "Chào mấy em ruột | Hải Phong 27.07.26",
+      "title_original": "Chào mấy em ruột | Hải Phong 27.07.26",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-07-27T19:08:31Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/LQJfj95ftOg/maxresdefault.jpg"
+    },
+    {
       "videoId": "lGjatWO1a_M",
       "title": "🔴 Tối nay sao",
       "title_original": "🔴 Tối nay sao",
@@ -912,17 +934,6 @@
       "source": "youtube",
       "publishedAt": "2026-07-22T20:56:52Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/ndZ8q580jBE/maxresdefault.jpg"
-    },
-    {
-      "videoId": "qjcuFsh_UmI",
-      "title": "Chào mấy em ruột | Hải Phong 27.07.26",
-      "title_original": "Chào mấy em ruột | Hải Phong 27.07.26",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-22T20:41:46Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/qjcuFsh_UmI/maxresdefault.jpg"
     },
     {
       "videoId": "CiWu_l2YIiY",
@@ -2188,17 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-07-17T09:31:32Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/neg4_PVt1YM/maxresdefault.jpg"
-    },
-    {
-      "videoId": "QBT6uxQul50",
-      "title": "Trận cuối lên Cao Thủ đầu mùa của Naka bằng vị tướng Errol Diệt Nguyệt Tiên Phong ⚡️⚡️⚡️",
-      "title_original": "Trận cuối lên Cao Thủ đầu mùa của Naka bằng vị tướng Errol Diệt Nguyệt Tiên Phong ⚡️⚡️⚡️",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-17T09:30:41Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/QBT6uxQul50/maxresdefault.jpg"
     }
   ]
 }
