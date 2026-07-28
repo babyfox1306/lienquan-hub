@@ -366,17 +366,17 @@
         "Alice"
       ],
       "tier": "A",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 18, Score: 2)",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 19, Score: 2)",
       "hot": true,
-      "hot_count": 18,
+      "hot_count": 19,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/1/1f/Hayate_profile.jpg/revision/latest/scale-to-width-down/500?cb=20200531224525",
       "related_videos": [
+        "3cVGW8QRqQU",
         "fMPw-eobs50",
         "S90lkBZkeZM",
         "tP-IBBgw4L0",
         "hAG0i0W6IT4",
-        "A6l08zDhSOw",
-        "_DedmL09_nQ"
+        "A6l08zDhSOw"
       ]
     },
     {
@@ -4233,9 +4233,9 @@
       "counters": [],
       "synergies": [],
       "tier": "B",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 0)",
+      "tier_reason": "Xuất hiện 2 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
-      "hot_count": 2,
+      "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/f/f2/Ryoma_Gunslinger.png/revision/latest/scale-to-width-down/500?cb=20180313083407",
       "related_videos": [
         "sRIrcKhgw_Y",
@@ -4963,5 +4963,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-28T11:27:53Z"
+  "updated_at": "2026-07-28T14:27:22Z"
 }
