@@ -1,6 +1,28 @@
 {
   "videos": [
     {
+      "videoId": "LQJfj95ftOg",
+      "title": "Chào mấy em ruột | Hải Phong 28.07.26",
+      "title_original": "Chào mấy em ruột | Hải Phong 28.07.26",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-07-28T19:11:05Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/LQJfj95ftOg/maxresdefault.jpg"
+    },
+    {
+      "videoId": "lVcX75AGfWg",
+      "title": "Chào mấy em ruột | Hải Phong 28.07.26",
+      "title_original": "Chào mấy em ruột | Hải Phong 28.07.26",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-07-28T19:01:19Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/lVcX75AGfWg/maxresdefault.jpg"
+    },
+    {
       "videoId": "jHGCVozi8PY",
       "title": "Nhà có tuất không bác ơi",
       "title_original": "Nhà có tuất không bác ơi",
@@ -120,17 +142,6 @@
       "source": "youtube",
       "publishedAt": "2026-07-27T19:19:51Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/qjcuFsh_UmI/maxresdefault.jpg"
-    },
-    {
-      "videoId": "LQJfj95ftOg",
-      "title": "Chào mấy em ruột | Hải Phong 28.07.26",
-      "title_original": "Chào mấy em ruột | Hải Phong 28.07.26",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-27T19:08:31Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/LQJfj95ftOg/maxresdefault.jpg"
     },
     {
       "videoId": "lGjatWO1a_M",
@@ -2188,17 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-07-17T12:00:11Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/Wep4cZLrUIw/maxresdefault.jpg"
-    },
-    {
-      "videoId": "2BKiv4_i7H4",
-      "title": "(Goose Goose Duck #3) Cò Gáy Khổ Nhất Thế Giới",
-      "title_original": "(Goose Goose Duck #3) Cò Gáy Khổ Nhất Thế Giới",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-17T11:44:44Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/2BKiv4_i7H4/maxresdefault.jpg"
     }
   ]
 }
