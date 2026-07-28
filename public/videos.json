@@ -1,6 +1,28 @@
 {
   "videos": [
     {
+      "videoId": "J-Chjx8lyo4",
+      "title": "Chỉnh Sửa D'Arcy: Từ Đáy XH trở thành Siêu Lỗi Game",
+      "title_original": "Chỉnh Sửa D'Arcy: Từ Đáy XH trở thành Siêu Lỗi Game",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-07-28T10:35:46Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/J-Chjx8lyo4/maxresdefault.jpg"
+    },
+    {
+      "videoId": "95YgNNdQPFc",
+      "title": "VUX LEO RANK VỚI BIỆT ĐỘI SSM 92 KHẾ ƯỚC HUYẾT TẾ LIÊN QUÂN MOBILE",
+      "title_original": "VUX LEO RANK VỚI BIỆT ĐỘI SSM 92 KHẾ ƯỚC HUYẾT TẾ LIÊN QUÂN MOBILE",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-07-28T09:30:50Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/95YgNNdQPFc/maxresdefault.jpg"
+    },
+    {
       "videoId": "jVtKlk1cQog",
       "title": "Bữa giờ xuống tay với Nakroth quá",
       "title_original": "Bữa giờ xuống tay với Nakroth quá",
@@ -8,8 +30,19 @@
       "country": "VN",
       "lang_original": "vi",
       "source": "youtube",
-      "publishedAt": "2026-07-28T04:28:51Z",
+      "publishedAt": "2026-07-28T09:08:01Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/jVtKlk1cQog/maxresdefault.jpg"
+    },
+    {
+      "videoId": "ORg75RkJY_M",
+      "title": "Liên Quân | Mẹo Cày Nhận Thẻ LSR Valhein và Liliana Đổi Quà Skin Siêu Xịn Sự Kiện Sưu Tầm Thẻ",
+      "title_original": "Liên Quân | Mẹo Cày Nhận Thẻ LSR Valhein và Liliana Đổi Quà Skin Siêu Xịn Sự Kiện Sưu Tầm Thẻ",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-07-28T09:00:04Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/ORg75RkJY_M/maxresdefault.jpg"
     },
     {
       "videoId": "60NV7jfEZ1M",
@@ -145,8 +178,8 @@
     },
     {
       "videoId": "hAG0i0W6IT4",
-      "title": "Tôi đánh giá Skin Hayate Thứ Nguyên Vệ Thần",
-      "title_original": "Tôi đánh giá Skin Hayate Thứ Nguyên Vệ Thần",
+      "title": "Hayate Thứ Nguyên Vệ Thần Là Một Skin Tệ Hại ?",
+      "title_original": "Hayate Thứ Nguyên Vệ Thần Là Một Skin Tệ Hại ?",
       "translated": false,
       "country": "VN",
       "lang_original": "vi",
@@ -2166,39 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-07-17T11:00:28Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/l6chsZNPVjE/maxresdefault.jpg"
-    },
-    {
-      "videoId": "VB_jfzZJNhE",
-      "title": "🎬 Dimension Breaker Hayate | PV Teaser 1 : อดีตที่สะท้อนกลับ",
-      "title_original": "🎬 Dimension Breaker Hayate | PV Teaser 1 : อดีตที่สะท้อนกลับ",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-17T10:54:45Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/VB_jfzZJNhE/maxresdefault.jpg"
-    },
-    {
-      "videoId": "W39lJOBzEBw",
-      "title": "PHA BACKDOOR THỂ HIỆN TƯ DUY CỰC ĐỈNH CỦA BỐP BỐP",
-      "title_original": "PHA BACKDOOR THỂ HIỆN TƯ DUY CỰC ĐỈNH CỦA BỐP BỐP",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-17T10:30:06Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/W39lJOBzEBw/maxresdefault.jpg"
-    },
-    {
-      "videoId": "KmkLXlboZnQ",
-      "title": "TOẠ ĐỘ KHỞI NGUỒN CỦA KỶ NGUYÊN MỚI - THE KINGDOM OF VALOR |LIÊN QUÂN MOBILE X SUN WORLD BA NA HILLS",
-      "title_original": "TOẠ ĐỘ KHỞI NGUỒN CỦA KỶ NGUYÊN MỚI - THE KINGDOM OF VALOR |LIÊN QUÂN MOBILE X SUN WORLD BA NA HILLS",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-17T10:00:20Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/KmkLXlboZnQ/maxresdefault.jpg"
     }
   ]
 }
