@@ -1,6 +1,39 @@
 {
   "videos": [
     {
+      "videoId": "HSSlZ5g7ToE",
+      "title": "Leo Top 10 Thách Đấu ( Day 2 )",
+      "title_original": "Leo Top 10 Thách Đấu ( Day 2 )",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-07-29T20:43:24Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/HSSlZ5g7ToE/maxresdefault.jpg"
+    },
+    {
+      "videoId": "lVcX75AGfWg",
+      "title": "Chào mấy em ruột | Hải Phong 29.07.26",
+      "title_original": "Chào mấy em ruột | Hải Phong 29.07.26",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-07-29T18:40:56Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/lVcX75AGfWg/maxresdefault.jpg"
+    },
+    {
+      "videoId": "mW1Yqo4GGdM",
+      "title": "Chào mấy em ruột | Hải Phong 29.07.26",
+      "title_original": "Chào mấy em ruột | Hải Phong 29.07.26",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-07-29T18:35:43Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/mW1Yqo4GGdM/maxresdefault.jpg"
+    },
+    {
       "videoId": "tiln6QstVIA",
       "title": "Liên Quân | Con Đường Lên Cao Thủ Trong Bao Lâu?",
       "title_original": "Liên Quân | Con Đường Lên Cao Thủ Trong Bao Lâu?",
@@ -122,17 +155,6 @@
       "thumbnailUrl": "https://i.ytimg.com/vi/SWlwPLiThcA/maxresdefault.jpg"
     },
     {
-      "videoId": "HSSlZ5g7ToE",
-      "title": "Leo Top 10 Thách Đấu ( Day 2 )",
-      "title_original": "Leo Top 10 Thách Đấu ( Day 2 )",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-29T07:13:36Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/HSSlZ5g7ToE/maxresdefault.jpg"
-    },
-    {
       "videoId": "Ea2MDqTRuUk",
       "title": "MIC CHECK QUEENS SHOWDOWN GRAND FINAL: 1S - EA: LỠ HẸN VỚI VINH QUANG | APL 2026",
       "title_original": "MIC CHECK QUEENS SHOWDOWN GRAND FINAL: 1S - EA: LỠ HẸN VỚI VINH QUANG | APL 2026",
@@ -197,17 +219,6 @@
       "source": "youtube",
       "publishedAt": "2026-07-28T19:11:05Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/LQJfj95ftOg/maxresdefault.jpg"
-    },
-    {
-      "videoId": "lVcX75AGfWg",
-      "title": "Chào mấy em ruột | Hải Phong 28.07.26",
-      "title_original": "Chào mấy em ruột | Hải Phong 28.07.26",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-28T19:01:19Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/lVcX75AGfWg/maxresdefault.jpg"
     },
     {
       "videoId": "jHGCVozi8PY",
@@ -2188,17 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-07-18T15:24:13Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/92MpshVcGWw/maxresdefault.jpg"
-    },
-    {
-      "videoId": "36R6aD_U7bE",
-      "title": "งานออฟไลน์การแข่งขัน RoV นานาชาติ APL 2026 รอบ 4 ทีมสุดท้าย (Semi Finals)",
-      "title_original": "งานออฟไลน์การแข่งขัน RoV นานาชาติ APL 2026 รอบ 4 ทีมสุดท้าย (Semi Finals)",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-18T15:05:31Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/36R6aD_U7bE/maxresdefault.jpg"
     }
   ]
 }
