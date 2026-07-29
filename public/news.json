@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-07-29T07:52:13.118443",
+  "last_updated": "2026-07-29T10:49:22.749759",
   "total_news": 100,
   "news": [
+    {
+      "id": "ded719ab3bfc",
+      "title": "ĐIỀU CHỈNH GIỮA MÙA PB NGÀY HỘI LIÊN QUÂN – 30.07.2026",
+      "link": "https://lienquan.garena.vn/dieu-chinh-giua-mua-pb-ngay-hoi-lien-quan-30-07-2026/",
+      "summary": "<p>Xin chào các Kiện Tướng, Liên Quân Mobile sẽ tiến hành cập nhật không gián đoạn cho máy chủ chính thức vào ngày 30/07/2026. Trong thời gian quy định, các Kiện tướng có thể tự chọn thời điểm [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/dieu-chinh-giua-mua-pb-ngay-hoi-lien-quan-30-07-2026/\">ĐIỀU CHỈNH GIỮA MÙA PB NGÀY HỘI LIÊN QUÂN – 30.07.2026</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2026/07/IMG-HOR-0860x0400-099035-1.jpg",
+      "source": "Liên Quân Mobile Official",
+      "source_url": "https://lienquan.garena.vn/rss",
+      "published_at": "2026-07-29T08:30:20Z",
+      "crawled_at": "2026-07-29T10:44:25.213540",
+      "category": "tướng",
+      "priority": 1
+    },
     {
       "id": "5786fd29200e",
       "title": "CẬP NHẬT CƠ CHẾ SỰ KIỆN “SƯU TẦM LÀ TRÚNG”",
@@ -1286,19 +1299,6 @@
       "source_url": "https://lienquan.garena.vn/rss",
       "published_at": "2026-02-03T10:46:55Z",
       "crawled_at": "2026-02-03T11:10:35.353453",
-      "category": "tướng",
-      "priority": 1
-    },
-    {
-      "id": "ee3d85baac10",
-      "title": "VINH DANH TOP LEADER CỘNG ĐỒNG LIÊN QUÂN MOBILE NĂM 2025",
-      "link": "https://lienquan.garena.vn/vinh-danh-top-leader-cong-dong-lien-quan-mobile-nam-2025/",
-      "summary": "<p>Xin chào các Kiện tướng, Năm 2025 đánh dấu sự bùng nổ mạnh mẽ của cộng đồng Liên Quân Mobile trên toàn quốc. Không chỉ sôi động trong game, Liên Quân còn lan tỏa ngoài [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/vinh-danh-top-leader-cong-dong-lien-quan-mobile-nam-2025/\">VINH DANH TOP LEADER CỘNG ĐỒNG LIÊN QUÂN MOBILE NĂM 2025</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
-      "image_url": "https://picsum.photos/seed/https://lienquan.garena.vn/vinh-danh-top-leader-cong-dong-lien-quan-mobile-nam-2025//400/225",
-      "source": "Liên Quân Mobile Official",
-      "source_url": "https://lienquan.garena.vn/rss",
-      "published_at": "2026-01-28T05:09:57Z",
-      "crawled_at": "2026-01-28T06:02:23.365805",
       "category": "tướng",
       "priority": 1
     }
