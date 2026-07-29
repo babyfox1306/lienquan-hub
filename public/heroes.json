@@ -39,11 +39,12 @@
         "Krixi"
       ],
       "tier": "B",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 0)",
-      "hot": false,
-      "hot_count": 2,
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 3, Score: 0)",
+      "hot": true,
+      "hot_count": 3,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/3/3f/Nakroth_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20201224121203",
       "related_videos": [
+        "SVylzzHbCT8",
         "jVtKlk1cQog",
         "o01pPShpgu4",
         "tcPTx6eMIHM"
@@ -1262,17 +1263,17 @@
         "Nakroth"
       ],
       "tier": "B",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 5, Score: 0)",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 6, Score: 0)",
       "hot": true,
-      "hot_count": 5,
+      "hot_count": 6,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/d/d4/Liliana_Default.jpg/revision/latest/scale-to-width-down/500?cb=20180331134150",
       "related_videos": [
+        "wkOZPoj1tao",
+        "SWlwPLiThcA",
         "mgRtwFAp30c",
         "ORg75RkJY_M",
         "6K5guZyfq8A",
-        "2FJTw8X7xpk",
-        "3lvcc2p5JfE",
-        "x_3KDS4Fb9Y"
+        "2FJTw8X7xpk"
       ]
     },
     {
@@ -1408,16 +1409,17 @@
         "Thane"
       ],
       "tier": "B",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 4, Score: 0)",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 5, Score: 0)",
       "hot": true,
-      "hot_count": 4,
+      "hot_count": 5,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/f/f0/Valhein_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260124103241",
       "related_videos": [
+        "wkOZPoj1tao",
+        "SWlwPLiThcA",
         "ORg75RkJY_M",
         "6K5guZyfq8A",
         "2FJTw8X7xpk",
-        "3lvcc2p5JfE",
-        "x_3KDS4Fb9Y"
+        "3lvcc2p5JfE"
       ]
     },
     {
@@ -2061,13 +2063,12 @@
         "Thane"
       ],
       "tier": "B",
-      "tier_reason": "Xuất hiện 2 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/e/e1/Natalya.png/revision/latest?cb=20210109153000",
       "related_videos": [
-        "I1luJ9c-Two",
-        "moqOH8Zl8wI"
+        "I1luJ9c-Two"
       ]
     },
     {
@@ -3133,12 +3134,13 @@
       },
       "counters": [],
       "synergies": [],
-      "tier": "A",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 4, Score: 2)",
+      "tier": "S",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 5, Score: 3)",
       "hot": true,
-      "hot_count": 4,
-      "thumbnail": "https://img.youtube.com/vi/glj4F9HHMlo/maxresdefault.jpg",
+      "hot_count": 5,
+      "thumbnail": "https://img.youtube.com/vi/fhg2_VdCjsY/maxresdefault.jpg",
       "related_videos": [
+        "fhg2_VdCjsY",
         "glj4F9HHMlo",
         "ystWLilkBwQ",
         "iilfXirifE8",
@@ -4631,11 +4633,12 @@
       "counters": [],
       "synergies": [],
       "tier": "B",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 0)",
-      "hot": false,
-      "hot_count": 2,
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 3, Score: 0)",
+      "hot": true,
+      "hot_count": 3,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/3/35/Veera_profile.png/revision/latest/scale-to-width-down/500?cb=20170525133701",
       "related_videos": [
+        "yNTr57W_Oc4",
         "o_VqYOWpZNk",
         "7AiTqHfvhF8"
       ]
@@ -4962,5 +4965,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-29T04:21:20Z"
+  "updated_at": "2026-07-29T07:52:13Z"
 }

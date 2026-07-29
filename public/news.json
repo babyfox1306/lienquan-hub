@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-07-29T04:21:20.026403",
+  "last_updated": "2026-07-29T07:52:13.118443",
   "total_news": 100,
   "news": [
+    {
+      "id": "5786fd29200e",
+      "title": "CẬP NHẬT CƠ CHẾ SỰ KIỆN “SƯU TẦM LÀ TRÚNG”",
+      "link": "https://lienquan.garena.vn/cap-nhat-co-che-su-kien-suu-tam-la-trung/",
+      "summary": "<p>CẬP NHẬT CƠ CHẾ SỰ KIỆN &#8220;SƯU TẦM LÀ TRÚNG&#8221; ​ Trong những ngày vừa qua, Hội đồng đã nhận được nhiều ý kiến phản hồi từ người chơi về sự kiện Sưu Tầm Là [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/cap-nhat-co-che-su-kien-suu-tam-la-trung/\">CẬP NHẬT CƠ CHẾ SỰ KIỆN &#8220;SƯU TẦM LÀ TRÚNG&#8221;</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2026/07/SeaTalk_IMG_20260729_121755.png",
+      "source": "Liên Quân Mobile Official",
+      "source_url": "https://lienquan.garena.vn/rss",
+      "published_at": "2026-07-29T05:19:02Z",
+      "crawled_at": "2026-07-29T07:47:12.804902",
+      "category": "tin tức",
+      "priority": 1
+    },
     {
       "id": "2e3386a5b19d",
       "title": "Mở bán Hayate Thứ Nguyên Vệ Thần",
@@ -1286,19 +1299,6 @@
       "source_url": "https://lienquan.garena.vn/rss",
       "published_at": "2026-01-28T05:09:57Z",
       "crawled_at": "2026-01-28T06:02:23.365805",
-      "category": "tướng",
-      "priority": 1
-    },
-    {
-      "id": "25ee40017eab",
-      "title": "CHUỖI SỰ KIỆN CỘNG ĐỒNG CHÀO XUÂN CHÍNH THỨC KHỞI ĐỘNG 21/02 – 15/03",
-      "link": "https://lienquan.garena.vn/chuoi-su-kien-cong-dong-chao-xuan-chinh-thuc-khoi-dong-21-02-15-03/",
-      "summary": "<p>Xin chào các Kiện tướng,  Ngay sau kỳ nghỉ Tết Nguyên Đán, Hội Đồng Liên Quân sẽ mang đến Chuỗi Sự Kiện Cộng Đồng Chào Xuân 2026 – hành trình kết nối và bùng nổ [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/chuoi-su-kien-cong-dong-chao-xuan-chinh-thuc-khoi-dong-21-02-15-03/\">CHUỖI SỰ KIỆN CỘNG ĐỒNG CHÀO XUÂN CHÍNH THỨC KHỞI ĐỘNG 21/02 &#8211; 15/03</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
-      "image_url": null,
-      "source": "Liên Quân Mobile Official",
-      "source_url": "https://lienquan.garena.vn/rss",
-      "published_at": "2026-01-27T04:38:38Z",
-      "crawled_at": "2026-01-27T05:06:28.752954",
       "category": "tướng",
       "priority": 1
     }
