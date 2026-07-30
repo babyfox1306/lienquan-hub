@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "UOcluhMvZy0",
+      "title": "Leo Top 10 Thách Đấu ( Day 3 )",
+      "title_original": "Leo Top 10 Thách Đấu ( Day 3 )",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-07-30T21:20:47Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/UOcluhMvZy0/maxresdefault.jpg"
+    },
+    {
       "videoId": "f8K1S-wfWZc",
       "title": "Liên Quân | Con Đường Lên Cao Thủ Còn 15 Sao",
       "title_original": "Liên Quân | Con Đường Lên Cao Thủ Còn 15 Sao",
@@ -76,17 +87,6 @@
       "source": "youtube",
       "publishedAt": "2026-07-30T11:28:08Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/X2EGJajklVM/maxresdefault.jpg"
-    },
-    {
-      "videoId": "UOcluhMvZy0",
-      "title": "Leo Top 10 Thách Đấu ( Day 3 )",
-      "title_original": "Leo Top 10 Thách Đấu ( Day 3 )",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-30T11:05:22Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/UOcluhMvZy0/maxresdefault.jpg"
     },
     {
       "videoId": "nPxpwLT8-ko",
