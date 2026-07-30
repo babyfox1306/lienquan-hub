@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-07-30T02:51:50.842443",
+  "last_updated": "2026-07-30T05:52:07.639456",
   "total_news": 100,
   "news": [
+    {
+      "id": "d35198b2a909",
+      "title": "KHỞI TRANH ĐẠI CHIẾN HIGHSCHOOL TOÀN QUỐC 2026",
+      "link": "https://lienquan.garena.vn/khoi-tranh-dai-chien-highschool-toan-quoc-2026/",
+      "summary": "<p>Xin chào các Kiện Tướng, Đại Chiến HighSchool Toàn Quốc 2026 &#8211; giải đấu cộng đồng lớn nhất dành cho học sinh THPT toàn quốc đã chính thức khởi tranh với tổng giá trị giải [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/khoi-tranh-dai-chien-highschool-toan-quoc-2026/\">KHỞI TRANH ĐẠI CHIẾN HIGHSCHOOL TOÀN QUỐC 2026</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2026/07/IMG-HOR-0860x0400-099058-0.jpg",
+      "source": "Liên Quân Mobile Official",
+      "source_url": "https://lienquan.garena.vn/rss",
+      "published_at": "2026-07-30T05:40:57Z",
+      "crawled_at": "2026-07-30T05:47:09.910429",
+      "category": "tướng",
+      "priority": 1
+    },
     {
       "id": "ded719ab3bfc",
       "title": "ĐIỀU CHỈNH GIỮA MÙA PB NGÀY HỘI LIÊN QUÂN – 30.07.2026",
@@ -1286,19 +1299,6 @@
       "source_url": "https://lienquan.garena.vn/rss",
       "published_at": "2026-02-06T04:57:25Z",
       "crawled_at": "2026-02-06T05:21:58.815629",
-      "category": "tướng",
-      "priority": 1
-    },
-    {
-      "id": "010196e6237d",
-      "title": "ĐIỀU CHỈNH GIỮA MÙA PB TÂN NIÊN KHỞI THẾ – 05.02.2026",
-      "link": "https://lienquan.garena.vn/dieu-chinh-giua-mua-pb-tan-nien-khoi-the-05-02-2026/",
-      "summary": "<p>Xin chào các Kiện Tướng, Liên Quân Mobile sẽ tiến hành cập nhật không gián đoạn cho máy chủ chính thức vào ngày 05/02/2026. Trong thời gian quy định, các Kiện tướng có thể tự chọn thời điểm [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/dieu-chinh-giua-mua-pb-tan-nien-khoi-the-05-02-2026/\">ĐIỀU CHỈNH GIỮA MÙA PB TÂN NIÊN KHỞI THẾ – 05.02.2026</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
-      "image_url": null,
-      "source": "Liên Quân Mobile Official",
-      "source_url": "https://lienquan.garena.vn/rss",
-      "published_at": "2026-02-03T10:46:55Z",
-      "crawled_at": "2026-02-03T11:10:35.353453",
       "category": "tướng",
       "priority": 1
     }
