@@ -1,6 +1,28 @@
 {
   "videos": [
     {
+      "videoId": "f8K1S-wfWZc",
+      "title": "Liên Quân | Con Đường Lên Cao Thủ Còn 15 Sao",
+      "title_original": "Liên Quân | Con Đường Lên Cao Thủ Còn 15 Sao",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-07-30T18:13:14Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/f8K1S-wfWZc/maxresdefault.jpg"
+    },
+    {
+      "videoId": "6W2drmw0vS0",
+      "title": "Team 5 auto loss",
+      "title_original": "Team 5 auto loss",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-07-30T17:35:52Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/6W2drmw0vS0/maxresdefault.jpg"
+    },
+    {
       "videoId": "RF1NRDU7Nrk",
       "title": "การแข่งขัน KWC: RoV x HoK | Esports World Cup (EWC) รอบ Play-in วันที่ 1",
       "title_original": "การแข่งขัน KWC: RoV x HoK | Esports World Cup (EWC) รอบ Play-in วันที่ 1",
@@ -21,17 +43,6 @@
       "source": "youtube",
       "publishedAt": "2026-07-30T16:24:34Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/DX1gBntLdKM/maxresdefault.jpg"
-    },
-    {
-      "videoId": "6W2drmw0vS0",
-      "title": "Team 5 auto loss",
-      "title_original": "Team 5 auto loss",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-30T14:44:25Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/6W2drmw0vS0/maxresdefault.jpg"
     },
     {
       "videoId": "-v09c9pTEfM",
@@ -98,17 +109,6 @@
       "source": "youtube",
       "publishedAt": "2026-07-30T10:00:27Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/VGUNWSJLhYw/maxresdefault.jpg"
-    },
-    {
-      "videoId": "f8K1S-wfWZc",
-      "title": "Liên Quân | Con Đường Lên Cao Thủ Còn 15 Sao",
-      "title_original": "Liên Quân | Con Đường Lên Cao Thủ Còn 15 Sao",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-30T09:35:02Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/f8K1S-wfWZc/maxresdefault.jpg"
     },
     {
       "videoId": "vTyLBb39lSg",
