@@ -370,9 +370,9 @@
         "Alice"
       ],
       "tier": "A",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 19, Score: 2)",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 17, Score: 2)",
       "hot": true,
-      "hot_count": 19,
+      "hot_count": 17,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/1/1f/Hayate_profile.jpg/revision/latest/scale-to-width-down/500?cb=20200531224525",
       "related_videos": [
         "rfgtCUxNFds",
@@ -422,11 +422,13 @@
         "Liliana"
       ],
       "tier": "A",
-      "tier_reason": "Được gán từ dữ liệu hạt giống (Seed A-Tier) do ít video mới (Hot Count: 0)",
+      "tier_reason": "Được gán từ dữ liệu hạt giống (Seed A-Tier) do ít video mới (Hot Count: 1)",
       "hot": false,
-      "hot_count": 0,
+      "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/3/3f/The_Diminisher.png/revision/latest/scale-to-width-down/500?cb=20230721030441",
-      "related_videos": []
+      "related_videos": [
+        "-v09c9pTEfM"
+      ]
     },
     {
       "id": "riktor",
@@ -3562,7 +3564,7 @@
       "tier": "B",
       "tier_reason": "Xuất hiện 3 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/d/d3/Ishar_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125044459",
       "related_videos": [
         "DQQl13eCAQ8",
@@ -4951,5 +4953,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-30T11:17:28Z"
+  "updated_at": "2026-07-30T14:20:20Z"
 }

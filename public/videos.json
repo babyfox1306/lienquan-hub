@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "-v09c9pTEfM",
+      "title": "TÔI THẬT NGU Khi Dùng PHẾ VẬT Thách Đấu BEST FLORENTINO… NHƯNG CÁI KẾT QUÁ VÔ LÝ | Liên Quân",
+      "title_original": "TÔI THẬT NGU Khi Dùng PHẾ VẬT Thách Đấu BEST FLORENTINO… NHƯNG CÁI KẾT QUÁ VÔ LÝ | Liên Quân",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-07-30T13:04:27Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/-v09c9pTEfM/maxresdefault.jpg"
+    },
+    {
       "videoId": "UOcluhMvZy0",
       "title": "Leo Top 10 Thách Đấu ( Day 3 )",
       "title_original": "Leo Top 10 Thách Đấu ( Day 3 )",
@@ -79,8 +90,8 @@
     },
     {
       "videoId": "DX1gBntLdKM",
-      "title": "🔴 TRỰC TIẾP: NONGSHIM REDFORCE vs OG ESPORTS | EWC 2026",
-      "title_original": "🔴 TRỰC TIẾP: NONGSHIM REDFORCE vs OG ESPORTS | EWC 2026",
+      "title": "🔴 TRỰC TIẾP: BURIRAM UNITED ESPORTS vs. INFLUENCE RAGE | EWC 2026",
+      "title_original": "🔴 TRỰC TIẾP: BURIRAM UNITED ESPORTS vs. INFLUENCE RAGE | EWC 2026",
       "translated": false,
       "country": "VN",
       "lang_original": "vi",
@@ -2188,17 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-07-19T09:39:47Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/3g0ScXlv3MY/maxresdefault.jpg"
-    },
-    {
-      "videoId": "t8lY9QDD_X0",
-      "title": "🔴 TRỰC TIẾP: EARENA vs ONE STAR ESPORTS | GRAND FINAL | QUEENS SHOWDOWN 2026 (NGÀY 19/07)",
-      "title_original": "🔴 TRỰC TIẾP: EARENA vs ONE STAR ESPORTS | GRAND FINAL | QUEENS SHOWDOWN 2026 (NGÀY 19/07)",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-19T09:38:21Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/t8lY9QDD_X0/maxresdefault.jpg"
     }
   ]
 }
