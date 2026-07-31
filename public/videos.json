@@ -1,6 +1,72 @@
 {
   "videos": [
     {
+      "videoId": "6p8l0TTEj08",
+      "title": "Múa Nakroth: Skin Không Phải Là Vấn Đề",
+      "title_original": "Múa Nakroth: Skin Không Phải Là Vấn Đề",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-07-31T10:30:45Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/6p8l0TTEj08/maxresdefault.jpg"
+    },
+    {
+      "videoId": "dHcARx_RIUY",
+      "title": "【VLOG】APL 2026冠軍賽全紀錄—🛫走上成為世界冠軍的道路🏅《Garena傳說對決》⭕1",
+      "title_original": "【VLOG】APL 2026冠軍賽全紀錄—🛫走上成為世界冠軍的道路🏅《Garena傳說對決》⭕1",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-07-31T10:30:37Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/dHcARx_RIUY/maxresdefault.jpg"
+    },
+    {
+      "videoId": "f6tHAcZw__A",
+      "title": "VUX MỘT NGÀY LEO RANK VỚI TẤT CẢ SKIN OMEN TRÙM SOLO TRONG LIÊN QUÂN MOBILE",
+      "title_original": "VUX MỘT NGÀY LEO RANK VỚI TẤT CẢ SKIN OMEN TRÙM SOLO TRONG LIÊN QUÂN MOBILE",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-07-31T10:02:57Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/f6tHAcZw__A/maxresdefault.jpg"
+    },
+    {
+      "videoId": "Dpuf8I_KiZY",
+      "title": "Icy fox chơi tất cả skin NATALYA | Nguyệt Ảnh Kiếm Tiên có xứng đáng top 1 không?",
+      "title_original": "Icy fox chơi tất cả skin NATALYA | Nguyệt Ảnh Kiếm Tiên có xứng đáng top 1 không?",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-07-31T09:43:38Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/Dpuf8I_KiZY/maxresdefault.jpg"
+    },
+    {
+      "videoId": "4K0L9jy76Gw",
+      "title": "Liên Quân | Tui Muốn Lên Cao Thủ Trưa Nay",
+      "title_original": "Liên Quân | Tui Muốn Lên Cao Thủ Trưa Nay",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-07-31T08:33:03Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/4K0L9jy76Gw/maxresdefault.jpg"
+    },
+    {
+      "videoId": "SZjGzfliIgE",
+      "title": "Leo Top 10 Thách Đấu ( Day 4 )",
+      "title_original": "Leo Top 10 Thách Đấu ( Day 4 )",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-07-31T08:19:10Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/SZjGzfliIgE/maxresdefault.jpg"
+    },
+    {
       "videoId": "Bo5ggry9Htw",
       "title": "Solokillllllllllll",
       "title_original": "Solokillllllllllll",
@@ -13,8 +79,8 @@
     },
     {
       "videoId": "8mEDQh4ZC2o",
-      "title": "🔴 TRỰC TIẾP: TEAM FLASH vs S8UL ESPORTS | EWC 2026",
-      "title_original": "🔴 TRỰC TIẾP: TEAM FLASH vs S8UL ESPORTS | EWC 2026",
+      "title": "🔴 TRỰC TIẾP: OG ESPORTS vs BLACKLIST INTERNATIONAL | EWC 2026",
+      "title_original": "🔴 TRỰC TIẾP: OG ESPORTS vs BLACKLIST INTERNATIONAL | EWC 2026",
       "translated": false,
       "country": "VN",
       "lang_original": "vi",
@@ -32,17 +98,6 @@
       "source": "youtube",
       "publishedAt": "2026-07-31T05:22:52Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/-xfn_tj1tD0/maxresdefault.jpg"
-    },
-    {
-      "videoId": "4K0L9jy76Gw",
-      "title": "Liên Quân | Tui Muốn Lên Cao Thủ Trưa Nay",
-      "title_original": "Liên Quân | Tui Muốn Lên Cao Thủ Trưa Nay",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-31T03:51:35Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/4K0L9jy76Gw/maxresdefault.jpg"
     },
     {
       "videoId": "ck7LIhaVEhM",
@@ -134,8 +189,8 @@
     },
     {
       "videoId": "zf9TL6ynTnY",
-      "title": "TRỰC TIẾP: TEAM FLASH vs S8UL ESPORTS - VIỆT NAM TIẾN LÊN !!! LIÊN QUÂN MOBILE x HONOR OF KINGS !!!",
-      "title_original": "TRỰC TIẾP: TEAM FLASH vs S8UL ESPORTS - VIỆT NAM TIẾN LÊN !!! LIÊN QUÂN MOBILE x HONOR OF KINGS !!!",
+      "title": "TRỰC TIẾP: OG ESPORTS vs BLACK LIST - CƠ HỘI CUỐI CÙNG - LIÊN QUÂN MOBILE x HONOR OF KINGS !!!",
+      "title_original": "TRỰC TIẾP: OG ESPORTS vs BLACK LIST - CƠ HỘI CUỐI CÙNG - LIÊN QUÂN MOBILE x HONOR OF KINGS !!!",
       "translated": false,
       "country": "VN",
       "lang_original": "vi",
@@ -2144,61 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-07-19T15:01:52Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/9yaaNFtuYmg/maxresdefault.jpg"
-    },
-    {
-      "videoId": "I82OUfxeA7I",
-      "title": "💥 HIỆU ỨNG CHIÊU THỨC | HAYATE THỨ NGUYÊN VỆ THẦN  💥",
-      "title_original": "💥 HIỆU ỨNG CHIÊU THỨC | HAYATE THỨ NGUYÊN VỆ THẦN  💥",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-19T12:30:24Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/I82OUfxeA7I/maxresdefault.jpg"
-    },
-    {
-      "videoId": "BwxXAV5BZ64",
-      "title": "Đầu Mùa Vật Vã Cùng PondGaming !",
-      "title_original": "Đầu Mùa Vật Vã Cùng PondGaming !",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-19T12:29:09Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/BwxXAV5BZ64/maxresdefault.jpg"
-    },
-    {
-      "videoId": "xqWAWm3tX0E",
-      "title": "การแข่งขัน RoV Thailand Esports Premier League (TEPL) 2026 | Regular Season Week 4 Day 2",
-      "title_original": "การแข่งขัน RoV Thailand Esports Premier League (TEPL) 2026 | Regular Season Week 4 Day 2",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-19T12:23:52Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/xqWAWm3tX0E/maxresdefault.jpg"
-    },
-    {
-      "videoId": "VSA-mUf4q64",
-      "title": "🔴36 tiếng chưa đụng vào game",
-      "title_original": "🔴36 tiếng chưa đụng vào game",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-19T12:13:30Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/VSA-mUf4q64/maxresdefault.jpg"
-    },
-    {
-      "videoId": "-0IwfWHs-rs",
-      "title": "ROVISION 2026 | RoV DAY เปิดเผยอัปเดตล่วงหน้า!",
-      "title_original": "ROVISION 2026 | RoV DAY เปิดเผยอัปเดตล่วงหน้า!",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-19T12:00:15Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/-0IwfWHs-rs/maxresdefault.jpg"
     }
   ]
 }

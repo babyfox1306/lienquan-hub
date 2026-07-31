@@ -44,6 +44,7 @@
       "hot_count": 3,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/3/3f/Nakroth_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20201224121203",
       "related_videos": [
+        "6p8l0TTEj08",
         "SVylzzHbCT8",
         "jVtKlk1cQog",
         "o01pPShpgu4",
@@ -1557,11 +1558,13 @@
         "Liliana"
       ],
       "tier": "B",
-      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
-      "hot_count": 0,
+      "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/b/b4/Omen_profile.png/revision/latest/scale-to-width-down/500?cb=20180305143916",
-      "related_videos": []
+      "related_videos": [
+        "f6tHAcZw__A"
+      ]
     },
     {
       "id": "ilumia",
@@ -2064,12 +2067,14 @@
         "Grakk",
         "Thane"
       ],
-      "tier": "B",
-      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier": "A",
+      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 1)",
       "hot": false,
-      "hot_count": 0,
+      "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/e/e1/Natalya.png/revision/latest?cb=20210109153000",
-      "related_videos": []
+      "related_videos": [
+        "Dpuf8I_KiZY"
+      ]
     },
     {
       "id": "mganga",
@@ -2205,7 +2210,7 @@
       "tier": "C",
       "tier_reason": "Xuất hiện 4 lần trong video/tin tức 14 ngày qua (Score: -1)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/f/f9/Arthur_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20221110122653",
       "related_videos": [
         "vulU2fWkmuY",
@@ -4950,5 +4955,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-31T07:59:02Z"
+  "updated_at": "2026-07-31T10:49:47Z"
 }
