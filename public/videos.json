@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "SZjGzfliIgE",
+      "title": "Leo Top 10 Thách Đấu ( Day 4 )",
+      "title_original": "Leo Top 10 Thách Đấu ( Day 4 )",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-07-31T22:02:33Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/SZjGzfliIgE/maxresdefault.jpg"
+    },
+    {
       "videoId": "vcIoLqTfeSY",
       "title": "BẠN CÓ THẺ LILI VÀ VAL KHUM",
       "title_original": "BẠN CÓ THẺ LILI VÀ VAL KHUM",
@@ -164,17 +175,6 @@
       "source": "youtube",
       "publishedAt": "2026-07-31T08:33:03Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/4K0L9jy76Gw/maxresdefault.jpg"
-    },
-    {
-      "videoId": "SZjGzfliIgE",
-      "title": "Leo Top 10 Thách Đấu ( Day 4 )",
-      "title_original": "Leo Top 10 Thách Đấu ( Day 4 )",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-31T08:19:10Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/SZjGzfliIgE/maxresdefault.jpg"
     },
     {
       "videoId": "Bo5ggry9Htw",
