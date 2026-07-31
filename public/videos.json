@@ -1,6 +1,28 @@
 {
   "videos": [
     {
+      "videoId": "8mEDQh4ZC2o",
+      "title": "🔴 TRỰC TIẾP: NONGSHIM REDFORCE vs BLACKLIST INTERNATIONAL | EWC 2026",
+      "title_original": "🔴 TRỰC TIẾP: NONGSHIM REDFORCE vs BLACKLIST INTERNATIONAL | EWC 2026",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-07-31T15:09:45Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/8mEDQh4ZC2o/maxresdefault.jpg"
+    },
+    {
+      "videoId": "vcIoLqTfeSY",
+      "title": "BẠN CÓ THẺ LILI VÀ VAL KHUM",
+      "title_original": "BẠN CÓ THẺ LILI VÀ VAL KHUM",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-07-31T13:23:20Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/vcIoLqTfeSY/maxresdefault.jpg"
+    },
+    {
       "videoId": "WVrPjLYidL0",
       "title": "TIỂU ĐỘI ÓC CHÓ ĐỆ TỨ: 7 PHÚT MẤT SẠCH TRỤ, NHÀ THÀNH SÂN BAY NHƯNG… | Liên Quân",
       "title_original": "TIỂU ĐỘI ÓC CHÓ ĐỆ TỨ: 7 PHÚT MẤT SẠCH TRỤ, NHÀ THÀNH SÂN BAY NHƯNG… | Liên Quân",
@@ -142,17 +164,6 @@
       "source": "youtube",
       "publishedAt": "2026-07-31T07:15:16Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/Bo5ggry9Htw/maxresdefault.jpg"
-    },
-    {
-      "videoId": "8mEDQh4ZC2o",
-      "title": "🔴 TRỰC TIẾP: NONGSHIM REDFORCE vs BLACKLIST INTERNATIONAL | EWC 2026",
-      "title_original": "🔴 TRỰC TIẾP: NONGSHIM REDFORCE vs BLACKLIST INTERNATIONAL | EWC 2026",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-31T07:15:09Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/8mEDQh4ZC2o/maxresdefault.jpg"
     },
     {
       "videoId": "-xfn_tj1tD0",
@@ -2188,17 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-07-19T17:03:03Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/1NhVUl3es7c/maxresdefault.jpg"
-    },
-    {
-      "videoId": "8v7rHWkXQFQ",
-      "title": "งานออฟไลน์ชิงแชมป์ RoV นานาชาติ APL 2026🏆",
-      "title_original": "งานออฟไลน์ชิงแชมป์ RoV นานาชาติ APL 2026🏆",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-19T15:50:20Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/8v7rHWkXQFQ/maxresdefault.jpg"
     }
   ]
 }
