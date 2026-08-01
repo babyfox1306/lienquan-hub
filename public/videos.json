@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "HvVV11jYAAQ",
+      "title": "Quay Skin Billow Okarun",
+      "title_original": "Quay Skin Billow Okarun",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-01T13:09:59Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/HvVV11jYAAQ/maxresdefault.jpg"
+    },
+    {
       "videoId": "cPU-dJMspAk",
       "title": "Omen V Nhng V Mt Tch B n Bng a Bay UFO",
       "title_original": "Omen V Nhng V Mt Tch B n Bng a Bay UFO",
@@ -46,8 +57,8 @@
     },
     {
       "videoId": "PvfyMAqlk10",
-      "title": "🔴 TRỰC TIẾP: GEEKAY ESPORTS vs DEEP CROSS GAMING | EWC 2026",
-      "title_original": "🔴 TRỰC TIẾP: GEEKAY ESPORTS vs DEEP CROSS GAMING | EWC 2026",
+      "title": "🔴 TRỰC TIẾP: AURORA GAMING vs ROC ESPORTS | EWC 2026",
+      "title_original": "🔴 TRỰC TIẾP: AURORA GAMING vs ROC ESPORTS | EWC 2026",
       "translated": false,
       "country": "VN",
       "lang_original": "vi",
@@ -57,8 +68,8 @@
     },
     {
       "videoId": "023jECYvcLk",
-      "title": "TRỰC TIẾP: EWC 2026 - AURORA GAMING vs TITAN ESPORTS | LIÊN QUÂN MOBILE x HONOR OF KINGS !",
-      "title_original": "TRỰC TIẾP: EWC 2026 - AURORA GAMING vs TITAN ESPORTS | LIÊN QUÂN MOBILE x HONOR OF KINGS !",
+      "title": "TRỰC TIẾP: EWC 2026 - AURORA GAMING vs ROC ESPORT | LIÊN QUÂN MOBILE x HONOR OF KINGS !",
+      "title_original": "TRỰC TIẾP: EWC 2026 - AURORA GAMING vs ROC ESPORT | LIÊN QUÂN MOBILE x HONOR OF KINGS !",
       "translated": false,
       "country": "VN",
       "lang_original": "vi",
@@ -2188,17 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-07-20T17:33:21Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/fO_j07ztm8o/maxresdefault.jpg"
-    },
-    {
-      "videoId": "SwxqzN2jt48",
-      "title": "cứ liên quân là nổ view",
-      "title_original": "cứ liên quân là nổ view",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-20T15:35:02Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/SwxqzN2jt48/maxresdefault.jpg"
     }
   ]
 }

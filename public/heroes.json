@@ -372,9 +372,9 @@
         "Alice"
       ],
       "tier": "A",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 14, Score: 2)",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 13, Score: 2)",
       "hot": true,
-      "hot_count": 14,
+      "hot_count": 13,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/1/1f/Hayate_profile.jpg/revision/latest/scale-to-width-down/500?cb=20200531224525",
       "related_videos": [
         "rfgtCUxNFds",
@@ -4953,5 +4953,5 @@
       ]
     }
   ],
-  "updated_at": "2026-08-01T11:26:45Z"
+  "updated_at": "2026-08-01T13:44:15Z"
 }
