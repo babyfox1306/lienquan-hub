@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "EcVI7U8omAI",
+      "title": "D'Arcy Rework, Những Chỉnh Sửa Bị Champ D'arcy Chê Tại Phiên Bản Mới",
+      "title_original": "D'Arcy Rework, Những Chỉnh Sửa Bị Champ D'arcy Chê Tại Phiên Bản Mới",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-01T03:00:26Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/EcVI7U8omAI/maxresdefault.jpg"
+    },
+    {
       "videoId": "SZjGzfliIgE",
       "title": "Leo Top 10 Thách Đấu ( Day 4 )",
       "title_original": "Leo Top 10 Thách Đấu ( Day 4 )",
@@ -2188,17 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-07-20T03:00:33Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/lqbybuHRiis/maxresdefault.jpg"
-    },
-    {
-      "videoId": "nf-RfPgzWmY",
-      "title": "Team 5 Nao",
-      "title_original": "Team 5 Nao",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-19T18:19:17Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/nf-RfPgzWmY/maxresdefault.jpg"
     }
   ]
 }
