@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "LnPlRosqrKk",
+      "title": "ĐẦU GAME CHƠI ÓC CHÓ… 10 PHÚT SAU TRIỆU VÂN 1 TRẢM = 6 MẠNG | Liên Quân",
+      "title_original": "ĐẦU GAME CHƠI ÓC CHÓ… 10 PHÚT SAU TRIỆU VÂN 1 TRẢM = 6 MẠNG | Liên Quân",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-02T12:57:30Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/LnPlRosqrKk/maxresdefault.jpg"
+    },
+    {
       "videoId": "g2rNbL1K4pY",
       "title": "Kary Lần Đầu Múa Flo Trải Nghiệm Skin Mới Mới Flo FMVP Siêu Độc Lạ Nhưng Lại Cực Mượt",
       "title_original": "Kary Lần Đầu Múa Flo Trải Nghiệm Skin Mới Mới Flo FMVP Siêu Độc Lạ Nhưng Lại Cực Mượt",
@@ -46,8 +57,8 @@
     },
     {
       "videoId": "J3EFLjRpfVo",
-      "title": "🔴 TRỰC TIẾP: MIBR.LOS vs BLACKLIST INTERNATIONAL | EWC 2026",
-      "title_original": "🔴 TRỰC TIẾP: MIBR.LOS vs BLACKLIST INTERNATIONAL | EWC 2026",
+      "title": "🔴 TRỰC TIẾP: AG.AL vs BLACKLIST INTERNATIONAL | EWC 2026",
+      "title_original": "🔴 TRỰC TIẾP: AG.AL vs BLACKLIST INTERNATIONAL | EWC 2026",
       "translated": false,
       "country": "VN",
       "lang_original": "vi",
@@ -2188,17 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-07-22T03:54:51Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/3lvcc2p5JfE/maxresdefault.jpg"
-    },
-    {
-      "videoId": "TofkZNJkToY",
-      "title": "Chào mấy em ruột | Hải Phong 21.07.26",
-      "title_original": "Chào mấy em ruột | Hải Phong 21.07.26",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-22T03:30:35Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/TofkZNJkToY/maxresdefault.jpg"
     }
   ]
 }
