@@ -47,8 +47,7 @@
         "6p8l0TTEj08",
         "SVylzzHbCT8",
         "jVtKlk1cQog",
-        "o01pPShpgu4",
-        "tcPTx6eMIHM"
+        "o01pPShpgu4"
       ]
     },
     {
@@ -1127,11 +1126,13 @@
         "Alice"
       ],
       "tier": "B",
-      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
-      "hot_count": 0,
+      "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/2/2c/Tulen_Splash.jpeg/revision/latest/scale-to-width-down/500?cb=20180102103714",
-      "related_videos": []
+      "related_videos": [
+        "vDzr1jMR_-s"
+      ]
     },
     {
       "id": "ignis",
@@ -2068,11 +2069,12 @@
         "Thane"
       ],
       "tier": "A",
-      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 1)",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 1)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 2,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/e/e1/Natalya.png/revision/latest?cb=20210109153000",
       "related_videos": [
+        "vDzr1jMR_-s",
         "Dpuf8I_KiZY"
       ]
     },
@@ -4226,13 +4228,12 @@
       "counters": [],
       "synergies": [],
       "tier": "B",
-      "tier_reason": "Xuất hiện 2 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/f/f2/Ryoma_Gunslinger.png/revision/latest/scale-to-width-down/500?cb=20180313083407",
       "related_videos": [
-        "sRIrcKhgw_Y",
-        "VViZSliLQk4"
+        "sRIrcKhgw_Y"
       ]
     },
     {
@@ -4954,5 +4955,5 @@
       ]
     }
   ],
-  "updated_at": "2026-08-02T04:31:48Z"
+  "updated_at": "2026-08-02T07:39:40Z"
 }
