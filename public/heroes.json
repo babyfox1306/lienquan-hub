@@ -519,7 +519,7 @@
       "tier": "B",
       "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/e/ec/Thane_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125055815",
       "related_videos": [
         "ViIISAx0Yd8"
@@ -840,12 +840,13 @@
         "Elsu",
         "Yorn"
       ],
-      "tier": "B",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 3, Score: 0)",
-      "hot": true,
-      "hot_count": 3,
+      "tier": "S",
+      "tier_reason": "Được gán từ dữ liệu hạt giống (Seed S-Tier) do ít video mới (Hot Count: 1)",
+      "hot": false,
+      "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/7/71/Gildur_Default.jpg/revision/latest/scale-to-width-down/500?cb=20180327112635",
       "related_videos": [
+        "k-sjqigEwTI",
         "fQq3BPiGMuw",
         "ZDHVWj0UXVA",
         "svDnOWOOFFs"
@@ -2209,14 +2210,13 @@
         "Violet",
         "Krixi"
       ],
-      "tier": "C",
-      "tier_reason": "Xuất hiện 2 lần trong video/tin tức 14 ngày qua (Score: -1)",
+      "tier": "B",
+      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/f/f9/Arthur_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20221110122653",
       "related_videos": [
-        "vulU2fWkmuY",
-        "wh_43ArbaDA"
+        "vulU2fWkmuY"
       ]
     },
     {
@@ -4954,5 +4954,5 @@
       ]
     }
   ],
-  "updated_at": "2026-08-02T10:06:59Z"
+  "updated_at": "2026-08-02T12:11:52Z"
 }
