@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "a2D2euBov8Y",
+      "title": "Gii Tr Vi Game Cho Ln Cao Th",
+      "title_original": "Gii Tr Vi Game Cho Ln Cao Th",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-02T08:08:36Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/a2D2euBov8Y/maxresdefault.jpg"
+    },
+    {
       "videoId": "vDzr1jMR_-s",
       "title": "Natalya chọi gạch chuẩn đét hạ gục Tulen để hậu vị game không chua",
       "title_original": "Natalya chọi gạch chuẩn đét hạ gục Tulen để hậu vị game không chua",
@@ -13,8 +24,8 @@
     },
     {
       "videoId": "J3EFLjRpfVo",
-      "title": "🔴 TRỰC TIẾP: KUAISHOU GAMING vs REVENANT XSPARK | EWC 2026",
-      "title_original": "🔴 TRỰC TIẾP: KUAISHOU GAMING vs REVENANT XSPARK | EWC 2026",
+      "title": "🔴 TRỰC TIẾP: AG.AL vs TEAM VITALITY | EWC 2026",
+      "title_original": "🔴 TRỰC TIẾP: AG.AL vs TEAM VITALITY | EWC 2026",
       "translated": false,
       "country": "VN",
       "lang_original": "vi",
@@ -134,8 +145,8 @@
     },
     {
       "videoId": "IRxjvRTyCos",
-      "title": "TRỰC TIẾP: EWC 2026 - KUAISHOU GAMING vs REVENANT XSPARK | LIÊN QUÂN MOBILE x HONOR OF KINGS !!!",
-      "title_original": "TRỰC TIẾP: EWC 2026 - KUAISHOU GAMING vs REVENANT XSPARK | LIÊN QUÂN MOBILE x HONOR OF KINGS !!!",
+      "title": "TRỰC TIẾP: EWC 2026 - BURIRAM vs VIRTUS PRO - TIẾN LÊN AOV | LIÊN QUÂN MOBILE x HONOR OF KINGS !!!",
+      "title_original": "TRỰC TIẾP: EWC 2026 - BURIRAM vs VIRTUS PRO - TIẾN LÊN AOV | LIÊN QUÂN MOBILE x HONOR OF KINGS !!!",
       "translated": false,
       "country": "VN",
       "lang_original": "vi",
@@ -164,6 +175,17 @@
       "source": "youtube",
       "publishedAt": "2026-08-01T10:30:15Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/u3kFnQ4mzEw/maxresdefault.jpg"
+    },
+    {
+      "videoId": "C7IoDQnBlME",
+      "title": "Thua Trận Này... Sẽ Không Có Chức Vô Địch SSTN6",
+      "title_original": "Thua Trận Này... Sẽ Không Có Chức Vô Địch SSTN6",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-01T10:28:27Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/C7IoDQnBlME/maxresdefault.jpg"
     },
     {
       "videoId": "HfnkPTuWZ2M",
@@ -2177,28 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-07-22T03:00:10Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/wh_43ArbaDA/maxresdefault.jpg"
-    },
-    {
-      "videoId": "g9_FawRK4ig",
-      "title": "Arthur Support Dễ Dàng Lụm 3 Sao | Liên Quân Mobile | M8.Arthur | Full Game",
-      "title_original": "Arthur Support Dễ Dàng Lụm 3 Sao | Liên Quân Mobile | M8.Arthur | Full Game",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-21T22:45:31Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/g9_FawRK4ig/maxresdefault.jpg"
-    },
-    {
-      "videoId": "zfnDUMpPItk",
-      "title": "Chào mấy em ruột | Hải Phong 21.07.26",
-      "title_original": "Chào mấy em ruột | Hải Phong 21.07.26",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-21T20:45:51Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/zfnDUMpPItk/maxresdefault.jpg"
     }
   ]
 }

@@ -371,9 +371,9 @@
         "Alice"
       ],
       "tier": "A",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 13, Score: 2)",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 11, Score: 2)",
       "hot": true,
-      "hot_count": 13,
+      "hot_count": 11,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/1/1f/Hayate_profile.jpg/revision/latest/scale-to-width-down/500?cb=20200531224525",
       "related_videos": [
         "rfgtCUxNFds",
@@ -2210,14 +2210,13 @@
         "Krixi"
       ],
       "tier": "C",
-      "tier_reason": "Xuất hiện 3 lần trong video/tin tức 14 ngày qua (Score: -1)",
+      "tier_reason": "Xuất hiện 2 lần trong video/tin tức 14 ngày qua (Score: -1)",
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/f/f9/Arthur_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20221110122653",
       "related_videos": [
         "vulU2fWkmuY",
-        "wh_43ArbaDA",
-        "g9_FawRK4ig"
+        "wh_43ArbaDA"
       ]
     },
     {
@@ -4955,5 +4954,5 @@
       ]
     }
   ],
-  "updated_at": "2026-08-02T07:39:40Z"
+  "updated_at": "2026-08-02T10:06:59Z"
 }
