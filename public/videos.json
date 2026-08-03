@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "Ra-ryaxu6LY",
+      "title": "One Champ Ryoma",
+      "title_original": "One Champ Ryoma",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-03T14:44:24Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/Ra-ryaxu6LY/maxresdefault.jpg"
+    },
+    {
       "videoId": "EtemCQPHCz8",
       "title": "Mục Tiêu Tối Nay là 11 Sao",
       "title_original": "Mục Tiêu Tối Nay là 11 Sao",
@@ -2188,17 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-07-23T03:52:22Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/iilfXirifE8/maxresdefault.jpg"
-    },
-    {
-      "videoId": "r7MZVk8_d0g",
-      "title": "Liên Quân 10 Chỉnh Sửa Tướng Phiên Bản Mới: Y'bneth, Bright, Aya, Capheny...Cập Nhật Bổ Sung S3 2026",
-      "title_original": "Liên Quân 10 Chỉnh Sửa Tướng Phiên Bản Mới: Y'bneth, Bright, Aya, Capheny...Cập Nhật Bổ Sung S3 2026",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-23T03:00:30Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/r7MZVk8_d0g/maxresdefault.jpg"
     }
   ]
 }
