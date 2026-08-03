@@ -372,9 +372,9 @@
         "Alice"
       ],
       "tier": "A",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 8, Score: 1)",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 3, Score: 1)",
       "hot": true,
-      "hot_count": 8,
+      "hot_count": 3,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/1/1f/Hayate_profile.jpg/revision/latest/scale-to-width-down/500?cb=20200531224525",
       "related_videos": [
         "rfgtCUxNFds",
@@ -989,9 +989,9 @@
         "Alice"
       ],
       "tier": "S",
-      "tier_reason": "Được gán từ dữ liệu hạt giống (Seed S-Tier) do ít video mới (Hot Count: 1)",
+      "tier_reason": "Được gán từ dữ liệu hạt giống (Seed S-Tier) do ít video mới (Hot Count: 0)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/a/ab/Volkath_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20200531224601",
       "related_videos": [
         "usVnQjgdCnw"
@@ -3148,8 +3148,7 @@
         "fhg2_VdCjsY",
         "glj4F9HHMlo",
         "ystWLilkBwQ",
-        "iilfXirifE8",
-        "K4yFMUZvGws"
+        "iilfXirifE8"
       ]
     },
     {
@@ -4001,7 +4000,7 @@
       "tier": "B",
       "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/b/b4/Paine_Soul_Elegy.png/revision/latest/scale-to-width-down/500?cb=20220328044802",
       "related_videos": [
         "usVnQjgdCnw"
@@ -4963,5 +4962,5 @@
       ]
     }
   ],
-  "updated_at": "2026-08-03T11:36:52Z"
+  "updated_at": "2026-08-03T14:56:29Z"
 }
