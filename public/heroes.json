@@ -320,11 +320,12 @@
         "Arthur"
       ],
       "tier": "A",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 3, Score: 2)",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 4, Score: 2)",
       "hot": true,
-      "hot_count": 3,
+      "hot_count": 4,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/a/a6/Marja_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125052236",
       "related_videos": [
+        "Zg3iwlopChE",
         "-xfn_tj1tD0",
         "umv1qiWaEFg",
         "XJ_rlWxfHXc",
@@ -517,11 +518,12 @@
         "Zata"
       ],
       "tier": "B",
-      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện 2 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
-      "hot_count": 0,
+      "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/e/ec/Thane_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125055815",
       "related_videos": [
+        "hBhRBkGftzg",
         "ViIISAx0Yd8"
       ]
     },
@@ -794,11 +796,13 @@
         "Krixi"
       ],
       "tier": "A",
-      "tier_reason": "Được gán từ dữ liệu hạt giống (Seed A-Tier) do ít video mới (Hot Count: 0)",
+      "tier_reason": "Được gán từ dữ liệu hạt giống (Seed A-Tier) do ít video mới (Hot Count: 1)",
       "hot": false,
-      "hot_count": 0,
+      "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/7/7c/Toro_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125082122",
-      "related_videos": []
+      "related_videos": [
+        "hBhRBkGftzg"
+      ]
     },
     {
       "id": "gildur",
@@ -4828,11 +4832,12 @@
       "counters": [],
       "synergies": [],
       "tier": "B",
-      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện 2 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
-      "hot_count": 0,
+      "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/4/48/Y%27bneth_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125051920",
       "related_videos": [
+        "hBhRBkGftzg",
         "r7MZVk8_d0g"
       ]
     },
@@ -4958,5 +4963,5 @@
       ]
     }
   ],
-  "updated_at": "2026-08-03T07:38:54Z"
+  "updated_at": "2026-08-03T11:36:52Z"
 }
