@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "qXKVQlKccwk",
+      "title": "Leo Top 10 Thách Đấu ( Day 7 )",
+      "title_original": "Leo Top 10 Thách Đấu ( Day 7 )",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-03T20:24:28Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/qXKVQlKccwk/maxresdefault.jpg"
+    },
+    {
       "videoId": "Ra-ryaxu6LY",
       "title": "One Champ Ryoma",
       "title_original": "One Champ Ryoma",
@@ -65,17 +76,6 @@
       "source": "youtube",
       "publishedAt": "2026-08-03T13:30:48Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/X4btbdofvFM/maxresdefault.jpg"
-    },
-    {
-      "videoId": "qXKVQlKccwk",
-      "title": "Leo Top 10 Thách Đấu ( Day 7 )",
-      "title_original": "Leo Top 10 Thách Đấu ( Day 7 )",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-08-03T11:32:31Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/qXKVQlKccwk/maxresdefault.jpg"
     },
     {
       "videoId": "Zg3iwlopChE",
