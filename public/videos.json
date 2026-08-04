@@ -1,6 +1,28 @@
 {
   "videos": [
     {
+      "videoId": "CCLOrDaRALc",
+      "title": "Nghiem Tuc 40 Sao Moi Off",
+      "title_original": "Nghiem Tuc 40 Sao Moi Off",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-04T18:16:06Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/CCLOrDaRALc/maxresdefault.jpg"
+    },
+    {
+      "videoId": "rjEUPOF1XaU",
+      "title": "Tập Làm Quen",
+      "title_original": "Tập Làm Quen",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-04T17:59:55Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/rjEUPOF1XaU/maxresdefault.jpg"
+    },
+    {
       "videoId": "s89yw3L4Wi8",
       "title": "Leo Top 10 Thách Đấu ( Day 8 )",
       "title_original": "Leo Top 10 Thách Đấu ( Day 8 )",
@@ -23,20 +45,9 @@
       "thumbnailUrl": "https://i.ytimg.com/vi/Odvmr0EE4eM/maxresdefault.jpg"
     },
     {
-      "videoId": "CCLOrDaRALc",
-      "title": "Nghiem Tuc 40 Sao Moi Off",
-      "title_original": "Nghiem Tuc 40 Sao Moi Off",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-08-04T15:50:10Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/CCLOrDaRALc/maxresdefault.jpg"
-    },
-    {
       "videoId": "eQOt0eNjL1Q",
-      "title": "🔴𝐋𝐈𝐕𝐄 การแข่งขัน KWC: RoV x HoK | Esports World Cup (EWC) รอบ Group Stage วันที่ 4",
-      "title_original": "🔴𝐋𝐈𝐕𝐄 การแข่งขัน KWC: RoV x HoK | Esports World Cup (EWC) รอบ Group Stage วันที่ 4",
+      "title": "การแข่งขัน KWC: RoV x HoK | Esports World Cup (EWC) รอบ Group Stage วันที่ 4",
+      "title_original": "การแข่งขัน KWC: RoV x HoK | Esports World Cup (EWC) รอบ Group Stage วันที่ 4",
       "translated": false,
       "country": "VN",
       "lang_original": "vi",
@@ -65,17 +76,6 @@
       "source": "youtube",
       "publishedAt": "2026-08-04T14:48:51Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/X4btbdofvFM/maxresdefault.jpg"
-    },
-    {
-      "videoId": "rjEUPOF1XaU",
-      "title": "Tập Làm Quen",
-      "title_original": "Tập Làm Quen",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-08-04T12:51:38Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/rjEUPOF1XaU/maxresdefault.jpg"
     },
     {
       "videoId": "ttDheIPjBoY",
