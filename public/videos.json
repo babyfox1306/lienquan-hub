@@ -1,6 +1,39 @@
 {
   "videos": [
     {
+      "videoId": "s89yw3L4Wi8",
+      "title": "Leo Top 10 Thách Đấu ( Day 8 )",
+      "title_original": "Leo Top 10 Thách Đấu ( Day 8 )",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-04T16:17:01Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/s89yw3L4Wi8/maxresdefault.jpg"
+    },
+    {
+      "videoId": "Odvmr0EE4eM",
+      "title": "Leo Top 10 Thách Đấu ( Day 8 )",
+      "title_original": "Leo Top 10 Thách Đấu ( Day 8 )",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-04T16:16:45Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/Odvmr0EE4eM/maxresdefault.jpg"
+    },
+    {
+      "videoId": "CCLOrDaRALc",
+      "title": "Nghiem Tuc 40 Sao Moi Off",
+      "title_original": "Nghiem Tuc 40 Sao Moi Off",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-04T15:50:10Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/CCLOrDaRALc/maxresdefault.jpg"
+    },
+    {
       "videoId": "eQOt0eNjL1Q",
       "title": "🔴𝐋𝐈𝐕𝐄 การแข่งขัน KWC: RoV x HoK | Esports World Cup (EWC) รอบ Group Stage วันที่ 4",
       "title_original": "🔴𝐋𝐈𝐕𝐄 การแข่งขัน KWC: RoV x HoK | Esports World Cup (EWC) รอบ Group Stage วันที่ 4",
@@ -32,17 +65,6 @@
       "source": "youtube",
       "publishedAt": "2026-08-04T14:48:51Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/X4btbdofvFM/maxresdefault.jpg"
-    },
-    {
-      "videoId": "Odvmr0EE4eM",
-      "title": "Leo Top 10 Thách Đấu ( Day 8 )",
-      "title_original": "Leo Top 10 Thách Đấu ( Day 8 )",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-08-04T14:31:21Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/Odvmr0EE4eM/maxresdefault.jpg"
     },
     {
       "videoId": "rjEUPOF1XaU",
@@ -2177,28 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-07-24T04:30:23Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/u4sZ0CIgfyE/maxresdefault.jpg"
-    },
-    {
-      "videoId": "eBO0UNYKw_o",
-      "title": "TOP 5 Tng X Th Mnh Nh Meta S3 2026, TNG",
-      "title_original": "TOP 5 Tng X Th Mnh Nh Meta S3 2026, TNG",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-24T03:16:36Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/eBO0UNYKw_o/maxresdefault.jpg"
-    },
-    {
-      "videoId": "kqmqFIzRL3w",
-      "title": "🔴Cũng lâu gồi chúng ta mới gặp lại",
-      "title_original": "🔴Cũng lâu gồi chúng ta mới gặp lại",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-23T17:09:04Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/kqmqFIzRL3w/maxresdefault.jpg"
     }
   ]
 }
