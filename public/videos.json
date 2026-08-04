@@ -1,6 +1,39 @@
 {
   "videos": [
     {
+      "videoId": "E5iCSBMiOmQ",
+      "title": "🔴 TRỰC TIẾP: REVENANT XSPARK vs BURIRAM UNITED ESPORTS | EWC 2026",
+      "title_original": "🔴 TRỰC TIẾP: REVENANT XSPARK vs BURIRAM UNITED ESPORTS | EWC 2026",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-04T08:31:03Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/E5iCSBMiOmQ/maxresdefault.jpg"
+    },
+    {
+      "videoId": "eQOt0eNjL1Q",
+      "title": "🔴𝐋𝐈𝐕𝐄 การแข่งขัน KWC: RoV x HoK | Esports World Cup (EWC) รอบ Group Stage วันที่ 4",
+      "title_original": "🔴𝐋𝐈𝐕𝐄 การแข่งขัน KWC: RoV x HoK | Esports World Cup (EWC) รอบ Group Stage วันที่ 4",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-04T04:55:37Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/eQOt0eNjL1Q/maxresdefault.jpg"
+    },
+    {
+      "videoId": "oJBmye8pgfQ",
+      "title": "Liên Quân 10 Chỉnh Sửa Tướng, Review Phiên Bản Mới Y'bneth, Aya, Bright... Thực Tế Không Chém Gió",
+      "title_original": "Liên Quân 10 Chỉnh Sửa Tướng, Review Phiên Bản Mới Y'bneth, Aya, Bright... Thực Tế Không Chém Gió",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-04T03:00:23Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/oJBmye8pgfQ/maxresdefault.jpg"
+    },
+    {
       "videoId": "qXKVQlKccwk",
       "title": "Leo Top 10 Thách Đấu ( Day 7 )",
       "title_original": "Leo Top 10 Thách Đấu ( Day 7 )",
@@ -2166,39 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-07-23T09:30:08Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/D5NfzlZjywI/maxresdefault.jpg"
-    },
-    {
-      "videoId": "2FJTw8X7xpk",
-      "title": "Lin Qun | Chnh Thc G Rn Pht FREE 2 Th Liliana V Valhein - Skin Hp Tc Momo Ton Sever",
-      "title_original": "Lin Qun | Chnh Thc G Rn Pht FREE 2 Th Liliana V Valhein - Skin Hp Tc Momo Ton Sever",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-23T05:16:27Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/2FJTw8X7xpk/maxresdefault.jpg"
-    },
-    {
-      "videoId": "qh3QApu9AnM",
-      "title": "♨️ PHIM KỸ XẢO | SỔ SỨ MỆNH 92 - KHẾ ƯỚC HUYẾT TẾ ♨️",
-      "title_original": "♨️ PHIM KỸ XẢO | SỔ SỨ MỆNH 92 - KHẾ ƯỚC HUYẾT TẾ ♨️",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-23T05:00:35Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/qh3QApu9AnM/maxresdefault.jpg"
-    },
-    {
-      "videoId": "iilfXirifE8",
-      "title": "MỘT ĐÊM LEO TOP ĐIÊU THUYỀN SAU KHI TĂNG SỨC MẠNH",
-      "title_original": "MỘT ĐÊM LEO TOP ĐIÊU THUYỀN SAU KHI TĂNG SỨC MẠNH",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-23T03:52:22Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/iilfXirifE8/maxresdefault.jpg"
     }
   ]
 }
