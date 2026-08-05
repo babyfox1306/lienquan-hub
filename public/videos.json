@@ -1,6 +1,28 @@
 {
   "videos": [
     {
+      "videoId": "eRKofNCbBW8",
+      "title": "Sắp Lên Chiến Thần (còn 70 sao nữa)",
+      "title_original": "Sắp Lên Chiến Thần (còn 70 sao nữa)",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-05T14:03:55Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/eRKofNCbBW8/maxresdefault.jpg"
+    },
+    {
+      "videoId": "TVtThg7aJbc",
+      "title": "Leo Top 10 Thách Đấu ( Day 9 )",
+      "title_original": "Leo Top 10 Thách Đấu ( Day 9 )",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-05T12:20:01Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/TVtThg7aJbc/maxresdefault.jpg"
+    },
+    {
       "videoId": "372JV9AnQ_o",
       "title": "Nakroth i Rng 2026 - Farm Xong - i u V Lm G?",
       "title_original": "Nakroth i Rng 2026 - Farm Xong - i u V Lm G?",
@@ -2177,28 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-07-24T14:00:39Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/4xw9uWxPDPg/maxresdefault.jpg"
-    },
-    {
-      "videoId": "izHvKHJCdWQ",
-      "title": "【賽季回顧】APL 2026 線下賽回顧影片,見證屬於 GCS 的冠軍之路!《Garena 傳說對決》",
-      "title_original": "【賽季回顧】APL 2026 線下賽回顧影片,見證屬於 GCS 的冠軍之路!《Garena 傳說對決》",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-24T12:00:38Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/izHvKHJCdWQ/maxresdefault.jpg"
-    },
-    {
-      "videoId": "I1TkVFrEsn8",
-      "title": "บรรยากาศงานออฟไลน์ RoV นานาชาติ APL 2026 กับการคว้าแชมป์ของ EA ตัวแทนไทย และ DCG ตัวแทนลีก GCS",
-      "title_original": "บรรยากาศงานออฟไลน์ RoV นานาชาติ APL 2026 กับการคว้าแชมป์ของ EA ตัวแทนไทย และ DCG ตัวแทนลีก GCS",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-24T12:00:37Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/I1TkVFrEsn8/maxresdefault.jpg"
     }
   ]
 }
