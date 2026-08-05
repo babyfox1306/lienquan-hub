@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "TVtThg7aJbc",
+      "title": "Leo Top 10 Thách Đấu ( Day 9 )",
+      "title_original": "Leo Top 10 Thách Đấu ( Day 9 )",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-05T20:44:33Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/TVtThg7aJbc/maxresdefault.jpg"
+    },
+    {
       "videoId": "2MgLEUt0Fxw",
       "title": "Tem 5 Leo 40 Sao",
       "title_original": "Tem 5 Leo 40 Sao",
@@ -32,17 +43,6 @@
       "source": "youtube",
       "publishedAt": "2026-08-05T15:19:41Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/E7LvHhQ3V7k/maxresdefault.jpg"
-    },
-    {
-      "videoId": "TVtThg7aJbc",
-      "title": "Leo Top 10 Thách Đấu ( Day 9 )",
-      "title_original": "Leo Top 10 Thách Đấu ( Day 9 )",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-08-05T12:20:01Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/TVtThg7aJbc/maxresdefault.jpg"
     },
     {
       "videoId": "YkPlbe2V4IQ",
