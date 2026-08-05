@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "eRKofNCbBW8",
+      "title": "Sắp Lên Chiến Thần (còn 70 sao nữa)",
+      "title_original": "Sắp Lên Chiến Thần (còn 70 sao nữa)",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-05T18:03:33Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/eRKofNCbBW8/maxresdefault.jpg"
+    },
+    {
       "videoId": "2MgLEUt0Fxw",
       "title": "Tem 5 Leo 40 Sao",
       "title_original": "Tem 5 Leo 40 Sao",
@@ -21,17 +32,6 @@
       "source": "youtube",
       "publishedAt": "2026-08-05T15:19:41Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/E7LvHhQ3V7k/maxresdefault.jpg"
-    },
-    {
-      "videoId": "eRKofNCbBW8",
-      "title": "Sắp Lên Chiến Thần (còn 70 sao nữa)",
-      "title_original": "Sắp Lên Chiến Thần (còn 70 sao nữa)",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-08-05T14:03:55Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/eRKofNCbBW8/maxresdefault.jpg"
     },
     {
       "videoId": "TVtThg7aJbc",
