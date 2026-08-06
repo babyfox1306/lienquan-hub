@@ -1,6 +1,28 @@
 {
   "videos": [
     {
+      "videoId": "W8ami9or6kI",
+      "title": "Murad Đi Rừng 2026 | Hãy Thử Di Chuyển Như Này",
+      "title_original": "Murad Đi Rừng 2026 | Hãy Thử Di Chuyển Như Này",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-06T12:31:53Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/W8ami9or6kI/maxresdefault.jpg"
+    },
+    {
+      "videoId": "-EI4RRUlT-0",
+      "title": "Bâng Mở Skin Billow-Okarun Chỉ với 60 Vé Free",
+      "title_original": "Bâng Mở Skin Billow-Okarun Chỉ với 60 Vé Free",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-06T10:52:44Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/-EI4RRUlT-0/maxresdefault.jpg"
+    },
+    {
       "videoId": "kApijq6ufqs",
       "title": "Sắp Lên Chiến Thần (còn 60 sao nữa)",
       "title_original": "Sắp Lên Chiến Thần (còn 60 sao nữa)",
@@ -13,8 +35,8 @@
     },
     {
       "videoId": "HYsDvl4-gZ8",
-      "title": "TRỰC TIẾP: PLAYOFF EWC 2026 - KUAISHOU GAMING vs VIRTUS.PRO - XEM CÁC \"BỐ\" KPL THỂ HIỆN - AOV x HOK",
-      "title_original": "TRỰC TIẾP: PLAYOFF EWC 2026 - KUAISHOU GAMING vs VIRTUS.PRO - XEM CÁC \"BỐ\" KPL THỂ HIỆN - AOV x HOK",
+      "title": "TRỰC TIẾP: PLAYOFF EWC 2026 - AG_AL vs AURORA GAMING - XEM CÁC \"BỐ\" KPL THỂ HIỆN - AOV x HOK",
+      "title_original": "TRỰC TIẾP: PLAYOFF EWC 2026 - AG_AL vs AURORA GAMING - XEM CÁC \"BỐ\" KPL THỂ HIỆN - AOV x HOK",
       "translated": false,
       "country": "VN",
       "lang_original": "vi",
@@ -376,8 +398,8 @@
     },
     {
       "videoId": "P_V0Xgn6pD4",
-      "title": "🔴𝐋𝐈𝐕𝐄 การแข่งขัน KWC: RoV x HoK | Esports World Cup (EWC) รอบ Group Stage วันที่ 3",
-      "title_original": "🔴𝐋𝐈𝐕𝐄 การแข่งขัน KWC: RoV x HoK | Esports World Cup (EWC) รอบ Group Stage วันที่ 3",
+      "title": "การแข่งขัน KWC: RoV x HoK | Esports World Cup (EWC) รอบ Group Stage วันที่ 3",
+      "title_original": "การแข่งขัน KWC: RoV x HoK | Esports World Cup (EWC) รอบ Group Stage วันที่ 3",
       "translated": false,
       "country": "VN",
       "lang_original": "vi",
@@ -2177,28 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-07-25T09:13:25Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/V9a4MwAKOio/maxresdefault.jpg"
-    },
-    {
-      "videoId": "g19zeXeo7DE",
-      "title": "Trải nghiệm TẤT CẢ SKIN THỨ NGUYÊN VỆ THẦN cùng Icyfoxx | Liên quân mobile",
-      "title_original": "Trải nghiệm TẤT CẢ SKIN THỨ NGUYÊN VỆ THẦN cùng Icyfoxx | Liên quân mobile",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-25T05:49:36Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/g19zeXeo7DE/maxresdefault.jpg"
-    },
-    {
-      "videoId": "OHB5QyuBiCE",
-      "title": "♨️ HIỆU ỨNG CHIÊU THỨC | SỔ SỨ MỆNH 92 - MARJA HUYẾT MẪU TÀ LINH ♨️ - Garena Liên Quân Mobile",
-      "title_original": "♨️ HIỆU ỨNG CHIÊU THỨC | SỔ SỨ MỆNH 92 - MARJA HUYẾT MẪU TÀ LINH ♨️ - Garena Liên Quân Mobile",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-25T05:30:25Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/OHB5QyuBiCE/maxresdefault.jpg"
     }
   ]
 }
