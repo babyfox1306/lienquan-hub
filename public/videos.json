@@ -1,6 +1,28 @@
 {
   "videos": [
     {
+      "videoId": "kApijq6ufqs",
+      "title": "Sắp Lên Chiến Thần (còn 60 sao nữa)",
+      "title_original": "Sắp Lên Chiến Thần (còn 60 sao nữa)",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-06T09:05:06Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/kApijq6ufqs/maxresdefault.jpg"
+    },
+    {
+      "videoId": "HYsDvl4-gZ8",
+      "title": "TRỰC TIẾP: PLAYOFF EWC 2026 - KUAISHOU GAMING vs VIRTUS.PRO - XEM CÁC \"BỐ\" KPL THỂ HIỆN - AOV x HOK",
+      "title_original": "TRỰC TIẾP: PLAYOFF EWC 2026 - KUAISHOU GAMING vs VIRTUS.PRO - XEM CÁC \"BỐ\" KPL THỂ HIỆN - AOV x HOK",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-06T08:16:04Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/HYsDvl4-gZ8/maxresdefault.jpg"
+    },
+    {
       "videoId": "QIUnhQDgIv0",
       "title": "Tem 5 Leo 40 Sao",
       "title_original": "Tem 5 Leo 40 Sao",
@@ -10,17 +32,6 @@
       "source": "youtube",
       "publishedAt": "2026-08-06T06:00:45Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/QIUnhQDgIv0/maxresdefault.jpg"
-    },
-    {
-      "videoId": "kApijq6ufqs",
-      "title": "Sắp Lên Chiến Thần (còn 60 sao nữa)",
-      "title_original": "Sắp Lên Chiến Thần (còn 60 sao nữa)",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-08-06T04:56:30Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/kApijq6ufqs/maxresdefault.jpg"
     },
     {
       "videoId": "9dWbbl8zcEs",
@@ -2188,17 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-07-25T05:30:25Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/OHB5QyuBiCE/maxresdefault.jpg"
-    },
-    {
-      "videoId": "4NuxXfFKG1U",
-      "title": "Dimension Breaker Hayate Cinematic | เปิดฉากการต่อสู้สุดอันตราย!",
-      "title_original": "Dimension Breaker Hayate Cinematic | เปิดฉากการต่อสู้สุดอันตราย!",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-25T05:00:12Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/4NuxXfFKG1U/maxresdefault.jpg"
     }
   ]
 }

@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-08-06T07:50:29.756270",
+  "last_updated": "2026-08-06T10:49:34.688186",
   "total_news": 100,
   "news": [
+    {
+      "id": "3cd2916d6c4d",
+      "title": "TRUY DẤU CREATOR – BOUNTY HUNTER CHÍNH THỨC BẮT ĐẦU",
+      "link": "https://lienquan.garena.vn/truy-dau-creator-bounty-hunter-chinh-thuc-bat-dau/",
+      "summary": "<p>Xin chào các Kiện Tướng, Truy Dấu Creator &#8211; Bounty Hunter là hoạt động dành cho tất cả người chơi Liên Quân Mobile yêu thích thử thách các Creator. Mỗi tuần sẽ có 05 Creator [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/truy-dau-creator-bounty-hunter-chinh-thuc-bat-dau/\">TRUY DẤU CREATOR – BOUNTY HUNTER CHÍNH THỨC BẮT ĐẦU</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2026/08/9029b7e7-6b88-45a8-a755-ae8c49bd9a86.jpg",
+      "source": "Liên Quân Mobile Official",
+      "source_url": "https://lienquan.garena.vn/rss",
+      "published_at": "2026-08-06T08:14:13Z",
+      "crawled_at": "2026-08-06T10:44:40.586390",
+      "category": "tướng",
+      "priority": 1
+    },
     {
       "id": "c6c3f7b324ac",
       "title": "KHỞI TRANH CUỘC THI ĐUA TOP COMMUNITY LEADER LIÊN QUÂN MOBILE QUÝ III.2026 (01/04 – 30/06)",
@@ -1287,19 +1300,6 @@
       "published_at": "2026-02-11T09:41:22Z",
       "crawled_at": "2026-02-11T10:15:01.220284",
       "category": "tướng",
-      "priority": 1
-    },
-    {
-      "id": "25aedf144800",
-      "title": "🐎Khởi động 2026 – phi “mã” voucher hot hit cùng ShopeePay!",
-      "link": "https://lienquan.garena.vn/%f0%9f%90%8ekhoi-dong-2026-phi-ma-voucher-hot-hit-cung-shopeepay/",
-      "summary": "<p>🔝Từ ngày 1 &#8211; 28/2, nhập ngay mã “SPPAOV0226” khinạp thẻ Garena bằng ví ShopeePay nhận ngay cơ hội giảm tối đa 20K 💥Ngoài ra còn tràn ngập các ưu đãi hấp dẫn khác, xem [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/%f0%9f%90%8ekhoi-dong-2026-phi-ma-voucher-hot-hit-cung-shopeepay/\">🐎Khởi động 2026 &#8211; phi “mã” voucher hot hit cùng ShopeePay!</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
-      "image_url": null,
-      "source": "Liên Quân Mobile Official",
-      "source_url": "https://lienquan.garena.vn/rss",
-      "published_at": "2026-02-11T07:53:41Z",
-      "crawled_at": "2026-02-11T08:09:54.148369",
-      "category": "tin tức",
       "priority": 1
     }
   ]
