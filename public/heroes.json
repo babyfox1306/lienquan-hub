@@ -427,9 +427,9 @@
         "Liliana"
       ],
       "tier": "A",
-      "tier_reason": "Được gán từ dữ liệu hạt giống (Seed A-Tier) do ít video mới (Hot Count: 1)",
+      "tier_reason": "Được gán từ dữ liệu hạt giống (Seed A-Tier) do ít video mới (Hot Count: 0)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/3/3f/The_Diminisher.png/revision/latest/scale-to-width-down/500?cb=20230721030441",
       "related_videos": [
         "-v09c9pTEfM"
@@ -4953,5 +4953,5 @@
       ]
     }
   ],
-  "updated_at": "2026-08-06T13:04:24Z"
+  "updated_at": "2026-08-06T15:28:46Z"
 }
