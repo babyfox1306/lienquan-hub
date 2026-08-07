@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "W6qxgT3HZM4",
+      "title": "Chỉnh Sửa Azzen'ka: Nerf Thảm Lần 3, Rớt Đáy Thật Rồi",
+      "title_original": "Chỉnh Sửa Azzen'ka: Nerf Thảm Lần 3, Rớt Đáy Thật Rồi",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-07T03:00:34Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/W6qxgT3HZM4/maxresdefault.jpg"
+    },
+    {
       "videoId": "VyY2CNn60DI",
       "title": "Leo Top 10 Thách Đấu ( Day 10 )",
       "title_original": "Leo Top 10 Thách Đấu ( Day 10 )",
@@ -2188,17 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-07-25T10:30:25Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/sRIrcKhgw_Y/maxresdefault.jpg"
-    },
-    {
-      "videoId": "gk1Yo644lwk",
-      "title": "♨️ HIỆU ỨNG CHIÊU THỨC | SỔ SỨ MỆNH 92 - TAARA HUYẾT NỘ CẤM VỆ ♨️ - Garena Liên Quân Mobile",
-      "title_original": "♨️ HIỆU ỨNG CHIÊU THỨC | SỔ SỨ MỆNH 92 - TAARA HUYẾT NỘ CẤM VỆ ♨️ - Garena Liên Quân Mobile",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-25T10:30:17Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/gk1Yo644lwk/maxresdefault.jpg"
     }
   ]
 }

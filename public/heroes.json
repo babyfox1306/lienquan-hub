@@ -1891,8 +1891,7 @@
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/3/36/Taara_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20231220020807",
       "related_videos": [
         "79wsBR4-nxk",
-        "XJ_rlWxfHXc",
-        "gk1Yo644lwk"
+        "XJ_rlWxfHXc"
       ]
     },
     {
@@ -2663,12 +2662,14 @@
       },
       "counters": [],
       "synergies": [],
-      "tier": "B",
-      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier": "C",
+      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: -1)",
       "hot": false,
-      "hot_count": 0,
+      "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/a/ad/Azzen%27Ka_profile.png/revision/latest/scale-to-width-down/500?cb=20220327081848",
-      "related_videos": []
+      "related_videos": [
+        "W6qxgT3HZM4"
+      ]
     },
     {
       "id": "bijan",
@@ -4953,5 +4954,5 @@
       ]
     }
   ],
-  "updated_at": "2026-08-07T05:49:13Z"
+  "updated_at": "2026-08-07T07:29:04Z"
 }
