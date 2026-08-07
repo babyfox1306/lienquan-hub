@@ -1,17 +1,6 @@
 {
   "videos": [
     {
-      "videoId": "L9l1cZq1AuE",
-      "title": "Solokilllll Leo 40 Sao",
-      "title_original": "Solokilllll Leo 40 Sao",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-08-07T15:12:43Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/L9l1cZq1AuE/maxresdefault.jpg"
-    },
-    {
       "videoId": "RHVXfaq5nLs",
       "title": "Nghe Đồn Nay Có SKIN Mới",
       "title_original": "Nghe Đồn Nay Có SKIN Mới",
@@ -19,8 +8,19 @@
       "country": "VN",
       "lang_original": "vi",
       "source": "youtube",
-      "publishedAt": "2026-08-07T14:27:38Z",
+      "publishedAt": "2026-08-07T17:43:00Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/RHVXfaq5nLs/maxresdefault.jpg"
+    },
+    {
+      "videoId": "L9l1cZq1AuE",
+      "title": "Solokilllll Leo 40 Sao",
+      "title_original": "Solokilllll Leo 40 Sao",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-07T17:25:33Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/L9l1cZq1AuE/maxresdefault.jpg"
     },
     {
       "videoId": "gakPLkwbTbI",
