@@ -1,6 +1,39 @@
 {
   "videos": [
     {
+      "videoId": "RHVXfaq5nLs",
+      "title": "Nghe Đồn Nay Có SKIN Mới",
+      "title_original": "Nghe Đồn Nay Có SKIN Mới",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-07T14:27:38Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/RHVXfaq5nLs/maxresdefault.jpg"
+    },
+    {
+      "videoId": "gakPLkwbTbI",
+      "title": "TRỰC TIẾP: BÁN KẾT EWC 2026 - AG_AL vs  ROC ESPORTS - LIÊN QUÂN MOBILE x HONOR OF KINGS",
+      "title_original": "TRỰC TIẾP: BÁN KẾT EWC 2026 - AG_AL vs  ROC ESPORTS - LIÊN QUÂN MOBILE x HONOR OF KINGS",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-07T13:44:50Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/gakPLkwbTbI/maxresdefault.jpg"
+    },
+    {
+      "videoId": "U9bKnf0YQIs",
+      "title": "✨RoV x BBL✨ พาตามรอย Attack on Titan⚔️ ที่ญี่ปุ่น🇯🇵",
+      "title_original": "✨RoV x BBL✨ พาตามรอย Attack on Titan⚔️ ที่ญี่ปุ่น🇯🇵",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-07T13:24:02Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/U9bKnf0YQIs/maxresdefault.jpg"
+    },
+    {
       "videoId": "z6Y61ZdBZJI",
       "title": "Red Bull x 傳說對決 10週年限定聯名罐",
       "title_original": "Red Bull x 傳說對決 10週年限定聯名罐",
@@ -43,17 +76,6 @@
       "source": "youtube",
       "publishedAt": "2026-08-07T09:30:07Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/fBl1ZhkETpw/maxresdefault.jpg"
-    },
-    {
-      "videoId": "gakPLkwbTbI",
-      "title": "TRỰC TIẾP: BÁN KẾT EWC 2026 - AG_AL vs  ROC ESPORTS - LIÊN QUÂN MOBILE x HONOR OF KINGS",
-      "title_original": "TRỰC TIẾP: BÁN KẾT EWC 2026 - AG_AL vs  ROC ESPORTS - LIÊN QUÂN MOBILE x HONOR OF KINGS",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-08-07T08:19:12Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/gakPLkwbTbI/maxresdefault.jpg"
     },
     {
       "videoId": "W6qxgT3HZM4",
@@ -2177,28 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-07-25T15:07:00Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/pXEHKQ8e8yM/maxresdefault.jpg"
-    },
-    {
-      "videoId": "KanXvKhfRdg",
-      "title": "🔥 SHOWMATCH \"BỐC SAO CŨNG TRÚNG\" X CHUNG KẾT SIÊU SAO TOÀN NĂNG 6.0 ĐANG DIỄN RA! 🏆",
-      "title_original": "🔥 SHOWMATCH \"BỐC SAO CŨNG TRÚNG\" X CHUNG KẾT SIÊU SAO TOÀN NĂNG 6.0 ĐANG DIỄN RA! 🏆",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-25T12:23:12Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/KanXvKhfRdg/maxresdefault.jpg"
-    },
-    {
-      "videoId": "QPSRC-RtgAs",
-      "title": "Tôi Dạo Chơi Trong Tế Đàn Team Bạn !!!",
-      "title_original": "Tôi Dạo Chơi Trong Tế Đàn Team Bạn !!!",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-25T12:00:53Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/QPSRC-RtgAs/maxresdefault.jpg"
     }
   ]
 }
