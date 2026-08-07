@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "caAU9ke4YX0",
+      "title": "Trick Lỏ Chống Đá LiveStream của Bâng",
+      "title_original": "Trick Lỏ Chống Đá LiveStream của Bâng",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-07T11:20:08Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/caAU9ke4YX0/maxresdefault.jpg"
+    },
+    {
       "videoId": "d8_Tnp2tVO8",
       "title": "一起聽別單機 EP16 | DCG 拿下 APL 2026 世界冠軍背後的故事一次看❗ft. DCG XCEN WEIYU 《Garena傳說對決》",
       "title_original": "一起聽別單機 EP16 | DCG 拿下 APL 2026 世界冠軍背後的故事一次看❗ft. DCG XCEN WEIYU 《Garena傳說對決》",
@@ -24,8 +35,8 @@
     },
     {
       "videoId": "gakPLkwbTbI",
-      "title": "TRỰC TIẾP: BÁN KẾT EWC 2026 - KUAISHOU GAMING vs GEEKAY ESPORTS - LIÊN QUÂN MOBILE x HONOR OF KINGS",
-      "title_original": "TRỰC TIẾP: BÁN KẾT EWC 2026 - KUAISHOU GAMING vs GEEKAY ESPORTS - LIÊN QUÂN MOBILE x HONOR OF KINGS",
+      "title": "TRỰC TIẾP: BÁN KẾT EWC 2026 - AG_AL vs  ROC ESPORTS - LIÊN QUÂN MOBILE x HONOR OF KINGS",
+      "title_original": "TRỰC TIẾP: BÁN KẾT EWC 2026 - AG_AL vs  ROC ESPORTS - LIÊN QUÂN MOBILE x HONOR OF KINGS",
       "translated": false,
       "country": "VN",
       "lang_original": "vi",
@@ -2188,17 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-07-25T12:00:07Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/slXjK8u8ejg/maxresdefault.jpg"
-    },
-    {
-      "videoId": "y0FI9xe6IiY",
-      "title": "Qu Trnh Chinh Phc HAYATE TH NGUYN V THN",
-      "title_original": "Qu Trnh Chinh Phc HAYATE TH NGUYN V THN",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-25T11:45:38Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/y0FI9xe6IiY/maxresdefault.jpg"
     }
   ]
 }
