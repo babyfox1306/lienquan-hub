@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "z6Y61ZdBZJI",
+      "title": "Red Bull x 傳說對決 10週年限定聯名罐",
+      "title_original": "Red Bull x 傳說對決 10週年限定聯名罐",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-07T12:00:37Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/z6Y61ZdBZJI/maxresdefault.jpg"
+    },
+    {
       "videoId": "caAU9ke4YX0",
       "title": "Trick Lỏ Chống Đá LiveStream của Bâng",
       "title_original": "Trick Lỏ Chống Đá LiveStream của Bâng",
@@ -2188,17 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-07-25T12:00:53Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/QPSRC-RtgAs/maxresdefault.jpg"
-    },
-    {
-      "videoId": "slXjK8u8ejg",
-      "title": "MIC CHECK #6: FPL - BAC: DỪNG BƯỚC NGẨNG CAO ĐẦU | APL 2026",
-      "title_original": "MIC CHECK #6: FPL - BAC: DỪNG BƯỚC NGẨNG CAO ĐẦU | APL 2026",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-25T12:00:07Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/slXjK8u8ejg/maxresdefault.jpg"
     }
   ]
 }
