@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "oe9JARX-irk",
+      "title": "BNG PRIME  QUAY TR LI",
+      "title_original": "BNG PRIME  QUAY TR LI",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-08T09:12:08Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/oe9JARX-irk/maxresdefault.jpg"
+    },
+    {
       "videoId": "k158O2mk9Vs",
       "title": "Chơi tất cả skin ILUMIA cùng Icyfoxx - khi skin SS còn đẹp hơn SSS",
       "title_original": "Chơi tất cả skin ILUMIA cùng Icyfoxx - khi skin SS còn đẹp hơn SSS",
@@ -2188,17 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-07-26T04:30:29Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/ksKJVc9s5PU/maxresdefault.jpg"
-    },
-    {
-      "videoId": "YgPikc0NQTA",
-      "title": "Billow x Okarun Skin Spotlight - Garena AOV Indonesia #ArenaofValor #DANDADAN",
-      "title_original": "Billow x Okarun Skin Spotlight - Garena AOV Indonesia #ArenaofValor #DANDADAN",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-26T04:30:27Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/YgPikc0NQTA/maxresdefault.jpg"
     }
   ]
 }
