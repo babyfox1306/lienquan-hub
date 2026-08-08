@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "zpOvVKBLXJQ",
+      "title": "HÀNH TRÌNH FROM ZERO TO HERO - BLV HƯNG ĐINH aka BLV Hân Đừng - Người Đần !!! | BLV Thanh Tùng",
+      "title_original": "HÀNH TRÌNH FROM ZERO TO HERO - BLV HƯNG ĐINH aka BLV Hân Đừng - Người Đần !!! | BLV Thanh Tùng",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-08T23:20:54Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/zpOvVKBLXJQ/maxresdefault.jpg"
+    },
+    {
       "videoId": "XnSjcUy7nQA",
       "title": "TRỰC TIẾP: CHUNG KẾT TỔNG EWC 2026 - AG_AL vs KSG - NHỮNG NGƯỜI \"BỐ\" HOK - AOV x HOK !!!",
       "title_original": "TRỰC TIẾP: CHUNG KẾT TỔNG EWC 2026 - AG_AL vs KSG - NHỮNG NGƯỜI \"BỐ\" HOK - AOV x HOK !!!",
@@ -2188,17 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-07-26T10:00:07Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/svDnOWOOFFs/maxresdefault.jpg"
-    },
-    {
-      "videoId": "AeDsRgyWZaI",
-      "title": "ĐÂY LÀ CHẾ ĐỘ HÀI NHẤT CỦA LIÊN QUÂN 2026!!",
-      "title_original": "ĐÂY LÀ CHẾ ĐỘ HÀI NHẤT CỦA LIÊN QUÂN 2026!!",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-26T09:31:25Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/AeDsRgyWZaI/maxresdefault.jpg"
     }
   ]
 }
