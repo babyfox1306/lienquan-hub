@@ -1610,11 +1610,13 @@
         "Grakk"
       ],
       "tier": "B",
-      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
-      "hot_count": 0,
+      "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/d/d2/Ilumia_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125054441",
-      "related_videos": []
+      "related_videos": [
+        "tktxT5P5IbM"
+      ]
     },
     {
       "id": "zip",
@@ -3061,7 +3063,7 @@
       "tier": "B",
       "tier_reason": "Xuất hiện 2 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/c/c9/D%27Arcy_profile.jpg/revision/latest/scale-to-width-down/500?cb=20200531224258",
       "related_videos": [
         "EcVI7U8omAI",
@@ -4955,5 +4957,5 @@
       ]
     }
   ],
-  "updated_at": "2026-08-08T02:03:19Z"
+  "updated_at": "2026-08-08T03:45:42Z"
 }
