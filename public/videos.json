@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "Wg7EQoPBUxw",
+      "title": "Solokilllll Leo 40 Sao",
+      "title_original": "Solokilllll Leo 40 Sao",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-08T15:36:03Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/Wg7EQoPBUxw/maxresdefault.jpg"
+    },
+    {
       "videoId": "FX2XWQOq17I",
       "title": "งานออฟไลน์ RoV Thailand Esports Premier League (TEPL) 2026🏆 รอบ Championship วันที่ 1 (Part 2)",
       "title_original": "งานออฟไลน์ RoV Thailand Esports Premier League (TEPL) 2026🏆 รอบ Championship วันที่ 1 (Part 2)",
@@ -2188,17 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-07-26T09:30:23Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/ViIISAx0Yd8/maxresdefault.jpg"
-    },
-    {
-      "videoId": "lShWMfqHx0I",
-      "title": "【S14 傳說對決城市賽 x 六都電競】環島幫王牌道館主轉播| feat.大蛇丸, 洋蔥, 胡椒, 廚佛Fred, 海牛",
-      "title_original": "【S14 傳說對決城市賽 x 六都電競】環島幫王牌道館主轉播| feat.大蛇丸, 洋蔥, 胡椒, 廚佛Fred, 海牛",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-26T08:57:42Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/lShWMfqHx0I/maxresdefault.jpg"
     }
   ]
 }
