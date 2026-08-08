@@ -1,6 +1,28 @@
 {
   "videos": [
     {
+      "videoId": "XnSjcUy7nQA",
+      "title": "TRỰC TIẾP: CHUNG KẾT TỔNG EWC 2026 - AG_AL vs KSG - NHỮNG NGƯỜI \"BỐ\" HOK - AOV x HOK !!!",
+      "title_original": "TRỰC TIẾP: CHUNG KẾT TỔNG EWC 2026 - AG_AL vs KSG - NHỮNG NGƯỜI \"BỐ\" HOK - AOV x HOK !!!",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-08T19:17:34Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/XnSjcUy7nQA/maxresdefault.jpg"
+    },
+    {
+      "videoId": "sbnnMhyTQGE",
+      "title": "TRỰC TIẾP: CHUNG KẾT TỔNG EWC 2026 - AG_AL vs KSG - NHỮNG NGƯỜI \"BỐ\" HOK - AOV x HOK !!!",
+      "title_original": "TRỰC TIẾP: CHUNG KẾT TỔNG EWC 2026 - AG_AL vs KSG - NHỮNG NGƯỜI \"BỐ\" HOK - AOV x HOK !!!",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-08T19:03:22Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/sbnnMhyTQGE/maxresdefault.jpg"
+    },
+    {
       "videoId": "Wg7EQoPBUxw",
       "title": "Solokilllll Leo 40 Sao",
       "title_original": "Solokilllll Leo 40 Sao",
@@ -54,17 +76,6 @@
       "source": "youtube",
       "publishedAt": "2026-08-08T10:30:30Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/8t-ELjrkRAw/maxresdefault.jpg"
-    },
-    {
-      "videoId": "XnSjcUy7nQA",
-      "title": "TRỰC TIẾP: CHUNG KẾT TỔNG EWC 2026 - AG_AL vs KSG - NHỮNG NGƯỜI \"BỐ\" HOK - AOV x HOK !!!",
-      "title_original": "TRỰC TIẾP: CHUNG KẾT TỔNG EWC 2026 - AG_AL vs KSG - NHỮNG NGƯỜI \"BỐ\" HOK - AOV x HOK !!!",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-08-08T10:28:53Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/XnSjcUy7nQA/maxresdefault.jpg"
     },
     {
       "videoId": "oe9JARX-irk",
@@ -2188,17 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-07-26T09:31:25Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/AeDsRgyWZaI/maxresdefault.jpg"
-    },
-    {
-      "videoId": "ViIISAx0Yd8",
-      "title": "Chỉnh Sửa Thane: Cơ Chế Ulti Giống Hạng Vũ, Liệu Có Mất Chất?",
-      "title_original": "Chỉnh Sửa Thane: Cơ Chế Ulti Giống Hạng Vũ, Liệu Có Mất Chất?",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-26T09:30:23Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/ViIISAx0Yd8/maxresdefault.jpg"
     }
   ]
 }
