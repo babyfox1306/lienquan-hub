@@ -1,6 +1,28 @@
 {
   "videos": [
     {
+      "videoId": "8t-ELjrkRAw",
+      "title": "BỐP BỐP BẤT NGỜ BỊ LỘ CLIP NÓNG CỰC SỐC",
+      "title_original": "BỐP BỐP BẤT NGỜ BỊ LỘ CLIP NÓNG CỰC SỐC",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-08T10:30:30Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/8t-ELjrkRAw/maxresdefault.jpg"
+    },
+    {
+      "videoId": "XnSjcUy7nQA",
+      "title": "TRỰC TIẾP: AOV LAST HOPE - HUY POPPER - SHOWMATCH: ALL KOL vs ALL STARS - AOV x HOK !!!",
+      "title_original": "TRỰC TIẾP: AOV LAST HOPE - HUY POPPER - SHOWMATCH: ALL KOL vs ALL STARS - AOV x HOK !!!",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-08T10:28:53Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/XnSjcUy7nQA/maxresdefault.jpg"
+    },
+    {
       "videoId": "oe9JARX-irk",
       "title": "BNG PRIME  QUAY TR LI",
       "title_original": "BNG PRIME  QUAY TR LI",
@@ -2177,28 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-07-26T08:00:22Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/6rmiqZBdkZA/maxresdefault.jpg"
-    },
-    {
-      "videoId": "LMXg91TbbQw",
-      "title": "การแข่งขัน RoV Thailand Esports Premier League (TEPL) 2026 | Regular Season Week 5 Day 2",
-      "title_original": "การแข่งขัน RoV Thailand Esports Premier League (TEPL) 2026 | Regular Season Week 5 Day 2",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-26T07:36:30Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/LMXg91TbbQw/maxresdefault.jpg"
-    },
-    {
-      "videoId": "ksKJVc9s5PU",
-      "title": "Hiệu ứng chiêu thức | Billow x Okarun 💥 Garena Liên Quân Mobile",
-      "title_original": "Hiệu ứng chiêu thức | Billow x Okarun 💥 Garena Liên Quân Mobile",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-26T04:30:29Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/ksKJVc9s5PU/maxresdefault.jpg"
     }
   ]
 }
