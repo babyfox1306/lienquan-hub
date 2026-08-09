@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "SUy5zY6OCvg",
+      "title": "Skin Này Của Murad Dame Ảo Thật",
+      "title_original": "Skin Này Của Murad Dame Ảo Thật",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-09T11:26:04Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/SUy5zY6OCvg/maxresdefault.jpg"
+    },
+    {
       "videoId": "PCuqnsF2cDw",
       "title": "Zata Ca Bng Rt p V N Khng 6",
       "title_original": "Zata Ca Bng Rt p V N Khng 6",
@@ -2188,17 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-07-26T13:53:15Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/UbQJkoHv2nI/maxresdefault.jpg"
-    },
-    {
-      "videoId": "glj4F9HHMlo",
-      "title": "Trận đấu lên TOP MIỀN BẮC ĐIÊU THUYỀN của Icyfoxx",
-      "title_original": "Trận đấu lên TOP MIỀN BẮC ĐIÊU THUYỀN của Icyfoxx",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-26T12:03:13Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/glj4F9HHMlo/maxresdefault.jpg"
     }
   ]
 }
