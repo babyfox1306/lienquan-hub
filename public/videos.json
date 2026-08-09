@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "2upnhVouBRY",
+      "title": "Nông Tam No Sea",
+      "title_original": "Nông Tam No Sea",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-09T18:25:54Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/2upnhVouBRY/maxresdefault.jpg"
+    },
+    {
       "videoId": "9e0VYA6eSyk",
       "title": "team 5 Leo 40 Sao",
       "title_original": "team 5 Leo 40 Sao",
@@ -8,7 +19,7 @@
       "country": "VN",
       "lang_original": "vi",
       "source": "youtube",
-      "publishedAt": "2026-08-09T15:21:06Z",
+      "publishedAt": "2026-08-09T18:20:31Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/9e0VYA6eSyk/maxresdefault.jpg"
     },
     {
@@ -43,17 +54,6 @@
       "source": "youtube",
       "publishedAt": "2026-08-09T13:30:07Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/e_n8Y46BP0s/maxresdefault.jpg"
-    },
-    {
-      "videoId": "2upnhVouBRY",
-      "title": "Nông Tam No Sea",
-      "title_original": "Nông Tam No Sea",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-08-09T13:25:54Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/2upnhVouBRY/maxresdefault.jpg"
     },
     {
       "videoId": "SUy5zY6OCvg",
