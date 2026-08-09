@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "PCuqnsF2cDw",
+      "title": "Zata Ca Bng Rt p V N Khng 6",
+      "title_original": "Zata Ca Bng Rt p V N Khng 6",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-09T10:30:13Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/PCuqnsF2cDw/maxresdefault.jpg"
+    },
+    {
       "videoId": "AOGxbFbjgLY",
       "title": "Sửa D'Arcy Giảm Độ Khó X2: Cơ Chế Mới \"NỔ CẢM BIẾN\" Auto Trúng Cực Lỗi!",
       "title_original": "Sửa D'Arcy Giảm Độ Khó X2: Cơ Chế Mới \"NỔ CẢM BIẾN\" Auto Trúng Cực Lỗi!",
@@ -2188,17 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-07-26T12:03:13Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/glj4F9HHMlo/maxresdefault.jpg"
-    },
-    {
-      "videoId": "P8t2zbeBEqw",
-      "title": "Hayate Thứ Nguyên Vệ Thần Này Không Dành Cho Người Nghèo",
-      "title_original": "Hayate Thứ Nguyên Vệ Thần Này Không Dành Cho Người Nghèo",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-26T11:30:18Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/P8t2zbeBEqw/maxresdefault.jpg"
     }
   ]
 }
