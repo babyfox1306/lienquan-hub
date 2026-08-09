@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "9e0VYA6eSyk",
+      "title": "team 5 Leo 40 Sao",
+      "title_original": "team 5 Leo 40 Sao",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-09T15:21:06Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/9e0VYA6eSyk/maxresdefault.jpg"
+    },
+    {
       "videoId": "7nRpI17zV-k",
       "title": "【S14 傳說對決城市賽 x 六都電競】 桃園 四強暨總決賽- 2026/08/09 《Garena 傳說對決》",
       "title_original": "【S14 傳說對決城市賽 x 六都電競】 桃園 四強暨總決賽- 2026/08/09 《Garena 傳說對決》",
@@ -2188,17 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-07-27T03:00:07Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/MldF_VaHpnc/maxresdefault.jpg"
-    },
-    {
-      "videoId": "8yXB9Z242qA",
-      "title": "🔴 Tiếp Tục Cùng Hayate Thứ Nguyên Vệ Thần",
-      "title_original": "🔴 Tiếp Tục Cùng Hayate Thứ Nguyên Vệ Thần",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-26T17:07:19Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/8yXB9Z242qA/maxresdefault.jpg"
     }
   ]
 }
