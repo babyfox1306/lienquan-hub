@@ -857,9 +857,7 @@
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/7/71/Gildur_Default.jpg/revision/latest/scale-to-width-down/500?cb=20180327112635",
       "related_videos": [
         "k-sjqigEwTI",
-        "fQq3BPiGMuw",
-        "ZDHVWj0UXVA",
-        "svDnOWOOFFs"
+        "fQq3BPiGMuw"
       ]
     },
     {
@@ -1329,7 +1327,7 @@
       "tier": "B",
       "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/0/0f/Dirak_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125044153",
       "related_videos": [
         "xsr1s_7kGTM"
@@ -4963,5 +4961,5 @@
       ]
     }
   ],
-  "updated_at": "2026-08-09T02:11:01Z"
+  "updated_at": "2026-08-09T04:26:09Z"
 }
