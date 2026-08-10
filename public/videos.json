@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "7IY80vT95Ik",
+      "title": "Quay skin Gildur Jiji",
+      "title_original": "Quay skin Gildur Jiji",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-09T23:58:29Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/7IY80vT95Ik/maxresdefault.jpg"
+    },
+    {
       "videoId": "sbnnMhyTQGE",
       "title": "TALKSHOW CUỐI: TẠM BIỆT HÂN ĐỪNG -- Buổi STREAM Cuối Cùng Của HƯNG ĐINH Trước Khi Về TRÀ VINH !!!",
       "title_original": "TALKSHOW CUỐI: TẠM BIỆT HÂN ĐỪNG -- Buổi STREAM Cuối Cùng Của HƯNG ĐINH Trước Khi Về TRÀ VINH !!!",
@@ -54,17 +65,6 @@
       "source": "youtube",
       "publishedAt": "2026-08-09T14:39:06Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/7nRpI17zV-k/maxresdefault.jpg"
-    },
-    {
-      "videoId": "7IY80vT95Ik",
-      "title": "Quay skin Gildur Jiji",
-      "title_original": "Quay skin Gildur Jiji",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-08-09T13:51:46Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/7IY80vT95Ik/maxresdefault.jpg"
     },
     {
       "videoId": "e_n8Y46BP0s",
