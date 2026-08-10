@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "g_HN4H7B8Is",
+      "title": "Nãy Nằm Mơ Thấy Tối Nay Live Hơn 1000 Người Xem Ở Youtube",
+      "title_original": "Nãy Nằm Mơ Thấy Tối Nay Live Hơn 1000 Người Xem Ở Youtube",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-10T17:58:09Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/g_HN4H7B8Is/maxresdefault.jpg"
+    },
+    {
       "videoId": "DWQnzueW3Rc",
       "title": "team 5 Leo 40 Sao",
       "title_original": "team 5 Leo 40 Sao",
@@ -32,17 +43,6 @@
       "source": "youtube",
       "publishedAt": "2026-08-10T14:37:23Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/vDemnHgLHr4/maxresdefault.jpg"
-    },
-    {
-      "videoId": "g_HN4H7B8Is",
-      "title": "Nãy Nằm Mơ Thấy Tối Nay Live Hơn 1000 Người Xem Ở Youtube",
-      "title_original": "Nãy Nằm Mơ Thấy Tối Nay Live Hơn 1000 Người Xem Ở Youtube",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-08-10T13:21:18Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/g_HN4H7B8Is/maxresdefault.jpg"
     },
     {
       "videoId": "frkYen_2YpI",
