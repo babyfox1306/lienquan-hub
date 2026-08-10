@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "YJUO7kkRcKA",
+      "title": "Leo Top 10 Thách Đấu ( Day 12 )",
+      "title_original": "Leo Top 10 Thách Đấu ( Day 12 )",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-10T23:10:34Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/YJUO7kkRcKA/maxresdefault.jpg"
+    },
+    {
       "videoId": "g_HN4H7B8Is",
       "title": "Nãy Nằm Mơ Thấy Tối Nay Live Hơn 1000 Người Xem Ở Youtube",
       "title_original": "Nãy Nằm Mơ Thấy Tối Nay Live Hơn 1000 Người Xem Ở Youtube",
@@ -21,17 +32,6 @@
       "source": "youtube",
       "publishedAt": "2026-08-10T17:46:03Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/DWQnzueW3Rc/maxresdefault.jpg"
-    },
-    {
-      "videoId": "YJUO7kkRcKA",
-      "title": "Leo Top 10 Thách Đấu ( Day 12 )",
-      "title_original": "Leo Top 10 Thách Đấu ( Day 12 )",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-08-10T15:02:10Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/YJUO7kkRcKA/maxresdefault.jpg"
     },
     {
       "videoId": "vDemnHgLHr4",
