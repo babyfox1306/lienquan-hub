@@ -1,6 +1,28 @@
 {
   "videos": [
     {
+      "videoId": "LXb72dFD6xM",
+      "title": "VUX MỘT NGÀY LEO RANK VỚI SKIN DEXTRA NỮ HOÀNG TỐC ĐỘ VÀ SINESTREA ĐỊNH VỊ TUYỆT ĐỐI",
+      "title_original": "VUX MỘT NGÀY LEO RANK VỚI SKIN DEXTRA NỮ HOÀNG TỐC ĐỘ VÀ SINESTREA ĐỊNH VỊ TUYỆT ĐỐI",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-10T10:18:28Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/LXb72dFD6xM/maxresdefault.jpg"
+    },
+    {
+      "videoId": "i16svmK_muY",
+      "title": "TIMU QUAY XE: Buff Baron Giảm Hồi Chiêu, Quyết Trở Lại Meta!",
+      "title_original": "TIMU QUAY XE: Buff Baron Giảm Hồi Chiêu, Quyết Trở Lại Meta!",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-10T09:30:10Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/i16svmK_muY/maxresdefault.jpg"
+    },
+    {
       "videoId": "e_Ojh9LJZ0o",
       "title": "Vừa Tạnh Mưa Là ON THE MIC Ngay",
       "title_original": "Vừa Tạnh Mưa Là ON THE MIC Ngay",
@@ -8,7 +30,7 @@
       "country": "VN",
       "lang_original": "vi",
       "source": "youtube",
-      "publishedAt": "2026-08-10T06:40:39Z",
+      "publishedAt": "2026-08-10T09:08:46Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/e_Ojh9LJZ0o/maxresdefault.jpg"
     },
     {
@@ -2177,28 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-07-27T04:30:39Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/OuAZbQ-lkNc/maxresdefault.jpg"
-    },
-    {
-      "videoId": "5nQUwVFFJ_E",
-      "title": "Veera x Momo Skin Spotlight - Garena AOV Indonesia #ArenaofValor #DANDADAN",
-      "title_original": "Veera x Momo Skin Spotlight - Garena AOV Indonesia #ArenaofValor #DANDADAN",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-27T04:30:26Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/5nQUwVFFJ_E/maxresdefault.jpg"
-    },
-    {
-      "videoId": "o_VqYOWpZNk",
-      "title": "SKIN Spotlight | Veera x Momo",
-      "title_original": "SKIN Spotlight | Veera x Momo",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-27T04:30:19Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/o_VqYOWpZNk/maxresdefault.jpg"
     }
   ]
 }
