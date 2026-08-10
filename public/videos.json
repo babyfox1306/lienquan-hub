@@ -1,6 +1,28 @@
 {
   "videos": [
     {
+      "videoId": "DWQnzueW3Rc",
+      "title": "team 5 Leo 40 Sao",
+      "title_original": "team 5 Leo 40 Sao",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-10T15:19:32Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/DWQnzueW3Rc/maxresdefault.jpg"
+    },
+    {
+      "videoId": "YJUO7kkRcKA",
+      "title": "Leo Top 10 Thách Đấu ( Day 12 )",
+      "title_original": "Leo Top 10 Thách Đấu ( Day 12 )",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-10T15:02:10Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/YJUO7kkRcKA/maxresdefault.jpg"
+    },
+    {
       "videoId": "vDemnHgLHr4",
       "title": "AOGW26 | THANK YOU & FARAWELL KHƯU \"GRAY\" KHẮC BÌNH KHÁNH",
       "title_original": "AOGW26 | THANK YOU & FARAWELL KHƯU \"GRAY\" KHẮC BÌNH KHÁNH",
@@ -2177,28 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-07-27T12:00:26Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/S90lkBZkeZM/maxresdefault.jpg"
-    },
-    {
-      "videoId": "_tF8TG_YvfU",
-      "title": "💥 INGAME TRAILER | SỔ SỨ MỆNH 92: KHẾ ƯỚC HUYẾT TẾ ♨️",
-      "title_original": "💥 INGAME TRAILER | SỔ SỨ MỆNH 92: KHẾ ƯỚC HUYẾT TẾ ♨️",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-27T12:00:22Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/_tF8TG_YvfU/maxresdefault.jpg"
-    },
-    {
-      "videoId": "tP-IBBgw4L0",
-      "title": "Dame Của Hayate Thứ Nguyên Vệ Thần Lạ Thật",
-      "title_original": "Dame Của Hayate Thứ Nguyên Vệ Thần Lạ Thật",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-27T11:20:41Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/tP-IBBgw4L0/maxresdefault.jpg"
     }
   ]
 }
