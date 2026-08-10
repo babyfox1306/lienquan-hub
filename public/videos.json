@@ -1,6 +1,28 @@
 {
   "videos": [
     {
+      "videoId": "frkYen_2YpI",
+      "title": "🎬 HIỆU ỨNG CHIÊU THỨC | DEXTRA NỮ HOÀNG TỐC ĐỘ 💛⚡",
+      "title_original": "🎬 HIỆU ỨNG CHIÊU THỨC | DEXTRA NỮ HOÀNG TỐC ĐỘ 💛⚡",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-10T12:30:27Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/frkYen_2YpI/maxresdefault.jpg"
+    },
+    {
+      "videoId": "0lFs3i1br6w",
+      "title": "Đến Là Đón Đụng Là Zuka Trụng",
+      "title_original": "Đến Là Đón Đụng Là Zuka Trụng",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-10T12:05:58Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/0lFs3i1br6w/maxresdefault.jpg"
+    },
+    {
       "videoId": "IovLhNzIZ3M",
       "title": "OMG! NHÀ CHÍNH CÒN 0.1 MÁU… BUTTERFLY VẪN 1 CÂN 5 LẬT KÈO | Liên Quân",
       "title_original": "OMG! NHÀ CHÍNH CÒN 0.1 MÁU… BUTTERFLY VẪN 1 CÂN 5 LẬT KÈO | Liên Quân",
@@ -2177,28 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-07-27T10:44:38Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/usVnQjgdCnw/maxresdefault.jpg"
-    },
-    {
-      "videoId": "AbH6lqv2vag",
-      "title": "Kary Và Định Nghĩa Múa Flo Gánh Team Lật Kèo Khi Gặp Thế Khó",
-      "title_original": "Kary Và Định Nghĩa Múa Flo Gánh Team Lật Kèo Khi Gặp Thế Khó",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-27T10:33:36Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/AbH6lqv2vag/maxresdefault.jpg"
-    },
-    {
-      "videoId": "A6l08zDhSOw",
-      "title": "VUX ĂN MỪNG CHIẾC CÚP VÔ ĐỊCH SIÊU SAO TOÀN NĂNG 6 BẰNG SKIN HAYATE THỨ NGUYÊN VỆ THẦN",
-      "title_original": "VUX ĂN MỪNG CHIẾC CÚP VÔ ĐỊCH SIÊU SAO TOÀN NĂNG 6 BẰNG SKIN HAYATE THỨ NGUYÊN VỆ THẦN",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-27T10:29:00Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/A6l08zDhSOw/maxresdefault.jpg"
     }
   ]
 }
