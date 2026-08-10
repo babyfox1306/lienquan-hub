@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "e_Ojh9LJZ0o",
+      "title": "Vừa Tạnh Mưa Là ON THE MIC Ngay",
+      "title_original": "Vừa Tạnh Mưa Là ON THE MIC Ngay",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-10T06:40:39Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/e_Ojh9LJZ0o/maxresdefault.jpg"
+    },
+    {
       "videoId": "yt3JXrPzW8U",
       "title": "Liên Quân 20 Sửa BUG Tướng, Skin | 9 Sửa Tướng BUFF và NERF, Game 10 Năm Vẫn Beta (Dự Kiến)",
       "title_original": "Liên Quân 20 Sửa BUG Tướng, Skin | 9 Sửa Tướng BUFF và NERF, Game 10 Năm Vẫn Beta (Dự Kiến)",
@@ -2188,17 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-07-27T04:30:19Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/o_VqYOWpZNk/maxresdefault.jpg"
-    },
-    {
-      "videoId": "7AiTqHfvhF8",
-      "title": "Hiệu ứng chiêu thức | Veera x Momo 💗 Garena Liên Quân Mobile",
-      "title_original": "Hiệu ứng chiêu thức | Veera x Momo 💗 Garena Liên Quân Mobile",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-27T04:30:04Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/7AiTqHfvhF8/maxresdefault.jpg"
     }
   ]
 }

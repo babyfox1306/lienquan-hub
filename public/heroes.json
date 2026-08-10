@@ -1947,7 +1947,7 @@
       "tier": "A",
       "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 1)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/e/e8/Qi_profile.jpg/revision/latest/scale-to-width-down/500?cb=20200531224545",
       "related_videos": [
         "2xTCaDOA_aU"
@@ -4628,17 +4628,16 @@
       "counters": [],
       "synergies": [],
       "tier": "B",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 0)",
+      "tier_reason": "Xuất hiện 3 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
-      "hot_count": 2,
+      "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/3/35/Veera_profile.png/revision/latest/scale-to-width-down/500?cb=20170525133701",
       "related_videos": [
         "l0chGECA1jE",
         "NWw2ivyJ8zg",
         "yNTr57W_Oc4",
         "5nQUwVFFJ_E",
-        "o_VqYOWpZNk",
-        "7AiTqHfvhF8"
+        "o_VqYOWpZNk"
       ]
     },
     {
@@ -4963,5 +4962,5 @@
       ]
     }
   ],
-  "updated_at": "2026-08-10T06:19:13Z"
+  "updated_at": "2026-08-10T08:47:55Z"
 }
