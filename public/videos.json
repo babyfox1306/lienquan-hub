@@ -1,6 +1,28 @@
 {
   "videos": [
     {
+      "videoId": "vDemnHgLHr4",
+      "title": "AOGW26 | THANK YOU & FARAWELL KHƯU \"GRAY\" KHẮC BÌNH KHÁNH",
+      "title_original": "AOGW26 | THANK YOU & FARAWELL KHƯU \"GRAY\" KHẮC BÌNH KHÁNH",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-10T14:37:23Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/vDemnHgLHr4/maxresdefault.jpg"
+    },
+    {
+      "videoId": "g_HN4H7B8Is",
+      "title": "Nãy Nằm Mơ Thấy Tối Nay Live Hơn 1000 Người Xem Ở Youtube",
+      "title_original": "Nãy Nằm Mơ Thấy Tối Nay Live Hơn 1000 Người Xem Ở Youtube",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-10T13:21:18Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/g_HN4H7B8Is/maxresdefault.jpg"
+    },
+    {
       "videoId": "frkYen_2YpI",
       "title": "🎬 HIỆU ỨNG CHIÊU THỨC | DEXTRA NỮ HOÀNG TỐC ĐỘ 💛⚡",
       "title_original": "🎬 HIỆU ỨNG CHIÊU THỨC | DEXTRA NỮ HOÀNG TỐC ĐỘ 💛⚡",
@@ -164,6 +186,17 @@
       "source": "youtube",
       "publishedAt": "2026-08-09T13:30:07Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/e_n8Y46BP0s/maxresdefault.jpg"
+    },
+    {
+      "videoId": "nq0h0ZmAE6g",
+      "title": "Gildur JiJi Là Một Skin Bẩn Bựa ?",
+      "title_original": "Gildur JiJi Là Một Skin Bẩn Bựa ?",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-09T12:00:08Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/nq0h0ZmAE6g/maxresdefault.jpg"
     },
     {
       "videoId": "SUy5zY6OCvg",
@@ -2166,39 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-07-27T11:20:41Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/tP-IBBgw4L0/maxresdefault.jpg"
-    },
-    {
-      "videoId": "hAG0i0W6IT4",
-      "title": "Hayate Thứ Nguyên Vệ Thần Là Một Skin Tệ Hại ?",
-      "title_original": "Hayate Thứ Nguyên Vệ Thần Là Một Skin Tệ Hại ?",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-27T11:00:50Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/hAG0i0W6IT4/maxresdefault.jpg"
-    },
-    {
-      "videoId": "zp9YDX7fA58",
-      "title": "SHOWMATCH BỐC SAO CŨNG TRÚNG | NGÀY HỘI LIÊN QUÂN 🎴",
-      "title_original": "SHOWMATCH BỐC SAO CŨNG TRÚNG | NGÀY HỘI LIÊN QUÂN 🎴",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-27T10:58:46Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/zp9YDX7fA58/maxresdefault.jpg"
-    },
-    {
-      "videoId": "usVnQjgdCnw",
-      "title": "PAINE v VOLKATH b CM v Li Game Ny, Game Th Lin Qun Sn Th LSR Lili v Val Trong V Vng",
-      "title_original": "PAINE v VOLKATH b CM v Li Game Ny, Game Th Lin Qun Sn Th LSR Lili v Val Trong V Vng",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-27T10:44:38Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/usVnQjgdCnw/maxresdefault.jpg"
     }
   ]
 }

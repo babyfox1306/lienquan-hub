@@ -853,13 +853,14 @@
         "Elsu",
         "Yorn"
       ],
-      "tier": "S",
-      "tier_reason": "Được gán từ dữ liệu hạt giống (Seed S-Tier) do ít video mới (Hot Count: 1)",
+      "tier": "B",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 0)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 2,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/7/71/Gildur_Default.jpg/revision/latest/scale-to-width-down/500?cb=20180327112635",
       "related_videos": [
         "7IY80vT95Ik",
+        "nq0h0ZmAE6g",
         "k-sjqigEwTI"
       ]
     },
@@ -1000,8 +1001,7 @@
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/a/ab/Volkath_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20200531224601",
       "related_videos": [
         "x8PQtgAE7dg",
-        "fBl1ZhkETpw",
-        "usVnQjgdCnw"
+        "fBl1ZhkETpw"
       ]
     },
     {
@@ -4011,9 +4011,7 @@
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/b/b4/Paine_Soul_Elegy.png/revision/latest/scale-to-width-down/500?cb=20220328044802",
-      "related_videos": [
-        "usVnQjgdCnw"
-      ]
+      "related_videos": []
     },
     {
       "id": "preyta",
@@ -4966,5 +4964,5 @@
       ]
     }
   ],
-  "updated_at": "2026-08-10T13:24:50Z"
+  "updated_at": "2026-08-10T15:08:46Z"
 }
