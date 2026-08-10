@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "yt3JXrPzW8U",
+      "title": "Liên Quân 20 Sửa BUG Tướng, Skin | 9 Sửa Tướng BUFF và NERF, Game 10 Năm Vẫn Beta (Dự Kiến)",
+      "title_original": "Liên Quân 20 Sửa BUG Tướng, Skin | 9 Sửa Tướng BUFF và NERF, Game 10 Năm Vẫn Beta (Dự Kiến)",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-10T03:00:16Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/yt3JXrPzW8U/maxresdefault.jpg"
+    },
+    {
       "videoId": "7IY80vT95Ik",
       "title": "Quay skin Gildur Jiji",
       "title_original": "Quay skin Gildur Jiji",
@@ -2188,17 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-07-27T04:30:04Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/7AiTqHfvhF8/maxresdefault.jpg"
-    },
-    {
-      "videoId": "C9nhRhyk6aA",
-      "title": "TOP 5 Tng Solo Lane Mnh Bc Nh Meta S3 2026, TNG",
-      "title_original": "TOP 5 Tng Solo Lane Mnh Bc Nh Meta S3 2026, TNG",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-27T03:17:57Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/C9nhRhyk6aA/maxresdefault.jpg"
     }
   ]
 }
