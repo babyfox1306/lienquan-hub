@@ -1,6 +1,28 @@
 {
   "videos": [
     {
+      "videoId": "EODLo9hTIOI",
+      "title": "🎬 HIỆU ỨNG CHIÊU THỨC | SINESTREA ĐỊNH VỊ TUYỆT ĐỐI 💙🎯",
+      "title_original": "🎬 HIỆU ỨNG CHIÊU THỨC | SINESTREA ĐỊNH VỊ TUYỆT ĐỐI 💙🎯",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-11T11:30:01Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/EODLo9hTIOI/maxresdefault.jpg"
+    },
+    {
+      "videoId": "M8LheBIX5cQ",
+      "title": "VUX HÀNH TRÌNH TỪ ĐỒNG LÊN CHIẾN TƯỚNG HAYATE THỨ NGUYÊN VỆ THẦN LIÊN QUÂN MOBILE",
+      "title_original": "VUX HÀNH TRÌNH TỪ ĐỒNG LÊN CHIẾN TƯỚNG HAYATE THỨ NGUYÊN VỆ THẦN LIÊN QUÂN MOBILE",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-11T11:20:36Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/M8LheBIX5cQ/maxresdefault.jpg"
+    },
+    {
       "videoId": "D5tW2ZXXUZs",
       "title": "B Mt Farm 1000 Vng/Pht Vi Nakroth - Cao Th Khng Mun Bn Bit!",
       "title_original": "B Mt Farm 1000 Vng/Pht Vi Nakroth - Cao Th Khng Mun Bn Bit!",
@@ -2177,28 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-07-28T09:00:04Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/ORg75RkJY_M/maxresdefault.jpg"
-    },
-    {
-      "videoId": "60NV7jfEZ1M",
-      "title": "TOP 5 Tng i Rng Mnh Bc Nh Ti Meta S3 2026, TNG",
-      "title_original": "TOP 5 Tng i Rng Mnh Bc Nh Ti Meta S3 2026, TNG",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-28T03:11:23Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/60NV7jfEZ1M/maxresdefault.jpg"
-    },
-    {
-      "videoId": "XJ_rlWxfHXc",
-      "title": "SKIN Spotlight | Valor Pass 67 - White Angst Marja  & Taara",
-      "title_original": "SKIN Spotlight | Valor Pass 67 - White Angst Marja  & Taara",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-28T03:00:39Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/XJ_rlWxfHXc/maxresdefault.jpg"
     }
   ]
 }
