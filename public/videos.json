@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "JhRcOy0MzZI",
+      "title": "Ngày Đầu Tập Gym Mất 200m",
+      "title_original": "Ngày Đầu Tập Gym Mất 200m",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-11T15:19:54Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/JhRcOy0MzZI/maxresdefault.jpg"
+    },
+    {
       "videoId": "HWNyIKXOQtI",
       "title": "คุยกับทีมแชมป์ eArena แชมป์หญิงทีมแรกการแข่งขัน RoV นานาชาติ APL 2026🏆",
       "title_original": "คุยกับทีมแชมป์ eArena แชมป์หญิงทีมแรกการแข่งขัน RoV นานาชาติ APL 2026🏆",
@@ -2188,17 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-07-28T12:35:32Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/3cVGW8QRqQU/maxresdefault.jpg"
-    },
-    {
-      "videoId": "0CMLmo8Ip4k",
-      "title": "Tôi Búng Tay Quét Sạch Team Bạn",
-      "title_original": "Tôi Búng Tay Quét Sạch Team Bạn",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-28T12:01:06Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/0CMLmo8Ip4k/maxresdefault.jpg"
     }
   ]
 }
