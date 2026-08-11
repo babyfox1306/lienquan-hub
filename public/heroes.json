@@ -48,8 +48,7 @@
         "d5-oHkxo5wI",
         "372JV9AnQ_o",
         "6p8l0TTEj08",
-        "SVylzzHbCT8",
-        "jVtKlk1cQog"
+        "SVylzzHbCT8"
       ]
     },
     {
@@ -1283,8 +1282,7 @@
         "KEb8bGWy2UQ",
         "SWlwPLiThcA",
         "wkOZPoj1tao",
-        "mgRtwFAp30c",
-        "ORg75RkJY_M"
+        "mgRtwFAp30c"
       ]
     },
     {
@@ -1427,8 +1425,7 @@
       "related_videos": [
         "KEb8bGWy2UQ",
         "SWlwPLiThcA",
-        "wkOZPoj1tao",
-        "ORg75RkJY_M"
+        "wkOZPoj1tao"
       ]
     },
     {
@@ -4319,11 +4316,12 @@
       "counters": [],
       "synergies": [],
       "tier": "B",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 0)",
-      "hot": false,
-      "hot_count": 2,
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 3, Score: 0)",
+      "hot": true,
+      "hot_count": 3,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/6/60/Sinestrea_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20220702032816",
       "related_videos": [
+        "XGNTg3Tg1F0",
         "EODLo9hTIOI",
         "LXb72dFD6xM",
         "qRTW6n4uVzQ"
@@ -4965,5 +4963,5 @@
       ]
     }
   ],
-  "updated_at": "2026-08-11T11:53:53Z"
+  "updated_at": "2026-08-11T13:22:14Z"
 }

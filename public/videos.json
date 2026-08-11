@@ -1,6 +1,39 @@
 {
   "videos": [
     {
+      "videoId": "X77RixSKG6c",
+      "title": "🎬 COMIC VIDEO | TÀN HƯƠNG NỞ RỘ🌹 - Garena Liên Quân Mobile",
+      "title_original": "🎬 COMIC VIDEO | TÀN HƯƠNG NỞ RỘ🌹 - Garena Liên Quân Mobile",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-11T12:30:02Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/X77RixSKG6c/maxresdefault.jpg"
+    },
+    {
+      "videoId": "iVPQr4fn6pw",
+      "title": "AOGW26 | Thương gửi các Chớp con, từ Gray...",
+      "title_original": "AOGW26 | Thương gửi các Chớp con, từ Gray...",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-11T12:00:07Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/iVPQr4fn6pw/maxresdefault.jpg"
+    },
+    {
+      "videoId": "XGNTg3Tg1F0",
+      "title": "Sinestrea - อัปเดตสกิล 13 ส.ค. นี้!",
+      "title_original": "Sinestrea - อัปเดตสกิล 13 ส.ค. นี้!",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-11T11:56:48Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/XGNTg3Tg1F0/maxresdefault.jpg"
+    },
+    {
       "videoId": "EODLo9hTIOI",
       "title": "🎬 HIỆU ỨNG CHIÊU THỨC | SINESTREA ĐỊNH VỊ TUYỆT ĐỐI 💙🎯",
       "title_original": "🎬 HIỆU ỨNG CHIÊU THỨC | SINESTREA ĐỊNH VỊ TUYỆT ĐỐI 💙🎯",
@@ -46,8 +79,8 @@
     },
     {
       "videoId": "55WZl98de1g",
-      "title": "Nãy Nằm Mơ Thấy Tối Nay Live Hơn 1000 Người Xem Ở Youtube",
-      "title_original": "Nãy Nằm Mơ Thấy Tối Nay Live Hơn 1000 Người Xem Ở Youtube",
+      "title": "Stream Sớm Off Muộn",
+      "title_original": "Stream Sớm Off Muộn",
       "translated": false,
       "country": "VN",
       "lang_original": "vi",
@@ -2166,39 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-07-28T10:35:46Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/J-Chjx8lyo4/maxresdefault.jpg"
-    },
-    {
-      "videoId": "95YgNNdQPFc",
-      "title": "VUX LEO RANK VỚI BIỆT ĐỘI SSM 92 KHẾ ƯỚC HUYẾT TẾ LIÊN QUÂN MOBILE",
-      "title_original": "VUX LEO RANK VỚI BIỆT ĐỘI SSM 92 KHẾ ƯỚC HUYẾT TẾ LIÊN QUÂN MOBILE",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-28T09:30:50Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/95YgNNdQPFc/maxresdefault.jpg"
-    },
-    {
-      "videoId": "jVtKlk1cQog",
-      "title": "Bữa giờ xuống tay với Nakroth quá",
-      "title_original": "Bữa giờ xuống tay với Nakroth quá",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-28T09:08:01Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/jVtKlk1cQog/maxresdefault.jpg"
-    },
-    {
-      "videoId": "ORg75RkJY_M",
-      "title": "Liên Quân | Mẹo Cày Nhận Thẻ LSR Valhein và Liliana Đổi Quà Skin Siêu Xịn Sự Kiện Sưu Tầm Thẻ",
-      "title_original": "Liên Quân | Mẹo Cày Nhận Thẻ LSR Valhein và Liliana Đổi Quà Skin Siêu Xịn Sự Kiện Sưu Tầm Thẻ",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-28T09:00:04Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/ORg75RkJY_M/maxresdefault.jpg"
     }
   ]
 }
