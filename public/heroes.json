@@ -2128,7 +2128,7 @@
       "tier": "B",
       "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/3/3d/Mganga_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125084158",
       "related_videos": [
         "ttDheIPjBoY"
@@ -3071,8 +3071,7 @@
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/c/c9/D%27Arcy_profile.jpg/revision/latest/scale-to-width-down/500?cb=20200531224258",
       "related_videos": [
         "AOGxbFbjgLY",
-        "EcVI7U8omAI",
-        "J-Chjx8lyo4"
+        "EcVI7U8omAI"
       ]
     },
     {
@@ -4963,5 +4962,5 @@
       ]
     }
   ],
-  "updated_at": "2026-08-11T13:22:14Z"
+  "updated_at": "2026-08-11T15:08:23Z"
 }
