@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "LK20fXo5mGw",
+      "title": "Sai Lầm Duy Nhất Khiến Mọi Nỗ Lực Của Murad Thành Mây Khói Trong 3 Giây!",
+      "title_original": "Sai Lầm Duy Nhất Khiến Mọi Nỗ Lực Của Murad Thành Mây Khói Trong 3 Giây!",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-12T11:10:26Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/LK20fXo5mGw/maxresdefault.jpg"
+    },
+    {
       "videoId": "L-Cb3TUqHpc",
       "title": "《Garena 傳說對決》蘇離英雄故事影片 | 綻放的荼蘼",
       "title_original": "《Garena 傳說對決》蘇離英雄故事影片 | 綻放的荼蘼",
@@ -2188,17 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-07-29T03:00:17Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/hOesgl2MbxQ/maxresdefault.jpg"
-    },
-    {
-      "videoId": "yNTr57W_Oc4",
-      "title": "Liên Quân | Sự Kiện Chat Từ Khóa Nhận Xu Đổi FREE Skin Hợp Tác Veera Momo DanDaDan Bắt Đầu",
-      "title_original": "Liên Quân | Sự Kiện Chat Từ Khóa Nhận Xu Đổi FREE Skin Hợp Tác Veera Momo DanDaDan Bắt Đầu",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-29T02:54:13Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/yNTr57W_Oc4/maxresdefault.jpg"
     }
   ]
 }

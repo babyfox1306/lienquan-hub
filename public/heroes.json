@@ -90,11 +90,12 @@
         "Gildur"
       ],
       "tier": "B",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 3, Score: 0)",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 4, Score: 0)",
       "hot": true,
-      "hot_count": 3,
+      "hot_count": 4,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/5/5e/Murad_Outlaw.png/revision/latest/scale-to-width-down/500?cb=20180317082415",
       "related_videos": [
+        "LK20fXo5mGw",
         "SUy5zY6OCvg",
         "W8ami9or6kI",
         "REFSlk6onao",
@@ -4639,8 +4640,7 @@
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/3/35/Veera_profile.png/revision/latest/scale-to-width-down/500?cb=20170525133701",
       "related_videos": [
         "l0chGECA1jE",
-        "NWw2ivyJ8zg",
-        "yNTr57W_Oc4"
+        "NWw2ivyJ8zg"
       ]
     },
     {
@@ -4966,5 +4966,5 @@
       ]
     }
   ],
-  "updated_at": "2026-08-12T10:16:47Z"
+  "updated_at": "2026-08-12T11:56:56Z"
 }
