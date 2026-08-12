@@ -329,9 +329,9 @@
         "Arthur"
       ],
       "tier": "S",
-      "tier_reason": "Được gán từ dữ liệu hạt giống (Seed S-Tier) do ít video mới (Hot Count: 1)",
+      "tier_reason": "Được gán từ dữ liệu hạt giống (Seed S-Tier) do ít video mới (Hot Count: 0)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/a/a6/Marja_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125052236",
       "related_videos": [
         "CPVQ90_qnVg",
@@ -387,8 +387,7 @@
       "related_videos": [
         "M8LheBIX5cQ",
         "rfgtCUxNFds",
-        "M_5B6YysRz0",
-        "3cVGW8QRqQU"
+        "M_5B6YysRz0"
       ]
     },
     {
@@ -900,11 +899,13 @@
         "Wukong"
       ],
       "tier": "B",
-      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
-      "hot_count": 0,
+      "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/3/3b/Alice_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125083007",
-      "related_videos": []
+      "related_videos": [
+        "3dKk8-Z5-d4"
+      ]
     },
     {
       "id": "jinna",
@@ -1274,7 +1275,7 @@
         "Nakroth"
       ],
       "tier": "B",
-      "tier_reason": "Xuất hiện 4 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện 3 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/d/d4/Liliana_Default.jpg/revision/latest/scale-to-width-down/500?cb=20180331134150",
@@ -3106,11 +3107,12 @@
       "counters": [],
       "synergies": [],
       "tier": "A",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 3, Score: 1)",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 4, Score: 1)",
       "hot": true,
-      "hot_count": 3,
+      "hot_count": 4,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/c/ce/Dextra_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260124110012",
       "related_videos": [
+        "3dKk8-Z5-d4",
         "nTmR38unclE",
         "frkYen_2YpI",
         "LXb72dFD6xM",
@@ -3149,11 +3151,12 @@
       "counters": [],
       "synergies": [],
       "tier": "A",
-      "tier_reason": "Xuất hiện 2 lần trong video/tin tức 14 ngày qua (Score: 1)",
+      "tier_reason": "Xuất hiện 3 lần trong video/tin tức 14 ngày qua (Score: 2)",
       "hot": false,
-      "hot_count": 0,
-      "thumbnail": "https://img.youtube.com/vi/M_5B6YysRz0/maxresdefault.jpg",
+      "hot_count": 1,
+      "thumbnail": "https://img.youtube.com/vi/xyje4rueIxM/maxresdefault.jpg",
       "related_videos": [
+        "xyje4rueIxM",
         "M_5B6YysRz0",
         "fhg2_VdCjsY"
       ]
@@ -4315,11 +4318,12 @@
       "counters": [],
       "synergies": [],
       "tier": "B",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 3, Score: 0)",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 4, Score: 0)",
       "hot": true,
-      "hot_count": 3,
+      "hot_count": 4,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/6/60/Sinestrea_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20220702032816",
       "related_videos": [
+        "hFEN1vSsqbM",
         "XGNTg3Tg1F0",
         "EODLo9hTIOI",
         "LXb72dFD6xM",
@@ -4629,7 +4633,7 @@
       "counters": [],
       "synergies": [],
       "tier": "B",
-      "tier_reason": "Xuất hiện 3 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện 2 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/3/35/Veera_profile.png/revision/latest/scale-to-width-down/500?cb=20170525133701",
@@ -4962,5 +4966,5 @@
       ]
     }
   ],
-  "updated_at": "2026-08-12T06:23:23Z"
+  "updated_at": "2026-08-12T08:27:18Z"
 }
