@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "SRgQdfJv58U",
+      "title": "Tap Gym Ve",
+      "title_original": "Tap Gym Ve",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-12T16:01:16Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/SRgQdfJv58U/maxresdefault.jpg"
+    },
+    {
       "videoId": "-9_RJyHmNSY",
       "title": "Tới Giờ Báo",
       "title_original": "Tới Giờ Báo",
@@ -2188,17 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-07-29T05:00:33Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/Ea2MDqTRuUk/maxresdefault.jpg"
-    },
-    {
-      "videoId": "SVylzzHbCT8",
-      "title": "Lo Cho Bn Thn Mnh Trc i NAKROTH !",
-      "title_original": "Lo Cho Bn Thn Mnh Trc i NAKROTH !",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-29T03:45:09Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/SVylzzHbCT8/maxresdefault.jpg"
     }
   ]
 }
