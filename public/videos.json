@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "-9_RJyHmNSY",
+      "title": "Tới Giờ Báo",
+      "title_original": "Tới Giờ Báo",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-12T13:17:34Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/-9_RJyHmNSY/maxresdefault.jpg"
+    },
+    {
       "videoId": "LK20fXo5mGw",
       "title": "Sai Lầm Duy Nhất Khiến Mọi Nỗ Lực Của Murad Thành Mây Khói Trong 3 Giây!",
       "title_original": "Sai Lầm Duy Nhất Khiến Mọi Nỗ Lực Của Murad Thành Mây Khói Trong 3 Giây!",
@@ -2188,17 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-07-29T03:45:09Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/SVylzzHbCT8/maxresdefault.jpg"
-    },
-    {
-      "videoId": "mgRtwFAp30c",
-      "title": "[Icyfoxx] Hướng dẫn chơi LILIANA chi tiết - cách chơi Liliana hiệu quả nhất | Liên quân mobile",
-      "title_original": "[Icyfoxx] Hướng dẫn chơi LILIANA chi tiết - cách chơi Liliana hiệu quả nhất | Liên quân mobile",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-29T03:10:55Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/mgRtwFAp30c/maxresdefault.jpg"
     }
   ]
 }

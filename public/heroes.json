@@ -39,9 +39,9 @@
         "Krixi"
       ],
       "tier": "B",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 3, Score: 0)",
-      "hot": true,
-      "hot_count": 3,
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 0)",
+      "hot": false,
+      "hot_count": 2,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/3/3f/Nakroth_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20201224121203",
       "related_videos": [
         "D5tW2ZXXUZs",
@@ -1283,8 +1283,7 @@
       "related_videos": [
         "KEb8bGWy2UQ",
         "SWlwPLiThcA",
-        "wkOZPoj1tao",
-        "mgRtwFAp30c"
+        "wkOZPoj1tao"
       ]
     },
     {
@@ -2951,7 +2950,7 @@
       "tier": "B",
       "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/d/d3/Capheny_profile.jpg/revision/latest/scale-to-width-down/500?cb=20200531224240",
       "related_videos": [
         "YkPlbe2V4IQ"
@@ -4966,5 +4965,5 @@
       ]
     }
   ],
-  "updated_at": "2026-08-12T13:25:51Z"
+  "updated_at": "2026-08-12T15:07:32Z"
 }
