@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "L-Cb3TUqHpc",
+      "title": "《Garena 傳說對決》蘇離英雄故事影片 | 綻放的荼蘼",
+      "title_original": "《Garena 傳說對決》蘇離英雄故事影片 | 綻放的荼蘼",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-12T08:46:03Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/L-Cb3TUqHpc/maxresdefault.jpg"
+    },
+    {
       "videoId": "0zbfs5vWYnc",
       "title": "Live Xong Di Tap Gym",
       "title_original": "Live Xong Di Tap Gym",
@@ -8,7 +19,7 @@
       "country": "VN",
       "lang_original": "vi",
       "source": "youtube",
-      "publishedAt": "2026-08-12T05:03:00Z",
+      "publishedAt": "2026-08-12T08:29:46Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/0zbfs5vWYnc/maxresdefault.jpg"
     },
     {
@@ -2188,17 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-07-29T02:54:13Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/yNTr57W_Oc4/maxresdefault.jpg"
-    },
-    {
-      "videoId": "LQJfj95ftOg",
-      "title": "Chào mấy em ruột | Hải Phong 28.07.26",
-      "title_original": "Chào mấy em ruột | Hải Phong 28.07.26",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-28T19:11:05Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/LQJfj95ftOg/maxresdefault.jpg"
     }
   ]
 }
