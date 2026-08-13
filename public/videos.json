@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "FLV_idFEpNc",
+      "title": "Bạn Có Tài Mà HAYATE THỨ NGUYÊN VỆ THẦN",
+      "title_original": "Bạn Có Tài Mà HAYATE THỨ NGUYÊN VỆ THẦN",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-13T12:15:50Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/FLV_idFEpNc/maxresdefault.jpg"
+    },
+    {
       "videoId": "GSwoNm86rzg",
       "title": "CHAMP NGỘ KHỈ \"3 GÕ 1 MẠNG\" VS CELICA ĐỆ TỨ — AI MỚI LÀ CON MỒI?",
       "title_original": "CHAMP NGỘ KHỈ \"3 GÕ 1 MẠNG\" VS CELICA ĐỆ TỨ — AI MỚI LÀ CON MỒI?",
@@ -2188,17 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-07-29T12:00:21Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/NYNyTrMHP8E/maxresdefault.jpg"
-    },
-    {
-      "videoId": "lR8iXUPboew",
-      "title": "Murad Nhưng Luôn Đặt Team Bạn Ở Ngưỡng Máu Tử",
-      "title_original": "Murad Nhưng Luôn Đặt Team Bạn Ở Ngưỡng Máu Tử",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-29T10:58:59Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/lR8iXUPboew/maxresdefault.jpg"
     }
   ]
 }
