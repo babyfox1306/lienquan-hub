@@ -89,9 +89,9 @@
         "Gildur"
       ],
       "tier": "B",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 3, Score: 0)",
-      "hot": true,
-      "hot_count": 3,
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 0)",
+      "hot": false,
+      "hot_count": 2,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/5/5e/Murad_Outlaw.png/revision/latest/scale-to-width-down/500?cb=20180317082415",
       "related_videos": [
         "LK20fXo5mGw",
@@ -4964,5 +4964,5 @@
       ]
     }
   ],
-  "updated_at": "2026-08-13T15:07:38Z"
+  "updated_at": "2026-08-13T17:05:47Z"
 }
