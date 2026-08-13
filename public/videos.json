@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "JwBz9kfOmEU",
+      "title": "Dextra Hóa Con Cưng, Tỷ Lệ Pick Tăng Vọt...Timi Buff, Gà Tặng Cặp Skin Free",
+      "title_original": "Dextra Hóa Con Cưng, Tỷ Lệ Pick Tăng Vọt...Timi Buff, Gà Tặng Cặp Skin Free",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-13T09:52:23Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/JwBz9kfOmEU/maxresdefault.jpg"
+    },
+    {
       "videoId": "AOBaCpBL77o",
       "title": "Thang Moi Vui Ve A",
       "title_original": "Thang Moi Vui Ve A",
@@ -2188,17 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-07-29T09:01:14Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/naFnGDpD8j0/maxresdefault.jpg"
-    },
-    {
-      "videoId": "umiC4rqNZ4Y",
-      "title": "Liên Quân | Trưa Nay Lên 20 Sao Là Đẹp",
-      "title_original": "Liên Quân | Trưa Nay Lên 20 Sao Là Đẹp",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-29T08:16:56Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/umiC4rqNZ4Y/maxresdefault.jpg"
     }
   ]
 }
