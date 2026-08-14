@@ -992,10 +992,10 @@
         "Xeniel",
         "Alice"
       ],
-      "tier": "C",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: -1)",
+      "tier": "S",
+      "tier_reason": "Được gán từ dữ liệu hạt giống (Seed S-Tier) do ít video mới (Hot Count: 1)",
       "hot": false,
-      "hot_count": 2,
+      "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/a/ab/Volkath_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20200531224601",
       "related_videos": [
         "x8PQtgAE7dg",
@@ -1280,8 +1280,7 @@
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/d/d4/Liliana_Default.jpg/revision/latest/scale-to-width-down/500?cb=20180331134150",
       "related_videos": [
-        "KEb8bGWy2UQ",
-        "SWlwPLiThcA"
+        "KEb8bGWy2UQ"
       ]
     },
     {
@@ -1422,8 +1421,7 @@
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/f/f0/Valhein_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260124103241",
       "related_videos": [
-        "KEb8bGWy2UQ",
-        "SWlwPLiThcA"
+        "KEb8bGWy2UQ"
       ]
     },
     {
@@ -1561,7 +1559,7 @@
         "Liliana"
       ],
       "tier": "B",
-      "tier_reason": "Xuất hiện 2 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/b/b4/Omen_profile.png/revision/latest/scale-to-width-down/500?cb=20180305143916",
@@ -2075,8 +2073,8 @@
         "Grakk",
         "Thane"
       ],
-      "tier": "A",
-      "tier_reason": "Xuất hiện 2 lần trong video/tin tức 14 ngày qua (Score: 1)",
+      "tier": "B",
+      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/e/e1/Natalya.png/revision/latest?cb=20210109153000",
@@ -4966,5 +4964,5 @@
       ]
     }
   ],
-  "updated_at": "2026-08-14T10:13:55Z"
+  "updated_at": "2026-08-14T11:54:07Z"
 }
