@@ -39,11 +39,12 @@
         "Krixi"
       ],
       "tier": "B",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 0)",
-      "hot": false,
-      "hot_count": 2,
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 3, Score: 0)",
+      "hot": true,
+      "hot_count": 3,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/3/3f/Nakroth_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20201224121203",
       "related_videos": [
+        "IWGoWoNd-6g",
         "D5tW2ZXXUZs",
         "d5-oHkxo5wI",
         "372JV9AnQ_o",
@@ -2397,11 +2398,13 @@
       "counters": [],
       "synergies": [],
       "tier": "B",
-      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
-      "hot_count": 0,
+      "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/d/d9/Airi_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20210809013024",
-      "related_videos": []
+      "related_videos": [
+        "l6QQ0GNWeWo"
+      ]
     },
     {
       "id": "aleister",
@@ -2670,7 +2673,7 @@
       "tier": "C",
       "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: -1)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/a/ad/Azzen%27Ka_profile.png/revision/latest/scale-to-width-down/500?cb=20220327081848",
       "related_videos": [
         "W6qxgT3HZM4"
@@ -4964,5 +4967,5 @@
       ]
     }
   ],
-  "updated_at": "2026-08-14T06:23:13Z"
+  "updated_at": "2026-08-14T08:25:09Z"
 }
