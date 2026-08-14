@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "GzHO5BgNCig",
+      "title": "Team 5 Giai Tri",
+      "title_original": "Team 5 Giai Tri",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-14T16:13:38Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/GzHO5BgNCig/maxresdefault.jpg"
+    },
+    {
       "videoId": "KIaWAfgbG5o",
       "title": "Rank Thách Đấu Top 36 With Jiro + Mye",
       "title_original": "Rank Thách Đấu Top 36 With Jiro + Mye",
@@ -2188,17 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-07-30T07:31:50Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/rJ_OXjQ3RZk/maxresdefault.jpg"
-    },
-    {
-      "videoId": "M_5B6YysRz0",
-      "title": "ĐIÊU THUYỀN và HAYATE chung trận - skin SSS+ TỐI THƯỢNG nào bùng nổ hơn",
-      "title_original": "ĐIÊU THUYỀN và HAYATE chung trận - skin SSS+ TỐI THƯỢNG nào bùng nổ hơn",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-30T05:42:36Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/M_5B6YysRz0/maxresdefault.jpg"
     }
   ]
 }
