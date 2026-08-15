@@ -81,11 +81,6 @@
       "type": "channel"
     },
     {
-      "id": "UCYfv7UcC1KOsvMD3BVVwoLg",
-      "name": "Esports - Garena Liên Quân Mobile",
-      "type": "channel"
-    },
-    {
       "id": "UC1Gvx0tvS1_WyFmEH-G_2TA",
       "name": "Team Flash Liên Quân Mobile",
       "type": "channel"
@@ -93,6 +88,11 @@
     {
       "id": "UCgbMglNu16CgtxKRg3LrpjQ",
       "name": "CBNN Liên Quân Mobile",
+      "type": "channel"
+    },
+    {
+      "id": "UC92yhXD5hj0xvDbUj3d9aJw",
+      "name": "Liên Quân Mobile - Topic",
       "type": "channel"
     },
     {

@@ -1,6 +1,39 @@
 {
   "videos": [
     {
+      "videoId": "ufSlbqAQiZM",
+      "title": "Leo Top 10 Thách Đấu ( Day 14 )",
+      "title_original": "Leo Top 10 Thách Đấu ( Day 14 )",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-15T15:14:18Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/ufSlbqAQiZM/maxresdefault.jpg"
+    },
+    {
+      "videoId": "bmIdZRRH4Mg",
+      "title": "【預告片】玖壹壹合作主題曲「逆風」-  GCS 2026 夏季賽 MV Teaser《Garena傳說對決》",
+      "title_original": "【預告片】玖壹壹合作主題曲「逆風」-  GCS 2026 夏季賽 MV Teaser《Garena傳說對決》",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-15T15:07:41Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/bmIdZRRH4Mg/maxresdefault.jpg"
+    },
+    {
+      "videoId": "rYPGYrss3eg",
+      "title": "💀LIVE : ตีป้อม RoV ณ บ้านผี สถานที่จริง ชิงรางวัล!!",
+      "title_original": "💀LIVE : ตีป้อม RoV ณ บ้านผี สถานที่จริง ชิงรางวัล!!",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-15T14:50:13Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/rYPGYrss3eg/maxresdefault.jpg"
+    },
+    {
       "videoId": "XC-gJ-Acs7w",
       "title": "1 TRẢM = FULL MÁU? THANE Sau Buff BẤT TỬ Thật Rồi",
       "title_original": "1 TRẢM = FULL MÁU? THANE Sau Buff BẤT TỬ Thật Rồi",
@@ -21,17 +54,6 @@
       "source": "youtube",
       "publishedAt": "2026-08-15T12:38:32Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/3c0M0n1-bbQ/maxresdefault.jpg"
-    },
-    {
-      "videoId": "rYPGYrss3eg",
-      "title": "💀LIVE : ตีป้อม RoV ณ บ้านผี สถานที่จริง ชิงรางวัล!!",
-      "title_original": "💀LIVE : ตีป้อม RoV ณ บ้านผี สถานที่จริง ชิงรางวัล!!",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-08-15T11:54:49Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/rYPGYrss3eg/maxresdefault.jpg"
     },
     {
       "videoId": "zRCpwNEAdfY",
@@ -2177,28 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-07-31T10:02:57Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/f6tHAcZw__A/maxresdefault.jpg"
-    },
-    {
-      "videoId": "Dpuf8I_KiZY",
-      "title": "Icy fox chơi tất cả skin NATALYA | Nguyệt Ảnh Kiếm Tiên có xứng đáng top 1 không?",
-      "title_original": "Icy fox chơi tất cả skin NATALYA | Nguyệt Ảnh Kiếm Tiên có xứng đáng top 1 không?",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-31T09:43:38Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/Dpuf8I_KiZY/maxresdefault.jpg"
-    },
-    {
-      "videoId": "4K0L9jy76Gw",
-      "title": "Liên Quân | Tui Muốn Lên Cao Thủ Trưa Nay",
-      "title_original": "Liên Quân | Tui Muốn Lên Cao Thủ Trưa Nay",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-31T08:33:03Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/4K0L9jy76Gw/maxresdefault.jpg"
     }
   ]
 }
