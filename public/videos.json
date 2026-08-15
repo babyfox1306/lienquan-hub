@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "-CMhiQ_ts_A",
+      "title": "TOP 5 Tướng Siêu Phế Trên Giấy, Đừng Tin Tỷ Lệ Thắng Thấp Cú Lừa đấy",
+      "title_original": "TOP 5 Tướng Siêu Phế Trên Giấy, Đừng Tin Tỷ Lệ Thắng Thấp Cú Lừa đấy",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-15T03:00:39Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/-CMhiQ_ts_A/maxresdefault.jpg"
+    },
+    {
       "videoId": "KIaWAfgbG5o",
       "title": "Rank Thách Đấu Top 36 With Jiro + Mye",
       "title_original": "Rank Thách Đấu Top 36 With Jiro + Mye",
@@ -2188,17 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-07-30T18:13:14Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/f8K1S-wfWZc/maxresdefault.jpg"
-    },
-    {
-      "videoId": "6W2drmw0vS0",
-      "title": "Team 5 auto loss",
-      "title_original": "Team 5 auto loss",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-30T17:35:52Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/6W2drmw0vS0/maxresdefault.jpg"
     }
   ]
 }
