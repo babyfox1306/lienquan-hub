@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "C7WhKZnfrqo",
+      "title": "Team 5 Giai Tri",
+      "title_original": "Team 5 Giai Tri",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-15T16:17:34Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/C7WhKZnfrqo/maxresdefault.jpg"
+    },
+    {
       "videoId": "ufSlbqAQiZM",
       "title": "Leo Top 10 Thách Đấu ( Day 14 )",
       "title_original": "Leo Top 10 Thách Đấu ( Day 14 )",
@@ -2188,17 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-07-31T10:07:53Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/KHBXDZuTYEw/maxresdefault.jpg"
-    },
-    {
-      "videoId": "f6tHAcZw__A",
-      "title": "VUX MỘT NGÀY LEO RANK VỚI TẤT CẢ SKIN OMEN TRÙM SOLO TRONG LIÊN QUÂN MOBILE",
-      "title_original": "VUX MỘT NGÀY LEO RANK VỚI TẤT CẢ SKIN OMEN TRÙM SOLO TRONG LIÊN QUÂN MOBILE",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-31T10:02:57Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/f6tHAcZw__A/maxresdefault.jpg"
     }
   ]
 }
