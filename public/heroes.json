@@ -522,12 +522,13 @@
         "Violet",
         "Zata"
       ],
-      "tier": "B",
-      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier": "A",
+      "tier_reason": "Xuất hiện 2 lần trong video/tin tức 14 ngày qua (Score: 1)",
       "hot": false,
-      "hot_count": 0,
+      "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/e/ec/Thane_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125055815",
       "related_videos": [
+        "XC-gJ-Acs7w",
         "hBhRBkGftzg"
       ]
     },
@@ -4969,5 +4970,5 @@
       ]
     }
   ],
-  "updated_at": "2026-08-15T12:52:13Z"
+  "updated_at": "2026-08-15T13:39:03Z"
 }
