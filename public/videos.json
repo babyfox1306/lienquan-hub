@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "zRCpwNEAdfY",
+      "title": "Gà Rán XÓA BARON Cú Sửa Dmg, Timu Liêm, Được Game Thủ Giải Oan",
+      "title_original": "Gà Rán XÓA BARON Cú Sửa Dmg, Timu Liêm, Được Game Thủ Giải Oan",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-15T09:30:13Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/zRCpwNEAdfY/maxresdefault.jpg"
+    },
+    {
       "videoId": "CwI-dX2eb8I",
       "title": "【S14 傳說對決城市賽 x 六都電競】 台南 四強暨總決賽- 2026/08/16 《Garena 傳說對決》",
       "title_original": "【S14 傳說對決城市賽 x 六都電競】 台南 四強暨總決賽- 2026/08/16 《Garena 傳說對決》",
@@ -2188,17 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-07-31T03:24:19Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/ck7LIhaVEhM/maxresdefault.jpg"
-    },
-    {
-      "videoId": "O0C0hsymeUI",
-      "title": "เจาะแผนลับ 🐰eArena ทีมหญิงไทยสยบเจ้าภาพเวียดนามคว้าแชมป์ APL 2026🏆 | RoV Breakdown",
-      "title_original": "เจาะแผนลับ 🐰eArena ทีมหญิงไทยสยบเจ้าภาพเวียดนามคว้าแชมป์ APL 2026🏆 | RoV Breakdown",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-07-31T03:02:37Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/O0C0hsymeUI/maxresdefault.jpg"
     }
   ]
 }
