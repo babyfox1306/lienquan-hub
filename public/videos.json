@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "6fVG-e4BSOY",
+      "title": "Giai tri Ti",
+      "title_original": "Giai tri Ti",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-16T18:22:56Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/6fVG-e4BSOY/maxresdefault.jpg"
+    },
+    {
       "videoId": "OswOD5Tp_Qs",
       "title": "เจาะทุกเรื่อง! ก่อนเปิดลีก RoV Pro League 2026 Winter",
       "title_original": "เจาะทุกเรื่อง! ก่อนเปิดลีก RoV Pro League 2026 Winter",
@@ -10,17 +21,6 @@
       "source": "youtube",
       "publishedAt": "2026-08-16T15:30:13Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/OswOD5Tp_Qs/maxresdefault.jpg"
-    },
-    {
-      "videoId": "6fVG-e4BSOY",
-      "title": "Giai tri Ti",
-      "title_original": "Giai tri Ti",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-08-16T15:08:32Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/6fVG-e4BSOY/maxresdefault.jpg"
     },
     {
       "videoId": "xDjC2GOEQGk",
