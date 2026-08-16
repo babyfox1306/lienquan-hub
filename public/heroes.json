@@ -1137,7 +1137,7 @@
         "Alice"
       ],
       "tier": "B",
-      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/2/2c/Tulen_Splash.jpeg/revision/latest/scale-to-width-down/500?cb=20180102103714",
@@ -2072,7 +2072,7 @@
         "Thane"
       ],
       "tier": "B",
-      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/e/e1/Natalya.png/revision/latest?cb=20210109153000",
@@ -4963,5 +4963,5 @@
       ]
     }
   ],
-  "updated_at": "2026-08-16T07:40:19Z"
+  "updated_at": "2026-08-16T08:40:19Z"
 }
