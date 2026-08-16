@@ -522,11 +522,12 @@
         "Zata"
       ],
       "tier": "A",
-      "tier_reason": "Xuất hiện 2 lần trong video/tin tức 14 ngày qua (Score: 1)",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 2)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 2,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/e/ec/Thane_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125055815",
       "related_videos": [
+        "_V_9Z4M_bbQ",
         "XC-gJ-Acs7w",
         "hBhRBkGftzg"
       ]
@@ -3065,7 +3066,7 @@
       "tier": "B",
       "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/c/c9/D%27Arcy_profile.jpg/revision/latest/scale-to-width-down/500?cb=20200531224258",
       "related_videos": [
         "AOGxbFbjgLY"
@@ -4963,5 +4964,5 @@
       ]
     }
   ],
-  "updated_at": "2026-08-16T09:36:29Z"
+  "updated_at": "2026-08-16T10:33:21Z"
 }
