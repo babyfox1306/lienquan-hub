@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "UQc366Na8tA",
+      "title": "🔴LIVE: Leo Top 1 Thách Đấu 8/16",
+      "title_original": "🔴LIVE: Leo Top 1 Thách Đấu 8/16",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-16T18:54:02Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/UQc366Na8tA/maxresdefault.jpg"
+    },
+    {
       "videoId": "6fVG-e4BSOY",
       "title": "Giai tri Ti",
       "title_original": "Giai tri Ti",
@@ -109,17 +120,6 @@
       "source": "youtube",
       "publishedAt": "2026-08-16T07:08:57Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/vZe4DON-Stk/maxresdefault.jpg"
-    },
-    {
-      "videoId": "UQc366Na8tA",
-      "title": "🔴LIVE: Leo Top 1 Thách Đấu 8/16",
-      "title_original": "🔴LIVE: Leo Top 1 Thách Đấu 8/16",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-08-16T04:36:35Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/UQc366Na8tA/maxresdefault.jpg"
     },
     {
       "videoId": "9shyTsxdGjU",
