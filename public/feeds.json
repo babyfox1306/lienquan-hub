@@ -11,8 +11,8 @@
       "type": "channel"
     },
     {
-      "id": "UCy19QXxbCHh8qVVCbuGk-ig",
-      "name": "Garena RoV Thailand",
+      "id": "UCykFSnImGNa-5DABblw7K-w",
+      "name": "Gcaothu CHANNEL",
       "type": "channel"
     },
     {
@@ -36,11 +36,6 @@
       "type": "channel"
     },
     {
-      "id": "UCeMjhoCCvujpObnt6yeZeNg",
-      "name": "Garena 傳說對決",
-      "type": "channel"
-    },
-    {
       "id": "UCwrzeq94NPsz1EHap9r_9NA",
       "name": "Lai Bâng",
       "type": "channel"
@@ -53,6 +48,11 @@
     {
       "id": "UC55ad8jzcIWCMU-o2CXMEAw",
       "name": "Thầy Giáo Liên Quân",
+      "type": "channel"
+    },
+    {
+      "id": "UC1ysb__ddApp3PlDva5NAVw",
+      "name": "Top 1 Liliana",
       "type": "channel"
     },
     {
@@ -96,8 +96,8 @@
       "type": "channel"
     },
     {
-      "id": "UCaaylrdGhBZov0HKJ8P6KsA",
-      "name": "Garena Liên Quân Mobile",
+      "id": "UCn1vIM_0pyfwcFWsnpCZ7vQ",
+      "name": "M8 Arthur Liên Quân Mobile",
       "type": "channel"
     }
   ],
