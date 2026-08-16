@@ -1,6 +1,28 @@
 {
   "videos": [
     {
+      "videoId": "6fVG-e4BSOY",
+      "title": "Giai tri Ti",
+      "title_original": "Giai tri Ti",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-16T15:08:32Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/6fVG-e4BSOY/maxresdefault.jpg"
+    },
+    {
+      "videoId": "xDjC2GOEQGk",
+      "title": "Leo Top 10 Thách Đấu ( Day 15 )",
+      "title_original": "Leo Top 10 Thách Đấu ( Day 15 )",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-16T15:01:51Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/xDjC2GOEQGk/maxresdefault.jpg"
+    },
+    {
       "videoId": "5CYFpoT3YBk",
       "title": "SKIN Spotlight | Flash Wolves' Heart Florentino",
       "title_original": "SKIN Spotlight | Flash Wolves' Heart Florentino",
@@ -24,8 +46,8 @@
     },
     {
       "videoId": "OswOD5Tp_Qs",
-      "title": "🔴𝐋𝐈𝐕𝐄 เจาะทุกเรื่อง! ก่อนเปิดลีก RoV Pro League 2026 Winter",
-      "title_original": "🔴𝐋𝐈𝐕𝐄 เจาะทุกเรื่อง! ก่อนเปิดลีก RoV Pro League 2026 Winter",
+      "title": "เจาะทุกเรื่อง! ก่อนเปิดลีก RoV Pro League 2026 Winter",
+      "title_original": "เจาะทุกเรื่อง! ก่อนเปิดลีก RoV Pro League 2026 Winter",
       "translated": false,
       "country": "VN",
       "lang_original": "vi",
@@ -2177,28 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-08-01T17:24:21Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/KwUh_VPFxG4/maxresdefault.jpg"
-    },
-    {
-      "videoId": "PvfyMAqlk10",
-      "title": "🔴 TRỰC TIẾP: GEEKAY ESPORTS vs. TEAM NEMESIS | EWC 2026",
-      "title_original": "🔴 TRỰC TIẾP: GEEKAY ESPORTS vs. TEAM NEMESIS | EWC 2026",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-08-01T16:26:34Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/PvfyMAqlk10/maxresdefault.jpg"
-    },
-    {
-      "videoId": "023jECYvcLk",
-      "title": "TRỰC TIẾP: EWC 2026 - GEEKAY ESPORT vs TEAM NEMESIS | LIÊN QUÂN MOBILE x HONOR OF KINGS !",
-      "title_original": "TRỰC TIẾP: EWC 2026 - GEEKAY ESPORT vs TEAM NEMESIS | LIÊN QUÂN MOBILE x HONOR OF KINGS !",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-08-01T16:21:44Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/023jECYvcLk/maxresdefault.jpg"
     }
   ]
 }
