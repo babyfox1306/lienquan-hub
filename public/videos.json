@@ -1,6 +1,28 @@
 {
   "videos": [
     {
+      "videoId": "CwI-dX2eb8I",
+      "title": "【S14 傳說對決城市賽 x 六都電競】 台南 四強暨總決賽- 2026/08/16 《Garena 傳說對決》",
+      "title_original": "【S14 傳說對決城市賽 x 六都電競】 台南 四強暨總決賽- 2026/08/16 《Garena 傳說對決》",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-16T12:17:58Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/CwI-dX2eb8I/maxresdefault.jpg"
+    },
+    {
+      "videoId": "OswOD5Tp_Qs",
+      "title": "🔴𝐋𝐈𝐕𝐄 เจาะทุกเรื่อง! ก่อนเปิดลีก RoV Pro League 2026 Winter",
+      "title_original": "🔴𝐋𝐈𝐕𝐄 เจาะทุกเรื่อง! ก่อนเปิดลีก RoV Pro League 2026 Winter",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-16T09:52:49Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/OswOD5Tp_Qs/maxresdefault.jpg"
+    },
+    {
       "videoId": "_V_9Z4M_bbQ",
       "title": "Gà Rán bị Réo Tên, Sửa Thane ''Sai Biệt'' Sức Mạnh Thực Tế, Timu Liêm Hay Gà Lỗi",
       "title_original": "Gà Rán bị Réo Tên, Sửa Thane ''Sai Biệt'' Sức Mạnh Thực Tế, Timu Liêm Hay Gà Lỗi",
@@ -57,8 +79,8 @@
     },
     {
       "videoId": "UQc366Na8tA",
-      "title": "🔴LIVE: Leo Top 1 Thách Đấu 16.08",
-      "title_original": "🔴LIVE: Leo Top 1 Thách Đấu 16.08",
+      "title": "🔴LIVE: Leo Top 1 Thách Đấu 8/16",
+      "title_original": "🔴LIVE: Leo Top 1 Thách Đấu 8/16",
       "translated": false,
       "country": "VN",
       "lang_original": "vi",
@@ -175,17 +197,6 @@
       "source": "youtube",
       "publishedAt": "2026-08-15T09:30:13Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/zRCpwNEAdfY/maxresdefault.jpg"
-    },
-    {
-      "videoId": "CwI-dX2eb8I",
-      "title": "【S14 傳說對決城市賽 x 六都電競】 台南 四強暨總決賽- 2026/08/16 《Garena 傳說對決》",
-      "title_original": "【S14 傳說對決城市賽 x 六都電競】 台南 四強暨總決賽- 2026/08/16 《Garena 傳說對決》",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-08-15T07:35:33Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/CwI-dX2eb8I/maxresdefault.jpg"
     },
     {
       "videoId": "lXcwICM4sCk",
@@ -2188,17 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-08-01T10:46:22Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/cPU-dJMspAk/maxresdefault.jpg"
-    },
-    {
-      "videoId": "u3kFnQ4mzEw",
-      "title": "BỐP BỐP GẶP NGƯỜI EM SONG SINH THẤT LẠC TRONG BÌNH NGUYÊN VÔ TẬN",
-      "title_original": "BỐP BỐP GẶP NGƯỜI EM SONG SINH THẤT LẠC TRONG BÌNH NGUYÊN VÔ TẬN",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-08-01T10:30:15Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/u3kFnQ4mzEw/maxresdefault.jpg"
     }
   ]
 }

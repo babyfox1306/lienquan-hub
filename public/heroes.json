@@ -89,9 +89,9 @@
         "Gildur"
       ],
       "tier": "A",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 1)",
+      "tier_reason": "Được gán từ dữ liệu hạt giống (Seed A-Tier) do ít video mới (Hot Count: 1)",
       "hot": false,
-      "hot_count": 2,
+      "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/5/5e/Murad_Outlaw.png/revision/latest/scale-to-width-down/500?cb=20180317082415",
       "related_videos": [
         "LK20fXo5mGw",
@@ -140,10 +140,10 @@
         "Krixi",
         "Grakk"
       ],
-      "tier": "C",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: -1)",
+      "tier": "A",
+      "tier_reason": "Được gán từ dữ liệu hạt giống (Seed A-Tier) do ít video mới (Hot Count: 1)",
       "hot": false,
-      "hot_count": 2,
+      "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/2/2a/Zata_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20200617141406",
       "related_videos": [
         "1BCYYHXE09M",
@@ -849,10 +849,10 @@
         "Elsu",
         "Yorn"
       ],
-      "tier": "B",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 0)",
+      "tier": "S",
+      "tier_reason": "Được gán từ dữ liệu hạt giống (Seed S-Tier) do ít video mới (Hot Count: 1)",
       "hot": false,
-      "hot_count": 2,
+      "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/7/71/Gildur_Default.jpg/revision/latest/scale-to-width-down/500?cb=20180327112635",
       "related_videos": [
         "7IY80vT95Ik",
@@ -4964,5 +4964,5 @@
       ]
     }
   ],
-  "updated_at": "2026-08-16T11:29:05Z"
+  "updated_at": "2026-08-16T12:54:04Z"
 }
