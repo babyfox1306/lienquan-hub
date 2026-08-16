@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "xDjC2GOEQGk",
+      "title": "Leo Top 10 Thách Đấu ( Day 15 )",
+      "title_original": "Leo Top 10 Thách Đấu ( Day 15 )",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-16T20:19:12Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/xDjC2GOEQGk/maxresdefault.jpg"
+    },
+    {
       "videoId": "UQc366Na8tA",
       "title": "🔴LIVE: Leo Top 1 Thách Đấu 8/16",
       "title_original": "🔴LIVE: Leo Top 1 Thách Đấu 8/16",
@@ -32,17 +43,6 @@
       "source": "youtube",
       "publishedAt": "2026-08-16T15:30:13Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/OswOD5Tp_Qs/maxresdefault.jpg"
-    },
-    {
-      "videoId": "xDjC2GOEQGk",
-      "title": "Leo Top 10 Thách Đấu ( Day 15 )",
-      "title_original": "Leo Top 10 Thách Đấu ( Day 15 )",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-08-16T15:01:51Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/xDjC2GOEQGk/maxresdefault.jpg"
     },
     {
       "videoId": "5CYFpoT3YBk",
