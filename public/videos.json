@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "BdL9NC9PjAU",
+      "title": "🔴LIVE: Leo Top 1 Thách Đấu 8/17",
+      "title_original": "🔴LIVE: Leo Top 1 Thách Đấu 8/17",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-17T05:31:51Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/BdL9NC9PjAU/maxresdefault.jpg"
+    },
+    {
       "videoId": "fb1sJjlJqLE",
       "title": "TOP 5 Tướng THẦN RỪNG 1THỜI Và Số Phận Hiện Tại Sau 10 Năm Liên Quân Mobile",
       "title_original": "TOP 5 Tướng THẦN RỪNG 1THỜI Và Số Phận Hiện Tại Sau 10 Năm Liên Quân Mobile",
@@ -2188,17 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-08-01T21:56:18Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/HvVV11jYAAQ/maxresdefault.jpg"
-    },
-    {
-      "videoId": "5VWgiUaelKU",
-      "title": "Billow Okarun (mỗm vương)",
-      "title_original": "Billow Okarun (mỗm vương)",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-08-01T17:50:47Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/5VWgiUaelKU/maxresdefault.jpg"
     }
   ]
 }
