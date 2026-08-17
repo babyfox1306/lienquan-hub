@@ -1139,13 +1139,13 @@
         "Grakk",
         "Alice"
       ],
-      "tier": "B",
-      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier": "A",
+      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 1)",
       "hot": false,
-      "hot_count": 0,
+      "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/2/2c/Tulen_Splash.jpeg/revision/latest/scale-to-width-down/500?cb=20180102103714",
       "related_videos": [
-        "vDzr1jMR_-s"
+        "V62DBaJB1DU"
       ]
     },
     {
@@ -2075,9 +2075,7 @@
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/e/e1/Natalya.png/revision/latest?cb=20210109153000",
-      "related_videos": [
-        "vDzr1jMR_-s"
-      ]
+      "related_videos": []
     },
     {
       "id": "mganga",
@@ -4964,5 +4962,5 @@
       ]
     }
   ],
-  "updated_at": "2026-08-17T10:41:35Z"
+  "updated_at": "2026-08-17T11:35:28Z"
 }
