@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "lSQYD_jlkSE",
+      "title": "Chơi và đánh giá tất cả skin KRIXI cùng Icyfoxx - Kimono là điểm sáng | Liên Quân",
+      "title_original": "Chơi và đánh giá tất cả skin KRIXI cùng Icyfoxx - Kimono là điểm sáng | Liên Quân",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-17T08:09:00Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/lSQYD_jlkSE/maxresdefault.jpg"
+    },
+    {
       "videoId": "BdL9NC9PjAU",
       "title": "🔴LIVE: Leo Top 1 Thách Đấu 8/17",
       "title_original": "🔴LIVE: Leo Top 1 Thách Đấu 8/17",
@@ -2188,17 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-08-02T03:00:23Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/xsr1s_7kGTM/maxresdefault.jpg"
-    },
-    {
-      "videoId": "HvVV11jYAAQ",
-      "title": "Quay Skin Billow Okarun",
-      "title_original": "Quay Skin Billow Okarun",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-08-01T21:56:18Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/HvVV11jYAAQ/maxresdefault.jpg"
     }
   ]
 }
