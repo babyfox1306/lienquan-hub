@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "BdL9NC9PjAU",
+      "title": "🔴LIVE: Leo Top 1 Thách Đấu 8/17",
+      "title_original": "🔴LIVE: Leo Top 1 Thách Đấu 8/17",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-17T14:13:39Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/BdL9NC9PjAU/maxresdefault.jpg"
+    },
+    {
       "videoId": "SYDIvPG5G5o",
       "title": "🔴LIVE: Leo Top 1 Thách Đấu 8/17",
       "title_original": "🔴LIVE: Leo Top 1 Thách Đấu 8/17",
@@ -109,17 +120,6 @@
       "source": "youtube",
       "publishedAt": "2026-08-17T08:09:00Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/lSQYD_jlkSE/maxresdefault.jpg"
-    },
-    {
-      "videoId": "BdL9NC9PjAU",
-      "title": "🔴LIVE: Leo Top 1 Thách Đấu 8/17",
-      "title_original": "🔴LIVE: Leo Top 1 Thách Đấu 8/17",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-08-17T05:31:51Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/BdL9NC9PjAU/maxresdefault.jpg"
     },
     {
       "videoId": "fb1sJjlJqLE",
