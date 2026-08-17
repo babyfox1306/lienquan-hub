@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "fb1sJjlJqLE",
+      "title": "TOP 5 Tướng THẦN RỪNG 1THỜI Và Số Phận Hiện Tại Sau 10 Năm Liên Quân Mobile",
+      "title_original": "TOP 5 Tướng THẦN RỪNG 1THỜI Và Số Phận Hiện Tại Sau 10 Năm Liên Quân Mobile",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-17T03:00:33Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/fb1sJjlJqLE/maxresdefault.jpg"
+    },
+    {
       "videoId": "xDjC2GOEQGk",
       "title": "Leo Top 10 Thách Đấu ( Day 15 )",
       "title_original": "Leo Top 10 Thách Đấu ( Day 15 )",
@@ -2188,17 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-08-01T17:50:47Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/5VWgiUaelKU/maxresdefault.jpg"
-    },
-    {
-      "videoId": "KwUh_VPFxG4",
-      "title": "การแข่งขัน KWC: RoV x HoK | Esports World Cup (EWC) รอบ Group Stage วันที่ 1",
-      "title_original": "การแข่งขัน KWC: RoV x HoK | Esports World Cup (EWC) รอบ Group Stage วันที่ 1",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-08-01T17:24:21Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/KwUh_VPFxG4/maxresdefault.jpg"
     }
   ]
 }
