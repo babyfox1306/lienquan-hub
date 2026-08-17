@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "dTCij50R9OM",
+      "title": "Da Giam 1 Can",
+      "title_original": "Da Giam 1 Can",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-17T15:36:15Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/dTCij50R9OM/maxresdefault.jpg"
+    },
+    {
       "videoId": "BdL9NC9PjAU",
       "title": "🔴LIVE: Leo Top 1 Thách Đấu 8/17",
       "title_original": "🔴LIVE: Leo Top 1 Thách Đấu 8/17",
@@ -2188,17 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-08-02T14:23:54Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/IRxjvRTyCos/maxresdefault.jpg"
-    },
-    {
-      "videoId": "LnPlRosqrKk",
-      "title": "ĐẦU GAME CHƠI ÓC CHÓ… 10 PHÚT SAU TRIỆU VÂN 1 TRẢM = 6 MẠNG | Liên Quân",
-      "title_original": "ĐẦU GAME CHƠI ÓC CHÓ… 10 PHÚT SAU TRIỆU VÂN 1 TRẢM = 6 MẠNG | Liên Quân",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-08-02T12:57:30Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/LnPlRosqrKk/maxresdefault.jpg"
     }
   ]
 }
