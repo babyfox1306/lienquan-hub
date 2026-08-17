@@ -856,8 +856,7 @@
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/7/71/Gildur_Default.jpg/revision/latest/scale-to-width-down/500?cb=20180327112635",
       "related_videos": [
         "7IY80vT95Ik",
-        "nq0h0ZmAE6g",
-        "k-sjqigEwTI"
+        "nq0h0ZmAE6g"
       ]
     },
     {
@@ -3100,12 +3099,13 @@
       },
       "counters": [],
       "synergies": [],
-      "tier": "A",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 3, Score: 2)",
+      "tier": "S",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 4, Score: 3)",
       "hot": true,
-      "hot_count": 3,
+      "hot_count": 4,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/c/ce/Dextra_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260124110012",
       "related_videos": [
+        "nmEXLc2Dm9M",
         "JwBz9kfOmEU",
         "3dKk8-Z5-d4",
         "nTmR38unclE",
@@ -4963,5 +4963,5 @@
       ]
     }
   ],
-  "updated_at": "2026-08-17T12:58:13Z"
+  "updated_at": "2026-08-17T13:47:45Z"
 }
