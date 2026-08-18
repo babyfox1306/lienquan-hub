@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "K-g4xMjINfk",
+      "title": "Leo Top 10 Thách Đấu ( Day 16 )",
+      "title_original": "Leo Top 10 Thách Đấu ( Day 16 )",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-18T22:05:02Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/K-g4xMjINfk/maxresdefault.jpg"
+    },
+    {
       "videoId": "wb1CFuc52vM",
       "title": "LỊCH SỬ ĐẤU BUỔI STREAM NÀY CHÓI MẮT QUÁ",
       "title_original": "LỊCH SỬ ĐẤU BUỔI STREAM NÀY CHÓI MẮT QUÁ",
@@ -32,17 +43,6 @@
       "source": "youtube",
       "publishedAt": "2026-08-18T15:23:27Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/5ry2pmDS3cA/maxresdefault.jpg"
-    },
-    {
-      "videoId": "K-g4xMjINfk",
-      "title": "Leo Top 10 Thách Đấu ( Day 16 )",
-      "title_original": "Leo Top 10 Thách Đấu ( Day 16 )",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-08-18T14:27:54Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/K-g4xMjINfk/maxresdefault.jpg"
     },
     {
       "videoId": "zLR9XmHKQLs",
