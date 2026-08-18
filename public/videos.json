@@ -1,6 +1,39 @@
 {
   "videos": [
     {
+      "videoId": "zLR9XmHKQLs",
+      "title": "【主題曲】逆風(玖壹壹)- GCS 2026 夏季賽 Official MV 《Garena傳說對決》",
+      "title_original": "【主題曲】逆風(玖壹壹)- GCS 2026 夏季賽 Official MV 《Garena傳說對決》",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-18T12:04:39Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/zLR9XmHKQLs/maxresdefault.jpg"
+    },
+    {
+      "videoId": "wb1CFuc52vM",
+      "title": "GI BAOS  TI",
+      "title_original": "GI BAOS  TI",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-18T11:42:53Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/wb1CFuc52vM/maxresdefault.jpg"
+    },
+    {
+      "videoId": "NlW5Ot39Lo4",
+      "title": "Liên Quân | Cách Tôi Chơi NAKROTH Khắc Chế RYOMA Trận Này",
+      "title_original": "Liên Quân | Cách Tôi Chơi NAKROTH Khắc Chế RYOMA Trận Này",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-18T11:35:51Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/NlW5Ot39Lo4/maxresdefault.jpg"
+    },
+    {
       "videoId": "pkNGIymzN5c",
       "title": "GÀ RÁN BÁN SKIN PAY TO WIN? Billow Okarun Khiến Đối Thủ Máy Yếu Treo Game Vài Giây!",
       "title_original": "GÀ RÁN BÁN SKIN PAY TO WIN? Billow Okarun Khiến Đối Thủ Máy Yếu Treo Game Vài Giây!",
@@ -2166,39 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-08-03T09:11:15Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/df70M46Z8ko/maxresdefault.jpg"
-    },
-    {
-      "videoId": "vcOCCSiA9MQ",
-      "title": "CHƠI TẤT CẢ SKIN YUE CÙNG ICYFOXX - SKIN BẬC A CŨNG ĐỦ XỊN RỒI",
-      "title_original": "CHƠI TẤT CẢ SKIN YUE CÙNG ICYFOXX - SKIN BẬC A CŨNG ĐỦ XỊN RỒI",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-08-03T06:50:29Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/vcOCCSiA9MQ/maxresdefault.jpg"
-    },
-    {
-      "videoId": "NWw2ivyJ8zg",
-      "title": "Cch khin Flo team bn 0-8 vi Siu phm min ph Veera Momo Dan da Dan",
-      "title_original": "Cch khin Flo team bn 0-8 vi Siu phm min ph Veera Momo Dan da Dan",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-08-03T04:41:26Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/NWw2ivyJ8zg/maxresdefault.jpg"
-    },
-    {
-      "videoId": "5K0YVFYG5B0",
-      "title": "Siêu tóm tắt | Fractures - A Minecraft Movie | Season 1.",
-      "title_original": "Siêu tóm tắt | Fractures - A Minecraft Movie | Season 1.",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-08-03T04:00:00Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/5K0YVFYG5B0/maxresdefault.jpg"
     }
   ]
 }
