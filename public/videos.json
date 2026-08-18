@@ -1,6 +1,28 @@
 {
   "videos": [
     {
+      "videoId": "d3aRNgDpfSk",
+      "title": "An Mung Da Giam Duoc 1 Can",
+      "title_original": "An Mung Da Giam Duoc 1 Can",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-18T07:08:47Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/d3aRNgDpfSk/maxresdefault.jpg"
+    },
+    {
+      "videoId": "GOjKYrWOeVM",
+      "title": "TOP 5 Tướng Khắc Chế YUE, Kèo Meta S3 2026, TNG",
+      "title_original": "TOP 5 Tướng Khắc Chế YUE, Kèo Meta S3 2026, TNG",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-18T03:27:51Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/GOjKYrWOeVM/maxresdefault.jpg"
+    },
+    {
       "videoId": "dTCij50R9OM",
       "title": "Da Giam 1 Can",
       "title_original": "Da Giam 1 Can",
@@ -24,8 +46,8 @@
     },
     {
       "videoId": "SYDIvPG5G5o",
-      "title": "🔴LIVE: Leo Top 1 Thách Đấu 8/17",
-      "title_original": "🔴LIVE: Leo Top 1 Thách Đấu 8/17",
+      "title": "🔴LIVE: Vĩnh Đất Leo Top 1 Thách Đấu 8/18",
+      "title_original": "🔴LIVE: Vĩnh Đất Leo Top 1 Thách Đấu 8/18",
       "translated": false,
       "country": "VN",
       "lang_original": "vi",
@@ -2177,28 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-08-02T19:24:30Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/VWhKNw_L2z4/maxresdefault.jpg"
-    },
-    {
-      "videoId": "2_b-He8TWvk",
-      "title": "การแข่งขัน KWC: RoV x HoK | Esports World Cup (EWC) รอบ Group Stage วันที่ 2",
-      "title_original": "การแข่งขัน KWC: RoV x HoK | Esports World Cup (EWC) รอบ Group Stage วันที่ 2",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-08-02T14:39:57Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/2_b-He8TWvk/maxresdefault.jpg"
-    },
-    {
-      "videoId": "J3EFLjRpfVo",
-      "title": "🔴 TRỰC TIẾP: AG.AL vs BLACKLIST INTERNATIONAL | EWC 2026",
-      "title_original": "🔴 TRỰC TIẾP: AG.AL vs BLACKLIST INTERNATIONAL | EWC 2026",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-08-02T14:39:09Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/J3EFLjRpfVo/maxresdefault.jpg"
     }
   ]
 }

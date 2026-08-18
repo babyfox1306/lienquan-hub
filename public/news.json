@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-08-18T06:56:45.765685",
+  "last_updated": "2026-08-18T07:47:49.095994",
   "total_news": 100,
   "news": [
+    {
+      "id": "33891914cb04",
+      "title": "THÔNG BÁO VỀ VIỆC XỬ LÝ CLIENT KHÔNG CHÍNH THỨC TẠI VIỆT NAM",
+      "link": "https://lienquan.garena.vn/thong-bao-ve-viec-xu-ly-client-khong-chinh-thuc-tai-viet-nam/",
+      "summary": "<p>Trong suốt thời gian qua, đội ngũ vận hành Garena Liên Quân Mobile luôn nỗ lực xây dựng và duy trì một môi trường trò chơi lành mạnh, an toàn và công bằng cho tất [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/thong-bao-ve-viec-xu-ly-client-khong-chinh-thuc-tai-viet-nam/\">THÔNG BÁO VỀ VIỆC XỬ LÝ CLIENT KHÔNG CHÍNH THỨC TẠI VIỆT NAM</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2026/08/ThongBao_860x400.png",
+      "source": "Liên Quân Mobile Official",
+      "source_url": "https://lienquan.garena.vn/rss",
+      "published_at": "2026-08-18T07:02:28Z",
+      "crawled_at": "2026-08-18T07:42:52.136170",
+      "category": "tin tức",
+      "priority": 1
+    },
     {
       "id": "48ac7b5aa941",
       "title": "ĐIỀU CHỈNH GIỮA MÙA PB NGÀY HỘI LIÊN QUÂN – 13.08.2026",
@@ -1286,19 +1299,6 @@
       "source_url": "https://lienquan.garena.vn/rss",
       "published_at": "2026-02-13T10:23:05Z",
       "crawled_at": "2026-02-13T11:10:43.270733",
-      "category": "tướng",
-      "priority": 1
-    },
-    {
-      "id": "de64dc768f73",
-      "title": "MỞ BÁN HỮU HẠN VALHEIN MÃ HÀNH VẠN LÝ",
-      "link": "https://lienquan.garena.vn/mo-ban-huu-han-valhein-ma-hanh-van-ly/",
-      "summary": "<p>Xin chào các Kiện Tướng Hội Đồng xin gửi tới các bạn ưu đãi: Mở bán hữu hạn trang phục VALHEIN MÃ HÀNH VẠN LÝ &#160; &#160; NỘI DUNG VÀ THỜI GIAN Từ ngày 18/02/2026 &#8211; 09/03/2026: [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/mo-ban-huu-han-valhein-ma-hanh-van-ly/\">MỞ BÁN HỮU HẠN VALHEIN MÃ HÀNH VẠN LÝ</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
-      "image_url": null,
-      "source": "Liên Quân Mobile Official",
-      "source_url": "https://lienquan.garena.vn/rss",
-      "published_at": "2026-02-13T07:30:36Z",
-      "crawled_at": "2026-02-13T08:09:10.809657",
       "category": "tướng",
       "priority": 1
     }
