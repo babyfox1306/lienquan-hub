@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "jgFnXBuAjT0",
+      "title": "[Official Teaser] Music Video เปิดตัวการแข่งขัน RoV Pro League 2026 Winter | Timeless Glory",
+      "title_original": "[Official Teaser] Music Video เปิดตัวการแข่งขัน RoV Pro League 2026 Winter | Timeless Glory",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-18T09:11:46Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/jgFnXBuAjT0/maxresdefault.jpg"
+    },
+    {
       "videoId": "d3aRNgDpfSk",
       "title": "An Mung Da Giam Duoc 1 Can",
       "title_original": "An Mung Da Giam Duoc 1 Can",
@@ -2188,17 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-08-03T03:45:45Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/2xTCaDOA_aU/maxresdefault.jpg"
-    },
-    {
-      "videoId": "VWhKNw_L2z4",
-      "title": "Leo Top 10 Thách Đấu ( Day 6 )",
-      "title_original": "Leo Top 10 Thách Đấu ( Day 6 )",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-08-02T19:24:30Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/VWhKNw_L2z4/maxresdefault.jpg"
     }
   ]
 }
