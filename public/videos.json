@@ -1,6 +1,28 @@
 {
   "videos": [
     {
+      "videoId": "wb1CFuc52vM",
+      "title": "LỊCH SỬ ĐẤU BUỔI STREAM NÀY CHÓI MẮT QUÁ",
+      "title_original": "LỊCH SỬ ĐẤU BUỔI STREAM NÀY CHÓI MẮT QUÁ",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-18T17:47:55Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/wb1CFuc52vM/maxresdefault.jpg"
+    },
+    {
+      "videoId": "pNbL76MC7oE",
+      "title": "GI BAOS  TI",
+      "title_original": "GI BAOS  TI",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-18T17:38:13Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/pNbL76MC7oE/maxresdefault.jpg"
+    },
+    {
       "videoId": "5ry2pmDS3cA",
       "title": "Hien Tai 95KG",
       "title_original": "Hien Tai 95KG",
@@ -32,17 +54,6 @@
       "source": "youtube",
       "publishedAt": "2026-08-18T12:04:39Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/zLR9XmHKQLs/maxresdefault.jpg"
-    },
-    {
-      "videoId": "wb1CFuc52vM",
-      "title": "GI BAOS  TI",
-      "title_original": "GI BAOS  TI",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-08-18T11:42:53Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/wb1CFuc52vM/maxresdefault.jpg"
     },
     {
       "videoId": "NlW5Ot39Lo4",
@@ -2188,17 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-08-03T13:46:46Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/96dlVEw5El4/maxresdefault.jpg"
-    },
-    {
-      "videoId": "Zg3iwlopChE",
-      "title": "Trang Phục Mới Đẹp Nhất Của Marja",
-      "title_original": "Trang Phục Mới Đẹp Nhất Của Marja",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-08-03T10:05:08Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/Zg3iwlopChE/maxresdefault.jpg"
     }
   ]
 }
