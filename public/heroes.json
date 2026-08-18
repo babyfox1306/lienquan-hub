@@ -2115,7 +2115,7 @@
         "Toro"
       ],
       "tier": "B",
-      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/3/3d/Mganga_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125084158",
@@ -4960,5 +4960,5 @@
       ]
     }
   ],
-  "updated_at": "2026-08-18T13:52:16Z"
+  "updated_at": "2026-08-18T14:43:32Z"
 }

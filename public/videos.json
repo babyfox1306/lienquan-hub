@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "K-g4xMjINfk",
+      "title": "Leo Top 10 Thách Đấu ( Day 16 )",
+      "title_original": "Leo Top 10 Thách Đấu ( Day 16 )",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-18T14:27:54Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/K-g4xMjINfk/maxresdefault.jpg"
+    },
+    {
       "videoId": "zLR9XmHKQLs",
       "title": "【主題曲】逆風(玖壹壹)- GCS 2026 夏季賽 Official MV 《Garena傳說對決》",
       "title_original": "【主題曲】逆風(玖壹壹)- GCS 2026 夏季賽 Official MV 《Garena傳說對決》",
@@ -2188,17 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-08-03T10:00:29Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/hBhRBkGftzg/maxresdefault.jpg"
-    },
-    {
-      "videoId": "df70M46Z8ko",
-      "title": "Mục Tiêu Trưa Nay là 10 Sao",
-      "title_original": "Mục Tiêu Trưa Nay là 10 Sao",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-08-03T09:11:15Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/df70M46Z8ko/maxresdefault.jpg"
     }
   ]
 }
