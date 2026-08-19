@@ -1,6 +1,28 @@
 {
   "videos": [
     {
+      "videoId": "wKf1FQHAfAU",
+      "title": "XUAN SONNNNNNNNNN",
+      "title_original": "XUAN SONNNNNNNNNN",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-19T15:08:58Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/wKf1FQHAfAU/maxresdefault.jpg"
+    },
+    {
+      "videoId": "dVp9JoQVOg4",
+      "title": "Rank Thách Đấu Top 17",
+      "title_original": "Rank Thách Đấu Top 17",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-19T14:57:02Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/dVp9JoQVOg4/maxresdefault.jpg"
+    },
+    {
       "videoId": "ufm7uic5Tk8",
       "title": "🔴LIVE: Vĩnh Đất Leo Top 1 Thách Đấu 8/19",
       "title_original": "🔴LIVE: Vĩnh Đất Leo Top 1 Thách Đấu 8/19",
@@ -2177,28 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-08-05T10:00:19Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/-YNpU3SKFY4/maxresdefault.jpg"
-    },
-    {
-      "videoId": "3EMFibwTSqs",
-      "title": "Test skin mới của Veera Momo ⚡️⚡️⚡️",
-      "title_original": "Test skin mới của Veera Momo ⚡️⚡️⚡️",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-08-05T09:45:28Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/3EMFibwTSqs/maxresdefault.jpg"
-    },
-    {
-      "videoId": "P8_Ef1Dpny0",
-      "title": "Sắp Lên Chiến Thần (còn 80 sao nữa)",
-      "title_original": "Sắp Lên Chiến Thần (còn 80 sao nữa)",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-08-05T07:23:03Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/P8_Ef1Dpny0/maxresdefault.jpg"
     }
   ]
 }

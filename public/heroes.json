@@ -4643,9 +4643,7 @@
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/3/35/Veera_profile.png/revision/latest/scale-to-width-down/500?cb=20170525133701",
-      "related_videos": [
-        "3EMFibwTSqs"
-      ]
+      "related_videos": []
     },
     {
       "id": "wiro",
@@ -4968,5 +4966,5 @@
       ]
     }
   ],
-  "updated_at": "2026-08-19T14:43:59Z"
+  "updated_at": "2026-08-19T15:41:17Z"
 }
