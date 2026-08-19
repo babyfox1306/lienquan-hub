@@ -284,11 +284,13 @@
         "Tulen"
       ],
       "tier": "A",
-      "tier_reason": "Được gán từ dữ liệu hạt giống (Seed A-Tier) do ít video mới (Hot Count: 0)",
+      "tier_reason": "Được gán từ dữ liệu hạt giống (Seed A-Tier) do ít video mới (Hot Count: 1)",
       "hot": false,
-      "hot_count": 0,
+      "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/5/5a/Yena_profile.jpg/revision/latest/scale-to-width-down/500?cb=20200531224619",
-      "related_videos": []
+      "related_videos": [
+        "PgieRVOZnyw"
+      ]
     },
     {
       "id": "marja",
@@ -897,7 +899,7 @@
       "tier": "B",
       "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/3/3b/Alice_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125083007",
       "related_videos": [
         "3dKk8-Z5-d4"
@@ -3095,9 +3097,9 @@
       "counters": [],
       "synergies": [],
       "tier": "S",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 3, Score: 3)",
-      "hot": true,
-      "hot_count": 3,
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 3)",
+      "hot": false,
+      "hot_count": 2,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/c/ce/Dextra_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260124110012",
       "related_videos": [
         "nmEXLc2Dm9M",
@@ -3142,7 +3144,7 @@
       "tier": "A",
       "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 1)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 0,
       "thumbnail": "https://img.youtube.com/vi/xyje4rueIxM/maxresdefault.jpg",
       "related_videos": [
         "xyje4rueIxM"
@@ -4312,9 +4314,9 @@
       "counters": [],
       "synergies": [],
       "tier": "S",
-      "tier_reason": "Được gán từ dữ liệu hạt giống (Seed S-Tier) do ít video mới (Hot Count: 1)",
+      "tier_reason": "Được gán từ dữ liệu hạt giống (Seed S-Tier) do ít video mới (Hot Count: 0)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/6/60/Sinestrea_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20220702032816",
       "related_videos": [
         "hFEN1vSsqbM",
@@ -4955,5 +4957,5 @@
       ]
     }
   ],
-  "updated_at": "2026-08-19T06:57:27Z"
+  "updated_at": "2026-08-19T07:47:34Z"
 }

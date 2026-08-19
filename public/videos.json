@@ -1,6 +1,50 @@
 {
   "videos": [
     {
+      "videoId": "p7nkqG9Xuxc",
+      "title": "🔴LIVE: Vĩnh Đất Leo Top 1 Thách Đấu 8/19",
+      "title_original": "🔴LIVE: Vĩnh Đất Leo Top 1 Thách Đấu 8/19",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-19T06:34:16Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/p7nkqG9Xuxc/maxresdefault.jpg"
+    },
+    {
+      "videoId": "5ry2pmDS3cA",
+      "title": "Hien Tai 95KG",
+      "title_original": "Hien Tai 95KG",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-19T05:20:34Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/5ry2pmDS3cA/maxresdefault.jpg"
+    },
+    {
+      "videoId": "PgieRVOZnyw",
+      "title": "Vĩnh Đất & Huy Hoàng Đại Chiến Team FPT - Đối Đầu Đỉnh Cao, Lật Kèo Không Tưởng Với Con Bài Yena",
+      "title_original": "Vĩnh Đất & Huy Hoàng Đại Chiến Team FPT - Đối Đầu Đỉnh Cao, Lật Kèo Không Tưởng Với Con Bài Yena",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-19T03:17:47Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/PgieRVOZnyw/maxresdefault.jpg"
+    },
+    {
+      "videoId": "ZLWimUiy_zk",
+      "title": "TOP 5 Tướng Kỹ Năng Thấp, Chấp Luôn Tướng Kỹ Năng Cao Meta S3 2026, TNG",
+      "title_original": "TOP 5 Tướng Kỹ Năng Thấp, Chấp Luôn Tướng Kỹ Năng Cao Meta S3 2026, TNG",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-19T03:05:42Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/ZLWimUiy_zk/maxresdefault.jpg"
+    },
+    {
       "videoId": "K-g4xMjINfk",
       "title": "Leo Top 10 Thách Đấu ( Day 16 )",
       "title_original": "Leo Top 10 Thách Đấu ( Day 16 )",
@@ -32,17 +76,6 @@
       "source": "youtube",
       "publishedAt": "2026-08-18T17:38:13Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/pNbL76MC7oE/maxresdefault.jpg"
-    },
-    {
-      "videoId": "5ry2pmDS3cA",
-      "title": "Hien Tai 95KG",
-      "title_original": "Hien Tai 95KG",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-08-18T15:23:27Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/5ry2pmDS3cA/maxresdefault.jpg"
     },
     {
       "videoId": "zLR9XmHKQLs",
@@ -2166,39 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-08-03T17:56:26Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/EtemCQPHCz8/maxresdefault.jpg"
-    },
-    {
-      "videoId": "P_V0Xgn6pD4",
-      "title": "การแข่งขัน KWC: RoV x HoK | Esports World Cup (EWC) รอบ Group Stage วันที่ 3",
-      "title_original": "การแข่งขัน KWC: RoV x HoK | Esports World Cup (EWC) รอบ Group Stage วันที่ 3",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-08-03T13:59:42Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/P_V0Xgn6pD4/maxresdefault.jpg"
-    },
-    {
-      "videoId": "L50OEfrBRxk",
-      "title": "🔴 TRỰC TIẾP: TEAM NEMESIS vs BOOM ESPORTS | EWC 2026",
-      "title_original": "🔴 TRỰC TIẾP: TEAM NEMESIS vs BOOM ESPORTS | EWC 2026",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-08-03T13:51:04Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/L50OEfrBRxk/maxresdefault.jpg"
-    },
-    {
-      "videoId": "96dlVEw5El4",
-      "title": "TRỰC TIẾP: EWC 2026 - DEEP CROSS GAMING vs BOOM ESPORT | LIÊN QUÂN MOBILE x HONOR OF KINGS",
-      "title_original": "TRỰC TIẾP: EWC 2026 - DEEP CROSS GAMING vs BOOM ESPORT | LIÊN QUÂN MOBILE x HONOR OF KINGS",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-08-03T13:46:46Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/96dlVEw5El4/maxresdefault.jpg"
     }
   ]
 }
