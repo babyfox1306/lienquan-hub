@@ -1,6 +1,28 @@
 {
   "videos": [
     {
+      "videoId": "-zCQdtmdOmE",
+      "title": "VUX THỬ THÁCH LEO CAO THỦ CHỈ VỚI BIỆT ĐỘI DANDADAN GÁNH CẢ ĐỒNG ĐỘI",
+      "title_original": "VUX THỬ THÁCH LEO CAO THỦ CHỈ VỚI BIỆT ĐỘI DANDADAN GÁNH CẢ ĐỒNG ĐỘI",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-19T10:14:48Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/-zCQdtmdOmE/maxresdefault.jpg"
+    },
+    {
+      "videoId": "G2ZEQDYN7qQ",
+      "title": "XÓA NGAY LIÊN QUÂN FAKE Gà Rán Cấm 3 Năm, Quét Sạch Map Sáng Và App Can Thiệp!",
+      "title_original": "XÓA NGAY LIÊN QUÂN FAKE Gà Rán Cấm 3 Năm, Quét Sạch Map Sáng Và App Can Thiệp!",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-19T09:30:25Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/G2ZEQDYN7qQ/maxresdefault.jpg"
+    },
+    {
       "videoId": "pNbL76MC7oE",
       "title": "GI BAOS  TI",
       "title_original": "GI BAOS  TI",
@@ -2177,28 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-08-05T03:00:23Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/CPVQ90_qnVg/maxresdefault.jpg"
-    },
-    {
-      "videoId": "s89yw3L4Wi8",
-      "title": "Leo Top 10 Thách Đấu ( Day 8 )",
-      "title_original": "Leo Top 10 Thách Đấu ( Day 8 )",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-08-05T00:51:55Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/s89yw3L4Wi8/maxresdefault.jpg"
-    },
-    {
-      "videoId": "CCLOrDaRALc",
-      "title": "Nghiem Tuc 40 Sao Moi Off",
-      "title_original": "Nghiem Tuc 40 Sao Moi Off",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-08-04T18:16:06Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/CCLOrDaRALc/maxresdefault.jpg"
     }
   ]
 }
