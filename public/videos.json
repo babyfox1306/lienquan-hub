@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "dVp9JoQVOg4",
+      "title": "Rank Thách Đấu Top 17",
+      "title_original": "Rank Thách Đấu Top 17",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-19T20:10:11Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/dVp9JoQVOg4/maxresdefault.jpg"
+    },
+    {
       "videoId": "wKf1FQHAfAU",
       "title": "XUAN SONNNNNNNNNN",
       "title_original": "XUAN SONNNNNNNNNN",
@@ -10,17 +21,6 @@
       "source": "youtube",
       "publishedAt": "2026-08-19T18:02:11Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/wKf1FQHAfAU/maxresdefault.jpg"
-    },
-    {
-      "videoId": "dVp9JoQVOg4",
-      "title": "Rank Thách Đấu Top 17",
-      "title_original": "Rank Thách Đấu Top 17",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-08-19T14:57:02Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/dVp9JoQVOg4/maxresdefault.jpg"
     },
     {
       "videoId": "9yWt3THrAms",
