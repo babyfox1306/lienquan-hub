@@ -1422,11 +1422,12 @@
         "Thane"
       ],
       "tier": "B",
-      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 0)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 2,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/f/f0/Valhein_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260124103241",
       "related_videos": [
+        "sDXa-wAbevE",
         "pK59Nknz4tg"
       ]
     },
@@ -1895,8 +1896,7 @@
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/3/36/Taara_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20231220020807",
       "related_videos": [
-        "6Dtnr86aYC8",
-        "79wsBR4-nxk"
+        "6Dtnr86aYC8"
       ]
     },
     {
@@ -2951,7 +2951,7 @@
       "counters": [],
       "synergies": [],
       "tier": "B",
-      "tier_reason": "Xuất hiện 2 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
       "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/d/d3/Capheny_profile.jpg/revision/latest/scale-to-width-down/500?cb=20200531224240",
@@ -4968,5 +4968,5 @@
       ]
     }
   ],
-  "updated_at": "2026-08-19T11:34:46Z"
+  "updated_at": "2026-08-19T13:00:56Z"
 }
