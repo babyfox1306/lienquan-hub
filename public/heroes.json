@@ -47,8 +47,7 @@
         "NlW5Ot39Lo4",
         "IWGoWoNd-6g",
         "D5tW2ZXXUZs",
-        "d5-oHkxo5wI",
-        "372JV9AnQ_o"
+        "d5-oHkxo5wI"
       ]
     },
     {
@@ -1048,7 +1047,7 @@
       "tier": "B",
       "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/e/e7/Maloch_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125090603",
       "related_videos": [
         "uvg8vw7WPFg"
@@ -2956,8 +2955,7 @@
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/d/d3/Capheny_profile.jpg/revision/latest/scale-to-width-down/500?cb=20200531224240",
       "related_videos": [
-        "QcfnvASHX18",
-        "YkPlbe2V4IQ"
+        "QcfnvASHX18"
       ]
     },
     {
@@ -3968,12 +3966,13 @@
       },
       "counters": [],
       "synergies": [],
-      "tier": "B",
-      "tier_reason": "Xuất hiện 2 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier": "A",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 1)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 2,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/3/34/Moren_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125052805",
       "related_videos": [
+        "1DfSKm0DvDU",
         "IpJhuVtf3Og",
         "_EjEDbBIKzQ"
       ]
@@ -4876,7 +4875,7 @@
       "tier": "B",
       "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/5/5c/Yorn_1.jpg/revision/latest/scale-to-width-down/500?cb=20171102213743",
       "related_videos": [
         "uvg8vw7WPFg"
@@ -4966,5 +4965,5 @@
       ]
     }
   ],
-  "updated_at": "2026-08-20T06:59:15Z"
+  "updated_at": "2026-08-20T07:50:01Z"
 }
