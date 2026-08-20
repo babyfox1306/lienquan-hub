@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "yCfELMbd404",
+      "title": "🔴LIVE: Vĩnh Đất Leo Top 1 Thách Đấu 8/20",
+      "title_original": "🔴LIVE: Vĩnh Đất Leo Top 1 Thách Đấu 8/20",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-20T07:44:40Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/yCfELMbd404/maxresdefault.jpg"
+    },
+    {
       "videoId": "eesbExx7AxA",
       "title": "GIỜ LEO CHIẾN TƯỚNG CÒN KỊP KHÔNG?",
       "title_original": "GIỜ LEO CHIẾN TƯỚNG CÒN KỊP KHÔNG?",
@@ -2188,17 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-08-05T18:03:33Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/eRKofNCbBW8/maxresdefault.jpg"
-    },
-    {
-      "videoId": "E7LvHhQ3V7k",
-      "title": "TRỰC TIẾP: PLAYOFF EWC 2026 - ROC ESPORTS vs TEAM VITALITY - LIÊN QUÂN MOBILE x HONOR OF KINGS !!!",
-      "title_original": "TRỰC TIẾP: PLAYOFF EWC 2026 - ROC ESPORTS vs TEAM VITALITY - LIÊN QUÂN MOBILE x HONOR OF KINGS !!!",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-08-05T15:19:41Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/E7LvHhQ3V7k/maxresdefault.jpg"
     }
   ]
 }
