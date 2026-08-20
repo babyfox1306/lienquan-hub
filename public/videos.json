@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "NCC7RKlzyJI",
+      "title": "[Official MV] ตำนานเหนือกาลเวลา - RoV x JMNK | RoV Pro League 2026 Winter",
+      "title_original": "[Official MV] ตำนานเหนือกาลเวลา - RoV x JMNK | RoV Pro League 2026 Winter",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-20T12:31:28Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/NCC7RKlzyJI/maxresdefault.jpg"
+    },
+    {
       "videoId": "7XflIRSBg_0",
       "title": "【邀請函】GCS 搶先揭密|傳說十週年登頂計畫《Garena 傳說對決》",
       "title_original": "【邀請函】GCS 搶先揭密|傳說十週年登頂計畫《Garena 傳說對決》",
@@ -2188,17 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-08-06T09:05:06Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/kApijq6ufqs/maxresdefault.jpg"
-    },
-    {
-      "videoId": "QIUnhQDgIv0",
-      "title": "Tem 5 Leo 40 Sao",
-      "title_original": "Tem 5 Leo 40 Sao",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-08-06T06:00:45Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/QIUnhQDgIv0/maxresdefault.jpg"
     }
   ]
 }
