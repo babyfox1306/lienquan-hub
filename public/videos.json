@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "7XflIRSBg_0",
+      "title": "【邀請函】GCS 搶先揭密|傳說十週年登頂計畫《Garena 傳說對決》",
+      "title_original": "【邀請函】GCS 搶先揭密|傳說十週年登頂計畫《Garena 傳說對決》",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-20T11:12:51Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/7XflIRSBg_0/maxresdefault.jpg"
+    },
+    {
       "videoId": "JSTZA2S2Bts",
       "title": "BỐP BỐP CẦM TƯỚNG TỦ YENA HÓA THÀNH ĐIỆP VIÊN 014 CỰC NGẦU",
       "title_original": "BỐP BỐP CẦM TƯỚNG TỦ YENA HÓA THÀNH ĐIỆP VIÊN 014 CỰC NGẦU",
@@ -2188,17 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-08-06T06:00:45Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/QIUnhQDgIv0/maxresdefault.jpg"
-    },
-    {
-      "videoId": "9dWbbl8zcEs",
-      "title": "Chỉnh Sửa ZATA: Nerf Vậy Cánh Cụt Luôn?",
-      "title_original": "Chỉnh Sửa ZATA: Nerf Vậy Cánh Cụt Luôn?",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-08-06T03:00:22Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/9dWbbl8zcEs/maxresdefault.jpg"
     }
   ]
 }
