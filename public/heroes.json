@@ -194,9 +194,7 @@
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/4/40/Violet_Default.jpg/revision/latest/scale-to-width-down/500?cb=20180325101918",
-      "related_videos": [
-        "GQs7YyiW3d0"
-      ]
+      "related_videos": []
     },
     {
       "id": "laville",
@@ -4965,5 +4963,5 @@
       ]
     }
   ],
-  "updated_at": "2026-08-20T13:03:25Z"
+  "updated_at": "2026-08-20T13:57:56Z"
 }
