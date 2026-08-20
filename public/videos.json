@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "fIlxC9odbxo",
+      "title": "🔴LIVE: Vĩnh Đất Leo Top 1 Thách Đấu 8/20",
+      "title_original": "🔴LIVE: Vĩnh Đất Leo Top 1 Thách Đấu 8/20",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-20T19:00:54Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/fIlxC9odbxo/maxresdefault.jpg"
+    },
+    {
       "videoId": "R5QTq5v0HHo",
       "title": "NGÁP DỮ CHÈN",
       "title_original": "NGÁP DỮ CHÈN",
@@ -10,17 +21,6 @@
       "source": "youtube",
       "publishedAt": "2026-08-20T18:13:59Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/R5QTq5v0HHo/maxresdefault.jpg"
-    },
-    {
-      "videoId": "fIlxC9odbxo",
-      "title": "🔴LIVE: Vĩnh Đất Leo Top 1 Thách Đấu 8/20",
-      "title_original": "🔴LIVE: Vĩnh Đất Leo Top 1 Thách Đấu 8/20",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-08-20T13:24:45Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/fIlxC9odbxo/maxresdefault.jpg"
     },
     {
       "videoId": "NCC7RKlzyJI",
