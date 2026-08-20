@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-08-20T03:06:28.636530",
+  "last_updated": "2026-08-20T04:47:10.364280",
   "total_news": 100,
   "news": [
+    {
+      "id": "4f7747bdaefd",
+      "title": "TẠM ĐÓNG TÍNH NĂNG ẢNH THẺ TẢI TRẬN",
+      "link": "https://lienquan.garena.vn/tam-dong-tinh-nang-anh-the-tai-tran/",
+      "summary": "<p>Hội đồng xin thông báo cho việc Tạm đóng tính năng Ảnh Thẻ Tải Trận Hội đồng Liên Quân tạm thời đóng tính năng &#8220;Ảnh thẻ tải trận&#8221; để tiến hành nâng cấp bảo mật [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/tam-dong-tinh-nang-anh-the-tai-tran/\">TẠM ĐÓNG TÍNH NĂNG ẢNH THẺ TẢI TRẬN</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2026/08/image-1787199215836.png",
+      "source": "Liên Quân Mobile Official",
+      "source_url": "https://lienquan.garena.vn/rss",
+      "published_at": "2026-08-20T03:41:37Z",
+      "crawled_at": "2026-08-20T04:42:19.370768",
+      "category": "tin tức",
+      "priority": 1
+    },
     {
       "id": "33891914cb04",
       "title": "THÔNG BÁO VỀ VIỆC XỬ LÝ CLIENT KHÔNG CHÍNH THỨC TẠI VIỆT NAM",
@@ -1286,19 +1299,6 @@
       "source_url": "https://lienquan.garena.vn/rss",
       "published_at": "2026-02-13T11:42:41Z",
       "crawled_at": "2026-02-13T12:03:38.980645",
-      "category": "tướng",
-      "priority": 1
-    },
-    {
-      "id": "cc5001e645dd",
-      "title": "Mở bán hữu hạn trang phục LAURIEL MÃ ĐẰNG CỬU THẾ",
-      "link": "https://lienquan.garena.vn/mo-ban-huu-han-trang-phuc-lauriel-ma-dang-cuu-the/",
-      "summary": "<p>Xin chào các Kiện Tướng Hội Đồng xin gửi tới các bạn ưu đãi: Mở bán hữu hạn trang phục LAURIEL MÃ ĐẰNG CỬU THẾ &#160; &#160; NỘI DUNG VÀ THỜI GIAN Từ ngày 19/02/2026 &#8211; 09/03/2026: [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/mo-ban-huu-han-trang-phuc-lauriel-ma-dang-cuu-the/\">Mở bán hữu hạn trang phục LAURIEL MÃ ĐẰNG CỬU THẾ</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
-      "image_url": null,
-      "source": "Liên Quân Mobile Official",
-      "source_url": "https://lienquan.garena.vn/rss",
-      "published_at": "2026-02-13T10:23:05Z",
-      "crawled_at": "2026-02-13T11:10:43.270733",
       "category": "tướng",
       "priority": 1
     }
