@@ -39,9 +39,9 @@
         "Krixi"
       ],
       "tier": "A",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 3, Score: 1)",
-      "hot": true,
-      "hot_count": 3,
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 1)",
+      "hot": false,
+      "hot_count": 2,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/3/3f/Nakroth_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20201224121203",
       "related_videos": [
         "NlW5Ot39Lo4",
@@ -378,9 +378,9 @@
         "Alice"
       ],
       "tier": "S",
-      "tier_reason": "Được gán từ dữ liệu hạt giống (Seed S-Tier) do ít video mới (Hot Count: 1)",
+      "tier_reason": "Được gán từ dữ liệu hạt giống (Seed S-Tier) do ít video mới (Hot Count: 0)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/1/1f/Hayate_profile.jpg/revision/latest/scale-to-width-down/500?cb=20200531224525",
       "related_videos": [
         "wh6--zX_pPg",
@@ -997,8 +997,7 @@
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/a/ab/Volkath_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20200531224601",
       "related_videos": [
-        "x8PQtgAE7dg",
-        "fBl1ZhkETpw"
+        "x8PQtgAE7dg"
       ]
     },
     {
@@ -2405,6 +2404,7 @@
       "hot_count": 2,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/d/d9/Airi_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20210809013024",
       "related_videos": [
+        "gvjCJc4iRuE",
         "vrjpvhs2gVg",
         "l6QQ0GNWeWo"
       ]
@@ -2673,14 +2673,12 @@
       },
       "counters": [],
       "synergies": [],
-      "tier": "C",
-      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: -1)",
+      "tier": "B",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/a/ad/Azzen%27Ka_profile.png/revision/latest/scale-to-width-down/500?cb=20220327081848",
-      "related_videos": [
-        "W6qxgT3HZM4"
-      ]
+      "related_videos": []
     },
     {
       "id": "bijan",
@@ -4968,5 +4966,5 @@
       ]
     }
   ],
-  "updated_at": "2026-08-21T07:00:22Z"
+  "updated_at": "2026-08-21T07:53:11Z"
 }
