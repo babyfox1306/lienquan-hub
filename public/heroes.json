@@ -1609,13 +1609,11 @@
         "Grakk"
       ],
       "tier": "B",
-      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/d/d2/Ilumia_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125054441",
-      "related_videos": [
-        "k158O2mk9Vs"
-      ]
+      "related_videos": []
     },
     {
       "id": "zip",
@@ -4967,5 +4965,5 @@
       ]
     }
   ],
-  "updated_at": "2026-08-21T15:43:23Z"
+  "updated_at": "2026-08-21T16:44:45Z"
 }
