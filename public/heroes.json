@@ -801,11 +801,12 @@
         "Krixi"
       ],
       "tier": "B",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 0)",
-      "hot": false,
-      "hot_count": 2,
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 3, Score: 0)",
+      "hot": true,
+      "hot_count": 3,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/7/7c/Toro_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125082122",
       "related_videos": [
+        "elJIWvKwIf4",
         "wBxB7r_wvfs",
         "IpJhuVtf3Og"
       ]
@@ -1089,11 +1090,12 @@
         "Grakk"
       ],
       "tier": "A",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 1)",
-      "hot": false,
-      "hot_count": 2,
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 3, Score: 2)",
+      "hot": true,
+      "hot_count": 3,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/c/c4/Krixi_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260124103537",
       "related_videos": [
+        "uCqmN7EVTE4",
         "lSQYD_jlkSE",
         "3c0M0n1-bbQ"
       ]
@@ -2225,7 +2227,7 @@
       "tier": "B",
       "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/f/f9/Arthur_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20221110122653",
       "related_videos": [
         "K_Lw4DqXeIw"
@@ -4971,5 +4973,5 @@
       ]
     }
   ],
-  "updated_at": "2026-08-21T11:36:14Z"
+  "updated_at": "2026-08-21T13:01:57Z"
 }
