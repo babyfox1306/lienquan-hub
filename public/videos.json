@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "9OEpa5dxPiE",
+      "title": "SKIN Spotlight | Formula Glory Dextra (แจกฟรี 22 ส.ค.)",
+      "title_original": "SKIN Spotlight | Formula Glory Dextra (แจกฟรี 22 ส.ค.)",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-21T13:00:39Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/9OEpa5dxPiE/maxresdefault.jpg"
+    },
+    {
       "videoId": "G_I0JRrYyfM",
       "title": "Hôm nay lên 190 Sao 8/21",
       "title_original": "Hôm nay lên 190 Sao 8/21",
@@ -2188,17 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-08-08T04:48:18Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/x8PQtgAE7dg/maxresdefault.jpg"
-    },
-    {
-      "videoId": "tktxT5P5IbM",
-      "title": "Icyfoxx đánh giá tất cả sin Ilumia - khi SS còn xịn hơn SSS",
-      "title_original": "Icyfoxx đánh giá tất cả sin Ilumia - khi SS còn xịn hơn SSS",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-08-08T03:24:39Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/tktxT5P5IbM/maxresdefault.jpg"
     }
   ]
 }

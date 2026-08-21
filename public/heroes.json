@@ -1614,13 +1614,12 @@
         "Grakk"
       ],
       "tier": "B",
-      "tier_reason": "Xuất hiện 2 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/d/d2/Ilumia_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125054441",
       "related_videos": [
-        "k158O2mk9Vs",
-        "tktxT5P5IbM"
+        "k158O2mk9Vs"
       ]
     },
     {
@@ -3112,17 +3111,17 @@
       "counters": [],
       "synergies": [],
       "tier": "S",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 4)",
-      "hot": false,
-      "hot_count": 2,
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 3, Score: 4)",
+      "hot": true,
+      "hot_count": 3,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/c/ce/Dextra_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260124110012",
       "related_videos": [
+        "9OEpa5dxPiE",
         "9yWt3THrAms",
         "nmEXLc2Dm9M",
         "JwBz9kfOmEU",
         "3dKk8-Z5-d4",
-        "nTmR38unclE",
-        "frkYen_2YpI"
+        "nTmR38unclE"
       ]
     },
     {
@@ -4973,5 +4972,5 @@
       ]
     }
   ],
-  "updated_at": "2026-08-21T13:01:57Z"
+  "updated_at": "2026-08-21T13:56:28Z"
 }
