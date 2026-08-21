@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "LwoaY70P0Do",
+      "title": "NÀY THÌ SĨ",
+      "title_original": "NÀY THÌ SĨ",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-21T19:16:41Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/LwoaY70P0Do/maxresdefault.jpg"
+    },
+    {
       "videoId": "Lt8sDVeN_14",
       "title": "GCS 2026 夏季例行賽W1D1-2026/08/22《Garena 傳說對決》",
       "title_original": "GCS 2026 夏季例行賽W1D1-2026/08/22《Garena 傳說對決》",
@@ -10,17 +21,6 @@
       "source": "youtube",
       "publishedAt": "2026-08-21T16:19:29Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/Lt8sDVeN_14/maxresdefault.jpg"
-    },
-    {
-      "videoId": "LwoaY70P0Do",
-      "title": "CHỖ FUHO NAY ĐỔ BÊ TONT NÊN STREAM TRỄ",
-      "title_original": "CHỖ FUHO NAY ĐỔ BÊ TONT NÊN STREAM TRỄ",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-08-21T15:00:39Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/LwoaY70P0Do/maxresdefault.jpg"
     },
     {
       "videoId": "9OEpa5dxPiE",
