@@ -1,6 +1,28 @@
 {
   "videos": [
     {
+      "videoId": "4XhbNQJeI24",
+      "title": "Hôm nay lên 200 Sao 8/21",
+      "title_original": "Hôm nay lên 200 Sao 8/21",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-21T10:16:19Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/4XhbNQJeI24/maxresdefault.jpg"
+    },
+    {
+      "videoId": "ECBWGKwDz48",
+      "title": "Vĩnh Đất Cầm Nakroth Hóa Điên, Gánh FPT Huy Hoàng Lên TOP 1 Thách Đấu Đài ! Cực kỳ mãn nhãn",
+      "title_original": "Vĩnh Đất Cầm Nakroth Hóa Điên, Gánh FPT Huy Hoàng Lên TOP 1 Thách Đấu Đài ! Cực kỳ mãn nhãn",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-21T10:07:29Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/ECBWGKwDz48/maxresdefault.jpg"
+    },
+    {
       "videoId": "Ffb4iXBOR14",
       "title": "Timu XA Dirak 4 Nt V Chim SpotLight Preyta Lm Li K nng | Cng Soi Preyta Rework Ngay",
       "title_original": "Timu XA Dirak 4 Nt V Chim SpotLight Preyta Lm Li K nng | Cng Soi Preyta Rework Ngay",
@@ -21,17 +43,6 @@
       "source": "youtube",
       "publishedAt": "2026-08-21T08:45:39Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/E6sEN62rS-c/maxresdefault.jpg"
-    },
-    {
-      "videoId": "4XhbNQJeI24",
-      "title": "Hôm nay lên 200 Sao 8/21",
-      "title_original": "Hôm nay lên 200 Sao 8/21",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-08-21T06:05:17Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/4XhbNQJeI24/maxresdefault.jpg"
     },
     {
       "videoId": "IXdZaLqNbl0",
@@ -2188,17 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-08-07T13:24:02Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/U9bKnf0YQIs/maxresdefault.jpg"
-    },
-    {
-      "videoId": "z6Y61ZdBZJI",
-      "title": "Red Bull x 傳說對決 10週年限定聯名罐",
-      "title_original": "Red Bull x 傳說對決 10週年限定聯名罐",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-08-07T12:00:37Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/z6Y61ZdBZJI/maxresdefault.jpg"
     }
   ]
 }
