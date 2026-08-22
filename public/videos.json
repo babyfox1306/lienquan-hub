@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "10u0MtQ23dY",
+      "title": "TÔI VÔ TÌNH MỞ CUỘC THI HÁT KHI BẬT DONATE ÂM THANH",
+      "title_original": "TÔI VÔ TÌNH MỞ CUỘC THI HÁT KHI BẬT DONATE ÂM THANH",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-22T11:01:55Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/10u0MtQ23dY/maxresdefault.jpg"
+    },
+    {
       "videoId": "HSBublL3AC4",
       "title": "Hôm Nay Phải Lên Thách Đấu 200 Sao 8/22",
       "title_original": "Hôm Nay Phải Lên Thách Đấu 200 Sao 8/22",
@@ -101,8 +112,8 @@
     },
     {
       "videoId": "Xq19Mkao8DA",
-      "title": "🔴𝐋𝐈𝐕𝐄 เปิดสนามวันแรก RoV Pro League 2026 Winter | รอบเก็บคะแนน Week 1 Day 1",
-      "title_original": "🔴𝐋𝐈𝐕𝐄 เปิดสนามวันแรก RoV Pro League 2026 Winter | รอบเก็บคะแนน Week 1 Day 1",
+      "title": "🔴𝐋𝐈𝐕𝐄 เกมตัดสิน! Godji Check 2 🆚 2 Hydra | เปิดสนามวันแรก RoV Pro League 2026 Winter Week 1 Day 1",
+      "title_original": "🔴𝐋𝐈𝐕𝐄 เกมตัดสิน! Godji Check 2 🆚 2 Hydra | เปิดสนามวันแรก RoV Pro League 2026 Winter Week 1 Day 1",
       "translated": false,
       "country": "VN",
       "lang_original": "vi",
@@ -2188,17 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-08-09T19:31:13Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/81qDAYY63-s/maxresdefault.jpg"
-    },
-    {
-      "videoId": "2vOGpkSwsyg",
-      "title": "TALKSHOW CUỐI: TẠM BIỆT HÂN ĐỪNG -- Buổi STREAM Cuối Cùng Của HƯNG ĐINH Trước Khi Về TRÀ VINH !!!",
-      "title_original": "TALKSHOW CUỐI: TẠM BIỆT HÂN ĐỪNG -- Buổi STREAM Cuối Cùng Của HƯNG ĐINH Trước Khi Về TRÀ VINH !!!",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-08-09T19:26:40Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/2vOGpkSwsyg/maxresdefault.jpg"
     }
   ]
 }
