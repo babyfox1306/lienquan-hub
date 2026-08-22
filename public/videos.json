@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "Lt8sDVeN_14",
+      "title": "GCS 2026 夏季例行賽W1D1-2026/08/22《Garena 傳說對決》",
+      "title_original": "GCS 2026 夏季例行賽W1D1-2026/08/22《Garena 傳說對決》",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-22T13:38:28Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/Lt8sDVeN_14/maxresdefault.jpg"
+    },
+    {
       "videoId": "10u0MtQ23dY",
       "title": "TÔI VÔ TÌNH MỞ CUỘC THI HÁT KHI BẬT DONATE ÂM THANH",
       "title_original": "TÔI VÔ TÌNH MỞ CUỘC THI HÁT KHI BẬT DONATE ÂM THANH",
@@ -120,17 +131,6 @@
       "source": "youtube",
       "publishedAt": "2026-08-21T17:34:26Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/Xq19Mkao8DA/maxresdefault.jpg"
-    },
-    {
-      "videoId": "Lt8sDVeN_14",
-      "title": "GCS 2026 夏季例行賽W1D1-2026/08/22《Garena 傳說對決》",
-      "title_original": "GCS 2026 夏季例行賽W1D1-2026/08/22《Garena 傳說對決》",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-08-21T16:19:29Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/Lt8sDVeN_14/maxresdefault.jpg"
     },
     {
       "videoId": "9OEpa5dxPiE",
