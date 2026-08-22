@@ -853,9 +853,7 @@
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/7/71/Gildur_Default.jpg/revision/latest/scale-to-width-down/500?cb=20180327112635",
-      "related_videos": [
-        "7IY80vT95Ik"
-      ]
+      "related_videos": []
     },
     {
       "id": "alice",
@@ -4970,5 +4968,5 @@
       ]
     }
   ],
-  "updated_at": "2026-08-22T15:31:20Z"
+  "updated_at": "2026-08-22T16:35:15Z"
 }

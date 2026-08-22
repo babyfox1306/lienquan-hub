@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "qzkO_IPHCPk",
+      "title": "GCS 2026 夏季例行賽W1D2-2026/08/23《Garena 傳說對決》",
+      "title_original": "GCS 2026 夏季例行賽W1D2-2026/08/23《Garena 傳說對決》",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-22T15:15:09Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/qzkO_IPHCPk/maxresdefault.jpg"
+    },
+    {
       "videoId": "dweGgYw6c70",
       "title": "Lẩu Thái Tối Nay CAY Và CHUA Quá",
       "title_original": "Lẩu Thái Tối Nay CAY Và CHUA Quá",
@@ -21,6 +32,17 @@
       "source": "youtube",
       "publishedAt": "2026-08-22T13:38:28Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/Lt8sDVeN_14/maxresdefault.jpg"
+    },
+    {
+      "videoId": "FIsGFHUNO0I",
+      "title": "Sắp Lên Chiến Thần",
+      "title_original": "Sắp Lên Chiến Thần",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-22T13:20:29Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/FIsGFHUNO0I/maxresdefault.jpg"
     },
     {
       "videoId": "10u0MtQ23dY",
@@ -134,8 +156,8 @@
     },
     {
       "videoId": "Xq19Mkao8DA",
-      "title": "🔴𝐋𝐈𝐕𝐄 เปิดสนามวันแรก RoV Pro League 2026 Winter | รอบเก็บคะแนน Week 1 Day 1",
-      "title_original": "🔴𝐋𝐈𝐕𝐄 เปิดสนามวันแรก RoV Pro League 2026 Winter | รอบเก็บคะแนน Week 1 Day 1",
+      "title": "เปิดสนามวันแรก RoV Pro League 2026 Winter | รอบเก็บคะแนน Week 1 Day 1",
+      "title_original": "เปิดสนามวันแรก RoV Pro League 2026 Winter | รอบเก็บคะแนน Week 1 Day 1",
       "translated": false,
       "country": "VN",
       "lang_original": "vi",
@@ -2177,28 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-08-10T02:52:25Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/c8JmKKPpQPU/maxresdefault.jpg"
-    },
-    {
-      "videoId": "7IY80vT95Ik",
-      "title": "Quay skin Gildur Jiji",
-      "title_original": "Quay skin Gildur Jiji",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-08-09T23:58:29Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/7IY80vT95Ik/maxresdefault.jpg"
-    },
-    {
-      "videoId": "sbnnMhyTQGE",
-      "title": "TALKSHOW CUỐI: TẠM BIỆT HÂN ĐỪNG -- Buổi STREAM Cuối Cùng Của HƯNG ĐINH Trước Khi Về TRÀ VINH !!!",
-      "title_original": "TALKSHOW CUỐI: TẠM BIỆT HÂN ĐỪNG -- Buổi STREAM Cuối Cùng Của HƯNG ĐINH Trước Khi Về TRÀ VINH !!!",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-08-09T19:39:38Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/sbnnMhyTQGE/maxresdefault.jpg"
     }
   ]
 }
