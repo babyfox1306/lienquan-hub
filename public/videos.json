@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "dweGgYw6c70",
+      "title": "Lẩu Thái Tối Nay CAY Và CHUA Quá",
+      "title_original": "Lẩu Thái Tối Nay CAY Và CHUA Quá",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-22T18:17:32Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/dweGgYw6c70/maxresdefault.jpg"
+    },
+    {
       "videoId": "Xq19Mkao8DA",
       "title": "เปิดสนามวันแรก RoV Pro League 2026 Winter | รอบเก็บคะแนน Week 1 Day 1",
       "title_original": "เปิดสนามวันแรก RoV Pro League 2026 Winter | รอบเก็บคะแนน Week 1 Day 1",
@@ -21,17 +32,6 @@
       "source": "youtube",
       "publishedAt": "2026-08-22T15:15:09Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/qzkO_IPHCPk/maxresdefault.jpg"
-    },
-    {
-      "videoId": "dweGgYw6c70",
-      "title": "Lẩu Thái Tối Nay CAY Và CHUA Quá",
-      "title_original": "Lẩu Thái Tối Nay CAY Và CHUA Quá",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-08-22T15:01:08Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/dweGgYw6c70/maxresdefault.jpg"
     },
     {
       "videoId": "Lt8sDVeN_14",
