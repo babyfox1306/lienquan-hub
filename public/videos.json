@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "dweGgYw6c70",
+      "title": "Lẩu Thái Tối Nay CAY Và CHUA Quá",
+      "title_original": "Lẩu Thái Tối Nay CAY Và CHUA Quá",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-22T15:01:08Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/dweGgYw6c70/maxresdefault.jpg"
+    },
+    {
       "videoId": "Lt8sDVeN_14",
       "title": "GCS 2026 夏季例行賽W1D1-2026/08/22《Garena 傳說對決》",
       "title_original": "GCS 2026 夏季例行賽W1D1-2026/08/22《Garena 傳說對決》",
@@ -123,8 +134,8 @@
     },
     {
       "videoId": "Xq19Mkao8DA",
-      "title": "🔴𝐋𝐈𝐕𝐄 แมตช์เดือด! Tenacity 🆚 Full Sense | เปิดสนามวันแรก RoV Pro League 2026 Winter Week 1 Day 1",
-      "title_original": "🔴𝐋𝐈𝐕𝐄 แมตช์เดือด! Tenacity 🆚 Full Sense | เปิดสนามวันแรก RoV Pro League 2026 Winter Week 1 Day 1",
+      "title": "🔴𝐋𝐈𝐕𝐄 เปิดสนามวันแรก RoV Pro League 2026 Winter | รอบเก็บคะแนน Week 1 Day 1",
+      "title_original": "🔴𝐋𝐈𝐕𝐄 เปิดสนามวันแรก RoV Pro League 2026 Winter | รอบเก็บคะแนน Week 1 Day 1",
       "translated": false,
       "country": "VN",
       "lang_original": "vi",
@@ -2188,17 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-08-09T19:39:38Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/sbnnMhyTQGE/maxresdefault.jpg"
-    },
-    {
-      "videoId": "81qDAYY63-s",
-      "title": "🔴LIVE:  RANK TOP 1 THÁCH ĐẤU | 09.08",
-      "title_original": "🔴LIVE:  RANK TOP 1 THÁCH ĐẤU | 09.08",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-08-09T19:31:13Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/81qDAYY63-s/maxresdefault.jpg"
     }
   ]
 }
