@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "R_QTskwxyv4",
+      "title": "TƯỚNG MỚI EVITA: Kỹ Năng \"Nhà Làm\" Độc Quyền Hay Bản Chắp Vá Từ Chiêu Thức VGVD?",
+      "title_original": "TƯỚNG MỚI EVITA: Kỹ Năng \"Nhà Làm\" Độc Quyền Hay Bản Chắp Vá Từ Chiêu Thức VGVD?",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-22T09:29:38Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/R_QTskwxyv4/maxresdefault.jpg"
+    },
+    {
       "videoId": "qqvXS_4WlnM",
       "title": "RoV x True5G Coin แลกมันส์ ล่าของแรร์",
       "title_original": "RoV x True5G Coin แลกมันส์ ล่าของแรร์",
@@ -79,8 +90,8 @@
     },
     {
       "videoId": "Lt8sDVeN_14",
-      "title": "🔴 LIVE:DCG 🆚 LIT  | GCS 2026 夏季例行賽W1D1-2026/08/22《Garena 傳說對決》",
-      "title_original": "🔴 LIVE:DCG 🆚 LIT  | GCS 2026 夏季例行賽W1D1-2026/08/22《Garena 傳說對決》",
+      "title": "🔴 LIVE:ANK 🆚 HKA | GCS 2026 夏季例行賽W1D1-2026/08/22《Garena 傳說對決》",
+      "title_original": "🔴 LIVE:ANK 🆚 HKA | GCS 2026 夏季例行賽W1D1-2026/08/22《Garena 傳說對決》",
       "translated": false,
       "country": "VN",
       "lang_original": "vi",
@@ -2188,17 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-08-09T11:26:04Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/SUy5zY6OCvg/maxresdefault.jpg"
-    },
-    {
-      "videoId": "PCuqnsF2cDw",
-      "title": "Zata Ca Bng Rt p V N Khng 6",
-      "title_original": "Zata Ca Bng Rt p V N Khng 6",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-08-09T10:30:13Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/PCuqnsF2cDw/maxresdefault.jpg"
     }
   ]
 }
