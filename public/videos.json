@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "qqvXS_4WlnM",
+      "title": "RoV x True5G Coin แลกมันส์ ล่าของแรร์",
+      "title_original": "RoV x True5G Coin แลกมันส์ ล่าของแรร์",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-22T08:00:14Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/qqvXS_4WlnM/maxresdefault.jpg"
+    },
+    {
       "videoId": "sGd2YZ2DIYw",
       "title": "STREAM SỚM TỐI ĐI ĂN LẨU THÁI",
       "title_original": "STREAM SỚM TỐI ĐI ĂN LẨU THÁI",
@@ -8,7 +19,7 @@
       "country": "VN",
       "lang_original": "vi",
       "source": "youtube",
-      "publishedAt": "2026-08-22T03:19:08Z",
+      "publishedAt": "2026-08-22T07:41:28Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/sGd2YZ2DIYw/maxresdefault.jpg"
     },
     {
@@ -57,8 +68,8 @@
     },
     {
       "videoId": "Xq19Mkao8DA",
-      "title": "🔴𝐋𝐈𝐕𝐄 เปิดสนามแมตช์แรก Buriram United Esports 2 🆚 1 King of Gamers Club | RoV Pro League 2026 Winter",
-      "title_original": "🔴𝐋𝐈𝐕𝐄 เปิดสนามแมตช์แรก Buriram United Esports 2 🆚 1 King of Gamers Club | RoV Pro League 2026 Winter",
+      "title": "🔴𝐋𝐈𝐕𝐄 เปิดสนามวันแรก RoV Pro League 2026 Winter | รอบเก็บคะแนน Week 1 Day 1",
+      "title_original": "🔴𝐋𝐈𝐕𝐄 เปิดสนามวันแรก RoV Pro League 2026 Winter | รอบเก็บคะแนน Week 1 Day 1",
       "translated": false,
       "country": "VN",
       "lang_original": "vi",
@@ -2188,17 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-08-09T10:30:13Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/PCuqnsF2cDw/maxresdefault.jpg"
-    },
-    {
-      "videoId": "AOGxbFbjgLY",
-      "title": "Sửa D'Arcy Giảm Độ Khó X2: Cơ Chế Mới \"NỔ CẢM BIẾN\" Auto Trúng Cực Lỗi!",
-      "title_original": "Sửa D'Arcy Giảm Độ Khó X2: Cơ Chế Mới \"NỔ CẢM BIẾN\" Auto Trúng Cực Lỗi!",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-08-09T09:30:12Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/AOGxbFbjgLY/maxresdefault.jpg"
     }
   ]
 }
