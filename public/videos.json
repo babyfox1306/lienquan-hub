@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "HSBublL3AC4",
+      "title": "Hôm Nay Phải Lên Thách Đấu 200 Sao 8/22",
+      "title_original": "Hôm Nay Phải Lên Thách Đấu 200 Sao 8/22",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-22T02:44:35Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/HSBublL3AC4/maxresdefault.jpg"
+    },
+    {
       "videoId": "G_I0JRrYyfM",
       "title": "Hôm nay lên 190 Sao 8/21",
       "title_original": "Hôm nay lên 190 Sao 8/21",
@@ -2188,17 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-08-09T03:00:06Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/zpOvVKBLXJQ/maxresdefault.jpg"
-    },
-    {
-      "videoId": "qO5T7R5e6sM",
-      "title": "Núp bụi bắt chủ lực 1 nhịp bay màu với vị tướng Zephys Hắc Vô Thường ⚡️⚡️⚡️",
-      "title_original": "Núp bụi bắt chủ lực 1 nhịp bay màu với vị tướng Zephys Hắc Vô Thường ⚡️⚡️⚡️",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-08-09T01:08:10Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/qO5T7R5e6sM/maxresdefault.jpg"
     }
   ]
 }

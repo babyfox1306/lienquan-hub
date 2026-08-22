@@ -2169,14 +2169,13 @@
         "Krixi"
       ],
       "tier": "A",
-      "tier_reason": "Xuất hiện 3 lần trong video/tin tức 14 ngày qua (Score: 1)",
+      "tier_reason": "Xuất hiện 2 lần trong video/tin tức 14 ngày qua (Score: 1)",
       "hot": false,
       "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/6/60/Zephys_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125082336",
       "related_videos": [
         "YjdtZsg9S_0",
-        "Von0ZvPT5Ss",
-        "qO5T7R5e6sM"
+        "Von0ZvPT5Ss"
       ]
     },
     {
@@ -4971,5 +4970,5 @@
       ]
     }
   ],
-  "updated_at": "2026-08-22T01:38:59Z"
+  "updated_at": "2026-08-22T03:04:02Z"
 }

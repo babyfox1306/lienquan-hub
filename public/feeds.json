@@ -36,8 +36,8 @@
       "type": "channel"
     },
     {
-      "id": "UCeMjhoCCvujpObnt6yeZeNg",
-      "name": "Garena 傳說對決",
+      "id": "UCwrzeq94NPsz1EHap9r_9NA",
+      "name": "Lai Bâng",
       "type": "channel"
     },
     {
@@ -53,11 +53,6 @@
     {
       "id": "UC1ysb__ddApp3PlDva5NAVw",
       "name": "Top 1 Liliana",
-      "type": "channel"
-    },
-    {
-      "id": "UCfiAa8tWGQkopisvkauLAow",
-      "name": "NMH channel",
       "type": "channel"
     },
     {
@@ -98,6 +93,11 @@
     {
       "id": "UCDaTEZ7p34MZ2E46r_ydJmg",
       "name": "GKL8 HIGHLIGHT LIÊN QUÂN MOBILE",
+      "type": "channel"
+    },
+    {
+      "id": "UCaaylrdGhBZov0HKJ8P6KsA",
+      "name": "Garena Liên Quân Mobile",
       "type": "channel"
     }
   ],
