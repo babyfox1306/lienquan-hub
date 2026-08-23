@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "H6-NDn6WyCg",
+      "title": "Team 5 ngu dung vao",
+      "title_original": "Team 5 ngu dung vao",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-23T16:54:30Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/H6-NDn6WyCg/maxresdefault.jpg"
+    },
+    {
       "videoId": "EVju4se3pJE",
       "title": "การแข่งขัน RoV Pro League 2026 Winter | รอบเก็บคะแนน Week 1 Day 2",
       "title_original": "การแข่งขัน RoV Pro League 2026 Winter | รอบเก็บคะแนน Week 1 Day 2",
@@ -2188,17 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-08-10T14:37:23Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/vDemnHgLHr4/maxresdefault.jpg"
-    },
-    {
-      "videoId": "frkYen_2YpI",
-      "title": "🎬 HIỆU ỨNG CHIÊU THỨC | DEXTRA NỮ HOÀNG TỐC ĐỘ 💛⚡",
-      "title_original": "🎬 HIỆU ỨNG CHIÊU THỨC | DEXTRA NỮ HOÀNG TỐC ĐỘ 💛⚡",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-08-10T12:30:27Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/frkYen_2YpI/maxresdefault.jpg"
     }
   ]
 }
