@@ -799,9 +799,9 @@
         "Krixi"
       ],
       "tier": "B",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 3, Score: 0)",
-      "hot": true,
-      "hot_count": 3,
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 0)",
+      "hot": false,
+      "hot_count": 2,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/7/7c/Toro_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125082122",
       "related_videos": [
         "elJIWvKwIf4",
@@ -3103,17 +3103,17 @@
       "counters": [],
       "synergies": [],
       "tier": "S",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 3, Score: 4)",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 4, Score: 4)",
       "hot": true,
-      "hot_count": 3,
+      "hot_count": 4,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/c/ce/Dextra_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260124110012",
       "related_videos": [
+        "f9Ein91Z0jM",
         "9OEpa5dxPiE",
         "9yWt3THrAms",
         "nmEXLc2Dm9M",
         "JwBz9kfOmEU",
-        "3dKk8-Z5-d4",
-        "nTmR38unclE"
+        "3dKk8-Z5-d4"
       ]
     },
     {
@@ -3962,9 +3962,9 @@
       "counters": [],
       "synergies": [],
       "tier": "A",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 1)",
+      "tier_reason": "Xuất hiện 3 lần trong video/tin tức 14 ngày qua (Score: 1)",
       "hot": false,
-      "hot_count": 2,
+      "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/3/34/Moren_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125052805",
       "related_videos": [
         "1DfSKm0DvDU",
@@ -4320,11 +4320,12 @@
       "counters": [],
       "synergies": [],
       "tier": "S",
-      "tier_reason": "Được gán từ dữ liệu hạt giống (Seed S-Tier) do ít video mới (Hot Count: 0)",
+      "tier_reason": "Được gán từ dữ liệu hạt giống (Seed S-Tier) do ít video mới (Hot Count: 1)",
       "hot": false,
-      "hot_count": 0,
+      "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/6/60/Sinestrea_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20220702032816",
       "related_videos": [
+        "f9Ein91Z0jM",
         "hFEN1vSsqbM",
         "XGNTg3Tg1F0",
         "EODLo9hTIOI",
@@ -4483,11 +4484,13 @@
       "counters": [],
       "synergies": [],
       "tier": "B",
-      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
-      "hot_count": 0,
+      "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/b/b1/Tachi_Splash_Art.jpeg/revision/latest/scale-to-width-down/500?cb=20211002035107",
-      "related_videos": []
+      "related_videos": [
+        "f9Ein91Z0jM"
+      ]
     },
     {
       "id": "teemee",
@@ -4957,9 +4960,9 @@
       "counters": [],
       "synergies": [],
       "tier": "A",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 3, Score: 1)",
-      "hot": true,
-      "hot_count": 3,
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 1)",
+      "hot": false,
+      "hot_count": 2,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/9/9e/Zuka_Splash.png/revision/latest/scale-to-width-down/500?cb=20171204210621",
       "related_videos": [
         "quEUpeewlIk",
@@ -4969,5 +4972,5 @@
       ]
     }
   ],
-  "updated_at": "2026-08-23T03:12:43Z"
+  "updated_at": "2026-08-23T04:47:07Z"
 }
