@@ -138,14 +138,14 @@
         "Krixi",
         "Grakk"
       ],
-      "tier": "A",
-      "tier_reason": "Được gán từ dữ liệu hạt giống (Seed A-Tier) do ít video mới (Hot Count: 1)",
+      "tier": "B",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 0)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 2,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/2/2a/Zata_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20200617141406",
       "related_videos": [
-        "Rdy52i0TD1Q",
-        "1BCYYHXE09M"
+        "pS6cnfq2HR0",
+        "Rdy52i0TD1Q"
       ]
     },
     {
@@ -523,7 +523,7 @@
       "tier": "A",
       "tier_reason": "Xuất hiện 2 lần trong video/tin tức 14 ngày qua (Score: 2)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/e/ec/Thane_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125055815",
       "related_videos": [
         "_V_9Z4M_bbQ",
@@ -4328,8 +4328,7 @@
         "f9Ein91Z0jM",
         "hFEN1vSsqbM",
         "XGNTg3Tg1F0",
-        "EODLo9hTIOI",
-        "LXb72dFD6xM"
+        "EODLo9hTIOI"
       ]
     },
     {
@@ -4972,5 +4971,5 @@
       ]
     }
   ],
-  "updated_at": "2026-08-23T09:37:35Z"
+  "updated_at": "2026-08-23T10:33:58Z"
 }
