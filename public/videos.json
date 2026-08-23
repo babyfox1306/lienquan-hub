@@ -1,6 +1,39 @@
 {
   "videos": [
     {
+      "videoId": "EVju4se3pJE",
+      "title": "การแข่งขัน RoV Pro League 2026 Winter | รอบเก็บคะแนน Week 1 Day 2",
+      "title_original": "การแข่งขัน RoV Pro League 2026 Winter | รอบเก็บคะแนน Week 1 Day 2",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-23T14:48:38Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/EVju4se3pJE/maxresdefault.jpg"
+    },
+    {
+      "videoId": "ZmW90iyKTvE",
+      "title": "Tối Nay ZYPAGE Có Ghi Âm Nha Bro",
+      "title_original": "Tối Nay ZYPAGE Có Ghi Âm Nha Bro",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-23T14:34:04Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/ZmW90iyKTvE/maxresdefault.jpg"
+    },
+    {
+      "videoId": "mj6w2iUPmAs",
+      "title": "Hôm Nay Phải Lên Thách Đấu 200 Sao 8/22",
+      "title_original": "Hôm Nay Phải Lên Thách Đấu 200 Sao 8/22",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-23T14:32:53Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/mj6w2iUPmAs/maxresdefault.jpg"
+    },
+    {
       "videoId": "D7x1whIpfDM",
       "title": "Tưởng BARON Sau Buff Sẽ Hóa QUÁI VẬT… Hóa Ra Vẫn Là PHẾ VẬT NHẤT AOV? NHƯNG…",
       "title_original": "Tưởng BARON Sau Buff Sẽ Hóa QUÁI VẬT… Hóa Ra Vẫn Là PHẾ VẬT NHẤT AOV? NHƯNG…",
@@ -54,17 +87,6 @@
       "source": "youtube",
       "publishedAt": "2026-08-23T09:30:24Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/-J2aWTzLy84/maxresdefault.jpg"
-    },
-    {
-      "videoId": "EVju4se3pJE",
-      "title": "🔴𝐋𝐈𝐕𝐄 การแข่งขัน RoV Pro League 2026 Winter | รอบเก็บคะแนน Week 1 Day 2",
-      "title_original": "🔴𝐋𝐈𝐕𝐄 การแข่งขัน RoV Pro League 2026 Winter | รอบเก็บคะแนน Week 1 Day 2",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-08-23T04:11:10Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/EVju4se3pJE/maxresdefault.jpg"
     },
     {
       "videoId": "f9Ein91Z0jM",
@@ -2177,28 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-08-10T12:30:27Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/frkYen_2YpI/maxresdefault.jpg"
-    },
-    {
-      "videoId": "0lFs3i1br6w",
-      "title": "Đến Là Đón Đụng Là Zuka Trụng",
-      "title_original": "Đến Là Đón Đụng Là Zuka Trụng",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-08-10T12:05:58Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/0lFs3i1br6w/maxresdefault.jpg"
-    },
-    {
-      "videoId": "kianaCRe0Zk",
-      "title": "🔴LIVE:  RANK TOP 1 THÁCH ĐẤU | 10.08",
-      "title_original": "🔴LIVE:  RANK TOP 1 THÁCH ĐẤU | 10.08",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-08-10T11:54:22Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/kianaCRe0Zk/maxresdefault.jpg"
     }
   ]
 }
