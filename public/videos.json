@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "w1aBKop82UE",
+      "title": "Lại Phải Baos",
+      "title_original": "Lại Phải Baos",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-24T18:25:48Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/w1aBKop82UE/maxresdefault.jpg"
+    },
+    {
       "videoId": "cyqjjrkwbIE",
       "title": "Team 5 ngu dung vao",
       "title_original": "Team 5 ngu dung vao",
@@ -8,7 +19,7 @@
       "country": "VN",
       "lang_original": "vi",
       "source": "youtube",
-      "publishedAt": "2026-08-24T14:59:38Z",
+      "publishedAt": "2026-08-24T18:19:41Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/cyqjjrkwbIE/maxresdefault.jpg"
     },
     {
@@ -21,17 +32,6 @@
       "source": "youtube",
       "publishedAt": "2026-08-24T14:16:08Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/nr75S0tkH4I/maxresdefault.jpg"
-    },
-    {
-      "videoId": "w1aBKop82UE",
-      "title": "Lại Phải Baos",
-      "title_original": "Lại Phải Baos",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-08-24T14:03:17Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/w1aBKop82UE/maxresdefault.jpg"
     },
     {
       "videoId": "xYNTTmWzCIc",
