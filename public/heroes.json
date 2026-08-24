@@ -376,14 +376,14 @@
         "Alice"
       ],
       "tier": "S",
-      "tier_reason": "Được gán từ dữ liệu hạt giống (Seed S-Tier) do ít video mới (Hot Count: 0)",
+      "tier_reason": "Được gán từ dữ liệu hạt giống (Seed S-Tier) do ít video mới (Hot Count: 1)",
       "hot": false,
-      "hot_count": 0,
+      "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/1/1f/Hayate_profile.jpg/revision/latest/scale-to-width-down/500?cb=20200531224525",
       "related_videos": [
+        "1Pw2i5aE4BY",
         "wh6--zX_pPg",
-        "FLV_idFEpNc",
-        "M8LheBIX5cQ"
+        "FLV_idFEpNc"
       ]
     },
     {
@@ -849,11 +849,13 @@
         "Yorn"
       ],
       "tier": "S",
-      "tier_reason": "Được gán từ dữ liệu hạt giống (Seed S-Tier) do ít video mới (Hot Count: 0)",
+      "tier_reason": "Được gán từ dữ liệu hạt giống (Seed S-Tier) do ít video mới (Hot Count: 1)",
       "hot": false,
-      "hot_count": 0,
+      "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/7/71/Gildur_Default.jpg/revision/latest/scale-to-width-down/500?cb=20180327112635",
-      "related_videos": []
+      "related_videos": [
+        "txZCCUB-aiU"
+      ]
     },
     {
       "id": "alice",
@@ -1139,7 +1141,7 @@
       "tier": "A",
       "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 1)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/2/2c/Tulen_Splash.jpeg/revision/latest/scale-to-width-down/500?cb=20180102103714",
       "related_videos": [
         "V62DBaJB1DU"
@@ -1376,7 +1378,7 @@
       "tier": "B",
       "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/0/06/Elsu_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125051727",
       "related_videos": [
         "V6W9LABtL9U"
@@ -2312,7 +2314,7 @@
       "tier": "B",
       "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/a/a1/Tel%27Annas_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20171106200421",
       "related_videos": [
         "pXbZOh-i3dw"
@@ -4332,8 +4334,7 @@
       "related_videos": [
         "f9Ein91Z0jM",
         "hFEN1vSsqbM",
-        "XGNTg3Tg1F0",
-        "EODLo9hTIOI"
+        "XGNTg3Tg1F0"
       ]
     },
     {
@@ -4725,11 +4726,13 @@
       "counters": [],
       "synergies": [],
       "tier": "B",
-      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
-      "hot_count": 0,
+      "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/9/94/Wisp_Default.jpg/revision/latest/scale-to-width-down/500?cb=20180419063145",
-      "related_videos": []
+      "related_videos": [
+        "xYNTTmWzCIc"
+      ]
     },
     {
       "id": "wonderwoman",
@@ -4977,5 +4980,5 @@
       ]
     }
   ],
-  "updated_at": "2026-08-24T13:04:38Z"
+  "updated_at": "2026-08-24T14:02:27Z"
 }
