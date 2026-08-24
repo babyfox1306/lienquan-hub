@@ -1,6 +1,39 @@
 {
   "videos": [
     {
+      "videoId": "UqYEaY0KJq8",
+      "title": "Hôm Nay Phải Lên Thách Đấu 200 Sao 8/24",
+      "title_original": "Hôm Nay Phải Lên Thách Đấu 200 Sao 8/24",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-24T10:31:39Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/UqYEaY0KJq8/maxresdefault.jpg"
+    },
+    {
+      "videoId": "38-cx7vRSqQ",
+      "title": "BỐP BỐP HỐI HẬN VÌ LÀM NGHỀ LIVE STREAM VÀ BẤT LỰC TRƯỚC ĐỒNG ĐỘI",
+      "title_original": "BỐP BỐP HỐI HẬN VÌ LÀM NGHỀ LIVE STREAM VÀ BẤT LỰC TRƯỚC ĐỒNG ĐỘI",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-24T10:30:05Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/38-cx7vRSqQ/maxresdefault.jpg"
+    },
+    {
+      "videoId": "30rvIAmRr8Q",
+      "title": "《Garena 傳說對決》達爾西英雄故事影片 |  深淵的交易",
+      "title_original": "《Garena 傳說對決》達爾西英雄故事影片 |  深淵的交易",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-24T10:00:04Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/30rvIAmRr8Q/maxresdefault.jpg"
+    },
+    {
       "videoId": "r0wuRbWyToU",
       "title": "PHIÊN BẢN MỚI: 2,5 Giây TÀNG HÌNH, CORE ITEM META MỚI, Cạnh Tranh Liềm Và TKK ?",
       "title_original": "PHIÊN BẢN MỚI: 2,5 Giây TÀNG HÌNH, CORE ITEM META MỚI, Cạnh Tranh Liềm Và TKK ?",
@@ -32,17 +65,6 @@
       "source": "youtube",
       "publishedAt": "2026-08-24T08:05:33Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/gsfGBPOUnqQ/maxresdefault.jpg"
-    },
-    {
-      "videoId": "UqYEaY0KJq8",
-      "title": "Hôm Nay Phải Lên Thách Đấu 200 Sao 8/24",
-      "title_original": "Hôm Nay Phải Lên Thách Đấu 200 Sao 8/24",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-08-24T05:20:17Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/UqYEaY0KJq8/maxresdefault.jpg"
     },
     {
       "videoId": "wlwm9U0FiOY",
@@ -2177,28 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-08-11T07:05:09Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/YjHpV2fbeak/maxresdefault.jpg"
-    },
-    {
-      "videoId": "pahUOFXBAPI",
-      "title": "CHÍNH THỨC: Tạm Biệt FPT_GRAY …",
-      "title_original": "CHÍNH THỨC: Tạm Biệt FPT_GRAY …",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-08-11T05:39:10Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/pahUOFXBAPI/maxresdefault.jpg"
-    },
-    {
-      "videoId": "Von0ZvPT5Ss",
-      "title": "TOP 5 Tướng Khắc Chế Zephys Kèo Rừng Meta S3 2026, TNG",
-      "title_original": "TOP 5 Tướng Khắc Chế Zephys Kèo Rừng Meta S3 2026, TNG",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-08-11T03:38:46Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/Von0ZvPT5Ss/maxresdefault.jpg"
     }
   ]
 }
