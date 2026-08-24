@@ -51,11 +51,6 @@
       "type": "channel"
     },
     {
-      "id": "UC55ad8jzcIWCMU-o2CXMEAw",
-      "name": "Thầy Giáo Liên Quân",
-      "type": "channel"
-    },
-    {
       "id": "UC1ysb__ddApp3PlDva5NAVw",
       "name": "Top 1 Liliana",
       "type": "channel"
@@ -98,6 +93,11 @@
     {
       "id": "UCaaylrdGhBZov0HKJ8P6KsA",
       "name": "Garena Liên Quân Mobile",
+      "type": "channel"
+    },
+    {
+      "id": "UCn1vIM_0pyfwcFWsnpCZ7vQ",
+      "name": "M8 Arthur Liên Quân Mobile",
       "type": "channel"
     }
   ],
