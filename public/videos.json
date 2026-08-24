@@ -1,6 +1,28 @@
 {
   "videos": [
     {
+      "videoId": "r0wuRbWyToU",
+      "title": "PHIÊN BẢN MỚI: 2,5 Giây TÀNG HÌNH, CORE ITEM META MỚI, Cạnh Tranh Liềm Và TKK ?",
+      "title_original": "PHIÊN BẢN MỚI: 2,5 Giây TÀNG HÌNH, CORE ITEM META MỚI, Cạnh Tranh Liềm Và TKK ?",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-24T09:37:58Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/r0wuRbWyToU/maxresdefault.jpg"
+    },
+    {
+      "videoId": "2ijd5AobQeM",
+      "title": "Lm Phin Gic Ng Tra Ca Nhau T",
+      "title_original": "Lm Phin Gic Ng Tra Ca Nhau T",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-24T09:09:19Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/2ijd5AobQeM/maxresdefault.jpg"
+    },
+    {
       "videoId": "gsfGBPOUnqQ",
       "title": "เรื่องราวของ D'Arcy - สัจธรรมแห่งการต่อสู้ | Cinematic (พากย์ไทย)",
       "title_original": "เรื่องราวของ D'Arcy - สัจธรรมแห่งการต่อสู้ | Cinematic (พากย์ไทย)",
@@ -21,17 +43,6 @@
       "source": "youtube",
       "publishedAt": "2026-08-24T05:20:17Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/UqYEaY0KJq8/maxresdefault.jpg"
-    },
-    {
-      "videoId": "2ijd5AobQeM",
-      "title": "Lm Phin Gic Ng Tra Ca Nhau T",
-      "title_original": "Lm Phin Gic Ng Tra Ca Nhau T",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-08-24T04:58:49Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/2ijd5AobQeM/maxresdefault.jpg"
     },
     {
       "videoId": "wlwm9U0FiOY",
@@ -2188,17 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-08-11T03:38:46Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/Von0ZvPT5Ss/maxresdefault.jpg"
-    },
-    {
-      "videoId": "YJUO7kkRcKA",
-      "title": "Leo Top 10 Thách Đấu ( Day 12 )",
-      "title_original": "Leo Top 10 Thách Đấu ( Day 12 )",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-08-10T23:10:34Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/YJUO7kkRcKA/maxresdefault.jpg"
     }
   ]
 }

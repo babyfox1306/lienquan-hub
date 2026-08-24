@@ -1085,9 +1085,9 @@
         "Grakk"
       ],
       "tier": "A",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 3, Score: 2)",
-      "hot": true,
-      "hot_count": 3,
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 2)",
+      "hot": false,
+      "hot_count": 2,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/c/c4/Krixi_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260124103537",
       "related_videos": [
         "2Qdo_WePD2g",
@@ -4972,5 +4972,5 @@
       ]
     }
   ],
-  "updated_at": "2026-08-24T08:59:06Z"
+  "updated_at": "2026-08-24T09:58:30Z"
 }
