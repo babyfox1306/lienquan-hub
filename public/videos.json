@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "gsfGBPOUnqQ",
+      "title": "เรื่องราวของ D'Arcy - สัจธรรมแห่งการต่อสู้ | Cinematic (พากย์ไทย)",
+      "title_original": "เรื่องราวของ D'Arcy - สัจธรรมแห่งการต่อสู้ | Cinematic (พากย์ไทย)",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-24T08:05:33Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/gsfGBPOUnqQ/maxresdefault.jpg"
+    },
+    {
       "videoId": "UqYEaY0KJq8",
       "title": "Hôm Nay Phải Lên Thách Đấu 200 Sao 8/24",
       "title_original": "Hôm Nay Phải Lên Thách Đấu 200 Sao 8/24",
@@ -2188,17 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-08-10T23:10:34Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/YJUO7kkRcKA/maxresdefault.jpg"
-    },
-    {
-      "videoId": "omgFmI1mRj4",
-      "title": "🔴LIVE:  RANK TOP 1 THÁCH ĐẤU | 10.08",
-      "title_original": "🔴LIVE:  RANK TOP 1 THÁCH ĐẤU | 10.08",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-08-10T18:58:12Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/omgFmI1mRj4/maxresdefault.jpg"
     }
   ]
 }
