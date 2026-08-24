@@ -4042,11 +4042,12 @@
       "counters": [],
       "synergies": [],
       "tier": "C",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: -1)",
-      "hot": false,
-      "hot_count": 2,
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 3, Score: -1)",
+      "hot": true,
+      "hot_count": 3,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/2/28/Preyta_Splash.png/revision/latest/scale-to-width-down/500?cb=20171204210816",
       "related_videos": [
+        "wlwm9U0FiOY",
         "Ffb4iXBOR14",
         "dwjxCIFQWWo"
       ]
@@ -4969,5 +4970,5 @@
       ]
     }
   ],
-  "updated_at": "2026-08-24T01:45:52Z"
+  "updated_at": "2026-08-24T03:13:13Z"
 }
