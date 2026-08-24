@@ -3107,9 +3107,9 @@
       "counters": [],
       "synergies": [],
       "tier": "S",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 4, Score: 3)",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 3, Score: 3)",
       "hot": true,
-      "hot_count": 4,
+      "hot_count": 3,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/c/ce/Dextra_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260124110012",
       "related_videos": [
         "f9Ein91Z0jM",
@@ -4333,8 +4333,7 @@
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/6/60/Sinestrea_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20220702032816",
       "related_videos": [
         "f9Ein91Z0jM",
-        "hFEN1vSsqbM",
-        "XGNTg3Tg1F0"
+        "hFEN1vSsqbM"
       ]
     },
     {
@@ -4980,5 +4979,5 @@
       ]
     }
   ],
-  "updated_at": "2026-08-24T14:02:27Z"
+  "updated_at": "2026-08-24T14:57:10Z"
 }

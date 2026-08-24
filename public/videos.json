@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "w1aBKop82UE",
+      "title": "Lại Phải Baos",
+      "title_original": "Lại Phải Baos",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-24T14:03:17Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/w1aBKop82UE/maxresdefault.jpg"
+    },
+    {
       "videoId": "xYNTTmWzCIc",
       "title": "🎎 HIỆU ỨNG CHIÊU THỨC | WISP TE TÒ HE 🎎 - Garena Liên Quân Mobile",
       "title_original": "🎎 HIỆU ỨNG CHIÊU THỨC | WISP TE TÒ HE 🎎 - Garena Liên Quân Mobile",
@@ -2188,17 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-08-11T12:00:07Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/iVPQr4fn6pw/maxresdefault.jpg"
-    },
-    {
-      "videoId": "XGNTg3Tg1F0",
-      "title": "Sinestrea - อัปเดตสกิล 13 ส.ค. นี้!",
-      "title_original": "Sinestrea - อัปเดตสกิล 13 ส.ค. นี้!",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-08-11T11:56:48Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/XGNTg3Tg1F0/maxresdefault.jpg"
     }
   ]
 }

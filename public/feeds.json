@@ -46,6 +46,11 @@
       "type": "channel"
     },
     {
+      "id": "UC1ysb__ddApp3PlDva5NAVw",
+      "name": "Top 1 Liliana",
+      "type": "channel"
+    },
+    {
       "id": "UC_Kfu-XiwH0WKTRSMD9st_Q",
       "name": "Bạn Cay Tôi À?",
       "type": "channel"
@@ -93,11 +98,6 @@
     {
       "id": "UC6_-E6Lek7_1TMt6927ITOQ",
       "name": "NaKa Liên Quân Mobile",
-      "type": "channel"
-    },
-    {
-      "id": "UCUypu6HW1VvNuEkcdAgjOKQ",
-      "name": "Garena Liên Quân Mobile",
       "type": "channel"
     }
   ],
