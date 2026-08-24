@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "nr75S0tkH4I",
+      "title": "Hôm Nay Phải Lên Thách Đấu 200 Sao 8/24",
+      "title_original": "Hôm Nay Phải Lên Thách Đấu 200 Sao 8/24",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-24T19:19:14Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/nr75S0tkH4I/maxresdefault.jpg"
+    },
+    {
       "videoId": "w1aBKop82UE",
       "title": "Lại Phải Baos",
       "title_original": "Lại Phải Baos",
@@ -21,17 +32,6 @@
       "source": "youtube",
       "publishedAt": "2026-08-24T18:19:41Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/cyqjjrkwbIE/maxresdefault.jpg"
-    },
-    {
-      "videoId": "nr75S0tkH4I",
-      "title": "Hôm Nay Phải Lên Thách Đấu 200 Sao 8/24",
-      "title_original": "Hôm Nay Phải Lên Thách Đấu 200 Sao 8/24",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-08-24T14:16:08Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/nr75S0tkH4I/maxresdefault.jpg"
     },
     {
       "videoId": "xYNTTmWzCIc",
