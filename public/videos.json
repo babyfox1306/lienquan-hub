@@ -1,6 +1,39 @@
 {
   "videos": [
     {
+      "videoId": "Xr7Mhw92u9Q",
+      "title": "Solokill hom",
+      "title_original": "Solokill hom",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-25T06:54:50Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/Xr7Mhw92u9Q/maxresdefault.jpg"
+    },
+    {
+      "videoId": "wJMTA6G99j0",
+      "title": "LIVE: Liên Quân Mo Bye",
+      "title_original": "LIVE: Liên Quân Mo Bye",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-25T05:21:43Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/wJMTA6G99j0/maxresdefault.jpg"
+    },
+    {
+      "videoId": "WFJdt_NUT3Q",
+      "title": "PHIÊN BẢN MỚI: TÍCH VÀNG KIỂU MỚI, 3 BOSS MỚI, MAP MỚI, Cơ Chế Chiến Trường Mới Meta S4 2026, TNG",
+      "title_original": "PHIÊN BẢN MỚI: TÍCH VÀNG KIỂU MỚI, 3 BOSS MỚI, MAP MỚI, Cơ Chế Chiến Trường Mới Meta S4 2026, TNG",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-25T03:00:07Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/WFJdt_NUT3Q/maxresdefault.jpg"
+    },
+    {
       "videoId": "cjI43QjT1iU",
       "title": "Hôm Nay  Lên Thách Đấu 190 Sao",
       "title_original": "Hôm Nay  Lên Thách Đấu 190 Sao",
@@ -2166,39 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-08-12T02:06:03Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/SpPQ2LxbWKY/maxresdefault.jpg"
-    },
-    {
-      "videoId": "g7IUnk22I2s",
-      "title": "🔴LIVE:  RANK TOP 1 THÁCH ĐẤU | 11.08",
-      "title_original": "🔴LIVE:  RANK TOP 1 THÁCH ĐẤU | 11.08",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-08-11T18:32:20Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/g7IUnk22I2s/maxresdefault.jpg"
-    },
-    {
-      "videoId": "JhRcOy0MzZI",
-      "title": "Ngày Đầu Tập Gym Mất 200m",
-      "title_original": "Ngày Đầu Tập Gym Mất 200m",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-08-11T18:09:07Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/JhRcOy0MzZI/maxresdefault.jpg"
-    },
-    {
-      "videoId": "55WZl98de1g",
-      "title": "Stream Sớm Off Muộn",
-      "title_original": "Stream Sớm Off Muộn",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-08-11T17:37:47Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/55WZl98de1g/maxresdefault.jpg"
     }
   ]
 }

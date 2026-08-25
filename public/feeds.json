@@ -46,6 +46,11 @@
       "type": "channel"
     },
     {
+      "id": "UC55ad8jzcIWCMU-o2CXMEAw",
+      "name": "Thầy Giáo Liên Quân",
+      "type": "channel"
+    },
+    {
       "id": "UC1ysb__ddApp3PlDva5NAVw",
       "name": "Top 1 Liliana",
       "type": "channel"
@@ -78,11 +83,6 @@
     {
       "id": "UCgbMglNu16CgtxKRg3LrpjQ",
       "name": "CBNN Liên Quân Mobile",
-      "type": "channel"
-    },
-    {
-      "id": "UC92yhXD5hj0xvDbUj3d9aJw",
-      "name": "Liên Quân Mobile - Topic",
       "type": "channel"
     },
     {
