@@ -896,13 +896,11 @@
         "Wukong"
       ],
       "tier": "B",
-      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/3/3b/Alice_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125083007",
-      "related_videos": [
-        "3dKk8-Z5-d4"
-      ]
+      "related_videos": []
     },
     {
       "id": "jinna",
@@ -2521,11 +2519,13 @@
       "counters": [],
       "synergies": [],
       "tier": "B",
-      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
-      "hot_count": 0,
+      "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/5/55/Annette_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125052028",
-      "related_videos": []
+      "related_videos": [
+        "QwwFKiDyj6c"
+      ]
     },
     {
       "id": "aoi",
@@ -3116,8 +3116,7 @@
         "9OEpa5dxPiE",
         "9yWt3THrAms",
         "nmEXLc2Dm9M",
-        "JwBz9kfOmEU",
-        "3dKk8-Z5-d4"
+        "JwBz9kfOmEU"
       ]
     },
     {
@@ -3151,14 +3150,12 @@
       },
       "counters": [],
       "synergies": [],
-      "tier": "A",
-      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 1)",
+      "tier": "B",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
       "hot_count": 0,
-      "thumbnail": "https://img.youtube.com/vi/xyje4rueIxM/maxresdefault.jpg",
-      "related_videos": [
-        "xyje4rueIxM"
-      ]
+      "thumbnail": null,
+      "related_videos": []
     },
     {
       "id": "dolia",
@@ -3427,11 +3424,13 @@
       "counters": [],
       "synergies": [],
       "tier": "B",
-      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
-      "hot_count": 0,
+      "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/5/56/Fennik_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125054758",
-      "related_videos": []
+      "related_videos": [
+        "aJ9vstwtrTo"
+      ]
     },
     {
       "id": "heino",
@@ -4979,5 +4978,5 @@
       ]
     }
   ],
-  "updated_at": "2026-08-25T08:54:25Z"
+  "updated_at": "2026-08-25T09:45:33Z"
 }

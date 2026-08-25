@@ -1,6 +1,39 @@
 {
   "videos": [
     {
+      "videoId": "1Fl2pWcWKD8",
+      "title": "PHIÊN BẢN MỚI: Giảm 50% All Kỹ Năng, Phép Bổ Trợ Mất Dạy Nhất Mùa S4 | TNG",
+      "title_original": "PHIÊN BẢN MỚI: Giảm 50% All Kỹ Năng, Phép Bổ Trợ Mất Dạy Nhất Mùa S4 | TNG",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-25T09:37:37Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/1Fl2pWcWKD8/maxresdefault.jpg"
+    },
+    {
+      "videoId": "aJ9vstwtrTo",
+      "title": "🍀 HIỆU ỨNG CHIÊU THỨC | FENNIK SỨ GIẢ MAY MẮN 🍀 - Garena Liên Quân Mobile",
+      "title_original": "🍀 HIỆU ỨNG CHIÊU THỨC | FENNIK SỨ GIẢ MAY MẮN 🍀 - Garena Liên Quân Mobile",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-25T09:30:31Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/aJ9vstwtrTo/maxresdefault.jpg"
+    },
+    {
+      "videoId": "QwwFKiDyj6c",
+      "title": "🍀 HIỆU ỨNG CHIÊU THỨC | ANNETTE THIÊN SỨ MAY MẮN 🍀 - Garena Liên Quân Mobile",
+      "title_original": "🍀 HIỆU ỨNG CHIÊU THỨC | ANNETTE THIÊN SỨ MAY MẮN 🍀 - Garena Liên Quân Mobile",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-25T09:30:23Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/QwwFKiDyj6c/maxresdefault.jpg"
+    },
+    {
       "videoId": "wJMTA6G99j0",
       "title": "LIVE: Liên Quân Mo Bye",
       "title_original": "LIVE: Liên Quân Mo Bye",
@@ -2166,39 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-08-12T05:00:26Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/hFEN1vSsqbM/maxresdefault.jpg"
-    },
-    {
-      "videoId": "xyje4rueIxM",
-      "title": "Cách Điêu Thuyền Đi MID bất tử lật kèo gánh team",
-      "title_original": "Cách Điêu Thuyền Đi MID bất tử lật kèo gánh team",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-08-12T05:00:19Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/xyje4rueIxM/maxresdefault.jpg"
-    },
-    {
-      "videoId": "3dKk8-Z5-d4",
-      "title": "Liên Quân 9 Chỉnh Sửa Tướng PHIÊN BẢN MỚI: Sines, Dextra, Alice,...CẬP NHẬT BỔ SUNG GIỮA MÙA S3 2026",
-      "title_original": "Liên Quân 9 Chỉnh Sửa Tướng PHIÊN BẢN MỚI: Sines, Dextra, Alice,...CẬP NHẬT BỔ SUNG GIỮA MÙA S3 2026",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-08-12T03:14:33Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/3dKk8-Z5-d4/maxresdefault.jpg"
-    },
-    {
-      "videoId": "SpPQ2LxbWKY",
-      "title": "Vĩnh Đất 'Đụng Độ' Bộ Đôi Huyền Thoại ADC - Lai Bâng Ở Rank Top 1 Thách Đấu",
-      "title_original": "Vĩnh Đất 'Đụng Độ' Bộ Đôi Huyền Thoại ADC - Lai Bâng Ở Rank Top 1 Thách Đấu",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-08-12T02:06:03Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/SpPQ2LxbWKY/maxresdefault.jpg"
     }
   ]
 }
