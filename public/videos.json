@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "P44lgtWmCTc",
+      "title": "⚔ CỐT TRUYỆN D'ARCY | CUỘC CHẠM TRÁN BẤT NGỜ ⚔ - Garena Liên Quân Mobile",
+      "title_original": "⚔ CỐT TRUYỆN D'ARCY | CUỘC CHẠM TRÁN BẤT NGỜ ⚔ - Garena Liên Quân Mobile",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-25T13:00:27Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/P44lgtWmCTc/maxresdefault.jpg"
+    },
+    {
       "videoId": "KdOwiD8NRx4",
       "title": "LƯU Ý: Khi Đi Đường Caesar LIÊN QUÂN MOBILE",
       "title_original": "LƯU Ý: Khi Đi Đường Caesar LIÊN QUÂN MOBILE",
@@ -2188,17 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-08-12T08:46:03Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/L-Cb3TUqHpc/maxresdefault.jpg"
-    },
-    {
-      "videoId": "0zbfs5vWYnc",
-      "title": "Live Xong Di Tap Gym",
-      "title_original": "Live Xong Di Tap Gym",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-08-12T08:29:46Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/0zbfs5vWYnc/maxresdefault.jpg"
     }
   ]
 }
