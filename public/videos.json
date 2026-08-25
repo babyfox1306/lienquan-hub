@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "KdOwiD8NRx4",
+      "title": "LƯU Ý: Khi Đi Đường Caesar LIÊN QUÂN MOBILE",
+      "title_original": "LƯU Ý: Khi Đi Đường Caesar LIÊN QUÂN MOBILE",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-25T12:27:19Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/KdOwiD8NRx4/maxresdefault.jpg"
+    },
+    {
       "videoId": "cjI43QjT1iU",
       "title": "Hôm Nay  Lên Thách Đấu 190 Sao",
       "title_original": "Hôm Nay  Lên Thách Đấu 190 Sao",
@@ -43,6 +54,17 @@
       "source": "youtube",
       "publishedAt": "2026-08-25T09:30:23Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/QwwFKiDyj6c/maxresdefault.jpg"
+    },
+    {
+      "videoId": "EzrofHfgMvg",
+      "title": "Cầm Zuka Đại Phú Ông đi top bán hành cho cả team địch lụm nhẹ cái Megakill 2S ⚡️⚡️⚡️",
+      "title_original": "Cầm Zuka Đại Phú Ông đi top bán hành cho cả team địch lụm nhẹ cái Megakill 2S ⚡️⚡️⚡️",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-25T09:15:19Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/EzrofHfgMvg/maxresdefault.jpg"
     },
     {
       "videoId": "wJMTA6G99j0",
@@ -2177,28 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-08-12T08:29:46Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/0zbfs5vWYnc/maxresdefault.jpg"
-    },
-    {
-      "videoId": "zcRKLSg9n_U",
-      "title": "AOGW26 | THANK YOU GRAY - NHỮNG CÂU HỎI CUỐI CÙNG",
-      "title_original": "AOGW26 | THANK YOU GRAY - NHỮNG CÂU HỎI CUỐI CÙNG",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-08-12T07:57:53Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/zcRKLSg9n_U/maxresdefault.jpg"
-    },
-    {
-      "videoId": "hFEN1vSsqbM",
-      "title": "เรื่องราวของ Sinestrea - พลังโลหิตที่เดือดพล่าน | Cinematic (พากย์ไทย)",
-      "title_original": "เรื่องราวของ Sinestrea - พลังโลหิตที่เดือดพล่าน | Cinematic (พากย์ไทย)",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-08-12T05:00:26Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/hFEN1vSsqbM/maxresdefault.jpg"
     }
   ]
 }

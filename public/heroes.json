@@ -39,9 +39,9 @@
         "Krixi"
       ],
       "tier": "S",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 3, Score: 3)",
-      "hot": true,
-      "hot_count": 3,
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 3)",
+      "hot": false,
+      "hot_count": 2,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/3/3f/Nakroth_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20201224121203",
       "related_videos": [
         "ECBWGKwDz48",
@@ -2170,7 +2170,7 @@
       "tier": "B",
       "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/6/60/Zephys_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125082336",
       "related_videos": [
         "YjdtZsg9S_0"
@@ -4247,7 +4247,7 @@
       "tier": "B",
       "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/f/f2/Ryoma_Gunslinger.png/revision/latest/scale-to-width-down/500?cb=20180313083407",
       "related_videos": [
         "NlW5Ot39Lo4"
@@ -4331,8 +4331,7 @@
       "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/6/60/Sinestrea_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20220702032816",
       "related_videos": [
-        "f9Ein91Z0jM",
-        "hFEN1vSsqbM"
+        "f9Ein91Z0jM"
       ]
     },
     {
@@ -4967,16 +4966,17 @@
       "counters": [],
       "synergies": [],
       "tier": "A",
-      "tier_reason": "Xuất hiện 3 lần trong video/tin tức 14 ngày qua (Score: 1)",
+      "tier_reason": "Xuất hiện 4 lần trong video/tin tức 14 ngày qua (Score: 2)",
       "hot": false,
-      "hot_count": 0,
+      "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/9/9e/Zuka_Splash.png/revision/latest/scale-to-width-down/500?cb=20171204210621",
       "related_videos": [
+        "EzrofHfgMvg",
         "quEUpeewlIk",
         "izCzAPyEhcs",
         "9shyTsxdGjU"
       ]
     }
   ],
-  "updated_at": "2026-08-25T11:38:04Z"
+  "updated_at": "2026-08-25T13:01:01Z"
 }
