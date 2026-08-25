@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "cjI43QjT1iU",
+      "title": "Hôm Nay  Lên Thách Đấu 190 Sao",
+      "title_original": "Hôm Nay  Lên Thách Đấu 190 Sao",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-25T11:18:33Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/cjI43QjT1iU/maxresdefault.jpg"
+    },
+    {
       "videoId": "1Fl2pWcWKD8",
       "title": "PHIÊN BẢN MỚI: Giảm 50% All Kỹ Năng, Phép Bổ Trợ Mất Dạy Nhất Mùa S4 | TNG",
       "title_original": "PHIÊN BẢN MỚI: Giảm 50% All Kỹ Năng, Phép Bổ Trợ Mất Dạy Nhất Mùa S4 | TNG",
@@ -65,17 +76,6 @@
       "source": "youtube",
       "publishedAt": "2026-08-25T03:00:07Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/WFJdt_NUT3Q/maxresdefault.jpg"
-    },
-    {
-      "videoId": "cjI43QjT1iU",
-      "title": "Hôm Nay  Lên Thách Đấu 190 Sao",
-      "title_original": "Hôm Nay  Lên Thách Đấu 190 Sao",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-08-25T00:42:31Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/cjI43QjT1iU/maxresdefault.jpg"
     },
     {
       "videoId": "nr75S0tkH4I",
