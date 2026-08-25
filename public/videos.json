@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "VfmpIbBu2rc",
+      "title": "LIVE: Liên Quân Mo Bye",
+      "title_original": "LIVE: Liên Quân Mo Bye",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-25T18:40:02Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/VfmpIbBu2rc/maxresdefault.jpg"
+    },
+    {
       "videoId": "SsTHdXT8Vxc",
       "title": "Chap 100 thi vao",
       "title_original": "Chap 100 thi vao",
@@ -21,17 +32,6 @@
       "source": "youtube",
       "publishedAt": "2026-08-25T14:45:19Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/Pj8GyowbJ_I/maxresdefault.jpg"
-    },
-    {
-      "videoId": "VfmpIbBu2rc",
-      "title": "LIVE: Liên Quân Mo Bye",
-      "title_original": "LIVE: Liên Quân Mo Bye",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-08-25T14:15:13Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/VfmpIbBu2rc/maxresdefault.jpg"
     },
     {
       "videoId": "P44lgtWmCTc",
