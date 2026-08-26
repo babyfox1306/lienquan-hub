@@ -4603,7 +4603,7 @@
       "tier": "A",
       "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 1)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/d/d1/Thorne_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20210106150404",
       "related_videos": [
         "1wQrm9awanI"
@@ -4978,5 +4978,5 @@
       ]
     }
   ],
-  "updated_at": "2026-08-26T09:53:59Z"
+  "updated_at": "2026-08-26T10:44:28Z"
 }
