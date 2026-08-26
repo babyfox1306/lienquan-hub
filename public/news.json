@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-08-26T11:39:11.287304",
+  "last_updated": "2026-08-26T13:06:48.092650",
   "total_news": 100,
   "news": [
+    {
+      "id": "da2fa96f9514",
+      "title": "ĐIỀU CHỈNH GIỮA MÙA PB NGÀY HỘI LIÊN QUÂN – 27.08.2026",
+      "link": "https://lienquan.garena.vn/dieu-chinh-giua-mua-pb-ngay-hoi-lien-quan-27-08-2026/",
+      "summary": "<p>Xin chào các Kiện Tướng, Liên Quân Mobile sẽ tiến hành cập nhật không gián đoạn cho máy chủ chính thức vào ngày 27/08/2026. Trong thời gian quy định, các Kiện tướng có thể tự chọn thời điểm [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/dieu-chinh-giua-mua-pb-ngay-hoi-lien-quan-27-08-2026/\">ĐIỀU CHỈNH GIỮA MÙA PB NGÀY HỘI LIÊN QUÂN – 27.08.2026</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2026/08/IMG-HOR-0860x0400-103561-huct.jpg",
+      "source": "Liên Quân Mobile Official",
+      "source_url": "https://lienquan.garena.vn/rss",
+      "published_at": "2026-08-26T11:50:13Z",
+      "crawled_at": "2026-08-26T13:01:52.535054",
+      "category": "tướng",
+      "priority": 1
+    },
     {
       "id": "870380194b04",
       "title": "SHOPEE VIỆT NAM ĐỒNG HÀNH CÙNG ĐẤU TRƯỜNG DANH VỌNG MÙA ĐÔNG 2026",
@@ -1286,19 +1299,6 @@
       "source_url": "https://lienquan.garena.vn/rss",
       "published_at": "2026-02-23T03:44:18Z",
       "crawled_at": "2026-02-23T03:51:19.475470",
-      "category": "tin tức",
-      "priority": 1
-    },
-    {
-      "id": "bd9f633f91a6",
-      "title": "Mở bán Grakk Ngũ Cốc Phong Đăng",
-      "link": "https://lienquan.garena.vn/mo-ban-grakk-ngu-coc-phong-dang/",
-      "summary": "<p>&#160; 1. Thời gian sự kiện: 17/02/2026-09/03/2026 2. Người chơi quay ngẫu nhiên giảm giá tối đa 3 lần, giảm giá được cộng dồn tại mỗi lượt quay. 3. Các lượt quay giảm giá mất [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/mo-ban-grakk-ngu-coc-phong-dang/\">Mở bán Grakk Ngũ Cốc Phong Đăng</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
-      "image_url": null,
-      "source": "Liên Quân Mobile Official",
-      "source_url": "https://lienquan.garena.vn/rss",
-      "published_at": "2026-02-14T11:46:02Z",
-      "crawled_at": "2026-02-14T12:01:33.312959",
       "category": "tin tức",
       "priority": 1
     }

@@ -1423,7 +1423,7 @@
       "tier": "B",
       "tier_reason": "Xuất hiện 2 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/f/f0/Valhein_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260124103241",
       "related_videos": [
         "sDXa-wAbevE",
@@ -3103,8 +3103,8 @@
       },
       "counters": [],
       "synergies": [],
-      "tier": "S",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 3, Score: 3)",
+      "tier": "A",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 3, Score: 2)",
       "hot": true,
       "hot_count": 3,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/c/ce/Dextra_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260124110012",
@@ -3112,8 +3112,7 @@
         "f9Ein91Z0jM",
         "9OEpa5dxPiE",
         "9yWt3THrAms",
-        "nmEXLc2Dm9M",
-        "JwBz9kfOmEU"
+        "nmEXLc2Dm9M"
       ]
     },
     {
@@ -4640,11 +4639,12 @@
       "counters": [],
       "synergies": [],
       "tier": "B",
-      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 0)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 2,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/3/35/Veera_profile.png/revision/latest/scale-to-width-down/500?cb=20170525133701",
       "related_videos": [
+        "__i-Up3pooM",
         "Y51s1kysXpA"
       ]
     },
@@ -4976,5 +4976,5 @@
       ]
     }
   ],
-  "updated_at": "2026-08-26T11:39:11Z"
+  "updated_at": "2026-08-26T13:06:48Z"
 }
