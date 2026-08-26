@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "eiKAlPePiEo",
+      "title": "NHÌN LẠI HÀNH TRÌNH 10 NĂM | TRƯỚC GIỜ CUỒNG NHIỆT ĐTDV MÙA ĐÔNG 2026",
+      "title_original": "NHÌN LẠI HÀNH TRÌNH 10 NĂM | TRƯỚC GIỜ CUỒNG NHIỆT ĐTDV MÙA ĐÔNG 2026",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-26T11:30:35Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/eiKAlPePiEo/maxresdefault.jpg"
+    },
+    {
       "videoId": "n-MUYccok2I",
       "title": "VUX THỬ THÁCH RANDOM 128 TƯỚNG LEO NICK FAN HƠN 9000 TRẬN LÊN CHIẾN TƯỚNG",
       "title_original": "VUX THỬ THÁCH RANDOM 128 TƯỚNG LEO NICK FAN HƠN 9000 TRẬN LÊN CHIẾN TƯỚNG",
@@ -153,6 +164,17 @@
       "source": "youtube",
       "publishedAt": "2026-08-25T11:18:33Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/cjI43QjT1iU/maxresdefault.jpg"
+    },
+    {
+      "videoId": "myLe7tGjXvA",
+      "title": "Dòng Skin Này Đã Mất Chất Và Hết Thời ?",
+      "title_original": "Dòng Skin Này Đã Mất Chất Và Hết Thời ?",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-25T11:00:01Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/myLe7tGjXvA/maxresdefault.jpg"
     },
     {
       "videoId": "1Fl2pWcWKD8",
@@ -562,6 +584,17 @@
       "thumbnailUrl": "https://i.ytimg.com/vi/Xq19Mkao8DA/maxresdefault.jpg"
     },
     {
+      "videoId": "FIsGFHUNO0I",
+      "title": "Sắp Lên Chiến Thần",
+      "title_original": "Sắp Lên Chiến Thần",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-22T16:30:16Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/FIsGFHUNO0I/maxresdefault.jpg"
+    },
+    {
       "videoId": "Lt8sDVeN_14",
       "title": "GCS 2026 夏季例行賽W1D1-2026/08/22《Garena 傳說對決》",
       "title_original": "GCS 2026 夏季例行賽W1D1-2026/08/22《Garena 傳說對決》",
@@ -571,17 +604,6 @@
       "source": "youtube",
       "publishedAt": "2026-08-22T13:38:28Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/Lt8sDVeN_14/maxresdefault.jpg"
-    },
-    {
-      "videoId": "FIsGFHUNO0I",
-      "title": "Sắp Lên Chiến Thần",
-      "title_original": "Sắp Lên Chiến Thần",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-08-22T13:20:29Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/FIsGFHUNO0I/maxresdefault.jpg"
     },
     {
       "videoId": "eMPsWA5t6uU",
@@ -2177,28 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-08-13T08:10:21Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/AOBaCpBL77o/maxresdefault.jpg"
-    },
-    {
-      "videoId": "iyIaqYxggdk",
-      "title": "Lâu Rồi Trưa Stream Buổi Chưa",
-      "title_original": "Lâu Rồi Trưa Stream Buổi Chưa",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-08-13T05:12:17Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/iyIaqYxggdk/maxresdefault.jpg"
-    },
-    {
-      "videoId": "uvg8vw7WPFg",
-      "title": "MALOCH Cú Luyện Ngục Tốc Biến Vào YORN Quyết Định Khiến Địch Hết Gáy Xin Nhẹ 1 Sao",
-      "title_original": "MALOCH Cú Luyện Ngục Tốc Biến Vào YORN Quyết Định Khiến Địch Hết Gáy Xin Nhẹ 1 Sao",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-08-13T04:43:15Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/uvg8vw7WPFg/maxresdefault.jpg"
     }
   ]
 }

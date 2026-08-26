@@ -1036,13 +1036,12 @@
         "Toro"
       ],
       "tier": "A",
-      "tier_reason": "Xuất hiện 2 lần trong video/tin tức 14 ngày qua (Score: 1)",
+      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 1)",
       "hot": false,
       "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/e/e7/Maloch_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125090603",
       "related_videos": [
-        "4krb7oqTfAA",
-        "uvg8vw7WPFg"
+        "4krb7oqTfAA"
       ]
     },
     {
@@ -4884,13 +4883,12 @@
       "counters": [],
       "synergies": [],
       "tier": "B",
-      "tier_reason": "Xuất hiện 2 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
       "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/5/5c/Yorn_1.jpg/revision/latest/scale-to-width-down/500?cb=20171102213743",
       "related_videos": [
-        "S1yCitjjGMQ",
-        "uvg8vw7WPFg"
+        "S1yCitjjGMQ"
       ]
     },
     {
@@ -4978,5 +4976,5 @@
       ]
     }
   ],
-  "updated_at": "2026-08-26T10:44:28Z"
+  "updated_at": "2026-08-26T11:39:11Z"
 }
