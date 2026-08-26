@@ -1,6 +1,28 @@
 {
   "videos": [
     {
+      "videoId": "T5Y41xAdzAc",
+      "title": "🎎 LỒNG TIẾNG TRANG PHỤC | WISP – TE TÒ HE 🎎 - Garena Liên Quân Mobile",
+      "title_original": "🎎 LỒNG TIẾNG TRANG PHỤC | WISP – TE TÒ HE 🎎 - Garena Liên Quân Mobile",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-26T14:01:44Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/T5Y41xAdzAc/maxresdefault.jpg"
+    },
+    {
+      "videoId": "eYVOyqXYkNY",
+      "title": "🍀 GRAPHIC TRAILER - SỔ SỨ MỆNH 93 CÓ GÌ? 🍀 - Garena Liên Quân Mobile",
+      "title_original": "🍀 GRAPHIC TRAILER - SỔ SỨ MỆNH 93 CÓ GÌ? 🍀 - Garena Liên Quân Mobile",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-26T13:30:09Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/eYVOyqXYkNY/maxresdefault.jpg"
+    },
+    {
       "videoId": "AchHQF2CuEA",
       "title": "ปรับสมดุลฮีโร่ 27 ส.ค. 2569",
       "title_original": "ปรับสมดุลฮีโร่ 27 ส.ค. 2569",
@@ -87,6 +109,17 @@
       "source": "youtube",
       "publishedAt": "2026-08-26T09:59:07Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/K_OvfV-SEmk/maxresdefault.jpg"
+    },
+    {
+      "videoId": "OP5dlBBOTu4",
+      "title": "Maloch Đấu Sĩ Đoạt Thẻ thực sự rất mạnh nhưng mạnh thôi chưa đủ ⚡️⚡️⚡️",
+      "title_original": "Maloch Đấu Sĩ Đoạt Thẻ thực sự rất mạnh nhưng mạnh thôi chưa đủ ⚡️⚡️⚡️",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-26T09:42:52Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/OP5dlBBOTu4/maxresdefault.jpg"
     },
     {
       "videoId": "Pj8GyowbJ_I",
@@ -2166,39 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-08-13T17:31:04Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/xegwY0JvB00/maxresdefault.jpg"
-    },
-    {
-      "videoId": "FLV_idFEpNc",
-      "title": "Bạn Có Tài Mà HAYATE THỨ NGUYÊN VỆ THẦN",
-      "title_original": "Bạn Có Tài Mà HAYATE THỨ NGUYÊN VỆ THẦN",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-08-13T12:15:50Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/FLV_idFEpNc/maxresdefault.jpg"
-    },
-    {
-      "videoId": "GSwoNm86rzg",
-      "title": "CHAMP NGỘ KHỈ \"3 GÕ 1 MẠNG\" VS CELICA ĐỆ TỨ — AI MỚI LÀ CON MỒI?",
-      "title_original": "CHAMP NGỘ KHỈ \"3 GÕ 1 MẠNG\" VS CELICA ĐỆ TỨ — AI MỚI LÀ CON MỒI?",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-08-13T11:35:52Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/GSwoNm86rzg/maxresdefault.jpg"
-    },
-    {
-      "videoId": "ZCHCGydf1yQ",
-      "title": "LAVILLE 20 Phút Nhẫn Nhịn Không Lên Nổi Bờ Sông và Không Tin Nổi Lật Kèo Game Này",
-      "title_original": "LAVILLE 20 Phút Nhẫn Nhịn Không Lên Nổi Bờ Sông và Không Tin Nổi Lật Kèo Game Này",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-08-13T11:24:04Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/ZCHCGydf1yQ/maxresdefault.jpg"
     }
   ]
 }
