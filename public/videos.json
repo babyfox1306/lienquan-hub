@@ -1,6 +1,28 @@
 {
   "videos": [
     {
+      "videoId": "5SpKtc9gXgw",
+      "title": "GCS 2026 夏季例行賽W2D2-2026/08/30《Garena 傳說對決》",
+      "title_original": "GCS 2026 夏季例行賽W2D2-2026/08/30《Garena 傳說對決》",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-26T16:42:06Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/5SpKtc9gXgw/maxresdefault.jpg"
+    },
+    {
+      "videoId": "y7tsTfYOdOA",
+      "title": "GCS 2026 夏季例行賽W2D1-2026/08/28《Garena 傳說對決》",
+      "title_original": "GCS 2026 夏季例行賽W2D1-2026/08/28《Garena 傳說對決》",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-26T16:40:02Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/y7tsTfYOdOA/maxresdefault.jpg"
+    },
+    {
       "videoId": "OJ9aMugSmkI",
       "title": "Leo Chien Tuong",
       "title_original": "Leo Chien Tuong",
@@ -2177,28 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-08-14T03:01:05Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/IWGoWoNd-6g/maxresdefault.jpg"
-    },
-    {
-      "videoId": "oROxHhZCQbc",
-      "title": "Leo TĐ With Jiro",
-      "title_original": "Leo TĐ With Jiro",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-08-13T21:24:26Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/oROxHhZCQbc/maxresdefault.jpg"
-    },
-    {
-      "videoId": "8f7RCMmyTCw",
-      "title": "Ngày Mai Là Tui Già Thêm 1 Tuổi",
-      "title_original": "Ngày Mai Là Tui Già Thêm 1 Tuổi",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-08-13T17:44:39Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/8f7RCMmyTCw/maxresdefault.jpg"
     }
   ]
 }
