@@ -47,8 +47,7 @@
         "ECBWGKwDz48",
         "WNeOhCdv81M",
         "NlW5Ot39Lo4",
-        "4YhQ0fh_i78",
-        "IWGoWoNd-6g"
+        "4YhQ0fh_i78"
       ]
     },
     {
@@ -275,9 +274,9 @@
         "Tulen"
       ],
       "tier": "A",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 1)",
+      "tier_reason": "Được gán từ dữ liệu hạt giống (Seed A-Tier) do ít video mới (Hot Count: 1)",
       "hot": false,
-      "hot_count": 2,
+      "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/5/5a/Yena_profile.jpg/revision/latest/scale-to-width-down/500?cb=20200531224619",
       "related_videos": [
         "JSTZA2S2Bts",
@@ -371,14 +370,14 @@
         "Baldum",
         "Alice"
       ],
-      "tier": "S",
-      "tier_reason": "Được gán từ dữ liệu hạt giống (Seed S-Tier) do ít video mới (Hot Count: 1)",
+      "tier": "A",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 1)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 2,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/1/1f/Hayate_profile.jpg/revision/latest/scale-to-width-down/500?cb=20200531224525",
       "related_videos": [
-        "1Pw2i5aE4BY",
-        "wh6--zX_pPg"
+        "K_OvfV-SEmk",
+        "1Pw2i5aE4BY"
       ]
     },
     {
@@ -2399,8 +2398,7 @@
       "related_videos": [
         "4krb7oqTfAA",
         "gvjCJc4iRuE",
-        "vrjpvhs2gVg",
-        "l6QQ0GNWeWo"
+        "vrjpvhs2gVg"
       ]
     },
     {
@@ -2554,12 +2552,14 @@
       },
       "counters": [],
       "synergies": [],
-      "tier": "B",
-      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier": "A",
+      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 1)",
       "hot": false,
-      "hot_count": 0,
+      "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/c/c7/Aoi_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20210213111102",
-      "related_videos": []
+      "related_videos": [
+        "LhHAJ_L0kmY"
+      ]
     },
     {
       "id": "ata",
@@ -3959,9 +3959,9 @@
       "counters": [],
       "synergies": [],
       "tier": "A",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 1)",
+      "tier_reason": "Xuất hiện 3 lần trong video/tin tức 14 ngày qua (Score: 1)",
       "hot": false,
-      "hot_count": 2,
+      "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/3/34/Moren_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125052805",
       "related_videos": [
         "eMPsWA5t6uU",
@@ -4973,5 +4973,5 @@
       ]
     }
   ],
-  "updated_at": "2026-08-26T23:15:22Z"
+  "updated_at": "2026-08-27T08:40:27Z"
 }
