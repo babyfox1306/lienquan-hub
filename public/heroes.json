@@ -519,14 +519,12 @@
         "Violet",
         "Zata"
       ],
-      "tier": "A",
-      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 1)",
+      "tier": "B",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/e/ec/Thane_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125055815",
-      "related_videos": [
-        "_V_9Z4M_bbQ"
-      ]
+      "related_videos": []
     },
     {
       "id": "baldum",
@@ -806,8 +804,7 @@
       "related_videos": [
         "rR3260-Fvg8",
         "elJIWvKwIf4",
-        "wBxB7r_wvfs",
-        "IpJhuVtf3Og"
+        "wBxB7r_wvfs"
       ]
     },
     {
@@ -3964,14 +3961,13 @@
       "counters": [],
       "synergies": [],
       "tier": "A",
-      "tier_reason": "Xuất hiện 3 lần trong video/tin tức 14 ngày qua (Score: 1)",
+      "tier_reason": "Xuất hiện 2 lần trong video/tin tức 14 ngày qua (Score: 1)",
       "hot": false,
       "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/3/34/Moren_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125052805",
       "related_videos": [
         "eMPsWA5t6uU",
-        "1DfSKm0DvDU",
-        "IpJhuVtf3Og"
+        "1DfSKm0DvDU"
       ]
     },
     {
@@ -4966,7 +4962,7 @@
       "counters": [],
       "synergies": [],
       "tier": "A",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 3, Score: 2)",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 3, Score: 1)",
       "hot": true,
       "hot_count": 3,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/9/9e/Zuka_Splash.png/revision/latest/scale-to-width-down/500?cb=20171204210621",
@@ -4974,11 +4970,9 @@
         "TXMWDJm9hkQ",
         "TU2PP3cuBVc",
         "EzrofHfgMvg",
-        "quEUpeewlIk",
-        "izCzAPyEhcs",
-        "9shyTsxdGjU"
+        "quEUpeewlIk"
       ]
     }
   ],
-  "updated_at": "2026-08-28T17:19:05Z"
+  "updated_at": "2026-08-29T01:40:48Z"
 }

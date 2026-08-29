@@ -41,13 +41,13 @@
       "type": "channel"
     },
     {
-      "id": "UCyqjmx1kcZknycssiIhFQKw",
-      "name": "VuxGaming",
+      "id": "UCwrzeq94NPsz1EHap9r_9NA",
+      "name": "Lai Bâng",
       "type": "channel"
     },
     {
-      "id": "UC55ad8jzcIWCMU-o2CXMEAw",
-      "name": "Thầy Giáo Liên Quân",
+      "id": "UCyqjmx1kcZknycssiIhFQKw",
+      "name": "VuxGaming",
       "type": "channel"
     },
     {
@@ -63,6 +63,11 @@
     {
       "id": "UCMHSTFMGp-k4Z0kG-CfMSWg",
       "name": "HTT GAMER LIÊN QUÂN MOBILE",
+      "type": "channel"
+    },
+    {
+      "id": "UCrROWQp9uPZUiTVHuWBwj9g",
+      "name": "Namsensei",
       "type": "channel"
     },
     {
@@ -93,11 +98,6 @@
     {
       "id": "UCaaylrdGhBZov0HKJ8P6KsA",
       "name": "Garena Liên Quân Mobile",
-      "type": "channel"
-    },
-    {
-      "id": "UCn1vIM_0pyfwcFWsnpCZ7vQ",
-      "name": "M8 Arthur Liên Quân Mobile",
       "type": "channel"
     }
   ],
