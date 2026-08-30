@@ -1,6 +1,72 @@
 {
   "videos": [
     {
+      "videoId": "m2xwD37KhUY",
+      "title": "LIVE: Hồi Trưa Này Đi ĐƠN Ám Ảnh Quá",
+      "title_original": "LIVE: Hồi Trưa Này Đi ĐƠN Ám Ảnh Quá",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-30T15:07:55Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/m2xwD37KhUY/maxresdefault.jpg"
+    },
+    {
+      "videoId": "-E3KHpSy5hQ",
+      "title": "การแข่งขัน RoV Pro League 2026 Winter | รอบเก็บคะแนน Week 2 Day 4",
+      "title_original": "การแข่งขัน RoV Pro League 2026 Winter | รอบเก็บคะแนน Week 2 Day 4",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-30T14:30:22Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/-E3KHpSy5hQ/maxresdefault.jpg"
+    },
+    {
+      "videoId": "C8F1GYF49g8",
+      "title": "Chiến Tướng Cùng PondGaming",
+      "title_original": "Chiến Tướng Cùng PondGaming",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-30T13:11:12Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/C8F1GYF49g8/maxresdefault.jpg"
+    },
+    {
+      "videoId": "5SpKtc9gXgw",
+      "title": "GCS 2026 夏季例行賽W2D2-2026/08/30《Garena 傳說對決》",
+      "title_original": "GCS 2026 夏季例行賽W2D2-2026/08/30《Garena 傳說對決》",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-30T13:10:16Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/5SpKtc9gXgw/maxresdefault.jpg"
+    },
+    {
+      "videoId": "o3L7A6NFeEI",
+      "title": "🔴 LAI BÂNG COSTREAM: SAIGON PHANTOM vs FPT POLYTECHNIC",
+      "title_original": "🔴 LAI BÂNG COSTREAM: SAIGON PHANTOM vs FPT POLYTECHNIC",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-30T12:28:06Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/o3L7A6NFeEI/maxresdefault.jpg"
+    },
+    {
+      "videoId": "hbcfdxmtSjY",
+      "title": "【傳說新造型】安奈特「天使速遞」|造型展示影片《Garena傳說對決》",
+      "title_original": "【傳說新造型】安奈特「天使速遞」|造型展示影片《Garena傳說對決》",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-30T12:00:32Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/hbcfdxmtSjY/maxresdefault.jpg"
+    },
+    {
       "videoId": "iLU-zAouiJM",
       "title": "รวมทีมนักล่าแห่งแสง! ศึกใหญ่อุบัติขึ้นแล้ว | Cinematic (พากย์ไทย)",
       "title_original": "รวมทีมนักล่าแห่งแสง! ศึกใหญ่อุบัติขึ้นแล้ว | Cinematic (พากย์ไทย)",
@@ -46,14 +112,25 @@
     },
     {
       "videoId": "ypmIEgl2Afo",
-      "title": "TRỰC TIẾP: ONE STAR ESPORTS vs REX REGUM QEON - NGÀY GẶP LẠI MÁI NHÀ XƯA | NAMSENSEI CO-STREAM",
-      "title_original": "TRỰC TIẾP: ONE STAR ESPORTS vs REX REGUM QEON - NGÀY GẶP LẠI MÁI NHÀ XƯA | NAMSENSEI CO-STREAM",
+      "title": "TRỰC TIẾP: SAIGON PHANTOM vs FPT POLYTECHNIC - TÂM ĐIỂM TUẦN 1 AOG | NAMSENSEI CO-STREAM",
+      "title_original": "TRỰC TIẾP: SAIGON PHANTOM vs FPT POLYTECHNIC - TÂM ĐIỂM TUẦN 1 AOG | NAMSENSEI CO-STREAM",
       "translated": false,
       "country": "VN",
       "lang_original": "vi",
       "source": "youtube",
       "publishedAt": "2026-08-30T09:40:27Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/ypmIEgl2Afo/maxresdefault.jpg"
+    },
+    {
+      "videoId": "i5dU-NF_3sA",
+      "title": "Liên Quân | Cách Nhận FREE Skin SSS Và 20 Giấy Vẽ Bùa Tuyệt Sắc Sự Kiện Fanzone Nha",
+      "title_original": "Liên Quân | Cách Nhận FREE Skin SSS Và 20 Giấy Vẽ Bùa Tuyệt Sắc Sự Kiện Fanzone Nha",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-30T09:30:02Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/i5dU-NF_3sA/maxresdefault.jpg"
     },
     {
       "videoId": "5bzNYCzoXWo",
@@ -79,8 +156,8 @@
     },
     {
       "videoId": "Rg5Z_dmMlnk",
-      "title": "🔴 TRỰC TIẾP: ONE STAR ESPORTS vs REX REGUM QEON | GIAI ĐOẠN VÒNG BẢNG - LƯỢT ĐI | ĐTDV MÙA ĐÔNG 2026",
-      "title_original": "🔴 TRỰC TIẾP: ONE STAR ESPORTS vs REX REGUM QEON | GIAI ĐOẠN VÒNG BẢNG - LƯỢT ĐI | ĐTDV MÙA ĐÔNG 2026",
+      "title": "🔴 TRỰC TIẾP: SAIGON PHANTOM vs FPT POLYTECHNIC | GIAI ĐOẠN VÒNG BẢNG - LƯỢT ĐI | ĐTDV MÙA ĐÔNG 2026",
+      "title_original": "🔴 TRỰC TIẾP: SAIGON PHANTOM vs FPT POLYTECHNIC | GIAI ĐOẠN VÒNG BẢNG - LƯỢT ĐI | ĐTDV MÙA ĐÔNG 2026",
       "translated": false,
       "country": "VN",
       "lang_original": "vi",
@@ -90,8 +167,8 @@
     },
     {
       "videoId": "f5382DSdR-Y",
-      "title": "🔴 TRỰC TIẾP: ONE STAR ESPORTS vs REX REGUM QEON | GIAI ĐOẠN VÒNG BẢNG - LƯỢT ĐI | ĐTDV MÙA ĐÔNG 2026",
-      "title_original": "🔴 TRỰC TIẾP: ONE STAR ESPORTS vs REX REGUM QEON | GIAI ĐOẠN VÒNG BẢNG - LƯỢT ĐI | ĐTDV MÙA ĐÔNG 2026",
+      "title": "🔴 TRỰC TIẾP: SAIGON PHANTOM vs FPT POLYTECHNIC | GIAI ĐOẠN VÒNG BẢNG - LƯỢT ĐI | ĐTDV MÙA ĐÔNG 2026",
+      "title_original": "🔴 TRỰC TIẾP: SAIGON PHANTOM vs FPT POLYTECHNIC | GIAI ĐOẠN VÒNG BẢNG - LƯỢT ĐI | ĐTDV MÙA ĐÔNG 2026",
       "translated": false,
       "country": "VN",
       "lang_original": "vi",
@@ -111,15 +188,15 @@
       "thumbnailUrl": "https://i.ytimg.com/vi/dKdr0iYRjf0/maxresdefault.jpg"
     },
     {
-      "videoId": "-E3KHpSy5hQ",
-      "title": "🔴𝐋𝐈𝐕𝐄 [เริ่ม 18:40] Bacon Time 🆚 Tenacity | การแข่งขัน RoV Pro League 2026 Winter Week 2 Day 4",
-      "title_original": "🔴𝐋𝐈𝐕𝐄 [เริ่ม 18:40] Bacon Time 🆚 Tenacity | การแข่งขัน RoV Pro League 2026 Winter Week 2 Day 4",
+      "videoId": "wRNqHqZlH-s",
+      "title": "Liên Quân Phát FREE 10 Skin Toàn Sever Sự Kiện Quốc Khánh 2/9 Nhận Quà Cực Xịn Nha",
+      "title_original": "Liên Quân Phát FREE 10 Skin Toàn Sever Sự Kiện Quốc Khánh 2/9 Nhận Quà Cực Xịn Nha",
       "translated": false,
       "country": "VN",
       "lang_original": "vi",
       "source": "youtube",
-      "publishedAt": "2026-08-30T03:58:48Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/-E3KHpSy5hQ/maxresdefault.jpg"
+      "publishedAt": "2026-08-30T04:27:01Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/wRNqHqZlH-s/maxresdefault.jpg"
     },
     {
       "videoId": "-5WdOQP8tKA",
@@ -265,6 +342,17 @@
       "thumbnailUrl": "https://i.ytimg.com/vi/g0tI-sBe9sM/maxresdefault.jpg"
     },
     {
+      "videoId": "jyjFe1e3XTY",
+      "title": "Vấn Đề Kỹ Năng: Thông Thạo Toàn Bộ Phù Hiệu Liên Quân",
+      "title_original": "Vấn Đề Kỹ Năng: Thông Thạo Toàn Bộ Phù Hiệu Liên Quân",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-29T12:00:03Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/jyjFe1e3XTY/maxresdefault.jpg"
+    },
+    {
       "videoId": "jjotgKnpiSA",
       "title": "1 LỘN = NAKROTH TRẮNG MÁU 😲… DO BUILD NÀY HAY VIOLET ĐƯỢC BUFF NGẦM? | Liên Quân",
       "title_original": "1 LỘN = NAKROTH TRẮNG MÁU 😲… DO BUILD NÀY HAY VIOLET ĐƯỢC BUFF NGẦM? | Liên Quân",
@@ -373,6 +461,17 @@
       "source": "youtube",
       "publishedAt": "2026-08-28T17:50:02Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/ZXOAjXwBzyA/maxresdefault.jpg"
+    },
+    {
+      "videoId": "1uCfWiM96A8",
+      "title": "i Sao Ly Tnh Cm",
+      "title_original": "i Sao Ly Tnh Cm",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-28T16:54:54Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/1uCfWiM96A8/maxresdefault.jpg"
     },
     {
       "videoId": "BYAr6q2SoOo",
@@ -628,6 +727,17 @@
       "thumbnailUrl": "https://i.ytimg.com/vi/TXMWDJm9hkQ/maxresdefault.jpg"
     },
     {
+      "videoId": "TFNDmCLREpA",
+      "title": "Người Khôn Đồ Ngon: Trang Bị Nào Là Mạnh Nhất Cho Pháp Sư ?",
+      "title_original": "Người Khôn Đồ Ngon: Trang Bị Nào Là Mạnh Nhất Cho Pháp Sư ?",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-27T11:00:03Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/TFNDmCLREpA/maxresdefault.jpg"
+    },
+    {
       "videoId": "pIP9n1kpi4E",
       "title": "เดินเกม Nakroth เล่นให้โหด โดย Qzadd | สกิน Nakroth Kitngai แจกฟรี",
       "title_original": "เดินเกม Nakroth เล่นให้โหด โดย Qzadd | สกิน Nakroth Kitngai แจกฟรี",
@@ -725,17 +835,6 @@
       "source": "youtube",
       "publishedAt": "2026-08-27T02:07:36Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/LhHAJ_L0kmY/maxresdefault.jpg"
-    },
-    {
-      "videoId": "5SpKtc9gXgw",
-      "title": "🔴 LIVE:BMG 🆚 HKA| GCS 2026 夏季例行賽W2D2-2026/08/30《Garena 傳說對決》",
-      "title_original": "🔴 LIVE:BMG 🆚 HKA| GCS 2026 夏季例行賽W2D2-2026/08/30《Garena 傳說對決》",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-08-26T16:42:06Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/5SpKtc9gXgw/maxresdefault.jpg"
     },
     {
       "videoId": "T5Y41xAdzAc",
@@ -2100,105 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-08-19T09:01:22Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/pNbL76MC7oE/maxresdefault.jpg"
-    },
-    {
-      "videoId": "5ry2pmDS3cA",
-      "title": "Hien Tai 95KG",
-      "title_original": "Hien Tai 95KG",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-08-19T05:20:34Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/5ry2pmDS3cA/maxresdefault.jpg"
-    },
-    {
-      "videoId": "Rdy52i0TD1Q",
-      "title": "BILLOW Liên Quân Sốc Dame Khiến ZILL và ZATA Không Kịp Dùng Chiêu Món Đồ Trấn Phái",
-      "title_original": "BILLOW Liên Quân Sốc Dame Khiến ZILL và ZATA Không Kịp Dùng Chiêu Món Đồ Trấn Phái",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-08-19T04:16:27Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/Rdy52i0TD1Q/maxresdefault.jpg"
-    },
-    {
-      "videoId": "PgieRVOZnyw",
-      "title": "Vĩnh Đất & Huy Hoàng Đại Chiến Team FPT - Đối Đầu Đỉnh Cao, Lật Kèo Không Tưởng Với Con Bài Yena",
-      "title_original": "Vĩnh Đất & Huy Hoàng Đại Chiến Team FPT - Đối Đầu Đỉnh Cao, Lật Kèo Không Tưởng Với Con Bài Yena",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-08-19T03:17:47Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/PgieRVOZnyw/maxresdefault.jpg"
-    },
-    {
-      "videoId": "ZLWimUiy_zk",
-      "title": "TOP 5 Tướng Kỹ Năng Thấp, Chấp Luôn Tướng Kỹ Năng Cao Meta S3 2026, TNG",
-      "title_original": "TOP 5 Tướng Kỹ Năng Thấp, Chấp Luôn Tướng Kỹ Năng Cao Meta S3 2026, TNG",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-08-19T03:05:42Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/ZLWimUiy_zk/maxresdefault.jpg"
-    },
-    {
-      "videoId": "K-g4xMjINfk",
-      "title": "Leo Top 10 Thách Đấu ( Day 16 )",
-      "title_original": "Leo Top 10 Thách Đấu ( Day 16 )",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-08-18T22:05:02Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/K-g4xMjINfk/maxresdefault.jpg"
-    },
-    {
-      "videoId": "oDEjR_75HHE",
-      "title": "CHUYỂN NHƯỢNG AOG W26 - ĐTDV THAY ĐỔI THỂ THỨC, FPT HẬU GRAY RA SAO? | BLV NAMSENSEI",
-      "title_original": "CHUYỂN NHƯỢNG AOG W26 - ĐTDV THAY ĐỔI THỂ THỨC, FPT HẬU GRAY RA SAO? | BLV NAMSENSEI",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-08-18T18:53:32Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/oDEjR_75HHE/maxresdefault.jpg"
-    },
-    {
-      "videoId": "wb1CFuc52vM",
-      "title": "LỊCH SỬ ĐẤU BUỔI STREAM NÀY CHÓI MẮT QUÁ",
-      "title_original": "LỊCH SỬ ĐẤU BUỔI STREAM NÀY CHÓI MẮT QUÁ",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-08-18T17:47:55Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/wb1CFuc52vM/maxresdefault.jpg"
-    },
-    {
-      "videoId": "zLR9XmHKQLs",
-      "title": "【主題曲】逆風(玖壹壹)- GCS 2026 夏季賽 Official MV 《Garena傳說對決》",
-      "title_original": "【主題曲】逆風(玖壹壹)- GCS 2026 夏季賽 Official MV 《Garena傳說對決》",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-08-18T12:04:39Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/zLR9XmHKQLs/maxresdefault.jpg"
-    },
-    {
-      "videoId": "NlW5Ot39Lo4",
-      "title": "Liên Quân | Cách Tôi Chơi NAKROTH Khắc Chế RYOMA Trận Này",
-      "title_original": "Liên Quân | Cách Tôi Chơi NAKROTH Khắc Chế RYOMA Trận Này",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-08-18T11:35:51Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/NlW5Ot39Lo4/maxresdefault.jpg"
     }
   ]
 }
