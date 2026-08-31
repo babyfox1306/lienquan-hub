@@ -1,6 +1,39 @@
 {
   "videos": [
     {
+      "videoId": "F7Lk20uQ4M4",
+      "title": "SAIGON PHANTOM VS FPT POLYTECHNIC | VÒNG BẢNG - LƯỢT ĐI | ĐẤU TRƯỜNG DANH VỌNG MÙA ĐÔNG 2026",
+      "title_original": "SAIGON PHANTOM VS FPT POLYTECHNIC | VÒNG BẢNG - LƯỢT ĐI | ĐẤU TRƯỜNG DANH VỌNG MÙA ĐÔNG 2026",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-31T01:00:01Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/F7Lk20uQ4M4/maxresdefault.jpg"
+    },
+    {
+      "videoId": "CvAx0aGoqF0",
+      "title": "TEAM SECRET VS FPT X FLASH | VÒNG BẢNG - LƯỢT ĐI | ĐẤU TRƯỜNG DANH VỌNG MÙA ĐÔNG 2026",
+      "title_original": "TEAM SECRET VS FPT X FLASH | VÒNG BẢNG - LƯỢT ĐI | ĐẤU TRƯỜNG DANH VỌNG MÙA ĐÔNG 2026",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-31T00:30:33Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/CvAx0aGoqF0/maxresdefault.jpg"
+    },
+    {
+      "videoId": "uiMZKAcZeJ0",
+      "title": "ONE STAR ESPORTS VS REX REGUM QEON | VÒNG BẢNG - LƯỢT ĐI | ĐẤU TRƯỜNG DANH VỌNG MÙA ĐÔNG 2026",
+      "title_original": "ONE STAR ESPORTS VS REX REGUM QEON | VÒNG BẢNG - LƯỢT ĐI | ĐẤU TRƯỜNG DANH VỌNG MÙA ĐÔNG 2026",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-31T00:30:10Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/uiMZKAcZeJ0/maxresdefault.jpg"
+    },
+    {
       "videoId": "o3L7A6NFeEI",
       "title": "🔴 LAI BÂNG COSTREAM: SAIGON PHANTOM vs FPT POLYTECHNIC",
       "title_original": "🔴 LAI BÂNG COSTREAM: SAIGON PHANTOM vs FPT POLYTECHNIC",
@@ -2166,39 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-08-19T12:00:17Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/6Dr2RWS2dLU/maxresdefault.jpg"
-    },
-    {
-      "videoId": "sDXa-wAbevE",
-      "title": "Lin Qun | Li Phi Gp i Hnh \"VALHEIN V NHNG NGI BN\" Ca Anh ",
-      "title_original": "Lin Qun | Li Phi Gp i Hnh \"VALHEIN V NHNG NGI BN\" Ca Anh ",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-08-19T11:31:05Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/sDXa-wAbevE/maxresdefault.jpg"
-    },
-    {
-      "videoId": "QUxZn2yw3Pg",
-      "title": "ĐẦU GAME ĐỆ TỨ ÓC CHÓ… NÀO NGỜ 10 PHÚT SAU… 😤 | Liên Quân",
-      "title_original": "ĐẦU GAME ĐỆ TỨ ÓC CHÓ… NÀO NGỜ 10 PHÚT SAU… 😤 | Liên Quân",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-08-19T11:15:31Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/QUxZn2yw3Pg/maxresdefault.jpg"
-    },
-    {
-      "videoId": "PuMuzMk7pG4",
-      "title": "Tôi Xếp Hạng Các Vị Tướng Trợ Thủ Trong Liên Quân",
-      "title_original": "Tôi Xếp Hạng Các Vị Tướng Trợ Thủ Trong Liên Quân",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-08-19T11:15:01Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/PuMuzMk7pG4/maxresdefault.jpg"
     }
   ]
 }
