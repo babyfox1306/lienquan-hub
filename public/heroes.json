@@ -283,8 +283,7 @@
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/5/5a/Yena_profile.jpg/revision/latest/scale-to-width-down/500?cb=20200531224619",
       "related_videos": [
-        "JSTZA2S2Bts",
-        "MxKadjMbZFU"
+        "JSTZA2S2Bts"
       ]
     },
     {
@@ -1278,15 +1277,14 @@
         "Nakroth"
       ],
       "tier": "A",
-      "tier_reason": "Xuất hiện 4 lần trong video/tin tức 14 ngày qua (Score: 2)",
+      "tier_reason": "Xuất hiện 3 lần trong video/tin tức 14 ngày qua (Score: 2)",
       "hot": false,
       "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/d/d4/Liliana_Default.jpg/revision/latest/scale-to-width-down/500?cb=20180331134150",
       "related_videos": [
         "-5WdOQP8tKA",
         "RMD_dEKmw3w",
-        "E6sEN62rS-c",
-        "xnkZ4l5B3oA"
+        "E6sEN62rS-c"
       ]
     },
     {
@@ -2074,12 +2072,14 @@
         "Grakk",
         "Thane"
       ],
-      "tier": "C",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: -1)",
-      "hot": false,
-      "hot_count": 2,
+      "tier": "B",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 4, Score: 0)",
+      "hot": true,
+      "hot_count": 4,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/e/e1/Natalya.png/revision/latest?cb=20210109153000",
       "related_videos": [
+        "xPnxloCMGFE",
+        "cl0ff7qK3OE",
         "dKdr0iYRjf0",
         "IRbopuYB-6I"
       ]
@@ -4974,5 +4974,5 @@
       ]
     }
   ],
-  "updated_at": "2026-09-01T01:13:39Z"
+  "updated_at": "2026-09-01T07:39:55Z"
 }
