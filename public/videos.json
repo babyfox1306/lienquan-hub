@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "V6M0QvE2feg",
+      "title": "Lai bâng  : THEISLE",
+      "title_original": "Lai bâng  : THEISLE",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-08-31T22:56:44Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/V6M0QvE2feg/maxresdefault.jpg"
+    },
+    {
       "videoId": "PAov5SZqaBg",
       "title": "\"SLEEPY CỐ GẮNG VÀI NĂM NỮA ĐẾN KHI GIẢI NGHỆ THÌ SẼ BẰNG MÌNH\" - SGP FISH | ĐẤU XONG THẤY SAO",
       "title_original": "\"SLEEPY CỐ GẮNG VÀI NĂM NỮA ĐẾN KHI GIẢI NGHỆ THÌ SẼ BẰNG MÌNH\" - SGP FISH | ĐẤU XONG THẤY SAO",
@@ -142,17 +153,6 @@
       "source": "youtube",
       "publishedAt": "2026-08-30T19:20:08Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/o3L7A6NFeEI/maxresdefault.jpg"
-    },
-    {
-      "videoId": "V6M0QvE2feg",
-      "title": "Lai bâng  : THEISLE",
-      "title_original": "Lai bâng  : THEISLE",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-08-30T19:06:27Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/V6M0QvE2feg/maxresdefault.jpg"
     },
     {
       "videoId": "m2xwD37KhUY",
