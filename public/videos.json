@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "kuVGCUVmoTg",
+      "title": "Gánh Tui Ít Sao Bạn",
+      "title_original": "Gánh Tui Ít Sao Bạn",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-09-01T17:28:52Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/kuVGCUVmoTg/maxresdefault.jpg"
+    },
+    {
       "videoId": "q6eKLmpzH1E",
       "title": "Chiến Trường Tàn Khốc Quá",
       "title_original": "Chiến Trường Tàn Khốc Quá",
@@ -2188,17 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-08-21T03:00:34Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/Iha_Nyj3zr0/maxresdefault.jpg"
-    },
-    {
-      "videoId": "fIlxC9odbxo",
-      "title": "🔴LIVE: Vĩnh Đất Leo Top 1 Thách Đấu 8/20",
-      "title_original": "🔴LIVE: Vĩnh Đất Leo Top 1 Thách Đấu 8/20",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-08-20T19:00:54Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/fIlxC9odbxo/maxresdefault.jpg"
     }
   ]
 }
