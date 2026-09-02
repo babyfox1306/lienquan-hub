@@ -39,15 +39,14 @@
         "Krixi"
       ],
       "tier": "A",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 3, Score: 2)",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 3, Score: 1)",
       "hot": true,
       "hot_count": 3,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/3/3f/Nakroth_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20201224121203",
       "related_videos": [
         "jjotgKnpiSA",
         "pIP9n1kpi4E",
-        "EBBa2ntEh7s",
-        "ECBWGKwDz48"
+        "EBBa2ntEh7s"
       ]
     },
     {
@@ -370,16 +369,15 @@
         "Baldum",
         "Alice"
       ],
-      "tier": "A",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 3, Score: 1)",
-      "hot": true,
-      "hot_count": 3,
+      "tier": "B",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 0)",
+      "hot": false,
+      "hot_count": 2,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/1/1f/Hayate_profile.jpg/revision/latest/scale-to-width-down/500?cb=20200531224525",
       "related_videos": [
         "4gRjQF2AuOA",
         "4XK0hUh9TIM",
-        "K_OvfV-SEmk",
-        "1Pw2i5aE4BY"
+        "K_OvfV-SEmk"
       ]
     },
     {
@@ -988,8 +986,7 @@
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/a/ab/Volkath_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20200531224601",
       "related_videos": [
-        "Ruh10mj0Osg",
-        "v59L1l5uU10"
+        "Ruh10mj0Osg"
       ]
     },
     {
@@ -1035,7 +1032,7 @@
       "tier": "A",
       "tier_reason": "Xuất hiện 2 lần trong video/tin tức 14 ngày qua (Score: 2)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/e/e7/Maloch_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125090603",
       "related_videos": [
         "OP5dlBBOTu4",
@@ -4233,12 +4230,13 @@
       },
       "counters": [],
       "synergies": [],
-      "tier": "B",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 0)",
-      "hot": false,
-      "hot_count": 2,
+      "tier": "C",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 3, Score: -1)",
+      "hot": true,
+      "hot_count": 3,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/f/f2/Ryoma_Gunslinger.png/revision/latest/scale-to-width-down/500?cb=20180313083407",
       "related_videos": [
+        "0gGgpdZjoAU",
         "dKdr0iYRjf0",
         "kwcNY_Ny8eo"
       ]
@@ -4631,7 +4629,7 @@
       "tier": "B",
       "tier_reason": "Xuất hiện 2 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/3/35/Veera_profile.png/revision/latest/scale-to-width-down/500?cb=20170525133701",
       "related_videos": [
         "__i-Up3pooM",
@@ -4956,16 +4954,17 @@
       "counters": [],
       "synergies": [],
       "tier": "A",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 1)",
-      "hot": false,
-      "hot_count": 2,
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 3, Score: 1)",
+      "hot": true,
+      "hot_count": 3,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/9/9e/Zuka_Splash.png/revision/latest/scale-to-width-down/500?cb=20171204210621",
       "related_videos": [
+        "QXRO5IQ1rPw",
         "TXMWDJm9hkQ",
         "TU2PP3cuBVc",
         "EzrofHfgMvg"
       ]
     }
   ],
-  "updated_at": "2026-09-02T08:44:38Z"
+  "updated_at": "2026-09-02T13:32:55Z"
 }
