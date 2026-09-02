@@ -797,8 +797,7 @@
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/7/7c/Toro_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125082122",
       "related_videos": [
         "ko8nESnotrg",
-        "rR3260-Fvg8",
-        "elJIWvKwIf4"
+        "rR3260-Fvg8"
       ]
     },
     {
@@ -1077,15 +1076,14 @@
         "Thane",
         "Grakk"
       ],
-      "tier": "A",
-      "tier_reason": "Xuất hiện 3 lần trong video/tin tức 14 ngày qua (Score: 1)",
+      "tier": "B",
+      "tier_reason": "Xuất hiện 2 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/c/c4/Krixi_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260124103537",
       "related_videos": [
         "tWfIVMYAlME",
-        "2Qdo_WePD2g",
-        "uCqmN7EVTE4"
+        "2Qdo_WePD2g"
       ]
     },
     {
@@ -3098,13 +3096,12 @@
       "counters": [],
       "synergies": [],
       "tier": "B",
-      "tier_reason": "Xuất hiện 2 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/c/ce/Dextra_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260124110012",
       "related_videos": [
-        "f9Ein91Z0jM",
-        "9OEpa5dxPiE"
+        "f9Ein91Z0jM"
       ]
     },
     {
@@ -4710,9 +4707,9 @@
       "counters": [],
       "synergies": [],
       "tier": "B",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 0)",
+      "tier_reason": "Xuất hiện 3 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
-      "hot_count": 2,
+      "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/9/94/Wisp_Default.jpg/revision/latest/scale-to-width-down/500?cb=20180419063145",
       "related_videos": [
         "OEXTL6FKuxI",
@@ -4966,5 +4963,5 @@
       ]
     }
   ],
-  "updated_at": "2026-09-02T13:32:55Z"
+  "updated_at": "2026-09-02T17:52:26Z"
 }

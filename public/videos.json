@@ -1,9 +1,53 @@
 {
   "videos": [
     {
+      "videoId": "S-d1eNZUSPc",
+      "title": "RANK ĐƠN CÓ GÌ NÓNG",
+      "title_original": "RANK ĐƠN CÓ GÌ NÓNG",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-09-02T17:34:55Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/S-d1eNZUSPc/maxresdefault.jpg"
+    },
+    {
+      "videoId": "_MGkiPUD2Ew",
+      "title": "GCS 2026 夏季例行賽W3D2-2026/09/05《Garena 傳說對決》",
+      "title_original": "GCS 2026 夏季例行賽W3D2-2026/09/05《Garena 傳說對決》",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-09-02T17:11:21Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/_MGkiPUD2Ew/maxresdefault.jpg"
+    },
+    {
+      "videoId": "VCBpaMhGCfg",
+      "title": "GCS 2026 夏季例行賽W3D1-2026/09/04《Garena 傳說對決》",
+      "title_original": "GCS 2026 夏季例行賽W3D1-2026/09/04《Garena 傳說對決》",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-09-02T17:10:06Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/VCBpaMhGCfg/maxresdefault.jpg"
+    },
+    {
+      "videoId": "pih8Vernxpo",
+      "title": "Hehe hello mấy vợ và mấy chông",
+      "title_original": "Hehe hello mấy vợ và mấy chông",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-09-02T14:34:52Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/pih8Vernxpo/maxresdefault.jpg"
+    },
+    {
       "videoId": "ZhNbGJnT0oI",
-      "title": "🔴𝐋𝐈𝐕𝐄 การแข่งขัน RoV Master Youth Champion 2026 รอบคัดเลือก 128 ทีมสุดท้าย",
-      "title_original": "🔴𝐋𝐈𝐕𝐄 การแข่งขัน RoV Master Youth Champion 2026 รอบคัดเลือก 128 ทีมสุดท้าย",
+      "title": "การแข่งขัน RoV Master Youth Champion 2026 รอบคัดเลือก 128 ทีมสุดท้าย",
+      "title_original": "การแข่งขัน RoV Master Youth Champion 2026 รอบคัดเลือก 128 ทีมสุดท้าย",
       "translated": false,
       "country": "VN",
       "lang_original": "vi",
@@ -2155,50 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-08-21T19:16:41Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/LwoaY70P0Do/maxresdefault.jpg"
-    },
-    {
-      "videoId": "9OEpa5dxPiE",
-      "title": "SKIN Spotlight | Formula Glory Dextra (แจกฟรี 22 ส.ค.)",
-      "title_original": "SKIN Spotlight | Formula Glory Dextra (แจกฟรี 22 ส.ค.)",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-08-21T13:00:39Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/9OEpa5dxPiE/maxresdefault.jpg"
-    },
-    {
-      "videoId": "uCqmN7EVTE4",
-      "title": "CHAMP NGỘ KHỈ \"3 GÕ 1 MẠNG\" Bị KRIXI Sau Buff UÝNH NHƯ CON ĐẺ và.. | Liên Quân",
-      "title_original": "CHAMP NGỘ KHỈ \"3 GÕ 1 MẠNG\" Bị KRIXI Sau Buff UÝNH NHƯ CON ĐẺ và.. | Liên Quân",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-08-21T12:03:30Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/uCqmN7EVTE4/maxresdefault.jpg"
-    },
-    {
-      "videoId": "elJIWvKwIf4",
-      "title": "Toro \"Ông Cố Nội\" Xuất Hiện: Đối Thủ Chỉ Biết Bất Lực Và Bất Đồng Quan Điểm",
-      "title_original": "Toro \"Ông Cố Nội\" Xuất Hiện: Đối Thủ Chỉ Biết Bất Lực Và Bất Đồng Quan Điểm",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-08-21T12:00:20Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/elJIWvKwIf4/maxresdefault.jpg"
-    },
-    {
-      "videoId": "6g-lWB_EV_I",
-      "title": "FLASH DIARY | MARIS VÀ HUY HOÀNG ĐI \"LEO RANK\" ĐỜI THỰC",
-      "title_original": "FLASH DIARY | MARIS VÀ HUY HOÀNG ĐI \"LEO RANK\" ĐỜI THỰC",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-08-21T12:00:18Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/6g-lWB_EV_I/maxresdefault.jpg"
     }
   ]
 }
