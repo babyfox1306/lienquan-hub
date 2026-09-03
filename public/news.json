@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-02T23:16:04.526534",
+  "last_updated": "2026-09-03T03:57:46.234357",
   "total_news": 100,
   "news": [
     {
@@ -13,6 +13,19 @@
       "published_at": "2026-08-28T04:45:26Z",
       "crawled_at": "2026-08-28T17:14:15.021898",
       "category": "esports",
+      "priority": 1
+    },
+    {
+      "id": "e179bbd82bb0",
+      "title": "HÈ CHÁY RANK – MỞ QUÀ LIÊN QUÂN TRÊN SHOPEE",
+      "link": "https://lienquan.garena.vn/he-chay-rank-mo-qua-lien-quan-tren-shopee-2/",
+      "summary": "<p>Mùa hè này, Shopee cùng Liên Quân Mobile mang đến chương trình dành riêng cho người chơi với hàng loạt phần quà hấp dẫn. Chỉ cần tham gia mở quà trên Shopee, bạn sẽ có [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/he-chay-rank-mo-qua-lien-quan-tren-shopee-2/\">HÈ CHÁY RANK – MỞ QUÀ LIÊN QUÂN TRÊN SHOPEE</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2026/09/860x400-1.png",
+      "source": "Liên Quân Mobile Official",
+      "source_url": "https://lienquan.garena.vn/rss",
+      "published_at": "2026-08-28T03:35:15Z",
+      "crawled_at": "2026-09-03T03:52:55.097979",
+      "category": "tin tức",
       "priority": 1
     },
     {
@@ -1286,19 +1299,6 @@
       "source_url": "https://lienquan.garena.vn/rss",
       "published_at": "2026-02-23T14:27:26Z",
       "crawled_at": "2026-02-23T15:13:56.644629",
-      "category": "tướng",
-      "priority": 1
-    },
-    {
-      "id": "ba4d8e078c54",
-      "title": "CẬP NHẬT THÔNG TIN SỰ KIỆN LÌ XÌ LINH BẢO",
-      "link": "https://lienquan.garena.vn/cap-nhat-li-xi-linh-bao/",
-      "summary": "<p>Cập nhật thông tin sự kiện Lì Xì Linh Bảo, hợp tác thương hiệu Liên Quân Mobile X My Little Pony Thưa các Kiện tướng, sau khi tiếp nhận phản hồi về sự kiện Lì [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/cap-nhat-li-xi-linh-bao/\">CẬP NHẬT THÔNG TIN SỰ KIỆN LÌ XÌ LINH BẢO</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
-      "image_url": null,
-      "source": "Liên Quân Mobile Official",
-      "source_url": "https://lienquan.garena.vn/rss",
-      "published_at": "2026-02-23T04:02:39Z",
-      "crawled_at": "2026-02-23T04:38:13.898934",
       "category": "tướng",
       "priority": 1
     }
