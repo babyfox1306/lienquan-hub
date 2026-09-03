@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-09-03T03:57:46.234357",
+  "last_updated": "2026-09-03T08:53:00.439112",
   "total_news": 100,
   "news": [
+    {
+      "id": "324b7774d5cf",
+      "title": "HỒI ỨC LIÊN QUÂN – CHÍNH THỨC TÌM RA NHỮNG CÂU CHUYỆN ẤN TƯỢNG NHẤT 🥳",
+      "link": "https://lienquan.garena.vn/hoi-uc-lien-quan-chinh-thuc-tim-ra-nhung-cau-chuyen-an-tuong-nhat/",
+      "summary": "<p>Xin chào các Kiện tướng, Sau thời gian tiếp nhận và lựa chọn những câu chuyện được chia sẻ từ cộng đồng, cuộc thi Hồi Ức Liên Quân đã chính thức khép lại và tìm [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/hoi-uc-lien-quan-chinh-thuc-tim-ra-nhung-cau-chuyen-an-tuong-nhat/\">HỒI ỨC LIÊN QUÂN &#8211; CHÍNH THỨC TÌM RA NHỮNG CÂU CHUYỆN ẤN TƯỢNG NHẤT 🥳</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2026/08/SeaTalk_IMG_20260812_150618.png",
+      "source": "Liên Quân Mobile Official",
+      "source_url": "https://lienquan.garena.vn/rss",
+      "published_at": "2026-09-03T04:32:55Z",
+      "crawled_at": "2026-09-03T08:48:06.674009",
+      "category": "tướng",
+      "priority": 1
+    },
     {
       "id": "7098c21d49a4",
       "title": "realme Đồng Hành Cùng Đấu Trường Danh Vọng Mùa Đông 2026: Đánh Dấu Hành Trình Thập Kỷ Nâng Tầm Esports Việt",
@@ -1287,19 +1300,6 @@
       "published_at": "2026-02-24T09:07:41Z",
       "crawled_at": "2026-02-24T09:14:17.126086",
       "category": "tin tức",
-      "priority": 1
-    },
-    {
-      "id": "41373c366705",
-      "title": "THÔNG BÁO SỰ CỐ & XIN LỖI CỘNG ĐỒNG VỀ LỖI SỰ KIỆN CHUNG SỨC MỞ VẬN",
-      "link": "https://lienquan.garena.vn/thong-bao-su-co-xin-loi-cong-dong-ve-loi-su-kien-chung-suc-mo-van/",
-      "summary": "<p>THÔNG BÁO SỰ CỐ &#38; XIN LỖI CỘNG ĐỒNG VỀ LỖI SỰ KIỆN CHUNG SỨC MỞ VẬN Kính gửi toàn thể các kiện tướng, Vào tối ngày 22/2, Hội Đồng nhận được báo cáo từ [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/thong-bao-su-co-xin-loi-cong-dong-ve-loi-su-kien-chung-suc-mo-van/\">THÔNG BÁO SỰ CỐ &#038; XIN LỖI CỘNG ĐỒNG VỀ LỖI SỰ KIỆN CHUNG SỨC MỞ VẬN</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
-      "image_url": null,
-      "source": "Liên Quân Mobile Official",
-      "source_url": "https://lienquan.garena.vn/rss",
-      "published_at": "2026-02-23T14:27:26Z",
-      "crawled_at": "2026-02-23T15:13:56.644629",
-      "category": "tướng",
       "priority": 1
     }
   ]
