@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "e9roSiXOmlE",
+      "title": "RANK ĐƠN KHUM",
+      "title_original": "RANK ĐƠN KHUM",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-09-03T18:04:37Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/e9roSiXOmlE/maxresdefault.jpg"
+    },
+    {
       "videoId": "vgML_IspPbc",
       "title": "🔴 TRỰC TIẾP: GAM ESPORTS vs TEAM SECRET | GIAI ĐOẠN VÒNG BẢNG - LƯỢT ĐI | ĐTDV MÙA ĐÔNG 2026",
       "title_original": "🔴 TRỰC TIẾP: GAM ESPORTS vs TEAM SECRET | GIAI ĐOẠN VÒNG BẢNG - LƯỢT ĐI | ĐTDV MÙA ĐÔNG 2026",
@@ -43,17 +54,6 @@
       "source": "youtube",
       "publishedAt": "2026-09-03T14:25:02Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/nxGvm_wB8do/maxresdefault.jpg"
-    },
-    {
-      "videoId": "e9roSiXOmlE",
-      "title": "RANK ĐƠN KHUM",
-      "title_original": "RANK ĐƠN KHUM",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-09-03T14:13:35Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/e9roSiXOmlE/maxresdefault.jpg"
     },
     {
       "videoId": "Rlp9acVfx6M",
