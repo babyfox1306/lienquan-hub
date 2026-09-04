@@ -2702,9 +2702,9 @@
       "counters": [],
       "synergies": [],
       "tier": "B",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 0)",
+      "tier_reason": "Xuất hiện 3 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
-      "hot_count": 2,
+      "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/0/0c/Bijan.jpg/revision/latest?cb=20230718044752",
       "related_videos": [
         "gsKHeQQBoQ4",
@@ -4959,5 +4959,5 @@
       ]
     }
   ],
-  "updated_at": "2026-09-04T17:35:03Z"
+  "updated_at": "2026-09-04T20:40:38Z"
 }
