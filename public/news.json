@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-09-04T08:48:45.161334",
+  "last_updated": "2026-09-04T13:26:18.916797",
   "total_news": 100,
   "news": [
+    {
+      "id": "46d6e3971ea9",
+      "title": "THỂ LỆ CUỘC THI ẢNH LIÊN QUÂN GẮN KẾT 🤩",
+      "link": "https://lienquan.garena.vn/the-le-cuoc-thi-anh-lien-quan-gan-ket/",
+      "summary": "<p>Xin chào các Kiện Tướng, 10 năm Liên Quân Mobile là 10 năm được tạo nên từ những trận đấu, những người đồng đội và hàng triệu khoảnh khắc khác nhau của cộng đồng. Cuộc [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/the-le-cuoc-thi-anh-lien-quan-gan-ket/\">THỂ LỆ CUỘC THI ẢNH LIÊN QUÂN GẮN KẾT 🤩</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2026/09/8cd947f3-92b3-4631-aae4-5923b042393a.jpg",
+      "source": "Liên Quân Mobile Official",
+      "source_url": "https://lienquan.garena.vn/rss",
+      "published_at": "2026-09-04T12:02:40Z",
+      "crawled_at": "2026-09-04T13:21:19.433601",
+      "category": "tướng",
+      "priority": 1
+    },
     {
       "id": "324b7774d5cf",
       "title": "HỒI ỨC LIÊN QUÂN – CHÍNH THỨC TÌM RA NHỮNG CÂU CHUYỆN ẤN TƯỢNG NHẤT 🥳",
@@ -1287,19 +1300,6 @@
       "published_at": "2026-02-25T10:20:39Z",
       "crawled_at": "2026-02-25T11:14:01.753972",
       "category": "skin",
-      "priority": 1
-    },
-    {
-      "id": "95141ecfa09b",
-      "title": "SỰ KIỆN ĐI LỄ ĐẦU XUÂN",
-      "link": "https://lienquan.garena.vn/su-kien-di-le-dau-xuan/",
-      "summary": "<p>1.Trong suốt 10 ngày sự kiện, mỗi ngày, ngôi chùa sẽ mở cửa theo 3 khung giờ linh thiêng: &#8211; 07:01 – 12:00 &#8211; 12:01 – 18:00 &#8211; 18:01 – 24:00&#8243; &#8220;Mỗi lần đăng nhập [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/su-kien-di-le-dau-xuan/\">SỰ KIỆN ĐI LỄ ĐẦU XUÂN</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
-      "image_url": null,
-      "source": "Liên Quân Mobile Official",
-      "source_url": "https://lienquan.garena.vn/rss",
-      "published_at": "2026-02-24T09:07:41Z",
-      "crawled_at": "2026-02-24T09:14:17.126086",
-      "category": "tin tức",
       "priority": 1
     }
   ]

@@ -1,6 +1,50 @@
 {
   "videos": [
     {
+      "videoId": "VCBpaMhGCfg",
+      "title": "GCS 2026 夏季例行賽W3D1-2026/09/04《Garena 傳說對決》",
+      "title_original": "GCS 2026 夏季例行賽W3D1-2026/09/04《Garena 傳說對決》",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-09-04T12:35:49Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/VCBpaMhGCfg/maxresdefault.jpg"
+    },
+    {
+      "videoId": "cRYejXtZIKY",
+      "title": "PHIÊN BẢN MỚI: YORN SỬA NỘI TẠI MỚI, Khởi Nghĩa Thất Bại, Giữ Nguyên Check Bụi Tự Bóp",
+      "title_original": "PHIÊN BẢN MỚI: YORN SỬA NỘI TẠI MỚI, Khởi Nghĩa Thất Bại, Giữ Nguyên Check Bụi Tự Bóp",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-09-04T09:30:22Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/cRYejXtZIKY/maxresdefault.jpg"
+    },
+    {
+      "videoId": "41J0NbeAVa0",
+      "title": "TRỰC TIẾP: SAIGON PHANTOM vs REX REGUM QEON - THẾ TRẬN MỘT CHIỀU? | NAMSENSEI COSTREAM",
+      "title_original": "TRỰC TIẾP: SAIGON PHANTOM vs REX REGUM QEON - THẾ TRẬN MỘT CHIỀU? | NAMSENSEI COSTREAM",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-09-04T09:04:56Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/41J0NbeAVa0/maxresdefault.jpg"
+    },
+    {
+      "videoId": "G6lJy66rgcg",
+      "title": "TIẾP TỤC LÀ RANK ĐƠN",
+      "title_original": "TIẾP TỤC LÀ RANK ĐƠN",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-09-04T09:03:55Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/G6lJy66rgcg/maxresdefault.jpg"
+    },
+    {
       "videoId": "zf2L6CpzK_w",
       "title": "【傳說新造型】龍馬「詭影童話」|造型展示影片《Garena傳說對決》",
       "title_original": "【傳說新造型】龍馬「詭影童話」|造型展示影片《Garena傳說對決》",
@@ -13,8 +57,8 @@
     },
     {
       "videoId": "zWdecsiAyjo",
-      "title": "🔴𝐋𝐈𝐕𝐄 [เริ่ม 16:00] Buriram United 🆚 Tenacity | การแข่งขัน RoV Pro League 2026 Winter Week 3 Day 2",
-      "title_original": "🔴𝐋𝐈𝐕𝐄 [เริ่ม 16:00] Buriram United 🆚 Tenacity | การแข่งขัน RoV Pro League 2026 Winter Week 3 Day 2",
+      "title": "🔴𝐋𝐈𝐕𝐄 การแข่งขัน RoV Pro League 2026 Winter | รอบเก็บคะแนน Week 3 Day 2",
+      "title_original": "🔴𝐋𝐈𝐕𝐄 การแข่งขัน RoV Pro League 2026 Winter | รอบเก็บคะแนน Week 3 Day 2",
       "translated": false,
       "country": "VN",
       "lang_original": "vi",
@@ -23,20 +67,9 @@
       "thumbnailUrl": "https://i.ytimg.com/vi/zWdecsiAyjo/maxresdefault.jpg"
     },
     {
-      "videoId": "G6lJy66rgcg",
-      "title": "TIẾP TỤC LÀ RANK ĐƠN",
-      "title_original": "TIẾP TỤC LÀ RANK ĐƠN",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-09-04T05:21:44Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/G6lJy66rgcg/maxresdefault.jpg"
-    },
-    {
       "videoId": "zrEoE-cyuIA",
-      "title": "🔴 TRỰC TIẾP: TEAM SECRET vs ONE STAR ESPORTS | GIAI ĐOẠN VÒNG BẢNG - LƯỢT ĐI | ĐTDV MÙA ĐÔNG 2026",
-      "title_original": "🔴 TRỰC TIẾP: TEAM SECRET vs ONE STAR ESPORTS | GIAI ĐOẠN VÒNG BẢNG - LƯỢT ĐI | ĐTDV MÙA ĐÔNG 2026",
+      "title": "🔴 TRỰC TIẾP: FPT x FLASH vs BOX GAMING | GIAI ĐOẠN VÒNG BẢNG - LƯỢT ĐI | ĐTDV MÙA ĐÔNG 2026",
+      "title_original": "🔴 TRỰC TIẾP: FPT x FLASH vs BOX GAMING | GIAI ĐOẠN VÒNG BẢNG - LƯỢT ĐI | ĐTDV MÙA ĐÔNG 2026",
       "translated": false,
       "country": "VN",
       "lang_original": "vi",
@@ -46,14 +79,25 @@
     },
     {
       "videoId": "wy20B542MkM",
-      "title": "🔴 TRỰC TIẾP: TEAM SECRET vs ONE STAR ESPORTS | GIAI ĐOẠN VÒNG BẢNG - LƯỢT ĐI | ĐTDV MÙA ĐÔNG 2026",
-      "title_original": "🔴 TRỰC TIẾP: TEAM SECRET vs ONE STAR ESPORTS | GIAI ĐOẠN VÒNG BẢNG - LƯỢT ĐI | ĐTDV MÙA ĐÔNG 2026",
+      "title": "🔴 TRỰC TIẾP: FPT x FLASH vs BOX GAMING | GIAI ĐOẠN VÒNG BẢNG - LƯỢT ĐI | ĐTDV MÙA ĐÔNG 2026",
+      "title_original": "🔴 TRỰC TIẾP: FPT x FLASH vs BOX GAMING | GIAI ĐOẠN VÒNG BẢNG - LƯỢT ĐI | ĐTDV MÙA ĐÔNG 2026",
       "translated": false,
       "country": "VN",
       "lang_original": "vi",
       "source": "youtube",
       "publishedAt": "2026-09-04T05:03:13Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/wy20B542MkM/maxresdefault.jpg"
+    },
+    {
+      "videoId": "s6Hsq9o8424",
+      "title": "Lin Qun | Cch i Qu Nhn 2 Skin Mi Min Ph T S Kin Nng Tri Lin Qun Nha",
+      "title_original": "Lin Qun | Cch i Qu Nhn 2 Skin Mi Min Ph T S Kin Nng Tri Lin Qun Nha",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-09-04T04:41:20Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/s6Hsq9o8424/maxresdefault.jpg"
     },
     {
       "videoId": "YQedVHG9NRA",
@@ -111,6 +155,17 @@
       "thumbnailUrl": "https://i.ytimg.com/vi/pqHwENHTNiQ/maxresdefault.jpg"
     },
     {
+      "videoId": "nxGvm_wB8do",
+      "title": "Mai 9h Sáng Đi Quay Có Cách Nào Đêm Ngủ Được K.  T.T",
+      "title_original": "Mai 9h Sáng Đi Quay Có Cách Nào Đêm Ngủ Được K.  T.T",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-09-03T23:20:00Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/nxGvm_wB8do/maxresdefault.jpg"
+    },
+    {
       "videoId": "e9roSiXOmlE",
       "title": "RANK ĐƠN KHUM",
       "title_original": "RANK ĐƠN KHUM",
@@ -153,17 +208,6 @@
       "source": "youtube",
       "publishedAt": "2026-09-03T14:39:44Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/S6hWuKlsj34/maxresdefault.jpg"
-    },
-    {
-      "videoId": "nxGvm_wB8do",
-      "title": "Mai 9h Sáng Đi Quay Có Cách Nào Đêm Ngủ Được K.  T.T",
-      "title_original": "Mai 9h Sáng Đi Quay Có Cách Nào Đêm Ngủ Được K.  T.T",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-09-03T14:25:02Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/nxGvm_wB8do/maxresdefault.jpg"
     },
     {
       "videoId": "Rlp9acVfx6M",
@@ -298,17 +342,6 @@
       "thumbnailUrl": "https://i.ytimg.com/vi/Jf8axINl2VY/maxresdefault.jpg"
     },
     {
-      "videoId": "41J0NbeAVa0",
-      "title": "TRỰC TIẾP: SAIGON PHANTOM vs REX REGUM QEON - THẾ TRẬN MỘT CHIỀU? | NAMSENSEI COSTREAM",
-      "title_original": "TRỰC TIẾP: SAIGON PHANTOM vs REX REGUM QEON - THẾ TRẬN MỘT CHIỀU? | NAMSENSEI COSTREAM",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-09-02T20:03:16Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/41J0NbeAVa0/maxresdefault.jpg"
-    },
-    {
       "videoId": "S-d1eNZUSPc",
       "title": "RANK ĐƠN CÓ GÌ NÓNG",
       "title_original": "RANK ĐƠN CÓ GÌ NÓNG",
@@ -329,17 +362,6 @@
       "source": "youtube",
       "publishedAt": "2026-09-02T17:11:21Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/_MGkiPUD2Ew/maxresdefault.jpg"
-    },
-    {
-      "videoId": "VCBpaMhGCfg",
-      "title": "🔴 LIVE: DCG 🆚 ONE|GCS 2026 夏季例行賽W3D1-2026/09/04《Garena 傳說對決》",
-      "title_original": "🔴 LIVE: DCG 🆚 ONE|GCS 2026 夏季例行賽W3D1-2026/09/04《Garena 傳說對決》",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-09-02T17:10:06Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/VCBpaMhGCfg/maxresdefault.jpg"
     },
     {
       "videoId": "qCNFZav7VFQ",
@@ -2177,28 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-08-23T19:59:50Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/H6-NDn6WyCg/maxresdefault.jpg"
-    },
-    {
-      "videoId": "mj6w2iUPmAs",
-      "title": "Hôm Nay Phải Lên Thách Đấu 200 Sao 8/22",
-      "title_original": "Hôm Nay Phải Lên Thách Đấu 200 Sao 8/22",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-08-23T18:48:39Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/mj6w2iUPmAs/maxresdefault.jpg"
-    },
-    {
-      "videoId": "ZmW90iyKTvE",
-      "title": "Tối Nay ZYPAGE Có Ghi Âm Nha Bro",
-      "title_original": "Tối Nay ZYPAGE Có Ghi Âm Nha Bro",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-08-23T18:18:41Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/ZmW90iyKTvE/maxresdefault.jpg"
     }
   ]
 }
