@@ -182,12 +182,13 @@
         "Thane",
         "Baldum"
       ],
-      "tier": "S",
-      "tier_reason": "Được gán từ dữ liệu hạt giống (Seed S-Tier) do ít video mới (Hot Count: 1)",
+      "tier": "A",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 1)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 2,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/4/40/Violet_Default.jpg/revision/latest/scale-to-width-down/500?cb=20180325101918",
       "related_videos": [
+        "lBt-ZBG-jOs",
         "jjotgKnpiSA"
       ]
     },
@@ -3054,14 +3055,13 @@
       "counters": [],
       "synergies": [],
       "tier": "A",
-      "tier_reason": "Xuất hiện 3 lần trong video/tin tức 14 ngày qua (Score: 1)",
+      "tier_reason": "Xuất hiện 2 lần trong video/tin tức 14 ngày qua (Score: 1)",
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/c/c9/D%27Arcy_profile.jpg/revision/latest/scale-to-width-down/500?cb=20200531224258",
       "related_videos": [
         "ZKX9_H-FOsQ",
-        "P44lgtWmCTc",
-        "gsfGBPOUnqQ"
+        "P44lgtWmCTc"
       ]
     },
     {
@@ -4621,13 +4621,12 @@
       "counters": [],
       "synergies": [],
       "tier": "B",
-      "tier_reason": "Xuất hiện 2 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/3/35/Veera_profile.png/revision/latest/scale-to-width-down/500?cb=20170525133701",
       "related_videos": [
-        "__i-Up3pooM",
-        "Y51s1kysXpA"
+        "__i-Up3pooM"
       ]
     },
     {
@@ -4959,5 +4958,5 @@
       ]
     }
   ],
-  "updated_at": "2026-09-04T23:00:02Z"
+  "updated_at": "2026-09-05T00:52:50Z"
 }

@@ -1,6 +1,28 @@
 {
   "videos": [
     {
+      "videoId": "BwShp-FHEDo",
+      "title": "SAIGON PHANTOM VS REX REGUM QEON | VÒNG BẢNG - LƯỢT ĐI | ĐẤU TRƯỜNG DANH VỌNG MÙA ĐÔNG 2026",
+      "title_original": "SAIGON PHANTOM VS REX REGUM QEON | VÒNG BẢNG - LƯỢT ĐI | ĐẤU TRƯỜNG DANH VỌNG MÙA ĐÔNG 2026",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-09-05T00:30:21Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/BwShp-FHEDo/maxresdefault.jpg"
+    },
+    {
+      "videoId": "gH7RkOiD5RY",
+      "title": "ONE STAR ESPORTS VS TEAM SECRET | VÒNG BẢNG - LƯỢT ĐI | ĐẤU TRƯỜNG DANH VỌNG MÙA ĐÔNG 2026",
+      "title_original": "ONE STAR ESPORTS VS TEAM SECRET | VÒNG BẢNG - LƯỢT ĐI | ĐẤU TRƯỜNG DANH VỌNG MÙA ĐÔNG 2026",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-09-05T00:00:13Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/gH7RkOiD5RY/maxresdefault.jpg"
+    },
+    {
       "videoId": "WrqPXlB9vO0",
       "title": "Nay Vẽ Với Tainzo Nha",
       "title_original": "Nay Vẽ Với Tainzo Nha",
@@ -65,6 +87,17 @@
       "source": "youtube",
       "publishedAt": "2026-09-04T12:35:49Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/VCBpaMhGCfg/maxresdefault.jpg"
+    },
+    {
+      "videoId": "lBt-ZBG-jOs",
+      "title": "Naka cầm AD cấu rỉa từ xa siêu khó chịu với vị tướng Violet Thần Long Tỷ Tỷ ⚡️⚡️⚡️",
+      "title_original": "Naka cầm AD cấu rỉa từ xa siêu khó chịu với vị tướng Violet Thần Long Tỷ Tỷ ⚡️⚡️⚡️",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-09-04T09:35:41Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/lBt-ZBG-jOs/maxresdefault.jpg"
     },
     {
       "videoId": "cRYejXtZIKY",
@@ -2166,39 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-08-24T09:37:58Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/r0wuRbWyToU/maxresdefault.jpg"
-    },
-    {
-      "videoId": "2ijd5AobQeM",
-      "title": "Lm Phin Gic Ng Tra Ca Nhau T",
-      "title_original": "Lm Phin Gic Ng Tra Ca Nhau T",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-08-24T09:09:19Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/2ijd5AobQeM/maxresdefault.jpg"
-    },
-    {
-      "videoId": "gsfGBPOUnqQ",
-      "title": "เรื่องราวของ D'Arcy - สัจธรรมแห่งการต่อสู้ | Cinematic (พากย์ไทย)",
-      "title_original": "เรื่องราวของ D'Arcy - สัจธรรมแห่งการต่อสู้ | Cinematic (พากย์ไทย)",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-08-24T08:05:33Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/gsfGBPOUnqQ/maxresdefault.jpg"
-    },
-    {
-      "videoId": "Y51s1kysXpA",
-      "title": "VEERA Liên Quân || Xong Game Này AD Địch Mớ Thấy VEERA Hôn Là Chắc 1 Đồ 1 COMBO 1 Mạng",
-      "title_original": "VEERA Liên Quân || Xong Game Này AD Địch Mớ Thấy VEERA Hôn Là Chắc 1 Đồ 1 COMBO 1 Mạng",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-08-24T04:00:15Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/Y51s1kysXpA/maxresdefault.jpg"
     }
   ]
 }
