@@ -3404,13 +3404,12 @@
       "counters": [],
       "synergies": [],
       "tier": "B",
-      "tier_reason": "Xuất hiện 2 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/5/56/Fennik_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125054758",
       "related_videos": [
-        "IKFhQJKKNIU",
-        "aJ9vstwtrTo"
+        "IKFhQJKKNIU"
       ]
     },
     {
@@ -4953,5 +4952,5 @@
       ]
     }
   ],
-  "updated_at": "2026-09-05T13:52:27Z"
+  "updated_at": "2026-09-05T16:46:18Z"
 }
