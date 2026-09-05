@@ -135,12 +135,13 @@
         "Krixi",
         "Grakk"
       ],
-      "tier": "A",
-      "tier_reason": "Được gán từ dữ liệu hạt giống (Seed A-Tier) do ít video mới (Hot Count: 1)",
+      "tier": "B",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 0)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 2,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/2/2a/Zata_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20200617141406",
       "related_videos": [
+        "aN7yMPG5yVo",
         "yZIYyldSWDQ"
       ]
     },
@@ -847,9 +848,7 @@
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/7/71/Gildur_Default.jpg/revision/latest/scale-to-width-down/500?cb=20180327112635",
-      "related_videos": [
-        "txZCCUB-aiU"
-      ]
+      "related_videos": []
     },
     {
       "id": "alice",
@@ -2063,9 +2062,9 @@
         "Thane"
       ],
       "tier": "B",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 4, Score: 0)",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 3, Score: 0)",
       "hot": true,
-      "hot_count": 4,
+      "hot_count": 3,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/e/e1/Natalya.png/revision/latest?cb=20210109153000",
       "related_videos": [
         "xPnxloCMGFE",
@@ -4958,5 +4957,5 @@
       ]
     }
   ],
-  "updated_at": "2026-09-05T00:52:50Z"
+  "updated_at": "2026-09-05T05:33:06Z"
 }

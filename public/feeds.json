@@ -11,16 +11,6 @@
       "type": "channel"
     },
     {
-      "id": "UCy19QXxbCHh8qVVCbuGk-ig",
-      "name": "Garena RoV Thailand",
-      "type": "channel"
-    },
-    {
-      "id": "UCAml1Hqu4LW36B3yEtQg8Fw",
-      "name": "FUNNY GAMING TV",
-      "type": "channel"
-    },
-    {
       "id": "UC3QLI0FHwACCaa91Xdpam2A",
       "name": "Trải Nghiệm Game",
       "type": "channel"
@@ -36,11 +26,6 @@
       "type": "channel"
     },
     {
-      "id": "UCeMjhoCCvujpObnt6yeZeNg",
-      "name": "Garena 傳說對決",
-      "type": "channel"
-    },
-    {
       "id": "UCwrzeq94NPsz1EHap9r_9NA",
       "name": "Lai Bâng",
       "type": "channel"
@@ -51,8 +36,8 @@
       "type": "channel"
     },
     {
-      "id": "UC_Kfu-XiwH0WKTRSMD9st_Q",
-      "name": "Bạn Cay Tôi À?",
+      "id": "UC1ysb__ddApp3PlDva5NAVw",
+      "name": "Top 1 Liliana",
       "type": "channel"
     },
     {
@@ -76,11 +61,6 @@
       "type": "channel"
     },
     {
-      "id": "UC92yhXD5hj0xvDbUj3d9aJw",
-      "name": "Liên Quân Mobile - Topic",
-      "type": "channel"
-    },
-    {
       "id": "UCDaTEZ7p34MZ2E46r_ydJmg",
       "name": "GKL8 HIGHLIGHT LIÊN QUÂN MOBILE",
       "type": "channel"
@@ -98,6 +78,26 @@
     {
       "id": "UC6_-E6Lek7_1TMt6927ITOQ",
       "name": "NaKa Liên Quân Mobile",
+      "type": "channel"
+    },
+    {
+      "id": "UC7oihOT4FZnhrTgJd8l5p3Q",
+      "name": "Garena Liên Quân Mobile Việt Nam",
+      "type": "channel"
+    },
+    {
+      "id": "UCR-gPrkxx2U2dtfdke4t42A",
+      "name": "Liên Quân Mobile Nghệ An Esports",
+      "type": "channel"
+    },
+    {
+      "id": "UCF5Tl2d4JE8A_gG9r0Lphdg",
+      "name": "Garena Liên Quân Mobile",
+      "type": "channel"
+    },
+    {
+      "id": "UC4_z0YCAywJlNBf_eZLtRnQ",
+      "name": "học chơi liên quân mobile",
       "type": "channel"
     }
   ],
