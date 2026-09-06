@@ -1031,14 +1031,12 @@
         "Grakk",
         "Toro"
       ],
-      "tier": "A",
-      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 1)",
+      "tier": "B",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/e/e7/Maloch_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125090603",
-      "related_videos": [
-        "OP5dlBBOTu4"
-      ]
+      "related_videos": []
     },
     {
       "id": "krixi",
@@ -4952,5 +4950,5 @@
       ]
     }
   ],
-  "updated_at": "2026-09-06T12:50:37Z"
+  "updated_at": "2026-09-06T16:10:19Z"
 }
