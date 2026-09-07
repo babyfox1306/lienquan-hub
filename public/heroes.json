@@ -1216,9 +1216,9 @@
         "Baldum"
       ],
       "tier": "B",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 0)",
+      "tier_reason": "Xuất hiện 3 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
-      "hot_count": 2,
+      "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/d/d7/Lauriel_Splash.jpg/revision/latest/scale-to-width-down/500?cb=20171113161316",
       "related_videos": [
         "NAb8Pg2Jbtw",
@@ -4217,12 +4217,13 @@
       },
       "counters": [],
       "synergies": [],
-      "tier": "B",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 3, Score: 0)",
+      "tier": "A",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 4, Score: 1)",
       "hot": true,
-      "hot_count": 3,
+      "hot_count": 4,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/f/f2/Ryoma_Gunslinger.png/revision/latest/scale-to-width-down/500?cb=20180313083407",
       "related_videos": [
+        "qdFuRoSKff4",
         "x2Me_oq4EM8",
         "TP6OorPyuso",
         "0gGgpdZjoAU",
@@ -4947,5 +4948,5 @@
       ]
     }
   ],
-  "updated_at": "2026-09-07T04:01:45Z"
+  "updated_at": "2026-09-07T09:19:24Z"
 }

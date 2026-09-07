@@ -1,6 +1,39 @@
 {
   "videos": [
     {
+      "videoId": "qdFuRoSKff4",
+      "title": "✨ HIỆU ỨNG CHIÊU THỨC | RYOMA – BÁ TƯỚC RỪNG ĐEN ✨- Garena Liên Quân Mobile",
+      "title_original": "✨ HIỆU ỨNG CHIÊU THỨC | RYOMA – BÁ TƯỚC RỪNG ĐEN ✨- Garena Liên Quân Mobile",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-09-07T09:00:15Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/qdFuRoSKff4/maxresdefault.jpg"
+    },
+    {
+      "videoId": "3qeK5jxuehY",
+      "title": "KÊNH KỸ LĂNG: Là Những Thứ Đang Thiếu",
+      "title_original": "KÊNH KỸ LĂNG: Là Những Thứ Đang Thiếu",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-09-07T08:44:12Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/3qeK5jxuehY/maxresdefault.jpg"
+    },
+    {
+      "videoId": "SrDFGOQAI1o",
+      "title": "普雷塔英雄故事影片 | 無盡渴望",
+      "title_original": "普雷塔英雄故事影片 | 無盡渴望",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-09-07T08:24:52Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/SrDFGOQAI1o/maxresdefault.jpg"
+    },
+    {
       "videoId": "kbR1X68qOvo",
       "title": "TOP 5 Tng Solo Lane Mnh Bc Nh, D Chi Ti Meta S3 2026, TNG",
       "title_original": "TOP 5 Tng Solo Lane Mnh Bc Nh, D Chi Ti Meta S3 2026, TNG",
@@ -2166,39 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-08-26T14:01:44Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/T5Y41xAdzAc/maxresdefault.jpg"
-    },
-    {
-      "videoId": "eYVOyqXYkNY",
-      "title": "🍀 GRAPHIC TRAILER - SỔ SỨ MỆNH 93 CÓ GÌ? 🍀 - Garena Liên Quân Mobile",
-      "title_original": "🍀 GRAPHIC TRAILER - SỔ SỨ MỆNH 93 CÓ GÌ? 🍀 - Garena Liên Quân Mobile",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-08-26T13:30:09Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/eYVOyqXYkNY/maxresdefault.jpg"
-    },
-    {
-      "videoId": "AchHQF2CuEA",
-      "title": "ปรับสมดุลฮีโร่ 27 ส.ค. 2569",
-      "title_original": "ปรับสมดุลฮีโร่ 27 ส.ค. 2569",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-08-26T12:43:06Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/AchHQF2CuEA/maxresdefault.jpg"
-    },
-    {
-      "videoId": "Ab_aiUqcErc",
-      "title": "Lin Qun: Build  Mnh Nht Ca ALLAIN L G?",
-      "title_original": "Lin Qun: Build  Mnh Nht Ca ALLAIN L G?",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-08-26T12:09:12Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/Ab_aiUqcErc/maxresdefault.jpg"
     }
   ]
 }
