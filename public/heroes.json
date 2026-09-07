@@ -4616,13 +4616,11 @@
       "counters": [],
       "synergies": [],
       "tier": "B",
-      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/3/35/Veera_profile.png/revision/latest/scale-to-width-down/500?cb=20170525133701",
-      "related_videos": [
-        "__i-Up3pooM"
-      ]
+      "related_videos": []
     },
     {
       "id": "wiro",
@@ -4949,5 +4947,5 @@
       ]
     }
   ],
-  "updated_at": "2026-09-06T23:44:37Z"
+  "updated_at": "2026-09-07T04:01:45Z"
 }
