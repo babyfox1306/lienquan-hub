@@ -1,6 +1,28 @@
 {
   "videos": [
     {
+      "videoId": "Pfh8C_XYXZ0",
+      "title": "Khủng Longg",
+      "title_original": "Khủng Longg",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-09-07T16:35:46Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/Pfh8C_XYXZ0/maxresdefault.jpg"
+    },
+    {
+      "videoId": "sNuexfOE-FA",
+      "title": "LIVE 12 TIẾNGG",
+      "title_original": "LIVE 12 TIẾNGG",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-09-07T15:55:10Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/sNuexfOE-FA/maxresdefault.jpg"
+    },
+    {
       "videoId": "BhDxXyjkX_s",
       "title": "การแข่งขัน RoV Master Youth Champion 2026 รอบคัดเลือก 64 ทีมสุดท้าย",
       "title_original": "การแข่งขัน RoV Master Youth Champion 2026 รอบคัดเลือก 64 ทีมสุดท้าย",
@@ -76,17 +98,6 @@
       "source": "youtube",
       "publishedAt": "2026-09-07T11:06:58Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/5-2suNXL578/maxresdefault.jpg"
-    },
-    {
-      "videoId": "sNuexfOE-FA",
-      "title": "LIVE 12 TIẾNGG",
-      "title_original": "LIVE 12 TIẾNGG",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-09-07T10:36:34Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/sNuexfOE-FA/maxresdefault.jpg"
     },
     {
       "videoId": "LgE1NCcxpPs",
@@ -2188,17 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-08-27T12:29:24Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/TXMWDJm9hkQ/maxresdefault.jpg"
-    },
-    {
-      "videoId": "TFNDmCLREpA",
-      "title": "Người Khôn Đồ Ngon: Trang Bị Nào Là Mạnh Nhất Cho Pháp Sư ?",
-      "title_original": "Người Khôn Đồ Ngon: Trang Bị Nào Là Mạnh Nhất Cho Pháp Sư ?",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-08-27T11:00:03Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/TFNDmCLREpA/maxresdefault.jpg"
     }
   ]
 }
