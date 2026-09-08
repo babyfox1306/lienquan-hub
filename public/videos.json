@@ -1,6 +1,61 @@
 {
   "videos": [
     {
+      "videoId": "nzG_VwH3KLQ",
+      "title": "GI BAOS  TI",
+      "title_original": "GI BAOS  TI",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-09-08T14:31:55Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/nzG_VwH3KLQ/maxresdefault.jpg"
+    },
+    {
+      "videoId": "u8hHseGUq6k",
+      "title": "Rank 200* Nha",
+      "title_original": "Rank 200* Nha",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-09-08T14:04:36Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/u8hHseGUq6k/maxresdefault.jpg"
+    },
+    {
+      "videoId": "Jrhr3Tn87PI",
+      "title": "MIC CHECK #3: SGP - 1S: CHO VUA VÒNG BẢNG VỀ VƯỜN | AOGW26",
+      "title_original": "MIC CHECK #3: SGP - 1S: CHO VUA VÒNG BẢNG VỀ VƯỜN | AOGW26",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-09-08T14:03:22Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/Jrhr3Tn87PI/maxresdefault.jpg"
+    },
+    {
+      "videoId": "imLri__N5Lg",
+      "title": "🔴𝐋𝐈𝐕𝐄 การแข่งขันรอบคัดเลือกตัวแทนระดับประเทศ รูปแบบออนไลน์ เพื่อหาทีมเข้าสู่รอบชิงชนะเลิศ",
+      "title_original": "🔴𝐋𝐈𝐕𝐄 การแข่งขันรอบคัดเลือกตัวแทนระดับประเทศ รูปแบบออนไลน์ เพื่อหาทีมเข้าสู่รอบชิงชนะเลิศ",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-09-08T13:55:54Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/imLri__N5Lg/maxresdefault.jpg"
+    },
+    {
+      "videoId": "2t780JnvC6Q",
+      "title": "ADC - LAI BÂNG COMBAT CỰC CĂNG, HUYHOANG VÀ FISH PHẢI VÀO CAN | TÂM ĐIỂM TUẦN ĐẤU #3 | ĐTDV W26",
+      "title_original": "ADC - LAI BÂNG COMBAT CỰC CĂNG, HUYHOANG VÀ FISH PHẢI VÀO CAN | TÂM ĐIỂM TUẦN ĐẤU #3 | ĐTDV W26",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-09-08T12:59:45Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/2t780JnvC6Q/maxresdefault.jpg"
+    },
+    {
       "videoId": "DNfefyJyIpg",
       "title": "D'ARCY 1 CHNG = 2 MNG  T Y X HI Ha TRM Khin ch CAYTEDAI | Lin Qun",
       "title_original": "D'ARCY 1 CHNG = 2 MNG  T Y X HI Ha TRM Khin ch CAYTEDAI | Lin Qun",
@@ -45,6 +100,28 @@
       "thumbnailUrl": "https://i.ytimg.com/vi/oX0cfn6lbnc/maxresdefault.jpg"
     },
     {
+      "videoId": "dmG9ziEZa6c",
+      "title": "TIN HOT: Liliana Lộ Diện Bộ Chiêu Mới Sang VGVD, BỊ CẮT SÁT THƯƠNG ĂN MỤC TIÊU LỚN! | TNG",
+      "title_original": "TIN HOT: Liliana Lộ Diện Bộ Chiêu Mới Sang VGVD, BỊ CẮT SÁT THƯƠNG ĂN MỤC TIÊU LỚN! | TNG",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-09-08T09:44:23Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/dmG9ziEZa6c/maxresdefault.jpg"
+    },
+    {
+      "videoId": "ePSKgpA2bwU",
+      "title": "Th i Rank n tm ph game... ai ng v phi \"TRM CUI\"",
+      "title_original": "Th i Rank n tm ph game... ai ng v phi \"TRM CUI\"",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-09-08T09:05:06Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/ePSKgpA2bwU/maxresdefault.jpg"
+    },
+    {
       "videoId": "tDSPYEvi3B8",
       "title": "KÊNH KỸ LĂNG: UHM",
       "title_original": "KÊNH KỸ LĂNG: UHM",
@@ -52,7 +129,7 @@
       "country": "VN",
       "lang_original": "vi",
       "source": "youtube",
-      "publishedAt": "2026-09-08T04:43:51Z",
+      "publishedAt": "2026-09-08T08:05:37Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/tDSPYEvi3B8/maxresdefault.jpg"
     },
     {
@@ -2122,83 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-08-28T10:17:23Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/YQln9NupgBo/maxresdefault.jpg"
-    },
-    {
-      "videoId": "rR3260-Fvg8",
-      "title": "PHIÊN BẢN MỚI: TORO BỊ NERF 1-2-1: Dọn Đường Cho Giáp Phản Dmg 2.0 & Đồ Thủ Mới S4!",
-      "title_original": "PHIÊN BẢN MỚI: TORO BỊ NERF 1-2-1: Dọn Đường Cho Giáp Phản Dmg 2.0 & Đồ Thủ Mới S4!",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-08-28T09:29:44Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/rR3260-Fvg8/maxresdefault.jpg"
-    },
-    {
-      "videoId": "6UFNEg5j08I",
-      "title": "21 Phút Xem Trận Này Giúp Bạn Leo Cao Thủ Dễ Dàng Bằng Murad (Phần 1)",
-      "title_original": "21 Phút Xem Trận Này Giúp Bạn Leo Cao Thủ Dễ Dàng Bằng Murad (Phần 1)",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-08-28T09:21:16Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/6UFNEg5j08I/maxresdefault.jpg"
-    },
-    {
-      "videoId": "jUHyjLaxKcI",
-      "title": "BILLOW GÁY DƠ VÀ CẾT KÁI",
-      "title_original": "BILLOW GÁY DƠ VÀ CẾT KÁI",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-08-28T09:01:42Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/jUHyjLaxKcI/maxresdefault.jpg"
-    },
-    {
-      "videoId": "yB_JMHTTHNw",
-      "title": "TÂM ĐIỂM TUẦN ĐẤU - SỐ THỨ NHẤT | NGÀY PHÁN XỬ CHUYỂN NHƯỢNG | ĐTDV MÙA ĐÔNG 2026",
-      "title_original": "TÂM ĐIỂM TUẦN ĐẤU - SỐ THỨ NHẤT | NGÀY PHÁN XỬ CHUYỂN NHƯỢNG | ĐTDV MÙA ĐÔNG 2026",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-08-28T05:00:09Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/yB_JMHTTHNw/maxresdefault.jpg"
-    },
-    {
-      "videoId": "sv_lTGlaoYw",
-      "title": "Qzadd เจาะลึก 5 ฮีโร่อัตราชนะสูงสุดประจำแต่ละเลน 🔍มาดูกันว่าแต่ละตัวมีจุดเด่นอะไรบ้าง!?",
-      "title_original": "Qzadd เจาะลึก 5 ฮีโร่อัตราชนะสูงสุดประจำแต่ละเลน 🔍มาดูกันว่าแต่ละตัวมีจุดเด่นอะไรบ้าง!?",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-08-28T03:47:52Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/sv_lTGlaoYw/maxresdefault.jpg"
-    },
-    {
-      "videoId": "jrYJKts7258",
-      "title": "[ 2026 ] Đánh giá tất cả skin AIRI cùng Icyfoxx l Liên Quân mobile",
-      "title_original": "[ 2026 ] Đánh giá tất cả skin AIRI cùng Icyfoxx l Liên Quân mobile",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-08-28T03:07:23Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/jrYJKts7258/maxresdefault.jpg"
-    },
-    {
-      "videoId": "4XK0hUh9TIM",
-      "title": "PHIÊN BẢN MỚI: Hayate Đại Tu Lại Bộ Kỹ Năng, Buff Đầu Game, Nerf Cuối Game",
-      "title_original": "PHIÊN BẢN MỚI: Hayate Đại Tu Lại Bộ Kỹ Năng, Buff Đầu Game, Nerf Cuối Game",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-08-28T03:00:21Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/4XK0hUh9TIM/maxresdefault.jpg"
     }
   ]
 }

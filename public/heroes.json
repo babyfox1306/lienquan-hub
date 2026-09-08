@@ -91,9 +91,7 @@
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/5/5e/Murad_Outlaw.png/revision/latest/scale-to-width-down/500?cb=20180317082415",
-      "related_videos": [
-        "6UFNEg5j08I"
-      ]
+      "related_videos": []
     },
     {
       "id": "zata",
@@ -378,8 +376,7 @@
         "nljxwUE3fGk",
         "SzQfGh3I50M",
         "pshkjl8zqZA",
-        "4gRjQF2AuOA",
-        "4XK0hUh9TIM"
+        "4gRjQF2AuOA"
       ]
     },
     {
@@ -801,8 +798,7 @@
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/7/7c/Toro_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125082122",
       "related_videos": [
-        "ko8nESnotrg",
-        "rR3260-Fvg8"
+        "ko8nESnotrg"
       ]
     },
     {
@@ -1269,12 +1265,13 @@
         "Thane",
         "Nakroth"
       ],
-      "tier": "B",
-      "tier_reason": "Xuất hiện 2 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier": "A",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 1)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 2,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/d/d4/Liliana_Default.jpg/revision/latest/scale-to-width-down/500?cb=20180331134150",
       "related_videos": [
+        "dmG9ziEZa6c",
         "77RUOjgVE3c",
         "-5WdOQP8tKA"
       ]
@@ -2379,13 +2376,11 @@
       "counters": [],
       "synergies": [],
       "tier": "B",
-      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/d/d9/Airi_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20210809013024",
-      "related_videos": [
-        "jrYJKts7258"
-      ]
+      "related_videos": []
     },
     {
       "id": "aleister",
@@ -4952,5 +4947,5 @@
       ]
     }
   ],
-  "updated_at": "2026-09-08T12:50:54Z"
+  "updated_at": "2026-09-08T17:15:37Z"
 }
