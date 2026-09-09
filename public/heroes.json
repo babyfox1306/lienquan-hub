@@ -375,8 +375,7 @@
       "related_videos": [
         "nljxwUE3fGk",
         "SzQfGh3I50M",
-        "pshkjl8zqZA",
-        "4gRjQF2AuOA"
+        "pshkjl8zqZA"
       ]
     },
     {
@@ -697,13 +696,11 @@
         "Natalya"
       ],
       "tier": "B",
-      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/e/eb/Grakk_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125085118",
-      "related_videos": [
-        "YQln9NupgBo"
-      ]
+      "related_videos": []
     },
     {
       "id": "wukong",
@@ -1266,9 +1263,9 @@
         "Nakroth"
       ],
       "tier": "A",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 1)",
+      "tier_reason": "Xuất hiện 3 lần trong video/tin tức 14 ngày qua (Score: 1)",
       "hot": false,
-      "hot_count": 2,
+      "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/d/d4/Liliana_Default.jpg/revision/latest/scale-to-width-down/500?cb=20180331134150",
       "related_videos": [
         "dmG9ziEZa6c",
@@ -4947,5 +4944,5 @@
       ]
     }
   ],
-  "updated_at": "2026-09-09T04:09:52Z"
+  "updated_at": "2026-09-09T09:34:30Z"
 }

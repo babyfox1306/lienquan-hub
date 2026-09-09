@@ -1,6 +1,39 @@
 {
   "videos": [
     {
+      "videoId": "tU2bw9LNbNI",
+      "title": "KÊNH KỸ LĂNG HAY KỶ LIỆM",
+      "title_original": "KÊNH KỸ LĂNG HAY KỶ LIỆM",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-09-09T08:04:24Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/tU2bw9LNbNI/maxresdefault.jpg"
+    },
+    {
+      "videoId": "deQReCZrXs8",
+      "title": "TOP 5 TƯỚNG ĐI RỪNG MẠNH BẬC NHÌ META S3 2026, Dễ Chơi, Dễ Gánh Team | TNG",
+      "title_original": "TOP 5 TƯỚNG ĐI RỪNG MẠNH BẬC NHÌ META S3 2026, Dễ Chơi, Dễ Gánh Team | TNG",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-09-09T03:24:27Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/deQReCZrXs8/maxresdefault.jpg"
+    },
+    {
+      "videoId": "DWQWzsjEgKI",
+      "title": "เรื่องราวแห่งโลก Athanor กำลังดำเนินต่อไป... 📖",
+      "title_original": "เรื่องราวแห่งโลก Athanor กำลังดำเนินต่อไป... 📖",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-09-09T01:00:19Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/DWQWzsjEgKI/maxresdefault.jpg"
+    },
+    {
       "videoId": "nzG_VwH3KLQ",
       "title": "GI BAOS  TI",
       "title_original": "GI BAOS  TI",
@@ -2166,39 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-08-28T12:29:54Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/fzwXYm-KGbo/maxresdefault.jpg"
-    },
-    {
-      "videoId": "B24SUBsKXzM",
-      "title": "MV ANIMATION - TÒ HE TRẨY HỘI | HUYỀN CHI X LIÊN QUÂN MOBILE",
-      "title_original": "MV ANIMATION - TÒ HE TRẨY HỘI | HUYỀN CHI X LIÊN QUÂN MOBILE",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-08-28T11:00:00Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/B24SUBsKXzM/maxresdefault.jpg"
-    },
-    {
-      "videoId": "4gRjQF2AuOA",
-      "title": "BỐP BỐP TRẢI NGHIỆM SKIN HAYATE SSS+ THỨ NGUYÊN VỆ THẦN CỰC ĐẸP",
-      "title_original": "BỐP BỐP TRẢI NGHIỆM SKIN HAYATE SSS+ THỨ NGUYÊN VỆ THẦN CỰC ĐẸP",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-08-28T10:30:24Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/4gRjQF2AuOA/maxresdefault.jpg"
-    },
-    {
-      "videoId": "YQln9NupgBo",
-      "title": "VUX MỘT NGÀY LEO RANK VỚI TẤT CẢ SKIN GRAKK COMBO KÉO SIÊU DÍNH",
-      "title_original": "VUX MỘT NGÀY LEO RANK VỚI TẤT CẢ SKIN GRAKK COMBO KÉO SIÊU DÍNH",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-08-28T10:17:23Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/YQln9NupgBo/maxresdefault.jpg"
     }
   ]
 }
