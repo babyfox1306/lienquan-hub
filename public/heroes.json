@@ -423,9 +423,7 @@
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/3/3f/The_Diminisher.png/revision/latest/scale-to-width-down/500?cb=20230721030441",
-      "related_videos": [
-        "OEXTL6FKuxI"
-      ]
+      "related_videos": []
     },
     {
       "id": "riktor",
@@ -747,7 +745,7 @@
       "tier": "B",
       "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/8/88/Wukong_Splash.png/revision/latest/scale-to-width-down/500?cb=20171113154844",
       "related_videos": [
         "TP6OorPyuso"
@@ -1506,8 +1504,7 @@
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/8/84/Veres_profile.jpg/revision/latest/scale-to-width-down/500?cb=20200603115909",
       "related_videos": [
         "9161IZItI_I",
-        "eH1IPNqlkP4",
-        "Kkcw18S8f3c"
+        "eH1IPNqlkP4"
       ]
     },
     {
@@ -3160,7 +3157,7 @@
       "tier": "B",
       "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/e/e6/Dolia_Splash_Art.jpeg/revision/latest/scale-to-width-down/500?cb=20240710174030",
       "related_videos": [
         "y3QyNPThuc8"
@@ -4214,9 +4211,9 @@
       "counters": [],
       "synergies": [],
       "tier": "A",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 3, Score: 1)",
-      "hot": true,
-      "hot_count": 3,
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 1)",
+      "hot": false,
+      "hot_count": 2,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/f/f2/Ryoma_Gunslinger.png/revision/latest/scale-to-width-down/500?cb=20180313083407",
       "related_videos": [
         "qdFuRoSKff4",
@@ -4691,13 +4688,11 @@
       "counters": [],
       "synergies": [],
       "tier": "B",
-      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/9/94/Wisp_Default.jpg/revision/latest/scale-to-width-down/500?cb=20180419063145",
-      "related_videos": [
-        "OEXTL6FKuxI"
-      ]
+      "related_videos": []
     },
     {
       "id": "wonderwoman",
@@ -4856,8 +4851,7 @@
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/5/5c/Yorn_1.jpg/revision/latest/scale-to-width-down/500?cb=20171102213743",
       "related_videos": [
         "nljxwUE3fGk",
-        "cRYejXtZIKY",
-        "7dMem6qpRvk"
+        "cRYejXtZIKY"
       ]
     },
     {
@@ -4942,5 +4936,5 @@
       ]
     }
   ],
-  "updated_at": "2026-09-10T04:30:02Z"
+  "updated_at": "2026-09-10T09:33:36Z"
 }
