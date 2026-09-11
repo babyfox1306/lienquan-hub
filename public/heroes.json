@@ -794,9 +794,7 @@
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/7/7c/Toro_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125082122",
-      "related_videos": [
-        "ko8nESnotrg"
-      ]
+      "related_videos": []
     },
     {
       "id": "gildur",
@@ -1264,11 +1262,12 @@
         "Nakroth"
       ],
       "tier": "A",
-      "tier_reason": "Xuất hiện 2 lần trong video/tin tức 14 ngày qua (Score: 1)",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 1)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 2,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/d/d4/Liliana_Default.jpg/revision/latest/scale-to-width-down/500?cb=20180331134150",
       "related_videos": [
+        "oe5220bCsnY",
         "dmG9ziEZa6c",
         "77RUOjgVE3c"
       ]
@@ -4938,5 +4937,5 @@
       ]
     }
   ],
-  "updated_at": "2026-09-11T13:31:16Z"
+  "updated_at": "2026-09-11T17:45:26Z"
 }
