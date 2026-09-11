@@ -1164,13 +1164,11 @@
         "Toro"
       ],
       "tier": "B",
-      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/a/ac/Ignis_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125053639",
-      "related_videos": [
-        "MgsYTe-H3o0"
-      ]
+      "related_videos": []
     },
     {
       "id": "lauriel",
@@ -4937,5 +4935,5 @@
       ]
     }
   ],
-  "updated_at": "2026-09-11T17:45:26Z"
+  "updated_at": "2026-09-11T20:51:14Z"
 }
