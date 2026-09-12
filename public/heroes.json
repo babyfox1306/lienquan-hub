@@ -2602,14 +2602,13 @@
       "counters": [],
       "synergies": [],
       "tier": "C",
-      "tier_reason": "Xuất hiện 3 lần trong video/tin tức 14 ngày qua (Score: -1)",
+      "tier_reason": "Xuất hiện 2 lần trong video/tin tức 14 ngày qua (Score: -1)",
       "hot": false,
       "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/f/f6/Aya_Splashart.png/revision/latest/scale-to-width-down/500?cb=20220104210403",
       "related_videos": [
         "MEBmb_MIpsU",
-        "aGfncctfn7w",
-        "NC49gjroALk"
+        "aGfncctfn7w"
       ]
     },
     {
@@ -4937,5 +4936,5 @@
       ]
     }
   ],
-  "updated_at": "2026-09-12T13:33:36Z"
+  "updated_at": "2026-09-12T16:57:35Z"
 }
