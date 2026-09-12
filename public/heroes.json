@@ -326,11 +326,13 @@
         "Arthur"
       ],
       "tier": "S",
-      "tier_reason": "Được gán từ dữ liệu hạt giống (Seed S-Tier) do ít video mới (Hot Count: 0)",
+      "tier_reason": "Được gán từ dữ liệu hạt giống (Seed S-Tier) do ít video mới (Hot Count: 1)",
       "hot": false,
-      "hot_count": 0,
+      "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/a/a6/Marja_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125052236",
-      "related_videos": []
+      "related_videos": [
+        "kotgq5UedSc"
+      ]
     },
     {
       "id": "hayate",
@@ -4936,5 +4938,5 @@
       ]
     }
   ],
-  "updated_at": "2026-09-12T19:10:06Z"
+  "updated_at": "2026-09-12T22:09:45Z"
 }
