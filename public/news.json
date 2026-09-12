@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-09-12T04:07:15.559491",
+  "last_updated": "2026-09-12T09:13:02.245754",
   "total_news": 100,
   "news": [
+    {
+      "id": "5e6024b05c52",
+      "title": "TRẢI NGHIỆM GAME TRÊN MCTN, NHẬN SAO HỘ MỆNH TỪ 12 – 14/9/2026",
+      "link": "https://lienquan.garena.vn/trai-nghiem-game-tren-mctn-nhan-sao-ho-menh-tu-12-14-9-2026/",
+      "summary": "<p>Để khuyến khích các Kiện Tướng trải nghiệm nội dung mới trên MCTN từ ngày 12 &#8211; 14/9, Hội đồng mở sự kiện mới để các Kiện Tướng có thể nhận Sao Hộ Mệnh trên [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/trai-nghiem-game-tren-mctn-nhan-sao-ho-menh-tu-12-14-9-2026/\">TRẢI NGHIỆM GAME TRÊN MCTN, NHẬN SAO HỘ MỆNH TỪ 12 &#8211; 14/9/2026</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2026/09/ChatGPT-Image-13_00_28-12-thg-9-2026.png",
+      "source": "Liên Quân Mobile Official",
+      "source_url": "https://lienquan.garena.vn/rss",
+      "published_at": "2026-09-12T06:01:11Z",
+      "crawled_at": "2026-09-12T09:08:12.227933",
+      "category": "tướng",
+      "priority": 1
+    },
     {
       "id": "46d6e3971ea9",
       "title": "THỂ LỆ CUỘC THI ẢNH LIÊN QUÂN GẮN KẾT 🤩",
@@ -1287,19 +1300,6 @@
       "published_at": "2026-02-26T10:00:50Z",
       "crawled_at": "2026-02-26T10:13:09.205130",
       "category": "tướng",
-      "priority": 1
-    },
-    {
-      "id": "ec2a8612fde9",
-      "title": "SỰ KIỆN RA MẮT TRANG PHỤC MARJA HI PHI",
-      "link": "https://lienquan.garena.vn/su-kien-ra-mat-trang-phuc-marja-hi-phi/",
-      "summary": "<p>&#160; Thời gian sự kiện: 28.02 &#8211; 29.03 Trong thời gian diễn ra sự kiện, người chơi có thể sở hữu trang phục Marja Hi Phi thông qua 1 trong 3 cách sau: 1️. Tham [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/su-kien-ra-mat-trang-phuc-marja-hi-phi/\">SỰ KIỆN RA MẮT TRANG PHỤC MARJA HI PHI</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
-      "image_url": null,
-      "source": "Liên Quân Mobile Official",
-      "source_url": "https://lienquan.garena.vn/rss",
-      "published_at": "2026-02-25T10:20:39Z",
-      "crawled_at": "2026-02-25T11:14:01.753972",
-      "category": "skin",
       "priority": 1
     }
   ]

@@ -1,6 +1,72 @@
 {
   "videos": [
     {
+      "videoId": "itsTxFeeVMM",
+      "title": "🔴 TRỰC TIẾP: BOOM ESPORTS vs TEAM SECRET | GIAI ĐOẠN VÒNG BẢNG - LƯỢT ĐI | ĐTDV MÙA ĐÔNG 2026",
+      "title_original": "🔴 TRỰC TIẾP: BOOM ESPORTS vs TEAM SECRET | GIAI ĐOẠN VÒNG BẢNG - LƯỢT ĐI | ĐTDV MÙA ĐÔNG 2026",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-09-12T05:01:11Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/itsTxFeeVMM/maxresdefault.jpg"
+    },
+    {
+      "videoId": "H-z3XBBbCig",
+      "title": "🔴 TRỰC TIẾP: FPT x FLASH vs REX REGUM QEON | GIAI ĐOẠN VÒNG BẢNG - LƯỢT ĐI | ĐTDV MÙA ĐÔNG 2026",
+      "title_original": "🔴 TRỰC TIẾP: FPT x FLASH vs REX REGUM QEON | GIAI ĐOẠN VÒNG BẢNG - LƯỢT ĐI | ĐTDV MÙA ĐÔNG 2026",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-09-12T05:00:03Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/H-z3XBBbCig/maxresdefault.jpg"
+    },
+    {
+      "videoId": "u-Bd6w5hyfc",
+      "title": "MV | Liên khúc \"HUYỀN THOẠI LIÊN QUÂN\" - Bâng x ADC x BirdLB x QuangHai x KhienG (AOG All-star Band)",
+      "title_original": "MV | Liên khúc \"HUYỀN THOẠI LIÊN QUÂN\" - Bâng x ADC x BirdLB x QuangHai x KhienG (AOG All-star Band)",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-09-12T04:00:06Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/u-Bd6w5hyfc/maxresdefault.jpg"
+    },
+    {
+      "videoId": "wz5nAsPifzA",
+      "title": "SAIGON PHANTOM VS GAM ESPORTS | VÒNG BẢNG - LƯỢT ĐI | ĐẤU TRƯỜNG DANH VỌNG MÙA ĐÔNG 2026",
+      "title_original": "SAIGON PHANTOM VS GAM ESPORTS | VÒNG BẢNG - LƯỢT ĐI | ĐẤU TRƯỜNG DANH VỌNG MÙA ĐÔNG 2026",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-09-12T01:00:36Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/wz5nAsPifzA/maxresdefault.jpg"
+    },
+    {
+      "videoId": "VTzSfgY8a6w",
+      "title": "BOX GAMING  VS TEAM SECRET | VÒNG BẢNG - LƯỢT ĐI | ĐẤU TRƯỜNG DANH VỌNG MÙA ĐÔNG 2026",
+      "title_original": "BOX GAMING  VS TEAM SECRET | VÒNG BẢNG - LƯỢT ĐI | ĐẤU TRƯỜNG DANH VỌNG MÙA ĐÔNG 2026",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-09-12T00:30:39Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/VTzSfgY8a6w/maxresdefault.jpg"
+    },
+    {
+      "videoId": "tOCAgzJDDOM",
+      "title": "FPT POLYTECHNIC VS ONE STAR ESPORTS | VÒNG BẢNG - LƯỢT ĐI | ĐẤU TRƯỜNG DANH VỌNG MÙA ĐÔNG 2026",
+      "title_original": "FPT POLYTECHNIC VS ONE STAR ESPORTS | VÒNG BẢNG - LƯỢT ĐI | ĐẤU TRƯỜNG DANH VỌNG MÙA ĐÔNG 2026",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-09-12T00:00:19Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/tOCAgzJDDOM/maxresdefault.jpg"
+    },
+    {
       "videoId": "n6oCyW03KeI",
       "title": "MƯA QUÁ MƯAAA",
       "title_original": "MƯA QUÁ MƯAAA",
@@ -21,17 +87,6 @@
       "source": "youtube",
       "publishedAt": "2026-09-11T16:37:00Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/FKKIZVNM_nU/maxresdefault.jpg"
-    },
-    {
-      "videoId": "u-Bd6w5hyfc",
-      "title": "MV | Liên khúc \"HUYỀN THOẠI LIÊN QUÂN\" - Bâng x ADC x BirdLB x QuangHai x KhienG (AOG All-star Band)",
-      "title_original": "MV | Liên khúc \"HUYỀN THOẠI LIÊN QUÂN\" - Bâng x ADC x BirdLB x QuangHai x KhienG (AOG All-star Band)",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-09-11T15:28:01Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/u-Bd6w5hyfc/maxresdefault.jpg"
     },
     {
       "videoId": "alGa_T3IQFU",
@@ -2144,61 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-08-30T18:12:31Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/m2xwD37KhUY/maxresdefault.jpg"
-    },
-    {
-      "videoId": "Rg5Z_dmMlnk",
-      "title": "TS vs FPT | 1S vs RRQ | SGP vs FPL | GIAI ĐOẠN VÒNG BẢNG - LƯỢT ĐI | ĐTDV MÙA ĐÔNG 2026 (NGÀY 30/08)",
-      "title_original": "TS vs FPT | 1S vs RRQ | SGP vs FPL | GIAI ĐOẠN VÒNG BẢNG - LƯỢT ĐI | ĐTDV MÙA ĐÔNG 2026 (NGÀY 30/08)",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-08-30T16:54:19Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/Rg5Z_dmMlnk/maxresdefault.jpg"
-    },
-    {
-      "videoId": "f5382DSdR-Y",
-      "title": "🔴 TRỰC TIẾP: SAIGON PHANTOM vs FPT POLYTECHNIC | GIAI ĐOẠN VÒNG BẢNG - LƯỢT ĐI | ĐTDV MÙA ĐÔNG 2026",
-      "title_original": "🔴 TRỰC TIẾP: SAIGON PHANTOM vs FPT POLYTECHNIC | GIAI ĐOẠN VÒNG BẢNG - LƯỢT ĐI | ĐTDV MÙA ĐÔNG 2026",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-08-30T16:31:32Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/f5382DSdR-Y/maxresdefault.jpg"
-    },
-    {
-      "videoId": "ypmIEgl2Afo",
-      "title": "TRỰC TIẾP: SAIGON PHANTOM vs FPT POLYTECHNIC - TÂM ĐIỂM TUẦN 1 AOG | NAMSENSEI CO-STREAM",
-      "title_original": "TRỰC TIẾP: SAIGON PHANTOM vs FPT POLYTECHNIC - TÂM ĐIỂM TUẦN 1 AOG | NAMSENSEI CO-STREAM",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-08-30T16:31:23Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/ypmIEgl2Afo/maxresdefault.jpg"
-    },
-    {
-      "videoId": "C8F1GYF49g8",
-      "title": "Chiến Tướng Cùng PondGaming",
-      "title_original": "Chiến Tướng Cùng PondGaming",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-08-30T16:30:04Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/C8F1GYF49g8/maxresdefault.jpg"
-    },
-    {
-      "videoId": "-E3KHpSy5hQ",
-      "title": "การแข่งขัน RoV Pro League 2026 Winter | รอบเก็บคะแนน Week 2 Day 4",
-      "title_original": "การแข่งขัน RoV Pro League 2026 Winter | รอบเก็บคะแนน Week 2 Day 4",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-08-30T14:30:22Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/-E3KHpSy5hQ/maxresdefault.jpg"
     }
   ]
 }

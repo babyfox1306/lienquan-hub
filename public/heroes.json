@@ -133,10 +133,10 @@
         "Krixi",
         "Grakk"
       ],
-      "tier": "B",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 0)",
+      "tier": "A",
+      "tier_reason": "Được gán từ dữ liệu hạt giống (Seed A-Tier) do ít video mới (Hot Count: 1)",
       "hot": false,
-      "hot_count": 2,
+      "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/2/2a/Zata_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20200617141406",
       "related_videos": [
         "rmJ5-cG_V0Y",
@@ -4935,5 +4935,5 @@
       ]
     }
   ],
-  "updated_at": "2026-09-12T04:07:15Z"
+  "updated_at": "2026-09-12T09:13:02Z"
 }
