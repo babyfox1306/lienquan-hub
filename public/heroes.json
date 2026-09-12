@@ -38,12 +38,14 @@
         "Thane",
         "Krixi"
       ],
-      "tier": "A",
-      "tier_reason": "Được gán từ dữ liệu hạt giống (Seed A-Tier) do ít video mới (Hot Count: 1)",
-      "hot": false,
-      "hot_count": 1,
+      "tier": "B",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 3, Score: 0)",
+      "hot": true,
+      "hot_count": 3,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/3/3f/Nakroth_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20201224121203",
       "related_videos": [
+        "D08E33ADqOM",
+        "GdlN3VhPXCY",
         "C8bXuUTwUH8"
       ]
     },
@@ -1210,13 +1212,12 @@
         "Baldum"
       ],
       "tier": "B",
-      "tier_reason": "Xuất hiện 2 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/d/d7/Lauriel_Splash.jpg/revision/latest/scale-to-width-down/500?cb=20171113161316",
       "related_videos": [
-        "NAb8Pg2Jbtw",
-        "iX0q5h93PGc"
+        "NAb8Pg2Jbtw"
       ]
     },
     {
@@ -2722,12 +2723,13 @@
       },
       "counters": [],
       "synergies": [],
-      "tier": "B",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 3, Score: 0)",
+      "tier": "A",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 4, Score: 1)",
       "hot": true,
-      "hot_count": 3,
+      "hot_count": 4,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/7/7f/Biron_itadori.jpg/revision/latest/scale-to-width-down/500?cb=20250109145933",
       "related_videos": [
+        "yM_a_oJR9LU",
         "i7Plz94ZmnI",
         "jbEOlvEIR3A",
         "pE4xrk3k-tw"
@@ -3278,7 +3280,7 @@
       "tier": "B",
       "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/e/e6/Enzo_profile.jpg/revision/latest/scale-to-width-down/500?cb=20200531224410",
       "related_videos": [
         "0EZIWiDb8eU"
@@ -4935,5 +4937,5 @@
       ]
     }
   ],
-  "updated_at": "2026-09-12T09:13:02Z"
+  "updated_at": "2026-09-12T13:33:36Z"
 }
