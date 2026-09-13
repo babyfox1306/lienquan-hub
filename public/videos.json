@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "1jc16KBDx8U",
+      "title": "ĂN HÀNH CUỐI TỪNG",
+      "title_original": "ĂN HÀNH CUỐI TỪNG",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-09-13T18:12:19Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/1jc16KBDx8U/maxresdefault.jpg"
+    },
+    {
       "videoId": "wxsGo3ztbtA",
       "title": "🔴 TRỰC TIẾP: SAIGON PHANTOM vs FPT x FLASH | GIAI ĐOẠN VÒNG BẢNG - LƯỢT ĐI | ĐTDV MÙA ĐÔNG 2026",
       "title_original": "🔴 TRỰC TIẾP: SAIGON PHANTOM vs FPT x FLASH | GIAI ĐOẠN VÒNG BẢNG - LƯỢT ĐI | ĐTDV MÙA ĐÔNG 2026",
@@ -23,15 +34,15 @@
       "thumbnailUrl": "https://i.ytimg.com/vi/HgS3TpsopM8/maxresdefault.jpg"
     },
     {
-      "videoId": "1jc16KBDx8U",
-      "title": "ĂN HÀNH CUỐI TỪNG",
-      "title_original": "ĂN HÀNH CUỐI TỪNG",
+      "videoId": "HIQ5uKa-1_A",
+      "title": "🔴𝐋𝐈𝐕𝐄 การแข่งขัน RoV Pro League 2026 Winter | รอบเก็บคะแนน Week 4 Day 4",
+      "title_original": "🔴𝐋𝐈𝐕𝐄 การแข่งขัน RoV Pro League 2026 Winter | รอบเก็บคะแนน Week 4 Day 4",
       "translated": false,
       "country": "VN",
       "lang_original": "vi",
       "source": "youtube",
-      "publishedAt": "2026-09-13T14:37:48Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/1jc16KBDx8U/maxresdefault.jpg"
+      "publishedAt": "2026-09-13T14:53:42Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/HIQ5uKa-1_A/maxresdefault.jpg"
     },
     {
       "videoId": "MVrbVslE900",
@@ -177,17 +188,6 @@
       "thumbnailUrl": "https://i.ytimg.com/vi/N9RPd9dx8RA/maxresdefault.jpg"
     },
     {
-      "videoId": "HIQ5uKa-1_A",
-      "title": "🔴𝐋𝐈𝐕𝐄 แมตช์เดือด! Bacon Time 🆚 King of Gamers Club | การแข่งขัน RoV Pro League 2026 Winter",
-      "title_original": "🔴𝐋𝐈𝐕𝐄 แมตช์เดือด! Bacon Time 🆚 King of Gamers Club | การแข่งขัน RoV Pro League 2026 Winter",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-09-13T04:07:33Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/HIQ5uKa-1_A/maxresdefault.jpg"
-    },
-    {
       "videoId": "s3ou4EmMwz8",
       "title": "FPT X FLASH VS REX REGUM QEON | VÒNG BẢNG - LƯỢT ĐI | ĐẤU TRƯỜNG DANH VỌNG MÙA ĐÔNG 2026",
       "title_original": "FPT X FLASH VS REX REGUM QEON | VÒNG BẢNG - LƯỢT ĐI | ĐẤU TRƯỜNG DANH VỌNG MÙA ĐÔNG 2026",
@@ -285,6 +285,17 @@
       "source": "youtube",
       "publishedAt": "2026-09-12T13:02:52Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/iv2YROaX6RM/maxresdefault.jpg"
+    },
+    {
+      "videoId": "6SXt0AqC9K0",
+      "title": "Hayate Thương Xuyên Phá Quá Mạnh ?",
+      "title_original": "Hayate Thương Xuyên Phá Quá Mạnh ?",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-09-12T11:45:01Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/6SXt0AqC9K0/maxresdefault.jpg"
     },
     {
       "videoId": "Rp5Q2VJ3GHU",
@@ -2188,17 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-09-01T12:30:28Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/D9V71icaYhM/maxresdefault.jpg"
-    },
-    {
-      "videoId": "aGfncctfn7w",
-      "title": "Aya Không Đáng Ghét Như Bạn Nghĩ ?",
-      "title_original": "Aya Không Đáng Ghét Như Bạn Nghĩ ?",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-09-01T12:00:05Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/aGfncctfn7w/maxresdefault.jpg"
     }
   ]
 }
