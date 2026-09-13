@@ -16,11 +16,6 @@
       "type": "channel"
     },
     {
-      "id": "UC3QLI0FHwACCaa91Xdpam2A",
-      "name": "Trải Nghiệm Game",
-      "type": "channel"
-    },
-    {
       "id": "UCIzzawIg4eCPgZggwFzEQbQ",
       "name": "Garena Liên Quân Mobile",
       "type": "channel"
@@ -38,11 +33,6 @@
     {
       "id": "UCyqjmx1kcZknycssiIhFQKw",
       "name": "VuxGaming",
-      "type": "channel"
-    },
-    {
-      "id": "UC55ad8jzcIWCMU-o2CXMEAw",
-      "name": "Thầy Giáo Liên Quân",
       "type": "channel"
     },
     {
@@ -81,6 +71,11 @@
       "type": "channel"
     },
     {
+      "id": "UCWf2h2oDJUZ1NWAf-8Fcb9A",
+      "name": "Liên Quân Mobile eSports - Garena",
+      "type": "channel"
+    },
+    {
       "id": "UC6_-E6Lek7_1TMt6927ITOQ",
       "name": "NaKa Liên Quân Mobile",
       "type": "channel"
@@ -98,6 +93,11 @@
     {
       "id": "UCR-gPrkxx2U2dtfdke4t42A",
       "name": "Liên Quân Mobile Nghệ An Esports",
+      "type": "channel"
+    },
+    {
+      "id": "UCF5Tl2d4JE8A_gG9r0Lphdg",
+      "name": "Garena Liên Quân Mobile",
       "type": "channel"
     }
   ],
