@@ -1268,8 +1268,7 @@
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/d/d4/Liliana_Default.jpg/revision/latest/scale-to-width-down/500?cb=20180331134150",
       "related_videos": [
         "oe5220bCsnY",
-        "dmG9ziEZa6c",
-        "77RUOjgVE3c"
+        "dmG9ziEZa6c"
       ]
     },
     {
@@ -2325,12 +2324,14 @@
         "Grakk",
         "Nakroth"
       ],
-      "tier": "B",
-      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier": "A",
+      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 1)",
       "hot": false,
-      "hot_count": 0,
+      "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/a/a3/Raz_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125091551",
-      "related_videos": []
+      "related_videos": [
+        "juPFCjQR53Y"
+      ]
     },
     {
       "id": "airi",
@@ -2598,7 +2599,7 @@
       "tier": "C",
       "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: -1)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/f/f6/Aya_Splashart.png/revision/latest/scale-to-width-down/500?cb=20220104210403",
       "related_videos": [
         "MEBmb_MIpsU"
@@ -4016,6 +4017,7 @@
       "hot_count": 2,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/2/28/Preyta_Splash.png/revision/latest/scale-to-width-down/500?cb=20171204210816",
       "related_videos": [
+        "HYDns7nqfBc",
         "6b7noRW2U4g",
         "7mtbw0dW3V8"
       ]
@@ -4207,9 +4209,9 @@
       "counters": [],
       "synergies": [],
       "tier": "A",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 2)",
+      "tier_reason": "Xuất hiện 5 lần trong video/tin tức 14 ngày qua (Score: 2)",
       "hot": false,
-      "hot_count": 2,
+      "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/f/f2/Ryoma_Gunslinger.png/revision/latest/scale-to-width-down/500?cb=20180313083407",
       "related_videos": [
         "q17NMDrTnJg",
@@ -4931,5 +4933,5 @@
       ]
     }
   ],
-  "updated_at": "2026-09-14T04:51:03Z"
+  "updated_at": "2026-09-14T10:33:03Z"
 }
