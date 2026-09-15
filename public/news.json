@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-15T09:58:31.157639",
+  "last_updated": "2026-09-15T14:51:15.809308",
   "total_news": 100,
   "news": [
     {
@@ -39,6 +39,19 @@
       "published_at": "2026-09-12T06:01:11Z",
       "crawled_at": "2026-09-12T09:08:12.227933",
       "category": "tướng",
+      "priority": 1
+    },
+    {
+      "id": "47d3a43616c6",
+      "title": "TỔNG KẾT ĐẤU TRƯỜNG DANH VỌNG MÙA ĐÔNG 2026 – VÒNG 3 + 4: FPT x FLASH NHẬN THẤT BẠI ĐẦU TIÊN, BOOM ESPORTS LIÊN TỤC TẠO DẤU ẤN",
+      "link": "https://lienquan.garena.vn/tong-ket-dau-truong-danh-vong-mua-dong-2026-vong-3-4-fpt-x-flash-nhan-that-bai-dau-tien-boom-esports-lien-tuc-tao-dau-an/",
+      "summary": "<p>Đấu Trường Danh Vọng Mùa Đông 2026 tiếp tục diễn ra sôi động qua vòng 3 và 4 với hàng loạt kết quả đáng chú ý. Nếu FPT x Flash vẫn thể hiện vị thế [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/tong-ket-dau-truong-danh-vong-mua-dong-2026-vong-3-4-fpt-x-flash-nhan-that-bai-dau-tien-boom-esports-lien-tuc-tao-dau-an/\">TỔNG KẾT ĐẤU TRƯỜNG DANH VỌNG MÙA ĐÔNG 2026 – VÒNG 3 + 4: FPT x FLASH NHẬN THẤT BẠI ĐẦU TIÊN, BOOM ESPORTS LIÊN TỤC TẠO DẤU ẤN    </a> appeared first on <a href=\"htt",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2026/09/3-1.png",
+      "source": "Liên Quân Mobile Official",
+      "source_url": "https://lienquan.garena.vn/rss",
+      "published_at": "2026-09-10T09:49:27Z",
+      "crawled_at": "2026-09-15T14:46:26.238987",
+      "category": "esports",
       "priority": 1
     },
     {
@@ -1287,19 +1300,6 @@
       "published_at": "2026-03-02T10:54:38Z",
       "crawled_at": "2026-03-02T11:11:27.572761",
       "category": "skin",
-      "priority": 1
-    },
-    {
-      "id": "a09237507321",
-      "title": "MỞ BÁN SỔ SỨ MỆNH 87",
-      "link": "https://lienquan.garena.vn/mo-ban-so-su-menh-87/",
-      "summary": "<p>Xin chào các Kiện Tướng, Chào mừng đến với Sổ Sứ Mệnh mùa 87 &#8211; Rạp xiếc kỳ ảo SỔ SỨ MỆNH MÙA 87 Các Kiện Tướng có hai lựa chọn tham gia Sổ Sứ [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/mo-ban-so-su-menh-87/\">MỞ BÁN SỔ SỨ MỆNH 87</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
-      "image_url": null,
-      "source": "Liên Quân Mobile Official",
-      "source_url": "https://lienquan.garena.vn/rss",
-      "published_at": "2026-03-02T03:32:58Z",
-      "crawled_at": "2026-03-02T03:44:34.565265",
-      "category": "tướng",
       "priority": 1
     }
   ]

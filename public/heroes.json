@@ -752,13 +752,11 @@
         "Krixi"
       ],
       "tier": "B",
-      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/8/88/Wukong_Splash.png/revision/latest/scale-to-width-down/500?cb=20171113154844",
-      "related_videos": [
-        "TP6OorPyuso"
-      ]
+      "related_videos": []
     },
     {
       "id": "toro",
@@ -1266,9 +1264,9 @@
         "Nakroth"
       ],
       "tier": "A",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 1)",
+      "tier_reason": "Xuất hiện 2 lần trong video/tin tức 14 ngày qua (Score: 1)",
       "hot": false,
-      "hot_count": 2,
+      "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/d/d4/Liliana_Default.jpg/revision/latest/scale-to-width-down/500?cb=20180331134150",
       "related_videos": [
         "oe5220bCsnY",
@@ -2721,17 +2719,17 @@
       "counters": [],
       "synergies": [],
       "tier": "A",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 6, Score: 1)",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 7, Score: 1)",
       "hot": true,
-      "hot_count": 6,
+      "hot_count": 7,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/7/7f/Biron_itadori.jpg/revision/latest/scale-to-width-down/500?cb=20250109145933",
       "related_videos": [
+        "GPvKHtvdPO8",
         "xMwO4EdOW0s",
         "yHi8-A1AyBk",
         "yM_a_oJR9LU",
         "i7Plz94ZmnI",
-        "jbEOlvEIR3A",
-        "pE4xrk3k-tw"
+        "jbEOlvEIR3A"
       ]
     },
     {
@@ -3043,9 +3041,9 @@
       "counters": [],
       "synergies": [],
       "tier": "A",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 3, Score: 1)",
-      "hot": true,
-      "hot_count": 3,
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 1)",
+      "hot": false,
+      "hot_count": 2,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/c/c9/D%27Arcy_profile.jpg/revision/latest/scale-to-width-down/500?cb=20200531224258",
       "related_videos": [
         "VixtknviA0M",
@@ -3905,7 +3903,7 @@
       "tier": "B",
       "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/9/90/Ming_physiognomist.jpg/revision/latest/scale-to-width-down/500?cb=20250113164018",
       "related_videos": [
         "oX0cfn6lbnc"
@@ -4217,15 +4215,14 @@
       "counters": [],
       "synergies": [],
       "tier": "S",
-      "tier_reason": "Xuất hiện 4 lần trong video/tin tức 14 ngày qua (Score: 3)",
+      "tier_reason": "Xuất hiện 3 lần trong video/tin tức 14 ngày qua (Score: 3)",
       "hot": false,
       "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/f/f2/Ryoma_Gunslinger.png/revision/latest/scale-to-width-down/500?cb=20180313083407",
       "related_videos": [
         "q17NMDrTnJg",
         "qdFuRoSKff4",
-        "x2Me_oq4EM8",
-        "TP6OorPyuso"
+        "x2Me_oq4EM8"
       ]
     },
     {
@@ -4936,5 +4933,5 @@
       "related_videos": []
     }
   ],
-  "updated_at": "2026-09-15T09:58:31Z"
+  "updated_at": "2026-09-15T14:51:16Z"
 }
