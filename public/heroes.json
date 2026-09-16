@@ -39,11 +39,12 @@
         "Krixi"
       ],
       "tier": "B",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 0)",
-      "hot": false,
-      "hot_count": 2,
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 3, Score: 0)",
+      "hot": true,
+      "hot_count": 3,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/3/3f/Nakroth_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20201224121203",
       "related_videos": [
+        "mKd_W2euJA4",
         "D08E33ADqOM",
         "GdlN3VhPXCY",
         "C8bXuUTwUH8"
@@ -383,8 +384,7 @@
       "related_videos": [
         "6SXt0AqC9K0",
         "nljxwUE3fGk",
-        "SzQfGh3I50M",
-        "pshkjl8zqZA"
+        "SzQfGh3I50M"
       ]
     },
     {
@@ -987,9 +987,7 @@
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/a/ab/Volkath_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20200531224601",
-      "related_videos": [
-        "pshkjl8zqZA"
-      ]
+      "related_videos": []
     },
     {
       "id": "maloch",
@@ -4938,5 +4936,5 @@
       "related_videos": []
     }
   ],
-  "updated_at": "2026-09-16T13:23:35Z"
+  "updated_at": "2026-09-16T18:07:29Z"
 }
