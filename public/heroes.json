@@ -192,8 +192,7 @@
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/4/40/Violet_Default.jpg/revision/latest/scale-to-width-down/500?cb=20180325101918",
       "related_videos": [
         "MLv68blzTGY",
-        "KrMs3Ynlu5w",
-        "lBt-ZBG-jOs"
+        "KrMs3Ynlu5w"
       ]
     },
     {
@@ -2192,11 +2191,13 @@
         "Krixi"
       ],
       "tier": "B",
-      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
-      "hot_count": 0,
+      "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/f/f9/Arthur_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20221110122653",
-      "related_videos": []
+      "related_videos": [
+        "Mc4qYLTSuyY"
+      ]
     },
     {
       "id": "keera",
@@ -2925,12 +2926,13 @@
       "counters": [],
       "synergies": [],
       "tier": "B",
-      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 0)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 2,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/d/d3/Capheny_profile.jpg/revision/latest/scale-to-width-down/500?cb=20200531224240",
       "related_videos": [
-        "cjmC7O_7JqU"
+        "cjmC7O_7JqU",
+        "MOwQDzxqzlI"
       ]
     },
     {
@@ -3483,7 +3485,7 @@
       "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
       "hot_count": 0,
-      "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/7/7d/Helen_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260124104717",
+      "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/d/d1/HelenSkinSplash1.jpg/revision/latest/scale-to-width-down/500?cb=20260914012516",
       "related_videos": []
     },
     {
@@ -4611,12 +4613,14 @@
       },
       "counters": [],
       "synergies": [],
-      "tier": "B",
-      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier": "A",
+      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 1)",
       "hot": false,
-      "hot_count": 0,
+      "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/3/35/Veera_profile.png/revision/latest/scale-to-width-down/500?cb=20170525133701",
-      "related_videos": []
+      "related_videos": [
+        "0K9-1Y-G2Io"
+      ]
     },
     {
       "id": "wiro",
@@ -4847,13 +4851,12 @@
       "counters": [],
       "synergies": [],
       "tier": "A",
-      "tier_reason": "Xuất hiện 2 lần trong video/tin tức 14 ngày qua (Score: 1)",
+      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 1)",
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/5/5c/Yorn_1.jpg/revision/latest/scale-to-width-down/500?cb=20171102213743",
       "related_videos": [
-        "nljxwUE3fGk",
-        "cRYejXtZIKY"
+        "nljxwUE3fGk"
       ]
     },
     {
@@ -4936,5 +4939,5 @@
       "related_videos": []
     }
   ],
-  "updated_at": "2026-09-16T22:04:20Z"
+  "updated_at": "2026-09-17T00:27:10Z"
 }
