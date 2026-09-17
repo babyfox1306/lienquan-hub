@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-09-17T11:27:13.879816",
+  "last_updated": "2026-09-17T16:44:06.540755",
   "total_news": 100,
   "news": [
+    {
+      "id": "a173dc91fe46",
+      "title": "CÔNG BỐ THÔNG TIN MỞ BÁN VÉ LIÊN QUÂN 10FEST",
+      "link": "https://lienquan.garena.vn/cong-bo-thong-tin-mo-ban-ve-lien-quan-10fest/",
+      "summary": "<p>Liên Quân 10Fest &#8211; Thập Niên Gắn Kết sẽ diễn ra trong hai ngày 07–08/11/2026 tại Sân vận động Quốc gia Mỹ Đình, Hà Nội, với Chung kết Đấu Trường Danh Vọng Mùa Đông 2026 [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/cong-bo-thong-tin-mo-ban-ve-lien-quan-10fest/\">CÔNG BỐ THÔNG TIN MỞ BÁN VÉ LIÊN QUÂN 10FEST</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2026/09/KV-Liên-Quân_blend-Cover-trang-chu-1-scaled.jpg",
+      "source": "Liên Quân Mobile Official",
+      "source_url": "https://lienquan.garena.vn/rss",
+      "published_at": "2026-09-17T13:01:04Z",
+      "crawled_at": "2026-09-17T16:39:00.615246",
+      "category": "tin tức",
+      "priority": 1
+    },
     {
       "id": "35e5fbd64051",
       "title": "ĐẶC QUYỀN VIP MEMBERSHIP: NHẬN VÉ MỜI THAM DỰ LIÊN QUÂN 10 FEST",
@@ -1287,19 +1300,6 @@
       "published_at": "2026-03-10T07:24:09Z",
       "crawled_at": "2026-03-10T08:06:02.636845",
       "category": "tướng",
-      "priority": 1
-    },
-    {
-      "id": "1f3c48d30b27",
-      "title": "ĐÍNH CHÍNH NỘI DUNG SAI SỰ THẬT VỀ QUY TRÌNH XỬ LÝ TÀI KHOẢN VI PHẠM & CSKH CỦA GARENA LIÊN QUÂN MOBILE",
-      "link": "https://lienquan.garena.vn/dinh-chinh-noi-dung-sai-su-that-ve-quy-trinh-xu-ly-tai-khoan-vi-pham-cskh-cua-garena-lien-quan-mobile/",
-      "summary": "<p>Hội Đồng Garena Liên Quân Mobile có nhận thông tin về việc có người chơi tố cáo &#8220;Người làm trong Garena cấu kết với gian thương nhận tiền mở khóa tài khoản&#8221;. Sau đây là [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/dinh-chinh-noi-dung-sai-su-that-ve-quy-trinh-xu-ly-tai-khoan-vi-pham-cskh-cua-garena-lien-quan-mobile/\">ĐÍNH CHÍNH NỘI DUNG SAI SỰ THẬT VỀ QUY TRÌNH XỬ LÝ TÀI KHOẢN VI PHẠM &#038; CSKH CỦA GARENA LIÊN QUÂN MOBILE</a> appeared first on <a href=\"https://li",
-      "image_url": "https://picsum.photos/seed/https://lienquan.garena.vn/dinh-chinh-noi-dung-sai-su-that-ve-quy-trinh-xu-ly-tai-khoan-vi-pham-cskh-cua-garena-lien-quan-mobile//400/225",
-      "source": "Liên Quân Mobile Official",
-      "source_url": "https://lienquan.garena.vn/rss",
-      "published_at": "2026-03-09T17:13:20Z",
-      "crawled_at": "2026-03-09T17:14:50.394004",
-      "category": "tin tức",
       "priority": 1
     }
   ]
