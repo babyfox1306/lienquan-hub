@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-09-17T06:00:17.097592",
+  "last_updated": "2026-09-17T11:27:13.879816",
   "total_news": 100,
   "news": [
+    {
+      "id": "35e5fbd64051",
+      "title": "ĐẶC QUYỀN VIP MEMBERSHIP: NHẬN VÉ MỜI THAM DỰ LIÊN QUÂN 10 FEST",
+      "link": "https://lienquan.garena.vn/dac-quyen-vip-membership-nhan-ve-moi-tham-du-lien-quan-10-fest/",
+      "summary": "<p>Xin chào các Kiện Tướng, Nhân dịp Liên Quân 10 Fest, Hội Đồng Liên Quân dành tặng đặc quyền tri ân tới các Kiện Tướng thuộc VIP Membership bậc KIM CƯƠNG (https://lienquan.member.garena.vn/). 40 Kiện Tướng [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/dac-quyen-vip-membership-nhan-ve-moi-tham-du-lien-quan-10-fest/\">ĐẶC QUYỀN VIP MEMBERSHIP: NHẬN VÉ MỜI THAM DỰ LIÊN QUÂN 10 FEST</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2026/09/IMG-HOR-0860x0400-107328-cover-post.png",
+      "source": "Liên Quân Mobile Official",
+      "source_url": "https://lienquan.garena.vn/rss",
+      "published_at": "2026-09-17T07:30:43Z",
+      "crawled_at": "2026-09-17T11:22:12.859460",
+      "category": "tướng",
+      "priority": 1
+    },
     {
       "id": "e22a50bdcc61",
       "title": "THÔNG BÁO THU HỒI VẬT PHẨM SỰ KIỆN FANZONE",
@@ -1287,19 +1300,6 @@
       "published_at": "2026-03-09T17:13:20Z",
       "crawled_at": "2026-03-09T17:14:50.394004",
       "category": "tin tức",
-      "priority": 1
-    },
-    {
-      "id": "1b029aaa5a62",
-      "title": "TỨ PHƯƠNG ĐẠI CHIẾN MÙA XUÂN 2026 | CHÍNH THỨC KHỞI TRANH",
-      "link": "https://lienquan.garena.vn/tu-phuong-dai-chien-mua-xuan-2026-chinh-thuc-khoi-tranh/",
-      "summary": "<p>Xin chào các Kiện Tướng, Tứ Phương Đại Chiến Mùa Xuân 2026 &#8211; giải đấu cộng đồng lớn nhất toàn quốc đã chính thức khởi tranh với tổng giá trị giải thưởng lên tới 280.000.000 [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/tu-phuong-dai-chien-mua-xuan-2026-chinh-thuc-khoi-tranh/\">TỨ PHƯƠNG ĐẠI CHIẾN MÙA XUÂN 2026 | CHÍNH THỨC KHỞI TRANH</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
-      "image_url": null,
-      "source": "Liên Quân Mobile Official",
-      "source_url": "https://lienquan.garena.vn/rss",
-      "published_at": "2026-03-06T07:45:37Z",
-      "crawled_at": "2026-03-06T08:04:23.290182",
-      "category": "tướng",
       "priority": 1
     }
   ]
