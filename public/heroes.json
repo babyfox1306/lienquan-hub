@@ -48,8 +48,7 @@
         "RXden_gHE14",
         "mKd_W2euJA4",
         "D08E33ADqOM",
-        "GdlN3VhPXCY",
-        "C8bXuUTwUH8"
+        "GdlN3VhPXCY"
       ]
     },
     {
@@ -1264,7 +1263,7 @@
       "tier": "A",
       "tier_reason": "Xuất hiện 2 lần trong video/tin tức 14 ngày qua (Score: 1)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/d/d4/Liliana_Default.jpg/revision/latest/scale-to-width-down/500?cb=20180331134150",
       "related_videos": [
         "oe5220bCsnY",
@@ -2723,9 +2722,9 @@
       "counters": [],
       "synergies": [],
       "tier": "A",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 5, Score: 1)",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 4, Score: 1)",
       "hot": true,
-      "hot_count": 5,
+      "hot_count": 4,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/7/7f/Biron_itadori.jpg/revision/latest/scale-to-width-down/500?cb=20250109145933",
       "related_videos": [
         "GPvKHtvdPO8",
@@ -2845,14 +2844,12 @@
       },
       "counters": [],
       "synergies": [],
-      "tier": "A",
-      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 1)",
+      "tier": "B",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/d/d2/Brunhilda_profile.jpg/revision/latest/scale-to-width-down/500?cb=20200531221741",
-      "related_videos": [
-        "PFb7HV4Gl6c"
-      ]
+      "related_videos": []
     },
     {
       "id": "butterfly",
@@ -3244,14 +3241,12 @@
       },
       "counters": [],
       "synergies": [],
-      "tier": "A",
-      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 1)",
+      "tier": "B",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/c/cf/Eland%27orr_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20210106151741",
-      "related_videos": [
-        "vqFtTENi4iw"
-      ]
+      "related_videos": []
     },
     {
       "id": "enzo",
@@ -4223,11 +4218,12 @@
       "counters": [],
       "synergies": [],
       "tier": "A",
-      "tier_reason": "Xuất hiện 2 lần trong video/tin tức 14 ngày qua (Score: 2)",
+      "tier_reason": "Xuất hiện 3 lần trong video/tin tức 14 ngày qua (Score: 2)",
       "hot": false,
-      "hot_count": 0,
+      "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/f/f2/Ryoma_Gunslinger.png/revision/latest/scale-to-width-down/500?cb=20180313083407",
       "related_videos": [
+        "9IJGJIChssg",
         "q17NMDrTnJg",
         "qdFuRoSKff4"
       ]
@@ -4941,5 +4937,5 @@
       "related_videos": []
     }
   ],
-  "updated_at": "2026-09-18T09:35:41Z"
+  "updated_at": "2026-09-18T14:20:29Z"
 }
