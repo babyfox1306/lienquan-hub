@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "efXahBzxwlY",
+      "title": "🎧 TRUYỆN AUDIO | OÁN NỮ TAI ƯƠNG – TẬP 1: NHỮNG QUY TẮC KỲ LẠ",
+      "title_original": "🎧 TRUYỆN AUDIO | OÁN NỮ TAI ƯƠNG – TẬP 1: NHỮNG QUY TẮC KỲ LẠ",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-09-20T16:34:28Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/efXahBzxwlY/maxresdefault.jpg"
+    },
+    {
       "videoId": "kUluAyE3eP8",
       "title": "FPL vs FPT | ĐẦU CẦU CHỚP CON | ĐTDV MÙA ĐÔNG 2026",
       "title_original": "FPL vs FPT | ĐẦU CẦU CHỚP CON | ĐTDV MÙA ĐÔNG 2026",
@@ -24,8 +35,8 @@
     },
     {
       "videoId": "5MUMH7_xdt4",
-      "title": "🔴 TRỰC TIẾP: FPT POLYTECHNIC vs FPT x FLASH | GIAI ĐOẠN VÒNG BẢNG - LƯỢT ĐI | ĐTDV MÙA ĐÔNG 2026",
-      "title_original": "🔴 TRỰC TIẾP: FPT POLYTECHNIC vs FPT x FLASH | GIAI ĐOẠN VÒNG BẢNG - LƯỢT ĐI | ĐTDV MÙA ĐÔNG 2026",
+      "title": "FPT POLYTECHNIC vs FPT x FLASH | GIAI ĐOẠN VÒNG BẢNG - LƯỢT ĐI | ĐTDV MÙA ĐÔNG 2026",
+      "title_original": "FPT POLYTECHNIC vs FPT x FLASH | GIAI ĐOẠN VÒNG BẢNG - LƯỢT ĐI | ĐTDV MÙA ĐÔNG 2026",
       "translated": false,
       "country": "VN",
       "lang_original": "vi",
@@ -79,8 +90,8 @@
     },
     {
       "videoId": "k3c98Je1I0c",
-      "title": "🔴 TRỰC TIẾP: REX REGUM QEON vs GAM ESPORTS | GIAI ĐOẠN VÒNG BẢNG - LƯỢT ĐI | ĐTDV MÙA ĐÔNG 2026",
-      "title_original": "🔴 TRỰC TIẾP: REX REGUM QEON vs GAM ESPORTS | GIAI ĐOẠN VÒNG BẢNG - LƯỢT ĐI | ĐTDV MÙA ĐÔNG 2026",
+      "title": "REX REGUM QEON vs GAM ESPORTS | GIAI ĐOẠN VÒNG BẢNG - LƯỢT ĐI | ĐTDV MÙA ĐÔNG 2026",
+      "title_original": "REX REGUM QEON vs GAM ESPORTS | GIAI ĐOẠN VÒNG BẢNG - LƯỢT ĐI | ĐTDV MÙA ĐÔNG 2026",
       "translated": false,
       "country": "VN",
       "lang_original": "vi",
@@ -2188,17 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-09-09T11:57:16Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/vFamSgQnvZ8/maxresdefault.jpg"
-    },
-    {
-      "videoId": "3BthuGzZL1k",
-      "title": "Tại Sao Murad Là Vị Tướng Leo Rank Dễ Nhất ?",
-      "title_original": "Tại Sao Murad Là Vị Tướng Leo Rank Dễ Nhất ?",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-09-09T11:15:01Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/3BthuGzZL1k/maxresdefault.jpg"
     }
   ]
 }
