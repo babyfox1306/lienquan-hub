@@ -1,6 +1,116 @@
 {
   "videos": [
     {
+      "videoId": "6Oy2JwC1ARc",
+      "title": "I'M BACK, I'M BACK!",
+      "title_original": "I'M BACK, I'M BACK!",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-09-21T15:08:21Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/6Oy2JwC1ARc/maxresdefault.jpg"
+    },
+    {
+      "videoId": "icPM6uX1Lmg",
+      "title": "I'M BACK, I'M BACK!",
+      "title_original": "I'M BACK, I'M BACK!",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-09-21T14:54:00Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/icPM6uX1Lmg/maxresdefault.jpg"
+    },
+    {
+      "videoId": "T2u0uLyX768",
+      "title": "Có con game mobile KIẾM HIỆP nào đang hay ho khum anh oem",
+      "title_original": "Có con game mobile KIẾM HIỆP nào đang hay ho khum anh oem",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-09-21T13:59:02Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/T2u0uLyX768/maxresdefault.jpg"
+    },
+    {
+      "videoId": "BsURqkamuTA",
+      "title": "🛑 DEFEAT hay VICTORY",
+      "title_original": "🛑 DEFEAT hay VICTORY",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-09-21T13:56:04Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/BsURqkamuTA/maxresdefault.jpg"
+    },
+    {
+      "videoId": "MQ0gepL6EFI",
+      "title": "🔴 TRỰC TIẾP: NA vs ĐL | CT vs TPHCM | SWISS STAGE 21.09 | TỨ PHƯƠNG ĐẠI CHIẾN MÙA ĐÔNG 2026",
+      "title_original": "🔴 TRỰC TIẾP: NA vs ĐL | CT vs TPHCM | SWISS STAGE 21.09 | TỨ PHƯƠNG ĐẠI CHIẾN MÙA ĐÔNG 2026",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-09-21T13:42:23Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/MQ0gepL6EFI/maxresdefault.jpg"
+    },
+    {
+      "videoId": "FVwVnblCkM4",
+      "title": "🔴 TRỰC TIẾP: NA vs ĐL | CT vs TPHCM | SWISS STAGE 21.09 | TỨ PHƯƠNG ĐẠI CHIẾN MÙA ĐÔNG 2026",
+      "title_original": "🔴 TRỰC TIẾP: NA vs ĐL | CT vs TPHCM | SWISS STAGE 21.09 | TỨ PHƯƠNG ĐẠI CHIẾN MÙA ĐÔNG 2026",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-09-21T13:39:16Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/FVwVnblCkM4/maxresdefault.jpg"
+    },
+    {
+      "videoId": "5O808andWig",
+      "title": "Moren BAY BẤT TỬ 8 Giây Nhờ Dolia… Tưởng Thắng Chắc, Ai Ngờ Nhà Còn 1 Máu!",
+      "title_original": "Moren BAY BẤT TỬ 8 Giây Nhờ Dolia… Tưởng Thắng Chắc, Ai Ngờ Nhà Còn 1 Máu!",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-09-21T12:06:25Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/5O808andWig/maxresdefault.jpg"
+    },
+    {
+      "videoId": "Q5TZvbpOgEk",
+      "title": "\"BỌN EM SẼ CỐ GẮNG HƯỚNG TỚI TRẬN CHUNG KẾT TẠI MỸ ĐÌNH\" - FPL THANHDUY | ĐẤU XONG THẤY SAO",
+      "title_original": "\"BỌN EM SẼ CỐ GẮNG HƯỚNG TỚI TRẬN CHUNG KẾT TẠI MỸ ĐÌNH\" - FPL THANHDUY | ĐẤU XONG THẤY SAO",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-09-21T12:00:27Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/Q5TZvbpOgEk/maxresdefault.jpg"
+    },
+    {
+      "videoId": "scjHOSBRAdg",
+      "title": "Đừng Bao Giờ Chủ Quan Khi Múa Nakroth... Trận Này Là Bằng Chứng!",
+      "title_original": "Đừng Bao Giờ Chủ Quan Khi Múa Nakroth... Trận Này Là Bằng Chứng!",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-09-21T11:02:17Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/scjHOSBRAdg/maxresdefault.jpg"
+    },
+    {
+      "videoId": "LQ6pF5pI_qE",
+      "title": "MỘT MÌNH CÂN 4! - TOP GOD VIT HỦY DIỆT ĐẾ VƯƠNG FPT x FLASH |  | GÓC NHÌN TUYỂN THỦ #8 - AOGW26",
+      "title_original": "MỘT MÌNH CÂN 4! - TOP GOD VIT HỦY DIỆT ĐẾ VƯƠNG FPT x FLASH |  | GÓC NHÌN TUYỂN THỦ #8 - AOGW26",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-09-21T11:00:34Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/LQ6pF5pI_qE/maxresdefault.jpg"
+    },
+    {
       "videoId": "0ZsBgiyoSsA",
       "title": "🛑 DEFEAT hay VICTORY",
       "title_original": "🛑 DEFEAT hay VICTORY",
@@ -12,26 +122,15 @@
       "thumbnailUrl": "https://i.ytimg.com/vi/0ZsBgiyoSsA/maxresdefault.jpg"
     },
     {
-      "videoId": "FVwVnblCkM4",
-      "title": "🔴 TRỰC TIẾP: NA vs ĐL | CT vs TPHCM | SWISS STAGE 21.09 | TỨ PHƯƠNG ĐẠI CHIẾN MÙA ĐÔNG 2026",
-      "title_original": "🔴 TRỰC TIẾP: NA vs ĐL | CT vs TPHCM | SWISS STAGE 21.09 | TỨ PHƯƠNG ĐẠI CHIẾN MÙA ĐÔNG 2026",
+      "videoId": "pZJSOaw-VY0",
+      "title": "Murad Dc S Tnh Yu trong tay Naka i top gp ko khc ch liu c kh chi ",
+      "title_original": "Murad Dc S Tnh Yu trong tay Naka i top gp ko khc ch liu c kh chi ",
       "translated": false,
       "country": "VN",
       "lang_original": "vi",
       "source": "youtube",
-      "publishedAt": "2026-09-21T08:27:59Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/FVwVnblCkM4/maxresdefault.jpg"
-    },
-    {
-      "videoId": "MQ0gepL6EFI",
-      "title": "🔴 TRỰC TIẾP: NA vs ĐL | CT vs TPHCM | SWISS STAGE 21.09 | TỨ PHƯƠNG ĐẠI CHIẾN MÙA ĐÔNG 2026",
-      "title_original": "🔴 TRỰC TIẾP: NA vs ĐL | CT vs TPHCM | SWISS STAGE 21.09 | TỨ PHƯƠNG ĐẠI CHIẾN MÙA ĐÔNG 2026",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-09-21T08:27:02Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/MQ0gepL6EFI/maxresdefault.jpg"
+      "publishedAt": "2026-09-21T09:14:14Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/pZJSOaw-VY0/maxresdefault.jpg"
     },
     {
       "videoId": "E6dFzJbccW8",
@@ -65,6 +164,17 @@
       "source": "youtube",
       "publishedAt": "2026-09-21T04:59:35Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/IsFrNPtJV4E/maxresdefault.jpg"
+    },
+    {
+      "videoId": "7m6jcrirIRE",
+      "title": "《Garena 傳說對決》策畫面對面|戰場改動‧下篇",
+      "title_original": "《Garena 傳說對決》策畫面對面|戰場改動‧下篇",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-09-21T04:30:16Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/7m6jcrirIRE/maxresdefault.jpg"
     },
     {
       "videoId": "ySr6aYSNn-Q",
@@ -166,6 +276,17 @@
       "thumbnailUrl": "https://i.ytimg.com/vi/ZQw8yos0hNA/maxresdefault.jpg"
     },
     {
+      "videoId": "zgk0BuvNltg",
+      "title": "Try hard t xong qua liqi lm ci cp",
+      "title_original": "Try hard t xong qua liqi lm ci cp",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-09-20T15:11:56Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/zgk0BuvNltg/maxresdefault.jpg"
+    },
+    {
       "videoId": "Hbve6UAdNLw",
       "title": "การแข่งขัน RoV Pro League 2026 Winter | รอบเก็บคะแนน Week 5 Day 2",
       "title_original": "การแข่งขัน RoV Pro League 2026 Winter | รอบเก็บคะแนน Week 5 Day 2",
@@ -232,6 +353,17 @@
       "thumbnailUrl": "https://i.ytimg.com/vi/ZynM7Djqj4M/maxresdefault.jpg"
     },
     {
+      "videoId": "btR7pB5Eews",
+      "title": "Naka sử dụng vị tướng Qi Milim Nava đi top sẽ như thế nào ? ⚡️⚡️⚡️",
+      "title_original": "Naka sử dụng vị tướng Qi Milim Nava đi top sẽ như thế nào ? ⚡️⚡️⚡️",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-09-20T09:30:52Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/btR7pB5Eews/maxresdefault.jpg"
+    },
+    {
       "videoId": "DBWRbD5DpPk",
       "title": "PHIÊN BẢN MỚI: D'Arcy AUTO NỔ DAME, Trùm Meta S4 2026 Thẳng Tiến! | TNG",
       "title_original": "PHIÊN BẢN MỚI: D'Arcy AUTO NỔ DAME, Trùm Meta S4 2026 Thẳng Tiến! | TNG",
@@ -241,6 +373,17 @@
       "source": "youtube",
       "publishedAt": "2026-09-20T09:28:31Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/DBWRbD5DpPk/maxresdefault.jpg"
+    },
+    {
+      "videoId": "GOx0ZkGhiLU",
+      "title": "[VALORANT] Tm ng ln Radiant | DAY 2",
+      "title_original": "[VALORANT] Tm ng ln Radiant | DAY 2",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-09-20T07:41:23Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/GOx0ZkGhiLU/maxresdefault.jpg"
     },
     {
       "videoId": "b6smJDSJjok",
@@ -318,17 +461,6 @@
       "source": "youtube",
       "publishedAt": "2026-09-19T15:37:06Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/__L5tGJuGBs/maxresdefault.jpg"
-    },
-    {
-      "videoId": "GOx0ZkGhiLU",
-      "title": "[VALORANT] Tm ng ln Radiant | DAY 2",
-      "title_original": "[VALORANT] Tm ng ln Radiant | DAY 2",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-09-19T15:02:04Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/GOx0ZkGhiLU/maxresdefault.jpg"
     },
     {
       "videoId": "QHRz2h0Z_qY",
@@ -2067,138 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-09-11T03:00:34Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/qi58Mle0mpc/maxresdefault.jpg"
-    },
-    {
-      "videoId": "KrMs3Ynlu5w",
-      "title": "Violet  Phi \"Tr Gi\" Bng Nhng G  Thy Mi Chin Thng",
-      "title_original": "Violet  Phi \"Tr Gi\" Bng Nhng G  Thy Mi Chin Thng",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-09-11T01:45:14Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/KrMs3Ynlu5w/maxresdefault.jpg"
-    },
-    {
-      "videoId": "bwzRvb_naXA",
-      "title": "Rank 200* Nha",
-      "title_original": "Rank 200* Nha",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-09-10T18:29:35Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/bwzRvb_naXA/maxresdefault.jpg"
-    },
-    {
-      "videoId": "8HnwaLmCXV8",
-      "title": "HƯỚNG VỀ IPHONE DUO",
-      "title_original": "HƯỚNG VỀ IPHONE DUO",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-09-10T17:57:33Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/8HnwaLmCXV8/maxresdefault.jpg"
-    },
-    {
-      "videoId": "yblgv3RHrOw",
-      "title": "🔴 TRỰC TIẾP: FPT x FLASH vs GAM ESPORTS | GIAI ĐOẠN VÒNG BẢNG - LƯỢT ĐI | ĐTDV MÙA ĐÔNG 2026",
-      "title_original": "🔴 TRỰC TIẾP: FPT x FLASH vs GAM ESPORTS | GIAI ĐOẠN VÒNG BẢNG - LƯỢT ĐI | ĐTDV MÙA ĐÔNG 2026",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-09-10T16:59:55Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/yblgv3RHrOw/maxresdefault.jpg"
-    },
-    {
-      "videoId": "-RsRYTW-xic",
-      "title": "BME vs FPL | FPT vs GAM | GIAI ĐOẠN VÒNG BẢNG - LƯỢT ĐI | ĐTDV MÙA ĐÔNG 2026 (NGÀY 10/09)",
-      "title_original": "BME vs FPL | FPT vs GAM | GIAI ĐOẠN VÒNG BẢNG - LƯỢT ĐI | ĐTDV MÙA ĐÔNG 2026 (NGÀY 10/09)",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-09-10T16:52:01Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/-RsRYTW-xic/maxresdefault.jpg"
-    },
-    {
-      "videoId": "e1kn4ldvKXY",
-      "title": "การแข่งขัน RoV Pro League 2026 Winter | รอบเก็บคะแนน Week 4 Day 1",
-      "title_original": "การแข่งขัน RoV Pro League 2026 Winter | รอบเก็บคะแนน Week 4 Day 1",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-09-10T14:47:56Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/e1kn4ldvKXY/maxresdefault.jpg"
-    },
-    {
-      "videoId": "jbEOlvEIR3A",
-      "title": "☠️ HIỆU ỨNG CHIÊU THỨC | BIRON DEATHMERC⚡- Garena Liên Quân Mobile",
-      "title_original": "☠️ HIỆU ỨNG CHIÊU THỨC | BIRON DEATHMERC⚡- Garena Liên Quân Mobile",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-09-10T12:30:30Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/jbEOlvEIR3A/maxresdefault.jpg"
-    },
-    {
-      "videoId": "rmJ5-cG_V0Y",
-      "title": "ALICE Đi Rừng PHÁ GAME, Cả Team Muốn GG… ZATA: \"DON'T WORRY, ĐỂ TAO LO!\" | Liên Quân",
-      "title_original": "ALICE Đi Rừng PHÁ GAME, Cả Team Muốn GG… ZATA: \"DON'T WORRY, ĐỂ TAO LO!\" | Liên Quân",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-09-10T12:15:50Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/rmJ5-cG_V0Y/maxresdefault.jpg"
-    },
-    {
-      "videoId": "jrMXmTanELs",
-      "title": "VUX THỬ THÁCH RANDOM 128 TƯỚNG LEO NICK HƠN 2000 TRẬN LÊN CHIẾN TƯỚNG",
-      "title_original": "VUX THỬ THÁCH RANDOM 128 TƯỚNG LEO NICK HƠN 2000 TRẬN LÊN CHIẾN TƯỚNG",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-09-10T12:10:03Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/jrMXmTanELs/maxresdefault.jpg"
-    },
-    {
-      "videoId": "h-Xtl3Y31wk",
-      "title": "神操作漂亮EP2 全部都有罪! 首次挑戰者投稿結果竟是!?神操作漂亮審判大會 2 登場🧑‍⚖️《Garena傳說對決》",
-      "title_original": "神操作漂亮EP2 全部都有罪! 首次挑戰者投稿結果竟是!?神操作漂亮審判大會 2 登場🧑‍⚖️《Garena傳說對決》",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-09-10T10:30:21Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/h-Xtl3Y31wk/maxresdefault.jpg"
-    },
-    {
-      "videoId": "pE4xrk3k-tw",
-      "title": "SKIN Spotlight | Deathmerc Biron",
-      "title_original": "SKIN Spotlight | Deathmerc Biron",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-09-10T09:36:08Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/pE4xrk3k-tw/maxresdefault.jpg"
-    },
-    {
-      "videoId": "vrWIEsTLq0A",
-      "title": "Timi Thành Công Đưa D'Arcy Trở Lại Meta: Chuỗi Thắng Hủy Diệt 4 Trận Tại Việt - Thái - Đài! | TNG",
-      "title_original": "Timi Thành Công Đưa D'Arcy Trở Lại Meta: Chuỗi Thắng Hủy Diệt 4 Trận Tại Việt - Thái - Đài! | TNG",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-09-10T09:30:20Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/vrWIEsTLq0A/maxresdefault.jpg"
     }
   ]
 }
