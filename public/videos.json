@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "raebH_MzONc",
+      "title": "🔴 TRỰC TIẾP: PLAYOFFS 20/09 | ĐẠI CHIẾN HIGHSCHOOL TOÀN QUỐC 2026",
+      "title_original": "🔴 TRỰC TIẾP: PLAYOFFS 20/09 | ĐẠI CHIẾN HIGHSCHOOL TOÀN QUỐC 2026",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-09-20T23:15:29Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/raebH_MzONc/maxresdefault.jpg"
+    },
+    {
       "videoId": "efXahBzxwlY",
       "title": "🎧 TRUYỆN AUDIO | OÁN NỮ TAI ƯƠNG – TẬP 1: NHỮNG QUY TẮC KỲ LẠ",
       "title_original": "🎧 TRUYỆN AUDIO | OÁN NỮ TAI ƯƠNG – TẬP 1: NHỮNG QUY TẮC KỲ LẠ",
@@ -142,17 +153,6 @@
       "source": "youtube",
       "publishedAt": "2026-09-20T07:00:27Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/b6smJDSJjok/maxresdefault.jpg"
-    },
-    {
-      "videoId": "raebH_MzONc",
-      "title": "🔴 TRỰC TIẾP: PLAYOFFS 20/09 | ĐẠI CHIẾN HIGHSCHOOL TOÀN QUỐC 2026",
-      "title_original": "🔴 TRỰC TIẾP: PLAYOFFS 20/09 | ĐẠI CHIẾN HIGHSCHOOL TOÀN QUỐC 2026",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-09-20T06:42:26Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/raebH_MzONc/maxresdefault.jpg"
     },
     {
       "videoId": "-QlCi7_OwxA",
