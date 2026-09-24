@@ -1,6 +1,61 @@
 {
   "videos": [
     {
+      "videoId": "xPVLBzcIw-Y",
+      "title": "Chơi Thử Tinh Linh Khởi Nguyên",
+      "title_original": "Chơi Thử Tinh Linh Khởi Nguyên",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-09-24T18:36:32Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/xPVLBzcIw-Y/maxresdefault.jpg"
+    },
+    {
+      "videoId": "3cUPVLJUqvw",
+      "title": "TRƯA MAI 12h STREAM THÊM GAME MỚI RA MẮT (Tinh Linh Khởi Nguyên)",
+      "title_original": "TRƯA MAI 12h STREAM THÊM GAME MỚI RA MẮT (Tinh Linh Khởi Nguyên)",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-09-24T18:02:09Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/3cUPVLJUqvw/maxresdefault.jpg"
+    },
+    {
+      "videoId": "Ly5ZoV3VaAs",
+      "title": "SIÊNG NĂNG CHĂM CHỈ",
+      "title_original": "SIÊNG NĂNG CHĂM CHỈ",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-09-24T16:47:33Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/Ly5ZoV3VaAs/maxresdefault.jpg"
+    },
+    {
+      "videoId": "y0p8A7IvWhs",
+      "title": "🔴 TRỰC TIẾP: UTE vs DUT | SGU vs UIT | SWISS STAGE 24.09 | TỨ PHƯƠNG ĐẠI CHIẾN MÙA ĐÔNG 2026",
+      "title_original": "🔴 TRỰC TIẾP: UTE vs DUT | SGU vs UIT | SWISS STAGE 24.09 | TỨ PHƯƠNG ĐẠI CHIẾN MÙA ĐÔNG 2026",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-09-24T15:54:14Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/y0p8A7IvWhs/maxresdefault.jpg"
+    },
+    {
+      "videoId": "ZyPbuyxVV_g",
+      "title": "🔴 TRỰC TIẾP: UTE vs DUT | SGU vs UIT | SWISS STAGE 24.09 | TỨ PHƯƠNG ĐẠI CHIẾN MÙA ĐÔNG 2026",
+      "title_original": "🔴 TRỰC TIẾP: UTE vs DUT | SGU vs UIT | SWISS STAGE 24.09 | TỨ PHƯƠNG ĐẠI CHIẾN MÙA ĐÔNG 2026",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-09-24T15:54:00Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/ZyPbuyxVV_g/maxresdefault.jpg"
+    },
+    {
       "videoId": "0KniDwGSL94",
       "title": "u Game Chi Hng Lm, Cui Game Thy Astrid Gnh Th Cng Hng ",
       "title_original": "u Game Chi Hng Lm, Cui Game Thy Astrid Gnh Th Cng Hng ",
@@ -131,28 +186,6 @@
       "source": "youtube",
       "publishedAt": "2026-09-24T09:37:56Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/eAdoPtrUj1s/maxresdefault.jpg"
-    },
-    {
-      "videoId": "ZyPbuyxVV_g",
-      "title": "🔴 TRỰC TIẾP: UTE vs DUT | SGU vs UIT | SWISS STAGE 24.09 | TỨ PHƯƠNG ĐẠI CHIẾN MÙA ĐÔNG 2026",
-      "title_original": "🔴 TRỰC TIẾP: UTE vs DUT | SGU vs UIT | SWISS STAGE 24.09 | TỨ PHƯƠNG ĐẠI CHIẾN MÙA ĐÔNG 2026",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-09-24T08:24:01Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/ZyPbuyxVV_g/maxresdefault.jpg"
-    },
-    {
-      "videoId": "y0p8A7IvWhs",
-      "title": "🔴 TRỰC TIẾP: UTE vs DUT | SGU vs UIT | SWISS STAGE 24.09 | TỨ PHƯƠNG ĐẠI CHIẾN MÙA ĐÔNG 2026",
-      "title_original": "🔴 TRỰC TIẾP: UTE vs DUT | SGU vs UIT | SWISS STAGE 24.09 | TỨ PHƯƠNG ĐẠI CHIẾN MÙA ĐÔNG 2026",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-09-24T08:23:28Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/y0p8A7IvWhs/maxresdefault.jpg"
     },
     {
       "videoId": "x_86H_185uM",
@@ -296,17 +329,6 @@
       "source": "youtube",
       "publishedAt": "2026-09-23T13:57:49Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/GlkezEHLhQo/maxresdefault.jpg"
-    },
-    {
-      "videoId": "Ly5ZoV3VaAs",
-      "title": "SIÊNG NĂNG CHĂM CHỈ",
-      "title_original": "SIÊNG NĂNG CHĂM CHỈ",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-09-23T13:38:28Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/Ly5ZoV3VaAs/maxresdefault.jpg"
     },
     {
       "videoId": "H1OQWpmnT3Y",
@@ -2177,28 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-09-14T00:30:27Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/vesWv2Kxkbc/maxresdefault.jpg"
-    },
-    {
-      "videoId": "Cnl2nbHID7Q",
-      "title": "TEAM SECRET VS REX REGUM QEON | VÒNG BẢNG - LƯỢT ĐI | ĐẤU TRƯỜNG DANH VỌNG MÙA ĐÔNG 2026",
-      "title_original": "TEAM SECRET VS REX REGUM QEON | VÒNG BẢNG - LƯỢT ĐI | ĐẤU TRƯỜNG DANH VỌNG MÙA ĐÔNG 2026",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-09-14T00:00:36Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/Cnl2nbHID7Q/maxresdefault.jpg"
-    },
-    {
-      "videoId": "1jc16KBDx8U",
-      "title": "ĂN HÀNH CUỐI TỪNG",
-      "title_original": "ĂN HÀNH CUỐI TỪNG",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-09-13T18:12:19Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/1jc16KBDx8U/maxresdefault.jpg"
     }
   ]
 }
