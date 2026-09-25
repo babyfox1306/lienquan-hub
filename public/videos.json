@@ -1,6 +1,39 @@
 {
   "videos": [
     {
+      "videoId": "ZhbmELsAHQw",
+      "title": "RANDOM TRỰC TIẾP",
+      "title_original": "RANDOM TRỰC TIẾP",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-09-25T05:27:46Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/ZhbmELsAHQw/maxresdefault.jpg"
+    },
+    {
+      "videoId": "sY_MjdAr8fs",
+      "title": "\"ANH TÍN BÁO TUI ĐÓ\" CHUYỆN CHƯA KỂ",
+      "title_original": "\"ANH TÍN BÁO TUI ĐÓ\" CHUYỆN CHƯA KỂ",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-09-25T04:00:26Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/sY_MjdAr8fs/maxresdefault.jpg"
+    },
+    {
+      "videoId": "tK9drr4ArRI",
+      "title": "TOP 5 Tướng Khắc Chế Astrid, Kèo Rừng Meta S3 2026, TNG",
+      "title_original": "TOP 5 Tướng Khắc Chế Astrid, Kèo Rừng Meta S3 2026, TNG",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-09-25T03:17:00Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/tK9drr4ArRI/maxresdefault.jpg"
+    },
+    {
       "videoId": "xPVLBzcIw-Y",
       "title": "Chơi Thử Tinh Linh Khởi Nguyên",
       "title_original": "Chơi Thử Tinh Linh Khởi Nguyên",
@@ -321,8 +354,8 @@
     },
     {
       "videoId": "GlkezEHLhQo",
-      "title": "GCS 2026 夏季例行賽W6D1-2026/09/25《Garena 傳說對決》",
-      "title_original": "GCS 2026 夏季例行賽W6D1-2026/09/25《Garena 傳說對決》",
+      "title": "🔴 LIVE:ONE 🆚 BMG|GCS 2026 夏季例行賽W6D1-2026/09/25《Garena 傳說對決》",
+      "title_original": "🔴 LIVE:ONE 🆚 BMG|GCS 2026 夏季例行賽W6D1-2026/09/25《Garena 傳說對決》",
       "translated": false,
       "country": "VN",
       "lang_original": "vi",
@@ -2166,39 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-09-14T03:58:12Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/781pmiMS2dg/maxresdefault.jpg"
-    },
-    {
-      "videoId": "juPFCjQR53Y",
-      "title": "TOP 5 Tướng Khắc Chế RAZ, Kèo Mid Meta S3 2026, TNG",
-      "title_original": "TOP 5 Tướng Khắc Chế RAZ, Kèo Mid Meta S3 2026, TNG",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-09-14T03:46:17Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/juPFCjQR53Y/maxresdefault.jpg"
-    },
-    {
-      "videoId": "2k5c85t98BU",
-      "title": "BOX GAMING VS ONE STAR ESPORTS | VÒNG BẢNG - LƯỢT ĐI | ĐẤU TRƯỜNG DANH VỌNG MÙA ĐÔNG 2026",
-      "title_original": "BOX GAMING VS ONE STAR ESPORTS | VÒNG BẢNG - LƯỢT ĐI | ĐẤU TRƯỜNG DANH VỌNG MÙA ĐÔNG 2026",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-09-14T01:00:29Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/2k5c85t98BU/maxresdefault.jpg"
-    },
-    {
-      "videoId": "vesWv2Kxkbc",
-      "title": "FPT X FLASH VS SAIGON PHANTOM | VÒNG BẢNG - LƯỢT ĐI | ĐẤU TRƯỜNG DANH VỌNG MÙA ĐÔNG 2026",
-      "title_original": "FPT X FLASH VS SAIGON PHANTOM | VÒNG BẢNG - LƯỢT ĐI | ĐẤU TRƯỜNG DANH VỌNG MÙA ĐÔNG 2026",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-09-14T00:30:27Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/vesWv2Kxkbc/maxresdefault.jpg"
     }
   ]
 }
