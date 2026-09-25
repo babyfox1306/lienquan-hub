@@ -1,6 +1,50 @@
 {
   "videos": [
     {
+      "videoId": "jGlV-alhHt8",
+      "title": "💥 VALOR TALK | CẬP NHẬT CHI TIẾT THÔNG TIN NÂNG CẤP PREYTA 👣 - Garena Liên Quân Mobile",
+      "title_original": "💥 VALOR TALK | CẬP NHẬT CHI TIẾT THÔNG TIN NÂNG CẤP PREYTA 👣 - Garena Liên Quân Mobile",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-09-25T12:30:01Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/jGlV-alhHt8/maxresdefault.jpg"
+    },
+    {
+      "videoId": "d5msfQdjFNw",
+      "title": "TRỰC TIẾP: WANIN FLASH WOLVES vs ANK GAMING - NAILIU NGÀY TRỞ LẠI | NAMSENSEI CO=STREAM",
+      "title_original": "TRỰC TIẾP: WANIN FLASH WOLVES vs ANK GAMING - NAILIU NGÀY TRỞ LẠI | NAMSENSEI CO=STREAM",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-09-25T10:03:05Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/d5msfQdjFNw/maxresdefault.jpg"
+    },
+    {
+      "videoId": "zLt14EFiVII",
+      "title": "PHIÊN BẢN MỚI: Dịch Chuyển Lên Ngôi, Chiến Thuật ĐẨY LẺ TỚI CHẾT! | TNG",
+      "title_original": "PHIÊN BẢN MỚI: Dịch Chuyển Lên Ngôi, Chiến Thuật ĐẨY LẺ TỚI CHẾT! | TNG",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-09-25T09:30:14Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/zLt14EFiVII/maxresdefault.jpg"
+    },
+    {
+      "videoId": "m3T1Rfcyuqs",
+      "title": "ค่ำคืนแห่งจันทราโลหิต - Valor Pass 69 | Cinematic",
+      "title_original": "ค่ำคืนแห่งจันทราโลหิต - Valor Pass 69 | Cinematic",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-09-25T09:28:14Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/m3T1Rfcyuqs/maxresdefault.jpg"
+    },
+    {
       "videoId": "ZhbmELsAHQw",
       "title": "RANDOM TRỰC TIẾP",
       "title_original": "RANDOM TRỰC TIẾP",
@@ -8,8 +52,41 @@
       "country": "VN",
       "lang_original": "vi",
       "source": "youtube",
-      "publishedAt": "2026-09-25T05:27:46Z",
+      "publishedAt": "2026-09-25T08:04:36Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/ZhbmELsAHQw/maxresdefault.jpg"
+    },
+    {
+      "videoId": "W6XlrPd92_I",
+      "title": "ĐẠI CHIẾN NGƯỜI ĐỒNG ĐỘI CŨ",
+      "title_original": "ĐẠI CHIẾN NGƯỜI ĐỒNG ĐỘI CŨ",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-09-25T07:57:09Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/W6XlrPd92_I/maxresdefault.jpg"
+    },
+    {
+      "videoId": "HvmF63aCAB0",
+      "title": "🔴𝐋𝐈𝐕𝐄 บิ๊กแมตช์! Buriram United 🆚 King of Gamers | การแข่งขัน RoV Pro League 2026 Winter",
+      "title_original": "🔴𝐋𝐈𝐕𝐄 บิ๊กแมตช์! Buriram United 🆚 King of Gamers | การแข่งขัน RoV Pro League 2026 Winter",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-09-25T07:56:51Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/HvmF63aCAB0/maxresdefault.jpg"
+    },
+    {
+      "videoId": "xPVLBzcIw-Y",
+      "title": "Chơi Thử Tinh Linh Khởi Nguyên - Tối Nay Làm Lại",
+      "title_original": "Chơi Thử Tinh Linh Khởi Nguyên - Tối Nay Làm Lại",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-09-25T07:32:53Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/xPVLBzcIw-Y/maxresdefault.jpg"
     },
     {
       "videoId": "sY_MjdAr8fs",
@@ -32,17 +109,6 @@
       "source": "youtube",
       "publishedAt": "2026-09-25T03:17:00Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/tK9drr4ArRI/maxresdefault.jpg"
-    },
-    {
-      "videoId": "xPVLBzcIw-Y",
-      "title": "Chơi Thử Tinh Linh Khởi Nguyên",
-      "title_original": "Chơi Thử Tinh Linh Khởi Nguyên",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-09-24T18:36:32Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/xPVLBzcIw-Y/maxresdefault.jpg"
     },
     {
       "videoId": "3cUPVLJUqvw",
@@ -354,8 +420,8 @@
     },
     {
       "videoId": "GlkezEHLhQo",
-      "title": "🔴 LIVE:ONE 🆚 BMG|GCS 2026 夏季例行賽W6D1-2026/09/25《Garena 傳說對決》",
-      "title_original": "🔴 LIVE:ONE 🆚 BMG|GCS 2026 夏季例行賽W6D1-2026/09/25《Garena 傳說對決》",
+      "title": "🔴 LIVE:ANK 🆚 FW|GCS 2026 夏季例行賽W6D1-2026/09/25《Garena 傳說對決》",
+      "title_original": "🔴 LIVE:ANK 🆚 FW|GCS 2026 夏季例行賽W6D1-2026/09/25《Garena 傳說對決》",
       "translated": false,
       "country": "VN",
       "lang_original": "vi",
@@ -728,8 +794,8 @@
     },
     {
       "videoId": "BsURqkamuTA",
-      "title": "🛑 DEFEAT hay VICTORY",
-      "title_original": "🛑 DEFEAT hay VICTORY",
+      "title": "GIỜ LIÊN QUÂN - SÁNG MAI TINH LINH KHỞI NGUYÊN TIẾP HE",
+      "title_original": "GIỜ LIÊN QUÂN - SÁNG MAI TINH LINH KHỞI NGUYÊN TIẾP HE",
       "translated": false,
       "country": "VN",
       "lang_original": "vi",
@@ -2133,72 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-09-14T13:00:39Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/tXaucpYG4-4/maxresdefault.jpg"
-    },
-    {
-      "videoId": "U21-csoPRUo",
-      "title": "ZEPHYS Liên Quân || 1 Máu Cân 5 Ăn Quad Kill Không Tưởng Khiến Địch Bất Lực Chat Ghê Chịu",
-      "title_original": "ZEPHYS Liên Quân || 1 Máu Cân 5 Ăn Quad Kill Không Tưởng Khiến Địch Bất Lực Chat Ghê Chịu",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-09-14T11:30:14Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/U21-csoPRUo/maxresdefault.jpg"
-    },
-    {
-      "videoId": "cjmC7O_7JqU",
-      "title": "BỐP BỐP THỂ HIỆN KHẢ NĂNG TIÊN TRI CỰC ĐỈNH CÙNG CON BÀI CAPHENY ĐI RỪNG",
-      "title_original": "BỐP BỐP THỂ HIỆN KHẢ NĂNG TIÊN TRI CỰC ĐỈNH CÙNG CON BÀI CAPHENY ĐI RỪNG",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-09-14T10:30:01Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/cjmC7O_7JqU/maxresdefault.jpg"
-    },
-    {
-      "videoId": "HYDns7nqfBc",
-      "title": "PHIÊN BẢN MỚI: Sửa PREYTA Thành XẠ THỦ PHÉP, Phải Cấm Tại Phiên Bản S4 2026",
-      "title_original": "PHIÊN BẢN MỚI: Sửa PREYTA Thành XẠ THỦ PHÉP, Phải Cấm Tại Phiên Bản S4 2026",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-09-14T09:30:30Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/HYDns7nqfBc/maxresdefault.jpg"
-    },
-    {
-      "videoId": "MOwQDzxqzlI",
-      "title": "Capheny Kimono trong tay Naka bn cc thn n chc mng nhng t thua ",
-      "title_original": "Capheny Kimono trong tay Naka bn cc thn n chc mng nhng t thua ",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-09-14T09:24:18Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/MOwQDzxqzlI/maxresdefault.jpg"
-    },
-    {
-      "videoId": "Ivl3-8RWGFs",
-      "title": "23XJULY HƯỚNG TỚI TRẬN CHUNG KẾT - FISH ĐÁNH HƠI ĐƯỢC TIN CHUYỂN NHƯỢNG CỦA RRQ? | ĐẤU XONG THẤY SAO",
-      "title_original": "23XJULY HƯỚNG TỚI TRẬN CHUNG KẾT - FISH ĐÁNH HƠI ĐƯỢC TIN CHUYỂN NHƯỢNG CỦA RRQ? | ĐẤU XONG THẤY SAO",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-09-14T09:00:08Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/Ivl3-8RWGFs/maxresdefault.jpg"
-    },
-    {
-      "videoId": "781pmiMS2dg",
-      "title": "KIL'GOTH Lin Qun || Cn 5 Khng Tng B Kp Ly 3 Sao ch Tht Ln nh Gh",
-      "title_original": "KIL'GOTH Lin Qun || Cn 5 Khng Tng B Kp Ly 3 Sao ch Tht Ln nh Gh",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-09-14T03:58:12Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/781pmiMS2dg/maxresdefault.jpg"
     }
   ]
 }
