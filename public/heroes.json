@@ -1351,7 +1351,7 @@
       "tier": "C",
       "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: -1)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/0/06/Elsu_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125051727",
       "related_videos": [
         "Uic-fDTkxOM"
@@ -2727,13 +2727,11 @@
       "counters": [],
       "synergies": [],
       "tier": "B",
-      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/7/7f/Biron_itadori.jpg/revision/latest/scale-to-width-down/500?cb=20250109145933",
-      "related_videos": [
-        "GPvKHtvdPO8"
-      ]
+      "related_videos": []
     },
     {
       "id": "bonnie",
@@ -4946,5 +4944,5 @@
       "related_videos": []
     }
   ],
-  "updated_at": "2026-09-26T12:59:40Z"
+  "updated_at": "2026-09-26T17:06:06Z"
 }
