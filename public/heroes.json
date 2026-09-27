@@ -834,10 +834,10 @@
         "Elsu",
         "Yorn"
       ],
-      "tier": "C",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: -1)",
+      "tier": "S",
+      "tier_reason": "Được gán từ dữ liệu hạt giống (Seed S-Tier) do ít video mới (Hot Count: 1)",
       "hot": false,
-      "hot_count": 2,
+      "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/7/71/Gildur_Default.jpg/revision/latest/scale-to-width-down/500?cb=20180327112635",
       "related_videos": [
         "qiRvSY4u2Uk",
@@ -1397,13 +1397,11 @@
         "Thane"
       ],
       "tier": "B",
-      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/f/f0/Valhein_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260124103241",
-      "related_videos": [
-        "VNIqPdAiy4c"
-      ]
+      "related_videos": []
     },
     {
       "id": "lubu",
@@ -1866,9 +1864,7 @@
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/3/36/Taara_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20231220020807",
-      "related_videos": [
-        "VNIqPdAiy4c"
-      ]
+      "related_videos": []
     },
     {
       "id": "qi",
@@ -2334,9 +2330,9 @@
         "Nakroth"
       ],
       "tier": "B",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 0)",
+      "tier_reason": "Xuất hiện 2 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
-      "hot_count": 2,
+      "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/a/a3/Raz_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125091551",
       "related_videos": [
         "yEf4UmmaIBM",
@@ -2686,14 +2682,12 @@
       },
       "counters": [],
       "synergies": [],
-      "tier": "A",
-      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 1)",
+      "tier": "B",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/0/0c/Bijan.jpg/revision/latest?cb=20230718044752",
-      "related_videos": [
-        "-DVc0u54mCY"
-      ]
+      "related_videos": []
     },
     {
       "id": "biron",
@@ -3593,11 +3587,12 @@
       "counters": [],
       "synergies": [],
       "tier": "B",
-      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 0)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 2,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/8/81/Kahlii_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125083310",
       "related_videos": [
+        "q2Axg6WmjLg",
         "wnQLYifKS1k"
       ]
     },
@@ -4463,11 +4458,12 @@
       "counters": [],
       "synergies": [],
       "tier": "B",
-      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 0)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 2,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/b/b1/Tachi_Splash_Art.jpeg/revision/latest/scale-to-width-down/500?cb=20211002035107",
       "related_videos": [
+        "q2Axg6WmjLg",
         "WyO24DI3oaw"
       ]
     },
@@ -4944,5 +4940,5 @@
       "related_videos": []
     }
   ],
-  "updated_at": "2026-09-27T01:21:19Z"
+  "updated_at": "2026-09-27T08:00:03Z"
 }
