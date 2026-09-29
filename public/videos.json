@@ -1,6 +1,39 @@
 {
   "videos": [
     {
+      "videoId": "2IgUo9USpIY",
+      "title": "Leo Thach Dau",
+      "title_original": "Leo Thach Dau",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-09-29T07:27:03Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/2IgUo9USpIY/maxresdefault.jpg"
+    },
+    {
+      "videoId": "A9c2DTla91E",
+      "title": "PHIÊN BẢN MỚI CÓ GÌ HOT?",
+      "title_original": "PHIÊN BẢN MỚI CÓ GÌ HOT?",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-09-29T06:24:36Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/A9c2DTla91E/maxresdefault.jpg"
+    },
+    {
+      "videoId": "XrD0EvQKrjg",
+      "title": "TOP 5 Tướng Phải Chơi Thử Tại Mùa S4 2026, Dù Chỉ 1Lần | TNG",
+      "title_original": "TOP 5 Tướng Phải Chơi Thử Tại Mùa S4 2026, Dù Chỉ 1Lần | TNG",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-09-29T03:00:19Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/XrD0EvQKrjg/maxresdefault.jpg"
+    },
+    {
       "videoId": "k29M0UilMTY",
       "title": "TẤT CẢ CỦA LƯỢT VỀ: BOM TẤN RRQ MARIS, GRAY, JINWOO -  TRẬT TỰ MỚI?? | BLV NAMSENSEI",
       "title_original": "TẤT CẢ CỦA LƯỢT VỀ: BOM TẤN RRQ MARIS, GRAY, JINWOO -  TRẬT TỰ MỚI?? | BLV NAMSENSEI",
@@ -2166,39 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-09-17T18:24:03Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/EfbRMGS1XuY/maxresdefault.jpg"
-    },
-    {
-      "videoId": "7t9-RmspZXE",
-      "title": "NHẬU 3 NGÀY 3 ĐÊM XONG GẶP HOTGIRL TOP 1 ĐÀI BẮC TRUNG… MOREN ĐỆ TỨ CÒN BẮN NỔI KHÔNG? 🔫 | Liên Quân",
-      "title_original": "NHẬU 3 NGÀY 3 ĐÊM XONG GẶP HOTGIRL TOP 1 ĐÀI BẮC TRUNG… MOREN ĐỆ TỨ CÒN BẮN NỔI KHÔNG? 🔫 | Liên Quân",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-09-17T12:30:03Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/7t9-RmspZXE/maxresdefault.jpg"
-    },
-    {
-      "videoId": "9RBhlt3N-IM",
-      "title": "【傳說新造型】歌芙拉「深沼女巫」|造型展示影片《Garena傳說對決》",
-      "title_original": "【傳說新造型】歌芙拉「深沼女巫」|造型展示影片《Garena傳說對決》",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-09-17T12:00:04Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/9RBhlt3N-IM/maxresdefault.jpg"
-    },
-    {
-      "videoId": "jVnH_oUeKFo",
-      "title": "FENNIK Liên Quân Dame Nổ Ảo Khó Tin Đến Đấu Sỹ Cũng Bốc Hơi Đừng Nói Là Xạ Thủ",
-      "title_original": "FENNIK Liên Quân Dame Nổ Ảo Khó Tin Đến Đấu Sỹ Cũng Bốc Hơi Đừng Nói Là Xạ Thủ",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-09-17T11:15:26Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/jVnH_oUeKFo/maxresdefault.jpg"
     }
   ]
 }
