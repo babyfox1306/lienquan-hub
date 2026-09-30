@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "A9c2DTla91E",
+      "title": "PHIÊN BẢN MỚI CÓ GÌ HOT?",
+      "title_original": "PHIÊN BẢN MỚI CÓ GÌ HOT?",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-09-29T20:43:34Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/A9c2DTla91E/maxresdefault.jpg"
+    },
+    {
       "videoId": "AESD2tu0xvw",
       "title": "Nay Liên Quân Trông Lạ Quá",
       "title_original": "Nay Liên Quân Trông Lạ Quá",
@@ -131,17 +142,6 @@
       "source": "youtube",
       "publishedAt": "2026-09-29T07:27:03Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/2IgUo9USpIY/maxresdefault.jpg"
-    },
-    {
-      "videoId": "A9c2DTla91E",
-      "title": "PHIÊN BẢN MỚI CÓ GÌ HOT?",
-      "title_original": "PHIÊN BẢN MỚI CÓ GÌ HOT?",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-09-29T06:24:36Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/A9c2DTla91E/maxresdefault.jpg"
     },
     {
       "videoId": "XrD0EvQKrjg",
