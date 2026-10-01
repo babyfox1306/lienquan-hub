@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "GcN3D4pK69E",
+      "title": "Thua 10 Trận Liên Tiếp Tắt Live !",
+      "title_original": "Thua 10 Trận Liên Tiếp Tắt Live !",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-10-01T18:44:43Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/GcN3D4pK69E/maxresdefault.jpg"
+    },
+    {
       "videoId": "BDlEW90zDqI",
       "title": "การแข่งขัน RoV Pro League 2026 Winter | รอบเก็บคะแนน Week 7 Day 1",
       "title_original": "การแข่งขัน RoV Pro League 2026 Winter | รอบเก็บคะแนน Week 7 Day 1",
@@ -43,17 +54,6 @@
       "source": "youtube",
       "publishedAt": "2026-10-01T15:01:11Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/0BF3xh8xrII/maxresdefault.jpg"
-    },
-    {
-      "videoId": "GcN3D4pK69E",
-      "title": "Thua 10 Trận Liên Tiếp Tắt Live !",
-      "title_original": "Thua 10 Trận Liên Tiếp Tắt Live !",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-10-01T14:28:33Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/GcN3D4pK69E/maxresdefault.jpg"
     },
     {
       "videoId": "fUYx3gaZN2Q",
