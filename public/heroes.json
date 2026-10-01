@@ -47,8 +47,7 @@
         "iksRDpyy254",
         "keKxiUEGsxg",
         "H1OQWpmnT3Y",
-        "scjHOSBRAdg",
-        "kNnc2S_U-Ys"
+        "scjHOSBRAdg"
       ]
     },
     {
@@ -190,8 +189,7 @@
       "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/4/40/Violet_Default.jpg/revision/latest/scale-to-width-down/500?cb=20180325101918",
       "related_videos": [
-        "m87E3RbOSBc",
-        "Cisx0-CApMM"
+        "m87E3RbOSBc"
       ]
     },
     {
@@ -837,8 +835,7 @@
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/7/71/Gildur_Default.jpg/revision/latest/scale-to-width-down/500?cb=20180327112635",
       "related_videos": [
         "qiRvSY4u2Uk",
-        "-QlCi7_OwxA",
-        "GajJP9vHTtc"
+        "-QlCi7_OwxA"
       ]
     },
     {
@@ -1299,9 +1296,9 @@
         "Arthur"
       ],
       "tier": "B",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 0)",
+      "tier_reason": "Xuất hiện 2 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
-      "hot_count": 2,
+      "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/0/0f/Dirak_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125044153",
       "related_videos": [
         "yEf4UmmaIBM",
@@ -1347,14 +1344,12 @@
         "Gildur",
         "Mina"
       ],
-      "tier": "C",
-      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: -1)",
+      "tier": "B",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/0/06/Elsu_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125051727",
-      "related_videos": [
-        "Uic-fDTkxOM"
-      ]
+      "related_videos": []
     },
     {
       "id": "valhein",
@@ -4001,16 +3996,17 @@
       "counters": [],
       "synergies": [],
       "tier": "A",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 5, Score: 1)",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 6, Score: 2)",
       "hot": true,
-      "hot_count": 5,
+      "hot_count": 6,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/2/28/Preyta_Splash.png/revision/latest/scale-to-width-down/500?cb=20171204210816",
       "related_videos": [
+        "1-AWcmzdiow",
+        "TgFYvyNPVF0",
         "9U9etzcQlHA",
         "BEu8CZVS3j8",
         "snt-nPVnpPE",
-        "jGlV-alhHt8",
-        "eAdoPtrUj1s"
+        "jGlV-alhHt8"
       ]
     },
     {
@@ -4921,5 +4917,5 @@
       ]
     }
   ],
-  "updated_at": "2026-10-01T02:08:01Z"
+  "updated_at": "2026-10-01T10:03:29Z"
 }
