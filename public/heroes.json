@@ -834,8 +834,7 @@
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/7/71/Gildur_Default.jpg/revision/latest/scale-to-width-down/500?cb=20180327112635",
       "related_videos": [
-        "qiRvSY4u2Uk",
-        "-QlCi7_OwxA"
+        "qiRvSY4u2Uk"
       ]
     },
     {
@@ -2318,13 +2317,12 @@
         "Nakroth"
       ],
       "tier": "B",
-      "tier_reason": "Xuất hiện 2 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
       "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/a/a3/Raz_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125091551",
       "related_videos": [
-        "yEf4UmmaIBM",
-        "-QlCi7_OwxA"
+        "yEf4UmmaIBM"
       ]
     },
     {
@@ -4917,5 +4915,5 @@
       ]
     }
   ],
-  "updated_at": "2026-10-01T21:53:24Z"
+  "updated_at": "2026-10-02T01:36:00Z"
 }
