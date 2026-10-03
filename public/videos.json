@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "_sbCTytSr54",
+      "title": "TEAM SECRET VS BOOM ESPORTS | VÒNG BẢNG - LƯỢT VỀ | ĐẤU TRƯỜNG DANH VỌNG MÙA ĐÔNG 2026",
+      "title_original": "TEAM SECRET VS BOOM ESPORTS | VÒNG BẢNG - LƯỢT VỀ | ĐẤU TRƯỜNG DANH VỌNG MÙA ĐÔNG 2026",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-10-03T00:00:02Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/_sbCTytSr54/maxresdefault.jpg"
+    },
+    {
       "videoId": "5SaptnvJzN4",
       "title": "TỐI NAY COSPLAY TOP GOD",
       "title_original": "TỐI NAY COSPLAY TOP GOD",
@@ -2188,17 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-09-20T23:15:29Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/raebH_MzONc/maxresdefault.jpg"
-    },
-    {
-      "videoId": "efXahBzxwlY",
-      "title": "🎧 TRUYỆN AUDIO | SỔ SỨ MỆNH 94 – TẬP 1: NHỮNG QUY TẮC KỲ LẠ",
-      "title_original": "🎧 TRUYỆN AUDIO | SỔ SỨ MỆNH 94 – TẬP 1: NHỮNG QUY TẮC KỲ LẠ",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-09-20T16:34:28Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/efXahBzxwlY/maxresdefault.jpg"
     }
   ]
 }
