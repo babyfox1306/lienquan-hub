@@ -2035,14 +2035,12 @@
         "Grakk",
         "Thane"
       ],
-      "tier": "A",
-      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 1)",
+      "tier": "B",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/e/e1/Natalya.png/revision/latest?cb=20210109153000",
-      "related_videos": [
-        "fDFtr_l9daI"
-      ]
+      "related_videos": []
     },
     {
       "id": "mganga",
@@ -4909,5 +4907,5 @@
       ]
     }
   ],
-  "updated_at": "2026-10-03T17:15:08Z"
+  "updated_at": "2026-10-03T20:58:26Z"
 }
