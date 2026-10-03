@@ -3989,17 +3989,17 @@
       "counters": [],
       "synergies": [],
       "tier": "S",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 7, Score: 3)",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 6, Score: 3)",
       "hot": true,
-      "hot_count": 7,
+      "hot_count": 6,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/2/28/Preyta_Splash.png/revision/latest/scale-to-width-down/500?cb=20171204210816",
       "related_videos": [
         "DI44kUwHkuw",
         "fUYx3gaZN2Q",
         "1-AWcmzdiow",
-        "TgFYvyNPVF0",
         "9U9etzcQlHA",
-        "BEu8CZVS3j8"
+        "BEu8CZVS3j8",
+        "snt-nPVnpPE"
       ]
     },
     {
@@ -4857,14 +4857,13 @@
       },
       "counters": [],
       "synergies": [],
-      "tier": "A",
-      "tier_reason": "Xuất hiện 2 lần trong video/tin tức 14 ngày qua (Score: 1)",
+      "tier": "B",
+      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/7/75/Zanis_profile.png/revision/latest/scale-to-width-down/500?cb=20170525133445",
       "related_videos": [
-        "yEf4UmmaIBM",
-        "yX8GnVpybo4"
+        "yEf4UmmaIBM"
       ]
     },
     {
@@ -4910,5 +4909,5 @@
       ]
     }
   ],
-  "updated_at": "2026-10-03T12:29:59Z"
+  "updated_at": "2026-10-03T17:15:08Z"
 }
