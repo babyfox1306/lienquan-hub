@@ -1019,7 +1019,7 @@
       "tier": "B",
       "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/e/e7/Maloch_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125090603",
       "related_videos": [
         "DzvNp_EYOos"
@@ -4913,5 +4913,5 @@
       ]
     }
   ],
-  "updated_at": "2026-10-04T12:12:12Z"
+  "updated_at": "2026-10-04T17:30:59Z"
 }
