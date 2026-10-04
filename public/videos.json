@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "Pa6L4-CegV8",
+      "title": "CÚP ĐIỆN 5 LẦN LIÊN TIẾP CHỨ MẤY :))",
+      "title_original": "CÚP ĐIỆN 5 LẦN LIÊN TIẾP CHỨ MẤY :))",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-10-04T19:22:42Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/Pa6L4-CegV8/maxresdefault.jpg"
+    },
+    {
       "videoId": "ZcyWnIryDN8",
       "title": "Leo Thach Dau Team 5",
       "title_original": "Leo Thach Dau Team 5",
@@ -65,17 +76,6 @@
       "source": "youtube",
       "publishedAt": "2026-10-04T14:25:07Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/8-MvWlSiKdQ/maxresdefault.jpg"
-    },
-    {
-      "videoId": "Pa6L4-CegV8",
-      "title": "CÚP ĐIỆN 5 LẦN LIÊN TIẾP CHỨ MẤY :))",
-      "title_original": "CÚP ĐIỆN 5 LẦN LIÊN TIẾP CHỨ MẤY :))",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-10-04T14:12:52Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/Pa6L4-CegV8/maxresdefault.jpg"
     },
     {
       "videoId": "qTxtCkRrmxs",
