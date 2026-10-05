@@ -1,6 +1,28 @@
 {
   "videos": [
     {
+      "videoId": "5zpuBGVbaQI",
+      "title": "ONE STAR ESPORTS VS SAIGON PHANTOM | VÒNG BẢNG - LƯỢT VỀ | ĐẤU TRƯỜNG DANH VỌNG MÙA ĐÔNG 2026",
+      "title_original": "ONE STAR ESPORTS VS SAIGON PHANTOM | VÒNG BẢNG - LƯỢT VỀ | ĐẤU TRƯỜNG DANH VỌNG MÙA ĐÔNG 2026",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-10-05T00:30:25Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/5zpuBGVbaQI/maxresdefault.jpg"
+    },
+    {
+      "videoId": "IrfdPABvE7M",
+      "title": "TEAM SECRET VS GAM ESPORTS | VÒNG BẢNG - LƯỢT VỀ | ĐẤU TRƯỜNG DANH VỌNG MÙA ĐÔNG 2026",
+      "title_original": "TEAM SECRET VS GAM ESPORTS | VÒNG BẢNG - LƯỢT VỀ | ĐẤU TRƯỜNG DANH VỌNG MÙA ĐÔNG 2026",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-10-05T00:00:29Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/IrfdPABvE7M/maxresdefault.jpg"
+    },
+    {
       "videoId": "Pa6L4-CegV8",
       "title": "CÚP ĐIỆN 5 LẦN LIÊN TIẾP CHỨ MẤY :))",
       "title_original": "CÚP ĐIỆN 5 LẦN LIÊN TIẾP CHỨ MẤY :))",
@@ -2177,28 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-09-23T03:24:26Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/yUywVAc19CE/maxresdefault.jpg"
-    },
-    {
-      "videoId": "KPL9mBfddh0",
-      "title": "KHÔNG LÊN ĐẠI CAO THỦ KHUM OFF LIVE",
-      "title_original": "KHÔNG LÊN ĐẠI CAO THỦ KHUM OFF LIVE",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-09-22T18:00:37Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/KPL9mBfddh0/maxresdefault.jpg"
-    },
-    {
-      "videoId": "rS6CgJxsv-I",
-      "title": "AOGW26 | THANK YOU & FAREWELL - NGUYỄN \"MARIS\" QUỐC HUY",
-      "title_original": "AOGW26 | THANK YOU & FAREWELL - NGUYỄN \"MARIS\" QUỐC HUY",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-09-22T16:01:08Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/rS6CgJxsv-I/maxresdefault.jpg"
     }
   ]
 }
