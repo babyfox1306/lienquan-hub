@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-05T06:49:32.245679",
+  "last_updated": "2026-10-05T15:52:20.080457",
   "total_news": 100,
   "news": [
     {
@@ -13,6 +13,19 @@
       "published_at": "2026-10-01T07:55:33Z",
       "crawled_at": "2026-10-01T09:58:25.785914",
       "category": "esports",
+      "priority": 1
+    },
+    {
+      "id": "494e7976e789",
+      "title": "🌕 COMBAT MÙA TRĂNG, SĂN NGAY QUÀ CHẤT – MỞ QUÀ LIÊN QUÂN TRÊN SHOPEE",
+      "link": "https://lienquan.garena.vn/%f0%9f%8c%95-combat-mua-trang-san-ngay-qua-chat-mo-qua-lien-quan-tren-shopee/",
+      "summary": "<p>Mùa trăng này, các kiện tướng đã sẵn sàng lập đội săn quà? Shopee cùng Liên Quân Mobile mang đến cơ hội mở 2000QH, rinh vật phẩm hấp dẫn và nhận loạt ưu đãi mua [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/%f0%9f%8c%95-combat-mua-trang-san-ngay-qua-chat-mo-qua-lien-quan-tren-shopee/\">🌕 COMBAT MÙA TRĂNG, SĂN NGAY QUÀ CHẤT – MỞ QUÀ LIÊN QUÂN TRÊN SHOPEE</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2026/10/860x400-2.jpg",
+      "source": "Liên Quân Mobile Official",
+      "source_url": "https://lienquan.garena.vn/rss",
+      "published_at": "2026-10-01T07:23:52Z",
+      "crawled_at": "2026-10-05T15:47:23.078108",
+      "category": "tướng",
       "priority": 1
     },
     {
@@ -1287,19 +1300,6 @@
       "published_at": "2026-03-24T11:25:33Z",
       "crawled_at": "2026-03-24T12:09:25.647094",
       "category": "esports",
-      "priority": 1
-    },
-    {
-      "id": "e3ad5a6641a1",
-      "title": "TỔNG KẾT ĐẤU TRƯỜNG DANH VỌNG MÙA XUÂN 2026 – VÒNG 5: FPT HUỶ DIỆT SGP, 1S ĐÁNH MẤT CHUỖI THẮN",
-      "link": "https://lienquan.garena.vn/tong-ket-dau-truong-danh-vong-mua-xuan-2026-vong-5-fpt-huy-diet-sgp-1s-danh-mat-chuoi-than/",
-      "summary": "<p>Vòng 5 của Đấu Trường Danh Vọng Mùa Xuân 2026 chứng kiến nhiều diễn biến đáng chú ý khi các đội bước vào giai đoạn quan trọng trước khi lượt đi vòng bảng khép lại. [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/tong-ket-dau-truong-danh-vong-mua-xuan-2026-vong-5-fpt-huy-diet-sgp-1s-danh-mat-chuoi-than/\">TỔNG KẾT ĐẤU TRƯỜNG DANH VỌNG MÙA XUÂN 2026 – VÒNG 5: FPT HUỶ DIỆT SGP, 1S ĐÁNH MẤT CHUỖI THẮN</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p",
-      "image_url": null,
-      "source": "Liên Quân Mobile Official",
-      "source_url": "https://lienquan.garena.vn/rss",
-      "published_at": "2026-03-24T11:16:30Z",
-      "crawled_at": "2026-03-24T12:09:25.647138",
-      "category": "tin tức",
       "priority": 1
     }
   ]

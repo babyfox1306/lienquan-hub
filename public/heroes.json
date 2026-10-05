@@ -46,8 +46,7 @@
       "related_videos": [
         "6PxACYH4NMo",
         "iksRDpyy254",
-        "keKxiUEGsxg",
-        "H1OQWpmnT3Y"
+        "keKxiUEGsxg"
       ]
     },
     {
@@ -832,9 +831,7 @@
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/7/71/Gildur_Default.jpg/revision/latest/scale-to-width-down/500?cb=20180327112635",
-      "related_videos": [
-        "qiRvSY4u2Uk"
-      ]
+      "related_videos": []
     },
     {
       "id": "alice",
@@ -2267,13 +2264,12 @@
         "Baldum"
       ],
       "tier": "C",
-      "tier_reason": "Xuất hiện 2 lần trong video/tin tức 14 ngày qua (Score: -1)",
+      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: -1)",
       "hot": false,
       "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/a/a1/Tel%27Annas_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20171106200421",
       "related_videos": [
-        "raLfWwtOewE",
-        "PuL5t2ZizA4"
+        "raLfWwtOewE"
       ]
     },
     {
@@ -2316,11 +2312,12 @@
         "Nakroth"
       ],
       "tier": "B",
-      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện 2 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
-      "hot_count": 0,
+      "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/a/a3/Raz_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125091551",
       "related_videos": [
+        "Bkorct9tvEE",
         "yEf4UmmaIBM"
       ]
     },
@@ -2819,12 +2816,14 @@
       },
       "counters": [],
       "synergies": [],
-      "tier": "B",
-      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier": "A",
+      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 1)",
       "hot": false,
-      "hot_count": 0,
+      "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/d/d2/Brunhilda_profile.jpg/revision/latest/scale-to-width-down/500?cb=20200531221741",
-      "related_videos": []
+      "related_videos": [
+        "2HLM5KKC4-A"
+      ]
     },
     {
       "id": "butterfly",
@@ -3089,12 +3088,14 @@
       },
       "counters": [],
       "synergies": [],
-      "tier": "B",
-      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier": "A",
+      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 1)",
       "hot": false,
-      "hot_count": 0,
-      "thumbnail": null,
-      "related_videos": []
+      "hot_count": 1,
+      "thumbnail": "https://img.youtube.com/vi/HmUR9KpS98I/maxresdefault.jpg",
+      "related_videos": [
+        "HmUR9KpS98I"
+      ]
     },
     {
       "id": "dolia",
@@ -3406,14 +3407,12 @@
       },
       "counters": [],
       "synergies": [],
-      "tier": "A",
-      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 1)",
+      "tier": "B",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/8/86/Heino_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260124103942",
-      "related_videos": [
-        "yUywVAc19CE"
-      ]
+      "related_videos": []
     },
     {
       "id": "helen",
@@ -3565,13 +3564,12 @@
       "counters": [],
       "synergies": [],
       "tier": "B",
-      "tier_reason": "Xuất hiện 2 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/8/81/Kahlii_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125083310",
       "related_videos": [
-        "q2Axg6WmjLg",
-        "wnQLYifKS1k"
+        "q2Axg6WmjLg"
       ]
     },
     {
@@ -3992,17 +3990,17 @@
       "counters": [],
       "synergies": [],
       "tier": "S",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 6, Score: 3)",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 7, Score: 3)",
       "hot": true,
-      "hot_count": 6,
+      "hot_count": 7,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/2/28/Preyta_Splash.png/revision/latest/scale-to-width-down/500?cb=20171204210816",
       "related_videos": [
+        "v7KSzCi6rH8",
         "DI44kUwHkuw",
         "fUYx3gaZN2Q",
         "1-AWcmzdiow",
         "9U9etzcQlHA",
-        "BEu8CZVS3j8",
-        "snt-nPVnpPE"
+        "BEu8CZVS3j8"
       ]
     },
     {
@@ -4387,14 +4385,12 @@
       },
       "counters": [],
       "synergies": [],
-      "tier": "A",
-      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 1)",
+      "tier": "B",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/b/b0/Stuart.webp/revision/latest?cb=20240109043636",
-      "related_videos": [
-        "H1OQWpmnT3Y"
-      ]
+      "related_videos": []
     },
     {
       "id": "tachi",
@@ -4820,9 +4816,9 @@
       "counters": [],
       "synergies": [],
       "tier": "B",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 0)",
+      "tier_reason": "Xuất hiện 2 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
-      "hot_count": 2,
+      "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/5/5c/Yorn_1.jpg/revision/latest/scale-to-width-down/500?cb=20171102213743",
       "related_videos": [
         "PjNwBGPHMb8",
@@ -4913,5 +4909,5 @@
       ]
     }
   ],
-  "updated_at": "2026-10-05T06:49:32Z"
+  "updated_at": "2026-10-05T15:52:20Z"
 }
