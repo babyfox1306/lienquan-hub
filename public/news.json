@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-10-08T08:47:45.137949",
+  "last_updated": "2026-10-08T16:23:41.888501",
   "total_news": 100,
   "news": [
+    {
+      "id": "2d6e173dd53b",
+      "title": "MINIGAME | GIẢI MÃ ĐẠI TIỆC – SĂN VÉ ĐẶC BIỆT",
+      "link": "https://lienquan.garena.vn/minigame-giai-ma-dai-tiec-san-ve-dac-biet/",
+      "summary": "<p>🎉CƠ CHẾ THAM GIA MINIGAME &#124; GIẢI MÃ ĐẠI TIỆC, SĂN VÉ ĐẶC BIỆT 1. Thời gian minigame Thời gian nhận bài tham gia: từ 08/10/2026 đến 23:59 ngày 15/10/2026. Các lượt tham gia sau [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/minigame-giai-ma-dai-tiec-san-ve-dac-biet/\">MINIGAME | GIẢI MÃ ĐẠI TIỆC – SĂN VÉ ĐẶC BIỆT</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2026/10/Tạo-banner-minigame-tạng-vé-concert-2__430x200.jpg",
+      "source": "Liên Quân Mobile Official",
+      "source_url": "https://lienquan.garena.vn/rss",
+      "published_at": "2026-10-08T12:34:25Z",
+      "crawled_at": "2026-10-08T16:18:48.660963",
+      "category": "tin tức",
+      "priority": 1
+    },
     {
       "id": "606ce1b7fd9b",
       "title": "THÔNG BÁO VỀ VIỆC ĐIỀU CHỈNH HÌNH THỨC XỬ PHẠT ĐỐI VỚI TUYỂN THỦ TRẦN PHÁT TÀI",
@@ -1287,19 +1300,6 @@
       "published_at": "2026-03-24T11:39:55Z",
       "crawled_at": "2026-03-24T12:09:25.647046",
       "category": "tin tức",
-      "priority": 1
-    },
-    {
-      "id": "3abf3972e54d",
-      "title": "TỔNG KẾT ĐẤU TRƯỜNG DANH VỌNG MÙA XUÂN 2026 – VÒNG 6: GAM ĐẢ BẠI FPL THUYẾT PHỤC, SGP TÌM LẠI PHONG ĐỘ",
-      "link": "https://lienquan.garena.vn/to%cc%89ng-ket-dau-truong-danh-vo%cc%a3ng-mua-xuan-2026-vong-6-gam-da%cc%89-ba%cc%a3i-fpl-thuyet-phu%cc%a3c-sgp-tim-la%cc%a3i-phong-do%cc%a3/",
-      "summary": "<p>Vòng 6 ĐTDV Mùa Xuân 2026 chứng kiến nhiều biến động đáng chú ý khi tân binh “khủng long” GAM Esports quật ngã FPT x Flash 3-1, FPT Polytechnic lại nối dài chuỗi thắng. Saigon [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/to%cc%89ng-ket-dau-truong-danh-vo%cc%a3ng-mua-xuan-2026-vong-6-gam-da%cc%89-ba%cc%a3i-fpl-thuyet-phu%cc%a3c-sgp-tim-la%cc%a3i-phong-do%cc%a3/\">TỔNG KẾT ĐẤU TRƯỜNG DANH VỌNG MÙA XUÂN 2026 &#8211; VÒNG 6: GAM ĐẢ BẠI FPL THUYẾT PHỤC,",
-      "image_url": null,
-      "source": "Liên Quân Mobile Official",
-      "source_url": "https://lienquan.garena.vn/rss",
-      "published_at": "2026-03-24T11:25:33Z",
-      "crawled_at": "2026-03-24T12:09:25.647094",
-      "category": "esports",
       "priority": 1
     }
   ]
