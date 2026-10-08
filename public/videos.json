@@ -1,6 +1,39 @@
 {
   "videos": [
     {
+      "videoId": "K0QHtpqSAeU",
+      "title": "GCS 2026 夏季例行賽W8D2-2026/10/10《Garena 傳說對決》",
+      "title_original": "GCS 2026 夏季例行賽W8D2-2026/10/10《Garena 傳說對決》",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-10-08T18:17:03Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/K0QHtpqSAeU/maxresdefault.jpg"
+    },
+    {
+      "videoId": "ii9Uae7eiso",
+      "title": "GCS 2026 夏季例行賽W8D1-2026/10/09《Garena 傳說對決》",
+      "title_original": "GCS 2026 夏季例行賽W8D1-2026/10/09《Garena 傳說對決》",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-10-08T18:12:59Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/ii9Uae7eiso/maxresdefault.jpg"
+    },
+    {
+      "videoId": "F2fNNIhs-CQ",
+      "title": "🔴 TRỰC TIẾP: FPT POLYTECHNIC vs ONE STAR ESPORTS | GIAI ĐOẠN VÒNG BẢNG - LƯỢT VỀ |ĐTDV MÙA ĐÔNG 2026",
+      "title_original": "🔴 TRỰC TIẾP: FPT POLYTECHNIC vs ONE STAR ESPORTS | GIAI ĐOẠN VÒNG BẢNG - LƯỢT VỀ |ĐTDV MÙA ĐÔNG 2026",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-10-08T16:26:28Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/F2fNNIhs-CQ/maxresdefault.jpg"
+    },
+    {
       "videoId": "myBWNlOZkdY",
       "title": "🔴 TRỰC TIẾP: FPT POLYTECHNIC vs ONE STAR ESPORTS | GIAI ĐOẠN VÒNG BẢNG - LƯỢT VỀ |ĐTDV MÙA ĐÔNG 2026",
       "title_original": "🔴 TRỰC TIẾP: FPT POLYTECHNIC vs ONE STAR ESPORTS | GIAI ĐOẠN VÒNG BẢNG - LƯỢT VỀ |ĐTDV MÙA ĐÔNG 2026",
@@ -153,17 +186,6 @@
       "source": "youtube",
       "publishedAt": "2026-10-08T08:30:24Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/7fey1Pm--KM/maxresdefault.jpg"
-    },
-    {
-      "videoId": "F2fNNIhs-CQ",
-      "title": "🔴 TRỰC TIẾP: FPT POLYTECHNIC vs ONE STAR ESPORTS | GIAI ĐOẠN VÒNG BẢNG - LƯỢT VỀ |ĐTDV MÙA ĐÔNG 2026",
-      "title_original": "🔴 TRỰC TIẾP: FPT POLYTECHNIC vs ONE STAR ESPORTS | GIAI ĐOẠN VÒNG BẢNG - LƯỢT VỀ |ĐTDV MÙA ĐÔNG 2026",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-10-08T05:23:58Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/F2fNNIhs-CQ/maxresdefault.jpg"
     },
     {
       "videoId": "W_YCF-uyQOY",
@@ -2177,28 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-09-27T12:28:00Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/DzvNp_EYOos/maxresdefault.jpg"
-    },
-    {
-      "videoId": "pSv8SbE_Vng",
-      "title": "【傳說新造型】傳說聖典第 94 篇章 故事影片|九幽外道《Garena傳說對決》",
-      "title_original": "【傳說新造型】傳說聖典第 94 篇章 故事影片|九幽外道《Garena傳說對決》",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-09-27T12:00:02Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/pSv8SbE_Vng/maxresdefault.jpg"
-    },
-    {
-      "videoId": "d31IEt_f5rM",
-      "title": "TRỰC TIẾP: FULL SENSE vs TENA CITY - TOP 1 CÁCH NHAU ĐÚNG 1 ĐIỂM | NAMSENSEI CO=STREAM",
-      "title_original": "TRỰC TIẾP: FULL SENSE vs TENA CITY - TOP 1 CÁCH NHAU ĐÚNG 1 ĐIỂM | NAMSENSEI CO=STREAM",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-09-27T11:47:44Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/d31IEt_f5rM/maxresdefault.jpg"
     }
   ]
 }
