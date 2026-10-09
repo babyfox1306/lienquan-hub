@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-10-09T08:52:29.873922",
+  "last_updated": "2026-10-09T16:07:10.760994",
   "total_news": 100,
   "news": [
+    {
+      "id": "20bbb9f0741a",
+      "title": "LIÊN QUÂN GẮN KẾT – CHÍNH THỨC TÌM RA NHỮNG HÌNH ẢNH ẤN TƯỢNG NHẤT",
+      "link": "https://lienquan.garena.vn/lien-quan-gan-ket-chinh-thuc-tim-ra-nhung-hinh-anh-an-tuong-nhat/",
+      "summary": "<p>Xin chào các Kiện Tướng, Sau thời gian tiếp nhận những khung hình và khoảnh khắc đáng nhớ được cộng đồng chia sẻ, cuộc thi Liên Quân Gắn Kết đã chính thức khép lại và [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/lien-quan-gan-ket-chinh-thuc-tim-ra-nhung-hinh-anh-an-tuong-nhat/\">LIÊN QUÂN GẮN KẾT &#8211; CHÍNH THỨC TÌM RA NHỮNG HÌNH ẢNH ẤN TƯỢNG NHẤT</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2026/09/8cd947f3-92b3-4631-aae4-5923b042393a.jpg",
+      "source": "Liên Quân Mobile Official",
+      "source_url": "https://lienquan.garena.vn/rss",
+      "published_at": "2026-10-09T09:03:01Z",
+      "crawled_at": "2026-10-09T16:02:17.361174",
+      "category": "tướng",
+      "priority": 1
+    },
     {
       "id": "2d6e173dd53b",
       "title": "MINIGAME | GIẢI MÃ ĐẠI TIỆC – SĂN VÉ ĐẶC BIỆT",
@@ -1286,19 +1299,6 @@
       "source_url": "https://lienquan.garena.vn/rss",
       "published_at": "2026-03-24T11:42:56Z",
       "crawled_at": "2026-03-24T12:09:25.646984",
-      "category": "tin tức",
-      "priority": 1
-    },
-    {
-      "id": "85729ea1cc90",
-      "title": "TỔNG KẾT ĐẤU TRƯỜNG DANH VỌNG MÙA XUÂN 2026 – VÒNG 7: GAM TẠO NÊN ĐỊA CHẤN LƯỢT ĐI, SGP VÀ FPT CỦNG CỐ ĐIỂM",
-      "link": "https://lienquan.garena.vn/tong-ket-dau-truong-danh-vong-mua-xuan-2026-vong-7-gam-tao-nen-dia-chan-luot-di-sgp-va-fpt-cung-co-diem/",
-      "summary": "<p>Vòng 7 của Đấu Trường Danh Vọng Mùa Xuân 2026 đã chính thức khép lại, đánh dấu chặng đường đầu tiên của vòng bảng với nhiều diễn biến đáng chú ý. FPT tiếp tục duy [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/tong-ket-dau-truong-danh-vong-mua-xuan-2026-vong-7-gam-tao-nen-dia-chan-luot-di-sgp-va-fpt-cung-co-diem/\">TỔNG KẾT ĐẤU TRƯỜNG DANH VỌNG MÙA XUÂN 2026 – VÒNG 7: GAM TẠO NÊN ĐỊA CHẤN LƯỢT ĐI, SGP VÀ FPT CỦNG CỐ ĐIỂM</a> appeared first on <a href=\"https://lienquan.garena.vn\"",
-      "image_url": null,
-      "source": "Liên Quân Mobile Official",
-      "source_url": "https://lienquan.garena.vn/rss",
-      "published_at": "2026-03-24T11:39:55Z",
-      "crawled_at": "2026-03-24T12:09:25.647046",
       "category": "tin tức",
       "priority": 1
     }
