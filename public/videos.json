@@ -1,6 +1,39 @@
 {
   "videos": [
     {
+      "videoId": "eu3SeSNq2gY",
+      "title": "FPT POLYTECHNIC VS ONE STAR ESPORTS | VÒNG BẢNG - LƯỢT VỀ | ĐẤU TRƯỜNG DANH VỌNG MÙA ĐÔNG 2026",
+      "title_original": "FPT POLYTECHNIC VS ONE STAR ESPORTS | VÒNG BẢNG - LƯỢT VỀ | ĐẤU TRƯỜNG DANH VỌNG MÙA ĐÔNG 2026",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-10-09T01:00:14Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/eu3SeSNq2gY/maxresdefault.jpg"
+    },
+    {
+      "videoId": "jUblo9UHsXY",
+      "title": "SAIGON PHANTOM VS BOX GAMING | VÒNG BẢNG - LƯỢT VỀ | ĐẤU TRƯỜNG DANH VỌNG MÙA ĐÔNG 2026",
+      "title_original": "SAIGON PHANTOM VS BOX GAMING | VÒNG BẢNG - LƯỢT VỀ | ĐẤU TRƯỜNG DANH VỌNG MÙA ĐÔNG 2026",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-10-09T00:30:37Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/jUblo9UHsXY/maxresdefault.jpg"
+    },
+    {
+      "videoId": "XIMMydhNcVE",
+      "title": "GAM ESPORTS VS BOOM ESPORTS | VÒNG BẢNG - LƯỢT VỀ | ĐẤU TRƯỜNG DANH VỌNG MÙA ĐÔNG 2026",
+      "title_original": "GAM ESPORTS VS BOOM ESPORTS | VÒNG BẢNG - LƯỢT VỀ | ĐẤU TRƯỜNG DANH VỌNG MÙA ĐÔNG 2026",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-10-09T00:00:39Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/XIMMydhNcVE/maxresdefault.jpg"
+    },
+    {
       "videoId": "K0QHtpqSAeU",
       "title": "GCS 2026 夏季例行賽W8D2-2026/10/10《Garena 傳說對決》",
       "title_original": "GCS 2026 夏季例行賽W8D2-2026/10/10《Garena 傳說對決》",
@@ -2166,39 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-09-27T13:00:34Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/Q0dKbJ_Z-mg/maxresdefault.jpg"
-    },
-    {
-      "videoId": "QffL9drMRJQ",
-      "title": "🔴 TRỰC TIẾP: PLAYOFFS 27/09 | ĐẠI CHIẾN HIGHSCHOOL TOÀN QUỐC 2026",
-      "title_original": "🔴 TRỰC TIẾP: PLAYOFFS 27/09 | ĐẠI CHIẾN HIGHSCHOOL TOÀN QUỐC 2026",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-09-27T12:55:39Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/QffL9drMRJQ/maxresdefault.jpg"
-    },
-    {
-      "videoId": "w6lu9vgqzRw",
-      "title": "💥 VALOR TALK | CẬP NHẬT CHI TIẾT THÔNG TIN NÂNG CẤP HỆ THỐNG GIAO DIỆN 💥 - Garena Liên Quân Mobile",
-      "title_original": "💥 VALOR TALK | CẬP NHẬT CHI TIẾT THÔNG TIN NÂNG CẤP HỆ THỐNG GIAO DIỆN 💥 - Garena Liên Quân Mobile",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-09-27T12:30:30Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/w6lu9vgqzRw/maxresdefault.jpg"
-    },
-    {
-      "videoId": "DzvNp_EYOos",
-      "title": "Bị Backdoor Còn 1 Máu, Maloch Cứu Nhà Trong Gang Tấc… Nhưng 😤",
-      "title_original": "Bị Backdoor Còn 1 Máu, Maloch Cứu Nhà Trong Gang Tấc… Nhưng 😤",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-09-27T12:28:00Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/DzvNp_EYOos/maxresdefault.jpg"
     }
   ]
 }
