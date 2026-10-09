@@ -1,6 +1,39 @@
 {
   "videos": [
     {
+      "videoId": "E-TtQO54ghQ",
+      "title": "Nhng MO B Mt Gip Newbie Tinh Linh Khi Nguyn \"B o\" Ngay T u",
+      "title_original": "Nhng MO B Mt Gip Newbie Tinh Linh Khi Nguyn \"B o\" Ngay T u",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-10-09T19:24:05Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/E-TtQO54ghQ/maxresdefault.jpg"
+    },
+    {
+      "videoId": "GlqWW9roYf0",
+      "title": "🔴 TRỰC TIẾP: SAIGON PHANTOM vs BOOM ESPORTS | GIAI ĐOẠN VÒNG BẢNG - LƯỢT VỀ | ĐTDV MÙA ĐÔNG 2026",
+      "title_original": "🔴 TRỰC TIẾP: SAIGON PHANTOM vs BOOM ESPORTS | GIAI ĐOẠN VÒNG BẢNG - LƯỢT VỀ | ĐTDV MÙA ĐÔNG 2026",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-10-09T16:28:46Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/GlqWW9roYf0/maxresdefault.jpg"
+    },
+    {
+      "videoId": "f9ZNc_50__o",
+      "title": "🔴 TRỰC TIẾP: SAIGON PHANTOM vs BOOM ESPORTS | GIAI ĐOẠN VÒNG BẢNG - LƯỢT VỀ | ĐTDV MÙA ĐÔNG 2026",
+      "title_original": "🔴 TRỰC TIẾP: SAIGON PHANTOM vs BOOM ESPORTS | GIAI ĐOẠN VÒNG BẢNG - LƯỢT VỀ | ĐTDV MÙA ĐÔNG 2026",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-10-09T16:09:18Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/f9ZNc_50__o/maxresdefault.jpg"
+    },
+    {
       "videoId": "sOnnq7-RYuA",
       "title": "การแข่งขัน RoV Pro League 2026 Winter | รอบเก็บคะแนน Week 8 Day 2",
       "title_original": "การแข่งขัน RoV Pro League 2026 Winter | รอบเก็บคะแนน Week 8 Day 2",
@@ -87,28 +120,6 @@
       "source": "youtube",
       "publishedAt": "2026-10-09T06:06:23Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/8x84_Po4loI/maxresdefault.jpg"
-    },
-    {
-      "videoId": "f9ZNc_50__o",
-      "title": "🔴 TRỰC TIẾP: SAIGON PHANTOM vs BOOM ESPORTS | GIAI ĐOẠN VÒNG BẢNG - LƯỢT VỀ | ĐTDV MÙA ĐÔNG 2026",
-      "title_original": "🔴 TRỰC TIẾP: SAIGON PHANTOM vs BOOM ESPORTS | GIAI ĐOẠN VÒNG BẢNG - LƯỢT VỀ | ĐTDV MÙA ĐÔNG 2026",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-10-09T05:04:34Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/f9ZNc_50__o/maxresdefault.jpg"
-    },
-    {
-      "videoId": "GlqWW9roYf0",
-      "title": "🔴 TRỰC TIẾP: SAIGON PHANTOM vs BOOM ESPORTS | GIAI ĐOẠN VÒNG BẢNG - LƯỢT VỀ | ĐTDV MÙA ĐÔNG 2026",
-      "title_original": "🔴 TRỰC TIẾP: SAIGON PHANTOM vs BOOM ESPORTS | GIAI ĐOẠN VÒNG BẢNG - LƯỢT VỀ | ĐTDV MÙA ĐÔNG 2026",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-10-09T05:02:55Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/GlqWW9roYf0/maxresdefault.jpg"
     },
     {
       "videoId": "7lOfirjBGy8",
@@ -2188,17 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-09-28T12:05:48Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/ZJLdEukNa34/maxresdefault.jpg"
-    },
-    {
-      "videoId": "GypJ7huXqwk",
-      "title": "CÒN VÀI TIẾNG ĐỂ LÊN CHIẾN TƯỚNG NGÀY CUỐI MÙA",
-      "title_original": "CÒN VÀI TIẾNG ĐỂ LÊN CHIẾN TƯỚNG NGÀY CUỐI MÙA",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-09-28T08:41:55Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/GypJ7huXqwk/maxresdefault.jpg"
     }
   ]
 }
