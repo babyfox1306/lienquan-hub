@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-10-10T00:45:51.315738",
+  "last_updated": "2026-10-10T06:58:43.641808",
   "total_news": 100,
   "news": [
+    {
+      "id": "c18a76a64b5e",
+      "title": "QUY ĐỊNH & QUY TRÌNH ĐĂNG KÝ 10FEST COMMUNITY BUS",
+      "link": "https://lienquan.garena.vn/quy-dinh-quy-trinh-dang-ky-10fest-community-bus/",
+      "summary": "<p>QUY ĐỊNH &#38; QUY TRÌNH ĐĂNG KÝ 10FEST COMMUNITY BUS 1. Thông tin chương trình Nhằm hỗ trợ Kiện Tướng tại một số tỉnh/thành thuận tiện tham dự Liên Quân 10Fest tại Sân vận động [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/quy-dinh-quy-trinh-dang-ky-10fest-community-bus/\">QUY ĐỊNH &#038; QUY TRÌNH ĐĂNG KÝ 10FEST COMMUNITY BUS</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2026/10/COMMUNITY-BUS_430x200.png",
+      "source": "Liên Quân Mobile Official",
+      "source_url": "https://lienquan.garena.vn/rss",
+      "published_at": "2026-10-10T03:54:54Z",
+      "crawled_at": "2026-10-10T06:53:53.998017",
+      "category": "tướng",
+      "priority": 1
+    },
     {
       "id": "20bbb9f0741a",
       "title": "LIÊN QUÂN GẮN KẾT – CHÍNH THỨC TÌM RA NHỮNG HÌNH ẢNH ẤN TƯỢNG NHẤT",
@@ -1287,19 +1300,6 @@
       "published_at": "2026-03-26T09:48:57Z",
       "crawled_at": "2026-03-26T10:16:34.895284",
       "category": "tướng",
-      "priority": 1
-    },
-    {
-      "id": "532fc9c3d0bc",
-      "title": "TỔNG KẾT ĐẤU TRƯỜNG DANH VỌNG MÙA XUÂN 2026 – VÒNG BẢNG GIAI ĐOẠN 1 – LƯỢT ĐI",
-      "link": "https://lienquan.garena.vn/to%cc%89ng-ket-dau-truong-danh-vo%cc%a3ng-mua-xuan-2026-vong-ba%cc%89ng-giai-doa%cc%a3n-1-luo%cc%a3t-di/",
-      "summary": "<p>ĐTDV Mùa Xuân 2026 vừa khép lại Giai đoạn 1 lượt đi sau 7 vòng đấu căng não với nhiều diễn biến đáng chú ý. Trên BXH, cục diện Top 4 dần hình thành với [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/to%cc%89ng-ket-dau-truong-danh-vo%cc%a3ng-mua-xuan-2026-vong-ba%cc%89ng-giai-doa%cc%a3n-1-luo%cc%a3t-di/\">TỔNG KẾT ĐẤU TRƯỜNG DANH VỌNG MÙA XUÂN 2026 &#8211; VÒNG BẢNG GIAI ĐOẠN 1 &#8211; LƯỢT ĐI</a> appeared first on <a href=\"https://lienquan.garena.",
-      "image_url": null,
-      "source": "Liên Quân Mobile Official",
-      "source_url": "https://lienquan.garena.vn/rss",
-      "published_at": "2026-03-24T11:42:56Z",
-      "crawled_at": "2026-03-24T12:09:25.646984",
-      "category": "tin tức",
       "priority": 1
     }
   ]
