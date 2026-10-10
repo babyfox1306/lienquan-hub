@@ -1,6 +1,28 @@
 {
   "videos": [
     {
+      "videoId": "wFTEQ1sxdvk",
+      "title": "BOOM ESPORTS VS SAIGON PHANTOM | VÒNG BẢNG - LƯỢT VỀ | ĐẤU TRƯỜNG DANH VỌNG MÙA ĐÔNG 2026",
+      "title_original": "BOOM ESPORTS VS SAIGON PHANTOM | VÒNG BẢNG - LƯỢT VỀ | ĐẤU TRƯỜNG DANH VỌNG MÙA ĐÔNG 2026",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-10-10T00:30:34Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/wFTEQ1sxdvk/maxresdefault.jpg"
+    },
+    {
+      "videoId": "9hErjqRP_RQ",
+      "title": "BOX GAMING VS ONE STAR ESPORTS | VÒNG BẢNG - LƯỢT VỀ | ĐẤU TRƯỜNG DANH VỌNG MÙA ĐÔNG 2026",
+      "title_original": "BOX GAMING VS ONE STAR ESPORTS | VÒNG BẢNG - LƯỢT VỀ | ĐẤU TRƯỜNG DANH VỌNG MÙA ĐÔNG 2026",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-10-10T00:00:35Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/9hErjqRP_RQ/maxresdefault.jpg"
+    },
+    {
       "videoId": "E-TtQO54ghQ",
       "title": "Nhng MO B Mt Gip Newbie Tinh Linh Khi Nguyn \"B o\" Ngay T u",
       "title_original": "Nhng MO B Mt Gip Newbie Tinh Linh Khi Nguyn \"B o\" Ngay T u",
@@ -2177,28 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-09-28T13:58:56Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/ESLjKMCwWTM/maxresdefault.jpg"
-    },
-    {
-      "videoId": "V7ujXrqQW2g",
-      "title": "BIỆT ĐỘI BÁO THÙ TÁI ĐẤU CHỚP CAM | TÂM ĐIỂM TUẦN ĐẤU SỐ THỨ 5 | ĐTDV MÙA ĐÔNG 2026",
-      "title_original": "BIỆT ĐỘI BÁO THÙ TÁI ĐẤU CHỚP CAM | TÂM ĐIỂM TUẦN ĐẤU SỐ THỨ 5 | ĐTDV MÙA ĐÔNG 2026",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-09-28T13:00:19Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/V7ujXrqQW2g/maxresdefault.jpg"
-    },
-    {
-      "videoId": "ZJLdEukNa34",
-      "title": "Khoảnh Khắc Chạm Mốc Chiến Tướng Ở Những Giây Cuối Cùng Mùa Giải",
-      "title_original": "Khoảnh Khắc Chạm Mốc Chiến Tướng Ở Những Giây Cuối Cùng Mùa Giải",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-09-28T12:05:48Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/ZJLdEukNa34/maxresdefault.jpg"
     }
   ]
 }
