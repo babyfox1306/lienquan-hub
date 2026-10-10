@@ -44,6 +44,7 @@
       "hot_count": 2,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/3/3f/Nakroth_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20201224121203",
       "related_videos": [
+        "hOB1bq6TRy4",
         "iLlXNuMMpqo",
         "6PxACYH4NMo"
       ]
@@ -2261,11 +2262,12 @@
         "Baldum"
       ],
       "tier": "C",
-      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: -1)",
+      "tier_reason": "Xuất hiện 2 lần trong video/tin tức 14 ngày qua (Score: -1)",
       "hot": false,
-      "hot_count": 0,
+      "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/a/a1/Tel%27Annas_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20171106200421",
       "related_videos": [
+        "XEa6EcWnEGM",
         "raLfWwtOewE"
       ]
     },
@@ -3009,9 +3011,9 @@
       "counters": [],
       "synergies": [],
       "tier": "A",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 5, Score: 2)",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 4, Score: 2)",
       "hot": true,
-      "hot_count": 5,
+      "hot_count": 4,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/c/c9/D%27Arcy_profile.jpg/revision/latest/scale-to-width-down/500?cb=20200531224258",
       "related_videos": [
         "N5RpPMzvaVI",
@@ -3986,7 +3988,7 @@
       "counters": [],
       "synergies": [],
       "tier": "A",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 3, Score: 2)",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 3, Score: 1)",
       "hot": true,
       "hot_count": 3,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/2/28/Preyta_Splash.png/revision/latest/scale-to-width-down/500?cb=20171204210816",
@@ -4818,8 +4820,7 @@
       "related_videos": [
         "_mEgUnaGZac",
         "kcu7C7x5PTk",
-        "PjNwBGPHMb8",
-        "ESLjKMCwWTM"
+        "PjNwBGPHMb8"
       ]
     },
     {
@@ -4904,5 +4905,5 @@
       ]
     }
   ],
-  "updated_at": "2026-10-10T06:58:43Z"
+  "updated_at": "2026-10-10T13:34:38Z"
 }
