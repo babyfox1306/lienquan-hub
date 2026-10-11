@@ -1,6 +1,61 @@
 {
   "videos": [
     {
+      "videoId": "4uB-8jW2xmY",
+      "title": "การแข่งขัน RoV Pro League 2026 Winter | รอบเก็บคะแนน Week 8 Day 4",
+      "title_original": "การแข่งขัน RoV Pro League 2026 Winter | รอบเก็บคะแนน Week 8 Day 4",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-10-11T15:15:25Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/4uB-8jW2xmY/maxresdefault.jpg"
+    },
+    {
+      "videoId": "OCxO8WjMXp0",
+      "title": "Thêm Đúng 1 Bước Này Thôi Sẽ Lên Cấp Thần Tốc Trong Tinh Linh Khởi Nguyên",
+      "title_original": "Thêm Đúng 1 Bước Này Thôi Sẽ Lên Cấp Thần Tốc Trong Tinh Linh Khởi Nguyên",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-10-11T12:31:15Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/OCxO8WjMXp0/maxresdefault.jpg"
+    },
+    {
+      "videoId": "FFUHA9WY9sg",
+      "title": "GCS 2026 夏季例行賽W8D3-2026/10/11《Garena 傳說對決》",
+      "title_original": "GCS 2026 夏季例行賽W8D3-2026/10/11《Garena 傳說對決》",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-10-11T12:24:41Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/FFUHA9WY9sg/maxresdefault.jpg"
+    },
+    {
+      "videoId": "7igoADJBTJY",
+      "title": "🔴 TRỰC TIẾP: BOOM ESPORTS vs REX REGUM QEON | GIAI ĐOẠN VÒNG BẢNG - LƯỢT VỀ | ĐTDV MÙA ĐÔNG 2026",
+      "title_original": "🔴 TRỰC TIẾP: BOOM ESPORTS vs REX REGUM QEON | GIAI ĐOẠN VÒNG BẢNG - LƯỢT VỀ | ĐTDV MÙA ĐÔNG 2026",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-10-11T12:23:37Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/7igoADJBTJY/maxresdefault.jpg"
+    },
+    {
+      "videoId": "XicevhyRvL0",
+      "title": "🔴 TRỰC TIẾP: FPT x FLASH vs SAIGON PHANTOM | GIAI ĐOẠN VÒNG BẢNG - LƯỢT VỀ | ĐTDV MÙA ĐÔNG 2026",
+      "title_original": "🔴 TRỰC TIẾP: FPT x FLASH vs SAIGON PHANTOM | GIAI ĐOẠN VÒNG BẢNG - LƯỢT VỀ | ĐTDV MÙA ĐÔNG 2026",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-10-11T12:00:27Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/XicevhyRvL0/maxresdefault.jpg"
+    },
+    {
       "videoId": "rKau1-Fk_Bs",
       "title": "RANK KHỂNH",
       "title_original": "RANK KHỂNH",
@@ -8,8 +63,41 @@
       "country": "VN",
       "lang_original": "vi",
       "source": "youtube",
-      "publishedAt": "2026-10-11T05:52:43Z",
+      "publishedAt": "2026-10-11T11:47:06Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/rKau1-Fk_Bs/maxresdefault.jpg"
+    },
+    {
+      "videoId": "xOe0vZ84vMs",
+      "title": "SGP vs FPT | ĐẦU CẦU TÔM CON | WATCH PARTY - ĐTDV MÙA ĐÔNG 2026",
+      "title_original": "SGP vs FPT | ĐẦU CẦU TÔM CON | WATCH PARTY - ĐTDV MÙA ĐÔNG 2026",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-10-11T11:34:56Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/xOe0vZ84vMs/maxresdefault.jpg"
+    },
+    {
+      "videoId": "QvSk6SwemSw",
+      "title": "SGP vs FPT | ĐẦU CẦU CHỚP CON | WATCH PARTY - ĐTDV MÙA ĐÔNG 2026",
+      "title_original": "SGP vs FPT | ĐẦU CẦU CHỚP CON | WATCH PARTY - ĐTDV MÙA ĐÔNG 2026",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-10-11T11:33:02Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/QvSk6SwemSw/maxresdefault.jpg"
+    },
+    {
+      "videoId": "pwZXQIJvK44",
+      "title": "PHIN BN MI: EVITA Ci Tin K Nng Mi, Combo Mt, t Khng, Dmg Khng!",
+      "title_original": "PHIN BN MI: EVITA Ci Tin K Nng Mi, Combo Mt, t Khng, Dmg Khng!",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-10-11T09:57:13Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/pwZXQIJvK44/maxresdefault.jpg"
     },
     {
       "videoId": "mTmHniNFgS0",
@@ -23,20 +111,9 @@
       "thumbnailUrl": "https://i.ytimg.com/vi/mTmHniNFgS0/maxresdefault.jpg"
     },
     {
-      "videoId": "7igoADJBTJY",
-      "title": "🔴 TRỰC TIẾP: ONE STAR ESPORTS vs TEAM SECRET | GIAI ĐOẠN VÒNG BẢNG - LƯỢT VỀ | ĐTDV MÙA ĐÔNG 2026",
-      "title_original": "🔴 TRỰC TIẾP: ONE STAR ESPORTS vs TEAM SECRET | GIAI ĐOẠN VÒNG BẢNG - LƯỢT VỀ | ĐTDV MÙA ĐÔNG 2026",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-10-11T04:22:24Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/7igoADJBTJY/maxresdefault.jpg"
-    },
-    {
       "videoId": "cwHB93f_uGk",
-      "title": "🔴 TRỰC TIẾP: ONE STAR ESPORTS vs TEAM SECRET | GIAI ĐOẠN VÒNG BẢNG - LƯỢT VỀ | ĐTDV MÙA ĐÔNG 2026",
-      "title_original": "🔴 TRỰC TIẾP: ONE STAR ESPORTS vs TEAM SECRET | GIAI ĐOẠN VÒNG BẢNG - LƯỢT VỀ | ĐTDV MÙA ĐÔNG 2026",
+      "title": "🔴 TRỰC TIẾP: FPT x FLASH vs SAIGON PHANTOM | GIAI ĐOẠN VÒNG BẢNG - LƯỢT VỀ | ĐTDV MÙA ĐÔNG 2026",
+      "title_original": "🔴 TRỰC TIẾP: FPT x FLASH vs SAIGON PHANTOM | GIAI ĐOẠN VÒNG BẢNG - LƯỢT VỀ | ĐTDV MÙA ĐÔNG 2026",
       "translated": false,
       "country": "VN",
       "lang_original": "vi",
@@ -98,28 +175,6 @@
       "source": "youtube",
       "publishedAt": "2026-10-10T20:20:39Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/b6FqnsdgkO0/maxresdefault.jpg"
-    },
-    {
-      "videoId": "4uB-8jW2xmY",
-      "title": "🔴𝐋𝐈𝐕𝐄 แมตช์เดือด! Full Sense 🆚 Bacon Time | การแข่งขัน RoV Pro League 2026 Winter Week 8 Day 4",
-      "title_original": "🔴𝐋𝐈𝐕𝐄 แมตช์เดือด! Full Sense 🆚 Bacon Time | การแข่งขัน RoV Pro League 2026 Winter Week 8 Day 4",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-10-10T20:20:17Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/4uB-8jW2xmY/maxresdefault.jpg"
-    },
-    {
-      "videoId": "FFUHA9WY9sg",
-      "title": "🔴 LIVE:HKA 🆚 FW|GCS 2026 夏季例行賽W8D3-2026/10/11《Garena 傳說對決》",
-      "title_original": "🔴 LIVE:HKA 🆚 FW|GCS 2026 夏季例行賽W8D3-2026/10/11《Garena 傳說對決》",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-10-10T17:47:46Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/FFUHA9WY9sg/maxresdefault.jpg"
     },
     {
       "videoId": "Wvq75MFqMiY",
@@ -2144,61 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-09-30T12:03:00Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/H3IUPEh2jj4/maxresdefault.jpg"
-    },
-    {
-      "videoId": "t2SIw_GmmUw",
-      "title": "【傳說新造型】霧己「九幽外道」|造型展示影片《Garena傳說對決》",
-      "title_original": "【傳說新造型】霧己「九幽外道」|造型展示影片《Garena傳說對決》",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-09-30T12:00:37Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/t2SIw_GmmUw/maxresdefault.jpg"
-    },
-    {
-      "videoId": "zsDpb9SS5-k",
-      "title": "ACS 2026 冬季例行賽 W1D1  - 2026/09/30《Garena 傳說對決》",
-      "title_original": "ACS 2026 冬季例行賽 W1D1  - 2026/09/30《Garena 傳說對決》",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-09-30T11:43:55Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/zsDpb9SS5-k/maxresdefault.jpg"
-    },
-    {
-      "videoId": "JO9VuckRrrs",
-      "title": "《Garena 傳說對決》流光穿梭十年傳說 | 傳說十週年正式登場",
-      "title_original": "《Garena 傳說對決》流光穿梭十年傳說 | 傳說十週年正式登場",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-09-30T11:01:36Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/JO9VuckRrrs/maxresdefault.jpg"
-    },
-    {
-      "videoId": "ED-i6KtUl1g",
-      "title": "อัปเดตแพทช์ 10 ปี",
-      "title_original": "อัปเดตแพทช์ 10 ปี",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-09-30T11:00:29Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/ED-i6KtUl1g/maxresdefault.jpg"
-    },
-    {
-      "videoId": "LKa2UE45TXs",
-      "title": "VUX LEO RANK ĐẦU MÙA S4 TEST TRANG BỊ MỚI VÀ GIÁP THỐNG KHỔ SAU KHI LÀM LẠI",
-      "title_original": "VUX LEO RANK ĐẦU MÙA S4 TEST TRANG BỊ MỚI VÀ GIÁP THỐNG KHỔ SAU KHI LÀM LẠI",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-09-30T10:34:57Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/LKa2UE45TXs/maxresdefault.jpg"
     }
   ]
 }
