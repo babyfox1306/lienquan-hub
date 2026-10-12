@@ -2894,11 +2894,14 @@
       "counters": [],
       "synergies": [],
       "tier": "B",
-      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 0)",
       "hot": false,
-      "hot_count": 0,
+      "hot_count": 2,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/d/d3/Capheny_profile.jpg/revision/latest/scale-to-width-down/500?cb=20200531224240",
-      "related_videos": []
+      "related_videos": [
+        "K9Ns9tjelhI",
+        "gMrHvpNHg5s"
+      ]
     },
     {
       "id": "charlotte",
@@ -3986,8 +3989,8 @@
       },
       "counters": [],
       "synergies": [],
-      "tier": "A",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 3, Score: 1)",
+      "tier": "B",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 3, Score: 0)",
       "hot": true,
       "hot_count": 3,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/2/28/Preyta_Splash.png/revision/latest/scale-to-width-down/500?cb=20171204210816",
@@ -3996,8 +3999,7 @@
         "zEfjX2qLp80",
         "v7KSzCi6rH8",
         "DI44kUwHkuw",
-        "fUYx3gaZN2Q",
-        "1-AWcmzdiow"
+        "fUYx3gaZN2Q"
       ]
     },
     {
@@ -4902,5 +4904,5 @@
       "related_videos": []
     }
   ],
-  "updated_at": "2026-10-12T00:30:47Z"
+  "updated_at": "2026-10-12T07:16:04Z"
 }
