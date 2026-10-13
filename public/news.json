@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-10-13T07:40:38.475941",
+  "last_updated": "2026-10-13T15:53:48.575074",
   "total_news": 100,
   "news": [
+    {
+      "id": "69dbe6126aa7",
+      "title": "THÔNG BÁO BẢO TRÌ",
+      "link": "https://lienquan.garena.vn/thong-bao-bao-tri/",
+      "summary": "<p>THÔNG BÁO BẢO TRÌ Hội đồng Liên Quân xin thông báo: hệ thống sẽ được bảo trì trong khoảng 06:00–07:00 ngày 14.10.2026. Trong thời gian này, các Kiện Tướng có thể gặp gián đoạn khi [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/thong-bao-bao-tri/\">THÔNG BÁO BẢO TRÌ</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2026/10/deepix_image_20261013_181701.png",
+      "source": "Liên Quân Mobile Official",
+      "source_url": "https://lienquan.garena.vn/rss",
+      "published_at": "2026-10-13T11:17:58Z",
+      "crawled_at": "2026-10-13T15:48:45.077808",
+      "category": "tướng",
+      "priority": 1
+    },
     {
       "id": "366fcf02fa0b",
       "title": "THÔNG BÁO VỀ TÌNH HUỐNG PHÁT SINH TRONG TRẬN ĐẤU GIỮA SAIGON PHANTOM VÀ FPT FLASH NGÀY 11/10/2026",
@@ -1286,19 +1299,6 @@
       "source_url": "https://lienquan.garena.vn/rss",
       "published_at": "2026-03-26T11:53:33Z",
       "crawled_at": "2026-03-26T12:11:36.753046",
-      "category": "tin tức",
-      "priority": 1
-    },
-    {
-      "id": "8e1324f87a0f",
-      "title": "FUN STUDIO x LIÊN QUÂN MOBILE: KHI PHOTOBOOTH TRỞ THÀNH ĐIỂM CHẠM MỚI ĐỂ KẾT NỐI",
-      "link": "https://lienquan.garena.vn/fun-studio-x-lien-quan-mobile-khi-photobooth-tro-thanh-diem-cham-moi-de-ket-noi/",
-      "summary": "<p>Trong bối cảnh giới trẻ ngày càng tìm kiếm những trải nghiệm mang tính tương tác, cá nhân hóa và dễ chia sẻ, sự hợp tác giữa Fun Studio và Liên Quân Mobile cho thấy [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/fun-studio-x-lien-quan-mobile-khi-photobooth-tro-thanh-diem-cham-moi-de-ket-noi/\">FUN STUDIO x LIÊN QUÂN MOBILE: KHI PHOTOBOOTH TRỞ THÀNH ĐIỂM CHẠM MỚI ĐỂ KẾT NỐI</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
-      "image_url": "https://picsum.photos/seed/https://lienquan.garena.vn/fun-studio-x-lien-quan-mobile-khi-photobooth-tro-thanh-diem-cham-moi-de-ket-noi//400/225",
-      "source": "Liên Quân Mobile Official",
-      "source_url": "https://lienquan.garena.vn/rss",
-      "published_at": "2026-03-26T10:27:52Z",
-      "crawled_at": "2026-03-26T11:16:21.016264",
       "category": "tin tức",
       "priority": 1
     }
