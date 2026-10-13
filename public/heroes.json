@@ -871,13 +871,12 @@
         "Wukong"
       ],
       "tier": "A",
-      "tier_reason": "Xuất hiện 2 lần trong video/tin tức 14 ngày qua (Score: 1)",
+      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 1)",
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/3/3b/Alice_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125083007",
       "related_videos": [
-        "tq_oONwBVxw",
-        "3nWs8gKddN4"
+        "tq_oONwBVxw"
       ]
     },
     {
@@ -1249,7 +1248,7 @@
       "tier": "A",
       "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 1)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/d/d4/Liliana_Default.jpg/revision/latest/scale-to-width-down/500?cb=20180331134150",
       "related_videos": [
         "nIl9oCJEbp0"
@@ -1480,15 +1479,14 @@
         "Krixi"
       ],
       "tier": "A",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 2)",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 1)",
       "hot": false,
       "hot_count": 2,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/8/84/Veres_profile.jpg/revision/latest/scale-to-width-down/500?cb=20200603115909",
       "related_videos": [
         "XqAesUxU1U0",
         "YGv1jMlFwyc",
-        "XEk8v-GCuSE",
-        "j2JvJqF2jUg"
+        "XEk8v-GCuSE"
       ]
     },
     {
@@ -3015,9 +3013,9 @@
       "counters": [],
       "synergies": [],
       "tier": "A",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 4, Score: 2)",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 3, Score: 2)",
       "hot": true,
-      "hot_count": 4,
+      "hot_count": 3,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/c/c9/D%27Arcy_profile.jpg/revision/latest/scale-to-width-down/500?cb=20200531224258",
       "related_videos": [
         "N5RpPMzvaVI",
@@ -3097,11 +3095,12 @@
       "counters": [],
       "synergies": [],
       "tier": "A",
-      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 1)",
+      "tier_reason": "Xuất hiện 2 lần trong video/tin tức 14 ngày qua (Score: 2)",
       "hot": false,
-      "hot_count": 0,
-      "thumbnail": "https://img.youtube.com/vi/HmUR9KpS98I/maxresdefault.jpg",
+      "hot_count": 1,
+      "thumbnail": "https://img.youtube.com/vi/xDTj4oOZa84/maxresdefault.jpg",
       "related_videos": [
+        "xDTj4oOZa84",
         "HmUR9KpS98I"
       ]
     },
@@ -3994,16 +3993,15 @@
       },
       "counters": [],
       "synergies": [],
-      "tier": "B",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 0)",
+      "tier": "C",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: -1)",
       "hot": false,
       "hot_count": 2,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/2/28/Preyta_Splash.png/revision/latest/scale-to-width-down/500?cb=20171204210816",
       "related_videos": [
         "p3I6rCCVlnc",
         "zEfjX2qLp80",
-        "v7KSzCi6rH8",
-        "DI44kUwHkuw"
+        "v7KSzCi6rH8"
       ]
     },
     {
@@ -4908,5 +4906,5 @@
       "related_videos": []
     }
   ],
-  "updated_at": "2026-10-13T00:34:03Z"
+  "updated_at": "2026-10-13T07:40:38Z"
 }
