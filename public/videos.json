@@ -1,6 +1,39 @@
 {
   "videos": [
     {
+      "videoId": "F2bOQgdkP9k",
+      "title": "🔴𝐋𝐈𝐕𝐄 ! การแข่งขัน Miss RoV Tournament 2026 Season 2 | รอบ Playoffs 16 ทีมสุดท้าย Day 3",
+      "title_original": "🔴𝐋𝐈𝐕𝐄 ! การแข่งขัน Miss RoV Tournament 2026 Season 2 | รอบ Playoffs 16 ทีมสุดท้าย Day 3",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-10-14T15:16:58Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/F2bOQgdkP9k/maxresdefault.jpg"
+    },
+    {
+      "videoId": "F3ZuNDoP8vk",
+      "title": "🔴 TRỰC TIẾP: HP vs CT vs NA | SWISS STAGE 14.10 | TỨ PHƯƠNG ĐẠI CHIẾN MÙA ĐÔNG 2026",
+      "title_original": "🔴 TRỰC TIẾP: HP vs CT vs NA | SWISS STAGE 14.10 | TỨ PHƯƠNG ĐẠI CHIẾN MÙA ĐÔNG 2026",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-10-14T14:55:10Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/F3ZuNDoP8vk/maxresdefault.jpg"
+    },
+    {
+      "videoId": "Eb67Q0jOo04",
+      "title": "🔴 TRỰC TIẾP: HP vs CT vs NA | SWISS STAGE 14.10 | TỨ PHƯƠNG ĐẠI CHIẾN MÙA ĐÔNG 2026",
+      "title_original": "🔴 TRỰC TIẾP: HP vs CT vs NA | SWISS STAGE 14.10 | TỨ PHƯƠNG ĐẠI CHIẾN MÙA ĐÔNG 2026",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-10-14T14:50:56Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/Eb67Q0jOo04/maxresdefault.jpg"
+    },
+    {
       "videoId": "eW7FfprgJ7w",
       "title": "ACS 2026 冬季例行賽 W3D1  - 2026/10/14《Garena 傳說對決》",
       "title_original": "ACS 2026 冬季例行賽 W3D1  - 2026/10/14《Garena 傳說對決》",
@@ -34,17 +67,6 @@
       "thumbnailUrl": "https://i.ytimg.com/vi/FzoeRX0XnHo/maxresdefault.jpg"
     },
     {
-      "videoId": "F2bOQgdkP9k",
-      "title": "🔴𝐋𝐈𝐕𝐄 ! การแข่งขัน Miss RoV Tournament 2026 Season 2 | รอบ Playoffs 16 ทีมสุดท้าย Day 3",
-      "title_original": "🔴𝐋𝐈𝐕𝐄 ! การแข่งขัน Miss RoV Tournament 2026 Season 2 | รอบ Playoffs 16 ทีมสุดท้าย Day 3",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-10-14T09:52:54Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/F2bOQgdkP9k/maxresdefault.jpg"
-    },
-    {
       "videoId": "6yt3bxwAFVE",
       "title": "PHIÊN BẢN MỚI: Tel'Annas Buff Nội Tại 1000 Công Vật Lý, Timi Quá Điên Rồ! | TNG",
       "title_original": "PHIÊN BẢN MỚI: Tel'Annas Buff Nội Tại 1000 Công Vật Lý, Timi Quá Điên Rồ! | TNG",
@@ -76,28 +98,6 @@
       "source": "youtube",
       "publishedAt": "2026-10-14T09:07:56Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/hKKWaUDmgGE/maxresdefault.jpg"
-    },
-    {
-      "videoId": "F3ZuNDoP8vk",
-      "title": "🔴 TRỰC TIẾP: HP vs CT vs NA | SWISS STAGE 14.10 | TỨ PHƯƠNG ĐẠI CHIẾN MÙA ĐÔNG 2026",
-      "title_original": "🔴 TRỰC TIẾP: HP vs CT vs NA | SWISS STAGE 14.10 | TỨ PHƯƠNG ĐẠI CHIẾN MÙA ĐÔNG 2026",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-10-14T06:04:41Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/F3ZuNDoP8vk/maxresdefault.jpg"
-    },
-    {
-      "videoId": "Eb67Q0jOo04",
-      "title": "🔴 TRỰC TIẾP: HP vs CT vs NA | SWISS STAGE 14.10 | TỨ PHƯƠNG ĐẠI CHIẾN MÙA ĐÔNG 2026",
-      "title_original": "🔴 TRỰC TIẾP: HP vs CT vs NA | SWISS STAGE 14.10 | TỨ PHƯƠNG ĐẠI CHIẾN MÙA ĐÔNG 2026",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-10-14T06:04:20Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/Eb67Q0jOo04/maxresdefault.jpg"
     },
     {
       "videoId": "H3NInmuxNkk",
@@ -1596,6 +1596,17 @@
       "thumbnailUrl": "https://i.ytimg.com/vi/oGN10IJHDbg/maxresdefault.jpg"
     },
     {
+      "videoId": "WdPYvFhEt-o",
+      "title": "BNH NGUYN LM LNG",
+      "title_original": "BNH NGUYN LM LNG",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-10-07T03:54:56Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/WdPYvFhEt-o/maxresdefault.jpg"
+    },
+    {
       "videoId": "AXYP4xoQXrA",
       "title": "TOP 5 Tướng Địch Càng Đông Càng Mạnh: Tăng Cấp Số Nhân Sức Mạnh Khi Team Địch Co Cụm! | TNG",
       "title_original": "TOP 5 Tướng Địch Càng Đông Càng Mạnh: Tăng Cấp Số Nhân Sức Mạnh Khi Team Địch Co Cụm! | TNG",
@@ -2188,17 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-10-04T03:20:10Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/tq_oONwBVxw/maxresdefault.jpg"
-    },
-    {
-      "videoId": "TgFYvyNPVF0",
-      "title": "ĐỦ CHỈ TIÊU MỚI OFF",
-      "title_original": "ĐỦ CHỈ TIÊU MỚI OFF",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-10-03T20:36:58Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/TgFYvyNPVF0/maxresdefault.jpg"
     }
   ]
 }
