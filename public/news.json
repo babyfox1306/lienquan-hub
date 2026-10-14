@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-10-14T07:28:20.495701",
+  "last_updated": "2026-10-14T13:36:25.980876",
   "total_news": 100,
   "news": [
+    {
+      "id": "3a1981738663",
+      "title": "CẬP NHẬT LỖI GIỚI HẠN ĐỔI TRANG PHỤC CỬA HÀNG THỜI GIAN",
+      "link": "https://lienquan.garena.vn/cap-nhat-loi-gioi-han-doi-trang-phuc-cua-hang-thoi-gian/",
+      "summary": "<p>CẬP NHẬT LỖI GIỚI HẠN ĐỔI TRANG PHỤC CỬA HÀNG THỜI GIAN Hội đồng Liên Quân xin thông báo: Lỗi giới hạn đổi 2 trang phục trong mục Trang phục bậc cao trong sự kiện [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/cap-nhat-loi-gioi-han-doi-trang-phuc-cua-hang-thoi-gian/\">CẬP NHẬT LỖI GIỚI HẠN ĐỔI TRANG PHỤC CỬA HÀNG THỜI GIAN</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2026/10/cap_nhat_su_kien.jpg",
+      "source": "Liên Quân Mobile Official",
+      "source_url": "https://lienquan.garena.vn/rss",
+      "published_at": "2026-10-14T13:00:24Z",
+      "crawled_at": "2026-10-14T13:31:29.917067",
+      "category": "skin",
+      "priority": 1
+    },
     {
       "id": "69dbe6126aa7",
       "title": "THÔNG BÁO BẢO TRÌ",
@@ -1286,19 +1299,6 @@
       "source_url": "https://lienquan.garena.vn/rss",
       "published_at": "2026-03-26T11:53:37Z",
       "crawled_at": "2026-03-26T12:11:36.752980",
-      "category": "tin tức",
-      "priority": 1
-    },
-    {
-      "id": "1c7d7bcfa3ba",
-      "title": "TỔNG KẾT BXH PLAYER OF THE MATCH GIAI ĐOẠN 1 LƯỢT ĐI ĐẤU TRƯỜNG DANH VỌNG MÙA XUÂN 2026",
-      "link": "https://lienquan.garena.vn/tong-ket-bxh-player-of-the-match-giai-doan-1-luot-di-dau-truong-danh-vong-mua-xuan-2026/",
-      "summary": "<p>Giai đoạn lượt đi Đấu Trường Danh Vọng (ĐTDV) Mùa Xuân 2025 đã khép lại sau 7 vòng đấu đầy kịch tính, để lại nhiều dấu ấn nổi bật của các tuyển thủ xuất sắc. [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/tong-ket-bxh-player-of-the-match-giai-doan-1-luot-di-dau-truong-danh-vong-mua-xuan-2026/\">TỔNG KẾT BXH PLAYER OF THE MATCH GIAI ĐOẠN 1 LƯỢT ĐI ĐẤU TRƯỜNG DANH VỌNG MÙA XUÂN 2026</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
-      "image_url": null,
-      "source": "Liên Quân Mobile Official",
-      "source_url": "https://lienquan.garena.vn/rss",
-      "published_at": "2026-03-26T11:53:33Z",
-      "crawled_at": "2026-03-26T12:11:36.753046",
       "category": "tin tức",
       "priority": 1
     }
