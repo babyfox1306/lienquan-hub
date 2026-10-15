@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-10-15T01:26:12.655277",
+  "last_updated": "2026-10-15T07:19:20.087103",
   "total_news": 100,
   "news": [
+    {
+      "id": "ca504134e5f0",
+      "title": "ĐIỀU CHỈNH GIỮA MÙA PB VẾT NỨT THỜI KHÔNG – 15.10.2026",
+      "link": "https://lienquan.garena.vn/dieu-chinh-giua-mua-pb-vet-nut-thoi-khong-15-10-2026/",
+      "summary": "<p>Xin chào các Kiện Tướng, Liên Quân Mobile sẽ tiến hành cập nhật không gián đoạn cho máy chủ chính thức vào ngày 15/10/2026. Trong thời gian quy định, các Kiện tướng có thể tự chọn thời điểm [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/dieu-chinh-giua-mua-pb-vet-nut-thoi-khong-15-10-2026/\">ĐIỀU CHỈNH GIỮA MÙA PB VẾT NỨT THỜI KHÔNG – 15.10.2026</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2026/10/IMG-HOR-0860x0400-112056-untitled-4.jpg",
+      "source": "Liên Quân Mobile Official",
+      "source_url": "https://lienquan.garena.vn/rss",
+      "published_at": "2026-10-15T02:25:54Z",
+      "crawled_at": "2026-10-15T07:14:24.445358",
+      "category": "tướng",
+      "priority": 1
+    },
     {
       "id": "3a1981738663",
       "title": "CẬP NHẬT LỖI GIỚI HẠN ĐỔI TRANG PHỤC CỬA HÀNG THỜI GIAN",
@@ -1287,19 +1300,6 @@
       "published_at": "2026-03-27T02:04:28Z",
       "crawled_at": "2026-03-27T02:58:17.525525",
       "category": "esports",
-      "priority": 1
-    },
-    {
-      "id": "e58010b558ad",
-      "title": "",
-      "link": "https://lienquan.garena.vn/13179-2/",
-      "summary": "<p>ĐTDV mùa Xuân 2026 chính thức trở lại với giai đoạn lượt về bủng nổ với nhiều điều khó đoán. Cùng theo dõi lịch thi đấu để không bỏ lỡ những pha giao tranh rực [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/13179-2/\"></a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
-      "image_url": null,
-      "source": "Liên Quân Mobile Official",
-      "source_url": "https://lienquan.garena.vn/rss",
-      "published_at": "2026-03-26T11:53:37Z",
-      "crawled_at": "2026-03-26T12:11:36.752980",
-      "category": "tin tức",
       "priority": 1
     }
   ]
