@@ -1,6 +1,28 @@
 {
   "videos": [
     {
+      "videoId": "6gPCkCLSPrA",
+      "title": "NGHE ĐỒN NAY LIÊN QUÂN CÓ TƯỚNG MỚI",
+      "title_original": "NGHE ĐỒN NAY LIÊN QUÂN CÓ TƯỚNG MỚI",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-10-15T19:08:15Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/6gPCkCLSPrA/maxresdefault.jpg"
+    },
+    {
+      "videoId": "vzvr0tfBUoI",
+      "title": "NGHE ĐỒN NAY LIÊN QUÂN CÓ TƯỚNG MỚI",
+      "title_original": "NGHE ĐỒN NAY LIÊN QUÂN CÓ TƯỚNG MỚI",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-10-15T18:36:39Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/vzvr0tfBUoI/maxresdefault.jpg"
+    },
+    {
       "videoId": "vi1aZYgC0xg",
       "title": "🔴 TRỰC TIẾP: GAM ESPORTS vs SAIGON PHANTOM | GIAI ĐOẠN VÒNG BẢNG - LƯỢT VỀ | ĐTDV MÙA ĐÔNG 2026",
       "title_original": "🔴 TRỰC TIẾP: GAM ESPORTS vs SAIGON PHANTOM | GIAI ĐOẠN VÒNG BẢNG - LƯỢT VỀ | ĐTDV MÙA ĐÔNG 2026",
@@ -186,17 +208,6 @@
       "source": "youtube",
       "publishedAt": "2026-10-15T01:00:29Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/e2A-7kJ-6po/maxresdefault.jpg"
-    },
-    {
-      "videoId": "vzvr0tfBUoI",
-      "title": "NGHE ĐỒN NAY LIÊN QUÂN CÓ TƯỚNG MỚI",
-      "title_original": "NGHE ĐỒN NAY LIÊN QUÂN CÓ TƯỚNG MỚI",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-10-14T19:46:38Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/vzvr0tfBUoI/maxresdefault.jpg"
     },
     {
       "videoId": "WdPYvFhEt-o",
@@ -2188,17 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-10-04T19:22:42Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/Pa6L4-CegV8/maxresdefault.jpg"
-    },
-    {
-      "videoId": "ZcyWnIryDN8",
-      "title": "Leo Thach Dau Team 5",
-      "title_original": "Leo Thach Dau Team 5",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-10-04T17:03:17Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/ZcyWnIryDN8/maxresdefault.jpg"
     }
   ]
 }
