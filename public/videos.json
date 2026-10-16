@@ -1,6 +1,28 @@
 {
   "videos": [
     {
+      "videoId": "GqLnzwTB6t0",
+      "title": "Tiếp tục với tướng mới",
+      "title_original": "Tiếp tục với tướng mới",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-10-16T17:53:33Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/GqLnzwTB6t0/maxresdefault.jpg"
+    },
+    {
+      "videoId": "hLs9mIh3Vro",
+      "title": "Tiếp tục với tướng mới",
+      "title_original": "Tiếp tục với tướng mới",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-10-16T17:53:21Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/hLs9mIh3Vro/maxresdefault.jpg"
+    },
+    {
       "videoId": "wc9NS5UxQ80",
       "title": "RRQ vs FPL | GAM vs FPT | BME vs BOX | GIAI ĐOẠN VÒNG BẢNG - LƯỢT VỀ | ĐTDV MÙA ĐÔNG 2026",
       "title_original": "RRQ vs FPL | GAM vs FPT | BME vs BOX | GIAI ĐOẠN VÒNG BẢNG - LƯỢT VỀ | ĐTDV MÙA ĐÔNG 2026",
@@ -21,17 +43,6 @@
       "source": "youtube",
       "publishedAt": "2026-10-16T16:10:24Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/6HiaLICrmZw/maxresdefault.jpg"
-    },
-    {
-      "videoId": "GqLnzwTB6t0",
-      "title": "Tiếp tục với tướng mới",
-      "title_original": "Tiếp tục với tướng mới",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-10-16T14:58:08Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/GqLnzwTB6t0/maxresdefault.jpg"
     },
     {
       "videoId": "BBCnMATwzaY",
@@ -321,8 +332,8 @@
     },
     {
       "videoId": "SnGYkB1nZKI",
-      "title": "Đừng Cường Hóa Trang Bị Tinh Linh Khởi Nguyên Nếu Chưa Xem Video Này!",
-      "title_original": "Đừng Cường Hóa Trang Bị Tinh Linh Khởi Nguyên Nếu Chưa Xem Video Này!",
+      "title": "Mẹo Cường Hóa Trang Bị Trong Tinh Linh Khởi Nguyên: Đúng 1 Video Là Đủ!",
+      "title_original": "Mẹo Cường Hóa Trang Bị Trong Tinh Linh Khởi Nguyên: Đúng 1 Video Là Đủ!",
       "translated": false,
       "country": "VN",
       "lang_original": "vi",
@@ -2188,17 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-10-06T05:00:13Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/I0YsE30Ohq4/maxresdefault.jpg"
-    },
-    {
-      "videoId": "F2MpTxomC3s",
-      "title": "TOP 5 Tướng Khắc Chế D'Arcy, Kèo Meta S4 2026 | TNG",
-      "title_original": "TOP 5 Tướng Khắc Chế D'Arcy, Kèo Meta S4 2026 | TNG",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-10-06T04:31:03Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/F2MpTxomC3s/maxresdefault.jpg"
     }
   ]
 }
