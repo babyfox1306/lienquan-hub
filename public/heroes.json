@@ -39,11 +39,13 @@
         "Krixi"
       ],
       "tier": "A",
-      "tier_reason": "Được gán từ dữ liệu hạt giống (Seed A-Tier) do ít video mới (Hot Count: 1)",
-      "hot": false,
-      "hot_count": 1,
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 3, Score: 1)",
+      "hot": true,
+      "hot_count": 3,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/3/3f/Nakroth_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20201224121203",
       "related_videos": [
+        "Q-k6Z7qAKLU",
+        "JqQJw6HWxK4",
         "hOB1bq6TRy4",
         "iLlXNuMMpqo"
       ]
@@ -2310,13 +2312,12 @@
         "Nakroth"
       ],
       "tier": "B",
-      "tier_reason": "Xuất hiện 2 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
       "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/a/a3/Raz_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125091551",
       "related_videos": [
-        "qCDXCV9KPKM",
-        "Bkorct9tvEE"
+        "qCDXCV9KPKM"
       ]
     },
     {
@@ -2818,14 +2819,12 @@
       },
       "counters": [],
       "synergies": [],
-      "tier": "A",
-      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 1)",
+      "tier": "B",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/d/d2/Brunhilda_profile.jpg/revision/latest/scale-to-width-down/500?cb=20200531221741",
-      "related_videos": [
-        "2HLM5KKC4-A"
-      ]
+      "related_videos": []
     },
     {
       "id": "butterfly",
@@ -2897,11 +2896,12 @@
       "counters": [],
       "synergies": [],
       "tier": "B",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 0)",
-      "hot": false,
-      "hot_count": 2,
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 3, Score: 0)",
+      "hot": true,
+      "hot_count": 3,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/d/d3/Capheny_profile.jpg/revision/latest/scale-to-width-down/500?cb=20200531224240",
       "related_videos": [
+        "TQcwvXLwmz8",
         "K9Ns9tjelhI",
         "gMrHvpNHg5s"
       ]
@@ -3097,13 +3097,12 @@
       "counters": [],
       "synergies": [],
       "tier": "A",
-      "tier_reason": "Xuất hiện 2 lần trong video/tin tức 14 ngày qua (Score: 2)",
+      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 1)",
       "hot": false,
       "hot_count": 1,
       "thumbnail": "https://img.youtube.com/vi/xDTj4oOZa84/maxresdefault.jpg",
       "related_videos": [
-        "xDTj4oOZa84",
-        "HmUR9KpS98I"
+        "xDTj4oOZa84"
       ]
     },
     {
@@ -3995,14 +3994,13 @@
       "counters": [],
       "synergies": [],
       "tier": "C",
-      "tier_reason": "Xuất hiện 3 lần trong video/tin tức 14 ngày qua (Score: -1)",
+      "tier_reason": "Xuất hiện 2 lần trong video/tin tức 14 ngày qua (Score: -1)",
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/2/28/Preyta_Splash.png/revision/latest/scale-to-width-down/500?cb=20171204210816",
       "related_videos": [
         "p3I6rCCVlnc",
-        "zEfjX2qLp80",
-        "v7KSzCi6rH8"
+        "zEfjX2qLp80"
       ]
     },
     {
@@ -4912,5 +4910,5 @@
       "related_videos": []
     }
   ],
-  "updated_at": "2026-10-16T07:02:26Z"
+  "updated_at": "2026-10-16T12:19:52Z"
 }
