@@ -1245,14 +1245,12 @@
         "Thane",
         "Nakroth"
       ],
-      "tier": "A",
-      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 1)",
+      "tier": "B",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/d/d4/Liliana_Default.jpg/revision/latest/scale-to-width-down/500?cb=20180331134150",
-      "related_videos": [
-        "nIl9oCJEbp0"
-      ]
+      "related_videos": []
     },
     {
       "id": "dirak",
@@ -2550,7 +2548,7 @@
       "tier": "A",
       "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 1)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/0/05/Ata_White_Anchor.jpg/revision/latest/scale-to-width-down/500?cb=20220123231714",
       "related_videos": [
         "8L3NEBYnKP8"
@@ -4910,5 +4908,5 @@
       "related_videos": []
     }
   ],
-  "updated_at": "2026-10-16T12:19:52Z"
+  "updated_at": "2026-10-16T17:22:23Z"
 }
