@@ -965,9 +965,9 @@
         "Alice"
       ],
       "tier": "S",
-      "tier_reason": "Được gán từ dữ liệu hạt giống (Seed S-Tier) do ít video mới (Hot Count: 1)",
+      "tier_reason": "Được gán từ dữ liệu hạt giống (Seed S-Tier) do ít video mới (Hot Count: 0)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/a/ab/Volkath_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20200531224601",
       "related_videos": [
         "OUu6mVZjQbc"
@@ -3015,14 +3015,11 @@
       "counters": [],
       "synergies": [],
       "tier": "B",
-      "tier_reason": "Xuất hiện 2 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/c/c9/D%27Arcy_profile.jpg/revision/latest/scale-to-width-down/500?cb=20200531224258",
-      "related_videos": [
-        "N5RpPMzvaVI",
-        "783b2aFvTOE"
-      ]
+      "related_videos": []
     },
     {
       "id": "dextra",
@@ -4232,12 +4229,14 @@
       },
       "counters": [],
       "synergies": [],
-      "tier": "B",
-      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier": "A",
+      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 1)",
       "hot": false,
-      "hot_count": 0,
+      "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/5/59/Sephera_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125045857",
-      "related_videos": []
+      "related_videos": [
+        "A8EAvnoscmo"
+      ]
     },
     {
       "id": "sinestrea",
@@ -4856,12 +4855,14 @@
       },
       "counters": [],
       "synergies": [],
-      "tier": "B",
-      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
-      "hot": false,
-      "hot_count": 1,
+      "tier": "A",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 3, Score: 2)",
+      "hot": true,
+      "hot_count": 3,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/7/75/Zanis_profile.png/revision/latest/scale-to-width-down/500?cb=20170525133445",
       "related_videos": [
+        "q4mK4NI9ko8",
+        "E-g-N6h3Xio",
         "qCDXCV9KPKM"
       ]
     },
@@ -4906,5 +4907,5 @@
       "related_videos": []
     }
   ],
-  "updated_at": "2026-10-18T05:43:44Z"
+  "updated_at": "2026-10-18T10:51:10Z"
 }
