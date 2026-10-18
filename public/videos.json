@@ -1,6 +1,28 @@
 {
   "videos": [
     {
+      "videoId": "HyHc02vjSL4",
+      "title": "Bên tui đang là buổi trưa",
+      "title_original": "Bên tui đang là buổi trưa",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-10-18T18:51:16Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/HyHc02vjSL4/maxresdefault.jpg"
+    },
+    {
+      "videoId": "cMdjtf1JyLA",
+      "title": "Bên tui đang là buổi trưa",
+      "title_original": "Bên tui đang là buổi trưa",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-10-18T18:06:18Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/cMdjtf1JyLA/maxresdefault.jpg"
+    },
+    {
       "videoId": "MEZ3W3kmvNI",
       "title": "การแข่งขัน Miss RoV Tournament 2026 Season 2 | รอบ Playoffs 8 ทีมสุดท้าย",
       "title_original": "การแข่งขัน Miss RoV Tournament 2026 Season 2 | รอบ Playoffs 8 ทีมสุดท้าย",
@@ -32,17 +54,6 @@
       "source": "youtube",
       "publishedAt": "2026-10-18T16:35:56Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/oMiBWl9rzmE/maxresdefault.jpg"
-    },
-    {
-      "videoId": "HyHc02vjSL4",
-      "title": "Bên tui đang là buổi trưa",
-      "title_original": "Bên tui đang là buổi trưa",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-10-18T16:14:57Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/HyHc02vjSL4/maxresdefault.jpg"
     },
     {
       "videoId": "K5I75_HoqJw",
@@ -167,8 +178,8 @@
     },
     {
       "videoId": "vEMDrk5YmuU",
-      "title": "TT C  KT THC! Ti Dng Li  Top... | Tinh Linh Khi Nguyn",
-      "title_original": "TT C  KT THC! Ti Dng Li  Top... | Tinh Linh Khi Nguyn",
+      "title": "Đua Top Cấp Độ Tinh Linh Khởi Nguyên: Đạt Hạng Này Là Thành CÔNG Hay THẤT BẠI?",
+      "title_original": "Đua Top Cấp Độ Tinh Linh Khởi Nguyên: Đạt Hạng Này Là Thành CÔNG Hay THẤT BẠI?",
       "translated": false,
       "country": "VN",
       "lang_original": "vi",
@@ -2188,17 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-10-08T04:30:32Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/mwUxI60xXUk/maxresdefault.jpg"
-    },
-    {
-      "videoId": "iLlXNuMMpqo",
-      "title": "TOP 5 Tướng Khắc Chế Nakroth, Kèo Rừng Meta S4 2026, TNG",
-      "title_original": "TOP 5 Tướng Khắc Chế Nakroth, Kèo Rừng Meta S4 2026, TNG",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-10-08T03:53:02Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/iLlXNuMMpqo/maxresdefault.jpg"
     }
   ]
 }

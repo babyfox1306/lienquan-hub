@@ -38,16 +38,15 @@
         "Thane",
         "Krixi"
       ],
-      "tier": "A",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 1)",
+      "tier": "B",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 0)",
       "hot": false,
       "hot_count": 2,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/3/3f/Nakroth_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20201224121203",
       "related_videos": [
         "Q-k6Z7qAKLU",
         "JqQJw6HWxK4",
-        "hOB1bq6TRy4",
-        "iLlXNuMMpqo"
+        "hOB1bq6TRy4"
       ]
     },
     {
@@ -4911,5 +4910,5 @@
       "related_videos": []
     }
   ],
-  "updated_at": "2026-10-18T18:03:28Z"
+  "updated_at": "2026-10-18T20:32:30Z"
 }
