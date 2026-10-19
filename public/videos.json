@@ -1,6 +1,50 @@
 {
   "videos": [
     {
+      "videoId": "ZuM-IOQN44M",
+      "title": "ANH ĐEN QUÁ",
+      "title_original": "ANH ĐEN QUÁ",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-10-19T19:27:02Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/ZuM-IOQN44M/maxresdefault.jpg"
+    },
+    {
+      "videoId": "aEfX1Xo83Z4",
+      "title": "auto lossss",
+      "title_original": "auto lossss",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-10-19T17:40:48Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/aEfX1Xo83Z4/maxresdefault.jpg"
+    },
+    {
+      "videoId": "4rmTSwvgjVg",
+      "title": "\"NU NGHIM TC V TP TRUNG HN T S  L 3-0\" | U XONG THY SAO",
+      "title_original": "\"NU NGHIM TC V TP TRUNG HN T S  L 3-0\" | U XONG THY SAO",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-10-19T16:16:32Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/4rmTSwvgjVg/maxresdefault.jpg"
+    },
+    {
+      "videoId": "jzjD06ud1Do",
+      "title": "WVHS vs 1S | GAM vs TSD | SGP vs ALG | BME vs FDP | Queens of Glory mùa Đông 2026",
+      "title_original": "WVHS vs 1S | GAM vs TSD | SGP vs ALG | BME vs FDP | Queens of Glory mùa Đông 2026",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-10-19T14:57:02Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/jzjD06ud1Do/maxresdefault.jpg"
+    },
+    {
       "videoId": "Xd6V6-_y6VY",
       "title": "🔴 TRỰC TIẾP: HUTECH vs SGU | HCMUT vs UIT | SWISS STAGE 19.10 | TỨ PHƯƠNG ĐẠI CHIẾN MÙA ĐÔNG 2026",
       "title_original": "🔴 TRỰC TIẾP: HUTECH vs SGU | HCMUT vs UIT | SWISS STAGE 19.10 | TỨ PHƯƠNG ĐẠI CHIẾN MÙA ĐÔNG 2026",
@@ -98,17 +142,6 @@
       "source": "youtube",
       "publishedAt": "2026-10-19T05:51:05Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/1II3Lxutjds/maxresdefault.jpg"
-    },
-    {
-      "videoId": "jzjD06ud1Do",
-      "title": "🔴 TRỰC TIẾP: BOOM Esports vs Five Dragon Princesses | Queens of Glory mùa Đông 2026",
-      "title_original": "🔴 TRỰC TIẾP: BOOM Esports vs Five Dragon Princesses | Queens of Glory mùa Đông 2026",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-10-19T04:52:30Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/jzjD06ud1Do/maxresdefault.jpg"
     },
     {
       "videoId": "_xCu2cVl71o",
@@ -2166,39 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-10-08T14:52:48Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/KOKZ7XfHY8c/maxresdefault.jpg"
-    },
-    {
-      "videoId": "HSsGKAx3UBo",
-      "title": "Long time no see",
-      "title_original": "Long time no see",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-10-08T14:43:23Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/HSsGKAx3UBo/maxresdefault.jpg"
-    },
-    {
-      "videoId": "p3I6rCCVlnc",
-      "title": "Preyta Mới Đi Rừng: Yếu Thật Hay Do Bạn Chưa Biết Cách Dùng?",
-      "title_original": "Preyta Mới Đi Rừng: Yếu Thật Hay Do Bạn Chưa Biết Cách Dùng?",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-10-08T12:35:54Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/p3I6rCCVlnc/maxresdefault.jpg"
-    },
-    {
-      "videoId": "fdXfF6MrEh0",
-      "title": "ACS 2026 冬季例行賽 W2D2  - 2026/10/08《Garena 傳說對決》",
-      "title_original": "ACS 2026 冬季例行賽 W2D2  - 2026/10/08《Garena 傳說對決》",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-10-08T12:27:32Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/fdXfF6MrEh0/maxresdefault.jpg"
     }
   ]
 }
