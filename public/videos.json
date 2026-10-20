@@ -1,6 +1,105 @@
 {
   "videos": [
     {
+      "videoId": "hKLPDI5J-V8",
+      "title": "WVHS vs TSD | 1S vs GAM | Queens of Glory mùa Đông 2026",
+      "title_original": "WVHS vs TSD | 1S vs GAM | Queens of Glory mùa Đông 2026",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-10-20T14:49:01Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/hKLPDI5J-V8/maxresdefault.jpg"
+    },
+    {
+      "videoId": "LV9x-zDdAj0",
+      "title": "🔴 TRỰC TIẾP: WVHS vs Team Secret Dino | Queens of Glory mùa Đông 2026",
+      "title_original": "🔴 TRỰC TIẾP: WVHS vs Team Secret Dino | Queens of Glory mùa Đông 2026",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-10-20T14:43:15Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/LV9x-zDdAj0/maxresdefault.jpg"
+    },
+    {
+      "videoId": "xU5N1dyht28",
+      "title": "ANH ĐENG QUA",
+      "title_original": "ANH ĐENG QUA",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-10-20T14:16:01Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/xU5N1dyht28/maxresdefault.jpg"
+    },
+    {
+      "videoId": "14qIEI1JVr4",
+      "title": "Tưởng D'Arcy Sau Buff Vẫn Là PHẾ VẬT… Cho Tới Pha Ulti Này!",
+      "title_original": "Tưởng D'Arcy Sau Buff Vẫn Là PHẾ VẬT… Cho Tới Pha Ulti Này!",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-10-20T14:05:23Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/14qIEI1JVr4/maxresdefault.jpg"
+    },
+    {
+      "videoId": "eDM-aps1vFk",
+      "title": "🔴 TRỰC TIẾP: ĐN vs CT | HUE vs HP | SWISS STAGE 20.10 | TỨ PHƯƠNG ĐẠI CHIẾN MÙA ĐÔNG 2026",
+      "title_original": "🔴 TRỰC TIẾP: ĐN vs CT | HUE vs HP | SWISS STAGE 20.10 | TỨ PHƯƠNG ĐẠI CHIẾN MÙA ĐÔNG 2026",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-10-20T13:51:26Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/eDM-aps1vFk/maxresdefault.jpg"
+    },
+    {
+      "videoId": "OO2FfcXJgdY",
+      "title": "🔴 TRỰC TIẾP: ĐN vs CT | HUE vs HP | SWISS STAGE 20.10 | TỨ PHƯƠNG ĐẠI CHIẾN MÙA ĐÔNG 2026",
+      "title_original": "🔴 TRỰC TIẾP: ĐN vs CT | HUE vs HP | SWISS STAGE 20.10 | TỨ PHƯƠNG ĐẠI CHIẾN MÙA ĐÔNG 2026",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-10-20T13:51:06Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/OO2FfcXJgdY/maxresdefault.jpg"
+    },
+    {
+      "videoId": "iSYKnGN1afQ",
+      "title": "20/10 Nay Chơi Game Với Chị Em Nhaaa",
+      "title_original": "20/10 Nay Chơi Game Với Chị Em Nhaaa",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-10-20T13:41:42Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/iSYKnGN1afQ/maxresdefault.jpg"
+    },
+    {
+      "videoId": "EpOUZ0F5zw4",
+      "title": "RoV T-POP Tour Documentary EP.3",
+      "title_original": "RoV T-POP Tour Documentary EP.3",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-10-20T12:59:30Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/EpOUZ0F5zw4/maxresdefault.jpg"
+    },
+    {
+      "videoId": "2oAi2xxwGa8",
+      "title": "《Garena 傳說對決》十週年福利懶人包 | 一支影片全看懂",
+      "title_original": "《Garena 傳說對決》十週年福利懶人包 | 一支影片全看懂",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-10-20T11:54:07Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/2oAi2xxwGa8/maxresdefault.jpg"
+    },
+    {
       "videoId": "dZhgrY_jtXg",
       "title": "So sánh VERES ECHO và LƯU LY LONG MẪU | nhẹ nhàng hay lực điền?",
       "title_original": "So sánh VERES ECHO và LƯU LY LONG MẪU | nhẹ nhàng hay lực điền?",
@@ -56,28 +155,6 @@
       "thumbnailUrl": "https://i.ytimg.com/vi/m9f1wvrcadI/maxresdefault.jpg"
     },
     {
-      "videoId": "OO2FfcXJgdY",
-      "title": "🔴 TRỰC TIẾP: ĐN vs CT | HUE vs HP | SWISS STAGE 20.10 | TỨ PHƯƠNG ĐẠI CHIẾN MÙA ĐÔNG 2026",
-      "title_original": "🔴 TRỰC TIẾP: ĐN vs CT | HUE vs HP | SWISS STAGE 20.10 | TỨ PHƯƠNG ĐẠI CHIẾN MÙA ĐÔNG 2026",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-10-20T08:50:01Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/OO2FfcXJgdY/maxresdefault.jpg"
-    },
-    {
-      "videoId": "eDM-aps1vFk",
-      "title": "🔴 TRỰC TIẾP: ĐN vs CT | HUE vs HP | SWISS STAGE 20.10 | TỨ PHƯƠNG ĐẠI CHIẾN MÙA ĐÔNG 2026",
-      "title_original": "🔴 TRỰC TIẾP: ĐN vs CT | HUE vs HP | SWISS STAGE 20.10 | TỨ PHƯƠNG ĐẠI CHIẾN MÙA ĐÔNG 2026",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-10-20T08:39:55Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/eDM-aps1vFk/maxresdefault.jpg"
-    },
-    {
       "videoId": "y2JEIsJX6Q4",
       "title": "Khuy ng khng kh nh th ny  \"nng\" cha cc bn khn gi i",
       "title_original": "Khuy ng khng kh nh th ny  \"nng\" cha cc bn khn gi i",
@@ -87,17 +164,6 @@
       "source": "youtube",
       "publishedAt": "2026-10-20T08:30:05Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/y2JEIsJX6Q4/maxresdefault.jpg"
-    },
-    {
-      "videoId": "LV9x-zDdAj0",
-      "title": "🔴 TRỰC TIẾP: WVHS vs Team Secret Dino | Queens of Glory mùa Đông 2026",
-      "title_original": "🔴 TRỰC TIẾP: WVHS vs Team Secret Dino | Queens of Glory mùa Đông 2026",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-10-20T07:52:09Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/LV9x-zDdAj0/maxresdefault.jpg"
     },
     {
       "videoId": "WlVjJ5AntyQ",
@@ -175,17 +241,6 @@
       "source": "youtube",
       "publishedAt": "2026-10-19T17:40:48Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/aEfX1Xo83Z4/maxresdefault.jpg"
-    },
-    {
-      "videoId": "hKLPDI5J-V8",
-      "title": "🔴 TRỰC TIẾP: WVHS vs Team Secret Dino | Queens of Glory mùa Đông 2026",
-      "title_original": "🔴 TRỰC TIẾP: WVHS vs Team Secret Dino | Queens of Glory mùa Đông 2026",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-10-19T16:54:25Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/hKLPDI5J-V8/maxresdefault.jpg"
     },
     {
       "videoId": "4rmTSwvgjVg",
@@ -2144,61 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-10-09T19:24:05Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/E-TtQO54ghQ/maxresdefault.jpg"
-    },
-    {
-      "videoId": "GlqWW9roYf0",
-      "title": "🔴 TRỰC TIẾP: SAIGON PHANTOM vs BOOM ESPORTS | GIAI ĐOẠN VÒNG BẢNG - LƯỢT VỀ | ĐTDV MÙA ĐÔNG 2026",
-      "title_original": "🔴 TRỰC TIẾP: SAIGON PHANTOM vs BOOM ESPORTS | GIAI ĐOẠN VÒNG BẢNG - LƯỢT VỀ | ĐTDV MÙA ĐÔNG 2026",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-10-09T16:28:46Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/GlqWW9roYf0/maxresdefault.jpg"
-    },
-    {
-      "videoId": "f9ZNc_50__o",
-      "title": "🔴 TRỰC TIẾP: SAIGON PHANTOM vs BOOM ESPORTS | GIAI ĐOẠN VÒNG BẢNG - LƯỢT VỀ | ĐTDV MÙA ĐÔNG 2026",
-      "title_original": "🔴 TRỰC TIẾP: SAIGON PHANTOM vs BOOM ESPORTS | GIAI ĐOẠN VÒNG BẢNG - LƯỢT VỀ | ĐTDV MÙA ĐÔNG 2026",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-10-09T16:09:18Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/f9ZNc_50__o/maxresdefault.jpg"
-    },
-    {
-      "videoId": "sOnnq7-RYuA",
-      "title": "การแข่งขัน RoV Pro League 2026 Winter | รอบเก็บคะแนน Week 8 Day 2",
-      "title_original": "การแข่งขัน RoV Pro League 2026 Winter | รอบเก็บคะแนน Week 8 Day 2",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-10-09T15:40:35Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/sOnnq7-RYuA/maxresdefault.jpg"
-    },
-    {
-      "videoId": "8L3NEBYnKP8",
-      "title": "5 năm tôi mới chơi tướng này 1 lần, đi rừng lật kèo gánh team luôn với Ata",
-      "title_original": "5 năm tôi mới chơi tướng này 1 lần, đi rừng lật kèo gánh team luôn với Ata",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-10-09T14:22:21Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/8L3NEBYnKP8/maxresdefault.jpg"
-    },
-    {
-      "videoId": "ii9Uae7eiso",
-      "title": "GCS 2026 夏季例行賽W8D1-2026/10/09《Garena 傳說對決》",
-      "title_original": "GCS 2026 夏季例行賽W8D1-2026/10/09《Garena 傳說對決》",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-10-09T13:46:24Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/ii9Uae7eiso/maxresdefault.jpg"
     }
   ]
 }
