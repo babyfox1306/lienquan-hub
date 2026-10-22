@@ -1,6 +1,39 @@
 {
   "videos": [
     {
+      "videoId": "_2sBT8Ls4FI",
+      "title": "TRỰC TIẾP: SAIGON PHANTOM vs ALG QUEEN - XEM TRÌNH HỌC TRÒ CURTIS CỦA TÔI | NAMSENSEI COSTREAM",
+      "title_original": "TRỰC TIẾP: SAIGON PHANTOM vs ALG QUEEN - XEM TRÌNH HỌC TRÒ CURTIS CỦA TÔI | NAMSENSEI COSTREAM",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-10-22T14:05:43Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/_2sBT8Ls4FI/maxresdefault.jpg"
+    },
+    {
+      "videoId": "eZpjrFOYRn8",
+      "title": "Coi Giải Nữ SGP Rồi Game Nha",
+      "title_original": "Coi Giải Nữ SGP Rồi Game Nha",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-10-22T12:21:56Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/eZpjrFOYRn8/maxresdefault.jpg"
+    },
+    {
+      "videoId": "qD6m-0tq9rI",
+      "title": "MYRA พาไกด์โหมด Abyssal Clash",
+      "title_original": "MYRA พาไกด์โหมด Abyssal Clash",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-10-22T11:20:48Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/qD6m-0tq9rI/maxresdefault.jpg"
+    },
+    {
       "videoId": "qU2oy_YNACk",
       "title": "PHIÊN BẢN MỚI: Arduin Nerf Hồi Máu Vô Lý, Cú Cân Bằng Đi Vào Lòng Đất! | TNG",
       "title_original": "PHIÊN BẢN MỚI: Arduin Nerf Hồi Máu Vô Lý, Cú Cân Bằng Đi Vào Lòng Đất! | TNG",
@@ -57,8 +90,8 @@
     },
     {
       "videoId": "RIOZw6pnbUQ",
-      "title": "🔴 TRỰC TIẾP: GAM Esports vs Team Secret Dino | QUEENS OF GLORY | VÒNG BẢNG NGÀY 3",
-      "title_original": "🔴 TRỰC TIẾP: GAM Esports vs Team Secret Dino | QUEENS OF GLORY | VÒNG BẢNG NGÀY 3",
+      "title": "🔴 TRỰC TIẾP: SAIGON PHANTOM vs ALG QUEENS | QUEENS OF GLORY | VÒNG BẢNG NGÀY 3",
+      "title_original": "🔴 TRỰC TIẾP: SAIGON PHANTOM vs ALG QUEENS | QUEENS OF GLORY | VÒNG BẢNG NGÀY 3",
       "translated": false,
       "country": "VN",
       "lang_original": "vi",
@@ -2166,39 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-10-12T04:30:14Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/gMrHvpNHg5s/maxresdefault.jpg"
-    },
-    {
-      "videoId": "SFHiVwkq87Y",
-      "title": "TOP 5 Tng SOLO LANE Mnh Bc Nh Meta S4 2026, D Chi D Gnh | TNG",
-      "title_original": "TOP 5 Tng SOLO LANE Mnh Bc Nh Meta S4 2026, D Chi D Gnh | TNG",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-10-12T03:19:58Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/SFHiVwkq87Y/maxresdefault.jpg"
-    },
-    {
-      "videoId": "gFUZS4Wg-oU",
-      "title": "BOOM ESPORTS VS REX REGUM QEON | VÒNG BẢNG - LƯỢT VỀ | ĐẤU TRƯỜNG DANH VỌNG MÙA ĐÔNG 2026",
-      "title_original": "BOOM ESPORTS VS REX REGUM QEON | VÒNG BẢNG - LƯỢT VỀ | ĐẤU TRƯỜNG DANH VỌNG MÙA ĐÔNG 2026",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-10-12T00:30:14Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/gFUZS4Wg-oU/maxresdefault.jpg"
-    },
-    {
-      "videoId": "cub3DzKTgok",
-      "title": "FPT X FLASH VS SAIGON PHANTOM | VÒNG BẢNG - LƯỢT VỀ | ĐẤU TRƯỜNG DANH VỌNG MÙA ĐÔNG 2026",
-      "title_original": "FPT X FLASH VS SAIGON PHANTOM | VÒNG BẢNG - LƯỢT VỀ | ĐẤU TRƯỜNG DANH VỌNG MÙA ĐÔNG 2026",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-10-12T00:00:19Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/cub3DzKTgok/maxresdefault.jpg"
     }
   ]
 }

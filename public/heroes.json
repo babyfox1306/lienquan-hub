@@ -1338,9 +1338,9 @@
         "Mina"
       ],
       "tier": "A",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 1)",
+      "tier_reason": "Xuất hiện 2 lần trong video/tin tức 14 ngày qua (Score: 1)",
       "hot": false,
-      "hot_count": 2,
+      "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/0/06/Elsu_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125051727",
       "related_videos": [
         "_xCu2cVl71o",
@@ -2437,7 +2437,7 @@
       "tier": "A",
       "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 1)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/f/f8/Amily_profile.jpg/revision/latest/scale-to-width-down/500?cb=20200603121301",
       "related_videos": [
         "5cmh0mVPpxo"
@@ -4921,5 +4921,5 @@
       "related_videos": []
     }
   ],
-  "updated_at": "2026-10-22T10:03:38Z"
+  "updated_at": "2026-10-22T15:07:48Z"
 }
