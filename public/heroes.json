@@ -39,11 +39,12 @@
         "Krixi"
       ],
       "tier": "B",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 3, Score: 0)",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 4, Score: 0)",
       "hot": true,
-      "hot_count": 3,
+      "hot_count": 4,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/3/3f/Nakroth_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20201224121203",
       "related_videos": [
+        "04HU9Pc6Ijk",
         "OP9PAkENDPo",
         "Q-k6Z7qAKLU",
         "JqQJw6HWxK4"
@@ -973,9 +974,7 @@
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/a/ab/Volkath_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20200531224601",
-      "related_videos": [
-        "OUu6mVZjQbc"
-      ]
+      "related_videos": []
     },
     {
       "id": "maloch",
@@ -1715,12 +1714,14 @@
         "Krixi",
         "Tulen"
       ],
-      "tier": "B",
-      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier": "C",
+      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: -1)",
       "hot": false,
-      "hot_count": 0,
+      "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/f/f9/Arduin_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125053226",
-      "related_videos": []
+      "related_videos": [
+        "qU2oy_YNACk"
+      ]
     },
     {
       "id": "chaugnar",
@@ -3578,7 +3579,7 @@
       "tier": "B",
       "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/8/81/Kahlii_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125083310",
       "related_videos": [
         "mjXpBLaAaIo"
@@ -4159,7 +4160,7 @@
       "tier": "B",
       "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/c/c8/Roxie_avatar.jpg/revision/latest/scale-to-width-down/500?cb=20250112095728",
       "related_videos": [
         "BOQxix83Eh8"
@@ -4867,11 +4868,12 @@
       "counters": [],
       "synergies": [],
       "tier": "S",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 3, Score: 3)",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 4, Score: 3)",
       "hot": true,
-      "hot_count": 3,
+      "hot_count": 4,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/7/75/Zanis_profile.png/revision/latest/scale-to-width-down/500?cb=20170525133445",
       "related_videos": [
+        "iaDq-SVMCy4",
         "K5I75_HoqJw",
         "q4mK4NI9ko8",
         "E-g-N6h3Xio",
@@ -4919,5 +4921,5 @@
       "related_videos": []
     }
   ],
-  "updated_at": "2026-10-22T04:15:36Z"
+  "updated_at": "2026-10-22T10:03:38Z"
 }
