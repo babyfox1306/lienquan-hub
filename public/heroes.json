@@ -39,9 +39,9 @@
         "Krixi"
       ],
       "tier": "B",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 4, Score: 0)",
-      "hot": true,
-      "hot_count": 4,
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 0)",
+      "hot": false,
+      "hot_count": 2,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/3/3f/Nakroth_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20201224121203",
       "related_videos": [
         "04HU9Pc6Ijk",
@@ -1247,11 +1247,13 @@
         "Nakroth"
       ],
       "tier": "B",
-      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
-      "hot_count": 0,
+      "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/d/d4/Liliana_Default.jpg/revision/latest/scale-to-width-down/500?cb=20180331134150",
-      "related_videos": []
+      "related_videos": [
+        "aXTzxAJ4vPA"
+      ]
     },
     {
       "id": "dirak",
@@ -1488,9 +1490,7 @@
       "related_videos": [
         "dZhgrY_jtXg",
         "b-aLC1BP5l8",
-        "YO_PAkIZ580",
-        "XqAesUxU1U0",
-        "YGv1jMlFwyc"
+        "YO_PAkIZ580"
       ]
     },
     {
@@ -2903,7 +2903,7 @@
       "tier": "B",
       "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/d/d3/Capheny_profile.jpg/revision/latest/scale-to-width-down/500?cb=20200531224240",
       "related_videos": [
         "TQcwvXLwmz8"
@@ -3215,13 +3215,12 @@
       "counters": [],
       "synergies": [],
       "tier": "A",
-      "tier_reason": "Xuất hiện 2 lần trong video/tin tức 14 ngày qua (Score: 2)",
+      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 1)",
       "hot": false,
       "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/c/cf/Eland%27orr_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20210106151741",
       "related_videos": [
-        "QGvLjtJkDnQ",
-        "Oq-Uv-X7yLY"
+        "QGvLjtJkDnQ"
       ]
     },
     {
@@ -3336,13 +3335,11 @@
       "counters": [],
       "synergies": [],
       "tier": "B",
-      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/9/9b/Errol_Prisoner.jpg/revision/latest/scale-to-width-down/500?cb=20200531224359",
-      "related_videos": [
-        "bEtpEeipSMU"
-      ]
+      "related_videos": []
     },
     {
       "id": "fennik",
@@ -3377,11 +3374,12 @@
       "counters": [],
       "synergies": [],
       "tier": "A",
-      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 1)",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 1)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 2,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/5/56/Fennik_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125054758",
       "related_videos": [
+        "EBEIoIdhF6M",
         "l2pioUnyCZM"
       ]
     },
@@ -4919,5 +4917,5 @@
       "related_videos": []
     }
   ],
-  "updated_at": "2026-10-23T04:19:20Z"
+  "updated_at": "2026-10-23T09:57:40Z"
 }
