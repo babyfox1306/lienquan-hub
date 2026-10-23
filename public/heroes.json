@@ -3096,14 +3096,12 @@
       },
       "counters": [],
       "synergies": [],
-      "tier": "A",
-      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 1)",
+      "tier": "B",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
       "hot_count": 0,
-      "thumbnail": "https://img.youtube.com/vi/xDTj4oOZa84/maxresdefault.jpg",
-      "related_videos": [
-        "xDTj4oOZa84"
-      ]
+      "thumbnail": null,
+      "related_videos": []
     },
     {
       "id": "dolia",
@@ -4917,5 +4915,5 @@
       "related_videos": []
     }
   ],
-  "updated_at": "2026-10-23T09:57:40Z"
+  "updated_at": "2026-10-23T14:55:33Z"
 }
