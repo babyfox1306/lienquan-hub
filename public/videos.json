@@ -1,6 +1,61 @@
 {
   "videos": [
     {
+      "videoId": "krN_Q8lCjjg",
+      "title": "Chap 1000 mang",
+      "title_original": "Chap 1000 mang",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-10-23T18:42:45Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/krN_Q8lCjjg/maxresdefault.jpg"
+    },
+    {
+      "videoId": "6VK0wLxFThE",
+      "title": "CHUNG SỨC - Ngày 1 RƯỠI",
+      "title_original": "CHUNG SỨC - Ngày 1 RƯỠI",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-10-23T18:40:21Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/6VK0wLxFThE/maxresdefault.jpg"
+    },
+    {
+      "videoId": "Wk63LCQ9ETY",
+      "title": "LIVE 🔴 SAIGON PHANTOM vs BOOM ESPORTS | GIAI ĐOẠN PLAYOFFS | ĐTDV MÙA ĐÔNG 2026",
+      "title_original": "LIVE 🔴 SAIGON PHANTOM vs BOOM ESPORTS | GIAI ĐOẠN PLAYOFFS | ĐTDV MÙA ĐÔNG 2026",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-10-23T16:17:01Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/Wk63LCQ9ETY/maxresdefault.jpg"
+    },
+    {
+      "videoId": "V13LZc75GUo",
+      "title": "FPL vs FPT | SGP vs BME | GIAI ĐOẠN PLAYOFFS | ĐTDV MÙA ĐÔNG 2026",
+      "title_original": "FPL vs FPT | SGP vs BME | GIAI ĐOẠN PLAYOFFS | ĐTDV MÙA ĐÔNG 2026",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-10-23T15:12:24Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/V13LZc75GUo/maxresdefault.jpg"
+    },
+    {
+      "videoId": "XnsxqdTMywI",
+      "title": "TRỰC TIẾP: SAIGON PHANTOM vs BOOM ESPORTS - TẤM VÉ THỨ 2 ĐẾN SVĐ MỸ ĐÌNH | NAMSENSEI x BIRDLB",
+      "title_original": "TRỰC TIẾP: SAIGON PHANTOM vs BOOM ESPORTS - TẤM VÉ THỨ 2 ĐẾN SVĐ MỸ ĐÌNH | NAMSENSEI x BIRDLB",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-10-23T14:58:08Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/XnsxqdTMywI/maxresdefault.jpg"
+    },
+    {
       "videoId": "gN7SNzTx0i0",
       "title": "CHUNG SỨC - Ngày 1",
       "title_original": "CHUNG SỨC - Ngày 1",
@@ -67,17 +122,6 @@
       "thumbnailUrl": "https://i.ytimg.com/vi/n_BzkaCbSz4/maxresdefault.jpg"
     },
     {
-      "videoId": "Wk63LCQ9ETY",
-      "title": "LIVE 🔴 SAIGON PHANTOM vs BOOM ESPORTS | GIAI ĐOẠN PLAYOFFS | ĐTDV MÙA ĐÔNG 2026",
-      "title_original": "LIVE 🔴 SAIGON PHANTOM vs BOOM ESPORTS | GIAI ĐOẠN PLAYOFFS | ĐTDV MÙA ĐÔNG 2026",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-10-23T11:01:38Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/Wk63LCQ9ETY/maxresdefault.jpg"
-    },
-    {
       "videoId": "WckQBhNFPaw",
       "title": "LIVE 🔴 FPT POLYTECHNIC vs FPT x FLASH | GIAI ĐOẠN PLAYOFFS | ĐTDV MÙA ĐÔNG 2026",
       "title_original": "LIVE 🔴 FPT POLYTECHNIC vs FPT x FLASH | GIAI ĐOẠN PLAYOFFS | ĐTDV MÙA ĐÔNG 2026",
@@ -101,8 +145,8 @@
     },
     {
       "videoId": "aXTzxAJ4vPA",
-      "title": "BC PHT S4 2026: Liliana Ln Giy B Tr Uy Tn Oan, H Thng AI Lin Qun Li Li! | TNG",
-      "title_original": "BC PHT S4 2026: Liliana Ln Giy B Tr Uy Tn Oan, H Thng AI Lin Qun Li Li! | TNG",
+      "title": "CP NHT MI: Liliana B Tr Uy Tn Oan, H Thng AI Lin Qun Li Li! | TNG",
+      "title_original": "CP NHT MI: Liliana B Tr Uy Tn Oan, H Thng AI Lin Qun Li Li! | TNG",
       "translated": false,
       "country": "VN",
       "lang_original": "vi",
@@ -164,17 +208,6 @@
       "source": "youtube",
       "publishedAt": "2026-10-23T06:45:22Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/YkKM_gAekE4/maxresdefault.jpg"
-    },
-    {
-      "videoId": "V13LZc75GUo",
-      "title": "🔴 TRỰC TIẾP: SAIGON PHANTOM vs BOOM ESPORTS | GIAI ĐOẠN PLAYOFFS | ĐTDV MÙA ĐÔNG 2026",
-      "title_original": "🔴 TRỰC TIẾP: SAIGON PHANTOM vs BOOM ESPORTS | GIAI ĐOẠN PLAYOFFS | ĐTDV MÙA ĐÔNG 2026",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-10-23T05:47:33Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/V13LZc75GUo/maxresdefault.jpg"
     },
     {
       "videoId": "HXrLIyb3SzE",
@@ -241,17 +274,6 @@
       "source": "youtube",
       "publishedAt": "2026-10-22T20:16:16Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/eZpjrFOYRn8/maxresdefault.jpg"
-    },
-    {
-      "videoId": "XnsxqdTMywI",
-      "title": "TRỰC TIẾP: SAIGON PHANTOM vs BOOM ESPORTS - TẤM VÉ THỨ 2 ĐẾN SVĐ MỸ ĐÌNH | NAMSENSEI x BIRDLB",
-      "title_original": "TRỰC TIẾP: SAIGON PHANTOM vs BOOM ESPORTS - TẤM VÉ THỨ 2 ĐẾN SVĐ MỸ ĐÌNH | NAMSENSEI x BIRDLB",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-10-22T19:42:39Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/XnsxqdTMywI/maxresdefault.jpg"
     },
     {
       "videoId": "SWDu9zKA5zg",
@@ -2177,28 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-10-13T04:44:23Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/Ii3AZU8Glp8/maxresdefault.jpg"
-    },
-    {
-      "videoId": "7DyvK44Gj60",
-      "title": "🩵📷 HIỆU ỨNG CHIÊU THỨC | YUE ECHO 📷🩵",
-      "title_original": "🩵📷 HIỆU ỨNG CHIÊU THỨC | YUE ECHO 📷🩵",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-10-13T04:30:27Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/7DyvK44Gj60/maxresdefault.jpg"
-    },
-    {
-      "videoId": "FH0KfOcA6jI",
-      "title": "SKIN Spotlight | ECHO Aquamarine Yue",
-      "title_original": "SKIN Spotlight | ECHO Aquamarine Yue",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-10-13T04:30:16Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/FH0KfOcA6jI/maxresdefault.jpg"
     }
   ]
 }
