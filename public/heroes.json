@@ -2318,14 +2318,13 @@
         "Nakroth"
       ],
       "tier": "B",
-      "tier_reason": "Xuất hiện 3 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện 2 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
       "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/a/a3/Raz_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125091551",
       "related_videos": [
         "6kOwAVLEyV0",
-        "wjh-8ZueO6g",
-        "qCDXCV9KPKM"
+        "wjh-8ZueO6g"
       ]
     },
     {
@@ -3694,7 +3693,7 @@
       "tier": "B",
       "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/f/fd/Kriknak_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125054238",
       "related_videos": [
         "OkD81IYDpLY"
@@ -4876,8 +4875,7 @@
         "iaDq-SVMCy4",
         "K5I75_HoqJw",
         "q4mK4NI9ko8",
-        "E-g-N6h3Xio",
-        "qCDXCV9KPKM"
+        "E-g-N6h3Xio"
       ]
     },
     {
@@ -4921,5 +4919,5 @@
       "related_videos": []
     }
   ],
-  "updated_at": "2026-10-24T12:39:22Z"
+  "updated_at": "2026-10-24T16:36:02Z"
 }

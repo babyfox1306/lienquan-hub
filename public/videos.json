@@ -1,6 +1,61 @@
 {
   "videos": [
     {
+      "videoId": "cKF4I8RLFA8",
+      "title": "CHUNG SỨC - Ngày 2",
+      "title_original": "CHUNG SỨC - Ngày 2",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-10-24T16:21:54Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/cKF4I8RLFA8/maxresdefault.jpg"
+    },
+    {
+      "videoId": "MpcY5Yrb53M",
+      "title": "🔴𝐋𝐈𝐕𝐄 ชนะเข้าชิง! Buriram United Esports 🆚 eArena | งานออฟไลน์ RoV Pro League 2026 Winter",
+      "title_original": "🔴𝐋𝐈𝐕𝐄 ชนะเข้าชิง! Buriram United Esports 🆚 eArena | งานออฟไลน์ RoV Pro League 2026 Winter",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-10-24T15:49:14Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/MpcY5Yrb53M/maxresdefault.jpg"
+    },
+    {
+      "videoId": "CXJXT8HZdIo",
+      "title": "BOX vs FPT | GAM vs BME | GIAI ĐOẠN PLAYOFFS | ĐTDV MÙA ĐÔNG 2026",
+      "title_original": "BOX vs FPT | GAM vs BME | GIAI ĐOẠN PLAYOFFS | ĐTDV MÙA ĐÔNG 2026",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-10-24T15:09:23Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/CXJXT8HZdIo/maxresdefault.jpg"
+    },
+    {
+      "videoId": "uSDXxE3YcRE",
+      "title": "🔴 TRỰC TIẾP: GAM ESPORTS vs BOOM ESPORTS | GIAI ĐOẠN PLAYOFFS | ĐTDV MÙA ĐÔNG 2026",
+      "title_original": "🔴 TRỰC TIẾP: GAM ESPORTS vs BOOM ESPORTS | GIAI ĐOẠN PLAYOFFS | ĐTDV MÙA ĐÔNG 2026",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-10-24T14:57:34Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/uSDXxE3YcRE/maxresdefault.jpg"
+    },
+    {
+      "videoId": "BNDCiC_dHsw",
+      "title": "TRỰC TIẾP: FPT x FLASH vs BOX GAMING - SINH TỬ TOP 4, VÉ ĐI AIC | NAMSENSEI x BIRDLB x TÙNG HỌA MI",
+      "title_original": "TRỰC TIẾP: FPT x FLASH vs BOX GAMING - SINH TỬ TOP 4, VÉ ĐI AIC | NAMSENSEI x BIRDLB x TÙNG HỌA MI",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-10-24T12:37:01Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/BNDCiC_dHsw/maxresdefault.jpg"
+    },
+    {
       "videoId": "6lFCUQbKqoo",
       "title": "《Garena 傳說對決》傳說十週年 | 頭號玩家訪談・十年故事",
       "title_original": "《Garena 傳說對決》傳說十週年 | 頭號玩家訪談・十年故事",
@@ -67,39 +122,6 @@
       "thumbnailUrl": "https://i.ytimg.com/vi/jAcDsbDOkBg/maxresdefault.jpg"
     },
     {
-      "videoId": "BNDCiC_dHsw",
-      "title": "TRỰC TIẾP: FPT x FLASH vs BOX GAMING - SINH TỬ TOP 4, VÉ ĐI AIC | NAMSENSEI x BIRDLB x TÙNG HỌA MI",
-      "title_original": "TRỰC TIẾP: FPT x FLASH vs BOX GAMING - SINH TỬ TOP 4, VÉ ĐI AIC | NAMSENSEI x BIRDLB x TÙNG HỌA MI",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-10-24T06:21:06Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/BNDCiC_dHsw/maxresdefault.jpg"
-    },
-    {
-      "videoId": "CXJXT8HZdIo",
-      "title": "🔴 TRỰC TIẾP: GAM ESPORTS vs BOOM ESPORTS | GIAI ĐOẠN PLAYOFFS | ĐTDV MÙA ĐÔNG 2026",
-      "title_original": "🔴 TRỰC TIẾP: GAM ESPORTS vs BOOM ESPORTS | GIAI ĐOẠN PLAYOFFS | ĐTDV MÙA ĐÔNG 2026",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-10-24T06:10:56Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/CXJXT8HZdIo/maxresdefault.jpg"
-    },
-    {
-      "videoId": "uSDXxE3YcRE",
-      "title": "🔴 TRỰC TIẾP: GAM ESPORTS vs BOOM ESPORTS | GIAI ĐOẠN PLAYOFFS | ĐTDV MÙA ĐÔNG 2026",
-      "title_original": "🔴 TRỰC TIẾP: GAM ESPORTS vs BOOM ESPORTS | GIAI ĐOẠN PLAYOFFS | ĐTDV MÙA ĐÔNG 2026",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-10-24T06:07:49Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/uSDXxE3YcRE/maxresdefault.jpg"
-    },
-    {
       "videoId": "Rs1Ytkn2RTo",
       "title": "NOLAN BÁN ĐỒ CÂN TEAM - \"CÒN ĐÚNG CÁI GIÀY!\" | GÓC NHÌN TUYỂN THỦ #15 - ĐTDV MÙA ĐÔNG 2026",
       "title_original": "NOLAN BÁN ĐỒ CÂN TEAM - \"CÒN ĐÚNG CÁI GIÀY!\" | GÓC NHÌN TUYỂN THỦ #15 - ĐTDV MÙA ĐÔNG 2026",
@@ -145,8 +167,8 @@
     },
     {
       "videoId": "IHQBJayxnLM",
-      "title": "🔴𝐋𝐈𝐕𝐄 ชนะเข้าชิง! Buriram United 🆚 eArena | งานออฟไลน์ RoV Pro League 2026 Winter รอบ 3 ทีมสุดท้าย",
-      "title_original": "🔴𝐋𝐈𝐕𝐄 ชนะเข้าชิง! Buriram United 🆚 eArena | งานออฟไลน์ RoV Pro League 2026 Winter รอบ 3 ทีมสุดท้าย",
+      "title": "งานออฟไลน์ RoV Pro League 2026 Winter รอบ 4 ทีมสุดท้าย วันที่ 2 @IMPACT Exhibition Hall 11-12",
+      "title_original": "งานออฟไลน์ RoV Pro League 2026 Winter รอบ 4 ทีมสุดท้าย วันที่ 2 @IMPACT Exhibition Hall 11-12",
       "translated": false,
       "country": "VN",
       "lang_original": "vi",
@@ -2177,28 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-10-14T05:30:36Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/H3NInmuxNkk/maxresdefault.jpg"
-    },
-    {
-      "videoId": "qCDXCV9KPKM",
-      "title": "LIÊN QUÂN 9 CHỈNH SỬA TƯỚNG PHIÊN BẢN MỚI: Evita, Raz, Triệu Vân,... Bản Cập Nhật Bổ Sung S4 2026",
-      "title_original": "LIÊN QUÂN 9 CHỈNH SỬA TƯỚNG PHIÊN BẢN MỚI: Evita, Raz, Triệu Vân,... Bản Cập Nhật Bổ Sung S4 2026",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-10-14T03:35:56Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/qCDXCV9KPKM/maxresdefault.jpg"
-    },
-    {
-      "videoId": "vKJCTv9syyA",
-      "title": "🔴 TRỰC TIẾP: VHU vs SGU vs UIT | SWISS STAGE 13.10 | TỨ PHƯƠNG ĐẠI CHIẾN MÙA ĐÔNG 2026",
-      "title_original": "🔴 TRỰC TIẾP: VHU vs SGU vs UIT | SWISS STAGE 13.10 | TỨ PHƯƠNG ĐẠI CHIẾN MÙA ĐÔNG 2026",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-10-13T17:02:12Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/vKJCTv9syyA/maxresdefault.jpg"
     }
   ]
 }
