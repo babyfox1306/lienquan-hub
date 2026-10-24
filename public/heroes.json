@@ -39,11 +39,12 @@
         "Krixi"
       ],
       "tier": "B",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 0)",
-      "hot": false,
-      "hot_count": 2,
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 3, Score: 0)",
+      "hot": true,
+      "hot_count": 3,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/3/3f/Nakroth_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20201224121203",
       "related_videos": [
+        "fGeMspt1Wq4",
         "04HU9Pc6Ijk",
         "OP9PAkENDPo",
         "Q-k6Z7qAKLU",
@@ -179,16 +180,14 @@
         "Thane",
         "Baldum"
       ],
-      "tier": "B",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 0)",
+      "tier": "S",
+      "tier_reason": "Được gán từ dữ liệu hạt giống (Seed S-Tier) do ít video mới (Hot Count: 1)",
       "hot": false,
-      "hot_count": 2,
+      "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/4/40/Violet_Default.jpg/revision/latest/scale-to-width-down/500?cb=20180325101918",
       "related_videos": [
         "dOwLO1rp_sg",
-        "-xgqU23mM4U",
-        "qpEeX7UHg90",
-        "U1v1U2HwNno"
+        "-xgqU23mM4U"
       ]
     },
     {
@@ -2316,11 +2315,12 @@
         "Nakroth"
       ],
       "tier": "B",
-      "tier_reason": "Xuất hiện 2 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 0)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 2,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/a/a3/Raz_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125091551",
       "related_videos": [
+        "6kOwAVLEyV0",
         "wjh-8ZueO6g",
         "qCDXCV9KPKM"
       ]
@@ -4194,11 +4194,13 @@
       "counters": [],
       "synergies": [],
       "tier": "B",
-      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
-      "hot_count": 0,
+      "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/f/f2/Ryoma_Gunslinger.png/revision/latest/scale-to-width-down/500?cb=20180313083407",
-      "related_videos": []
+      "related_videos": [
+        "fGeMspt1Wq4"
+      ]
     },
     {
       "id": "sephera",
@@ -4915,5 +4917,5 @@
       "related_videos": []
     }
   ],
-  "updated_at": "2026-10-24T01:33:10Z"
+  "updated_at": "2026-10-24T07:10:51Z"
 }
