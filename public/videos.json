@@ -1,6 +1,61 @@
 {
   "videos": [
     {
+      "videoId": "u4CyOLZivpE",
+      "title": "vài trận gồi ngủ sớm",
+      "title_original": "vài trận gồi ngủ sớm",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-10-25T21:13:38Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/u4CyOLZivpE/maxresdefault.jpg"
+    },
+    {
+      "videoId": "biDAZvg67tY",
+      "title": "🔴 TRỰC TIẾP: BOX GAMING vs BOOM ESPORTS | GIAI ĐOẠN PLAYOFFS | ĐTDV MÙA ĐÔNG 2026",
+      "title_original": "🔴 TRỰC TIẾP: BOX GAMING vs BOOM ESPORTS | GIAI ĐOẠN PLAYOFFS | ĐTDV MÙA ĐÔNG 2026",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-10-25T20:51:32Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/biDAZvg67tY/maxresdefault.jpg"
+    },
+    {
+      "videoId": "txtrHRW3hY0",
+      "title": "100 Ngay Choi Ryoma",
+      "title_original": "100 Ngay Choi Ryoma",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-10-25T20:30:49Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/txtrHRW3hY0/maxresdefault.jpg"
+    },
+    {
+      "videoId": "BeC6Uhywtfw",
+      "title": "BOOM ESPORTS VS BOX GAMING | PLAYOFFS | ĐẤU TRƯỜNG DANH VỌNG MÙA ĐÔNG 2026",
+      "title_original": "BOOM ESPORTS VS BOX GAMING | PLAYOFFS | ĐẤU TRƯỜNG DANH VỌNG MÙA ĐÔNG 2026",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-10-25T19:34:43Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/BeC6Uhywtfw/maxresdefault.jpg"
+    },
+    {
+      "videoId": "R5rCsGqDJIg",
+      "title": "FPT POLYTECHNIC VS SAIGON PHANTOM | PLAYOFFS | ĐẤU TRƯỜNG DANH VỌNG MÙA ĐÔNG 2026",
+      "title_original": "FPT POLYTECHNIC VS SAIGON PHANTOM | PLAYOFFS | ĐẤU TRƯỜNG DANH VỌNG MÙA ĐÔNG 2026",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-10-25T19:34:37Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/R5rCsGqDJIg/maxresdefault.jpg"
+    },
+    {
       "videoId": "M4ldYaYapp8",
       "title": "SGP vs FPL | ĐẦU CẦU TÔM CON | WATCH PARTY - ĐTDV MÙA ĐÔNG 2026",
       "title_original": "SGP vs FPL | ĐẦU CẦU TÔM CON | WATCH PARTY - ĐTDV MÙA ĐÔNG 2026",
@@ -43,28 +98,6 @@
       "source": "youtube",
       "publishedAt": "2026-10-25T17:18:50Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/UZIwS96siOw/maxresdefault.jpg"
-    },
-    {
-      "videoId": "u4CyOLZivpE",
-      "title": "vài trận gồi ngủ sớm",
-      "title_original": "vài trận gồi ngủ sớm",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-10-25T15:41:22Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/u4CyOLZivpE/maxresdefault.jpg"
-    },
-    {
-      "videoId": "txtrHRW3hY0",
-      "title": "100 Ngay Choi Ryoma",
-      "title_original": "100 Ngay Choi Ryoma",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-10-25T15:25:48Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/txtrHRW3hY0/maxresdefault.jpg"
     },
     {
       "videoId": "7D5u8hDOVtY",
@@ -175,17 +208,6 @@
       "source": "youtube",
       "publishedAt": "2026-10-25T06:24:24Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/SlbGtGLy4LY/maxresdefault.jpg"
-    },
-    {
-      "videoId": "biDAZvg67tY",
-      "title": "🔴 TRỰC TIẾP: BOX GAMING vs BOOM ESPORTS | GIAI ĐOẠN PLAYOFFS | ĐTDV MÙA ĐÔNG 2026",
-      "title_original": "🔴 TRỰC TIẾP: BOX GAMING vs BOOM ESPORTS | GIAI ĐOẠN PLAYOFFS | ĐTDV MÙA ĐÔNG 2026",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-10-25T05:05:59Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/biDAZvg67tY/maxresdefault.jpg"
     },
     {
       "videoId": "VdWttXUeHEw",
@@ -2177,28 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-10-15T13:08:59Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/FBtghluuCHY/maxresdefault.jpg"
-    },
-    {
-      "videoId": "5cmh0mVPpxo",
-      "title": "Amily Mạnh Tới Mức Tôi Bắt Đầu Khinh Địch… Và Suýt…",
-      "title_original": "Amily Mạnh Tới Mức Tôi Bắt Đầu Khinh Địch… Và Suýt…",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-10-15T13:02:12Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/5cmh0mVPpxo/maxresdefault.jpg"
-    },
-    {
-      "videoId": "Wt4aljOgMjc",
-      "title": "《Garena傳說對決》英雄放大鏡 _ 至黯造物「艾薇塔」",
-      "title_original": "《Garena傳說對決》英雄放大鏡 _ 至黯造物「艾薇塔」",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-10-15T12:24:39Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/Wt4aljOgMjc/maxresdefault.jpg"
     }
   ]
 }
