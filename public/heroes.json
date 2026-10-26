@@ -48,8 +48,7 @@
         "nhTnyMMmWTc",
         "fGeMspt1Wq4",
         "04HU9Pc6Ijk",
-        "OP9PAkENDPo",
-        "Q-k6Z7qAKLU"
+        "OP9PAkENDPo"
       ]
     },
     {
@@ -833,11 +832,13 @@
         "Yorn"
       ],
       "tier": "S",
-      "tier_reason": "Được gán từ dữ liệu hạt giống (Seed S-Tier) do ít video mới (Hot Count: 0)",
+      "tier_reason": "Được gán từ dữ liệu hạt giống (Seed S-Tier) do ít video mới (Hot Count: 1)",
       "hot": false,
-      "hot_count": 0,
+      "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/7/71/Gildur_Default.jpg/revision/latest/scale-to-width-down/500?cb=20180327112635",
-      "related_videos": []
+      "related_videos": [
+        "TpBVRgW-8M4"
+      ]
     },
     {
       "id": "alice",
@@ -1482,9 +1483,9 @@
         "Krixi"
       ],
       "tier": "B",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 0)",
+      "tier_reason": "Xuất hiện 3 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
-      "hot_count": 2,
+      "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/8/84/Veres_profile.jpg/revision/latest/scale-to-width-down/500?cb=20200603115909",
       "related_videos": [
         "dZhgrY_jtXg",
@@ -2901,13 +2902,11 @@
       "counters": [],
       "synergies": [],
       "tier": "B",
-      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/d/d3/Capheny_profile.jpg/revision/latest/scale-to-width-down/500?cb=20200531224240",
-      "related_videos": [
-        "TQcwvXLwmz8"
-      ]
+      "related_videos": []
     },
     {
       "id": "charlotte",
@@ -4435,11 +4434,14 @@
       "counters": [],
       "synergies": [],
       "tier": "B",
-      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 0)",
       "hot": false,
-      "hot_count": 0,
+      "hot_count": 2,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/b/b1/Tachi_Splash_Art.jpeg/revision/latest/scale-to-width-down/500?cb=20211002035107",
-      "related_videos": []
+      "related_videos": [
+        "QGbCo2deeEs",
+        "shIzyUgD-ww"
+      ]
     },
     {
       "id": "teemee",
@@ -4918,5 +4920,5 @@
       "related_videos": []
     }
   ],
-  "updated_at": "2026-10-26T11:00:30Z"
+  "updated_at": "2026-10-26T17:20:11Z"
 }
