@@ -186,9 +186,7 @@
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/4/40/Violet_Default.jpg/revision/latest/scale-to-width-down/500?cb=20180325101918",
-      "related_videos": [
-        "dOwLO1rp_sg"
-      ]
+      "related_videos": []
     },
     {
       "id": "laville",
@@ -646,7 +644,7 @@
       "tier": "A",
       "tier_reason": "Xuất hiện 2 lần trong video/tin tức 14 ngày qua (Score: 1)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/8/8e/Xeniel_Default.png/revision/latest/scale-to-width-down/500?cb=20180315073018",
       "related_videos": [
         "DzsAr6aW5h8",
@@ -1485,7 +1483,7 @@
       "tier": "B",
       "tier_reason": "Xuất hiện 3 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/8/84/Veres_profile.jpg/revision/latest/scale-to-width-down/500?cb=20200603115909",
       "related_videos": [
         "dZhgrY_jtXg",
@@ -1577,11 +1575,14 @@
         "Grakk"
       ],
       "tier": "B",
-      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 0)",
       "hot": false,
-      "hot_count": 0,
+      "hot_count": 2,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/d/d2/Ilumia_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125054441",
-      "related_videos": []
+      "related_videos": [
+        "CapMSeNaje4",
+        "DPeG-ro6vEY"
+      ]
     },
     {
       "id": "zip",
@@ -2324,8 +2325,7 @@
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/a/a3/Raz_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125091551",
       "related_videos": [
         "wLykjZHhNPo",
-        "6kOwAVLEyV0",
-        "wjh-8ZueO6g"
+        "6kOwAVLEyV0"
       ]
     },
     {
@@ -2672,11 +2672,13 @@
       "counters": [],
       "synergies": [],
       "tier": "B",
-      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
-      "hot_count": 0,
+      "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/0/0c/Bijan.jpg/revision/latest?cb=20230718044752",
-      "related_videos": []
+      "related_videos": [
+        "ESeEXbDtacc"
+      ]
     },
     {
       "id": "biron",
@@ -3212,11 +3214,12 @@
       "counters": [],
       "synergies": [],
       "tier": "A",
-      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 1)",
+      "tier_reason": "Xuất hiện 2 lần trong video/tin tức 14 ngày qua (Score: 1)",
       "hot": false,
-      "hot_count": 0,
+      "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/c/cf/Eland%27orr_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20210106151741",
       "related_videos": [
+        "EpjIs2-D8Os",
         "QGvLjtJkDnQ"
       ]
     },
@@ -3689,13 +3692,11 @@
       "counters": [],
       "synergies": [],
       "tier": "B",
-      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/f/fd/Kriknak_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125054238",
-      "related_videos": [
-        "OkD81IYDpLY"
-      ]
+      "related_videos": []
     },
     {
       "id": "krizzix",
@@ -4919,5 +4920,5 @@
       "related_videos": []
     }
   ],
-  "updated_at": "2026-10-27T07:42:09Z"
+  "updated_at": "2026-10-27T14:22:26Z"
 }
