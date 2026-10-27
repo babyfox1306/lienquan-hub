@@ -39,11 +39,12 @@
         "Krixi"
       ],
       "tier": "A",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 5, Score: 1)",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 6, Score: 1)",
       "hot": true,
-      "hot_count": 5,
+      "hot_count": 6,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/3/3f/Nakroth_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20201224121203",
       "related_videos": [
+        "Nq6MNZCf4IE",
         "gBFXv082CaY",
         "nhTnyMMmWTc",
         "fGeMspt1Wq4",
@@ -186,8 +187,7 @@
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/4/40/Violet_Default.jpg/revision/latest/scale-to-width-down/500?cb=20180325101918",
       "related_videos": [
-        "dOwLO1rp_sg",
-        "-xgqU23mM4U"
+        "dOwLO1rp_sg"
       ]
     },
     {
@@ -3214,7 +3214,7 @@
       "tier": "A",
       "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 1)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/c/cf/Eland%27orr_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20210106151741",
       "related_videos": [
         "QGvLjtJkDnQ"
@@ -3456,14 +3456,12 @@
       },
       "counters": [],
       "synergies": [],
-      "tier": "C",
-      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: -1)",
+      "tier": "B",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/d/d1/HelenSkinSplash1.jpg/revision/latest/scale-to-width-down/500?cb=20260914012516",
-      "related_videos": [
-        "_tcBXqgUAp8"
-      ]
+      "related_videos": []
     },
     {
       "id": "iggy",
@@ -4921,5 +4919,5 @@
       "related_videos": []
     }
   ],
-  "updated_at": "2026-10-27T02:01:53Z"
+  "updated_at": "2026-10-27T07:42:09Z"
 }
