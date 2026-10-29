@@ -3211,11 +3211,12 @@
       "counters": [],
       "synergies": [],
       "tier": "B",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 0)",
-      "hot": false,
-      "hot_count": 2,
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 3, Score: 0)",
+      "hot": true,
+      "hot_count": 3,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/c/cf/Eland%27orr_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20210106151741",
       "related_videos": [
+        "SAO0mJuHqS8",
         "S4xWwcka3Xc",
         "EpjIs2-D8Os"
       ]
@@ -4745,13 +4746,12 @@
       "counters": [],
       "synergies": [],
       "tier": "A",
-      "tier_reason": "Xuất hiện 2 lần trong video/tin tức 14 ngày qua (Score: 2)",
+      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 1)",
       "hot": false,
       "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/3/34/Yan_Splash_Art.jpeg/revision/latest/scale-to-width-down/500?cb=20220507030356",
       "related_videos": [
-        "czA22xdVz2M",
-        "GQJcDor4tfQ"
+        "czA22xdVz2M"
       ]
     },
     {
@@ -4916,5 +4916,5 @@
       "related_videos": []
     }
   ],
-  "updated_at": "2026-10-29T12:46:58Z"
+  "updated_at": "2026-10-29T19:00:48Z"
 }
