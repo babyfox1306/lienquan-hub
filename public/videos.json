@@ -1,6 +1,28 @@
 {
   "videos": [
     {
+      "videoId": "sAvUXGPQCHQ",
+      "title": "🔴COSTREAM: QUEENS OF GLORY | CHUNG KẾT",
+      "title_original": "🔴COSTREAM: QUEENS OF GLORY | CHUNG KẾT",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-11-01T21:26:13Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/sAvUXGPQCHQ/maxresdefault.jpg"
+    },
+    {
+      "videoId": "ERCUlZR8PO4",
+      "title": "Cao Thu Tai Xuat Giang Ho",
+      "title_original": "Cao Thu Tai Xuat Giang Ho",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-11-01T19:58:05Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/ERCUlZR8PO4/maxresdefault.jpg"
+    },
+    {
       "videoId": "uGsvpam6Z9o",
       "title": "🔴 TRỰC TIẾP: QUEENS OF GLORY | CHUNG KẾT",
       "title_original": "🔴 TRỰC TIẾP: QUEENS OF GLORY | CHUNG KẾT",
@@ -23,17 +45,6 @@
       "thumbnailUrl": "https://i.ytimg.com/vi/aFQnJc-TyNo/maxresdefault.jpg"
     },
     {
-      "videoId": "ERCUlZR8PO4",
-      "title": "Cao Thu Tai Xuat Giang Ho",
-      "title_original": "Cao Thu Tai Xuat Giang Ho",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-11-01T15:17:40Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/ERCUlZR8PO4/maxresdefault.jpg"
-    },
-    {
       "videoId": "FCC9N_Oia9k",
       "title": "🔴 TRỰC TIẾP: CT vs ĐNI | TN vs PT | PLAYOFFS 01/11 | TỨ PHƯƠNG ĐẠI CHIẾN 26+",
       "title_original": "🔴 TRỰC TIẾP: CT vs ĐNI | TN vs PT | PLAYOFFS 01/11 | TỨ PHƯƠNG ĐẠI CHIẾN 26+",
@@ -54,17 +65,6 @@
       "source": "youtube",
       "publishedAt": "2026-11-01T14:55:12Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/ZZij7JCUJ2I/maxresdefault.jpg"
-    },
-    {
-      "videoId": "sAvUXGPQCHQ",
-      "title": "🔴COSTREAM: QUEENS OF GLORY | CHUNG KẾT",
-      "title_original": "🔴COSTREAM: QUEENS OF GLORY | CHUNG KẾT",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-11-01T13:53:19Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/sAvUXGPQCHQ/maxresdefault.jpg"
     },
     {
       "videoId": "E3jx6qrCOrI",
