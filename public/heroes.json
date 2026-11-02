@@ -38,16 +38,15 @@
         "Thane",
         "Krixi"
       ],
-      "tier": "A",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 1)",
+      "tier": "B",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 0)",
       "hot": false,
       "hot_count": 2,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/3/3f/Nakroth_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20201224121203",
       "related_videos": [
         "Rd42O9u0ryw",
         "Nq6MNZCf4IE",
-        "gBFXv082CaY",
-        "nhTnyMMmWTc"
+        "gBFXv082CaY"
       ]
     },
     {
@@ -1573,11 +1572,12 @@
         "Grakk"
       ],
       "tier": "B",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 3, Score: 0)",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 4, Score: 0)",
       "hot": true,
-      "hot_count": 3,
+      "hot_count": 4,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/d/d2/Ilumia_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125054441",
       "related_videos": [
+        "WKq-exNZSXk",
         "LE_ER_feQJ8",
         "CapMSeNaje4",
         "DPeG-ro6vEY"
@@ -2129,14 +2129,12 @@
         "Alice",
         "Krixi"
       ],
-      "tier": "A",
-      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 1)",
+      "tier": "B",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/6/60/Zephys_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125082336",
-      "related_videos": [
-        "nhTnyMMmWTc"
-      ]
+      "related_videos": []
     },
     {
       "id": "arthur",
@@ -2328,8 +2326,7 @@
       "related_videos": [
         "Oy5WEX6PuLU",
         "kiiqiCYorlA",
-        "wLykjZHhNPo",
-        "6kOwAVLEyV0"
+        "wLykjZHhNPo"
       ]
     },
     {
@@ -3256,9 +3253,9 @@
       "counters": [],
       "synergies": [],
       "tier": "S",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 3, Score: 3)",
-      "hot": true,
-      "hot_count": 3,
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 3)",
+      "hot": false,
+      "hot_count": 2,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/e/e6/Enzo_profile.jpg/revision/latest/scale-to-width-down/500?cb=20200531224410",
       "related_videos": [
         "k9nzEoy4smc",
@@ -4239,7 +4236,7 @@
       "tier": "C",
       "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: -1)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/5/59/Sephera_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125045857",
       "related_videos": [
         "DES_Q5MVuz4"
@@ -4434,11 +4431,12 @@
       "counters": [],
       "synergies": [],
       "tier": "A",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 3, Score: 1)",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 4, Score: 1)",
       "hot": true,
-      "hot_count": 3,
+      "hot_count": 4,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/b/b1/Tachi_Splash_Art.jpeg/revision/latest/scale-to-width-down/500?cb=20211002035107",
       "related_videos": [
+        "dMMrbrVJL8I",
         "l7agcsxYkN0",
         "QGbCo2deeEs",
         "shIzyUgD-ww"
@@ -4750,14 +4748,12 @@
       },
       "counters": [],
       "synergies": [],
-      "tier": "A",
-      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 1)",
+      "tier": "B",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/3/34/Yan_Splash_Art.jpeg/revision/latest/scale-to-width-down/500?cb=20220507030356",
-      "related_videos": [
-        "czA22xdVz2M"
-      ]
+      "related_videos": []
     },
     {
       "id": "ybneth",
@@ -4921,5 +4917,5 @@
       "related_videos": []
     }
   ],
-  "updated_at": "2026-11-02T02:21:39Z"
+  "updated_at": "2026-11-02T10:54:25Z"
 }
