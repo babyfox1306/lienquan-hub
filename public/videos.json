@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "WKD6qG-Foz0",
+      "title": "ACS 2026 冬季例行賽 W6D2 - 2026/11/4《Garena 傳說對決》",
+      "title_original": "ACS 2026 冬季例行賽 W6D2 - 2026/11/4《Garena 傳說對決》",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-11-04T14:19:01Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/WKD6qG-Foz0/maxresdefault.jpg"
+    },
+    {
       "videoId": "zzhxosKr58o",
       "title": "Zuka Gần Cạn Máu Vẫn Lao Vào Hayate… Cú Liều Hay Pha Outplay?!",
       "title_original": "Zuka Gần Cạn Máu Vẫn Lao Vào Hayate… Cú Liều Hay Pha Outplay?!",
@@ -54,17 +65,6 @@
       "source": "youtube",
       "publishedAt": "2026-11-04T09:11:51Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/Z482lDP_H2s/maxresdefault.jpg"
-    },
-    {
-      "videoId": "WKD6qG-Foz0",
-      "title": "ACS 2026 冬季例行賽 W6D2 - 2026/11/4《Garena 傳說對決》",
-      "title_original": "ACS 2026 冬季例行賽 W6D2 - 2026/11/4《Garena 傳說對決》",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-11-04T08:31:00Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/WKD6qG-Foz0/maxresdefault.jpg"
     },
     {
       "videoId": "2TYLjD82v8s",
