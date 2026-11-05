@@ -829,9 +829,7 @@
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/7/71/Gildur_Default.jpg/revision/latest/scale-to-width-down/500?cb=20180327112635",
-      "related_videos": [
-        "TpBVRgW-8M4"
-      ]
+      "related_videos": []
     },
     {
       "id": "alice",
@@ -3214,7 +3212,7 @@
       "tier": "B",
       "tier_reason": "Xuất hiện 3 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/c/cf/Eland%27orr_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20210106151741",
       "related_videos": [
         "SAO0mJuHqS8",
@@ -4427,11 +4425,12 @@
       "counters": [],
       "synergies": [],
       "tier": "A",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 4, Score: 1)",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 5, Score: 1)",
       "hot": true,
-      "hot_count": 4,
+      "hot_count": 5,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/b/b1/Tachi_Splash_Art.jpeg/revision/latest/scale-to-width-down/500?cb=20211002035107",
       "related_videos": [
+        "M681HXeATdA",
         "LP7r5JUIabQ",
         "Z482lDP_H2s",
         "dMMrbrVJL8I",
@@ -4915,5 +4914,5 @@
       ]
     }
   ],
-  "updated_at": "2026-11-05T10:43:25Z"
+  "updated_at": "2026-11-05T18:44:42Z"
 }
