@@ -1,6 +1,28 @@
 {
   "videos": [
     {
+      "videoId": "7Dh_6laDSLA",
+      "title": "team 5 giai tri",
+      "title_original": "team 5 giai tri",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-11-06T19:59:07Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/7Dh_6laDSLA/maxresdefault.jpg"
+    },
+    {
+      "videoId": "7kCRgqFtssA",
+      "title": "Làm trận Elsu gồi đi ngủ",
+      "title_original": "Làm trận Elsu gồi đi ngủ",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-11-06T19:40:41Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/7kCRgqFtssA/maxresdefault.jpg"
+    },
+    {
       "videoId": "IiFlUjqYAMc",
       "title": "【賽後訪問】從第六名到 GCS 新王,這是 ANK 的獸煌金盃之路🔥",
       "title_original": "【賽後訪問】從第六名到 GCS 新王,這是 ANK 的獸煌金盃之路🔥",
@@ -2177,28 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-10-27T10:00:12Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/DPeG-ro6vEY/maxresdefault.jpg"
-    },
-    {
-      "videoId": "EpjIs2-D8Os",
-      "title": " HIU NG CHIU THC | ELAND'ORR LNH CHA C HNH ",
-      "title_original": " HIU NG CHIU THC | ELAND'ORR LNH CHA C HNH ",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-10-27T08:00:02Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/EpjIs2-D8Os/maxresdefault.jpg"
-    },
-    {
-      "videoId": "slrbUmmuVcU",
-      "title": "SKIN Spotlight | Bolt Baron × Veldora Tempest",
-      "title_original": "SKIN Spotlight | Bolt Baron × Veldora Tempest",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-10-27T07:19:50Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/slrbUmmuVcU/maxresdefault.jpg"
     }
   ]
 }
