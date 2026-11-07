@@ -1,6 +1,39 @@
 {
   "videos": [
     {
+      "videoId": "XsiAwYIuGXI",
+      "title": "KHOẢNH KHẮC ẤN TƯỢNG NGÀY 1 CỦA LIÊN QUÂN 10FEST",
+      "title_original": "KHOẢNH KHẮC ẤN TƯỢNG NGÀY 1 CỦA LIÊN QUÂN 10FEST",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-11-07T16:23:00Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/XsiAwYIuGXI/maxresdefault.jpg"
+    },
+    {
+      "videoId": "HRgfpUSXP58",
+      "title": "Nghỉ Stream LIÊN QUÂN Ở YOUTUBE 1 Thời Gian ''Dài''",
+      "title_original": "Nghỉ Stream LIÊN QUÂN Ở YOUTUBE 1 Thời Gian ''Dài''",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-11-07T16:02:33Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/HRgfpUSXP58/maxresdefault.jpg"
+    },
+    {
+      "videoId": "_spkxhx_7XA",
+      "title": "Và thôi rồi SGP",
+      "title_original": "Và thôi rồi SGP",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-11-07T14:15:23Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/_spkxhx_7XA/maxresdefault.jpg"
+    },
+    {
       "videoId": "89SjgIPc0AI",
       "title": "🔴LAI BÂNG REACTION: FPT POLYTECHNIC VS BOOM ESPORTS | GRAND FINAL | ĐTDV MÙA ĐÔNG 2026",
       "title_original": "🔴LAI BÂNG REACTION: FPT POLYTECHNIC VS BOOM ESPORTS | GRAND FINAL | ĐTDV MÙA ĐÔNG 2026",
@@ -21,17 +54,6 @@
       "source": "youtube",
       "publishedAt": "2026-11-07T10:24:14Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/D7L630IYc7U/maxresdefault.jpg"
-    },
-    {
-      "videoId": "_spkxhx_7XA",
-      "title": "Và thôi rồi SGP",
-      "title_original": "Và thôi rồi SGP",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-11-07T10:10:25Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/_spkxhx_7XA/maxresdefault.jpg"
     },
     {
       "videoId": "dYuLPZaakzc",
@@ -2177,28 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-10-27T13:49:25Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/vOvQroaWbU4/maxresdefault.jpg"
-    },
-    {
-      "videoId": "pcrmHIP1N1E",
-      "title": "HUE vs CT | NA vs SGU | PLAYOFFS 27.10 | TỨ PHƯƠNG ĐẠI CHIẾN MÙA ĐÔNG 2026",
-      "title_original": "HUE vs CT | NA vs SGU | PLAYOFFS 27.10 | TỨ PHƯƠNG ĐẠI CHIẾN MÙA ĐÔNG 2026",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-10-27T13:40:52Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/pcrmHIP1N1E/maxresdefault.jpg"
-    },
-    {
-      "videoId": "JeTw5l6C120",
-      "title": "คุยกับทีมแชมป์ ⚡️Buriram United Esports หลังคว้าแชมป์ RoV Pro League 2026 Winter🏆",
-      "title_original": "คุยกับทีมแชมป์ ⚡️Buriram United Esports หลังคว้าแชมป์ RoV Pro League 2026 Winter🏆",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-10-27T13:06:21Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/JeTw5l6C120/maxresdefault.jpg"
     }
   ]
 }
