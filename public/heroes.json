@@ -1337,13 +1337,12 @@
         "Mina"
       ],
       "tier": "B",
-      "tier_reason": "Xuất hiện 2 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
       "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/0/06/Elsu_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125051727",
       "related_videos": [
-        "7kCRgqFtssA",
-        "LIyfJW37sR8"
+        "7kCRgqFtssA"
       ]
     },
     {
@@ -1574,9 +1573,9 @@
         "Grakk"
       ],
       "tier": "B",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 0)",
+      "tier_reason": "Xuất hiện 2 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
-      "hot_count": 2,
+      "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/d/d2/Ilumia_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125054441",
       "related_videos": [
         "WKq-exNZSXk",
@@ -1714,14 +1713,12 @@
         "Krixi",
         "Tulen"
       ],
-      "tier": "A",
-      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 1)",
+      "tier": "B",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/f/f9/Arduin_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125053226",
-      "related_videos": [
-        "2K58qVqAE60"
-      ]
+      "related_videos": []
     },
     {
       "id": "chaugnar",
@@ -2324,6 +2321,7 @@
       "hot_count": 2,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/a/a3/Raz_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125091551",
       "related_videos": [
+        "4ZrUK0lkyU8",
         "RK5Nd2fqjx8",
         "Oy5WEX6PuLU",
         "kiiqiCYorlA"
@@ -3209,13 +3207,12 @@
       "counters": [],
       "synergies": [],
       "tier": "B",
-      "tier_reason": "Xuất hiện 2 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/c/cf/Eland%27orr_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20210106151741",
       "related_videos": [
-        "SAO0mJuHqS8",
-        "S4xWwcka3Xc"
+        "SAO0mJuHqS8"
       ]
     },
     {
@@ -3841,7 +3838,7 @@
       "tier": "B",
       "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/8/83/Max_new_splash_art.jpg/revision/latest/scale-to-width-down/500?cb=20260619164130",
       "related_videos": [
         "LE_ER_feQJ8"
@@ -4191,12 +4188,14 @@
       },
       "counters": [],
       "synergies": [],
-      "tier": "B",
-      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier": "A",
+      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 1)",
       "hot": false,
-      "hot_count": 0,
+      "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/f/f2/Ryoma_Gunslinger.png/revision/latest/scale-to-width-down/500?cb=20180313083407",
-      "related_videos": []
+      "related_videos": [
+        "S6RPz7oXnX0"
+      ]
     },
     {
       "id": "sephera",
@@ -4587,11 +4586,12 @@
       "counters": [],
       "synergies": [],
       "tier": "B",
-      "tier_reason": "Xuất hiện 2 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 0)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 2,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/3/35/Veera_profile.png/revision/latest/scale-to-width-down/500?cb=20170525133701",
       "related_videos": [
+        "4ZrUK0lkyU8",
         "RK5Nd2fqjx8",
         "kiiqiCYorlA"
       ]
@@ -4872,8 +4872,7 @@
         "nfeNVhP2Uis",
         "XOhSXOQ6UXI",
         "uoiS2_tf668",
-        "kiiqiCYorlA",
-        "LIyfJW37sR8"
+        "kiiqiCYorlA"
       ]
     },
     {
@@ -4919,5 +4918,5 @@
       ]
     }
   ],
-  "updated_at": "2026-11-08T02:18:52Z"
+  "updated_at": "2026-11-08T17:05:16Z"
 }
