@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-11-09T20:41:25.520866",
+  "last_updated": "2026-11-10T03:26:00.471620",
   "total_news": 100,
   "news": [
+    {
+      "id": "ed17a13db356",
+      "title": "Thông báo về lỗi sự kiện Iggy Rimuru Tempest",
+      "link": "https://lienquan.garena.vn/thong-bao-ve-loi-su-kien-iggy-rimuru-tempest/",
+      "summary": "<p>Thông báo về lỗi sự kiện Iggy Rimuru Tempest Vào ngày 06/01, do lỗi hệ thống, trang phục Iggy Rimuru Tempest cùng các phụ kiện đã được gửi nhầm đến những Kiện tướng chưa sở [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/thong-bao-ve-loi-su-kien-iggy-rimuru-tempest/\">Thông báo về lỗi sự kiện Iggy Rimuru Tempest</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/07/img-share.jpg",
+      "source": "Liên Quân Mobile Official",
+      "source_url": "https://lienquan.garena.vn/rss",
+      "published_at": "2026-11-10T03:06:26Z",
+      "crawled_at": "2026-11-10T03:21:02.492678",
+      "category": "tướng",
+      "priority": 1
+    },
     {
       "id": "f6d39725172a",
       "title": "ĐIỀU CHỈNH GIỮA MÙA PB VẾT NỨT THỜI KHÔNG – 30.10.2026",
@@ -1287,19 +1300,6 @@
       "published_at": "2026-04-09T04:08:57Z",
       "crawled_at": "2026-04-09T04:55:14.756227",
       "category": "esports",
-      "priority": 1
-    },
-    {
-      "id": "2f8a3c5bda03",
-      "title": "Mở bán trang phục Volkath Ma Ảnh Thần Đao",
-      "link": "https://lienquan.garena.vn/mo-ban-trang-phuc-volkath-ma-anh-than-dao/",
-      "summary": "<p>Xin chào các Kiện Tướng Hội Đồng xin gửi tới các bạn ưu đãi: Mở bán trang phục Volkath Ma Ảnh Thần Đao &#160; &#160; NỘI DUNG VÀ THỜI GIAN Từ ngày 08/04/2026 &#8211; 30/04/2026 : Mở [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/mo-ban-trang-phuc-volkath-ma-anh-than-dao/\">Mở bán trang phục Volkath Ma Ảnh Thần Đao</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
-      "image_url": null,
-      "source": "Liên Quân Mobile Official",
-      "source_url": "https://lienquan.garena.vn/rss",
-      "published_at": "2026-04-08T08:55:30Z",
-      "crawled_at": "2026-04-08T09:20:49.621041",
-      "category": "tướng",
       "priority": 1
     }
   ]
