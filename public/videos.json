@@ -1,6 +1,39 @@
 {
   "videos": [
     {
+      "videoId": "xEJYNF-5fYo",
+      "title": "Chơi Thử Liên Quân Mobile - NGÀY 7",
+      "title_original": "Chơi Thử Liên Quân Mobile - NGÀY 7",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-11-12T07:30:01Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/xEJYNF-5fYo/maxresdefault.jpg"
+    },
+    {
+      "videoId": "q7QpGl9Hjc4",
+      "title": "Team 5 giai tr",
+      "title_original": "Team 5 giai tr",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-11-12T07:26:26Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/q7QpGl9Hjc4/maxresdefault.jpg"
+    },
+    {
+      "videoId": "2TdnDOF7zr8",
+      "title": "TOP 5 Tướng Khắc Chế YENA, Kèo Meta S4 2026 | TNG",
+      "title_original": "TOP 5 Tướng Khắc Chế YENA, Kèo Meta S4 2026 | TNG",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-11-12T03:28:04Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/2TdnDOF7zr8/maxresdefault.jpg"
+    },
+    {
       "videoId": "Jjk-MAfIuiw",
       "title": "Chơi Thử Liên Quân Mobile - NGÀY 6",
       "title_original": "Chơi Thử Liên Quân Mobile - NGÀY 6",
@@ -2166,39 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-10-29T11:18:20Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/uZjq0mD3BR0/maxresdefault.jpg"
-    },
-    {
-      "videoId": "biYl3DmQjDY",
-      "title": "🔴 TRỰC TIẾP: LỄ BỐC THĂM WILDCARD | AIC 2026 (NGÀY 29/10)",
-      "title_original": "🔴 TRỰC TIẾP: LỄ BỐC THĂM WILDCARD | AIC 2026 (NGÀY 29/10)",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-10-29T11:15:40Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/biYl3DmQjDY/maxresdefault.jpg"
-    },
-    {
-      "videoId": "z296O84CXiM",
-      "title": "AIC 2026 外卡賽抽籤-2026/10/29《Garena傳說對決》",
-      "title_original": "AIC 2026 外卡賽抽籤-2026/10/29《Garena傳說對決》",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-10-29T11:15:16Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/z296O84CXiM/maxresdefault.jpg"
-    },
-    {
-      "videoId": "EgmCmaYRATU",
-      "title": "🔴 TRỰC TIẾP: LỄ BỐC THĂM WILDCARD | AIC 2026 (NGÀY 29/10)",
-      "title_original": "🔴 TRỰC TIẾP: LỄ BỐC THĂM WILDCARD | AIC 2026 (NGÀY 29/10)",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-10-29T11:15:11Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/EgmCmaYRATU/maxresdefault.jpg"
     }
   ]
 }

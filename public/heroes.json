@@ -268,11 +268,12 @@
         "Tulen"
       ],
       "tier": "A",
-      "tier_reason": "Được gán từ dữ liệu hạt giống (Seed A-Tier) do ít video mới (Hot Count: 1)",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 1)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 2,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/5/5a/Yena_profile.jpg/revision/latest/scale-to-width-down/500?cb=20200531224619",
       "related_videos": [
+        "2TdnDOF7zr8",
         "nfeNVhP2Uis"
       ]
     },
@@ -4918,5 +4919,5 @@
       ]
     }
   ],
-  "updated_at": "2026-11-12T00:28:37Z"
+  "updated_at": "2026-11-12T08:12:11Z"
 }
