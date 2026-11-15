@@ -1015,12 +1015,14 @@
         "Grakk",
         "Toro"
       ],
-      "tier": "B",
-      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier": "A",
+      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 1)",
       "hot": false,
-      "hot_count": 0,
+      "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/e/e7/Maloch_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125090603",
-      "related_videos": []
+      "related_videos": [
+        "B8M7bjMDw_0"
+      ]
     },
     {
       "id": "krixi",
@@ -1112,9 +1114,7 @@
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/2/2c/Tulen_Splash.jpeg/revision/latest/scale-to-width-down/500?cb=20180102103714",
-      "related_videos": [
-        "Nzma63tW1Fg"
-      ]
+      "related_videos": []
     },
     {
       "id": "ignis",
@@ -3260,9 +3260,7 @@
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/e/e6/Enzo_profile.jpg/revision/latest/scale-to-width-down/500?cb=20200531224410",
-      "related_videos": [
-        "k9nzEoy4smc"
-      ]
+      "related_videos": []
     },
     {
       "id": "erin",
@@ -3304,8 +3302,7 @@
       "related_videos": [
         "3N5lLGbVA3Q",
         "hoUwhNQMv3E",
-        "fRu78QjT9_o",
-        "UI50hnNdCSQ"
+        "fRu78QjT9_o"
       ]
     },
     {
@@ -4929,5 +4926,5 @@
       ]
     }
   ],
-  "updated_at": "2026-11-15T09:07:54Z"
+  "updated_at": "2026-11-15T17:00:23Z"
 }
