@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "MWeftjHWGu8",
+      "title": "Cang Roi team 5",
+      "title_original": "Cang Roi team 5",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-11-15T17:03:10Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/MWeftjHWGu8/maxresdefault.jpg"
+    },
+    {
       "videoId": "EcrFNrYqcvE",
       "title": "LUẬN BÀN: MIC CHECK SGP vs BME | CƠ HỘI FPT, GAM Ở WILDCARD AIC 2026 | BLV NAMSENSEI",
       "title_original": "LUẬN BÀN: MIC CHECK SGP vs BME | CƠ HỘI FPT, GAM Ở WILDCARD AIC 2026 | BLV NAMSENSEI",
@@ -54,17 +65,6 @@
       "source": "youtube",
       "publishedAt": "2026-11-15T15:17:59Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/DW-V-ZYcgUg/maxresdefault.jpg"
-    },
-    {
-      "videoId": "MWeftjHWGu8",
-      "title": "Cang Roi team 5",
-      "title_original": "Cang Roi team 5",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-11-15T15:12:04Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/MWeftjHWGu8/maxresdefault.jpg"
     },
     {
       "videoId": "HKnBv0cudBo",
