@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-11-16T01:50:22.037317",
+  "last_updated": "2026-11-16T09:24:48.364188",
   "total_news": 100,
   "news": [
+    {
+      "id": "4567ad62db95",
+      "title": "ĐIỀU CHỈNH GIỮA MÙA PB VẾT NỨT THỜI KHÔNG – 17.11.2026",
+      "link": "https://lienquan.garena.vn/dieu-chinh-giua-mua-pb-vet-nut-thoi-khong-17-11-2026/",
+      "summary": "<p>Xin chào các Kiện Tướng, Liên Quân Mobile sẽ tiến hành cập nhật không gián đoạn cho máy chủ chính thức vào ngày 17/11/2026. Trong thời gian quy định, các Kiện tướng có thể tự chọn thời điểm [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/dieu-chinh-giua-mua-pb-vet-nut-thoi-khong-17-11-2026/\">ĐIỀU CHỈNH GIỮA MÙA PB VẾT NỨT THỜI KHÔNG – 17.11.2026</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2026/11/IMG-HOR-0860x0400-117643-copy-of-12.jpg",
+      "source": "Liên Quân Mobile Official",
+      "source_url": "https://lienquan.garena.vn/rss",
+      "published_at": "2026-11-16T03:43:15Z",
+      "crawled_at": "2026-11-16T09:19:48.564762",
+      "category": "tướng",
+      "priority": 1
+    },
     {
       "id": "ed36aca90c07",
       "title": "CHINH PHỤC NGÔI VƯƠNG THẬP KỶ – KHẮC GHI DẤU ẤN CỘNG ĐỒNG | CHUNG KẾT TỨ PHƯƠNG ĐẠI CHIẾN MÙA ĐÔNG 2026",
@@ -1286,19 +1299,6 @@
       "source_url": "https://lienquan.garena.vn/rss",
       "published_at": "2026-04-22T04:04:57Z",
       "crawled_at": "2026-04-22T04:05:52.235003",
-      "category": "tướng",
-      "priority": 1
-    },
-    {
-      "id": "da640354fcd1",
-      "title": "TỔNG KẾT CUỘC THI “ĐUA TOP LEADER TỔ CHỨC SỰ KIỆN CỘNG ĐỒNG LIÊN QUÂN” QUÝ I (01/01 – 31/03/2026)",
-      "link": "https://lienquan.garena.vn/tong-ket-cuoc-thi-dua-top-leader-to-chuc-su-kien-cong-dong-lien-quan-quy-i-01-01-31-03-2026/",
-      "summary": "<p>Xin chào các Kiện tướng, Sau 3 tháng diễn ra đầy sôi động, cuộc thi “Đua Top Leader Tổ Chức Sự Kiện Cộng Đồng Liên Quân” đã chính thức khép lại, để lại dấu ấn [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/tong-ket-cuoc-thi-dua-top-leader-to-chuc-su-kien-cong-dong-lien-quan-quy-i-01-01-31-03-2026/\">TỔNG KẾT CUỘC THI “ĐUA TOP LEADER TỔ CHỨC SỰ KIỆN CỘNG ĐỒNG LIÊN QUÂN” QUÝ I (01/01 – 31/03/2026)</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
-      "image_url": "https://picsum.photos/seed/https://lienquan.garena.vn/tong-ket-cuoc-thi-dua-top-leader-to-chuc-su-kien-cong-dong-lien-quan-quy-i-01-01-31-03-2026//400/225",
-      "source": "Liên Quân Mobile Official",
-      "source_url": "https://lienquan.garena.vn/rss",
-      "published_at": "2026-04-17T11:27:30Z",
-      "crawled_at": "2026-04-17T12:12:35.225622",
       "category": "tướng",
       "priority": 1
     }
