@@ -39,9 +39,9 @@
         "Krixi"
       ],
       "tier": "B",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 3, Score: 0)",
-      "hot": true,
-      "hot_count": 3,
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 0)",
+      "hot": false,
+      "hot_count": 2,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/3/3f/Nakroth_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20201224121203",
       "related_videos": [
         "A9gVCM83N5w",
@@ -1491,7 +1491,7 @@
       "tier": "A",
       "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 1)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/8/84/Veres_profile.jpg/revision/latest/scale-to-width-down/500?cb=20200603115909",
       "related_videos": [
         "O_pEOSQJJDs"
@@ -1911,7 +1911,7 @@
         "Thane"
       ],
       "tier": "B",
-      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/e/e8/Qi_profile.jpg/revision/latest/scale-to-width-down/500?cb=20200531224545",
@@ -2323,12 +2323,13 @@
         "Grakk",
         "Nakroth"
       ],
-      "tier": "B",
-      "tier_reason": "Xuất hiện 2 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier": "A",
+      "tier_reason": "Xuất hiện 3 lần trong video/tin tức 14 ngày qua (Score: 1)",
       "hot": false,
-      "hot_count": 0,
+      "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/a/a3/Raz_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125091551",
       "related_videos": [
+        "wk6pPx3LVzY",
         "4ZrUK0lkyU8",
         "RK5Nd2fqjx8"
       ]
@@ -2866,12 +2867,13 @@
       },
       "counters": [],
       "synergies": [],
-      "tier": "B",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 0)",
-      "hot": false,
-      "hot_count": 2,
+      "tier": "A",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 3, Score: 1)",
+      "hot": true,
+      "hot_count": 3,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/c/ca/Butterfly_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125083110",
       "related_videos": [
+        "1rPVWBJDn5s",
         "MB0dQQyRDgs",
         "U1e0wIEhPaY"
       ]
@@ -3142,7 +3144,7 @@
       "tier": "A",
       "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 1)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/e/e6/Dolia_Splash_Art.jpeg/revision/latest/scale-to-width-down/500?cb=20240710174030",
       "related_videos": [
         "HHLeqTK3F6E"
@@ -4928,5 +4930,5 @@
       ]
     }
   ],
-  "updated_at": "2026-11-17T03:36:47Z"
+  "updated_at": "2026-11-17T12:59:46Z"
 }
