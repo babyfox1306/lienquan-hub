@@ -1,6 +1,28 @@
 {
   "videos": [
     {
+      "videoId": "lFJVP2x0NcE",
+      "title": "PHIN BN MI: Erin Buff Li Game, Phi Auto Cm V C Ch ULTI Mi | TNG",
+      "title_original": "PHIN BN MI: Erin Buff Li Game, Phi Auto Cm V C Ch ULTI Mi | TNG",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-11-18T03:00:24Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/lFJVP2x0NcE/maxresdefault.jpg"
+    },
+    {
+      "videoId": "R4Q6L8Mu7dE",
+      "title": "RAZ LÚC TÀY LÚC TẬT",
+      "title_original": "RAZ LÚC TÀY LÚC TẬT",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-11-18T00:46:39Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/R4Q6L8Mu7dE/maxresdefault.jpg"
+    },
+    {
       "videoId": "nDAdsyp6CbE",
       "title": "LAI BÂNG + NGÂN BUTTER",
       "title_original": "LAI BÂNG + NGÂN BUTTER",
@@ -2177,28 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-11-02T02:47:34Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/FJXFV6865dg/maxresdefault.jpg"
-    },
-    {
-      "videoId": "XYVNHqffvEk",
-      "title": "Trải nghiệm Bolt Baron × Veldora Tempest: Đã đẹp mắt lại còn đánh \"thấm\" đến từng chiêu!",
-      "title_original": "Trải nghiệm Bolt Baron × Veldora Tempest: Đã đẹp mắt lại còn đánh \"thấm\" đến từng chiêu!",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-11-02T02:10:13Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/XYVNHqffvEk/maxresdefault.jpg"
-    },
-    {
-      "videoId": "sAvUXGPQCHQ",
-      "title": "🔴COSTREAM: QUEENS OF GLORY | CHUNG KẾT",
-      "title_original": "🔴COSTREAM: QUEENS OF GLORY | CHUNG KẾT",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-11-01T21:26:13Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/sAvUXGPQCHQ/maxresdefault.jpg"
     }
   ]
 }

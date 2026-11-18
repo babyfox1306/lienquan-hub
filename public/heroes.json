@@ -2324,11 +2324,12 @@
         "Nakroth"
       ],
       "tier": "A",
-      "tier_reason": "Xuất hiện 3 lần trong video/tin tức 14 ngày qua (Score: 1)",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 1)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 2,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/a/a3/Raz_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125091551",
       "related_videos": [
+        "R4Q6L8Mu7dE",
         "wk6pPx3LVzY",
         "4ZrUK0lkyU8",
         "RK5Nd2fqjx8"
@@ -3298,12 +3299,13 @@
       },
       "counters": [],
       "synergies": [],
-      "tier": "B",
-      "tier_reason": "Xuất hiện 2 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier": "A",
+      "tier_reason": "Xuất hiện 3 lần trong video/tin tức 14 ngày qua (Score: 1)",
       "hot": false,
-      "hot_count": 0,
+      "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/5/54/Erin_noi_tai.png/revision/latest?cb=20240411130433",
       "related_videos": [
+        "lFJVP2x0NcE",
         "3N5lLGbVA3Q",
         "hoUwhNQMv3E",
         "fRu78QjT9_o"
@@ -4930,5 +4932,5 @@
       ]
     }
   ],
-  "updated_at": "2026-11-17T21:42:42Z"
+  "updated_at": "2026-11-18T03:31:48Z"
 }
