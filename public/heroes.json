@@ -788,11 +788,13 @@
         "Krixi"
       ],
       "tier": "A",
-      "tier_reason": "Được gán từ dữ liệu hạt giống (Seed A-Tier) do ít video mới (Hot Count: 0)",
+      "tier_reason": "Được gán từ dữ liệu hạt giống (Seed A-Tier) do ít video mới (Hot Count: 1)",
       "hot": false,
-      "hot_count": 0,
+      "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/7/7c/Toro_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125082122",
-      "related_videos": []
+      "related_videos": [
+        "yaieN5nFcl4"
+      ]
     },
     {
       "id": "gildur",
@@ -3311,8 +3313,7 @@
       "related_videos": [
         "lFJVP2x0NcE",
         "3N5lLGbVA3Q",
-        "hoUwhNQMv3E",
-        "fRu78QjT9_o"
+        "hoUwhNQMv3E"
       ]
     },
     {
@@ -4926,7 +4927,7 @@
       "counters": [],
       "synergies": [],
       "tier": "A",
-      "tier_reason": "Xuất hiện 2 lần trong video/tin tức 14 ngày qua (Score: 1)",
+      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 1)",
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/9/9e/Zuka_Splash.png/revision/latest/scale-to-width-down/500?cb=20171204210621",
@@ -4936,5 +4937,5 @@
       ]
     }
   ],
-  "updated_at": "2026-11-18T12:53:40Z"
+  "updated_at": "2026-11-18T21:16:47Z"
 }

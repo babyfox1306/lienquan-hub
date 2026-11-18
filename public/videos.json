@@ -1,6 +1,39 @@
 {
   "videos": [
     {
+      "videoId": "I6gtlE7BDfs",
+      "title": "LAI BÂNG + NGÂN BUTTER",
+      "title_original": "LAI BÂNG + NGÂN BUTTER",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-11-18T16:46:26Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/I6gtlE7BDfs/maxresdefault.jpg"
+    },
+    {
+      "videoId": "yaieN5nFcl4",
+      "title": "Toro Ln  G M Team ch Phi Gi Bng NG NI?!",
+      "title_original": "Toro Ln  G M Team ch Phi Gi Bng NG NI?!",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-11-18T13:56:33Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/yaieN5nFcl4/maxresdefault.jpg"
+    },
+    {
+      "videoId": "AbWbxAlS1no",
+      "title": "ACS 2026 冬季季後賽 DAY1 - 2026/11/18《Garena 傳說對決》",
+      "title_original": "ACS 2026 冬季季後賽 DAY1 - 2026/11/18《Garena 傳說對決》",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-11-18T13:11:19Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/AbWbxAlS1no/maxresdefault.jpg"
+    },
+    {
       "videoId": "dpsMAQZi-9M",
       "title": "⚡HIỆU ỨNG CHIÊU THỨC | BOLT BARON CHÚA TỂ SẤM SÉT ⚡ - Garena Liên Quân Mobile",
       "title_original": "⚡HIỆU ỨNG CHIÊU THỨC | BOLT BARON CHÚA TỂ SẤM SÉT ⚡ - Garena Liên Quân Mobile",
@@ -175,17 +208,6 @@
       "source": "youtube",
       "publishedAt": "2026-11-17T15:28:18Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/gO3-Lg_vgF0/maxresdefault.jpg"
-    },
-    {
-      "videoId": "AbWbxAlS1no",
-      "title": "ACS 2026 冬季季後賽 DAY1 - 2026/11/18《Garena 傳說對決》",
-      "title_original": "ACS 2026 冬季季後賽 DAY1 - 2026/11/18《Garena 傳說對決》",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-11-17T15:01:50Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/AbWbxAlS1no/maxresdefault.jpg"
     },
     {
       "videoId": "fZcOxQEJjOQ",
@@ -2177,28 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-11-03T00:45:44Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/rtb1EPnSh_Y/maxresdefault.jpg"
-    },
-    {
-      "videoId": "gKIw-2TTUUc",
-      "title": "🔴 TRỰC TIẾP: ĐNG vs TPHCM | CT vs TBD | PLAYOFFS 02/11 | TỨ PHƯƠNG ĐẠI CHIẾN 26+",
-      "title_original": "🔴 TRỰC TIẾP: ĐNG vs TPHCM | CT vs TBD | PLAYOFFS 02/11 | TỨ PHƯƠNG ĐẠI CHIẾN 26+",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-11-02T15:12:10Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/gKIw-2TTUUc/maxresdefault.jpg"
-    },
-    {
-      "videoId": "fRu78QjT9_o",
-      "title": "Erin Thách Bước Qua Xác… Địch Làm Thật MÀ VẪN CHƯA XONG?!",
-      "title_original": "Erin Thách Bước Qua Xác… Địch Làm Thật MÀ VẪN CHƯA XONG?!",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-11-02T13:53:18Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/fRu78QjT9_o/maxresdefault.jpg"
     }
   ]
 }
