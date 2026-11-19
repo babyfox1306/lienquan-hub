@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "fFpALNOej7Q",
+      "title": "Liên Quân 15 Chỉnh Sửa Tướng PHIÊN BẢN MỚI: Nakroth,Lữ Bố, Triệu Vân...Tăng Và Giảm Tại MCTN | TNG",
+      "title_original": "Liên Quân 15 Chỉnh Sửa Tướng PHIÊN BẢN MỚI: Nakroth,Lữ Bố, Triệu Vân...Tăng Và Giảm Tại MCTN | TNG",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-11-19T03:00:40Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/fFpALNOej7Q/maxresdefault.jpg"
+    },
+    {
       "videoId": "I6gtlE7BDfs",
       "title": "LAI BÂNG + NGÂN BUTTER",
       "title_original": "LAI BÂNG + NGÂN BUTTER",
@@ -2188,17 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-11-03T03:00:40Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/gRfORa175bU/maxresdefault.jpg"
-    },
-    {
-      "videoId": "rtb1EPnSh_Y",
-      "title": "Sức Mạnh Thật Sự Của Bolt Baron × Veldora: Đẹp Là Một Chuyện, Đánh Còn...",
-      "title_original": "Sức Mạnh Thật Sự Của Bolt Baron × Veldora: Đẹp Là Một Chuyện, Đánh Còn...",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-11-03T00:45:44Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/rtb1EPnSh_Y/maxresdefault.jpg"
     }
   ]
 }
