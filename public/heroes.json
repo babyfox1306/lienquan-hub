@@ -370,9 +370,9 @@
         "Alice"
       ],
       "tier": "S",
-      "tier_reason": "Được gán từ dữ liệu hạt giống (Seed S-Tier) do ít video mới (Hot Count: 1)",
+      "tier_reason": "Được gán từ dữ liệu hạt giống (Seed S-Tier) do ít video mới (Hot Count: 0)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/1/1f/Hayate_profile.jpg/revision/latest/scale-to-width-down/500?cb=20200531224525",
       "related_videos": [
         "txV1D3eHwmw",
@@ -1405,9 +1405,7 @@
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/f/f0/Valhein_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260124103241",
-      "related_videos": [
-        "ibzj6bfL1GQ"
-      ]
+      "related_videos": []
     },
     {
       "id": "lubu",
@@ -2875,17 +2873,17 @@
       "counters": [],
       "synergies": [],
       "tier": "S",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 7, Score: 3)",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 8, Score: 3)",
       "hot": true,
-      "hot_count": 7,
+      "hot_count": 8,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/c/ca/Butterfly_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125083110",
       "related_videos": [
+        "1tg4fGxm2Cc",
         "J9sUIkdxaRc",
         "uIkJ1ngR6z4",
         "N_V-fmpCkUk",
         "-VldncXlpQ8",
-        "wmx408xXta0",
-        "cbdtITW49Dc"
+        "wmx408xXta0"
       ]
     },
     {
@@ -4459,9 +4457,7 @@
       "related_videos": [
         "4GTIvxZJT80",
         "Gc2At_FWYqM",
-        "M681HXeATdA",
-        "LP7r5JUIabQ",
-        "Z482lDP_H2s"
+        "M681HXeATdA"
       ]
     },
     {
@@ -4850,11 +4846,13 @@
       "counters": [],
       "synergies": [],
       "tier": "B",
-      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
-      "hot_count": 0,
+      "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/5/5c/Yorn_1.jpg/revision/latest/scale-to-width-down/500?cb=20171102213743",
-      "related_videos": []
+      "related_videos": [
+        "vtk883wTZvU"
+      ]
     },
     {
       "id": "zanis",
@@ -4944,5 +4942,5 @@
       ]
     }
   ],
-  "updated_at": "2026-11-20T11:12:36Z"
+  "updated_at": "2026-11-20T19:53:00Z"
 }
