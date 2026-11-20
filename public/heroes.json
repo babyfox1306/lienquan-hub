@@ -695,11 +695,12 @@
         "Natalya"
       ],
       "tier": "A",
-      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 1)",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 2)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 2,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/e/eb/Grakk_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125085118",
       "related_videos": [
+        "XdFycZVUCyo",
         "Jx1Jc67tlpA"
       ]
     },
@@ -1728,7 +1729,7 @@
       "tier": "B",
       "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/f/f9/Arduin_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125053226",
       "related_videos": [
         "-yezaIN5BEY"
@@ -2874,17 +2875,17 @@
       "counters": [],
       "synergies": [],
       "tier": "S",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 7, Score: 4)",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 7, Score: 3)",
       "hot": true,
       "hot_count": 7,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/c/ca/Butterfly_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125083110",
       "related_videos": [
+        "J9sUIkdxaRc",
         "uIkJ1ngR6z4",
         "N_V-fmpCkUk",
         "-VldncXlpQ8",
         "wmx408xXta0",
-        "cbdtITW49Dc",
-        "1rPVWBJDn5s"
+        "cbdtITW49Dc"
       ]
     },
     {
@@ -3390,9 +3391,9 @@
       "counters": [],
       "synergies": [],
       "tier": "A",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 3, Score: 2)",
-      "hot": true,
-      "hot_count": 3,
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 2)",
+      "hot": false,
+      "hot_count": 2,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/5/56/Fennik_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125054758",
       "related_videos": [
         "uIkJ1ngR6z4",
@@ -4014,8 +4015,8 @@
       },
       "counters": [],
       "synergies": [],
-      "tier": "C",
-      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: -1)",
+      "tier": "B",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/b/b9/Preyta_rework.jpeg/revision/latest/scale-to-width-down/500?cb=20261018154748",
@@ -4943,5 +4944,5 @@
       ]
     }
   ],
-  "updated_at": "2026-11-20T02:57:15Z"
+  "updated_at": "2026-11-20T11:12:36Z"
 }
