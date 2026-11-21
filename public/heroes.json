@@ -695,9 +695,9 @@
         "Natalya"
       ],
       "tier": "A",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 2)",
+      "tier_reason": "Xuất hiện 2 lần trong video/tin tức 14 ngày qua (Score: 2)",
       "hot": false,
-      "hot_count": 2,
+      "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/e/eb/Grakk_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125085118",
       "related_videos": [
         "XdFycZVUCyo",
@@ -1401,12 +1401,14 @@
         "Alice",
         "Thane"
       ],
-      "tier": "B",
-      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier": "A",
+      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 1)",
       "hot": false,
-      "hot_count": 0,
+      "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/f/f0/Valhein_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260124103241",
-      "related_videos": []
+      "related_videos": [
+        "z9FSCwje-ro"
+      ]
     },
     {
       "id": "lubu",
@@ -2876,17 +2878,17 @@
       "counters": [],
       "synergies": [],
       "tier": "S",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 9, Score: 3)",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 10, Score: 4)",
       "hot": true,
-      "hot_count": 9,
+      "hot_count": 10,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/c/ca/Butterfly_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125083110",
       "related_videos": [
+        "AKw8nclCv_0",
         "3MDeh2ERlKo",
         "1tg4fGxm2Cc",
         "J9sUIkdxaRc",
         "uIkJ1ngR6z4",
-        "N_V-fmpCkUk",
-        "-VldncXlpQ8"
+        "N_V-fmpCkUk"
       ]
     },
     {
@@ -3310,11 +3312,12 @@
       "counters": [],
       "synergies": [],
       "tier": "A",
-      "tier_reason": "Xuất hiện 3 lần trong video/tin tức 14 ngày qua (Score: 1)",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 2)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 2,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/5/54/Erin_noi_tai.png/revision/latest?cb=20240411130433",
       "related_videos": [
+        "z9FSCwje-ro",
         "lFJVP2x0NcE",
         "3N5lLGbVA3Q",
         "hoUwhNQMv3E"
@@ -3517,8 +3520,7 @@
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/5/5a/Iggy_Splash_Art.png/revision/latest/scale-to-width-down/500?cb=20260124105617",
       "related_videos": [
-        "qwzB14KAunc",
-        "oEwxMXUAgFU"
+        "qwzB14KAunc"
       ]
     },
     {
@@ -4898,8 +4900,7 @@
       "related_videos": [
         "fFpALNOej7Q",
         "FTrwMy-NkQ4",
-        "nfeNVhP2Uis",
-        "XOhSXOQ6UXI"
+        "nfeNVhP2Uis"
       ]
     },
     {
@@ -4945,5 +4946,5 @@
       ]
     }
   ],
-  "updated_at": "2026-11-21T09:30:09Z"
+  "updated_at": "2026-11-21T17:16:44Z"
 }
