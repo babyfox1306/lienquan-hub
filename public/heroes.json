@@ -1255,9 +1255,9 @@
         "Nakroth"
       ],
       "tier": "A",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 2)",
+      "tier_reason": "Xuất hiện 4 lần trong video/tin tức 14 ngày qua (Score: 2)",
       "hot": false,
-      "hot_count": 2,
+      "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/d/d4/Liliana_Default.jpg/revision/latest/scale-to-width-down/500?cb=20180331134150",
       "related_videos": [
         "UBgP1sfFnLM",
@@ -2879,17 +2879,17 @@
       "counters": [],
       "synergies": [],
       "tier": "S",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 11, Score: 4)",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 12, Score: 4)",
       "hot": true,
-      "hot_count": 11,
+      "hot_count": 12,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/c/ca/Butterfly_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125083110",
       "related_videos": [
+        "a-zQP9tlhew",
         "j7sDWhjQsko",
         "AKw8nclCv_0",
         "3MDeh2ERlKo",
         "1tg4fGxm2Cc",
-        "J9sUIkdxaRc",
-        "uIkJ1ngR6z4"
+        "J9sUIkdxaRc"
       ]
     },
     {
@@ -4024,9 +4024,7 @@
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/b/b9/Preyta_rework.jpeg/revision/latest/scale-to-width-down/500?cb=20261018154748",
-      "related_videos": [
-        "fU8POaxq4dg"
-      ]
+      "related_videos": []
     },
     {
       "id": "quillen",
@@ -4216,8 +4214,8 @@
       },
       "counters": [],
       "synergies": [],
-      "tier": "A",
-      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 1)",
+      "tier": "B",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/f/f2/Ryoma_Gunslinger.png/revision/latest/scale-to-width-down/500?cb=20180313083407",
@@ -4459,11 +4457,10 @@
       "tier": "A",
       "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 1)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/b/b1/Tachi_Splash_Art.jpeg/revision/latest/scale-to-width-down/500?cb=20211002035107",
       "related_videos": [
-        "4GTIvxZJT80",
-        "Gc2At_FWYqM"
+        "4GTIvxZJT80"
       ]
     },
     {
@@ -4946,5 +4943,5 @@
       ]
     }
   ],
-  "updated_at": "2026-11-22T03:00:21Z"
+  "updated_at": "2026-11-22T11:05:27Z"
 }
