@@ -39,9 +39,9 @@
         "Krixi"
       ],
       "tier": "B",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 3, Score: 0)",
-      "hot": true,
-      "hot_count": 3,
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 0)",
+      "hot": false,
+      "hot_count": 2,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/3/3f/Nakroth_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20201224121203",
       "related_videos": [
         "CZ0Xdtdxwnc",
@@ -1353,11 +1353,12 @@
         "Mina"
       ],
       "tier": "B",
-      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 0)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 2,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/0/06/Elsu_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125051727",
       "related_videos": [
+        "y7RCuoGizg4",
         "RbiFl_V4ztA",
         "7kCRgqFtssA"
       ]
@@ -2878,17 +2879,17 @@
       "counters": [],
       "synergies": [],
       "tier": "S",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 10, Score: 4)",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 11, Score: 4)",
       "hot": true,
-      "hot_count": 10,
+      "hot_count": 11,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/c/ca/Butterfly_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125083110",
       "related_videos": [
+        "j7sDWhjQsko",
         "AKw8nclCv_0",
         "3MDeh2ERlKo",
         "1tg4fGxm2Cc",
         "J9sUIkdxaRc",
-        "uIkJ1ngR6z4",
-        "N_V-fmpCkUk"
+        "uIkJ1ngR6z4"
       ]
     },
     {
@@ -4462,8 +4463,7 @@
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/b/b1/Tachi_Splash_Art.jpeg/revision/latest/scale-to-width-down/500?cb=20211002035107",
       "related_videos": [
         "4GTIvxZJT80",
-        "Gc2At_FWYqM",
-        "M681HXeATdA"
+        "Gc2At_FWYqM"
       ]
     },
     {
@@ -4613,7 +4613,7 @@
       "counters": [],
       "synergies": [],
       "tier": "B",
-      "tier_reason": "Xuất hiện 2 lần trong video/tin tức 14 ngày qua (Score: 0)",
+      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
       "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/3/35/Veera_profile.png/revision/latest/scale-to-width-down/500?cb=20170525133701",
@@ -4946,5 +4946,5 @@
       ]
     }
   ],
-  "updated_at": "2026-11-21T22:59:35Z"
+  "updated_at": "2026-11-22T03:00:21Z"
 }
