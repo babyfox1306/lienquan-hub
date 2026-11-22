@@ -1,6 +1,28 @@
 {
   "videos": [
     {
+      "videoId": "4BxCHm7TkB0",
+      "title": "Cang Roi team 5",
+      "title_original": "Cang Roi team 5",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-11-22T18:33:16Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/4BxCHm7TkB0/maxresdefault.jpg"
+    },
+    {
+      "videoId": "1LYhQtMDwlE",
+      "title": "ANH BA QUẾ",
+      "title_original": "ANH BA QUẾ",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-11-22T17:15:16Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/1LYhQtMDwlE/maxresdefault.jpg"
+    },
+    {
       "videoId": "XeTuCjCL6Wk",
       "title": "ACS 2026 冬季準決暨冠軍賽- 2026/11/22《Garena 傳說對決》",
       "title_original": "ACS 2026 冬季準決暨冠軍賽- 2026/11/22《Garena 傳說對決》",
@@ -2177,28 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-11-06T11:46:13Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/2RznKKxSF2E/maxresdefault.jpg"
-    },
-    {
-      "videoId": "hyj8iFD2TK4",
-      "title": "SN KHU CA THP K  SN SNG!",
-      "title_original": "SN KHU CA THP K  SN SNG!",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-11-06T11:05:38Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/hyj8iFD2TK4/maxresdefault.jpg"
-    },
-    {
-      "videoId": "N5289OCRO6s",
-      "title": "VUX BẤT NGỜ GẶP TRẺ TRÂU 2K15 TRÊN RANK ĐẠI CAO THỦ ĐẦY BẤT ỔN",
-      "title_original": "VUX BẤT NGỜ GẶP TRẺ TRÂU 2K15 TRÊN RANK ĐẠI CAO THỦ ĐẦY BẤT ỔN",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-11-06T10:29:11Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/N5289OCRO6s/maxresdefault.jpg"
     }
   ]
 }
