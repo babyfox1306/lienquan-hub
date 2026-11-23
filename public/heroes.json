@@ -90,11 +90,12 @@
         "Gildur"
       ],
       "tier": "A",
-      "tier_reason": "Được gán từ dữ liệu hạt giống (Seed A-Tier) do ít video mới (Hot Count: 1)",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 1)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 2,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/5/5e/Murad_Outlaw.png/revision/latest/scale-to-width-down/500?cb=20180317082415",
       "related_videos": [
+        "kSSRRP6oCfU",
         "oOWQnqdNhyI",
         "3UqgCw8wUkg"
       ]
@@ -3396,11 +3397,12 @@
       "counters": [],
       "synergies": [],
       "tier": "A",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 2)",
-      "hot": false,
-      "hot_count": 2,
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 3, Score: 2)",
+      "hot": true,
+      "hot_count": 3,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/5/56/Fennik_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125054758",
       "related_videos": [
+        "9FaEc1j95A4",
         "uIkJ1ngR6z4",
         "mN7sZgsil-E",
         "-yezaIN5BEY"
@@ -4943,5 +4945,5 @@
       ]
     }
   ],
-  "updated_at": "2026-11-23T00:44:14Z"
+  "updated_at": "2026-11-23T08:48:44Z"
 }
