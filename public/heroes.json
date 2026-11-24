@@ -281,8 +281,7 @@
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/5/5a/Yena_profile.jpg/revision/latest/scale-to-width-down/500?cb=20200531224619",
       "related_videos": [
-        "2TdnDOF7zr8",
-        "nfeNVhP2Uis"
+        "2TdnDOF7zr8"
       ]
     },
     {
@@ -1354,9 +1353,9 @@
         "Mina"
       ],
       "tier": "B",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 0)",
+      "tier_reason": "Xuất hiện 2 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
-      "hot_count": 2,
+      "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/0/06/Elsu_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125051727",
       "related_videos": [
         "y7RCuoGizg4",
@@ -1498,8 +1497,8 @@
         "Thane",
         "Krixi"
       ],
-      "tier": "A",
-      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 1)",
+      "tier": "B",
+      "tier_reason": "Xuất hiện 0 lần trong video/tin tức 14 ngày qua (Score: 0)",
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/8/84/Veres_profile.jpg/revision/latest/scale-to-width-down/500?cb=20200603115909",
@@ -2341,8 +2340,7 @@
       "related_videos": [
         "R4Q6L8Mu7dE",
         "wk6pPx3LVzY",
-        "4ZrUK0lkyU8",
-        "RK5Nd2fqjx8"
+        "4ZrUK0lkyU8"
       ]
     },
     {
@@ -4101,9 +4099,7 @@
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/b/bd/Rouie_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125043435",
-      "related_videos": [
-        "nfeNVhP2Uis"
-      ]
+      "related_videos": []
     },
     {
       "id": "rourke",
@@ -4617,8 +4613,7 @@
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/3/35/Veera_profile.png/revision/latest/scale-to-width-down/500?cb=20170525133701",
       "related_videos": [
         "pmxiUsY7iNY",
-        "4ZrUK0lkyU8",
-        "RK5Nd2fqjx8"
+        "4ZrUK0lkyU8"
       ]
     },
     {
@@ -4891,14 +4886,13 @@
       "counters": [],
       "synergies": [],
       "tier": "A",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 2, Score: 1)",
+      "tier_reason": "Xuất hiện 2 lần trong video/tin tức 14 ngày qua (Score: 1)",
       "hot": false,
-      "hot_count": 2,
+      "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/7/75/Zanis_profile.png/revision/latest/scale-to-width-down/500?cb=20170525133445",
       "related_videos": [
         "fFpALNOej7Q",
-        "FTrwMy-NkQ4",
-        "nfeNVhP2Uis"
+        "FTrwMy-NkQ4"
       ]
     },
     {
@@ -4944,5 +4938,5 @@
       ]
     }
   ],
-  "updated_at": "2026-11-23T21:05:05Z"
+  "updated_at": "2026-11-24T05:51:22Z"
 }
