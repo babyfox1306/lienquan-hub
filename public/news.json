@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-11-25T02:09:05.270119",
+  "last_updated": "2026-11-25T12:27:13.638631",
   "total_news": 100,
   "news": [
+    {
+      "id": "f0fdf82f33aa",
+      "title": "ĐIỀU CHỈNH GIỮA MÙA PB VẾT NỨT THỜI KHÔNG – 26.11.2026",
+      "link": "https://lienquan.garena.vn/dieu-chinh-giua-mua-pb-vet-nut-thoi-khong-26-11-2026/",
+      "summary": "<p>Xin chào các Kiện Tướng, Liên Quân Mobile sẽ tiến hành cập nhật không gián đoạn cho máy chủ chính thức vào ngày 26/11/2026. Trong thời gian quy định, các Kiện tướng có thể tự chọn thời điểm [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/dieu-chinh-giua-mua-pb-vet-nut-thoi-khong-26-11-2026/\">ĐIỀU CHỈNH GIỮA MÙA PB VẾT NỨT THỜI KHÔNG – 26.11.2026</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2026/11/IMG-HOR-0860x0400-119044-1.png",
+      "source": "Liên Quân Mobile Official",
+      "source_url": "https://lienquan.garena.vn/rss",
+      "published_at": "2026-11-25T07:52:58Z",
+      "crawled_at": "2026-11-25T12:26:49.039754",
+      "category": "tướng",
+      "priority": 1
+    },
     {
       "id": "4567ad62db95",
       "title": "ĐIỀU CHỈNH GIỮA MÙA PB VẾT NỨT THỜI KHÔNG – 17.11.2026",
@@ -1287,19 +1300,6 @@
       "published_at": "2026-04-23T03:55:14Z",
       "crawled_at": "2026-04-23T04:07:13.580975",
       "category": "tin tức",
-      "priority": 1
-    },
-    {
-      "id": "bf3bdfb195d8",
-      "title": "PHÁT ĐỘNG ĐUA TOP COMMUNITY LEADER LIÊN QUÂN QUÝ II 2026 (01/04 – 30/06)",
-      "link": "https://lienquan.garena.vn/phat-dong-dua-top-community-leader-lien-quan-quy-ii-2026-01-04-30-06/",
-      "summary": "<p>Xin chào các Kiện tướng,  Tiếp nối thành công của cuộc đua Top Leader Quý I. Hội đồng Liên Quân chính thức phát động cuộc thi “Đua Top Community Leader Tổ Chức Sự Kiện Cộng [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/phat-dong-dua-top-community-leader-lien-quan-quy-ii-2026-01-04-30-06/\">PHÁT ĐỘNG ĐUA TOP COMMUNITY LEADER LIÊN QUÂN QUÝ II 2026 (01/04 &#8211; 30/06)</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
-      "image_url": "https://picsum.photos/seed/https://lienquan.garena.vn/phat-dong-dua-top-community-leader-lien-quan-quy-ii-2026-01-04-30-06//400/225",
-      "source": "Liên Quân Mobile Official",
-      "source_url": "https://lienquan.garena.vn/rss",
-      "published_at": "2026-04-22T10:20:18Z",
-      "crawled_at": "2026-04-22T10:26:16.357161",
-      "category": "tướng",
       "priority": 1
     }
   ]
