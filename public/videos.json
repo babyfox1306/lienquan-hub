@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "BRe94i2ogUQ",
+      "title": "Cang Roi team 5",
+      "title_original": "Cang Roi team 5",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-11-25T17:39:49Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/BRe94i2ogUQ/maxresdefault.jpg"
+    },
+    {
       "videoId": "QhAOqxMmfeg",
       "title": "RANK WITH NGÂN BUTTER I",
       "title_original": "RANK WITH NGÂN BUTTER I",
@@ -8,8 +19,30 @@
       "country": "VN",
       "lang_original": "vi",
       "source": "youtube",
-      "publishedAt": "2026-11-25T12:10:56Z",
+      "publishedAt": "2026-11-25T17:21:55Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/QhAOqxMmfeg/maxresdefault.jpg"
+    },
+    {
+      "videoId": "dPw3V5UPmvg",
+      "title": "TOP 5 Sai Lầm Khiến Butterfly Vẫn PHẾ Dù Vừa Được BUFF | Meta S4 2026 – Tứ Tin Meta",
+      "title_original": "TOP 5 Sai Lầm Khiến Butterfly Vẫn PHẾ Dù Vừa Được BUFF | Meta S4 2026 – Tứ Tin Meta",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-11-25T13:02:14Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/dPw3V5UPmvg/maxresdefault.jpg"
+    },
+    {
+      "videoId": "FNCzxdcdGbg",
+      "title": "🍜 HIỆU ỨNG CHIÊU THỨC | VALHEIN CHIẾN THẦN ẨM THỰC 🍜 - Garena Liên Quân Mobile",
+      "title_original": "🍜 HIỆU ỨNG CHIÊU THỨC | VALHEIN CHIẾN THẦN ẨM THỰC 🍜 - Garena Liên Quân Mobile",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-11-25T13:00:39Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/FNCzxdcdGbg/maxresdefault.jpg"
     },
     {
       "videoId": "oIl1Xj5VON0",
@@ -222,8 +255,8 @@
     },
     {
       "videoId": "aYygkQEB2M4",
-      "title": "【AIC2026】AIC 2026 片頭",
-      "title_original": "【AIC2026】AIC 2026 片頭",
+      "title": "【預告片】AIC2026 傳說之樹 | E.P.I.C,生生不息《Garena 傳說對決》",
+      "title_original": "【預告片】AIC2026 傳說之樹 | E.P.I.C,生生不息《Garena 傳說對決》",
       "translated": false,
       "country": "VN",
       "lang_original": "vi",
@@ -2166,39 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-11-09T08:07:23Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/4TLlurs6n9s/maxresdefault.jpg"
-    },
-    {
-      "videoId": "Ew5tKd-pfEU",
-      "title": "Cch Liliana co king kong 3 giy lt ko trn u gn 30p y b kh | Icyfoxx",
-      "title_original": "Cch Liliana co king kong 3 giy lt ko trn u gn 30p y b kh | Icyfoxx",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-11-09T04:08:04Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/Ew5tKd-pfEU/maxresdefault.jpg"
-    },
-    {
-      "videoId": "hoUwhNQMv3E",
-      "title": "Liên Quân 8 Chỉnh Sửa Tướng, Review Phiên Bản Mới: Tamyn, Astrid, Erin... Thực Tế KO Chém Gió | TNG",
-      "title_original": "Liên Quân 8 Chỉnh Sửa Tướng, Review Phiên Bản Mới: Tamyn, Astrid, Erin... Thực Tế KO Chém Gió | TNG",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-11-09T03:36:53Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/hoUwhNQMv3E/maxresdefault.jpg"
-    },
-    {
-      "videoId": "Wy8Lb3OM-uY",
-      "title": "team 5 giai tri",
-      "title_original": "team 5 giai tri",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-11-08T18:58:41Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/Wy8Lb3OM-uY/maxresdefault.jpg"
     }
   ]
 }
