@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "videoId": "VghUi0ltro0",
+      "title": "Ít Ai Biết Cách Đánh Raz Này: 1 Bụi Cỏ, 1 Combo, Bay Ngay Chủ Lực Địch!",
+      "title_original": "Ít Ai Biết Cách Đánh Raz Này: 1 Bụi Cỏ, 1 Combo, Bay Ngay Chủ Lực Địch!",
+      "translated": false,
+      "country": "VN",
+      "lang_original": "vi",
+      "source": "youtube",
+      "publishedAt": "2026-11-28T01:05:41Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/VghUi0ltro0/maxresdefault.jpg"
+    },
+    {
       "videoId": "GCGOqbN51Qc",
       "title": "LUẬN BÀN: SWISS STAGE AIC 2026 - VỊT RẤT NGÔNG, SGP BOX GẶP KÈO KHÊ? | BLV NAMSENSEI",
       "title_original": "LUẬN BÀN: SWISS STAGE AIC 2026 - VỊT RẤT NGÔNG, SGP BOX GẶP KÈO KHÊ? | BLV NAMSENSEI",
@@ -2188,17 +2199,6 @@
       "source": "youtube",
       "publishedAt": "2026-11-11T06:52:18Z",
       "thumbnailUrl": "https://i.ytimg.com/vi/WFd6Qsui6VA/maxresdefault.jpg"
-    },
-    {
-      "videoId": "JguP9zo4YPU",
-      "title": "คุยกับ🐰eArena แชมป์ทัวร์หญิง Miss RoV Tournament 2026 สมัยที่ 2 และคว้า Grand Slam หญิงทีมแรก!",
-      "title_original": "คุยกับ🐰eArena แชมป์ทัวร์หญิง Miss RoV Tournament 2026 สมัยที่ 2 และคว้า Grand Slam หญิงทีมแรก!",
-      "translated": false,
-      "country": "VN",
-      "lang_original": "vi",
-      "source": "youtube",
-      "publishedAt": "2026-11-11T05:00:04Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/JguP9zo4YPU/maxresdefault.jpg"
     }
   ]
 }

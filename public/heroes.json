@@ -2337,11 +2337,12 @@
         "Nakroth"
       ],
       "tier": "A",
-      "tier_reason": "Xuất hiện 2 lần trong video/tin tức 14 ngày qua (Score: 1)",
+      "tier_reason": "Xuất hiện 3 lần trong video/tin tức 14 ngày qua (Score: 1)",
       "hot": false,
-      "hot_count": 0,
+      "hot_count": 1,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/a/a3/Raz_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125091551",
       "related_videos": [
+        "VghUi0ltro0",
         "R4Q6L8Mu7dE",
         "wk6pPx3LVzY"
       ]
@@ -4946,5 +4947,5 @@
       "related_videos": []
     }
   ],
-  "updated_at": "2026-11-27T18:01:33Z"
+  "updated_at": "2026-11-28T01:25:49Z"
 }
