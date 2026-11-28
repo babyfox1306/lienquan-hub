@@ -698,7 +698,7 @@
         "Natalya"
       ],
       "tier": "A",
-      "tier_reason": "Xuất hiện 2 lần trong video/tin tức 14 ngày qua (Score: 2)",
+      "tier_reason": "Xuất hiện 1 lần trong video/tin tức 14 ngày qua (Score: 1)",
       "hot": false,
       "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/e/eb/Grakk_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125085118",
@@ -1406,9 +1406,9 @@
         "Thane"
       ],
       "tier": "A",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 4, Score: 1)",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 3, Score: 1)",
       "hot": true,
-      "hot_count": 4,
+      "hot_count": 3,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/f/f0/Valhein_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260124103241",
       "related_videos": [
         "f8U-eIT3Z5Q",
@@ -3324,7 +3324,7 @@
       "tier": "A",
       "tier_reason": "Xuất hiện 2 lần trong video/tin tức 14 ngày qua (Score: 2)",
       "hot": false,
-      "hot_count": 1,
+      "hot_count": 0,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/5/54/Erin_noi_tai.png/revision/latest?cb=20240411130433",
       "related_videos": [
         "z9FSCwje-ro",
@@ -3403,17 +3403,17 @@
       "counters": [],
       "synergies": [],
       "tier": "S",
-      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 3, Score: 3)",
+      "tier_reason": "Xuất hiện nhiều trong video/tin tức (Hot Count: 4, Score: 4)",
       "hot": true,
-      "hot_count": 3,
+      "hot_count": 4,
       "thumbnail": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/5/56/Fennik_Splash_Art.jpg/revision/latest/scale-to-width-down/500?cb=20260125054758",
       "related_videos": [
+        "ZKdQrtu1kVQ",
         "4C-ANvzk0vY",
         "AUTE3g6KewY",
         "9FaEc1j95A4",
         "uIkJ1ngR6z4",
-        "mN7sZgsil-E",
-        "-yezaIN5BEY"
+        "mN7sZgsil-E"
       ]
     },
     {
@@ -4950,5 +4950,5 @@
       "related_videos": []
     }
   ],
-  "updated_at": "2026-11-28T10:03:11Z"
+  "updated_at": "2026-11-28T18:46:47Z"
 }
